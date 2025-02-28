@@ -1,11 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\build",
-    "\\build\\contracts",
-    "\\contracts",
-    "\\migrations"
+    "\\AuthProofGen",
+    "\\old_test"
   ],
-  "SelectedNode": "\\app.js",
+  "SelectedNode": "\\AuthProofGen\\auth_proof_gen.py",
   "PreviewInSolutionExplorer": false
 }
