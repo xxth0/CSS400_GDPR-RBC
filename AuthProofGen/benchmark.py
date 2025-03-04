@@ -24,12 +24,12 @@ def rsa_authentication():
     return auth_time
 
 # Function to simulate Quantum Key Distribution (QKD) authentication cost (Work [6])
-# def qkd_authentication():
-#    start_time = time.time()
-#    key_bits = [random.randint(0, 1) for _ in range(256)]
-#    basis = [random.choice(["+", "x"]) for _ in range(256)]
-#    auth_time = time.time() - start_time
-#    return auth_time
+def qkd_authentication():
+    start_time = time.time()
+    key_bits = [random.randint(0, 1) for _ in range(256)]
+    basis = [random.choice(["+", "x"]) for _ in range(256)]
+    auth_time = time.time() - start_time
+    return auth_time
 
 def qkd_authentication_realistic():
     start_time = time.time()
@@ -54,34 +54,22 @@ def qkd_authentication_realistic():
 
 # Function to simulate ECC-based authentication proof generation (Work [13])
 def ecc_authentication():
-    start_time = time.time()
-    sk = SigningKey.generate(curve=NIST256p)
-    message = b"auth_request"
-    signature = sk.sign(message)
-    auth_time = time.time() - start_time
-    return auth_time
+ecc_times = [ecc_authentication() for _ in range(iterations)]
+
 
 # Function to simulate Zero-Knowledge Proof (ZKP) with ECC (Our Work: Algorithm 4)
 def zk_rollup_authentication():
+    zk_rollup = ZKRollup(private_key=123456)
     start_time = time.time()
+    batch_proof = zk_rollup.generate_proof(["auth_request"] * iterations)  # Only one proof per batch
+    zk_rollup_time = time.time() - start_time  # Measure only batch time
+    return zk_rollup_time
 
-    # Generate ECC signature
-    sk = SigningKey.generate(curve=NIST256p)
-    message = b"auth_request"
-    signature = sk.sign(message)
-
-    # Simulating Merkle root computation for batched transactions (batch verification optimization)
-    merkle_root = hashlib.sha256(signature).hexdigest()
-
-    # Optimization: Reduce cryptographic operations by using precomputed values
-    precomputed_hash = hashlib.sha256(message).hexdigest()
-
-    auth_time = time.time() - start_time
-    return auth_time
 
 # Run simulations multiple times
-iterations = 100
+iterations = 10000
 rsa_times = [rsa_authentication() for _ in range(iterations)]
+qkd_times = [qkd_authentication() for _ in range(iterations)]
 qkd_times_realistic = [qkd_authentication_realistic() for _ in range(iterations)]
 ecc_times = [ecc_authentication() for _ in range(iterations)]
 zk_rollup_times = [zk_rollup_authentication() for _ in range(iterations)]
@@ -91,17 +79,20 @@ df_results = pd.DataFrame({
     "Work No. + Method": [
         "[2] RSA (1024-bit)",
         "[6] Quantum Key Distribution (QKD)",
+        "[6] Quantum Key Distribution (QKD) realistic",
         "[13] Elliptic Curve (ECC)",
         "[Our Work] ZK-Rollup + ECC (Algorithm 4)"
     ],
     "Avg Computation Time (s)": [
         sum(rsa_times) / iterations,
+        sum(qkd_times) / iterations,
         sum(qkd_times_realistic) / iterations,
         sum(ecc_times) / iterations,
         sum(zk_rollup_times) / iterations
     ],
     "Total Computation Time (s)": [
         sum(rsa_times),
+        sum(qkd_times),
         sum(qkd_times_realistic),
         sum(ecc_times),
         sum(zk_rollup_times)

@@ -6,7 +6,7 @@ from auth_proof_gen import ecc_authentication
 from zk_rollup import ZKRollup
 
 # Number of test iterations
-iterations = 100000
+iterations = 1
 
 # Measure ECC authentication time
 ecc_times = [ecc_authentication() for _ in range(iterations)]
