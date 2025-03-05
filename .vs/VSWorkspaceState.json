@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\AuthProofGen"
+    "\\AuthProofGen",
+    "\\Redaction"
   ],
-  "SelectedNode": "\\AuthProofGen\\enc-dec_benchmark.py",
+  "SelectedNode": "\\AuthProofGen\\auth_benchmark.py",
   "PreviewInSolutionExplorer": false
 }

@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\AuthProofGen\\enc-dec_benchmark.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthProofGen\\enc-dec_benchmark.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\AuthProofGen\\auth_benchmark.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthProofGen\\auth_benchmark.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\AuthProofGen\\ver_benchmark.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthProofGen\\ver_benchmark.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\AuthProofGen\\auth_proof_gen.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthProofGen\\auth_proof_gen.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\AuthProofGen\\benchmark_13-us.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthProofGen\\benchmark_13-us.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\AuthProofGen\\zk_rollup.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthProofGen\\zk_rollup.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\AuthProofGen\\auth_benchmark_13-us.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthProofGen\\auth_benchmark_13-us.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\Redaction\\cha-comp_benchmark.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Redaction\\cha-comp_benchmark.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\AuthProofGen\\enc-dec_benchmark.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthProofGen\\enc-dec_benchmark.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\AuthProofGen\\benchmark.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthProofGen\\benchmark.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\AuthProofGen\\benchmark_13-us.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthProofGen\\benchmark_13-us.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,33 +50,84 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "enc-dec_benchmark.py",
-              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\AuthProofGen\\enc-dec_benchmark.py",
-              "RelativeDocumentMoniker": "AuthProofGen\\enc-dec_benchmark.py",
-              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\AuthProofGen\\enc-dec_benchmark.py",
-              "RelativeToolTip": "AuthProofGen\\enc-dec_benchmark.py",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAAAAoAAAATAAAA",
+              "DocumentIndex": 2,
+              "Title": "zk_rollup.py",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\AuthProofGen\\zk_rollup.py",
+              "RelativeDocumentMoniker": "AuthProofGen\\zk_rollup.py",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\AuthProofGen\\zk_rollup.py",
+              "RelativeToolTip": "AuthProofGen\\zk_rollup.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-03-01T17:41:15.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ver_benchmark.py",
-              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\AuthProofGen\\ver_benchmark.py",
-              "RelativeDocumentMoniker": "AuthProofGen\\ver_benchmark.py",
-              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\AuthProofGen\\ver_benchmark.py",
-              "RelativeToolTip": "AuthProofGen\\ver_benchmark.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-03-01T16:11:32.1Z",
+              "WhenOpened": "2025-03-05T13:17:44.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "auth_benchmark_13-us.py",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\AuthProofGen\\auth_benchmark_13-us.py",
+              "RelativeDocumentMoniker": "AuthProofGen\\auth_benchmark_13-us.py",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\AuthProofGen\\auth_benchmark_13-us.py",
+              "RelativeToolTip": "AuthProofGen\\auth_benchmark_13-us.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-05T13:16:58.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "auth_benchmark.py",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\AuthProofGen\\auth_benchmark.py",
+              "RelativeDocumentMoniker": "AuthProofGen\\auth_benchmark.py",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\AuthProofGen\\auth_benchmark.py",
+              "RelativeToolTip": "AuthProofGen\\auth_benchmark.py",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAwEEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-05T13:15:56.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "enc-dec_benchmark.py",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\AuthProofGen\\enc-dec_benchmark.py",
+              "RelativeDocumentMoniker": "AuthProofGen\\enc-dec_benchmark.py",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\AuthProofGen\\enc-dec_benchmark.py",
+              "RelativeToolTip": "AuthProofGen\\enc-dec_benchmark.py",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAUwFAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-04T20:05:12.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cha-comp_benchmark.py",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\Redaction\\cha-comp_benchmark.py",
+              "RelativeDocumentMoniker": "Redaction\\cha-comp_benchmark.py",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\Redaction\\cha-comp_benchmark.py",
+              "RelativeToolTip": "Redaction\\cha-comp_benchmark.py",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAwGIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-04T20:01:19.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "auth_proof_gen.py",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\AuthProofGen\\auth_proof_gen.py",
+              "RelativeDocumentMoniker": "AuthProofGen\\auth_proof_gen.py",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\AuthProofGen\\auth_proof_gen.py",
+              "RelativeToolTip": "AuthProofGen\\auth_proof_gen.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-04T19:56:30.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "benchmark.py",
               "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\AuthProofGen\\benchmark.py",
               "RelativeDocumentMoniker": "AuthProofGen\\benchmark.py",
@@ -68,12 +135,11 @@
               "RelativeToolTip": "AuthProofGen\\benchmark.py",
               "ViewState": "AQIAADMAAAAAAAAAAAAAAEEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-03-01T15:34:33.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T15:34:33.612Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "benchmark_13-us.py",
               "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\AuthProofGen\\benchmark_13-us.py",
               "RelativeDocumentMoniker": "AuthProofGen\\benchmark_13-us.py",
@@ -81,8 +147,7 @@
               "RelativeToolTip": "AuthProofGen\\benchmark_13-us.py",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-03-01T15:34:06.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T15:34:06.924Z"
             }
           ]
         }

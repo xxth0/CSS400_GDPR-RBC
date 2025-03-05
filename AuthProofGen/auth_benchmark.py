@@ -52,10 +52,6 @@ def qkd_authentication_realistic():
 
     return auth_time
 
-# Function to simulate ECC-based authentication proof generation (Work [13])
-def ecc_authentication():
-ecc_times = [ecc_authentication() for _ in range(iterations)]
-
 
 # Function to simulate Zero-Knowledge Proof (ZKP) with ECC (Our Work: Algorithm 4)
 def zk_rollup_authentication():
@@ -67,7 +63,7 @@ def zk_rollup_authentication():
 
 
 # Run simulations multiple times
-iterations = 10000
+iterations = 1000
 rsa_times = [rsa_authentication() for _ in range(iterations)]
 qkd_times = [qkd_authentication() for _ in range(iterations)]
 qkd_times_realistic = [qkd_authentication_realistic() for _ in range(iterations)]
