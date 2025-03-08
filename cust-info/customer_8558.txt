@@ -1,0 +1,6 @@
+Customer ID: 8558
+Name: William Scott III
+National ID: 099-29-0736
+Bank: Alexander LLC Bank
+Account Number: 1836069071
+Consent Status: Revoked

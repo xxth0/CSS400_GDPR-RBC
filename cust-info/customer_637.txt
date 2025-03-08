@@ -1,0 +1,6 @@
+Customer ID: 637
+Name: Joseph Diaz
+National ID: 783-68-2977
+Bank: Velasquez, Daniels and Willis Bank
+Account Number: 5007405168
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7878
+Name: Joseph Madden
+National ID: 499-17-2872
+Bank: Price and Sons Bank
+Account Number: 3387336603
+Consent Status: Granted

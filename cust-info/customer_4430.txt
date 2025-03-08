@@ -1,0 +1,6 @@
+Customer ID: 4430
+Name: Marvin Johnson
+National ID: 620-82-0300
+Bank: Davis Inc Bank
+Account Number: 1097203964
+Consent Status: Granted

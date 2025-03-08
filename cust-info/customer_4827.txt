@@ -1,0 +1,6 @@
+Customer ID: 4827
+Name: Blake Rodriguez
+National ID: 552-23-3612
+Bank: Munoz, Hall and Harris Bank
+Account Number: 3979379322
+Consent Status: Granted

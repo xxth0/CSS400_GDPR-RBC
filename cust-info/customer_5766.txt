@@ -1,0 +1,6 @@
+Customer ID: 5766
+Name: Steven Garcia
+National ID: 752-11-5097
+Bank: Gonzalez, Davenport and Bowen Bank
+Account Number: 3023356517
+Consent Status: Revoked

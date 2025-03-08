@@ -1,0 +1,6 @@
+Customer ID: 9628
+Name: Jason Ramirez
+National ID: 246-31-0695
+Bank: Tate, Ali and Stewart Bank
+Account Number: 7807756303
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9383
+Name: Christina Peterson
+National ID: 735-81-7626
+Bank: Petty, Leon and Davis Bank
+Account Number: 1250740247
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8568
+Name: Abigail Leblanc
+National ID: 602-73-7941
+Bank: Simon and Sons Bank
+Account Number: 3244784742
+Consent Status: Revoked

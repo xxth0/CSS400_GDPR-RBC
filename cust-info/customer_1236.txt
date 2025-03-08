@@ -1,0 +1,6 @@
+Customer ID: 1236
+Name: Jodi Hernandez
+National ID: 577-29-4815
+Bank: Obrien Group Bank
+Account Number: 8161849240
+Consent Status: Granted

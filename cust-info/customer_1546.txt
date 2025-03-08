@@ -1,0 +1,6 @@
+Customer ID: 1546
+Name: Allison Martinez
+National ID: 204-71-4198
+Bank: Clark-Jones Bank
+Account Number: 9473346905
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7792
+Name: Lance Townsend
+National ID: 246-25-9416
+Bank: Ramirez, Allen and Dunn Bank
+Account Number: 5903610371
+Consent Status: Granted

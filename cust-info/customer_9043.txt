@@ -1,0 +1,6 @@
+Customer ID: 9043
+Name: Noah Davis
+National ID: 581-64-0668
+Bank: Jensen, Henderson and Conner Bank
+Account Number: 3385670043
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2256
+Name: Andres Shaw
+National ID: 869-84-4375
+Bank: Gray Inc Bank
+Account Number: 7506113492
+Consent Status: Revoked

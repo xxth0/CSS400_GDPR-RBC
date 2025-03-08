@@ -1,0 +1,6 @@
+Customer ID: 9641
+Name: Sarah Davies
+National ID: 510-28-3975
+Bank: Weaver LLC Bank
+Account Number: 8739853724
+Consent Status: Revoked

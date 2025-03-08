@@ -1,0 +1,6 @@
+Customer ID: 2422
+Name: Jamie Garcia MD
+National ID: 328-04-3662
+Bank: Tran, Mclaughlin and Massey Bank
+Account Number: 5165253037
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9007
+Name: Bryan Hall
+National ID: 642-11-5318
+Bank: Levine and Sons Bank
+Account Number: 7842756815
+Consent Status: Revoked

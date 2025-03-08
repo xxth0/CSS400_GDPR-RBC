@@ -1,0 +1,6 @@
+Customer ID: 8168
+Name: Kelly Ray
+National ID: 088-56-6935
+Bank: Clark, Wilson and Adams Bank
+Account Number: 4453974082
+Consent Status: Granted

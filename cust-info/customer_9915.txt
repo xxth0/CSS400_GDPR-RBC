@@ -1,0 +1,6 @@
+Customer ID: 9915
+Name: Crystal Rodriguez
+National ID: 841-57-9341
+Bank: Wilson-Garcia Bank
+Account Number: 9211796568
+Consent Status: Granted

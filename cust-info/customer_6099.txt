@@ -1,0 +1,6 @@
+Customer ID: 6099
+Name: Sarah Russell
+National ID: 105-76-2137
+Bank: Gallegos-Harmon Bank
+Account Number: 2175593287
+Consent Status: Granted

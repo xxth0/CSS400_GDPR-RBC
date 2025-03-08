@@ -1,0 +1,6 @@
+Customer ID: 6093
+Name: Alexander King
+National ID: 400-82-4122
+Bank: Gonzalez-Rhodes Bank
+Account Number: 1142569358
+Consent Status: Revoked

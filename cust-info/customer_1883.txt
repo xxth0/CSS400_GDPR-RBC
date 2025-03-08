@@ -1,0 +1,6 @@
+Customer ID: 1883
+Name: William Pierce
+National ID: 144-14-2417
+Bank: Sanchez, Duncan and Schneider Bank
+Account Number: 6932686081
+Consent Status: Revoked

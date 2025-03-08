@@ -1,0 +1,6 @@
+Customer ID: 3324
+Name: Susan Fitzgerald
+National ID: 671-80-1187
+Bank: Spencer LLC Bank
+Account Number: 3375208011
+Consent Status: Granted

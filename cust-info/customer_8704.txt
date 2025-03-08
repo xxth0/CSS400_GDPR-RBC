@@ -1,0 +1,6 @@
+Customer ID: 8704
+Name: Alexa Morris
+National ID: 623-69-0856
+Bank: Phillips PLC Bank
+Account Number: 3014273555
+Consent Status: Granted

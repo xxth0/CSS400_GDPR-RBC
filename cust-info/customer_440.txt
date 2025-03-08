@@ -1,0 +1,6 @@
+Customer ID: 440
+Name: Jennifer Clark
+National ID: 531-27-6400
+Bank: Howard, Clayton and Gomez Bank
+Account Number: 4334317006
+Consent Status: Granted

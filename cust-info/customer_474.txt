@@ -1,0 +1,6 @@
+Customer ID: 474
+Name: Nicholas Dawson
+National ID: 637-91-9118
+Bank: Hudson and Sons Bank
+Account Number: 6205053978
+Consent Status: Granted

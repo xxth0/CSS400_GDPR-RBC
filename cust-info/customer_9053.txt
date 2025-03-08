@@ -1,0 +1,6 @@
+Customer ID: 9053
+Name: Linda Foster
+National ID: 485-30-1894
+Bank: Lewis-Smith Bank
+Account Number: 9144465010
+Consent Status: Granted

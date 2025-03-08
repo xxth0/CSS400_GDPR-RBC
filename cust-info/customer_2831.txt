@@ -1,0 +1,6 @@
+Customer ID: 2831
+Name: Brian Cole
+National ID: 107-73-6242
+Bank: Mayo LLC Bank
+Account Number: 6969270166
+Consent Status: Revoked

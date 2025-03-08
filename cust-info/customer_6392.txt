@@ -1,0 +1,6 @@
+Customer ID: 6392
+Name: James Beck
+National ID: 850-73-1400
+Bank: Meadows Ltd Bank
+Account Number: 5800597771
+Consent Status: Revoked

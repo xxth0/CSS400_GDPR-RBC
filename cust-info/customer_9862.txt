@@ -1,0 +1,6 @@
+Customer ID: 9862
+Name: Marie Chang
+National ID: 643-75-3383
+Bank: Matthews-Conway Bank
+Account Number: 4121589879
+Consent Status: Granted

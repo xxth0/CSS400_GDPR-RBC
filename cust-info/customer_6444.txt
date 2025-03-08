@@ -1,0 +1,6 @@
+Customer ID: 6444
+Name: William Kaiser
+National ID: 099-41-1854
+Bank: Wall Inc Bank
+Account Number: 5184447328
+Consent Status: Granted

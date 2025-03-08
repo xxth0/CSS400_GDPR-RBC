@@ -1,0 +1,6 @@
+Customer ID: 9341
+Name: Caroline Hogan
+National ID: 362-46-8167
+Bank: Johnson-Curtis Bank
+Account Number: 4291494752
+Consent Status: Granted

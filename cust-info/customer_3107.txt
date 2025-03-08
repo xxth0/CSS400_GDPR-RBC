@@ -1,0 +1,6 @@
+Customer ID: 3107
+Name: Daniel Berry
+National ID: 742-95-5058
+Bank: Greer, Stone and Haynes Bank
+Account Number: 8977592922
+Consent Status: Granted

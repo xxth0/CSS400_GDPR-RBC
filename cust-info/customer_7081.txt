@@ -1,0 +1,6 @@
+Customer ID: 7081
+Name: Cody Long
+National ID: 568-39-6002
+Bank: Mcfarland, Washington and Watkins Bank
+Account Number: 5136219795
+Consent Status: Revoked

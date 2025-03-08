@@ -1,0 +1,6 @@
+Customer ID: 4999
+Name: Brenda Osborn
+National ID: 501-38-7225
+Bank: West Inc Bank
+Account Number: 8957139857
+Consent Status: Revoked

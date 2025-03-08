@@ -1,0 +1,6 @@
+Customer ID: 8973
+Name: Nicole Landry
+National ID: 341-91-1798
+Bank: Brown, Weaver and Martin Bank
+Account Number: 8585603940
+Consent Status: Granted

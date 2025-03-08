@@ -1,0 +1,6 @@
+Customer ID: 6455
+Name: Rachel Beck
+National ID: 128-94-6761
+Bank: Young, Leon and Patton Bank
+Account Number: 9217964439
+Consent Status: Revoked

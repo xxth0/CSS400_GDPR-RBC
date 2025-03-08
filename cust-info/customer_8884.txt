@@ -1,0 +1,6 @@
+Customer ID: 8884
+Name: Julie Ross
+National ID: 830-05-1427
+Bank: Cunningham, Hoffman and Bryant Bank
+Account Number: 2997296122
+Consent Status: Granted

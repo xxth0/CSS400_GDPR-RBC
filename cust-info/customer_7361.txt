@@ -1,0 +1,6 @@
+Customer ID: 7361
+Name: Emily Alexander
+National ID: 803-91-6147
+Bank: Mcbride-Adkins Bank
+Account Number: 5970535685
+Consent Status: Granted

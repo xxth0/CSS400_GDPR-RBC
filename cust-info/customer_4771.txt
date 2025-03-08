@@ -1,0 +1,6 @@
+Customer ID: 4771
+Name: James Shelton
+National ID: 039-04-7297
+Bank: Payne, Pena and Cunningham Bank
+Account Number: 4410489274
+Consent Status: Revoked

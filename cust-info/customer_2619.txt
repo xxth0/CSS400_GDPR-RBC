@@ -1,0 +1,6 @@
+Customer ID: 2619
+Name: Patricia Estrada
+National ID: 256-35-4054
+Bank: Ray-Johnson Bank
+Account Number: 2378622574
+Consent Status: Granted

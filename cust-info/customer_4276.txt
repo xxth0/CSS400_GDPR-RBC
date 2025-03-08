@@ -1,0 +1,6 @@
+Customer ID: 4276
+Name: Aaron Rodriguez
+National ID: 124-69-5692
+Bank: Jones, Orozco and Olsen Bank
+Account Number: 9210276967
+Consent Status: Granted

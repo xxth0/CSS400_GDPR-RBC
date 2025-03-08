@@ -1,0 +1,6 @@
+Customer ID: 8084
+Name: Derrick Brown
+National ID: 080-57-3982
+Bank: Cox-Reed Bank
+Account Number: 6810828830
+Consent Status: Revoked

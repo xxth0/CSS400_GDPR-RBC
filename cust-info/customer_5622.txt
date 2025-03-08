@@ -1,0 +1,6 @@
+Customer ID: 5622
+Name: Robert Noble
+National ID: 533-84-2549
+Bank: Wright-Crawford Bank
+Account Number: 9178087112
+Consent Status: Revoked

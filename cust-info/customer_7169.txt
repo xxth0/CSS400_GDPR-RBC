@@ -1,0 +1,6 @@
+Customer ID: 7169
+Name: Brooke Francis
+National ID: 290-51-6939
+Bank: Ortega Inc Bank
+Account Number: 3209787203
+Consent Status: Revoked

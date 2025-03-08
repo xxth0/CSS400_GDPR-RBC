@@ -1,0 +1,6 @@
+Customer ID: 6761
+Name: Alex Mills
+National ID: 069-40-0958
+Bank: Valdez and Sons Bank
+Account Number: 4794101110
+Consent Status: Revoked

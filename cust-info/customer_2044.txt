@@ -1,0 +1,6 @@
+Customer ID: 2044
+Name: Lisa Raymond
+National ID: 238-48-6498
+Bank: Stone-Sandoval Bank
+Account Number: 8040006722
+Consent Status: Revoked

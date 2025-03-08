@@ -1,0 +1,6 @@
+Customer ID: 6211
+Name: Dylan Moran
+National ID: 026-05-0233
+Bank: Giles, French and Carter Bank
+Account Number: 8041284577
+Consent Status: Granted

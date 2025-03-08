@@ -1,0 +1,6 @@
+Customer ID: 2
+Name: Joseph Molina
+National ID: 059-81-6691
+Bank: Roy LLC Bank
+Account Number: 9396414063
+Consent Status: Granted

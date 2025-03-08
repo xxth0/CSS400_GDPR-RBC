@@ -1,0 +1,6 @@
+Customer ID: 9543
+Name: Steve Gardner
+National ID: 503-78-4551
+Bank: Jackson Inc Bank
+Account Number: 4970701799
+Consent Status: Granted

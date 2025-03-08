@@ -1,0 +1,6 @@
+Customer ID: 1231
+Name: Derek Dodson
+National ID: 383-99-7849
+Bank: Maxwell-Pearson Bank
+Account Number: 8057383373
+Consent Status: Granted

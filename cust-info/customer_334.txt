@@ -1,0 +1,6 @@
+Customer ID: 334
+Name: John Acevedo
+National ID: 264-37-0740
+Bank: Walker LLC Bank
+Account Number: 2304230860
+Consent Status: Granted

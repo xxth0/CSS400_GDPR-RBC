@@ -1,0 +1,6 @@
+Customer ID: 183
+Name: Elizabeth Rogers
+National ID: 402-94-2733
+Bank: Brown-Martin Bank
+Account Number: 7813588384
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 683
+Name: Micheal Smith
+National ID: 362-95-2254
+Bank: Stewart, Rogers and Wilkins Bank
+Account Number: 2762508090
+Consent Status: Granted

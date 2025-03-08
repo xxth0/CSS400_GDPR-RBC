@@ -1,0 +1,6 @@
+Customer ID: 9328
+Name: Timothy Allen
+National ID: 568-51-6933
+Bank: Knox-Shaffer Bank
+Account Number: 3798752911
+Consent Status: Granted

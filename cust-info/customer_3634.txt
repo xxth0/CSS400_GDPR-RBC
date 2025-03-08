@@ -1,0 +1,6 @@
+Customer ID: 3634
+Name: Steve Bautista
+National ID: 536-08-9425
+Bank: Espinoza, Esparza and Alvarez Bank
+Account Number: 1931282807
+Consent Status: Revoked

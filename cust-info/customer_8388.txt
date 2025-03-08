@@ -1,0 +1,6 @@
+Customer ID: 8388
+Name: Virginia Hawkins
+National ID: 649-19-6138
+Bank: Ramirez-Nichols Bank
+Account Number: 4380812545
+Consent Status: Granted

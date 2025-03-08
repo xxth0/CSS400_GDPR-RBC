@@ -1,0 +1,6 @@
+Customer ID: 9447
+Name: Cody Adams
+National ID: 820-86-3909
+Bank: Harvey, Peterson and Jones Bank
+Account Number: 4670667008
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4577
+Name: Scott Howell
+National ID: 659-85-0926
+Bank: Phillips-Smith Bank
+Account Number: 8232968840
+Consent Status: Granted

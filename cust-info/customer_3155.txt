@@ -1,0 +1,6 @@
+Customer ID: 3155
+Name: Darin Brady
+National ID: 056-98-3954
+Bank: Glenn Inc Bank
+Account Number: 8916471163
+Consent Status: Granted

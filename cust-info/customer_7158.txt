@@ -1,0 +1,6 @@
+Customer ID: 7158
+Name: Christy Simmons
+National ID: 809-99-1343
+Bank: Garcia PLC Bank
+Account Number: 8571910095
+Consent Status: Revoked

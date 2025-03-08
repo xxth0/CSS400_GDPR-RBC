@@ -1,0 +1,6 @@
+Customer ID: 8825
+Name: Shannon Elliott
+National ID: 700-46-7869
+Bank: Snow-Hutchinson Bank
+Account Number: 9115248860
+Consent Status: Revoked

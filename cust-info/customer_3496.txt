@@ -1,0 +1,6 @@
+Customer ID: 3496
+Name: Joshua Bailey
+National ID: 705-16-3618
+Bank: Edwards, Kelly and Bell Bank
+Account Number: 5081160080
+Consent Status: Revoked

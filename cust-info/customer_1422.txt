@@ -1,0 +1,6 @@
+Customer ID: 1422
+Name: John Rangel
+National ID: 175-38-8433
+Bank: Smith, Woods and Kelley Bank
+Account Number: 2628341367
+Consent Status: Revoked

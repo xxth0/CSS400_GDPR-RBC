@@ -1,0 +1,6 @@
+Customer ID: 6663
+Name: Ryan Hickman
+National ID: 616-80-7748
+Bank: Barnett Inc Bank
+Account Number: 5376023043
+Consent Status: Granted

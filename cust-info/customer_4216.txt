@@ -1,0 +1,6 @@
+Customer ID: 4216
+Name: Matthew Deleon
+National ID: 103-81-9855
+Bank: Martin-Deleon Bank
+Account Number: 2521469349
+Consent Status: Granted

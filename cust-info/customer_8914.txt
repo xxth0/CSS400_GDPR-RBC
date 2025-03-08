@@ -1,0 +1,6 @@
+Customer ID: 8914
+Name: Shirley Armstrong
+National ID: 559-59-7617
+Bank: Diaz Group Bank
+Account Number: 1020615795
+Consent Status: Revoked

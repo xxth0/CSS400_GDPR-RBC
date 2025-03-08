@@ -1,0 +1,6 @@
+Customer ID: 5296
+Name: Cheryl Santana
+National ID: 525-39-8407
+Bank: Smith-Taylor Bank
+Account Number: 8265299211
+Consent Status: Granted

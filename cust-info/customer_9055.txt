@@ -1,0 +1,6 @@
+Customer ID: 9055
+Name: Shawn Escobar
+National ID: 060-75-3448
+Bank: Watkins-Mendez Bank
+Account Number: 1288383906
+Consent Status: Revoked

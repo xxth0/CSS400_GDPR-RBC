@@ -1,0 +1,6 @@
+Customer ID: 2632
+Name: Jennifer Barton
+National ID: 032-26-9390
+Bank: Miller, Fitzpatrick and Hunter Bank
+Account Number: 2979591429
+Consent Status: Revoked

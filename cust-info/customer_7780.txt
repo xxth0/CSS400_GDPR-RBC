@@ -1,0 +1,6 @@
+Customer ID: 7780
+Name: Thomas Brown
+National ID: 296-75-7545
+Bank: Pratt and Sons Bank
+Account Number: 3947229448
+Consent Status: Granted

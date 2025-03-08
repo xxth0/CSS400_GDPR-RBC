@@ -1,0 +1,6 @@
+Customer ID: 9418
+Name: Joshua Lee
+National ID: 238-12-8980
+Bank: Grimes, Carson and Clark Bank
+Account Number: 9628217223
+Consent Status: Revoked

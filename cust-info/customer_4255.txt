@@ -1,0 +1,6 @@
+Customer ID: 4255
+Name: Kristina Larsen
+National ID: 036-35-7180
+Bank: Martinez-Elliott Bank
+Account Number: 6719741198
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3047
+Name: Karen Tucker
+National ID: 504-81-7797
+Bank: Jensen LLC Bank
+Account Number: 8635146999
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4849
+Name: Adam Jenkins
+National ID: 043-51-4427
+Bank: Williamson-Brown Bank
+Account Number: 6475342611
+Consent Status: Granted

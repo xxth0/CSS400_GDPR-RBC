@@ -1,0 +1,6 @@
+Customer ID: 866
+Name: Angela Wallace
+National ID: 292-11-9204
+Bank: Ruiz, Rogers and Strickland Bank
+Account Number: 5659629144
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3943
+Name: Leslie Hill
+National ID: 228-30-0065
+Bank: Patel LLC Bank
+Account Number: 5917523230
+Consent Status: Revoked

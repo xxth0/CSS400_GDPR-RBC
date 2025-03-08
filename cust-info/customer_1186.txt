@@ -1,0 +1,6 @@
+Customer ID: 1186
+Name: Nicholas Yoder
+National ID: 164-52-7696
+Bank: Diaz, Collins and Mendoza Bank
+Account Number: 9669242960
+Consent Status: Revoked

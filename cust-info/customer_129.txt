@@ -1,0 +1,6 @@
+Customer ID: 129
+Name: Elizabeth Rodriguez
+National ID: 253-84-8011
+Bank: Gibson and Sons Bank
+Account Number: 9957014299
+Consent Status: Granted

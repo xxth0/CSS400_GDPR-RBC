@@ -1,0 +1,6 @@
+Customer ID: 63
+Name: Hannah Peck
+National ID: 084-28-2227
+Bank: Rich-Cortez Bank
+Account Number: 5459716158
+Consent Status: Granted

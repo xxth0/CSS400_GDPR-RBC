@@ -1,0 +1,6 @@
+Customer ID: 6340
+Name: Alison Gonzalez
+National ID: 563-21-4931
+Bank: Chandler-Bonilla Bank
+Account Number: 8511897305
+Consent Status: Granted

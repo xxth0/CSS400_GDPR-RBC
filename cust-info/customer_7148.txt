@@ -1,0 +1,6 @@
+Customer ID: 7148
+Name: Elizabeth Cox
+National ID: 462-63-9545
+Bank: Guzman-Hernandez Bank
+Account Number: 7480674975
+Consent Status: Granted

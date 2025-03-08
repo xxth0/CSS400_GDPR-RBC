@@ -1,0 +1,6 @@
+Customer ID: 8582
+Name: Anna Johnson
+National ID: 020-08-4475
+Bank: Ruiz, Nash and Barker Bank
+Account Number: 7817858084
+Consent Status: Revoked

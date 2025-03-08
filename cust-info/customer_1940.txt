@@ -1,0 +1,6 @@
+Customer ID: 1940
+Name: Tracy Richardson
+National ID: 661-20-8569
+Bank: Davis-Beck Bank
+Account Number: 3724981362
+Consent Status: Revoked

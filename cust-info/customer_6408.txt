@@ -1,0 +1,6 @@
+Customer ID: 6408
+Name: William Walker
+National ID: 005-86-2597
+Bank: Robinson-Mitchell Bank
+Account Number: 1718799590
+Consent Status: Granted

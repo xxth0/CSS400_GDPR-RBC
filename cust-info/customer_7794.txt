@@ -1,0 +1,6 @@
+Customer ID: 7794
+Name: Kelly Miller
+National ID: 173-26-3410
+Bank: Miller, Butler and Stafford Bank
+Account Number: 4416053839
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5344
+Name: Michael Figueroa
+National ID: 534-11-4235
+Bank: Allen, Cole and Williams Bank
+Account Number: 7470308352
+Consent Status: Revoked

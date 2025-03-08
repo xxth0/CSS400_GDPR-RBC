@@ -1,0 +1,6 @@
+Customer ID: 7709
+Name: James Coleman
+National ID: 079-55-4634
+Bank: Haney-Walker Bank
+Account Number: 4407680730
+Consent Status: Revoked

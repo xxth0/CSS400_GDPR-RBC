@@ -1,0 +1,6 @@
+Customer ID: 8054
+Name: David White
+National ID: 899-58-3496
+Bank: Walker LLC Bank
+Account Number: 2719980600
+Consent Status: Granted

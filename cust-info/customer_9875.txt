@@ -1,0 +1,6 @@
+Customer ID: 9875
+Name: Hannah Nguyen
+National ID: 144-66-4357
+Bank: Mercado, Russell and Wilson Bank
+Account Number: 5942148714
+Consent Status: Granted

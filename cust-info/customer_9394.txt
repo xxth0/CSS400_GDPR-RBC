@@ -1,0 +1,6 @@
+Customer ID: 9394
+Name: Jose Jones
+National ID: 429-69-7405
+Bank: Cortez, Adams and Barnes Bank
+Account Number: 8963540828
+Consent Status: Revoked

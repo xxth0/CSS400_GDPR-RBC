@@ -1,0 +1,6 @@
+Customer ID: 8277
+Name: Carrie Jones
+National ID: 719-74-8155
+Bank: Garcia-Banks Bank
+Account Number: 2780073961
+Consent Status: Granted

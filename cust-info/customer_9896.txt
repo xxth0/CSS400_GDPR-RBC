@@ -1,0 +1,6 @@
+Customer ID: 9896
+Name: Rebecca Boyd
+National ID: 583-34-1591
+Bank: Lewis Inc Bank
+Account Number: 3235641052
+Consent Status: Revoked

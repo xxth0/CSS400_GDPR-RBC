@@ -1,0 +1,6 @@
+Customer ID: 581
+Name: Thomas Brennan
+National ID: 293-02-7961
+Bank: Harrell-Ortiz Bank
+Account Number: 1665794569
+Consent Status: Revoked

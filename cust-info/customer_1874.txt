@@ -1,0 +1,6 @@
+Customer ID: 1874
+Name: Gregory Ellis
+National ID: 678-96-0736
+Bank: Martinez Ltd Bank
+Account Number: 7362207068
+Consent Status: Revoked

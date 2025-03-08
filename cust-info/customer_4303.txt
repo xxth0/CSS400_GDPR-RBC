@@ -1,0 +1,6 @@
+Customer ID: 4303
+Name: David Berger
+National ID: 262-42-2909
+Bank: Ponce, Rodriguez and Fleming Bank
+Account Number: 2800015594
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1244
+Name: Jimmy Singleton
+National ID: 607-38-3217
+Bank: Davis Inc Bank
+Account Number: 4364130448
+Consent Status: Granted

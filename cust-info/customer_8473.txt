@@ -1,0 +1,6 @@
+Customer ID: 8473
+Name: Gina Rodriguez
+National ID: 286-79-5591
+Bank: Lee and Sons Bank
+Account Number: 1800470625
+Consent Status: Granted

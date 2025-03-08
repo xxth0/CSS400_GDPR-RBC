@@ -1,0 +1,6 @@
+Customer ID: 6711
+Name: James Pratt
+National ID: 042-98-9484
+Bank: Smith Ltd Bank
+Account Number: 1552971559
+Consent Status: Granted

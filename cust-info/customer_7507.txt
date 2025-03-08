@@ -1,0 +1,6 @@
+Customer ID: 7507
+Name: Jennifer Dawson
+National ID: 806-52-5488
+Bank: Reynolds-Ortiz Bank
+Account Number: 7223920268
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7153
+Name: Xavier Barker
+National ID: 375-30-5776
+Bank: Bullock, Barnes and Rivers Bank
+Account Number: 4310789234
+Consent Status: Revoked

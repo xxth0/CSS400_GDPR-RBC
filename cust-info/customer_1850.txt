@@ -1,0 +1,6 @@
+Customer ID: 1850
+Name: Laura Myers
+National ID: 174-93-5840
+Bank: Bowers Inc Bank
+Account Number: 8009876544
+Consent Status: Revoked

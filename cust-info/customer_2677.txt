@@ -1,0 +1,6 @@
+Customer ID: 2677
+Name: Natasha Scott
+National ID: 694-31-6164
+Bank: Mullen Group Bank
+Account Number: 2130384339
+Consent Status: Revoked

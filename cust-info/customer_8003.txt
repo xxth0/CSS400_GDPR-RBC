@@ -1,0 +1,6 @@
+Customer ID: 8003
+Name: Stephanie Martin
+National ID: 198-24-2024
+Bank: Parker Inc Bank
+Account Number: 5870870871
+Consent Status: Revoked

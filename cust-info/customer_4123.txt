@@ -1,0 +1,6 @@
+Customer ID: 4123
+Name: Jeremy Williams
+National ID: 512-73-2309
+Bank: Anderson LLC Bank
+Account Number: 3668547362
+Consent Status: Revoked

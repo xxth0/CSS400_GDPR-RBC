@@ -1,0 +1,6 @@
+Customer ID: 7578
+Name: Mark Price
+National ID: 521-52-6136
+Bank: Harrison, Chandler and Dunn Bank
+Account Number: 3993236786
+Consent Status: Granted

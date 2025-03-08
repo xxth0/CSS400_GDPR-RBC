@@ -1,0 +1,6 @@
+Customer ID: 9179
+Name: Michael Schneider
+National ID: 256-24-2617
+Bank: Rowe-Marshall Bank
+Account Number: 1122906226
+Consent Status: Granted

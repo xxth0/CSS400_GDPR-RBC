@@ -1,0 +1,6 @@
+Customer ID: 6566
+Name: Kristen Wright
+National ID: 079-75-5588
+Bank: Fuentes-Matthews Bank
+Account Number: 8897970307
+Consent Status: Granted

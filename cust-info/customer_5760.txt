@@ -1,0 +1,6 @@
+Customer ID: 5760
+Name: Christina Allen DDS
+National ID: 767-19-9302
+Bank: Stevenson PLC Bank
+Account Number: 5153084020
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6386
+Name: Christian Wilson
+National ID: 641-18-1823
+Bank: Cochran, Reynolds and Martinez Bank
+Account Number: 9655390846
+Consent Status: Revoked

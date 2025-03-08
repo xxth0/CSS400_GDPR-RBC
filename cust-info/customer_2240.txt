@@ -1,0 +1,6 @@
+Customer ID: 2240
+Name: Bradley Garcia
+National ID: 160-39-1742
+Bank: Roberts-Atkinson Bank
+Account Number: 1487829760
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9291
+Name: Joshua Ramos
+National ID: 815-65-5572
+Bank: Hardy PLC Bank
+Account Number: 1512065463
+Consent Status: Revoked

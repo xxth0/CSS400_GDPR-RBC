@@ -1,0 +1,6 @@
+Customer ID: 573
+Name: Jennifer Garcia
+National ID: 841-37-7190
+Bank: Ramirez-Howard Bank
+Account Number: 3327445080
+Consent Status: Granted

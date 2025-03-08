@@ -1,0 +1,6 @@
+Customer ID: 5029
+Name: Patricia Phillips
+National ID: 152-02-3978
+Bank: Lindsey-Robinson Bank
+Account Number: 7448349691
+Consent Status: Revoked

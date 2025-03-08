@@ -1,0 +1,6 @@
+Customer ID: 756
+Name: Carmen Dyer
+National ID: 438-28-9712
+Bank: Taylor Group Bank
+Account Number: 7796567315
+Consent Status: Granted

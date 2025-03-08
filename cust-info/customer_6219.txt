@@ -1,0 +1,6 @@
+Customer ID: 6219
+Name: Juan Sherman
+National ID: 117-72-5418
+Bank: Palmer, Nelson and Kirk Bank
+Account Number: 4790438017
+Consent Status: Granted

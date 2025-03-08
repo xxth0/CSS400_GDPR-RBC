@@ -1,0 +1,6 @@
+Customer ID: 303
+Name: Bobby Contreras
+National ID: 735-97-5868
+Bank: Franklin-Flores Bank
+Account Number: 8851331378
+Consent Status: Granted

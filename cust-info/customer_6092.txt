@@ -1,0 +1,6 @@
+Customer ID: 6092
+Name: Benjamin Carson
+National ID: 556-26-5370
+Bank: Warren PLC Bank
+Account Number: 6121717917
+Consent Status: Revoked

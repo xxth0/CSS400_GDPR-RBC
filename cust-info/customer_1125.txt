@@ -1,0 +1,6 @@
+Customer ID: 1125
+Name: Keith Flores
+National ID: 309-29-6351
+Bank: Ortiz and Sons Bank
+Account Number: 5884148238
+Consent Status: Revoked

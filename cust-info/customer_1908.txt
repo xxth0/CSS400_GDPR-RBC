@@ -1,0 +1,6 @@
+Customer ID: 1908
+Name: Jacob Martinez
+National ID: 603-12-1346
+Bank: Williams Inc Bank
+Account Number: 5852953524
+Consent Status: Revoked

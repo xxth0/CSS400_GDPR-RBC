@@ -1,0 +1,6 @@
+Customer ID: 3310
+Name: Tyler Dunn
+National ID: 083-14-9086
+Bank: Lutz-Lambert Bank
+Account Number: 3944137689
+Consent Status: Granted

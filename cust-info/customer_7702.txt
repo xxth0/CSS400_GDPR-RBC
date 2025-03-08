@@ -1,0 +1,6 @@
+Customer ID: 7702
+Name: Jennifer Anderson
+National ID: 657-79-9992
+Bank: Hernandez-Mitchell Bank
+Account Number: 8379672768
+Consent Status: Granted

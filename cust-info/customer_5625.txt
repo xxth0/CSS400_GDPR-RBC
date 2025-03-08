@@ -1,0 +1,6 @@
+Customer ID: 5625
+Name: Michelle Blevins
+National ID: 233-08-6519
+Bank: Douglas, Johnson and Roberts Bank
+Account Number: 3480627373
+Consent Status: Granted

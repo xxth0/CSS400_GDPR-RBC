@@ -1,0 +1,6 @@
+Customer ID: 5305
+Name: Tyrone Hughes
+National ID: 835-62-0393
+Bank: Taylor-King Bank
+Account Number: 8305512857
+Consent Status: Revoked

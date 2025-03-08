@@ -1,0 +1,6 @@
+Customer ID: 1554
+Name: Stephen Dougherty
+National ID: 776-74-9569
+Bank: Washington, Wallace and Garcia Bank
+Account Number: 6151539619
+Consent Status: Granted

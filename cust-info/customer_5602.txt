@@ -1,0 +1,6 @@
+Customer ID: 5602
+Name: Wendy Adams
+National ID: 155-70-6805
+Bank: Nguyen, Williams and Brown Bank
+Account Number: 6831288153
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3516
+Name: Justin Spencer
+National ID: 471-55-6326
+Bank: Scott-Watson Bank
+Account Number: 5863424349
+Consent Status: Granted

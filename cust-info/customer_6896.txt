@@ -1,0 +1,6 @@
+Customer ID: 6896
+Name: Ryan Richard
+National ID: 691-46-1781
+Bank: Yates, Miller and Taylor Bank
+Account Number: 6741222253
+Consent Status: Revoked

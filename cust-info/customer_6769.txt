@@ -1,0 +1,6 @@
+Customer ID: 6769
+Name: Amber Simpson
+National ID: 259-39-6168
+Bank: Anderson, Graham and Larson Bank
+Account Number: 1933001104
+Consent Status: Granted

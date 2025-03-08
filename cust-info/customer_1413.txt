@@ -1,0 +1,6 @@
+Customer ID: 1413
+Name: Douglas Jones
+National ID: 693-09-6651
+Bank: Gray-Patterson Bank
+Account Number: 8318928254
+Consent Status: Revoked

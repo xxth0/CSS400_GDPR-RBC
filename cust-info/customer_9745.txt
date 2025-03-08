@@ -1,0 +1,6 @@
+Customer ID: 9745
+Name: Kim Rowland
+National ID: 722-07-9705
+Bank: Harrison Inc Bank
+Account Number: 4249742697
+Consent Status: Revoked

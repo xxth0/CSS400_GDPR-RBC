@@ -1,0 +1,6 @@
+Customer ID: 6140
+Name: James Watson
+National ID: 028-49-9740
+Bank: Malone, Macdonald and Boyd Bank
+Account Number: 7095989177
+Consent Status: Revoked

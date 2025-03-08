@@ -1,0 +1,6 @@
+Customer ID: 207
+Name: Kendra Morales
+National ID: 487-88-5059
+Bank: Brown-Wood Bank
+Account Number: 3937813032
+Consent Status: Granted

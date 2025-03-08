@@ -1,0 +1,6 @@
+Customer ID: 4884
+Name: Laura Stewart
+National ID: 353-71-4421
+Bank: White, Bush and Taylor Bank
+Account Number: 5241408051
+Consent Status: Revoked

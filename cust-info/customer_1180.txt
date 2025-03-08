@@ -1,0 +1,6 @@
+Customer ID: 1180
+Name: Joshua Mendoza
+National ID: 366-41-8498
+Bank: Cunningham-Robbins Bank
+Account Number: 6645216175
+Consent Status: Granted

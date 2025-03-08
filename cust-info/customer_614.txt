@@ -1,0 +1,6 @@
+Customer ID: 614
+Name: Claire Taylor
+National ID: 047-20-7558
+Bank: Woods-Gamble Bank
+Account Number: 5535376003
+Consent Status: Revoked

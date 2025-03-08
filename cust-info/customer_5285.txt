@@ -1,0 +1,6 @@
+Customer ID: 5285
+Name: Brooke Cortez
+National ID: 104-49-4745
+Bank: Reyes, Rush and Bell Bank
+Account Number: 3021936014
+Consent Status: Granted

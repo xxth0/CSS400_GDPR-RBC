@@ -1,0 +1,6 @@
+Customer ID: 7053
+Name: Jennifer Walker
+National ID: 081-40-0269
+Bank: Kemp and Sons Bank
+Account Number: 3326144590
+Consent Status: Revoked

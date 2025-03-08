@@ -1,0 +1,6 @@
+Customer ID: 7644
+Name: Stephen Bass
+National ID: 897-74-6674
+Bank: Jones-Murphy Bank
+Account Number: 6154535093
+Consent Status: Granted

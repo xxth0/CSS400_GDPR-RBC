@@ -1,0 +1,6 @@
+Customer ID: 2506
+Name: Nathan Sherman
+National ID: 584-48-2347
+Bank: Hill, Mcneil and Howard Bank
+Account Number: 5391555365
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6621
+Name: John Pacheco
+National ID: 813-96-2369
+Bank: Hill-Krause Bank
+Account Number: 6630111804
+Consent Status: Granted

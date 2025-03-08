@@ -1,0 +1,6 @@
+Customer ID: 1641
+Name: Krystal Richard
+National ID: 409-31-5450
+Bank: Mullins-Travis Bank
+Account Number: 1926093677
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7509
+Name: Amber Sanders
+National ID: 846-36-9096
+Bank: Bailey Group Bank
+Account Number: 7724747326
+Consent Status: Granted

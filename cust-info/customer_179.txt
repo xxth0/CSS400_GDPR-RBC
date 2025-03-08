@@ -1,0 +1,6 @@
+Customer ID: 179
+Name: Michael Richardson
+National ID: 179-16-4350
+Bank: Johnson-Farmer Bank
+Account Number: 9243826142
+Consent Status: Revoked

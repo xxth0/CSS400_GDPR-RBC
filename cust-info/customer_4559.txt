@@ -1,0 +1,6 @@
+Customer ID: 4559
+Name: Michelle Guerra
+National ID: 305-86-1191
+Bank: Carlson-Wells Bank
+Account Number: 8732280154
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7182
+Name: Mr. Nathan Cox
+National ID: 726-76-7468
+Bank: Nichols Ltd Bank
+Account Number: 3586801273
+Consent Status: Granted

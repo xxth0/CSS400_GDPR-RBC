@@ -1,0 +1,6 @@
+Customer ID: 9064
+Name: Robert Kirby
+National ID: 075-87-9099
+Bank: Hall Ltd Bank
+Account Number: 7988475238
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4299
+Name: Samantha Jackson
+National ID: 511-42-3058
+Bank: Fitzgerald-Gomez Bank
+Account Number: 3587867324
+Consent Status: Granted

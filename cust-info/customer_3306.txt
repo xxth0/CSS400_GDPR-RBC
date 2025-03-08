@@ -1,0 +1,6 @@
+Customer ID: 3306
+Name: Sarah Wilkinson
+National ID: 863-72-2895
+Bank: Klein, Griffith and Larsen Bank
+Account Number: 7043997610
+Consent Status: Granted

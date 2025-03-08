@@ -1,0 +1,6 @@
+Customer ID: 1946
+Name: Donald Wright
+National ID: 665-79-0725
+Bank: Obrien Inc Bank
+Account Number: 6331129838
+Consent Status: Granted

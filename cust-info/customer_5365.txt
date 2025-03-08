@@ -1,0 +1,6 @@
+Customer ID: 5365
+Name: Brian Patterson
+National ID: 128-70-3137
+Bank: Lopez-Bauer Bank
+Account Number: 5380789358
+Consent Status: Granted

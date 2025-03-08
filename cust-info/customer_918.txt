@@ -1,0 +1,6 @@
+Customer ID: 918
+Name: Jennifer Kemp
+National ID: 608-31-3773
+Bank: Soto, Avila and Wheeler Bank
+Account Number: 4921208631
+Consent Status: Revoked

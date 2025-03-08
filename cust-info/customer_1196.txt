@@ -1,0 +1,6 @@
+Customer ID: 1196
+Name: Nicholas Romero
+National ID: 066-30-9006
+Bank: Herrera, Taylor and Wilson Bank
+Account Number: 9993452908
+Consent Status: Revoked

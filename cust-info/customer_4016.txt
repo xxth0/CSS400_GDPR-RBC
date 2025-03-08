@@ -1,0 +1,6 @@
+Customer ID: 4016
+Name: Kayla Yoder
+National ID: 113-75-6968
+Bank: Bradley, Daniels and Farrell Bank
+Account Number: 9000121178
+Consent Status: Granted

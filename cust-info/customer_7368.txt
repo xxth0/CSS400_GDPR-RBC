@@ -1,0 +1,6 @@
+Customer ID: 7368
+Name: Thomas Ortiz
+National ID: 526-52-8796
+Bank: Davis-Carter Bank
+Account Number: 5186263337
+Consent Status: Granted

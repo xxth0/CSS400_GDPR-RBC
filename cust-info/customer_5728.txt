@@ -1,0 +1,6 @@
+Customer ID: 5728
+Name: Ashley George
+National ID: 541-47-8946
+Bank: Brown-Foster Bank
+Account Number: 6446255835
+Consent Status: Granted

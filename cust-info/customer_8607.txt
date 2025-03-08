@@ -1,0 +1,6 @@
+Customer ID: 8607
+Name: Marcus Cain
+National ID: 622-22-2238
+Bank: George-Blake Bank
+Account Number: 9197466166
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2104
+Name: Jeff Nunez
+National ID: 787-71-3217
+Bank: Miller, Garcia and Bonilla Bank
+Account Number: 9267725827
+Consent Status: Revoked

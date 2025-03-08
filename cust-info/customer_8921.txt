@@ -1,0 +1,6 @@
+Customer ID: 8921
+Name: Kathryn Mcdonald
+National ID: 578-98-0224
+Bank: Bolton Group Bank
+Account Number: 6173971250
+Consent Status: Revoked

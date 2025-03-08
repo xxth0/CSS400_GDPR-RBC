@@ -1,0 +1,6 @@
+Customer ID: 4019
+Name: Donna Holland
+National ID: 598-66-6917
+Bank: Chavez and Sons Bank
+Account Number: 6053476576
+Consent Status: Revoked

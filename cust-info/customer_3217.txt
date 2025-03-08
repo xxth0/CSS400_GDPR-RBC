@@ -1,0 +1,6 @@
+Customer ID: 3217
+Name: Ashley Travis
+National ID: 164-11-4927
+Bank: Jackson, Smith and Chaney Bank
+Account Number: 9618028579
+Consent Status: Revoked

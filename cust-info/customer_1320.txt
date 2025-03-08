@@ -1,0 +1,6 @@
+Customer ID: 1320
+Name: Michael Gaines
+National ID: 420-35-1778
+Bank: Smith-Morris Bank
+Account Number: 7717490710
+Consent Status: Granted

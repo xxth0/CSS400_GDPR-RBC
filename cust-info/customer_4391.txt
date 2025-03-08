@@ -1,0 +1,6 @@
+Customer ID: 4391
+Name: Kimberly Rogers
+National ID: 389-57-5039
+Bank: Willis and Sons Bank
+Account Number: 6629516758
+Consent Status: Granted

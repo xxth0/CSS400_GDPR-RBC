@@ -1,0 +1,6 @@
+Customer ID: 9630
+Name: Kathryn Gonzalez
+National ID: 434-45-7547
+Bank: Yang-Maldonado Bank
+Account Number: 9168207452
+Consent Status: Granted

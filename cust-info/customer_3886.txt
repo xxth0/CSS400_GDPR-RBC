@@ -1,0 +1,6 @@
+Customer ID: 3886
+Name: Hailey Yoder
+National ID: 642-58-7789
+Bank: Alvarado LLC Bank
+Account Number: 3937737495
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8894
+Name: Joseph Sharp
+National ID: 325-93-9572
+Bank: Klein Inc Bank
+Account Number: 1854762523
+Consent Status: Granted

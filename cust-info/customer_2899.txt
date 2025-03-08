@@ -1,0 +1,6 @@
+Customer ID: 2899
+Name: Miss Laurie Oliver PhD
+National ID: 403-98-3397
+Bank: Warren-Phillips Bank
+Account Number: 8024039578
+Consent Status: Granted

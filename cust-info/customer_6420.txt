@@ -1,0 +1,6 @@
+Customer ID: 6420
+Name: Martin Moreno
+National ID: 476-63-8117
+Bank: Lopez, Joseph and Morgan Bank
+Account Number: 1118213772
+Consent Status: Revoked

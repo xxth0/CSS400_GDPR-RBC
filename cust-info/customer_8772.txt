@@ -1,0 +1,6 @@
+Customer ID: 8772
+Name: Michael Greene
+National ID: 744-85-4004
+Bank: Lynch-James Bank
+Account Number: 6572199871
+Consent Status: Revoked

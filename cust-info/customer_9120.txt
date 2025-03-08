@@ -1,0 +1,6 @@
+Customer ID: 9120
+Name: Emily Pierce
+National ID: 425-84-9426
+Bank: Gay-Caldwell Bank
+Account Number: 7641337260
+Consent Status: Granted

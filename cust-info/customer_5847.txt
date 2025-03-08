@@ -1,0 +1,6 @@
+Customer ID: 5847
+Name: Christine Jones
+National ID: 732-98-3475
+Bank: Lane-Shaffer Bank
+Account Number: 5386812344
+Consent Status: Granted

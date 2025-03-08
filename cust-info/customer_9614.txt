@@ -1,0 +1,6 @@
+Customer ID: 9614
+Name: Justin Lane
+National ID: 651-50-4829
+Bank: Schwartz, Santiago and Duncan Bank
+Account Number: 5644146622
+Consent Status: Revoked

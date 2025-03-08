@@ -1,0 +1,6 @@
+Customer ID: 7601
+Name: Kaitlin Lindsey
+National ID: 093-54-5943
+Bank: Jones-Williams Bank
+Account Number: 7770145888
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1585
+Name: Donna Fox
+National ID: 513-36-2571
+Bank: Glover-Hernandez Bank
+Account Number: 9209232242
+Consent Status: Revoked

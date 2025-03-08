@@ -1,0 +1,6 @@
+Customer ID: 3796
+Name: Sandra Johnson
+National ID: 212-98-6419
+Bank: Taylor, Smith and Phillips Bank
+Account Number: 6382948636
+Consent Status: Granted

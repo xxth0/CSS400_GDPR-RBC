@@ -1,0 +1,6 @@
+Customer ID: 2784
+Name: Richard Castillo
+National ID: 721-36-0670
+Bank: Smith, Le and Ellis Bank
+Account Number: 4353567523
+Consent Status: Granted

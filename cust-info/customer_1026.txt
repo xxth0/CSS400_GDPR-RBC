@@ -1,0 +1,6 @@
+Customer ID: 1026
+Name: Kristin Obrien
+National ID: 165-78-6481
+Bank: Lopez, Patel and Moore Bank
+Account Number: 9905817665
+Consent Status: Granted

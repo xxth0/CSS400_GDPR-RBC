@@ -1,0 +1,6 @@
+Customer ID: 5260
+Name: Michelle Chen
+National ID: 720-04-9871
+Bank: Hanson LLC Bank
+Account Number: 3530519143
+Consent Status: Granted

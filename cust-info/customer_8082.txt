@@ -1,0 +1,6 @@
+Customer ID: 8082
+Name: Ricardo Moss
+National ID: 648-14-6129
+Bank: Brooks, Hill and Garcia Bank
+Account Number: 3415287099
+Consent Status: Granted

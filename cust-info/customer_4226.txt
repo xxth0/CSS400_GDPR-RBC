@@ -1,0 +1,6 @@
+Customer ID: 4226
+Name: James Rodriguez
+National ID: 105-59-3197
+Bank: Velez, Reid and Bailey Bank
+Account Number: 2429568997
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6522
+Name: Kristen Bradley
+National ID: 387-52-1120
+Bank: Black Group Bank
+Account Number: 8204085218
+Consent Status: Revoked

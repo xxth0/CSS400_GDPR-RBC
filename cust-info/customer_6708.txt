@@ -1,0 +1,6 @@
+Customer ID: 6708
+Name: Robert Carey
+National ID: 406-16-0811
+Bank: Ryan, Hurst and Luna Bank
+Account Number: 4829598749
+Consent Status: Granted

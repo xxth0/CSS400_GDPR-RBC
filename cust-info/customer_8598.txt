@@ -1,0 +1,6 @@
+Customer ID: 8598
+Name: Amanda Kelly MD
+National ID: 400-22-9623
+Bank: Kelly, Thompson and Patterson Bank
+Account Number: 1867353783
+Consent Status: Revoked

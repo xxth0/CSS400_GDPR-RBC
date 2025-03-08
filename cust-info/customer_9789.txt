@@ -1,0 +1,6 @@
+Customer ID: 9789
+Name: Kristen Sims
+National ID: 421-43-7489
+Bank: Fleming LLC Bank
+Account Number: 7937533476
+Consent Status: Revoked

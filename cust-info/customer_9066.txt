@@ -1,0 +1,6 @@
+Customer ID: 9066
+Name: Kelly Kelly
+National ID: 207-26-9323
+Bank: Potter, Taylor and Galvan Bank
+Account Number: 2808048625
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2724
+Name: Adam Sexton
+National ID: 703-49-2583
+Bank: Black-Flores Bank
+Account Number: 7750963915
+Consent Status: Revoked

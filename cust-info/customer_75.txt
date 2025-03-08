@@ -1,0 +1,6 @@
+Customer ID: 75
+Name: Wendy Kim
+National ID: 392-92-8345
+Bank: Brown-David Bank
+Account Number: 6771660188
+Consent Status: Granted

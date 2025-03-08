@@ -1,0 +1,6 @@
+Customer ID: 518
+Name: Sara Diaz
+National ID: 220-26-5054
+Bank: Taylor Group Bank
+Account Number: 2484665731
+Consent Status: Granted

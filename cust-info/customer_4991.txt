@@ -1,0 +1,6 @@
+Customer ID: 4991
+Name: Katrina Sanchez
+National ID: 181-67-3513
+Bank: Brooks-York Bank
+Account Number: 6807626737
+Consent Status: Granted

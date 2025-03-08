@@ -1,0 +1,6 @@
+Customer ID: 8398
+Name: Renee Roberts
+National ID: 337-94-2807
+Bank: Reyes, Bass and Hicks Bank
+Account Number: 8818542639
+Consent Status: Revoked

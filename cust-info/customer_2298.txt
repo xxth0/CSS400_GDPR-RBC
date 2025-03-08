@@ -1,0 +1,6 @@
+Customer ID: 2298
+Name: Jeffrey Atkinson
+National ID: 711-37-8218
+Bank: Perry, Sandoval and Olson Bank
+Account Number: 2488590595
+Consent Status: Granted

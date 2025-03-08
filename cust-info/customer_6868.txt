@@ -1,0 +1,6 @@
+Customer ID: 6868
+Name: Lori Parker
+National ID: 612-23-1039
+Bank: Quinn-Vazquez Bank
+Account Number: 1165583873
+Consent Status: Granted

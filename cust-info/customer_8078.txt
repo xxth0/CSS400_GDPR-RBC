@@ -1,0 +1,6 @@
+Customer ID: 8078
+Name: Jordan Fisher
+National ID: 292-51-6855
+Bank: Lane-Diaz Bank
+Account Number: 6467423604
+Consent Status: Revoked

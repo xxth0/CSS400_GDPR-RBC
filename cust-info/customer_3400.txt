@@ -1,0 +1,6 @@
+Customer ID: 3400
+Name: George Johnson
+National ID: 135-61-5595
+Bank: Williams-Rice Bank
+Account Number: 7965233848
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7278
+Name: Brandy Martin
+National ID: 808-72-1939
+Bank: Pratt-Miller Bank
+Account Number: 7041408330
+Consent Status: Revoked

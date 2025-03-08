@@ -1,0 +1,6 @@
+Customer ID: 7919
+Name: Patricia Cortez
+National ID: 085-94-9988
+Bank: Lopez, Vargas and Reed Bank
+Account Number: 1163795901
+Consent Status: Granted

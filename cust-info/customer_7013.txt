@@ -1,0 +1,6 @@
+Customer ID: 7013
+Name: James Luna
+National ID: 226-06-2182
+Bank: Farrell-Diaz Bank
+Account Number: 8572015453
+Consent Status: Granted

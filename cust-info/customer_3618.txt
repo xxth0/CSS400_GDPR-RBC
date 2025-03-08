@@ -1,0 +1,6 @@
+Customer ID: 3618
+Name: Blake Hill
+National ID: 340-25-6185
+Bank: Hicks, Reese and Osborn Bank
+Account Number: 3644025659
+Consent Status: Granted

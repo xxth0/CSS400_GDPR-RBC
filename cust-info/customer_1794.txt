@@ -1,0 +1,6 @@
+Customer ID: 1794
+Name: Rita Bell
+National ID: 534-65-4502
+Bank: Hubbard-Anderson Bank
+Account Number: 7108291704
+Consent Status: Revoked

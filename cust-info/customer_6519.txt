@@ -1,0 +1,6 @@
+Customer ID: 6519
+Name: Bradley Campbell Jr.
+National ID: 364-09-3763
+Bank: Zamora and Sons Bank
+Account Number: 1272745932
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9338
+Name: Anthony Serrano
+National ID: 048-65-9328
+Bank: Flores, Nunez and Conrad Bank
+Account Number: 8183025260
+Consent Status: Revoked

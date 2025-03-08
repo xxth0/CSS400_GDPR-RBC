@@ -1,0 +1,6 @@
+Customer ID: 2126
+Name: Lisa Young
+National ID: 318-75-9294
+Bank: Cobb-Price Bank
+Account Number: 4211821426
+Consent Status: Revoked

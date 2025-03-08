@@ -1,0 +1,6 @@
+Customer ID: 7457
+Name: Gina Burns
+National ID: 179-65-2746
+Bank: Fritz-Martin Bank
+Account Number: 5791683088
+Consent Status: Revoked

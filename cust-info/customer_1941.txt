@@ -1,0 +1,6 @@
+Customer ID: 1941
+Name: Sherry Landry
+National ID: 089-48-1118
+Bank: Miller, Fitzgerald and Campbell Bank
+Account Number: 1395636063
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8050
+Name: Tammy Perez
+National ID: 584-04-7373
+Bank: Ford Inc Bank
+Account Number: 1101168537
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7055
+Name: Juan Price
+National ID: 678-42-0526
+Bank: Mayer-West Bank
+Account Number: 7040433187
+Consent Status: Revoked

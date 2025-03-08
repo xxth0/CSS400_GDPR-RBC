@@ -1,0 +1,6 @@
+Customer ID: 909
+Name: Samantha Greene
+National ID: 375-44-6703
+Bank: Lane Group Bank
+Account Number: 4192347620
+Consent Status: Granted

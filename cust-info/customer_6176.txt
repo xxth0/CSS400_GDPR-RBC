@@ -1,0 +1,6 @@
+Customer ID: 6176
+Name: Thomas Fox
+National ID: 436-43-3590
+Bank: Shepard-Macdonald Bank
+Account Number: 7537358077
+Consent Status: Granted

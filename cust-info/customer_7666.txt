@@ -1,0 +1,6 @@
+Customer ID: 7666
+Name: Timothy Stark
+National ID: 086-55-2034
+Bank: Fuller-Shelton Bank
+Account Number: 3303789619
+Consent Status: Granted

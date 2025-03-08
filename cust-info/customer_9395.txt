@@ -1,0 +1,6 @@
+Customer ID: 9395
+Name: Larry Harmon
+National ID: 677-91-8695
+Bank: Haas-Schneider Bank
+Account Number: 5964215901
+Consent Status: Granted

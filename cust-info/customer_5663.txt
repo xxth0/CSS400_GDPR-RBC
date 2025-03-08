@@ -1,0 +1,6 @@
+Customer ID: 5663
+Name: Sandra Rivera
+National ID: 823-63-9299
+Bank: Carlson-Mendoza Bank
+Account Number: 3798165830
+Consent Status: Revoked

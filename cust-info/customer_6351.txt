@@ -1,0 +1,6 @@
+Customer ID: 6351
+Name: Ronald Gray
+National ID: 248-65-3796
+Bank: Duke Inc Bank
+Account Number: 3646576187
+Consent Status: Revoked

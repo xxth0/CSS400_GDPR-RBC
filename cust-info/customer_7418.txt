@@ -1,0 +1,6 @@
+Customer ID: 7418
+Name: Thomas Foster
+National ID: 342-22-9831
+Bank: George, Herrera and Miller Bank
+Account Number: 1499014290
+Consent Status: Granted

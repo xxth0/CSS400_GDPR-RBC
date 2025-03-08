@@ -1,0 +1,6 @@
+Customer ID: 2317
+Name: Alex Thomas
+National ID: 262-76-3051
+Bank: Collins Group Bank
+Account Number: 2107614310
+Consent Status: Granted

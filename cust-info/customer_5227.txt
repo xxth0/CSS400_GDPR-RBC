@@ -1,0 +1,6 @@
+Customer ID: 5227
+Name: Kerry Williams
+National ID: 858-20-3702
+Bank: Jacobs, Reid and Lowe Bank
+Account Number: 2191820385
+Consent Status: Granted

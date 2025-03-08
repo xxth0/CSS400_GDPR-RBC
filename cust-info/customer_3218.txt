@@ -1,0 +1,6 @@
+Customer ID: 3218
+Name: Katie Day
+National ID: 714-02-2669
+Bank: Key Ltd Bank
+Account Number: 9806808276
+Consent Status: Revoked

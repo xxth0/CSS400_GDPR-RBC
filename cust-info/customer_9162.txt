@@ -1,0 +1,6 @@
+Customer ID: 9162
+Name: Kyle Perez
+National ID: 818-96-4667
+Bank: Patel-May Bank
+Account Number: 6799608501
+Consent Status: Granted

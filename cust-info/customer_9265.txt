@@ -1,0 +1,6 @@
+Customer ID: 9265
+Name: Timothy Boyd
+National ID: 152-14-0188
+Bank: Summers-Barnes Bank
+Account Number: 9587766106
+Consent Status: Revoked

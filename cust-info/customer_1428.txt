@@ -1,0 +1,6 @@
+Customer ID: 1428
+Name: Austin Smith
+National ID: 141-89-7135
+Bank: Palmer-Hernandez Bank
+Account Number: 5109785677
+Consent Status: Granted

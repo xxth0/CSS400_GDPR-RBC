@@ -1,0 +1,6 @@
+Customer ID: 1431
+Name: Steve Nelson
+National ID: 193-16-5716
+Bank: Tyler Inc Bank
+Account Number: 8137686669
+Consent Status: Granted

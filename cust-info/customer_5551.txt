@@ -1,0 +1,6 @@
+Customer ID: 5551
+Name: Dawn Townsend
+National ID: 133-58-8720
+Bank: Barrett, Marshall and Cunningham Bank
+Account Number: 8644861377
+Consent Status: Revoked

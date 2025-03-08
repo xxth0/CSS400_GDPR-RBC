@@ -1,0 +1,6 @@
+Customer ID: 7964
+Name: Daniel Cooper
+National ID: 069-59-7171
+Bank: Bush Group Bank
+Account Number: 6658755766
+Consent Status: Revoked

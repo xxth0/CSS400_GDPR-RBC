@@ -1,0 +1,6 @@
+Customer ID: 1421
+Name: John Dyer
+National ID: 722-15-9933
+Bank: Cook, Smith and Ramirez Bank
+Account Number: 7979002736
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1697
+Name: Tammy Steele
+National ID: 759-31-3652
+Bank: Burton-Wallace Bank
+Account Number: 3433807546
+Consent Status: Revoked

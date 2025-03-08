@@ -1,0 +1,6 @@
+Customer ID: 1100
+Name: Alyssa Bennett
+National ID: 273-11-7375
+Bank: Shelton, David and Thomas Bank
+Account Number: 3077034711
+Consent Status: Revoked

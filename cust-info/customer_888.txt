@@ -1,0 +1,6 @@
+Customer ID: 888
+Name: Thomas Joseph
+National ID: 322-08-8800
+Bank: Jones-Lane Bank
+Account Number: 7779467781
+Consent Status: Granted

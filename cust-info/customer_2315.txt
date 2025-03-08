@@ -1,0 +1,6 @@
+Customer ID: 2315
+Name: Barbara Martin
+National ID: 351-56-3189
+Bank: Anderson Inc Bank
+Account Number: 7674398520
+Consent Status: Granted

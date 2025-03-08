@@ -1,0 +1,6 @@
+Customer ID: 3283
+Name: David Livingston
+National ID: 761-61-1831
+Bank: Gallegos, Phillips and Reed Bank
+Account Number: 3558493233
+Consent Status: Revoked

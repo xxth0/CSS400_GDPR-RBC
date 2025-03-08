@@ -1,0 +1,6 @@
+Customer ID: 9431
+Name: David Hull
+National ID: 762-02-7164
+Bank: Lee, Allen and Barnes Bank
+Account Number: 5383874342
+Consent Status: Granted

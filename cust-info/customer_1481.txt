@@ -1,0 +1,6 @@
+Customer ID: 1481
+Name: Cassandra Nguyen
+National ID: 628-83-4224
+Bank: Morales-Howell Bank
+Account Number: 7965137195
+Consent Status: Granted

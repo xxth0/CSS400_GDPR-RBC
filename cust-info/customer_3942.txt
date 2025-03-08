@@ -1,0 +1,6 @@
+Customer ID: 3942
+Name: Michael Morrison
+National ID: 214-50-2545
+Bank: Bowman Group Bank
+Account Number: 7090912444
+Consent Status: Revoked

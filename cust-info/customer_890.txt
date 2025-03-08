@@ -1,0 +1,6 @@
+Customer ID: 890
+Name: Brittany Thompson
+National ID: 333-07-8683
+Bank: Fletcher, Garcia and Cohen Bank
+Account Number: 6520402828
+Consent Status: Granted

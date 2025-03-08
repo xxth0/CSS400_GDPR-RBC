@@ -1,0 +1,6 @@
+Customer ID: 9632
+Name: Sharon Smith
+National ID: 774-01-1616
+Bank: Cox, Luna and Griffith Bank
+Account Number: 7001219537
+Consent Status: Revoked

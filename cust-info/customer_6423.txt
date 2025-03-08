@@ -1,0 +1,6 @@
+Customer ID: 6423
+Name: Brandon Price
+National ID: 861-51-4637
+Bank: Griffin-Welch Bank
+Account Number: 1794243967
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2713
+Name: Emily Shepherd
+National ID: 414-46-1219
+Bank: Thompson-Walker Bank
+Account Number: 1033147308
+Consent Status: Revoked

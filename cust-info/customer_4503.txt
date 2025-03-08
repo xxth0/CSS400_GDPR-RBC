@@ -1,0 +1,6 @@
+Customer ID: 4503
+Name: Ashley Massey
+National ID: 824-11-8713
+Bank: Contreras-Wilson Bank
+Account Number: 7238981869
+Consent Status: Granted

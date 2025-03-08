@@ -1,0 +1,6 @@
+Customer ID: 5294
+Name: Jacqueline Mccarty
+National ID: 223-35-9667
+Bank: Williams PLC Bank
+Account Number: 8384169873
+Consent Status: Revoked

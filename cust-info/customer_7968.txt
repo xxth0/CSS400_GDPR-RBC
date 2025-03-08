@@ -1,0 +1,6 @@
+Customer ID: 7968
+Name: Anthony Davis
+National ID: 782-06-9379
+Bank: Sanchez PLC Bank
+Account Number: 7162655232
+Consent Status: Revoked

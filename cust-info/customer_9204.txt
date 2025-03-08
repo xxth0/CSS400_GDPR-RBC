@@ -1,0 +1,6 @@
+Customer ID: 9204
+Name: Jill Cooper
+National ID: 877-38-1608
+Bank: Gilbert, Weaver and Schneider Bank
+Account Number: 3231909207
+Consent Status: Revoked

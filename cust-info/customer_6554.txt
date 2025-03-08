@@ -1,0 +1,6 @@
+Customer ID: 6554
+Name: Joseph Smith MD
+National ID: 344-83-8238
+Bank: Werner Group Bank
+Account Number: 9235683917
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3050
+Name: Aaron Fuentes
+National ID: 759-87-1180
+Bank: Casey PLC Bank
+Account Number: 6943960497
+Consent Status: Revoked

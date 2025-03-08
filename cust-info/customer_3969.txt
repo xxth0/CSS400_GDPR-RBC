@@ -1,0 +1,6 @@
+Customer ID: 3969
+Name: Yolanda Ruiz
+National ID: 604-01-1250
+Bank: Kaufman-Myers Bank
+Account Number: 9763279043
+Consent Status: Granted

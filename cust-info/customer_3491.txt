@@ -1,0 +1,6 @@
+Customer ID: 3491
+Name: Steven Mahoney
+National ID: 243-41-9527
+Bank: Smith, Roberts and Mullins Bank
+Account Number: 5667672393
+Consent Status: Granted

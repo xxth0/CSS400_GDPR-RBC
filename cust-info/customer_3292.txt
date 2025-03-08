@@ -1,0 +1,6 @@
+Customer ID: 3292
+Name: Donald Williams
+National ID: 121-83-9264
+Bank: Sexton, Valdez and Cameron Bank
+Account Number: 9783798643
+Consent Status: Granted

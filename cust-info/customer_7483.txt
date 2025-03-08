@@ -1,0 +1,6 @@
+Customer ID: 7483
+Name: Christine Garner
+National ID: 786-61-9677
+Bank: Martinez Ltd Bank
+Account Number: 1140060878
+Consent Status: Granted

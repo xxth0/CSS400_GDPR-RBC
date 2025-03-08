@@ -1,0 +1,6 @@
+Customer ID: 3945
+Name: Matthew Valdez
+National ID: 114-50-9207
+Bank: Smith-Smith Bank
+Account Number: 9045142349
+Consent Status: Revoked

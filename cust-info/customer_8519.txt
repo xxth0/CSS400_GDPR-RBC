@@ -1,0 +1,6 @@
+Customer ID: 8519
+Name: Christina Clark
+National ID: 303-16-6797
+Bank: Hammond Group Bank
+Account Number: 3724612195
+Consent Status: Revoked

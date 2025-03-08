@@ -1,0 +1,6 @@
+Customer ID: 3564
+Name: Kelli Booker
+National ID: 254-07-7348
+Bank: Smith, Williams and Brown Bank
+Account Number: 8970985002
+Consent Status: Granted

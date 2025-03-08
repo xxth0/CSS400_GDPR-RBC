@@ -1,0 +1,6 @@
+Customer ID: 9434
+Name: Sean Harris
+National ID: 718-86-0179
+Bank: Barnes-Murphy Bank
+Account Number: 6136861051
+Consent Status: Revoked

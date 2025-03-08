@@ -1,0 +1,6 @@
+Customer ID: 5900
+Name: Cynthia Barker
+National ID: 534-93-4273
+Bank: Miller Inc Bank
+Account Number: 4299327565
+Consent Status: Granted

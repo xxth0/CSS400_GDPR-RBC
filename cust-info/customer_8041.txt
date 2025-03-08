@@ -1,0 +1,6 @@
+Customer ID: 8041
+Name: Jennifer Love
+National ID: 681-21-9823
+Bank: Quinn Inc Bank
+Account Number: 7716442056
+Consent Status: Revoked

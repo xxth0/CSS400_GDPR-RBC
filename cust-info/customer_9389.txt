@@ -1,0 +1,6 @@
+Customer ID: 9389
+Name: Briana Thomas
+National ID: 151-77-7150
+Bank: Ward, Parker and Mitchell Bank
+Account Number: 5919084407
+Consent Status: Granted

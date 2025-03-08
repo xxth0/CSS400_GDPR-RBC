@@ -1,0 +1,6 @@
+Customer ID: 5077
+Name: Frederick Dean
+National ID: 459-02-8837
+Bank: Wu, Stevenson and Duncan Bank
+Account Number: 6454944812
+Consent Status: Revoked

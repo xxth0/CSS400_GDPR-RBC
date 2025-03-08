@@ -1,0 +1,6 @@
+Customer ID: 8316
+Name: Michelle Freeman
+National ID: 705-07-7012
+Bank: Lee, Bautista and Ochoa Bank
+Account Number: 8049899645
+Consent Status: Revoked

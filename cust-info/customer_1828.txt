@@ -1,0 +1,6 @@
+Customer ID: 1828
+Name: Mary Cox
+National ID: 821-93-0134
+Bank: Bradley, Norton and Murray Bank
+Account Number: 2686029109
+Consent Status: Revoked

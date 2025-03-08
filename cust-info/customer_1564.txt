@@ -1,0 +1,6 @@
+Customer ID: 1564
+Name: Ronald Davenport
+National ID: 690-92-5257
+Bank: Stein Inc Bank
+Account Number: 6037876798
+Consent Status: Revoked

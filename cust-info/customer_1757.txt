@@ -1,0 +1,6 @@
+Customer ID: 1757
+Name: Karen Holland
+National ID: 489-11-1125
+Bank: Stokes Group Bank
+Account Number: 7230498050
+Consent Status: Revoked

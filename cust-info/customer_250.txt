@@ -1,0 +1,6 @@
+Customer ID: 250
+Name: Gabriel West
+National ID: 335-80-2997
+Bank: Shields, Thompson and Gross Bank
+Account Number: 1418092636
+Consent Status: Granted

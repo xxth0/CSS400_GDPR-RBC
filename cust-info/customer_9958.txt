@@ -1,0 +1,6 @@
+Customer ID: 9958
+Name: Gregory Green
+National ID: 247-06-1082
+Bank: Williams LLC Bank
+Account Number: 6611465696
+Consent Status: Granted

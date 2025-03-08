@@ -1,0 +1,6 @@
+Customer ID: 8798
+Name: Ann Gonzalez
+National ID: 244-42-5915
+Bank: Vaughan Group Bank
+Account Number: 6309669466
+Consent Status: Revoked

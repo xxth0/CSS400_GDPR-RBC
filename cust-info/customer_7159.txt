@@ -1,0 +1,6 @@
+Customer ID: 7159
+Name: Rebecca Shea
+National ID: 300-33-3477
+Bank: Ramirez, Dominguez and Boyd Bank
+Account Number: 7746251616
+Consent Status: Granted

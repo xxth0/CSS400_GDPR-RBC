@@ -1,0 +1,6 @@
+Customer ID: 7035
+Name: John Garcia
+National ID: 869-94-0031
+Bank: Hall-Dickerson Bank
+Account Number: 4379618060
+Consent Status: Revoked

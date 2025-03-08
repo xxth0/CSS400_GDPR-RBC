@@ -1,0 +1,6 @@
+Customer ID: 9359
+Name: Kevin Gonzalez
+National ID: 121-59-1581
+Bank: Valentine Inc Bank
+Account Number: 9409067630
+Consent Status: Granted

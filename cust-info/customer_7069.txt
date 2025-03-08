@@ -1,0 +1,6 @@
+Customer ID: 7069
+Name: Lisa Harris DDS
+National ID: 884-32-8442
+Bank: James and Sons Bank
+Account Number: 2667526365
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1725
+Name: Nicholas Mitchell
+National ID: 796-31-9111
+Bank: King Group Bank
+Account Number: 3861383433
+Consent Status: Revoked

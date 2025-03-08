@@ -1,0 +1,6 @@
+Customer ID: 8889
+Name: Kevin Watts
+National ID: 433-35-2473
+Bank: Peterson PLC Bank
+Account Number: 2241959374
+Consent Status: Revoked

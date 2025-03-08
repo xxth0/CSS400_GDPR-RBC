@@ -1,0 +1,6 @@
+Customer ID: 644
+Name: Richard Anthony
+National ID: 652-20-4257
+Bank: Salazar-Johnson Bank
+Account Number: 9035822807
+Consent Status: Granted

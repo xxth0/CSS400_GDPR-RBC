@@ -1,0 +1,6 @@
+Customer ID: 2992
+Name: Victoria Williams
+National ID: 400-18-0521
+Bank: Anderson, Moody and Stephens Bank
+Account Number: 8395409261
+Consent Status: Revoked

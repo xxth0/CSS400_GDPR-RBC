@@ -1,0 +1,6 @@
+Customer ID: 9754
+Name: Dana Copeland
+National ID: 016-53-2708
+Bank: Valenzuela PLC Bank
+Account Number: 5471018383
+Consent Status: Revoked

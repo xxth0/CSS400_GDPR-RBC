@@ -1,0 +1,6 @@
+Customer ID: 7213
+Name: Austin Flores
+National ID: 739-28-9614
+Bank: Rivas, Patton and Warner Bank
+Account Number: 9414139554
+Consent Status: Granted

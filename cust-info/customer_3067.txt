@@ -1,0 +1,6 @@
+Customer ID: 3067
+Name: Isaac Brown
+National ID: 519-24-8054
+Bank: Griffin-Moore Bank
+Account Number: 4155532868
+Consent Status: Granted

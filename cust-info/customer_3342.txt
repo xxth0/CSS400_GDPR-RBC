@@ -1,0 +1,6 @@
+Customer ID: 3342
+Name: Melissa Clark
+National ID: 530-70-0966
+Bank: Hill, King and Holloway Bank
+Account Number: 5499895910
+Consent Status: Granted

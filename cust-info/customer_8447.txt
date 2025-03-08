@@ -1,0 +1,6 @@
+Customer ID: 8447
+Name: Jane Wallace
+National ID: 690-88-7898
+Bank: Nelson, Murphy and Krause Bank
+Account Number: 5613739702
+Consent Status: Revoked

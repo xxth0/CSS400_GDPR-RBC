@@ -1,0 +1,6 @@
+Customer ID: 1445
+Name: Mark Lopez
+National ID: 293-66-3650
+Bank: Murphy, Lynn and Fields Bank
+Account Number: 2084234468
+Consent Status: Revoked

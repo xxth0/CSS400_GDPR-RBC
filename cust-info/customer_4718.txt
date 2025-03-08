@@ -1,0 +1,6 @@
+Customer ID: 4718
+Name: Melissa Cole
+National ID: 071-69-9294
+Bank: Lane-Smith Bank
+Account Number: 7274897168
+Consent Status: Granted

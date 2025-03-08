@@ -1,0 +1,6 @@
+Customer ID: 2070
+Name: Robin Strickland
+National ID: 366-05-4051
+Bank: Powell, Porter and Holloway Bank
+Account Number: 5314984367
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9193
+Name: Jeffrey Smith
+National ID: 701-60-7964
+Bank: Hall-Johnson Bank
+Account Number: 2280652535
+Consent Status: Revoked

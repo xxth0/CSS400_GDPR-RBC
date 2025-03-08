@@ -1,0 +1,6 @@
+Customer ID: 1120
+Name: Christopher Gallegos
+National ID: 314-70-6230
+Bank: Gaines LLC Bank
+Account Number: 3028543498
+Consent Status: Revoked

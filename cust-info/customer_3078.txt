@@ -1,0 +1,6 @@
+Customer ID: 3078
+Name: Debra Roy
+National ID: 250-77-0576
+Bank: Watson, Benitez and Poole Bank
+Account Number: 2467379129
+Consent Status: Granted

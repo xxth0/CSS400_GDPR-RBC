@@ -1,0 +1,6 @@
+Customer ID: 7019
+Name: Henry Martin
+National ID: 229-82-0905
+Bank: Taylor Group Bank
+Account Number: 4402063463
+Consent Status: Revoked

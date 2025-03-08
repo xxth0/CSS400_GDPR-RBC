@@ -1,0 +1,6 @@
+Customer ID: 1615
+Name: William Greene
+National ID: 560-45-8802
+Bank: Vega LLC Bank
+Account Number: 6287987134
+Consent Status: Revoked

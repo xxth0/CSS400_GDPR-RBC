@@ -1,0 +1,6 @@
+Customer ID: 9230
+Name: Caleb Weaver
+National ID: 649-47-9112
+Bank: Thompson and Sons Bank
+Account Number: 7667574917
+Consent Status: Granted

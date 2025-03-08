@@ -1,0 +1,6 @@
+Customer ID: 2023
+Name: Nathan Edwards
+National ID: 579-20-7586
+Bank: Dixon Ltd Bank
+Account Number: 7113873504
+Consent Status: Granted

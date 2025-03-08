@@ -1,0 +1,6 @@
+Customer ID: 9555
+Name: Andrew Owens
+National ID: 177-33-8664
+Bank: Davis, Nguyen and Mathis Bank
+Account Number: 7331020460
+Consent Status: Revoked

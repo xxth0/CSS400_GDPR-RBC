@@ -1,0 +1,6 @@
+Customer ID: 8538
+Name: Bradley Park
+National ID: 203-48-1127
+Bank: Martin LLC Bank
+Account Number: 1749482401
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6109
+Name: Charles Jones
+National ID: 488-33-5941
+Bank: Bailey PLC Bank
+Account Number: 1670557939
+Consent Status: Granted

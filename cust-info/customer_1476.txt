@@ -1,0 +1,6 @@
+Customer ID: 1476
+Name: Gina Perry
+National ID: 497-11-1526
+Bank: Reynolds-Cruz Bank
+Account Number: 7288302343
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4217
+Name: Paul Franklin
+National ID: 155-03-9499
+Bank: Simpson, Barry and Petersen Bank
+Account Number: 9219618023
+Consent Status: Revoked

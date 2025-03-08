@@ -1,0 +1,6 @@
+Customer ID: 8663
+Name: James Elliott
+National ID: 344-90-7727
+Bank: Stewart LLC Bank
+Account Number: 1632004453
+Consent Status: Granted

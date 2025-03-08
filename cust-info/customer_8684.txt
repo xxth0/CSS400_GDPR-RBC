@@ -1,0 +1,6 @@
+Customer ID: 8684
+Name: Rebecca Bennett
+National ID: 822-46-1987
+Bank: Romero-Rojas Bank
+Account Number: 2112831471
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7254
+Name: Shawn Burton
+National ID: 197-83-7261
+Bank: Rodriguez-Fitzpatrick Bank
+Account Number: 2620913083
+Consent Status: Revoked

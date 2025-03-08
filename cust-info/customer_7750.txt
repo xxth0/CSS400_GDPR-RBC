@@ -1,0 +1,6 @@
+Customer ID: 7750
+Name: Christopher Hughes
+National ID: 447-46-5268
+Bank: Moore-Matthews Bank
+Account Number: 2585814390
+Consent Status: Granted

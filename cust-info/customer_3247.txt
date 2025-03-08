@@ -1,0 +1,6 @@
+Customer ID: 3247
+Name: Ronald May
+National ID: 695-29-0737
+Bank: Greer-Morales Bank
+Account Number: 9985827663
+Consent Status: Revoked

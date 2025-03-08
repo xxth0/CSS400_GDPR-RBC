@@ -1,0 +1,6 @@
+Customer ID: 3576
+Name: Terri Rogers
+National ID: 435-40-2724
+Bank: Porter PLC Bank
+Account Number: 2263258633
+Consent Status: Revoked

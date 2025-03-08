@@ -1,0 +1,6 @@
+Customer ID: 2324
+Name: Jacob Elliott
+National ID: 272-82-5172
+Bank: Drake, Pena and Weber Bank
+Account Number: 4509359843
+Consent Status: Granted

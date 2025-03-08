@@ -1,0 +1,6 @@
+Customer ID: 1970
+Name: Susan Barnes
+National ID: 281-96-3118
+Bank: Benitez-Evans Bank
+Account Number: 4376390638
+Consent Status: Granted

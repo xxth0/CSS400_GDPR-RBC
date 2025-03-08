@@ -1,0 +1,6 @@
+Customer ID: 8733
+Name: Tiffany Lawson
+National ID: 520-42-5067
+Bank: Garcia-Kirby Bank
+Account Number: 6199060837
+Consent Status: Revoked

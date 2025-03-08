@@ -1,0 +1,6 @@
+Customer ID: 6959
+Name: Allison Harrison
+National ID: 001-55-1941
+Bank: Taylor PLC Bank
+Account Number: 2933194589
+Consent Status: Granted

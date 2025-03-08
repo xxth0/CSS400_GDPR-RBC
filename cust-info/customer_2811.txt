@@ -1,0 +1,6 @@
+Customer ID: 2811
+Name: Penny Ramirez
+National ID: 010-16-6249
+Bank: Frank-Marks Bank
+Account Number: 4756137308
+Consent Status: Revoked

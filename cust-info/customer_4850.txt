@@ -1,0 +1,6 @@
+Customer ID: 4850
+Name: Gloria Williams
+National ID: 553-77-8408
+Bank: Richards, Lawson and Wilson Bank
+Account Number: 6795063154
+Consent Status: Revoked

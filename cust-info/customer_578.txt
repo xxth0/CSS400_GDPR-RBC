@@ -1,0 +1,6 @@
+Customer ID: 578
+Name: Brianna Baker
+National ID: 236-77-7338
+Bank: Clark Group Bank
+Account Number: 9251665746
+Consent Status: Granted

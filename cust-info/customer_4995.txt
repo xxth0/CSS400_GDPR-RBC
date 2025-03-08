@@ -1,0 +1,6 @@
+Customer ID: 4995
+Name: Joseph Hughes
+National ID: 280-62-1241
+Bank: Miller-Reyes Bank
+Account Number: 5205990424
+Consent Status: Granted

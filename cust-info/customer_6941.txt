@@ -1,0 +1,6 @@
+Customer ID: 6941
+Name: Nicole Hale
+National ID: 247-82-6749
+Bank: Mcmahon-Mccann Bank
+Account Number: 5092252003
+Consent Status: Revoked

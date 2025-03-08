@@ -1,0 +1,6 @@
+Customer ID: 7827
+Name: Terry Howard
+National ID: 099-93-8949
+Bank: Ruiz Inc Bank
+Account Number: 4070872674
+Consent Status: Granted

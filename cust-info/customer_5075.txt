@@ -1,0 +1,6 @@
+Customer ID: 5075
+Name: Jenna Parker
+National ID: 679-83-0793
+Bank: Fox, Vargas and Allen Bank
+Account Number: 5459756920
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3191
+Name: William Miller
+National ID: 784-81-5163
+Bank: Johnson and Sons Bank
+Account Number: 1089706234
+Consent Status: Revoked

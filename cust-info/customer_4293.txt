@@ -1,0 +1,6 @@
+Customer ID: 4293
+Name: Christina Schroeder
+National ID: 853-20-9889
+Bank: Clark, Walker and Miller Bank
+Account Number: 1460505672
+Consent Status: Granted

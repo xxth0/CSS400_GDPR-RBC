@@ -1,0 +1,6 @@
+Customer ID: 7879
+Name: Angela Proctor
+National ID: 436-38-7970
+Bank: Wilson Group Bank
+Account Number: 3802384387
+Consent Status: Revoked

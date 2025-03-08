@@ -1,0 +1,6 @@
+Customer ID: 7315
+Name: Traci Cole
+National ID: 470-31-4119
+Bank: Griffith-Smith Bank
+Account Number: 9529279454
+Consent Status: Granted

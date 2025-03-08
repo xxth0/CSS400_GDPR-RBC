@@ -1,0 +1,6 @@
+Customer ID: 9830
+Name: Micheal Reilly
+National ID: 600-70-8486
+Bank: Cummings, Aguilar and Holt Bank
+Account Number: 8232989221
+Consent Status: Granted

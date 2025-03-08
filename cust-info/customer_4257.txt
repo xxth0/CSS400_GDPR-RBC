@@ -1,0 +1,6 @@
+Customer ID: 4257
+Name: Tina Jones
+National ID: 703-79-8191
+Bank: Rocha LLC Bank
+Account Number: 3772112247
+Consent Status: Granted

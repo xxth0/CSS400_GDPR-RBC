@@ -1,0 +1,6 @@
+Customer ID: 4221
+Name: Phillip Torres
+National ID: 663-19-9160
+Bank: Thompson, Green and Myers Bank
+Account Number: 2243131550
+Consent Status: Granted

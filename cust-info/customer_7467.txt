@@ -1,0 +1,6 @@
+Customer ID: 7467
+Name: Danny Harrison
+National ID: 003-51-8451
+Bank: Arias-Swanson Bank
+Account Number: 9041039685
+Consent Status: Revoked

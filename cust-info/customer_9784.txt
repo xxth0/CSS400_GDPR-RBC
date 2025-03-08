@@ -1,0 +1,6 @@
+Customer ID: 9784
+Name: Christine Rodriguez
+National ID: 067-49-9197
+Bank: Collins-Perez Bank
+Account Number: 5620717453
+Consent Status: Granted

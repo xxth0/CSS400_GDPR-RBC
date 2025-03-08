@@ -1,0 +1,6 @@
+Customer ID: 8906
+Name: Emily Jones
+National ID: 135-24-0178
+Bank: Miller Inc Bank
+Account Number: 4458042918
+Consent Status: Revoked

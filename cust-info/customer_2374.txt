@@ -1,0 +1,6 @@
+Customer ID: 2374
+Name: John Walters
+National ID: 341-07-9707
+Bank: Sanchez-Brown Bank
+Account Number: 6836749381
+Consent Status: Revoked

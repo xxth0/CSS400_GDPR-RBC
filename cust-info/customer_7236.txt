@@ -1,0 +1,6 @@
+Customer ID: 7236
+Name: Mackenzie Davis
+National ID: 877-63-7542
+Bank: Werner PLC Bank
+Account Number: 8451183677
+Consent Status: Granted

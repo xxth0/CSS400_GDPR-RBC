@@ -1,0 +1,6 @@
+Customer ID: 4528
+Name: Maria Wilkerson
+National ID: 139-74-7995
+Bank: Peters-Torres Bank
+Account Number: 2744627227
+Consent Status: Revoked

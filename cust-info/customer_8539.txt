@@ -1,0 +1,6 @@
+Customer ID: 8539
+Name: Brian Moore
+National ID: 514-59-5551
+Bank: Rogers, Shields and Anderson Bank
+Account Number: 2484422321
+Consent Status: Granted

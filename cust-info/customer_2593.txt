@@ -1,0 +1,6 @@
+Customer ID: 2593
+Name: Nicholas Jones
+National ID: 625-58-1051
+Bank: Lambert and Sons Bank
+Account Number: 4061228488
+Consent Status: Granted

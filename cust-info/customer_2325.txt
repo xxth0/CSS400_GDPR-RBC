@@ -1,0 +1,6 @@
+Customer ID: 2325
+Name: Emily Butler
+National ID: 072-55-6222
+Bank: Blevins-Thomas Bank
+Account Number: 5947948413
+Consent Status: Revoked

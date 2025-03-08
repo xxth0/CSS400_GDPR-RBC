@@ -1,0 +1,6 @@
+Customer ID: 4239
+Name: Brent Harvey
+National ID: 530-47-9791
+Bank: King-Peterson Bank
+Account Number: 1262920545
+Consent Status: Granted

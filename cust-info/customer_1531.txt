@@ -1,0 +1,6 @@
+Customer ID: 1531
+Name: Bradley Moore
+National ID: 898-31-2967
+Bank: Lee and Sons Bank
+Account Number: 7536974961
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7819
+Name: Jeremiah Owens
+National ID: 125-39-3504
+Bank: Watson, Carter and Mason Bank
+Account Number: 3328131093
+Consent Status: Granted

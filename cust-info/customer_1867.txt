@@ -1,0 +1,6 @@
+Customer ID: 1867
+Name: Joshua Smith
+National ID: 851-24-0599
+Bank: Harrell, Walker and Robbins Bank
+Account Number: 5048302494
+Consent Status: Revoked

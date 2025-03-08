@@ -1,0 +1,6 @@
+Customer ID: 6880
+Name: John Jones
+National ID: 168-97-1192
+Bank: Bryan, Key and Jenkins Bank
+Account Number: 6135487293
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5729
+Name: Patricia Rivera
+National ID: 752-32-7341
+Bank: Simmons-Brock Bank
+Account Number: 9514991143
+Consent Status: Revoked

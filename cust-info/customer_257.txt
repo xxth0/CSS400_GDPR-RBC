@@ -1,0 +1,6 @@
+Customer ID: 257
+Name: Amber Hernandez
+National ID: 391-09-2536
+Bank: Baker Ltd Bank
+Account Number: 1009733215
+Consent Status: Granted

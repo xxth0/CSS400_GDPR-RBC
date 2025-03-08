@@ -1,0 +1,6 @@
+Customer ID: 4009
+Name: Katherine Adams
+National ID: 875-33-7070
+Bank: Nichols-Medina Bank
+Account Number: 6098552351
+Consent Status: Revoked

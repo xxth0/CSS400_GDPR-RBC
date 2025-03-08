@@ -1,0 +1,6 @@
+Customer ID: 4032
+Name: Sara Kim
+National ID: 813-54-0663
+Bank: Higgins Group Bank
+Account Number: 8810850812
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1909
+Name: Benjamin Carter
+National ID: 867-84-5506
+Bank: Rivera, Campbell and Skinner Bank
+Account Number: 4091261909
+Consent Status: Granted

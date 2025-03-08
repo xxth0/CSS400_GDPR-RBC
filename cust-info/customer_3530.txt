@@ -1,0 +1,6 @@
+Customer ID: 3530
+Name: Matthew Smith
+National ID: 884-42-4969
+Bank: Gonzales-Hardy Bank
+Account Number: 3408284040
+Consent Status: Revoked

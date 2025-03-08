@@ -1,0 +1,6 @@
+Customer ID: 6496
+Name: Jeanette Collins
+National ID: 805-38-6161
+Bank: Nguyen Inc Bank
+Account Number: 6635489580
+Consent Status: Granted

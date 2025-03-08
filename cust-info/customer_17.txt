@@ -1,0 +1,6 @@
+Customer ID: 17
+Name: Erin Rogers
+National ID: 336-48-3969
+Bank: Scott-Barrera Bank
+Account Number: 3032224562
+Consent Status: Revoked

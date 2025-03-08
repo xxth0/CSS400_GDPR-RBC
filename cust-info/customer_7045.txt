@@ -1,0 +1,6 @@
+Customer ID: 7045
+Name: Kristen Jarvis
+National ID: 779-74-6141
+Bank: Ramirez and Sons Bank
+Account Number: 1279962624
+Consent Status: Granted

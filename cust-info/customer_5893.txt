@@ -1,0 +1,6 @@
+Customer ID: 5893
+Name: Marc Dougherty
+National ID: 127-90-9523
+Bank: Jones-Castro Bank
+Account Number: 8467893782
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7267
+Name: Crystal Delgado
+National ID: 230-84-3678
+Bank: Moore and Sons Bank
+Account Number: 4073588830
+Consent Status: Granted

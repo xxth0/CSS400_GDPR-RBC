@@ -1,0 +1,6 @@
+Customer ID: 2428
+Name: Justin Levine
+National ID: 481-84-1099
+Bank: Blankenship-Smith Bank
+Account Number: 8883143917
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2751
+Name: Dale Maxwell
+National ID: 833-08-9268
+Bank: Conrad-Jacobs Bank
+Account Number: 2334693045
+Consent Status: Revoked

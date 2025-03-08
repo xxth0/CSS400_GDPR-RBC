@@ -1,0 +1,6 @@
+Customer ID: 6844
+Name: Timothy Hammond
+National ID: 506-71-3784
+Bank: Johnson, Clark and Patel Bank
+Account Number: 1649095086
+Consent Status: Granted

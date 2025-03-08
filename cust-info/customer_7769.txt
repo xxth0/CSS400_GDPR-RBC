@@ -1,0 +1,6 @@
+Customer ID: 7769
+Name: Anthony Johnson
+National ID: 033-81-0312
+Bank: Collins, Contreras and Robinson Bank
+Account Number: 4398455318
+Consent Status: Revoked

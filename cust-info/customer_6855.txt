@@ -1,0 +1,6 @@
+Customer ID: 6855
+Name: Phillip Potter
+National ID: 751-05-9758
+Bank: Mathis, Rodriguez and Watts Bank
+Account Number: 4132300769
+Consent Status: Revoked

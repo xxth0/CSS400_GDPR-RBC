@@ -1,0 +1,6 @@
+Customer ID: 1622
+Name: Ashley Howell
+National ID: 749-70-4311
+Bank: Davis, Smith and James Bank
+Account Number: 8090086826
+Consent Status: Revoked

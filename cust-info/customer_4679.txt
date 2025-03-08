@@ -1,0 +1,6 @@
+Customer ID: 4679
+Name: Caleb Brown
+National ID: 553-12-2324
+Bank: Butler, Taylor and Smith Bank
+Account Number: 3825904040
+Consent Status: Revoked

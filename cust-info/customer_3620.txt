@@ -1,0 +1,6 @@
+Customer ID: 3620
+Name: Carrie Edwards
+National ID: 750-49-3444
+Bank: Rodriguez Inc Bank
+Account Number: 4647205497
+Consent Status: Revoked

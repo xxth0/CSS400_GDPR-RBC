@@ -1,0 +1,6 @@
+Customer ID: 1714
+Name: Danny Le
+National ID: 701-91-6914
+Bank: Taylor, Garner and Dixon Bank
+Account Number: 9607398185
+Consent Status: Granted

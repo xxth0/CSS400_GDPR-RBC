@@ -1,0 +1,6 @@
+Customer ID: 1337
+Name: Claire Villegas
+National ID: 375-35-5897
+Bank: Davis-Brown Bank
+Account Number: 4792561205
+Consent Status: Revoked

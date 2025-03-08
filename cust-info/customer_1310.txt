@@ -1,0 +1,6 @@
+Customer ID: 1310
+Name: Rodney Oliver
+National ID: 713-37-8208
+Bank: Garner-Smith Bank
+Account Number: 2285429056
+Consent Status: Revoked

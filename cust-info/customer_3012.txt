@@ -1,0 +1,6 @@
+Customer ID: 3012
+Name: Thomas Mendoza
+National ID: 119-38-2760
+Bank: Sims, Carroll and Skinner Bank
+Account Number: 5573922808
+Consent Status: Granted

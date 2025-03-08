@@ -1,0 +1,6 @@
+Customer ID: 4779
+Name: Sarah Green
+National ID: 227-23-6629
+Bank: Anderson Inc Bank
+Account Number: 8596605319
+Consent Status: Revoked

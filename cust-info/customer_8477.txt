@@ -1,0 +1,6 @@
+Customer ID: 8477
+Name: Kimberly Brown
+National ID: 106-45-4508
+Bank: Harrison LLC Bank
+Account Number: 4103451554
+Consent Status: Granted

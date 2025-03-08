@@ -1,0 +1,6 @@
+Customer ID: 8128
+Name: Laura Wilcox
+National ID: 826-26-7017
+Bank: Nelson, Gordon and Santana Bank
+Account Number: 2926988434
+Consent Status: Granted

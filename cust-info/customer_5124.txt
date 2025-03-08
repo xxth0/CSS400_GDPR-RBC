@@ -1,0 +1,6 @@
+Customer ID: 5124
+Name: Ryan Smith
+National ID: 056-50-6590
+Bank: Greene, Gordon and Howard Bank
+Account Number: 3183821350
+Consent Status: Revoked

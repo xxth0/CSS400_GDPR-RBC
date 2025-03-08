@@ -1,0 +1,6 @@
+Customer ID: 3486
+Name: Michael Reed
+National ID: 339-74-7023
+Bank: Howell and Sons Bank
+Account Number: 7648388372
+Consent Status: Revoked

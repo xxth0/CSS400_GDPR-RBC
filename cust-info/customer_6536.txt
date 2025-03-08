@@ -1,0 +1,6 @@
+Customer ID: 6536
+Name: Benjamin Blankenship
+National ID: 299-83-0111
+Bank: Sweeney, Wagner and Griffith Bank
+Account Number: 5348256407
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5148
+Name: Nicholas Roach
+National ID: 612-94-0616
+Bank: Garrett-Richardson Bank
+Account Number: 8821455468
+Consent Status: Granted

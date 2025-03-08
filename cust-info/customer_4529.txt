@@ -1,0 +1,6 @@
+Customer ID: 4529
+Name: Cameron Miller
+National ID: 818-97-4541
+Bank: Williams, Murphy and Mcintosh Bank
+Account Number: 6218421169
+Consent Status: Revoked

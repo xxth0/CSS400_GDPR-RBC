@@ -1,0 +1,6 @@
+Customer ID: 9640
+Name: Carly Turner
+National ID: 207-72-9762
+Bank: Rice Ltd Bank
+Account Number: 6477560646
+Consent Status: Granted

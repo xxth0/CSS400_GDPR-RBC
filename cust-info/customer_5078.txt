@@ -1,0 +1,6 @@
+Customer ID: 5078
+Name: Helen Edwards
+National ID: 087-76-3003
+Bank: Walsh-Bowen Bank
+Account Number: 8540217510
+Consent Status: Granted

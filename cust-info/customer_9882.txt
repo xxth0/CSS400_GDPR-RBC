@@ -1,0 +1,6 @@
+Customer ID: 9882
+Name: Shane Hughes
+National ID: 037-80-0106
+Bank: Pham, Payne and Lara Bank
+Account Number: 1475047178
+Consent Status: Revoked

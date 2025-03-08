@@ -1,0 +1,6 @@
+Customer ID: 5679
+Name: Alejandro Ruiz
+National ID: 561-30-0518
+Bank: Smith, Torres and Kirk Bank
+Account Number: 8697580678
+Consent Status: Revoked

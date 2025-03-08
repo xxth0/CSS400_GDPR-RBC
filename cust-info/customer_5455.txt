@@ -1,0 +1,6 @@
+Customer ID: 5455
+Name: Keith Johnson
+National ID: 592-48-0471
+Bank: Thomas, Snyder and Hunter Bank
+Account Number: 3408903630
+Consent Status: Granted

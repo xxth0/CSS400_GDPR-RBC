@@ -1,0 +1,6 @@
+Customer ID: 8590
+Name: Kathryn Crawford
+National ID: 376-50-5767
+Bank: Rollins and Sons Bank
+Account Number: 1913638975
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2716
+Name: Natalie Smith
+National ID: 154-58-7739
+Bank: Atkins-Ballard Bank
+Account Number: 6497983462
+Consent Status: Granted

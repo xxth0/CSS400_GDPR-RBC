@@ -1,0 +1,6 @@
+Customer ID: 2956
+Name: Julia Williamson
+National ID: 278-08-2359
+Bank: Mendez LLC Bank
+Account Number: 4399555701
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6191
+Name: Julie Contreras
+National ID: 840-33-4783
+Bank: Brown-Haney Bank
+Account Number: 5733057075
+Consent Status: Granted

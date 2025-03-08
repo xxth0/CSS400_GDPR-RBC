@@ -1,0 +1,6 @@
+Customer ID: 1695
+Name: Karen Fisher
+National ID: 591-34-0242
+Bank: Friedman-Guerra Bank
+Account Number: 5924785117
+Consent Status: Granted

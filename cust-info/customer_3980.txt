@@ -1,0 +1,6 @@
+Customer ID: 3980
+Name: Marcia Bryant
+National ID: 381-75-3805
+Bank: Young-George Bank
+Account Number: 7260185116
+Consent Status: Granted

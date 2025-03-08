@@ -1,0 +1,6 @@
+Customer ID: 2845
+Name: James Gonzalez
+National ID: 336-04-3200
+Bank: Davis-Schultz Bank
+Account Number: 7390553657
+Consent Status: Granted

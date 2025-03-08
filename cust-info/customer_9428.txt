@@ -1,0 +1,6 @@
+Customer ID: 9428
+Name: David Cooper
+National ID: 117-69-4657
+Bank: Perez and Sons Bank
+Account Number: 8599295327
+Consent Status: Revoked

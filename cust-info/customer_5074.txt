@@ -1,0 +1,6 @@
+Customer ID: 5074
+Name: Bryan Weeks
+National ID: 278-51-2528
+Bank: Combs-Smith Bank
+Account Number: 7378018775
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1213
+Name: Andrew Ortiz
+National ID: 402-69-2213
+Bank: Long, Humphrey and Ortiz Bank
+Account Number: 3914859938
+Consent Status: Revoked

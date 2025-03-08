@@ -1,0 +1,6 @@
+Customer ID: 7774
+Name: John Lopez
+National ID: 523-97-2597
+Bank: Baldwin, Morgan and Dunlap Bank
+Account Number: 9226394866
+Consent Status: Granted

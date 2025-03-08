@@ -1,0 +1,6 @@
+Customer ID: 630
+Name: Wanda Wheeler
+National ID: 343-37-9307
+Bank: Adams-Livingston Bank
+Account Number: 6479941122
+Consent Status: Revoked

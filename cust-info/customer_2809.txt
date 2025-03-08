@@ -1,0 +1,6 @@
+Customer ID: 2809
+Name: Brian Clark
+National ID: 403-73-4132
+Bank: Booker and Sons Bank
+Account Number: 6968299750
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7848
+Name: Carol Mccarthy
+National ID: 039-32-1381
+Bank: Williams, Stanton and Shepard Bank
+Account Number: 8136124979
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8530
+Name: Andrew Gonzalez
+National ID: 423-64-9174
+Bank: Morgan, Johnston and Tate Bank
+Account Number: 8370025881
+Consent Status: Granted

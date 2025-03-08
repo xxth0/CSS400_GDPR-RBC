@@ -1,0 +1,6 @@
+Customer ID: 5436
+Name: Shane Garcia
+National ID: 256-88-1130
+Bank: King, Moore and Ballard Bank
+Account Number: 3502303381
+Consent Status: Revoked

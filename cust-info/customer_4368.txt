@@ -1,0 +1,6 @@
+Customer ID: 4368
+Name: Amy Jackson
+National ID: 229-20-5956
+Bank: Ramsey Ltd Bank
+Account Number: 5495632071
+Consent Status: Revoked

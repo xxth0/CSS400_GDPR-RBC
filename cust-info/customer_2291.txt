@@ -1,0 +1,6 @@
+Customer ID: 2291
+Name: Kevin Johnson
+National ID: 845-82-3955
+Bank: Brewer, Castillo and Alvarado Bank
+Account Number: 6886057065
+Consent Status: Revoked

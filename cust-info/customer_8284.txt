@@ -1,0 +1,6 @@
+Customer ID: 8284
+Name: Laura Prince
+National ID: 588-05-2671
+Bank: Oneal-Wilkins Bank
+Account Number: 4478252284
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 687
+Name: Peggy Jackson
+National ID: 437-14-7913
+Bank: Conley-Acevedo Bank
+Account Number: 4059190131
+Consent Status: Granted

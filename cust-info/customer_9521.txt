@@ -1,0 +1,6 @@
+Customer ID: 9521
+Name: William Santos
+National ID: 420-80-1514
+Bank: Robles Group Bank
+Account Number: 1576285337
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7255
+Name: Anna Harding PhD
+National ID: 022-69-7457
+Bank: Hunter-Wiley Bank
+Account Number: 1012019181
+Consent Status: Granted

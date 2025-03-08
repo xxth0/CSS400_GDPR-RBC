@@ -1,0 +1,6 @@
+Customer ID: 9132
+Name: Victor Olson
+National ID: 828-52-3232
+Bank: Gray PLC Bank
+Account Number: 8623068855
+Consent Status: Revoked

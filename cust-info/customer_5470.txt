@@ -1,0 +1,6 @@
+Customer ID: 5470
+Name: Tammy Garcia
+National ID: 486-17-7324
+Bank: Davis Ltd Bank
+Account Number: 9703489318
+Consent Status: Revoked

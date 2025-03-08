@@ -1,0 +1,6 @@
+Customer ID: 4489
+Name: Michelle Ellis
+National ID: 305-42-0653
+Bank: Taylor-Page Bank
+Account Number: 6346149182
+Consent Status: Revoked

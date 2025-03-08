@@ -1,0 +1,6 @@
+Customer ID: 8991
+Name: Lauren Lee
+National ID: 510-04-9172
+Bank: Edwards PLC Bank
+Account Number: 9262144558
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4824
+Name: Annette Taylor
+National ID: 289-22-6605
+Bank: Nichols, Caldwell and Foley Bank
+Account Number: 9187450482
+Consent Status: Granted

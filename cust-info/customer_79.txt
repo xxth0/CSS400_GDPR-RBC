@@ -1,0 +1,6 @@
+Customer ID: 79
+Name: Shawn Rush MD
+National ID: 843-72-1768
+Bank: Woods-Irwin Bank
+Account Number: 9886191576
+Consent Status: Revoked

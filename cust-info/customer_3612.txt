@@ -1,0 +1,6 @@
+Customer ID: 3612
+Name: Mary Garza
+National ID: 225-11-1496
+Bank: Leonard, Berger and Christian Bank
+Account Number: 5623845637
+Consent Status: Granted

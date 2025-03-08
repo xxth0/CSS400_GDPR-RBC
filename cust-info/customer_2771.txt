@@ -1,0 +1,6 @@
+Customer ID: 2771
+Name: Brooke Haynes
+National ID: 579-56-8685
+Bank: Gardner-Cortez Bank
+Account Number: 5063171673
+Consent Status: Revoked

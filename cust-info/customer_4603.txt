@@ -1,0 +1,6 @@
+Customer ID: 4603
+Name: Monica Riggs
+National ID: 283-25-9817
+Bank: Wong PLC Bank
+Account Number: 4012926688
+Consent Status: Revoked

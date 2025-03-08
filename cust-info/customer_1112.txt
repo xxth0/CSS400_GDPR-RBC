@@ -1,0 +1,6 @@
+Customer ID: 1112
+Name: Joseph Roberts
+National ID: 715-37-1880
+Bank: Lloyd-Velasquez Bank
+Account Number: 6910191623
+Consent Status: Granted

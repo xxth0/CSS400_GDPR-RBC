@@ -1,0 +1,6 @@
+Customer ID: 3716
+Name: Stephen Le
+National ID: 877-58-7979
+Bank: Campos, Drake and Lam Bank
+Account Number: 9254678352
+Consent Status: Granted

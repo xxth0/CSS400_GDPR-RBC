@@ -1,0 +1,6 @@
+Customer ID: 7469
+Name: Jeffrey Snyder
+National ID: 570-10-6516
+Bank: Johnson, Pennington and Boyle Bank
+Account Number: 1000538698
+Consent Status: Granted

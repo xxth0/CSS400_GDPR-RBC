@@ -1,0 +1,6 @@
+Customer ID: 8113
+Name: Christopher Foster
+National ID: 236-31-6798
+Bank: Jordan Group Bank
+Account Number: 6361406180
+Consent Status: Granted

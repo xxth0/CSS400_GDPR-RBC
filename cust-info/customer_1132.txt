@@ -1,0 +1,6 @@
+Customer ID: 1132
+Name: Fred Wells
+National ID: 459-93-9424
+Bank: Mathews-Roberts Bank
+Account Number: 4349713422
+Consent Status: Revoked

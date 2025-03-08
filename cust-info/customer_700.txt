@@ -1,0 +1,6 @@
+Customer ID: 700
+Name: Christina Martinez
+National ID: 661-60-4077
+Bank: Baker, Lopez and Morales Bank
+Account Number: 6704550689
+Consent Status: Revoked

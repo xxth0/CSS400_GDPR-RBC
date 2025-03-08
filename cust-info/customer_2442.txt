@@ -1,0 +1,6 @@
+Customer ID: 2442
+Name: Karen Williams
+National ID: 312-39-7496
+Bank: Silva-Gonzalez Bank
+Account Number: 6950662935
+Consent Status: Granted

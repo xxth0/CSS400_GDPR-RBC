@@ -1,0 +1,6 @@
+Customer ID: 8897
+Name: Dennis Koch
+National ID: 823-20-2436
+Bank: Ramirez LLC Bank
+Account Number: 6825576892
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5650
+Name: Samuel Bernard
+National ID: 792-52-4064
+Bank: Fowler-Keller Bank
+Account Number: 8328416591
+Consent Status: Granted

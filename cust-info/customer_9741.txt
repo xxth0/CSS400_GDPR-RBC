@@ -1,0 +1,6 @@
+Customer ID: 9741
+Name: Matthew Hughes
+National ID: 498-06-7954
+Bank: Riley Inc Bank
+Account Number: 4170723322
+Consent Status: Granted

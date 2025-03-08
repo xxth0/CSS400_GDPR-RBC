@@ -1,0 +1,6 @@
+Customer ID: 8371
+Name: Richard Smith
+National ID: 584-01-9863
+Bank: Wise-Murphy Bank
+Account Number: 9848353315
+Consent Status: Revoked

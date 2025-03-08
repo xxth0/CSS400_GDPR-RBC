@@ -1,0 +1,6 @@
+Customer ID: 7260
+Name: Kevin Thompson
+National ID: 067-50-1515
+Bank: King, Huff and Williams Bank
+Account Number: 2271391031
+Consent Status: Granted

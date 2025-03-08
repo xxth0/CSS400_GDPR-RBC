@@ -1,0 +1,6 @@
+Customer ID: 5289
+Name: Tracy Wise
+National ID: 334-32-2399
+Bank: Lang-Robinson Bank
+Account Number: 6419744196
+Consent Status: Revoked

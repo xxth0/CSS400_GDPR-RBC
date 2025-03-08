@@ -1,0 +1,6 @@
+Customer ID: 5040
+Name: Ronnie Ruiz
+National ID: 812-23-5063
+Bank: Gomez, Hampton and Davis Bank
+Account Number: 5900834561
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8893
+Name: Mary Harris
+National ID: 420-73-3528
+Bank: Smith-Luna Bank
+Account Number: 5722708728
+Consent Status: Granted

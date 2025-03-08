@@ -1,0 +1,6 @@
+Customer ID: 2535
+Name: Kimberly Williams
+National ID: 477-45-5682
+Bank: Garcia-Nelson Bank
+Account Number: 2092459360
+Consent Status: Granted

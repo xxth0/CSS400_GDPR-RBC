@@ -1,0 +1,6 @@
+Customer ID: 39
+Name: Matthew Yu
+National ID: 270-16-7069
+Bank: Guzman, Hill and Turner Bank
+Account Number: 2726940510
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2208
+Name: John Watkins
+National ID: 122-92-0665
+Bank: Baxter Inc Bank
+Account Number: 1608716171
+Consent Status: Granted

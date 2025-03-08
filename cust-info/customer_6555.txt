@@ -1,0 +1,6 @@
+Customer ID: 6555
+Name: Vincent Garcia
+National ID: 783-20-0710
+Bank: Page-George Bank
+Account Number: 3987323382
+Consent Status: Revoked

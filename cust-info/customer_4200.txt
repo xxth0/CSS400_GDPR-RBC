@@ -1,0 +1,6 @@
+Customer ID: 4200
+Name: Mallory Richards
+National ID: 667-05-1728
+Bank: Drake, Fisher and Rogers Bank
+Account Number: 5374979518
+Consent Status: Granted

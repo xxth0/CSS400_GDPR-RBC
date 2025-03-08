@@ -1,0 +1,6 @@
+Customer ID: 5759
+Name: Alexander Mack
+National ID: 246-01-1891
+Bank: Martinez-Santos Bank
+Account Number: 1752130634
+Consent Status: Granted

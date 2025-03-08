@@ -1,0 +1,6 @@
+Customer ID: 7147
+Name: James Wilson
+National ID: 170-02-7647
+Bank: Owens-Young Bank
+Account Number: 4993779983
+Consent Status: Granted

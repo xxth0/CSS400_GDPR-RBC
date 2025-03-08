@@ -1,0 +1,6 @@
+Customer ID: 2395
+Name: Sandra Jones
+National ID: 037-82-5862
+Bank: Garrett LLC Bank
+Account Number: 4507726353
+Consent Status: Revoked

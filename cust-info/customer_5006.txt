@@ -1,0 +1,6 @@
+Customer ID: 5006
+Name: Andrew Taylor
+National ID: 730-73-0061
+Bank: Cooper and Sons Bank
+Account Number: 3000832184
+Consent Status: Revoked

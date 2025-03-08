@@ -1,0 +1,6 @@
+Customer ID: 8706
+Name: Jessica Fletcher
+National ID: 388-47-4170
+Bank: Nguyen and Sons Bank
+Account Number: 6297998058
+Consent Status: Granted

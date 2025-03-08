@@ -1,0 +1,6 @@
+Customer ID: 5239
+Name: Cynthia Anderson
+National ID: 403-09-8430
+Bank: Camacho-Ortega Bank
+Account Number: 9446430383
+Consent Status: Revoked

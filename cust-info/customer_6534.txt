@@ -1,0 +1,6 @@
+Customer ID: 6534
+Name: Kimberly Jimenez
+National ID: 437-45-3049
+Bank: Nelson, Joseph and Wilson Bank
+Account Number: 6079345601
+Consent Status: Granted

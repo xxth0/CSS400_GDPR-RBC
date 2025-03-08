@@ -1,0 +1,6 @@
+Customer ID: 3352
+Name: Ashley Sullivan
+National ID: 523-78-2824
+Bank: Camacho-Romero Bank
+Account Number: 7519570452
+Consent Status: Revoked

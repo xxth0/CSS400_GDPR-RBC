@@ -1,0 +1,6 @@
+Customer ID: 97
+Name: Christian Barry
+National ID: 137-37-4948
+Bank: Gibson-White Bank
+Account Number: 7474535632
+Consent Status: Revoked

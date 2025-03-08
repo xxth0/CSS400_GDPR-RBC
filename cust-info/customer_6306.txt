@@ -1,0 +1,6 @@
+Customer ID: 6306
+Name: Samuel Brown
+National ID: 435-58-5352
+Bank: Ramirez, Davis and Ramos Bank
+Account Number: 1940188827
+Consent Status: Granted

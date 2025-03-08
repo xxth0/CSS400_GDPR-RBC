@@ -1,0 +1,6 @@
+Customer ID: 9226
+Name: Julie Walker
+National ID: 813-05-1585
+Bank: Hensley, Curry and Johnson Bank
+Account Number: 3336935671
+Consent Status: Revoked

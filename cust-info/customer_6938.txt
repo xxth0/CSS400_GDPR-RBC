@@ -1,0 +1,6 @@
+Customer ID: 6938
+Name: Beth Bradshaw
+National ID: 484-16-8853
+Bank: Brennan-Watson Bank
+Account Number: 2990213419
+Consent Status: Revoked

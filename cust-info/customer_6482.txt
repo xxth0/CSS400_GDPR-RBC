@@ -1,0 +1,6 @@
+Customer ID: 6482
+Name: Donna Allison
+National ID: 240-64-1041
+Bank: Massey-Parrish Bank
+Account Number: 3976018652
+Consent Status: Revoked

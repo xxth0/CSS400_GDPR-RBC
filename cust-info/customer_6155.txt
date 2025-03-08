@@ -1,0 +1,6 @@
+Customer ID: 6155
+Name: Neil Delgado
+National ID: 551-50-7496
+Bank: Johnson, Meyers and French Bank
+Account Number: 9844308485
+Consent Status: Revoked

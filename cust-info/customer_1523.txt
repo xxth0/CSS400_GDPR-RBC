@@ -1,0 +1,6 @@
+Customer ID: 1523
+Name: Kyle Johnson V
+National ID: 831-31-6944
+Bank: Nichols PLC Bank
+Account Number: 1850320258
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1775
+Name: Courtney Clay
+National ID: 085-85-5731
+Bank: Johnson PLC Bank
+Account Number: 6037477792
+Consent Status: Granted

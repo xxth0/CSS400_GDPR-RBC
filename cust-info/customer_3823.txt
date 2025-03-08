@@ -1,0 +1,6 @@
+Customer ID: 3823
+Name: Chad Flores
+National ID: 854-34-5220
+Bank: Obrien, Davis and Vargas Bank
+Account Number: 4448280609
+Consent Status: Granted

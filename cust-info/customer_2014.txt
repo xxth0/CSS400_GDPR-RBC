@@ -1,0 +1,6 @@
+Customer ID: 2014
+Name: Danielle Lee
+National ID: 599-60-8355
+Bank: Anderson, Salazar and Evans Bank
+Account Number: 6312522735
+Consent Status: Revoked

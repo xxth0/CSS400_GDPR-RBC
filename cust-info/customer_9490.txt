@@ -1,0 +1,6 @@
+Customer ID: 9490
+Name: Morgan Lara
+National ID: 281-82-8132
+Bank: Parrish-Webb Bank
+Account Number: 5727444889
+Consent Status: Revoked

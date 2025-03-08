@@ -1,0 +1,6 @@
+Customer ID: 6372
+Name: Alexandra Chang
+National ID: 501-60-2954
+Bank: Lopez, Anderson and Mendoza Bank
+Account Number: 6394887693
+Consent Status: Granted

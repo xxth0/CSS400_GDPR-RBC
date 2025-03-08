@@ -1,0 +1,6 @@
+Customer ID: 8181
+Name: Robert Hardin
+National ID: 145-35-2597
+Bank: Tucker, James and Gonzalez Bank
+Account Number: 8409391510
+Consent Status: Revoked

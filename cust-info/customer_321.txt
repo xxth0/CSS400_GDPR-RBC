@@ -1,0 +1,6 @@
+Customer ID: 321
+Name: Alicia Lin
+National ID: 866-51-1056
+Bank: Serrano-Ramirez Bank
+Account Number: 7960553951
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9590
+Name: Jonathan Vazquez
+National ID: 754-39-8973
+Bank: Rhodes, Holmes and Jones Bank
+Account Number: 3555097267
+Consent Status: Granted

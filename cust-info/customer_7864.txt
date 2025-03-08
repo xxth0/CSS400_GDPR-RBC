@@ -1,0 +1,6 @@
+Customer ID: 7864
+Name: Joseph Johnson
+National ID: 667-01-9164
+Bank: Fields PLC Bank
+Account Number: 8508459450
+Consent Status: Revoked

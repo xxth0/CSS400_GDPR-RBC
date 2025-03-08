@@ -1,0 +1,6 @@
+Customer ID: 7954
+Name: Dawn West
+National ID: 514-40-8663
+Bank: Baker-Campos Bank
+Account Number: 7720447454
+Consent Status: Granted

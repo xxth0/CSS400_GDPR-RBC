@@ -1,0 +1,6 @@
+Customer ID: 9593
+Name: Tonya Brown
+National ID: 218-50-9776
+Bank: Barton-Li Bank
+Account Number: 3654725492
+Consent Status: Granted

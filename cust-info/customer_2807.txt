@@ -1,0 +1,6 @@
+Customer ID: 2807
+Name: Joseph Parker
+National ID: 865-07-0993
+Bank: Harper-Brown Bank
+Account Number: 5759177323
+Consent Status: Granted

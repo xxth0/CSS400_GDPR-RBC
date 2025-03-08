@@ -1,0 +1,6 @@
+Customer ID: 5527
+Name: Richard Anderson
+National ID: 033-17-6847
+Bank: West-Frank Bank
+Account Number: 6251353871
+Consent Status: Granted

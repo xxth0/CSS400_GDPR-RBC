@@ -1,0 +1,6 @@
+Customer ID: 7921
+Name: Brian Harris
+National ID: 005-43-5095
+Bank: Lewis-Villegas Bank
+Account Number: 7286470466
+Consent Status: Granted

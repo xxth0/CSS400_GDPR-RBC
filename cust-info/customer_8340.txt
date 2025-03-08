@@ -1,0 +1,6 @@
+Customer ID: 8340
+Name: Amber Nichols
+National ID: 116-55-1465
+Bank: Terry LLC Bank
+Account Number: 5102886780
+Consent Status: Granted

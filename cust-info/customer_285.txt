@@ -1,0 +1,6 @@
+Customer ID: 285
+Name: Troy Hunt
+National ID: 078-15-2408
+Bank: Jones, Johnson and Anderson Bank
+Account Number: 5656607374
+Consent Status: Granted

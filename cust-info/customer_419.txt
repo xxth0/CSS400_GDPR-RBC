@@ -1,0 +1,6 @@
+Customer ID: 419
+Name: Robert Owens
+National ID: 575-87-2960
+Bank: Walker-Johnson Bank
+Account Number: 5061056107
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8760
+Name: Jill Cooke
+National ID: 053-65-6664
+Bank: Stewart PLC Bank
+Account Number: 2389058340
+Consent Status: Granted

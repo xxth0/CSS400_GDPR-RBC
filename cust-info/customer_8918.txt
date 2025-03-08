@@ -1,0 +1,6 @@
+Customer ID: 8918
+Name: Shawn Berry
+National ID: 185-87-5480
+Bank: Short-Johnson Bank
+Account Number: 9769827558
+Consent Status: Granted

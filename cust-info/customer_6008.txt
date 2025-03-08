@@ -1,0 +1,6 @@
+Customer ID: 6008
+Name: Vanessa Rodriguez
+National ID: 280-86-9701
+Bank: Perry-Roberts Bank
+Account Number: 6177557966
+Consent Status: Revoked

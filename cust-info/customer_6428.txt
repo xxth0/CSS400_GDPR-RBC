@@ -1,0 +1,6 @@
+Customer ID: 6428
+Name: Jared Long
+National ID: 188-13-5683
+Bank: Smith-Jackson Bank
+Account Number: 5262860981
+Consent Status: Revoked

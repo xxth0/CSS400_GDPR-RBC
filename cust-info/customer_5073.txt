@@ -1,0 +1,6 @@
+Customer ID: 5073
+Name: Nancy Clark
+National ID: 329-65-8183
+Bank: Myers Ltd Bank
+Account Number: 4035174438
+Consent Status: Revoked

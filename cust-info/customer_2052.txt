@@ -1,0 +1,6 @@
+Customer ID: 2052
+Name: Martha Banks
+National ID: 194-40-6074
+Bank: Baldwin Inc Bank
+Account Number: 6244114486
+Consent Status: Revoked

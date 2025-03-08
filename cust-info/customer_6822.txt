@@ -1,0 +1,6 @@
+Customer ID: 6822
+Name: Dr. Robert Deleon
+National ID: 200-90-8101
+Bank: Scott, Ward and Weber Bank
+Account Number: 4070466492
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7623
+Name: Michael Williams
+National ID: 774-61-9609
+Bank: Clay, Rice and Yang Bank
+Account Number: 5492322902
+Consent Status: Granted

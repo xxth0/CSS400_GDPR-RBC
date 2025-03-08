@@ -1,0 +1,6 @@
+Customer ID: 2270
+Name: Ann Robinson
+National ID: 848-40-4803
+Bank: Brown LLC Bank
+Account Number: 4950204930
+Consent Status: Revoked

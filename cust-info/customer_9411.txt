@@ -1,0 +1,6 @@
+Customer ID: 9411
+Name: Anthony Johnson
+National ID: 516-65-4168
+Bank: Perez-Harmon Bank
+Account Number: 9354006517
+Consent Status: Granted

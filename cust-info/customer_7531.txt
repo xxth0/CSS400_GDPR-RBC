@@ -1,0 +1,6 @@
+Customer ID: 7531
+Name: Karl Butler
+National ID: 571-77-5353
+Bank: Jones-Mcclure Bank
+Account Number: 3942061758
+Consent Status: Revoked

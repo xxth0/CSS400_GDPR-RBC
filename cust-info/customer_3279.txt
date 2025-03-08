@@ -1,0 +1,6 @@
+Customer ID: 3279
+Name: Melissa Smith
+National ID: 114-22-9107
+Bank: Smith, Carter and Booth Bank
+Account Number: 4863390228
+Consent Status: Granted

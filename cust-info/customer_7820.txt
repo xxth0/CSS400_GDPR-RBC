@@ -1,0 +1,6 @@
+Customer ID: 7820
+Name: Tony Robinson
+National ID: 640-34-0524
+Bank: Chavez Group Bank
+Account Number: 3456845574
+Consent Status: Revoked

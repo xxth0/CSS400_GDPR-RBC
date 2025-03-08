@@ -1,0 +1,6 @@
+Customer ID: 5570
+Name: Morgan Mclaughlin
+National ID: 194-06-1422
+Bank: Mitchell-Roberts Bank
+Account Number: 4870185696
+Consent Status: Revoked

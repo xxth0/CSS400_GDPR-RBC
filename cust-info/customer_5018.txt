@@ -1,0 +1,6 @@
+Customer ID: 5018
+Name: Amber Turner
+National ID: 188-73-3214
+Bank: Clark, Velez and Bush Bank
+Account Number: 1544471891
+Consent Status: Revoked

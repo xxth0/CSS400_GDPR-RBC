@@ -1,0 +1,6 @@
+Customer ID: 4770
+Name: Francis Woods
+National ID: 215-18-8065
+Bank: Bryan-Smith Bank
+Account Number: 1898250299
+Consent Status: Revoked

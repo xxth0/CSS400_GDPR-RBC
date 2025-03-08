@@ -1,0 +1,6 @@
+Customer ID: 7167
+Name: Andre Ruiz
+National ID: 398-64-0524
+Bank: Stanley-Jenkins Bank
+Account Number: 4417083328
+Consent Status: Revoked

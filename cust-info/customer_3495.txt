@@ -1,0 +1,6 @@
+Customer ID: 3495
+Name: Sandra Duncan
+National ID: 059-42-8119
+Bank: Weaver-Grant Bank
+Account Number: 5223105647
+Consent Status: Granted

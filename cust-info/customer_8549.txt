@@ -1,0 +1,6 @@
+Customer ID: 8549
+Name: Christopher Becker
+National ID: 067-82-7792
+Bank: Flowers-Vargas Bank
+Account Number: 9308185744
+Consent Status: Granted

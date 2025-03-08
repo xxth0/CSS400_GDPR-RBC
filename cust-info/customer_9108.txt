@@ -1,0 +1,6 @@
+Customer ID: 9108
+Name: James Miller
+National ID: 018-49-0361
+Bank: Reynolds-Mcgee Bank
+Account Number: 1809198236
+Consent Status: Granted

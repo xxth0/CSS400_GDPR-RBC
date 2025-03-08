@@ -1,0 +1,6 @@
+Customer ID: 4574
+Name: Meghan Mercado
+National ID: 318-99-7580
+Bank: Ross Inc Bank
+Account Number: 2835295675
+Consent Status: Granted

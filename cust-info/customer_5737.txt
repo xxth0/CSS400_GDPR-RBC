@@ -1,0 +1,6 @@
+Customer ID: 5737
+Name: Oscar Morris
+National ID: 055-63-8283
+Bank: Elliott PLC Bank
+Account Number: 3675461071
+Consent Status: Granted

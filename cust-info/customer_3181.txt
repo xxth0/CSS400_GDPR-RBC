@@ -1,0 +1,6 @@
+Customer ID: 3181
+Name: Joshua Chen
+National ID: 327-43-8935
+Bank: Harris Ltd Bank
+Account Number: 3757747299
+Consent Status: Revoked

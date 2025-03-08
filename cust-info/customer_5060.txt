@@ -1,0 +1,6 @@
+Customer ID: 5060
+Name: Christopher Hicks
+National ID: 869-05-5634
+Bank: Stewart LLC Bank
+Account Number: 2873153711
+Consent Status: Revoked

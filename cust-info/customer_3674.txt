@@ -1,0 +1,6 @@
+Customer ID: 3674
+Name: Angela Gross
+National ID: 623-22-9342
+Bank: Nelson Ltd Bank
+Account Number: 4836666366
+Consent Status: Granted

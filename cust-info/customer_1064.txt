@@ -1,0 +1,6 @@
+Customer ID: 1064
+Name: Clarence Nolan
+National ID: 290-31-2895
+Bank: Carroll, Farrell and Diaz Bank
+Account Number: 2025586810
+Consent Status: Granted

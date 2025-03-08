@@ -1,0 +1,6 @@
+Customer ID: 2883
+Name: Charles Burns
+National ID: 413-05-4774
+Bank: George LLC Bank
+Account Number: 2015555678
+Consent Status: Granted

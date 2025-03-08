@@ -1,0 +1,6 @@
+Customer ID: 6494
+Name: Katherine Bender
+National ID: 054-09-2384
+Bank: Joseph, Gonzales and Smith Bank
+Account Number: 3458651479
+Consent Status: Revoked

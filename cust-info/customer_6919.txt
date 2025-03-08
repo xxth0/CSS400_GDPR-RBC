@@ -1,0 +1,6 @@
+Customer ID: 6919
+Name: Dr. Michael Small
+National ID: 566-26-4305
+Bank: Carlson and Sons Bank
+Account Number: 5695806357
+Consent Status: Revoked

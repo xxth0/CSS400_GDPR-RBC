@@ -1,0 +1,6 @@
+Customer ID: 3831
+Name: Christine Weaver
+National ID: 178-34-6318
+Bank: Moore, Gutierrez and Grant Bank
+Account Number: 5806267483
+Consent Status: Revoked

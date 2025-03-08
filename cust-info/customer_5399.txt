@@ -1,0 +1,6 @@
+Customer ID: 5399
+Name: Derrick Johnson
+National ID: 847-19-8329
+Bank: Johnson and Sons Bank
+Account Number: 4544131231
+Consent Status: Revoked

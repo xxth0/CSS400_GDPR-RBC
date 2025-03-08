@@ -1,0 +1,6 @@
+Customer ID: 354
+Name: Justin Macias
+National ID: 135-88-0488
+Bank: Gray, Fletcher and Grant Bank
+Account Number: 8784991855
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5370
+Name: Andrew Aguirre
+National ID: 744-08-5345
+Bank: Smith Inc Bank
+Account Number: 5830076452
+Consent Status: Granted

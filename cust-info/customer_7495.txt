@@ -1,0 +1,6 @@
+Customer ID: 7495
+Name: Timothy Martinez
+National ID: 626-56-4736
+Bank: Williams, Palmer and Becker Bank
+Account Number: 2210620610
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 839
+Name: Keith Smith
+National ID: 301-87-7446
+Bank: Steele-Brown Bank
+Account Number: 3337229653
+Consent Status: Revoked

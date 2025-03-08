@@ -1,0 +1,6 @@
+Customer ID: 9973
+Name: Kathy Whitaker
+National ID: 226-31-4833
+Bank: Norton-Rodriguez Bank
+Account Number: 5801486396
+Consent Status: Revoked

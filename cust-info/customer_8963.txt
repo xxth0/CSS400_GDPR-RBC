@@ -1,0 +1,6 @@
+Customer ID: 8963
+Name: Raymond Hinton
+National ID: 275-29-0591
+Bank: Campbell, Reid and Blair Bank
+Account Number: 9989090027
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6670
+Name: Elizabeth Young
+National ID: 232-48-8039
+Bank: Price-Khan Bank
+Account Number: 1364672223
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4263
+Name: Barbara Smith
+National ID: 371-90-3464
+Bank: Lawson Ltd Bank
+Account Number: 4825360674
+Consent Status: Granted

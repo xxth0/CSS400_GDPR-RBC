@@ -1,0 +1,6 @@
+Customer ID: 8156
+Name: Nancy Vazquez
+National ID: 281-48-2644
+Bank: Robertson PLC Bank
+Account Number: 9388176304
+Consent Status: Granted

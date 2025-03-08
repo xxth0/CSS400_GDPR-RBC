@@ -1,0 +1,6 @@
+Customer ID: 3967
+Name: Andrea Reed
+National ID: 141-07-5048
+Bank: Miller-Lopez Bank
+Account Number: 4372476396
+Consent Status: Revoked

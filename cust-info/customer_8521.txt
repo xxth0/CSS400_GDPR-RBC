@@ -1,0 +1,6 @@
+Customer ID: 8521
+Name: Cynthia Smith
+National ID: 390-49-6143
+Bank: Patton, Parker and Gardner Bank
+Account Number: 6526493446
+Consent Status: Granted

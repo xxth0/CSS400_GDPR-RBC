@@ -1,0 +1,6 @@
+Customer ID: 5952
+Name: Chelsea Kelly
+National ID: 440-14-0102
+Bank: Edwards LLC Bank
+Account Number: 6269967935
+Consent Status: Granted

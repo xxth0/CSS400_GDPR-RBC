@@ -1,0 +1,6 @@
+Customer ID: 4112
+Name: Jennifer Burton
+National ID: 171-47-1918
+Bank: Clark, Davenport and Gonzalez Bank
+Account Number: 2988574046
+Consent Status: Granted

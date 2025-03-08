@@ -1,0 +1,6 @@
+Customer ID: 4398
+Name: Nathaniel Simon
+National ID: 349-37-0758
+Bank: Adams-Kelley Bank
+Account Number: 2004706239
+Consent Status: Granted

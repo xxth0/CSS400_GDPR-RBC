@@ -1,0 +1,6 @@
+Customer ID: 2745
+Name: Susan Williams
+National ID: 053-28-0279
+Bank: Rosales PLC Bank
+Account Number: 1257103515
+Consent Status: Revoked

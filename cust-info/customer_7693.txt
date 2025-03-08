@@ -1,0 +1,6 @@
+Customer ID: 7693
+Name: Ryan Contreras
+National ID: 590-93-2996
+Bank: Harris Group Bank
+Account Number: 9430223737
+Consent Status: Revoked

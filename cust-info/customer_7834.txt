@@ -1,0 +1,6 @@
+Customer ID: 7834
+Name: Vincent Clark
+National ID: 839-06-1247
+Bank: Walker-Smith Bank
+Account Number: 9144279456
+Consent Status: Granted

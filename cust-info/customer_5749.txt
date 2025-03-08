@@ -1,0 +1,6 @@
+Customer ID: 5749
+Name: Sandra Buckley
+National ID: 353-92-4212
+Bank: Reynolds Ltd Bank
+Account Number: 7822450803
+Consent Status: Revoked

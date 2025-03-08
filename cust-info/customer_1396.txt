@@ -1,0 +1,6 @@
+Customer ID: 1396
+Name: Julie Harris
+National ID: 033-70-8203
+Bank: Burton PLC Bank
+Account Number: 3131289087
+Consent Status: Granted

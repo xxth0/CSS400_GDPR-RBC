@@ -1,0 +1,6 @@
+Customer ID: 1848
+Name: Zachary Flores
+National ID: 648-21-4933
+Bank: Ray and Sons Bank
+Account Number: 1507389718
+Consent Status: Revoked

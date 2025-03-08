@@ -1,0 +1,6 @@
+Customer ID: 7867
+Name: Terri Martinez
+National ID: 233-95-2130
+Bank: Franklin-Bray Bank
+Account Number: 3348036485
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5215
+Name: Pamela Sanchez
+National ID: 724-70-6617
+Bank: Lopez, Love and Bell Bank
+Account Number: 7932488401
+Consent Status: Revoked

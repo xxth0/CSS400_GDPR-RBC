@@ -1,0 +1,6 @@
+Customer ID: 9564
+Name: Tamara Medina
+National ID: 663-93-7183
+Bank: Berry, Wood and Henderson Bank
+Account Number: 1219954640
+Consent Status: Revoked

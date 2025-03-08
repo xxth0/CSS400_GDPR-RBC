@@ -1,0 +1,6 @@
+Customer ID: 1684
+Name: Reginald Mitchell
+National ID: 639-19-9155
+Bank: Wolfe, Brooks and Garcia Bank
+Account Number: 2192184487
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2896
+Name: Jerome Cantrell
+National ID: 258-95-2496
+Bank: Walker Ltd Bank
+Account Number: 1296929582
+Consent Status: Granted

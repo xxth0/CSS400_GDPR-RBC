@@ -1,0 +1,6 @@
+Customer ID: 9869
+Name: Charles Lynch
+National ID: 810-84-1879
+Bank: Medina, Sanchez and Parker Bank
+Account Number: 5722695318
+Consent Status: Revoked

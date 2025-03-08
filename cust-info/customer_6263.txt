@@ -1,0 +1,6 @@
+Customer ID: 6263
+Name: Andrew Smith
+National ID: 206-07-6849
+Bank: Glenn-Mills Bank
+Account Number: 2606878302
+Consent Status: Revoked

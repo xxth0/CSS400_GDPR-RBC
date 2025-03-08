@@ -1,0 +1,6 @@
+Customer ID: 6213
+Name: Tammy Martinez
+National ID: 441-17-2790
+Bank: Johns-Gates Bank
+Account Number: 8491820867
+Consent Status: Granted

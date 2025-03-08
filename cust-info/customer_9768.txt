@@ -1,0 +1,6 @@
+Customer ID: 9768
+Name: Patrick Hill
+National ID: 157-53-9103
+Bank: Wolfe, Burton and Daugherty Bank
+Account Number: 6018156639
+Consent Status: Revoked

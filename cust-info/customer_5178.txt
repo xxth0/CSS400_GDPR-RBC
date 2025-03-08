@@ -1,0 +1,6 @@
+Customer ID: 5178
+Name: Deanna Juarez
+National ID: 165-44-5901
+Bank: Foster-Soto Bank
+Account Number: 6116602170
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 238
+Name: Sharon Roberts
+National ID: 541-72-8980
+Bank: Harmon-Hicks Bank
+Account Number: 8826570624
+Consent Status: Revoked

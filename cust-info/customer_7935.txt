@@ -1,0 +1,6 @@
+Customer ID: 7935
+Name: Julie Wilson
+National ID: 494-08-6051
+Bank: Moore-Weaver Bank
+Account Number: 9255101492
+Consent Status: Granted

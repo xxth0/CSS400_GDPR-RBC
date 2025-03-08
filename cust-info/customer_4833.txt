@@ -1,0 +1,6 @@
+Customer ID: 4833
+Name: Vincent Green
+National ID: 300-04-2924
+Bank: Edwards, Mitchell and Donovan Bank
+Account Number: 2546714985
+Consent Status: Revoked

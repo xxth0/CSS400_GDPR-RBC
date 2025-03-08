@@ -1,0 +1,6 @@
+Customer ID: 4108
+Name: John Bradley
+National ID: 361-07-7553
+Bank: Brown-Farrell Bank
+Account Number: 2777091105
+Consent Status: Revoked

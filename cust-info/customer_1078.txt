@@ -1,0 +1,6 @@
+Customer ID: 1078
+Name: Hunter West
+National ID: 629-33-2685
+Bank: Martin-Cooper Bank
+Account Number: 9029118281
+Consent Status: Granted

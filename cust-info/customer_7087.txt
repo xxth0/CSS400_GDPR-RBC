@@ -1,0 +1,6 @@
+Customer ID: 7087
+Name: Christopher Kim
+National ID: 607-80-3526
+Bank: Cochran, Williams and Brewer Bank
+Account Number: 2420124571
+Consent Status: Granted

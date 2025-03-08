@@ -1,0 +1,6 @@
+Customer ID: 8332
+Name: Donald Martinez
+National ID: 028-62-6389
+Bank: Evans, Stein and Wiggins Bank
+Account Number: 8460314854
+Consent Status: Granted

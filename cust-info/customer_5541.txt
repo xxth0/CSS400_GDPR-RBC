@@ -1,0 +1,6 @@
+Customer ID: 5541
+Name: Randy Best
+National ID: 369-43-4786
+Bank: Sanchez, Patel and Oneill Bank
+Account Number: 4397561384
+Consent Status: Revoked

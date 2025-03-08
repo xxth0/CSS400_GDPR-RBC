@@ -1,0 +1,6 @@
+Customer ID: 5671
+Name: Cassidy Thomas
+National ID: 728-77-7739
+Bank: Cervantes-Cochran Bank
+Account Number: 5328019572
+Consent Status: Revoked

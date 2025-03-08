@@ -1,0 +1,6 @@
+Customer ID: 4098
+Name: Jeanette Schultz
+National ID: 355-50-4365
+Bank: Newton Ltd Bank
+Account Number: 1882693952
+Consent Status: Granted

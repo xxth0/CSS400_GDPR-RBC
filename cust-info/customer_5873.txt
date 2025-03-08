@@ -1,0 +1,6 @@
+Customer ID: 5873
+Name: Nicole Bowen
+National ID: 620-33-2524
+Bank: Simon, Nolan and Miller Bank
+Account Number: 3243741719
+Consent Status: Granted

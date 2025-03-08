@@ -1,0 +1,6 @@
+Customer ID: 1290
+Name: Stephen Perry
+National ID: 645-20-6359
+Bank: Kelly PLC Bank
+Account Number: 2997593885
+Consent Status: Revoked

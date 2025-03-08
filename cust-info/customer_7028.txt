@@ -1,0 +1,6 @@
+Customer ID: 7028
+Name: Valerie Bryant
+National ID: 437-17-2717
+Bank: Wolfe Ltd Bank
+Account Number: 9823650301
+Consent Status: Revoked

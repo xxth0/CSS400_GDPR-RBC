@@ -1,0 +1,6 @@
+Customer ID: 7484
+Name: Kevin Todd
+National ID: 538-37-9582
+Bank: Manning-Wilson Bank
+Account Number: 8126292303
+Consent Status: Granted

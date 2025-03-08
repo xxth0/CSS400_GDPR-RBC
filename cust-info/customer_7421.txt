@@ -1,0 +1,6 @@
+Customer ID: 7421
+Name: Mr. Timothy Gardner
+National ID: 776-65-8006
+Bank: Cruz-Charles Bank
+Account Number: 8251425019
+Consent Status: Granted

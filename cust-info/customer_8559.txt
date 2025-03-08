@@ -1,0 +1,6 @@
+Customer ID: 8559
+Name: Michael House
+National ID: 207-66-0139
+Bank: Perez LLC Bank
+Account Number: 5943206307
+Consent Status: Revoked

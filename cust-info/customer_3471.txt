@@ -1,0 +1,6 @@
+Customer ID: 3471
+Name: Michael Harrison
+National ID: 155-75-9611
+Bank: Ward LLC Bank
+Account Number: 9026257977
+Consent Status: Revoked

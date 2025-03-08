@@ -1,0 +1,6 @@
+Customer ID: 9798
+Name: Jeffery Romero
+National ID: 077-11-2916
+Bank: Ellis PLC Bank
+Account Number: 1820357007
+Consent Status: Granted

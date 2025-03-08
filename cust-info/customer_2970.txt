@@ -1,0 +1,6 @@
+Customer ID: 2970
+Name: Charles Sloan
+National ID: 438-97-7004
+Bank: Duncan Ltd Bank
+Account Number: 6829232326
+Consent Status: Granted

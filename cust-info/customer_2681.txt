@@ -1,0 +1,6 @@
+Customer ID: 2681
+Name: Laura Lawson
+National ID: 582-87-1028
+Bank: Randolph, Martin and Clark Bank
+Account Number: 5921812399
+Consent Status: Granted

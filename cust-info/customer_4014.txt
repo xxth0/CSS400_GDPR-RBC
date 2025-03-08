@@ -1,0 +1,6 @@
+Customer ID: 4014
+Name: Jose Harris
+National ID: 108-19-5500
+Bank: Klein, Adkins and Steele Bank
+Account Number: 9342641738
+Consent Status: Revoked

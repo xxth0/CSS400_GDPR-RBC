@@ -1,0 +1,6 @@
+Customer ID: 8551
+Name: Michael Garza
+National ID: 483-89-2748
+Bank: Green-Wood Bank
+Account Number: 3365129337
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6485
+Name: Susan Fuller
+National ID: 659-58-2452
+Bank: Washington Ltd Bank
+Account Number: 8494028503
+Consent Status: Granted

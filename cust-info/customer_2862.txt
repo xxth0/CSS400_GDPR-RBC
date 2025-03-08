@@ -1,0 +1,6 @@
+Customer ID: 2862
+Name: Allison Hudson
+National ID: 462-88-8542
+Bank: Peterson, Martin and Garcia Bank
+Account Number: 6842514705
+Consent Status: Granted

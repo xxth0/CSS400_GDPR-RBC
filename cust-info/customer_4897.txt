@@ -1,0 +1,6 @@
+Customer ID: 4897
+Name: Sandra Fox
+National ID: 270-03-7184
+Bank: Reynolds-Wallace Bank
+Account Number: 7089448655
+Consent Status: Granted

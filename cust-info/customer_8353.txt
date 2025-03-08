@@ -1,0 +1,6 @@
+Customer ID: 8353
+Name: Adam Young
+National ID: 724-76-6726
+Bank: Griffin, Solomon and Kim Bank
+Account Number: 2309820428
+Consent Status: Granted

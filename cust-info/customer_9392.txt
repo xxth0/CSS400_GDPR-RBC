@@ -1,0 +1,6 @@
+Customer ID: 9392
+Name: Denise Carr
+National ID: 574-26-3935
+Bank: Hancock-Williams Bank
+Account Number: 8996671065
+Consent Status: Granted

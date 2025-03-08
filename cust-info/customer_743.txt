@@ -1,0 +1,6 @@
+Customer ID: 743
+Name: Robert Stephens
+National ID: 417-91-6274
+Bank: Elliott-Robinson Bank
+Account Number: 6255197620
+Consent Status: Granted

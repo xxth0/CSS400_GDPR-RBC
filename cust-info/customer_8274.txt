@@ -1,0 +1,6 @@
+Customer ID: 8274
+Name: Linda Ross
+National ID: 035-36-8590
+Bank: Smith-Cox Bank
+Account Number: 8004038199
+Consent Status: Revoked

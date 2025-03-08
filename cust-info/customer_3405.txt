@@ -1,0 +1,6 @@
+Customer ID: 3405
+Name: Robert Morales
+National ID: 036-55-6174
+Bank: Sullivan, Anderson and Rivera Bank
+Account Number: 9771272904
+Consent Status: Revoked

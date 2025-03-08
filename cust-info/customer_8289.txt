@@ -1,0 +1,6 @@
+Customer ID: 8289
+Name: Adam Harris
+National ID: 766-12-9746
+Bank: Kane Inc Bank
+Account Number: 6509322256
+Consent Status: Revoked

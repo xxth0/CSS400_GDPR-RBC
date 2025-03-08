@@ -1,0 +1,6 @@
+Customer ID: 7231
+Name: Jessica Archer
+National ID: 489-27-1937
+Bank: Alvarado, Hunt and West Bank
+Account Number: 5471984697
+Consent Status: Revoked

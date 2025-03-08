@@ -1,0 +1,6 @@
+Customer ID: 8868
+Name: Michael Patel
+National ID: 622-53-3940
+Bank: Turner, Mcdowell and Nguyen Bank
+Account Number: 3690477220
+Consent Status: Revoked

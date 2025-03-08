@@ -1,0 +1,6 @@
+Customer ID: 8382
+Name: Erica Diaz
+National ID: 826-45-8656
+Bank: Doyle-Hansen Bank
+Account Number: 1666798995
+Consent Status: Granted

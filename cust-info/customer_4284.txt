@@ -1,0 +1,6 @@
+Customer ID: 4284
+Name: Jeffrey Becker
+National ID: 687-15-4295
+Bank: Miller, Swanson and Glover Bank
+Account Number: 8135126992
+Consent Status: Granted

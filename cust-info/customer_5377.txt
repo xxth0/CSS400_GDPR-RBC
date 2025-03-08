@@ -1,0 +1,6 @@
+Customer ID: 5377
+Name: Mark Bailey
+National ID: 134-05-0176
+Bank: Turner, Maynard and Johnson Bank
+Account Number: 5977009746
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9969
+Name: Samantha Newton
+National ID: 476-16-8253
+Bank: Clayton-Garza Bank
+Account Number: 9271092734
+Consent Status: Granted

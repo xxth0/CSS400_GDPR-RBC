@@ -1,0 +1,6 @@
+Customer ID: 8400
+Name: Holly Rice
+National ID: 809-55-1934
+Bank: Allen LLC Bank
+Account Number: 4798525426
+Consent Status: Granted

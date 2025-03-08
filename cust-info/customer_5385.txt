@@ -1,0 +1,6 @@
+Customer ID: 5385
+Name: Christopher Oliver
+National ID: 210-11-4971
+Bank: Warren PLC Bank
+Account Number: 3880690450
+Consent Status: Granted

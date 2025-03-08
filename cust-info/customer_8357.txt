@@ -1,0 +1,6 @@
+Customer ID: 8357
+Name: Andrea Spencer
+National ID: 716-39-0743
+Bank: Ward, Thomas and Spears Bank
+Account Number: 4293473560
+Consent Status: Revoked

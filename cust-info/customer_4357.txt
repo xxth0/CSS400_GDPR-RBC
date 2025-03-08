@@ -1,0 +1,6 @@
+Customer ID: 4357
+Name: Tina Williams
+National ID: 515-95-0432
+Bank: Jones, Price and Ortiz Bank
+Account Number: 7161965712
+Consent Status: Revoked

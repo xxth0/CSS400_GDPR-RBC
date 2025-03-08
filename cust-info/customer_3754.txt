@@ -1,0 +1,6 @@
+Customer ID: 3754
+Name: James Hayden
+National ID: 036-89-2555
+Bank: Benjamin, Ford and Gonzalez Bank
+Account Number: 5355104245
+Consent Status: Granted

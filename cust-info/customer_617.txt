@@ -1,0 +1,6 @@
+Customer ID: 617
+Name: Kelly Watts
+National ID: 894-92-0408
+Bank: Johnson, Johnson and Sullivan Bank
+Account Number: 7809959562
+Consent Status: Granted

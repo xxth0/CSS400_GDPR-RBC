@@ -1,0 +1,6 @@
+Customer ID: 4790
+Name: Hunter Brown
+National ID: 381-71-4792
+Bank: Christian, Diaz and Lee Bank
+Account Number: 1862623111
+Consent Status: Granted

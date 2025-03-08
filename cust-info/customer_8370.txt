@@ -1,0 +1,6 @@
+Customer ID: 8370
+Name: Jeffrey Mcbride
+National ID: 459-35-6230
+Bank: Olsen-Weber Bank
+Account Number: 7710178669
+Consent Status: Granted

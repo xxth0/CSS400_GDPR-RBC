@@ -1,0 +1,6 @@
+Customer ID: 2823
+Name: Jorge Ferguson
+National ID: 822-74-0966
+Bank: Nelson Ltd Bank
+Account Number: 6436388124
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3749
+Name: Harold Brown
+National ID: 360-45-9850
+Bank: Miller Ltd Bank
+Account Number: 7483530901
+Consent Status: Revoked

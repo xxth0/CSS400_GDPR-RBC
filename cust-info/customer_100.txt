@@ -1,0 +1,6 @@
+Customer ID: 100
+Name: Carol Baldwin
+National ID: 442-82-4538
+Bank: Rivas LLC Bank
+Account Number: 9691147692
+Consent Status: Granted

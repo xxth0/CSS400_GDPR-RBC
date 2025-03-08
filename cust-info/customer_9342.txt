@@ -1,0 +1,6 @@
+Customer ID: 9342
+Name: Jessica Thornton
+National ID: 168-67-3825
+Bank: Harrington LLC Bank
+Account Number: 3510037102
+Consent Status: Granted

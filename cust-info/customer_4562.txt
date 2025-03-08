@@ -1,0 +1,6 @@
+Customer ID: 4562
+Name: Barbara Roberts
+National ID: 316-78-6117
+Bank: Burch-Wilson Bank
+Account Number: 7097759730
+Consent Status: Revoked

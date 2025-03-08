@@ -1,0 +1,6 @@
+Customer ID: 7052
+Name: Heather White
+National ID: 134-30-6416
+Bank: Gonzalez Group Bank
+Account Number: 4301439911
+Consent Status: Granted

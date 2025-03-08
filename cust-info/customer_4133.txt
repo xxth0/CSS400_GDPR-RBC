@@ -1,0 +1,6 @@
+Customer ID: 4133
+Name: Amanda Holmes
+National ID: 330-44-8191
+Bank: Allison-Merritt Bank
+Account Number: 7231543758
+Consent Status: Granted

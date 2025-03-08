@@ -1,0 +1,6 @@
+Customer ID: 439
+Name: Angela Boyle
+National ID: 834-67-7330
+Bank: Lee-Cobb Bank
+Account Number: 9131445761
+Consent Status: Revoked

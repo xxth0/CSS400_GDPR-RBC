@@ -1,0 +1,6 @@
+Customer ID: 4504
+Name: Stephanie Love
+National ID: 491-47-2100
+Bank: Martinez LLC Bank
+Account Number: 7881526952
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1256
+Name: Adam Griffin
+National ID: 591-27-6670
+Bank: Taylor-Lee Bank
+Account Number: 7824515091
+Consent Status: Granted

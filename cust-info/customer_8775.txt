@@ -1,0 +1,6 @@
+Customer ID: 8775
+Name: Eric Shepard
+National ID: 739-26-3407
+Bank: Sanchez Ltd Bank
+Account Number: 4216466402
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4604
+Name: Lauren Howell
+National ID: 178-51-8821
+Bank: Blackwell, Kaiser and Young Bank
+Account Number: 1870699942
+Consent Status: Granted

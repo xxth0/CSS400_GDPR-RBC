@@ -1,0 +1,6 @@
+Customer ID: 2533
+Name: Dawn Rich
+National ID: 809-82-4671
+Bank: Martinez-Brooks Bank
+Account Number: 6070269979
+Consent Status: Revoked

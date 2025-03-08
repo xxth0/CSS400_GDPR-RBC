@@ -1,0 +1,6 @@
+Customer ID: 3200
+Name: Charles Salazar
+National ID: 163-44-9044
+Bank: Petty, Evans and Lopez Bank
+Account Number: 9046961877
+Consent Status: Revoked

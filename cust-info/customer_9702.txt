@@ -1,0 +1,6 @@
+Customer ID: 9702
+Name: Mr. Cameron Horton
+National ID: 144-69-1408
+Bank: Wise Inc Bank
+Account Number: 5401055660
+Consent Status: Revoked

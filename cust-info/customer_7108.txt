@@ -1,0 +1,6 @@
+Customer ID: 7108
+Name: Robert Martinez
+National ID: 058-46-5875
+Bank: Dawson-Armstrong Bank
+Account Number: 2801790848
+Consent Status: Granted

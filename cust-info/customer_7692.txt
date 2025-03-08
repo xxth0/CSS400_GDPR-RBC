@@ -1,0 +1,6 @@
+Customer ID: 7692
+Name: Richard Chan
+National ID: 339-62-3759
+Bank: Evans, Holmes and Turner Bank
+Account Number: 2947044022
+Consent Status: Revoked

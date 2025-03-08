@@ -1,0 +1,6 @@
+Customer ID: 385
+Name: Christopher Chavez
+National ID: 051-11-8221
+Bank: Sharp-Schwartz Bank
+Account Number: 4769092717
+Consent Status: Revoked

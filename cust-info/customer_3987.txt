@@ -1,0 +1,6 @@
+Customer ID: 3987
+Name: Jennifer Whitaker
+National ID: 451-07-2098
+Bank: Anderson, Olson and Vazquez Bank
+Account Number: 4189442782
+Consent Status: Granted

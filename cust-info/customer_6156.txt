@@ -1,0 +1,6 @@
+Customer ID: 6156
+Name: Nicholas Kirk
+National ID: 472-02-8055
+Bank: Davis, Aguilar and Flores Bank
+Account Number: 9144970834
+Consent Status: Granted

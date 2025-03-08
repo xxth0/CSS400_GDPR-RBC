@@ -1,0 +1,6 @@
+Customer ID: 4587
+Name: Laura Lewis
+National ID: 878-48-0677
+Bank: Black, Stephenson and Olson Bank
+Account Number: 3180340497
+Consent Status: Revoked

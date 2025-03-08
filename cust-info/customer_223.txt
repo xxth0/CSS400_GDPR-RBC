@@ -1,0 +1,6 @@
+Customer ID: 223
+Name: Daniel Ramsey
+National ID: 627-76-8481
+Bank: Alexander Inc Bank
+Account Number: 2230626908
+Consent Status: Granted

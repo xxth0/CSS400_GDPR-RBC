@@ -1,0 +1,6 @@
+Customer ID: 9525
+Name: Sherry Martin
+National ID: 550-20-3442
+Bank: Sanchez-Hays Bank
+Account Number: 2641613511
+Consent Status: Revoked

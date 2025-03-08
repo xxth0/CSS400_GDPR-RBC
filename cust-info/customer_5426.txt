@@ -1,0 +1,6 @@
+Customer ID: 5426
+Name: Michael King
+National ID: 326-11-2156
+Bank: Jackson, Rodriguez and Gutierrez Bank
+Account Number: 2868790165
+Consent Status: Granted

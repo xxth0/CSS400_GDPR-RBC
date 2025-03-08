@@ -1,0 +1,6 @@
+Customer ID: 3731
+Name: Megan Thomas
+National ID: 771-32-1117
+Bank: Barr-Petty Bank
+Account Number: 3926554400
+Consent Status: Granted

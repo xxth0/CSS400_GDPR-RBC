@@ -1,0 +1,6 @@
+Customer ID: 9422
+Name: Luke Buchanan
+National ID: 266-94-3615
+Bank: Lang LLC Bank
+Account Number: 6408380863
+Consent Status: Granted

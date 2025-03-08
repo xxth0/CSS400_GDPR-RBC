@@ -1,0 +1,6 @@
+Customer ID: 9269
+Name: Emily Carson
+National ID: 555-44-6432
+Bank: Good-King Bank
+Account Number: 1732377233
+Consent Status: Revoked

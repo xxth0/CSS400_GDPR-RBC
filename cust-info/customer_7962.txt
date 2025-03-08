@@ -1,0 +1,6 @@
+Customer ID: 7962
+Name: Justin Garza
+National ID: 059-47-6411
+Bank: Wiley, York and Curtis Bank
+Account Number: 5788302883
+Consent Status: Revoked

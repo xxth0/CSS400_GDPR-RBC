@@ -1,0 +1,6 @@
+Customer ID: 8548
+Name: David Welch
+National ID: 653-81-1410
+Bank: Gaines, Macdonald and Dalton Bank
+Account Number: 6968368745
+Consent Status: Granted

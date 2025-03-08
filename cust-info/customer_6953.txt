@@ -1,0 +1,6 @@
+Customer ID: 6953
+Name: Mckenzie Jones
+National ID: 622-48-7429
+Bank: Perez-Smith Bank
+Account Number: 7558871308
+Consent Status: Granted

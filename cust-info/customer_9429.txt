@@ -1,0 +1,6 @@
+Customer ID: 9429
+Name: David Frost
+National ID: 023-63-3917
+Bank: Martinez Group Bank
+Account Number: 1711165390
+Consent Status: Revoked

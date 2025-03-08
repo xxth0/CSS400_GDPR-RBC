@@ -1,0 +1,6 @@
+Customer ID: 576
+Name: David Smith
+National ID: 867-94-8593
+Bank: Dominguez and Sons Bank
+Account Number: 9023166131
+Consent Status: Revoked

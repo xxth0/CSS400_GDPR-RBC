@@ -1,0 +1,6 @@
+Customer ID: 5860
+Name: Timothy Patel
+National ID: 411-13-7513
+Bank: Smith LLC Bank
+Account Number: 9711557448
+Consent Status: Granted

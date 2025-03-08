@@ -1,0 +1,6 @@
+Customer ID: 8591
+Name: Michelle Griffin
+National ID: 469-15-1569
+Bank: Munoz-Stephens Bank
+Account Number: 4464164464
+Consent Status: Revoked

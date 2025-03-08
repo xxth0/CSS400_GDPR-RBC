@@ -1,0 +1,6 @@
+Customer ID: 6841
+Name: Austin Carter
+National ID: 552-11-2108
+Bank: Scott PLC Bank
+Account Number: 1976849087
+Consent Status: Granted

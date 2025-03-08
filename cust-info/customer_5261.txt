@@ -1,0 +1,6 @@
+Customer ID: 5261
+Name: Cody Huynh
+National ID: 818-59-3512
+Bank: Ho-Holt Bank
+Account Number: 1755601277
+Consent Status: Revoked

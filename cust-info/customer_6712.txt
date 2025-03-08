@@ -1,0 +1,6 @@
+Customer ID: 6712
+Name: Thomas Smith
+National ID: 636-63-9159
+Bank: Thompson, Whitaker and Fox Bank
+Account Number: 3482243254
+Consent Status: Revoked

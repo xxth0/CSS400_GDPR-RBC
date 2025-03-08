@@ -1,0 +1,6 @@
+Customer ID: 5885
+Name: Billy Hester
+National ID: 509-77-1861
+Bank: Wang, Thompson and Hinton Bank
+Account Number: 5862938122
+Consent Status: Revoked

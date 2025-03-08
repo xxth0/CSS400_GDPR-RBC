@@ -1,0 +1,6 @@
+Customer ID: 5763
+Name: Steven Miller
+National ID: 535-76-8426
+Bank: Montgomery, Hernandez and Keller Bank
+Account Number: 4997981740
+Consent Status: Revoked

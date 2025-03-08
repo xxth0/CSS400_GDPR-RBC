@@ -1,0 +1,6 @@
+Customer ID: 8662
+Name: James Wong
+National ID: 847-27-5119
+Bank: Jordan Ltd Bank
+Account Number: 8490262173
+Consent Status: Revoked

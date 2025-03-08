@@ -1,0 +1,6 @@
+Customer ID: 6787
+Name: Michael Bridges
+National ID: 393-99-2922
+Bank: Williams Inc Bank
+Account Number: 6534465304
+Consent Status: Granted

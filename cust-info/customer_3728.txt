@@ -1,0 +1,6 @@
+Customer ID: 3728
+Name: Lisa Hunter
+National ID: 462-89-4206
+Bank: Ramirez, Wells and Taylor Bank
+Account Number: 8586539785
+Consent Status: Granted

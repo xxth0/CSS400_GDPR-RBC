@@ -1,0 +1,6 @@
+Customer ID: 4620
+Name: Rebecca Norton
+National ID: 765-73-0525
+Bank: Massey-Harvey Bank
+Account Number: 2824739877
+Consent Status: Revoked

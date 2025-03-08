@@ -1,0 +1,6 @@
+Customer ID: 3585
+Name: Maria Torres
+National ID: 818-31-6287
+Bank: Munoz, Macdonald and Daniel Bank
+Account Number: 9947399310
+Consent Status: Granted

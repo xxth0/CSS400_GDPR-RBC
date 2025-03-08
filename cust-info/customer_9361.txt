@@ -1,0 +1,6 @@
+Customer ID: 9361
+Name: Crystal Edwards
+National ID: 560-47-6140
+Bank: Reid-Ferguson Bank
+Account Number: 8165763281
+Consent Status: Revoked

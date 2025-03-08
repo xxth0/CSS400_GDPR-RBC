@@ -1,0 +1,6 @@
+Customer ID: 1054
+Name: Willie Ellis
+National ID: 270-06-2902
+Bank: Burns LLC Bank
+Account Number: 2854387333
+Consent Status: Granted

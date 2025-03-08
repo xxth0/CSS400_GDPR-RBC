@@ -1,0 +1,6 @@
+Customer ID: 7059
+Name: Caleb Mccarthy
+National ID: 419-50-7057
+Bank: Brooks-Taylor Bank
+Account Number: 6714248291
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7783
+Name: Edward Hoover
+National ID: 134-85-3732
+Bank: Lowe LLC Bank
+Account Number: 5855293337
+Consent Status: Revoked

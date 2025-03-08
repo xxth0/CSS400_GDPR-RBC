@@ -1,0 +1,6 @@
+Customer ID: 6939
+Name: Mary Duran
+National ID: 032-92-1084
+Bank: Jordan, Carpenter and Webb Bank
+Account Number: 8113996613
+Consent Status: Granted

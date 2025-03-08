@@ -1,0 +1,6 @@
+Customer ID: 8072
+Name: Mr. Ryan Pacheco
+National ID: 097-94-3145
+Bank: Coleman, Beck and Franco Bank
+Account Number: 9508124737
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4477
+Name: Lisa George
+National ID: 321-46-2361
+Bank: Nunez, Stevens and Frey Bank
+Account Number: 5381927270
+Consent Status: Revoked

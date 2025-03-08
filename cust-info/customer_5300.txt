@@ -1,0 +1,6 @@
+Customer ID: 5300
+Name: James George
+National ID: 508-58-8230
+Bank: Cobb, Marsh and Williams Bank
+Account Number: 5993684223
+Consent Status: Granted

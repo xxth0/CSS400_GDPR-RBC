@@ -1,0 +1,6 @@
+Customer ID: 9334
+Name: Shannon Beck
+National ID: 365-46-1928
+Bank: Howard-Swanson Bank
+Account Number: 6302168699
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9897
+Name: Tyler Parker
+National ID: 736-07-2734
+Bank: George Group Bank
+Account Number: 6628435910
+Consent Status: Granted

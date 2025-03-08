@@ -1,0 +1,6 @@
+Customer ID: 5412
+Name: Christina Francis
+National ID: 595-36-9601
+Bank: Nelson, Drake and Bennett Bank
+Account Number: 2778754583
+Consent Status: Revoked

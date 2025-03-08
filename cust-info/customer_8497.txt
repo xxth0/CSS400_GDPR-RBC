@@ -1,0 +1,6 @@
+Customer ID: 8497
+Name: Rachel Barnett
+National ID: 154-03-6296
+Bank: Jones and Sons Bank
+Account Number: 4498675701
+Consent Status: Revoked

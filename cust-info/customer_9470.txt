@@ -1,0 +1,6 @@
+Customer ID: 9470
+Name: Kenneth Stout
+National ID: 007-98-5571
+Bank: Stanley, Singh and Martinez Bank
+Account Number: 8164383146
+Consent Status: Revoked

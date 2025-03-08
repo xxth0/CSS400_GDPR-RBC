@@ -1,0 +1,6 @@
+Customer ID: 3064
+Name: Brianna Jones PhD
+National ID: 318-88-3881
+Bank: Lane-Williams Bank
+Account Number: 1308614646
+Consent Status: Granted

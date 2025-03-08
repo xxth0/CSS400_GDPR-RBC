@@ -1,0 +1,6 @@
+Customer ID: 152
+Name: Jonathan Soto
+National ID: 347-33-1787
+Bank: Wilson-Shelton Bank
+Account Number: 8555414272
+Consent Status: Granted

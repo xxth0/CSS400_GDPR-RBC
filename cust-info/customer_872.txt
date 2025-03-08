@@ -1,0 +1,6 @@
+Customer ID: 872
+Name: Jeffrey Harris
+National ID: 680-64-9980
+Bank: Zamora Ltd Bank
+Account Number: 9386772791
+Consent Status: Revoked

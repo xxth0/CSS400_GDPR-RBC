@@ -1,0 +1,6 @@
+Customer ID: 1498
+Name: Diamond Skinner
+National ID: 057-11-1120
+Bank: Ford-Navarro Bank
+Account Number: 7091294688
+Consent Status: Revoked

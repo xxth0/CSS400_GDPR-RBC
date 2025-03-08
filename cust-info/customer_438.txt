@@ -1,0 +1,6 @@
+Customer ID: 438
+Name: Katherine Douglas
+National ID: 358-15-1653
+Bank: Ferguson-Graham Bank
+Account Number: 5705946220
+Consent Status: Revoked

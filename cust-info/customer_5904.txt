@@ -1,0 +1,6 @@
+Customer ID: 5904
+Name: Collin Owens
+National ID: 733-11-7246
+Bank: Newman, Andrews and Romero Bank
+Account Number: 7261888199
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2423
+Name: Alex Sanchez
+National ID: 059-92-6009
+Bank: Chapman-Ortiz Bank
+Account Number: 6103047227
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3872
+Name: Daniel Carroll
+National ID: 819-05-8874
+Bank: Adams, Fisher and Keller Bank
+Account Number: 9592826165
+Consent Status: Granted

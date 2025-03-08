@@ -1,0 +1,6 @@
+Customer ID: 4468
+Name: David Adams
+National ID: 176-30-9929
+Bank: Macias PLC Bank
+Account Number: 6588445931
+Consent Status: Revoked

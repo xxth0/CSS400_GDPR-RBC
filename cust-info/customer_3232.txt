@@ -1,0 +1,6 @@
+Customer ID: 3232
+Name: Wendy Gonzalez
+National ID: 451-10-4376
+Bank: Hoover-Arnold Bank
+Account Number: 1451858478
+Consent Status: Revoked

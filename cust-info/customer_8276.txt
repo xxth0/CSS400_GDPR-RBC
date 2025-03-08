@@ -1,0 +1,6 @@
+Customer ID: 8276
+Name: Kathryn Nelson
+National ID: 384-21-6801
+Bank: Brooks-Ellis Bank
+Account Number: 9790722361
+Consent Status: Granted

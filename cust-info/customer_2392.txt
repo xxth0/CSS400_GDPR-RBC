@@ -1,0 +1,6 @@
+Customer ID: 2392
+Name: Jessica Ryan
+National ID: 546-07-1032
+Bank: Perry, Walsh and Gonzalez Bank
+Account Number: 5664031455
+Consent Status: Revoked

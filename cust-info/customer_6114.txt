@@ -1,0 +1,6 @@
+Customer ID: 6114
+Name: Sean Moore
+National ID: 570-03-2322
+Bank: Coleman-Bates Bank
+Account Number: 1622997652
+Consent Status: Granted

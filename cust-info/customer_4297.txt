@@ -1,0 +1,6 @@
+Customer ID: 4297
+Name: Sarah Wilson
+National ID: 308-53-5454
+Bank: Rodriguez, Macias and Patton Bank
+Account Number: 9480581615
+Consent Status: Revoked

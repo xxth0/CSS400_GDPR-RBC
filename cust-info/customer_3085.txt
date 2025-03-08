@@ -1,0 +1,6 @@
+Customer ID: 3085
+Name: Gary Smith
+National ID: 676-55-3986
+Bank: Barker PLC Bank
+Account Number: 6031698200
+Consent Status: Revoked

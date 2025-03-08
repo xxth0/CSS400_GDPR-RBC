@@ -1,0 +1,6 @@
+Customer ID: 5575
+Name: Molly Martin
+National ID: 851-62-8199
+Bank: Winters Group Bank
+Account Number: 7754401976
+Consent Status: Granted

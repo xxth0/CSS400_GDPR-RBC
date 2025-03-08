@@ -1,0 +1,6 @@
+Customer ID: 577
+Name: Jeffrey Shepherd
+National ID: 404-31-3109
+Bank: Ferguson LLC Bank
+Account Number: 6557009769
+Consent Status: Revoked

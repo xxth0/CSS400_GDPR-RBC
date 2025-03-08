@@ -1,0 +1,6 @@
+Customer ID: 6530
+Name: Karen Myers
+National ID: 174-37-2093
+Bank: Bradford-Thompson Bank
+Account Number: 8412691283
+Consent Status: Granted

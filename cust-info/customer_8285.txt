@@ -1,0 +1,6 @@
+Customer ID: 8285
+Name: Victoria Randall
+National ID: 568-20-1326
+Bank: Davis-Kelly Bank
+Account Number: 9089181288
+Consent Status: Granted

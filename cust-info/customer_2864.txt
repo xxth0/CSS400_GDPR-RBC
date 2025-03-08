@@ -1,0 +1,6 @@
+Customer ID: 2864
+Name: Paige Phillips
+National ID: 562-17-9035
+Bank: Wagner Inc Bank
+Account Number: 4034716880
+Consent Status: Revoked

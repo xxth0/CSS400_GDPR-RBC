@@ -1,0 +1,6 @@
+Customer ID: 6876
+Name: Katie Wallace
+National ID: 164-72-1569
+Bank: Williams LLC Bank
+Account Number: 8277118252
+Consent Status: Revoked

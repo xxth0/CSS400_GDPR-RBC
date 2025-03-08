@@ -1,0 +1,6 @@
+Customer ID: 3351
+Name: Stephanie Reynolds
+National ID: 651-82-4750
+Bank: Oliver-Brown Bank
+Account Number: 1250945025
+Consent Status: Granted

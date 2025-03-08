@@ -1,0 +1,6 @@
+Customer ID: 8761
+Name: Justin Palmer
+National ID: 150-20-0782
+Bank: Hayes-Vang Bank
+Account Number: 2217369847
+Consent Status: Revoked

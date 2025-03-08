@@ -1,0 +1,6 @@
+Customer ID: 8138
+Name: Mr. Luis Rogers
+National ID: 522-17-1954
+Bank: Anderson-Cooper Bank
+Account Number: 6506293140
+Consent Status: Granted

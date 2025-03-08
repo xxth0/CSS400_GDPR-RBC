@@ -1,0 +1,6 @@
+Customer ID: 5482
+Name: Andrew Mccormick
+National ID: 708-53-2121
+Bank: Stephenson, Boyd and Foley Bank
+Account Number: 9670516644
+Consent Status: Revoked

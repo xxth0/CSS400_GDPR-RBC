@@ -1,0 +1,6 @@
+Customer ID: 9765
+Name: Sarah Holt
+National ID: 615-02-4853
+Bank: Wolf Ltd Bank
+Account Number: 9788499082
+Consent Status: Granted

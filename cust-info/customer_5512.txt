@@ -1,0 +1,6 @@
+Customer ID: 5512
+Name: Albert Spencer
+National ID: 543-09-7168
+Bank: Young Ltd Bank
+Account Number: 2204424291
+Consent Status: Revoked

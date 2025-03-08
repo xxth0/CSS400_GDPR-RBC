@@ -1,0 +1,6 @@
+Customer ID: 4639
+Name: Joseph Johnson
+National ID: 092-06-3862
+Bank: Hill, Jenkins and Werner Bank
+Account Number: 8293580194
+Consent Status: Granted

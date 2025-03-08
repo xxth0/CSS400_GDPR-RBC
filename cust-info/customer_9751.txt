@@ -1,0 +1,6 @@
+Customer ID: 9751
+Name: Mr. Ryan Coleman
+National ID: 020-16-5685
+Bank: Jones, Montgomery and Jones Bank
+Account Number: 5189118701
+Consent Status: Revoked

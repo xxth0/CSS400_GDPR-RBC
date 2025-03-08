@@ -1,0 +1,6 @@
+Customer ID: 1501
+Name: Matthew Brown
+National ID: 859-50-0309
+Bank: Miller-Rowe Bank
+Account Number: 1727358793
+Consent Status: Granted

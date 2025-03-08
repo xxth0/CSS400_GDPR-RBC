@@ -1,0 +1,6 @@
+Customer ID: 6072
+Name: Kenneth Alexander
+National ID: 477-65-7421
+Bank: Mcdowell, Hernandez and Weeks Bank
+Account Number: 1780553429
+Consent Status: Granted

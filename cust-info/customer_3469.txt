@@ -1,0 +1,6 @@
+Customer ID: 3469
+Name: Stephanie Hodge
+National ID: 739-99-3573
+Bank: Zhang-Gomez Bank
+Account Number: 8548347320
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2370
+Name: Sarah Torres
+National ID: 576-12-9124
+Bank: Davis-Larson Bank
+Account Number: 2900887751
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9206
+Name: William Fields
+National ID: 168-84-6546
+Bank: Marshall-Schneider Bank
+Account Number: 4186054580
+Consent Status: Granted

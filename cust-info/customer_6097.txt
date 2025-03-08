@@ -1,0 +1,6 @@
+Customer ID: 6097
+Name: Paul Shields
+National ID: 820-80-0632
+Bank: White and Sons Bank
+Account Number: 6048662246
+Consent Status: Revoked

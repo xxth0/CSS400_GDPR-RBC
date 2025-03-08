@@ -1,0 +1,6 @@
+Customer ID: 4538
+Name: Paul Mueller
+National ID: 465-55-9362
+Bank: Nelson, Smith and Kent Bank
+Account Number: 8138999738
+Consent Status: Revoked

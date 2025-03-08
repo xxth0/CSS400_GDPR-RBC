@@ -1,0 +1,6 @@
+Customer ID: 7987
+Name: Kristin Harmon
+National ID: 591-97-0359
+Bank: Myers Group Bank
+Account Number: 3256654412
+Consent Status: Revoked

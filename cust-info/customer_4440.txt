@@ -1,0 +1,6 @@
+Customer ID: 4440
+Name: Gregory Miller
+National ID: 008-47-1913
+Bank: Cain, Warner and Sanders Bank
+Account Number: 2135642579
+Consent Status: Revoked

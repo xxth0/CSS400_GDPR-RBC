@@ -1,0 +1,6 @@
+Customer ID: 1486
+Name: Hannah Flores
+National ID: 839-45-2595
+Bank: Lynn-Rodriguez Bank
+Account Number: 5976672436
+Consent Status: Revoked

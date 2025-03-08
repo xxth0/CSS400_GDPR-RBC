@@ -1,0 +1,6 @@
+Customer ID: 1688
+Name: Jennifer Nguyen
+National ID: 266-73-2739
+Bank: Leonard-Brooks Bank
+Account Number: 5686407832
+Consent Status: Revoked

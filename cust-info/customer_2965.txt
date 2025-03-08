@@ -1,0 +1,6 @@
+Customer ID: 2965
+Name: Tammy Miller
+National ID: 174-70-0685
+Bank: Williams PLC Bank
+Account Number: 8276565945
+Consent Status: Granted

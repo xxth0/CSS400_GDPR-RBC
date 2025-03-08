@@ -1,0 +1,6 @@
+Customer ID: 71
+Name: Travis Torres
+National ID: 428-22-7100
+Bank: Lee, Hutchinson and Woodard Bank
+Account Number: 9491633424
+Consent Status: Revoked

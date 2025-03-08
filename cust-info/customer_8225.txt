@@ -1,0 +1,6 @@
+Customer ID: 8225
+Name: Thomas Wilson
+National ID: 534-07-8602
+Bank: Phillips Group Bank
+Account Number: 3528465188
+Consent Status: Revoked

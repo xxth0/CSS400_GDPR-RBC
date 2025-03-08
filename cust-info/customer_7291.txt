@@ -1,0 +1,6 @@
+Customer ID: 7291
+Name: Jill Nguyen
+National ID: 272-80-7254
+Bank: Reid-Barnett Bank
+Account Number: 4490346652
+Consent Status: Revoked

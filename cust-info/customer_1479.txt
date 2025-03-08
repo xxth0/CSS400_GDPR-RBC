@@ -1,0 +1,6 @@
+Customer ID: 1479
+Name: Aaron Romero
+National ID: 890-82-4564
+Bank: Haley-Peterson Bank
+Account Number: 4312726563
+Consent Status: Revoked

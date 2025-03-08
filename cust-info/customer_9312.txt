@@ -1,0 +1,6 @@
+Customer ID: 9312
+Name: Jesus Rivers
+National ID: 357-89-4234
+Bank: Cisneros-Estrada Bank
+Account Number: 2204207126
+Consent Status: Granted

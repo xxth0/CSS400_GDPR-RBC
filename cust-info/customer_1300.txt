@@ -1,0 +1,6 @@
+Customer ID: 1300
+Name: Kelsey Hill
+National ID: 493-15-3586
+Bank: Jackson-Smith Bank
+Account Number: 5484535514
+Consent Status: Revoked

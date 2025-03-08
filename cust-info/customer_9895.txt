@@ -1,0 +1,6 @@
+Customer ID: 9895
+Name: Alison Cooper
+National ID: 019-02-1205
+Bank: Webb and Sons Bank
+Account Number: 4670884308
+Consent Status: Revoked

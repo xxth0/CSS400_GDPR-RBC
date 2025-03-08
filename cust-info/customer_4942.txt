@@ -1,0 +1,6 @@
+Customer ID: 4942
+Name: Kevin Martinez Jr.
+National ID: 477-11-3436
+Bank: Snyder-Clark Bank
+Account Number: 9148714883
+Consent Status: Granted

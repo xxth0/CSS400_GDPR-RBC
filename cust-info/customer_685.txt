@@ -1,0 +1,6 @@
+Customer ID: 685
+Name: Justin Collins Jr.
+National ID: 214-39-4128
+Bank: Gonzalez-Johnson Bank
+Account Number: 3471655708
+Consent Status: Revoked

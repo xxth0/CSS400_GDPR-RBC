@@ -1,0 +1,6 @@
+Customer ID: 6798
+Name: Ryan Ruiz
+National ID: 393-33-4693
+Bank: Dixon, Peck and Ali Bank
+Account Number: 3330463588
+Consent Status: Revoked

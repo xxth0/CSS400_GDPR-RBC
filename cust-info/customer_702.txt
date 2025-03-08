@@ -1,0 +1,6 @@
+Customer ID: 702
+Name: Kelsey Davis
+National ID: 003-71-9610
+Bank: Bradley-Scott Bank
+Account Number: 8429933033
+Consent Status: Revoked

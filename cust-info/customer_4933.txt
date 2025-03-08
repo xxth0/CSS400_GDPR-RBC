@@ -1,0 +1,6 @@
+Customer ID: 4933
+Name: John Jones
+National ID: 181-70-7789
+Bank: Fernandez, Hester and Holmes Bank
+Account Number: 3735091419
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4520
+Name: Peter Malone
+National ID: 578-27-2986
+Bank: Powell, Hansen and Lara Bank
+Account Number: 2933408368
+Consent Status: Granted

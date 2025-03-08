@@ -1,0 +1,6 @@
+Customer ID: 6917
+Name: Brandy Bennett
+National ID: 865-02-8749
+Bank: Mason, Rice and Conner Bank
+Account Number: 5457367900
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4593
+Name: Aaron Payne
+National ID: 472-17-5089
+Bank: Bean-Gonzalez Bank
+Account Number: 4160549530
+Consent Status: Revoked

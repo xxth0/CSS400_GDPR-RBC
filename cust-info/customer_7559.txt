@@ -1,0 +1,6 @@
+Customer ID: 7559
+Name: Andrew Christian
+National ID: 414-57-0706
+Bank: Adkins-Waters Bank
+Account Number: 4517877989
+Consent Status: Revoked

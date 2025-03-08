@@ -1,0 +1,6 @@
+Customer ID: 5071
+Name: Anna Mcguire
+National ID: 121-84-3098
+Bank: Ingram, Lewis and Olson Bank
+Account Number: 7709536675
+Consent Status: Revoked

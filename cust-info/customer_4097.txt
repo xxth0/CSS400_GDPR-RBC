@@ -1,0 +1,6 @@
+Customer ID: 4097
+Name: Alejandro Spencer
+National ID: 776-11-1238
+Bank: Hopkins Ltd Bank
+Account Number: 9329706093
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1281
+Name: Nicholas Butler
+National ID: 887-95-5362
+Bank: Wilson and Sons Bank
+Account Number: 4488832307
+Consent Status: Revoked

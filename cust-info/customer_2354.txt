@@ -1,0 +1,6 @@
+Customer ID: 2354
+Name: Sarah Wise
+National ID: 216-27-8304
+Bank: Olson, Harris and Morrison Bank
+Account Number: 4410570634
+Consent Status: Granted

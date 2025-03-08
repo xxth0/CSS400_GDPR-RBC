@@ -1,0 +1,6 @@
+Customer ID: 4492
+Name: Christian Reynolds
+National ID: 032-57-0572
+Bank: Martin-Orr Bank
+Account Number: 8193468334
+Consent Status: Revoked

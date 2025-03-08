@@ -1,0 +1,6 @@
+Customer ID: 681
+Name: Michele Merritt
+National ID: 713-55-4168
+Bank: Thompson, Davis and Cunningham Bank
+Account Number: 9739184520
+Consent Status: Granted

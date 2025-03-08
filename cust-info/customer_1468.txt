@@ -1,0 +1,6 @@
+Customer ID: 1468
+Name: Jose Mata
+National ID: 244-18-0730
+Bank: Brown Group Bank
+Account Number: 5213194703
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6081
+Name: Gregory Smith
+National ID: 778-61-9242
+Bank: Hill-Benson Bank
+Account Number: 3656491555
+Consent Status: Revoked

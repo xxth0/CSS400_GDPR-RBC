@@ -1,0 +1,6 @@
+Customer ID: 9257
+Name: John Jackson
+National ID: 163-18-5799
+Bank: Lambert Inc Bank
+Account Number: 2554668596
+Consent Status: Granted

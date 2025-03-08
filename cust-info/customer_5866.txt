@@ -1,0 +1,6 @@
+Customer ID: 5866
+Name: Linda Dodson
+National ID: 443-98-5637
+Bank: White, Patterson and Rivers Bank
+Account Number: 5345889298
+Consent Status: Granted

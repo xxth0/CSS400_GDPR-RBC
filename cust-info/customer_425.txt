@@ -1,0 +1,6 @@
+Customer ID: 425
+Name: Christopher Diaz
+National ID: 172-79-5726
+Bank: Brewer PLC Bank
+Account Number: 2832734218
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3580
+Name: Edward Hernandez
+National ID: 673-02-0741
+Bank: Wolfe Ltd Bank
+Account Number: 2314780195
+Consent Status: Granted

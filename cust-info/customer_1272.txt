@@ -1,0 +1,6 @@
+Customer ID: 1272
+Name: Rachel Porter
+National ID: 461-09-0268
+Bank: Bryan-Stevens Bank
+Account Number: 5921224856
+Consent Status: Revoked

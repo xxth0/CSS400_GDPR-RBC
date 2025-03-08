@@ -1,0 +1,6 @@
+Customer ID: 6460
+Name: Christopher Joseph
+National ID: 475-90-6180
+Bank: Osborn Group Bank
+Account Number: 9938803084
+Consent Status: Granted

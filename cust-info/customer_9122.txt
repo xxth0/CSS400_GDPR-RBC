@@ -1,0 +1,6 @@
+Customer ID: 9122
+Name: Luis Hayes
+National ID: 656-81-3991
+Bank: Wilson, Gutierrez and Hardin Bank
+Account Number: 2224024189
+Consent Status: Revoked

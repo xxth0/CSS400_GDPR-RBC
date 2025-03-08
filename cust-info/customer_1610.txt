@@ -1,0 +1,6 @@
+Customer ID: 1610
+Name: Susan Park
+National ID: 251-54-5748
+Bank: Watkins-Ali Bank
+Account Number: 2359012120
+Consent Status: Revoked

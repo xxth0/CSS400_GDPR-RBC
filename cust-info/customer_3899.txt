@@ -1,0 +1,6 @@
+Customer ID: 3899
+Name: Ryan Scott
+National ID: 011-17-7778
+Bank: Cochran-Serrano Bank
+Account Number: 6639900317
+Consent Status: Revoked

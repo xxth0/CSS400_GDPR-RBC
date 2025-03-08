@@ -1,0 +1,6 @@
+Customer ID: 553
+Name: Denise Marshall
+National ID: 101-80-6553
+Bank: Johnson Group Bank
+Account Number: 3417755411
+Consent Status: Revoked

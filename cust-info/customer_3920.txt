@@ -1,0 +1,6 @@
+Customer ID: 3920
+Name: Amanda Smith
+National ID: 716-12-6313
+Bank: Kidd and Sons Bank
+Account Number: 8863232367
+Consent Status: Revoked

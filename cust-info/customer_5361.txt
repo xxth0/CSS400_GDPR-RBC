@@ -1,0 +1,6 @@
+Customer ID: 5361
+Name: Penny Richardson
+National ID: 413-49-6141
+Bank: Smith Inc Bank
+Account Number: 4515707933
+Consent Status: Revoked

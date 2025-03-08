@@ -1,0 +1,6 @@
+Customer ID: 6926
+Name: Ann Johnson
+National ID: 249-66-8743
+Bank: Gonzalez, Ashley and Rowe Bank
+Account Number: 4917757789
+Consent Status: Revoked

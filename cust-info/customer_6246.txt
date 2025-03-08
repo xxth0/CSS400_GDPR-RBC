@@ -1,0 +1,6 @@
+Customer ID: 6246
+Name: Charles Bryant
+National ID: 166-98-9159
+Bank: Hays LLC Bank
+Account Number: 1056097234
+Consent Status: Revoked

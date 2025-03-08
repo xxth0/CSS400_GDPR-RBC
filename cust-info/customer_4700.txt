@@ -1,0 +1,6 @@
+Customer ID: 4700
+Name: Jonathan Meyer
+National ID: 718-31-0248
+Bank: Zavala-Ramirez Bank
+Account Number: 9435353929
+Consent Status: Revoked

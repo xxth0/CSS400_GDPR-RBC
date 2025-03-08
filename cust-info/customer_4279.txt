@@ -1,0 +1,6 @@
+Customer ID: 4279
+Name: Kristin Mcintyre
+National ID: 747-87-0592
+Bank: Cummings, Smith and Parker Bank
+Account Number: 9344908470
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9515
+Name: Ryan Brown
+National ID: 445-41-2295
+Bank: Smith-Flores Bank
+Account Number: 3496106591
+Consent Status: Granted

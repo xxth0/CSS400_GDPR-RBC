@@ -1,0 +1,6 @@
+Customer ID: 5046
+Name: Rebecca Miles
+National ID: 292-24-8884
+Bank: Owens Inc Bank
+Account Number: 7080376226
+Consent Status: Granted

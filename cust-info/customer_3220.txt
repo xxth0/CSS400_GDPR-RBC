@@ -1,0 +1,6 @@
+Customer ID: 3220
+Name: Eric Guzman
+National ID: 156-77-9205
+Bank: Huang LLC Bank
+Account Number: 9958522818
+Consent Status: Granted

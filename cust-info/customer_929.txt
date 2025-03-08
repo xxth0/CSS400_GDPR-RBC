@@ -1,0 +1,6 @@
+Customer ID: 929
+Name: Samantha David
+National ID: 049-15-4703
+Bank: Murray-Ruiz Bank
+Account Number: 8214094270
+Consent Status: Revoked

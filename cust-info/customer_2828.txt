@@ -1,0 +1,6 @@
+Customer ID: 2828
+Name: Ryan Smith
+National ID: 505-08-9488
+Bank: Davis-Bell Bank
+Account Number: 6719665372
+Consent Status: Revoked

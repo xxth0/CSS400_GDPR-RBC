@@ -1,0 +1,6 @@
+Customer ID: 1240
+Name: Jason Mack
+National ID: 299-44-7076
+Bank: Richard Group Bank
+Account Number: 4333169882
+Consent Status: Revoked

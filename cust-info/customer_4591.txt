@@ -1,0 +1,6 @@
+Customer ID: 4591
+Name: Thomas Martinez
+National ID: 264-51-6807
+Bank: Green-Jones Bank
+Account Number: 5914154735
+Consent Status: Revoked

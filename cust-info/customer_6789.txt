@@ -1,0 +1,6 @@
+Customer ID: 6789
+Name: Eric Ross
+National ID: 347-14-0290
+Bank: Hahn LLC Bank
+Account Number: 5470881037
+Consent Status: Granted

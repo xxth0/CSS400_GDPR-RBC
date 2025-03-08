@@ -1,0 +1,6 @@
+Customer ID: 662
+Name: Jason Gardner
+National ID: 284-07-3900
+Bank: Weaver-Garcia Bank
+Account Number: 2488458369
+Consent Status: Granted

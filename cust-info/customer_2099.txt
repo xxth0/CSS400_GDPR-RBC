@@ -1,0 +1,6 @@
+Customer ID: 2099
+Name: Patricia Figueroa
+National ID: 643-33-6835
+Bank: Roberson, Gomez and Barton Bank
+Account Number: 7499391130
+Consent Status: Revoked

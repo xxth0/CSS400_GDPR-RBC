@@ -1,0 +1,6 @@
+Customer ID: 7279
+Name: Patricia Reeves
+National ID: 628-01-9114
+Bank: Mclean, Johnson and Contreras Bank
+Account Number: 8724082339
+Consent Status: Granted

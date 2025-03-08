@@ -1,0 +1,6 @@
+Customer ID: 3382
+Name: Donald Kelly
+National ID: 161-76-6758
+Bank: Schultz PLC Bank
+Account Number: 1860625461
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5899
+Name: Nicole Joseph
+National ID: 667-55-3028
+Bank: Walters, King and Lopez Bank
+Account Number: 8981094122
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 60
+Name: Kenneth Strickland
+National ID: 872-06-8334
+Bank: Lee, Lee and Scott Bank
+Account Number: 5975607448
+Consent Status: Revoked

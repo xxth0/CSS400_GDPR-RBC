@@ -1,0 +1,6 @@
+Customer ID: 1400
+Name: Natalie Davis
+National ID: 292-52-5737
+Bank: Blair LLC Bank
+Account Number: 8652084230
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8778
+Name: Wesley Garcia
+National ID: 706-71-8577
+Bank: Davis LLC Bank
+Account Number: 6916091845
+Consent Status: Revoked

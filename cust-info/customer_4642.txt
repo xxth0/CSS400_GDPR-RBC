@@ -1,0 +1,6 @@
+Customer ID: 4642
+Name: Cole Alvarez
+National ID: 001-01-7497
+Bank: Smith, Campos and Jenkins Bank
+Account Number: 1423249391
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 200
+Name: Joshua Perkins
+National ID: 339-51-7744
+Bank: Phelps, Giles and Trujillo Bank
+Account Number: 6174095495
+Consent Status: Granted

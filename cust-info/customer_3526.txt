@@ -1,0 +1,6 @@
+Customer ID: 3526
+Name: Jennifer Ortega
+National ID: 296-82-3647
+Bank: Jackson Ltd Bank
+Account Number: 8709640890
+Consent Status: Granted

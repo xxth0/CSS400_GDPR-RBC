@@ -1,0 +1,6 @@
+Customer ID: 2173
+Name: Sean Green
+National ID: 441-09-2750
+Bank: Gutierrez, Davis and Sanford Bank
+Account Number: 6489485704
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4583
+Name: Spencer Bowen
+National ID: 321-11-4653
+Bank: Henderson Group Bank
+Account Number: 8133556169
+Consent Status: Granted

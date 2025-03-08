@@ -1,0 +1,6 @@
+Customer ID: 9298
+Name: Deborah Coleman
+National ID: 599-88-2820
+Bank: Choi-Marquez Bank
+Account Number: 4450818011
+Consent Status: Revoked

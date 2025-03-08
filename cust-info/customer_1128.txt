@@ -1,0 +1,6 @@
+Customer ID: 1128
+Name: Tony Santos
+National ID: 556-88-6554
+Bank: Ortiz, Duran and Sims Bank
+Account Number: 1708270558
+Consent Status: Revoked

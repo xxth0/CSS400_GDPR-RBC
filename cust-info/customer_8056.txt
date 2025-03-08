@@ -1,0 +1,6 @@
+Customer ID: 8056
+Name: John Miller
+National ID: 719-14-5830
+Bank: Warner-Richardson Bank
+Account Number: 2031113015
+Consent Status: Granted

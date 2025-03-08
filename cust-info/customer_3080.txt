@@ -1,0 +1,6 @@
+Customer ID: 3080
+Name: James Richardson
+National ID: 001-01-7597
+Bank: Mcgee, Thompson and Rivera Bank
+Account Number: 5959189581
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6622
+Name: Michelle Tucker
+National ID: 174-79-3818
+Bank: Graves-Miller Bank
+Account Number: 9100823196
+Consent Status: Revoked

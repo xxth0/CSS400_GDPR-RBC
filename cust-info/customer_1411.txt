@@ -1,0 +1,6 @@
+Customer ID: 1411
+Name: Antonio Atkinson
+National ID: 566-82-9111
+Bank: Ray-White Bank
+Account Number: 1336772709
+Consent Status: Revoked

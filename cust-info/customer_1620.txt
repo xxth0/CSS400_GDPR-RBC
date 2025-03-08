@@ -1,0 +1,6 @@
+Customer ID: 1620
+Name: Jill Nelson
+National ID: 292-63-0885
+Bank: Miller-Vasquez Bank
+Account Number: 4446840437
+Consent Status: Revoked

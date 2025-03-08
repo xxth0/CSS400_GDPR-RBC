@@ -1,0 +1,6 @@
+Customer ID: 4709
+Name: Stephen Taylor
+National ID: 805-53-9155
+Bank: Mueller-Colon Bank
+Account Number: 6236867081
+Consent Status: Granted

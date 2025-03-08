@@ -1,0 +1,6 @@
+Customer ID: 9139
+Name: Kimberly Schwartz
+National ID: 668-06-3730
+Bank: Black-Gray Bank
+Account Number: 9764349070
+Consent Status: Revoked

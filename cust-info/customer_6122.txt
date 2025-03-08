@@ -1,0 +1,6 @@
+Customer ID: 6122
+Name: Lisa Spencer
+National ID: 848-59-3752
+Bank: Adams-King Bank
+Account Number: 6432394041
+Consent Status: Revoked

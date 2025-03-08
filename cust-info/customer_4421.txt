@@ -1,0 +1,6 @@
+Customer ID: 4421
+Name: Joan Moses
+National ID: 059-15-0658
+Bank: Taylor, Edwards and Torres Bank
+Account Number: 7246578152
+Consent Status: Granted

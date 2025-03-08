@@ -1,0 +1,6 @@
+Customer ID: 5443
+Name: George Jones
+National ID: 861-88-6403
+Bank: Herrera-Juarez Bank
+Account Number: 1506773220
+Consent Status: Revoked

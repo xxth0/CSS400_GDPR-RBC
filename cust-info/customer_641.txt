@@ -1,0 +1,6 @@
+Customer ID: 641
+Name: Alyssa Baird
+National ID: 122-04-0058
+Bank: French, Rogers and Moran Bank
+Account Number: 3499313788
+Consent Status: Revoked

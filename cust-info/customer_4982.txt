@@ -1,0 +1,6 @@
+Customer ID: 4982
+Name: Brian Nash
+National ID: 299-84-3628
+Bank: Brooks Group Bank
+Account Number: 6454583843
+Consent Status: Revoked

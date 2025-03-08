@@ -1,0 +1,6 @@
+Customer ID: 9288
+Name: Tracey Rivera
+National ID: 599-28-2270
+Bank: Martin, Gilmore and Miller Bank
+Account Number: 6032606376
+Consent Status: Revoked

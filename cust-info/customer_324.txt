@@ -1,0 +1,6 @@
+Customer ID: 324
+Name: Edward Galvan
+National ID: 801-80-1759
+Bank: Shepherd Inc Bank
+Account Number: 6982505687
+Consent Status: Revoked

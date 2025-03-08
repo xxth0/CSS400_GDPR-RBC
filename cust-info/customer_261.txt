@@ -1,0 +1,6 @@
+Customer ID: 261
+Name: Caleb Lopez
+National ID: 428-46-9801
+Bank: Mendoza-Avery Bank
+Account Number: 9287337272
+Consent Status: Granted

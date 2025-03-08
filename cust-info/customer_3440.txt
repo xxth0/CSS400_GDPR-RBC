@@ -1,0 +1,6 @@
+Customer ID: 3440
+Name: Sean Webb
+National ID: 689-88-1973
+Bank: Watson PLC Bank
+Account Number: 3085989685
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9556
+Name: Daniel Brady
+National ID: 218-73-0538
+Bank: Carter Group Bank
+Account Number: 9849230444
+Consent Status: Granted

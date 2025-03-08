@@ -1,0 +1,6 @@
+Customer ID: 2863
+Name: Michael Swanson
+National ID: 417-75-4484
+Bank: Harris LLC Bank
+Account Number: 9827022124
+Consent Status: Revoked

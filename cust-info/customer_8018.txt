@@ -1,0 +1,6 @@
+Customer ID: 8018
+Name: Sara Walker MD
+National ID: 665-51-0248
+Bank: Campbell, Ford and Carlson Bank
+Account Number: 1061658731
+Consent Status: Revoked

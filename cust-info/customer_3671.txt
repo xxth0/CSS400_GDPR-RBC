@@ -1,0 +1,6 @@
+Customer ID: 3671
+Name: Nicholas Williams
+National ID: 745-53-5872
+Bank: Cole, Mclaughlin and Rogers Bank
+Account Number: 5514064431
+Consent Status: Revoked

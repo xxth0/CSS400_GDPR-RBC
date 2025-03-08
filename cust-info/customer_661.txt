@@ -1,0 +1,6 @@
+Customer ID: 661
+Name: Mary Walker
+National ID: 792-11-5928
+Bank: Walker Ltd Bank
+Account Number: 5635351454
+Consent Status: Granted

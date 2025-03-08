@@ -1,0 +1,6 @@
+Customer ID: 3268
+Name: Michael Reyes
+National ID: 861-55-4983
+Bank: Malone, Bennett and Floyd Bank
+Account Number: 5128903967
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3467
+Name: Ricky Elliott
+National ID: 541-47-2199
+Bank: Scott, Lara and Maddox Bank
+Account Number: 8429700359
+Consent Status: Granted

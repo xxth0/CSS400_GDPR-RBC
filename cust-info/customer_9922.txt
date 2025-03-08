@@ -1,0 +1,6 @@
+Customer ID: 9922
+Name: Bradley Wilson
+National ID: 695-49-0389
+Bank: Espinoza and Sons Bank
+Account Number: 1871893108
+Consent Status: Revoked

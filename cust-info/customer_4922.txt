@@ -1,0 +1,6 @@
+Customer ID: 4922
+Name: Luis Stevens
+National ID: 844-27-4969
+Bank: Tran, Rice and Lewis Bank
+Account Number: 7525948319
+Consent Status: Granted

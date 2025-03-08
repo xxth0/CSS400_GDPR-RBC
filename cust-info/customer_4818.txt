@@ -1,0 +1,6 @@
+Customer ID: 4818
+Name: Jamie Spence
+National ID: 704-84-3101
+Bank: White-Miller Bank
+Account Number: 2454647127
+Consent Status: Granted

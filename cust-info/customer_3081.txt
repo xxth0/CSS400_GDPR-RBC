@@ -1,0 +1,6 @@
+Customer ID: 3081
+Name: Jeffrey Carter
+National ID: 735-23-1650
+Bank: Garza Group Bank
+Account Number: 8441472916
+Consent Status: Revoked

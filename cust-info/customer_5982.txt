@@ -1,0 +1,6 @@
+Customer ID: 5982
+Name: Dylan Archer
+National ID: 633-55-2170
+Bank: Webb, Williams and Hernandez Bank
+Account Number: 9758160698
+Consent Status: Revoked

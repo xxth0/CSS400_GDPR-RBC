@@ -1,0 +1,6 @@
+Customer ID: 3373
+Name: Joseph Vargas
+National ID: 017-58-8824
+Bank: Oliver-Nixon Bank
+Account Number: 9623759800
+Consent Status: Granted

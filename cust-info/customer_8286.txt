@@ -1,0 +1,6 @@
+Customer ID: 8286
+Name: Lauren Mclaughlin
+National ID: 085-95-9770
+Bank: Navarro-Walker Bank
+Account Number: 4439768203
+Consent Status: Granted

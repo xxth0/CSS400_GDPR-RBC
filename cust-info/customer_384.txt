@@ -1,0 +1,6 @@
+Customer ID: 384
+Name: Christopher Morgan
+National ID: 431-88-8257
+Bank: Franklin-Rogers Bank
+Account Number: 6574430047
+Consent Status: Granted

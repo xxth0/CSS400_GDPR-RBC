@@ -1,0 +1,6 @@
+Customer ID: 2091
+Name: Amanda Taylor
+National ID: 180-21-2845
+Bank: May, Williams and Wright Bank
+Account Number: 5522177344
+Consent Status: Revoked

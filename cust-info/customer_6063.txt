@@ -1,0 +1,6 @@
+Customer ID: 6063
+Name: Joseph Walker
+National ID: 071-28-9555
+Bank: Wood-Washington Bank
+Account Number: 8260099525
+Consent Status: Granted

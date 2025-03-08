@@ -1,0 +1,6 @@
+Customer ID: 6226
+Name: Andrew Farrell
+National ID: 524-22-4649
+Bank: Jackson Group Bank
+Account Number: 8829951932
+Consent Status: Granted

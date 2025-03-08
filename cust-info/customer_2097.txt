@@ -1,0 +1,6 @@
+Customer ID: 2097
+Name: Jill Wood
+National ID: 634-42-8605
+Bank: Freeman-Smith Bank
+Account Number: 1085230714
+Consent Status: Revoked

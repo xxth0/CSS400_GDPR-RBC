@@ -1,0 +1,6 @@
+Customer ID: 4822
+Name: Benjamin Young
+National ID: 026-83-7958
+Bank: Campbell-Goodwin Bank
+Account Number: 3415083349
+Consent Status: Revoked

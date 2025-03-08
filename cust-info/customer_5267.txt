@@ -1,0 +1,6 @@
+Customer ID: 5267
+Name: Suzanne Roberts
+National ID: 597-05-9531
+Bank: Clark-Duran Bank
+Account Number: 1604066111
+Consent Status: Revoked

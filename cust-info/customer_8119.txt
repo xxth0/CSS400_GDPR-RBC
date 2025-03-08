@@ -1,0 +1,6 @@
+Customer ID: 8119
+Name: Matthew Gallegos
+National ID: 576-69-7298
+Bank: Williams-Brown Bank
+Account Number: 6367849248
+Consent Status: Granted

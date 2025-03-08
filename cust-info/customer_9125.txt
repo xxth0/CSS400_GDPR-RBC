@@ -1,0 +1,6 @@
+Customer ID: 9125
+Name: Andrew Snow
+National ID: 693-43-7868
+Bank: Snow-Santana Bank
+Account Number: 6218660891
+Consent Status: Revoked

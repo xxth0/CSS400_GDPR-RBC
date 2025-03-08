@@ -1,0 +1,6 @@
+Customer ID: 7661
+Name: Randall Smith
+National ID: 276-83-9832
+Bank: Casey, Chavez and Conley Bank
+Account Number: 5910020424
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3288
+Name: Nicole Wolf
+National ID: 294-96-3539
+Bank: Harris Group Bank
+Account Number: 3715113972
+Consent Status: Granted

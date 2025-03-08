@@ -1,0 +1,6 @@
+Customer ID: 7142
+Name: Dorothy Reynolds
+National ID: 582-09-0473
+Bank: Gray, Parsons and Jones Bank
+Account Number: 2425847947
+Consent Status: Granted

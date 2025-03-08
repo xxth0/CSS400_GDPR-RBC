@@ -1,0 +1,6 @@
+Customer ID: 4893
+Name: Erin Martinez
+National ID: 579-47-2042
+Bank: Johnson Inc Bank
+Account Number: 4078879499
+Consent Status: Granted

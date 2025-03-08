@@ -1,0 +1,6 @@
+Customer ID: 290
+Name: Heidi Ross
+National ID: 727-86-2682
+Bank: Clements-Garza Bank
+Account Number: 8277550622
+Consent Status: Granted

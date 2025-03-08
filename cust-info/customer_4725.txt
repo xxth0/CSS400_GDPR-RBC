@@ -1,0 +1,6 @@
+Customer ID: 4725
+Name: Mr. Sean Johnson
+National ID: 144-35-7659
+Bank: Bridges PLC Bank
+Account Number: 1677557021
+Consent Status: Revoked

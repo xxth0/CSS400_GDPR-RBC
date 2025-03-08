@@ -1,0 +1,6 @@
+Customer ID: 2012
+Name: Jacqueline Gaines
+National ID: 773-25-5990
+Bank: Ryan-Gibson Bank
+Account Number: 5973510029
+Consent Status: Granted

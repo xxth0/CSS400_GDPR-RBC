@@ -1,0 +1,6 @@
+Customer ID: 2514
+Name: Joan Navarro
+National ID: 867-97-9746
+Bank: Holder Ltd Bank
+Account Number: 8144056232
+Consent Status: Revoked

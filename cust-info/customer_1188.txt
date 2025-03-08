@@ -1,0 +1,6 @@
+Customer ID: 1188
+Name: Darlene Campbell
+National ID: 170-78-2389
+Bank: Barnes-Williams Bank
+Account Number: 4880984824
+Consent Status: Granted

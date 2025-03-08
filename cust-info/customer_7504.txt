@@ -1,0 +1,6 @@
+Customer ID: 7504
+Name: Kristen Fowler
+National ID: 377-41-4525
+Bank: Farmer Ltd Bank
+Account Number: 8634363093
+Consent Status: Granted

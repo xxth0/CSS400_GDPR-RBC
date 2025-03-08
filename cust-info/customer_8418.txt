@@ -1,0 +1,6 @@
+Customer ID: 8418
+Name: Melissa Santos
+National ID: 588-39-1607
+Bank: Ryan, Thomas and Weber Bank
+Account Number: 9897775521
+Consent Status: Revoked

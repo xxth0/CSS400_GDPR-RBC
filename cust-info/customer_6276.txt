@@ -1,0 +1,6 @@
+Customer ID: 6276
+Name: Brianna Thompson
+National ID: 244-37-9679
+Bank: Williams-Wolfe Bank
+Account Number: 7796586762
+Consent Status: Granted

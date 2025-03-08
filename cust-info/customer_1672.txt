@@ -1,0 +1,6 @@
+Customer ID: 1672
+Name: Desiree Gray
+National ID: 048-33-8603
+Bank: Richards, Patton and Ford Bank
+Account Number: 9928382362
+Consent Status: Granted

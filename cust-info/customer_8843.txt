@@ -1,0 +1,6 @@
+Customer ID: 8843
+Name: Elizabeth Mitchell
+National ID: 291-61-6837
+Bank: Santos, Stark and Juarez Bank
+Account Number: 6386601578
+Consent Status: Granted

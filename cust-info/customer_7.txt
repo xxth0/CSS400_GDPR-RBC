@@ -1,0 +1,6 @@
+Customer ID: 7
+Name: Jennifer Wang
+National ID: 382-35-1451
+Bank: Jackson-Vasquez Bank
+Account Number: 5678761399
+Consent Status: Granted

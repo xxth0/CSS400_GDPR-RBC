@@ -1,0 +1,6 @@
+Customer ID: 7927
+Name: Jim Zuniga
+National ID: 753-33-6737
+Bank: Jones-Prince Bank
+Account Number: 9881808758
+Consent Status: Granted

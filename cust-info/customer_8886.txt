@@ -1,0 +1,6 @@
+Customer ID: 8886
+Name: Brenda Williams
+National ID: 016-22-7223
+Bank: Johnson, Johnson and Livingston Bank
+Account Number: 1962373943
+Consent Status: Revoked

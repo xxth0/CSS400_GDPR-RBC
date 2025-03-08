@@ -1,0 +1,6 @@
+Customer ID: 8103
+Name: Joshua Ryan
+National ID: 405-05-5534
+Bank: Rodriguez, Duran and Murphy Bank
+Account Number: 2901370058
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1812
+Name: Katherine Carpenter
+National ID: 297-65-0188
+Bank: Knight, Dorsey and Salas Bank
+Account Number: 1518425895
+Consent Status: Granted

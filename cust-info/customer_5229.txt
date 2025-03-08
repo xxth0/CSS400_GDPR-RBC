@@ -1,0 +1,6 @@
+Customer ID: 5229
+Name: Timothy Pierce
+National ID: 458-88-0567
+Bank: Preston LLC Bank
+Account Number: 9632420879
+Consent Status: Granted

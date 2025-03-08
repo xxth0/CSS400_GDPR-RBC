@@ -1,0 +1,6 @@
+Customer ID: 2523
+Name: Ashley Vasquez
+National ID: 886-30-5605
+Bank: Garcia Ltd Bank
+Account Number: 9527000983
+Consent Status: Granted

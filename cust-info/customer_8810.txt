@@ -1,0 +1,6 @@
+Customer ID: 8810
+Name: Jennifer Miller
+National ID: 593-80-1335
+Bank: Cooper, Beasley and Page Bank
+Account Number: 8256825237
+Consent Status: Revoked

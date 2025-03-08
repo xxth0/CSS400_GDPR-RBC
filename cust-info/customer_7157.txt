@@ -1,0 +1,6 @@
+Customer ID: 7157
+Name: Katherine Flores
+National ID: 235-95-8409
+Bank: Parker, Robinson and Ellis Bank
+Account Number: 8842501925
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9940
+Name: Haley Jackson
+National ID: 146-74-4830
+Bank: Chan-Johnson Bank
+Account Number: 9703912657
+Consent Status: Revoked

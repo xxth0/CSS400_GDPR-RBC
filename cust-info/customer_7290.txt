@@ -1,0 +1,6 @@
+Customer ID: 7290
+Name: Richard Smith
+National ID: 672-22-6262
+Bank: Higgins, Wright and Anderson Bank
+Account Number: 8061699238
+Consent Status: Granted

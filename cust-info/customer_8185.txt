@@ -1,0 +1,6 @@
+Customer ID: 8185
+Name: Brent Dyer
+National ID: 681-39-8979
+Bank: Dixon Ltd Bank
+Account Number: 4606197041
+Consent Status: Revoked

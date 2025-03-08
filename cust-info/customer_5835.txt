@@ -1,0 +1,6 @@
+Customer ID: 5835
+Name: Dr. Julie Duncan DDS
+National ID: 740-42-6329
+Bank: Willis Group Bank
+Account Number: 5038672993
+Consent Status: Revoked

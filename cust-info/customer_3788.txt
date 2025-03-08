@@ -1,0 +1,6 @@
+Customer ID: 3788
+Name: Julie Gordon
+National ID: 738-98-6079
+Bank: Montgomery-Rocha Bank
+Account Number: 7660867343
+Consent Status: Granted

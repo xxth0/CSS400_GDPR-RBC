@@ -1,0 +1,6 @@
+Customer ID: 7026
+Name: Andrew Moore
+National ID: 356-70-7246
+Bank: Rosales Group Bank
+Account Number: 2692436644
+Consent Status: Revoked

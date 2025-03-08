@@ -1,0 +1,6 @@
+Customer ID: 8514
+Name: Richard Braun
+National ID: 880-17-4037
+Bank: Johnson-Nelson Bank
+Account Number: 1181287089
+Consent Status: Revoked

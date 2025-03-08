@@ -1,0 +1,6 @@
+Customer ID: 6942
+Name: Elizabeth Rodriguez
+National ID: 138-43-0666
+Bank: Weaver-Camacho Bank
+Account Number: 5318178272
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9203
+Name: James Snyder
+National ID: 758-25-9528
+Bank: Graham-Parker Bank
+Account Number: 8969851282
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1935
+Name: Nancy Hernandez
+National ID: 322-83-5708
+Bank: Padilla-Villanueva Bank
+Account Number: 4768022029
+Consent Status: Revoked

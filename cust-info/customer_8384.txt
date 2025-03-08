@@ -1,0 +1,6 @@
+Customer ID: 8384
+Name: Tim Irwin
+National ID: 024-33-2388
+Bank: Hanson-Reed Bank
+Account Number: 6358060763
+Consent Status: Granted

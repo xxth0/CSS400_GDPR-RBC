@@ -1,0 +1,6 @@
+Customer ID: 8887
+Name: Victor Norris
+National ID: 764-77-7887
+Bank: Phillips, Gates and Gilbert Bank
+Account Number: 3712281611
+Consent Status: Granted

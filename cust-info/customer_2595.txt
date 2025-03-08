@@ -1,0 +1,6 @@
+Customer ID: 2595
+Name: Calvin Saunders
+National ID: 370-11-5467
+Bank: Thomas, Hunt and Richardson Bank
+Account Number: 5260450182
+Consent Status: Revoked

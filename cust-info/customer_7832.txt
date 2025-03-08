@@ -1,0 +1,6 @@
+Customer ID: 7832
+Name: Samuel Stewart
+National ID: 716-61-8188
+Bank: Fisher, Calhoun and Brown Bank
+Account Number: 1040666017
+Consent Status: Revoked

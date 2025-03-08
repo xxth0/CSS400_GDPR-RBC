@@ -1,0 +1,6 @@
+Customer ID: 9250
+Name: Rhonda Edwards
+National ID: 141-90-1303
+Bank: Goodman Ltd Bank
+Account Number: 2249734909
+Consent Status: Granted

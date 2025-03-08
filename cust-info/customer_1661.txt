@@ -1,0 +1,6 @@
+Customer ID: 1661
+Name: Christopher Christensen
+National ID: 049-77-8226
+Bank: Williamson-Oconnor Bank
+Account Number: 6252071495
+Consent Status: Granted

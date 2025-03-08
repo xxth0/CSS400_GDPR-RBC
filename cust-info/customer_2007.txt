@@ -1,0 +1,6 @@
+Customer ID: 2007
+Name: Julie Jones
+National ID: 832-06-5443
+Bank: Horne-Hamilton Bank
+Account Number: 3118912660
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8976
+Name: James Brown
+National ID: 662-44-2388
+Bank: Chang, Nolan and Edwards Bank
+Account Number: 5275492914
+Consent Status: Granted

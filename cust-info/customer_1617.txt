@@ -1,0 +1,6 @@
+Customer ID: 1617
+Name: Brandon Duncan
+National ID: 665-02-0721
+Bank: Hayes, Chapman and Martinez Bank
+Account Number: 9851930934
+Consent Status: Granted

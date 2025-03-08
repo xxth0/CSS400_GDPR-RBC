@@ -1,0 +1,6 @@
+Customer ID: 6135
+Name: James Malone
+National ID: 881-03-8694
+Bank: Hicks-Williams Bank
+Account Number: 8431959050
+Consent Status: Granted

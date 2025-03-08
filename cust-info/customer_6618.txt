@@ -1,0 +1,6 @@
+Customer ID: 6618
+Name: Sara Smith
+National ID: 033-57-7342
+Bank: Saunders-Perez Bank
+Account Number: 6865386795
+Consent Status: Granted

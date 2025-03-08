@@ -1,0 +1,6 @@
+Customer ID: 998
+Name: Steven Allen
+National ID: 421-69-0590
+Bank: Mitchell-Lee Bank
+Account Number: 5114876625
+Consent Status: Revoked

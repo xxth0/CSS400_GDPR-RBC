@@ -1,0 +1,6 @@
+Customer ID: 8770
+Name: Suzanne Burton
+National ID: 798-61-7906
+Bank: Hoffman Inc Bank
+Account Number: 5070644437
+Consent Status: Revoked

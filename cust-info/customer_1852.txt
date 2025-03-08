@@ -1,0 +1,6 @@
+Customer ID: 1852
+Name: Amanda Harris
+National ID: 136-61-5380
+Bank: Mccormick-Juarez Bank
+Account Number: 8008372267
+Consent Status: Revoked

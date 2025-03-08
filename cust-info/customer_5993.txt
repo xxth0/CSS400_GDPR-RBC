@@ -1,0 +1,6 @@
+Customer ID: 5993
+Name: Brandi Johnson
+National ID: 756-98-2777
+Bank: Krause Ltd Bank
+Account Number: 6486040303
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8355
+Name: Derrick Anderson
+National ID: 320-79-1098
+Bank: Clark PLC Bank
+Account Number: 6908579793
+Consent Status: Granted

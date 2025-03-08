@@ -1,0 +1,6 @@
+Customer ID: 379
+Name: Jim Bishop
+National ID: 579-43-2600
+Bank: Hicks Group Bank
+Account Number: 2603584332
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3658
+Name: Kathy Scott
+National ID: 193-67-7712
+Bank: Preston PLC Bank
+Account Number: 2841511423
+Consent Status: Granted

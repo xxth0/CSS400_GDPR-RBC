@@ -1,0 +1,6 @@
+Customer ID: 4186
+Name: Vincent Wade
+National ID: 831-23-4520
+Bank: Holloway, Stone and Owen Bank
+Account Number: 4711445783
+Consent Status: Revoked

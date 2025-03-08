@@ -1,0 +1,6 @@
+Customer ID: 9127
+Name: Michael Harris
+National ID: 302-77-0743
+Bank: Carter, Smith and Ward Bank
+Account Number: 8096366398
+Consent Status: Revoked

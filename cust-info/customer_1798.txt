@@ -1,0 +1,6 @@
+Customer ID: 1798
+Name: Sharon Garcia
+National ID: 391-61-8536
+Bank: Jones, Lopez and Winters Bank
+Account Number: 1706399082
+Consent Status: Revoked

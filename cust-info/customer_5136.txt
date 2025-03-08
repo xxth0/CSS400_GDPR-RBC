@@ -1,0 +1,6 @@
+Customer ID: 5136
+Name: David Patterson
+National ID: 052-05-6875
+Bank: Russell-Larson Bank
+Account Number: 9016377146
+Consent Status: Revoked

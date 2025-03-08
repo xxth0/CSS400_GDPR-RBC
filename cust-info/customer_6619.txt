@@ -1,0 +1,6 @@
+Customer ID: 6619
+Name: Brandon Fernandez
+National ID: 891-36-8649
+Bank: Rodgers-Morales Bank
+Account Number: 8605347876
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 988
+Name: Shawn Bush
+National ID: 433-74-5094
+Bank: Taylor Ltd Bank
+Account Number: 9400336198
+Consent Status: Granted

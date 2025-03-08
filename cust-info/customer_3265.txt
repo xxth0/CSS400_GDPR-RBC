@@ -1,0 +1,6 @@
+Customer ID: 3265
+Name: Charlotte Adams
+National ID: 676-74-9132
+Bank: Miller-Diaz Bank
+Account Number: 3346588733
+Consent Status: Revoked

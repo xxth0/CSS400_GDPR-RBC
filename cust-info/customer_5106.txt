@@ -1,0 +1,6 @@
+Customer ID: 5106
+Name: Paul Ramirez
+National ID: 435-77-3028
+Bank: Fowler, Sanchez and Wise Bank
+Account Number: 5363146889
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8443
+Name: Carolyn Clark
+National ID: 860-81-9851
+Bank: Boyer Ltd Bank
+Account Number: 8237078326
+Consent Status: Revoked

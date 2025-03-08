@@ -1,0 +1,6 @@
+Customer ID: 6214
+Name: Joe Peterson
+National ID: 300-82-7785
+Bank: Nguyen-White Bank
+Account Number: 3904721022
+Consent Status: Granted

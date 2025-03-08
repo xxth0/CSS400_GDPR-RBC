@@ -1,0 +1,6 @@
+Customer ID: 6357
+Name: Charles Perez
+National ID: 059-14-7227
+Bank: Harris-Mcdonald Bank
+Account Number: 6035200269
+Consent Status: Revoked

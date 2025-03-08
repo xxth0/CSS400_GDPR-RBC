@@ -1,0 +1,6 @@
+Customer ID: 9213
+Name: Margaret Stevens
+National ID: 291-95-2030
+Bank: Cole-Rodgers Bank
+Account Number: 7169286701
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8795
+Name: Wayne Green
+National ID: 349-78-0689
+Bank: Smith Inc Bank
+Account Number: 2834838400
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2613
+Name: Mary James
+National ID: 343-37-6647
+Bank: Zhang, Nash and Martin Bank
+Account Number: 8497636531
+Consent Status: Revoked

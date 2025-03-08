@@ -1,0 +1,6 @@
+Customer ID: 5160
+Name: Bobby Rodriguez
+National ID: 343-47-8352
+Bank: Banks-Miller Bank
+Account Number: 5690005035
+Consent Status: Granted

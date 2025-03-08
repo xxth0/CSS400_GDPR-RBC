@@ -1,0 +1,6 @@
+Customer ID: 9475
+Name: Paul Jones
+National ID: 016-31-2111
+Bank: Anderson-Greer Bank
+Account Number: 4899517535
+Consent Status: Granted

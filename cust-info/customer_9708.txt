@@ -1,0 +1,6 @@
+Customer ID: 9708
+Name: Ryan Duarte
+National ID: 208-05-7680
+Bank: Gray LLC Bank
+Account Number: 8100671923
+Consent Status: Revoked

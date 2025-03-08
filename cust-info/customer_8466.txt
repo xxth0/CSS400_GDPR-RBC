@@ -1,0 +1,6 @@
+Customer ID: 8466
+Name: Kelly Tran
+National ID: 737-47-9586
+Bank: Brown Ltd Bank
+Account Number: 7436863010
+Consent Status: Granted

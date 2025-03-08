@@ -1,0 +1,6 @@
+Customer ID: 4796
+Name: John Jones
+National ID: 219-11-5724
+Bank: Castillo Ltd Bank
+Account Number: 4998135057
+Consent Status: Granted

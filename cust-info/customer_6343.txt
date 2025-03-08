@@ -1,0 +1,6 @@
+Customer ID: 6343
+Name: Robin Reed
+National ID: 518-66-7509
+Bank: May-Barton Bank
+Account Number: 9753471331
+Consent Status: Revoked

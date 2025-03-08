@@ -1,0 +1,6 @@
+Customer ID: 9977
+Name: Benjamin Jones
+National ID: 032-13-6408
+Bank: Tate LLC Bank
+Account Number: 8899262715
+Consent Status: Granted

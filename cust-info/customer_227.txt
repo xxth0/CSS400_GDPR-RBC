@@ -1,0 +1,6 @@
+Customer ID: 227
+Name: Patricia Garcia
+National ID: 476-17-8261
+Bank: Boyle LLC Bank
+Account Number: 8913192248
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9187
+Name: Kathleen Mitchell
+National ID: 077-87-2975
+Bank: Taylor, Burns and Peterson Bank
+Account Number: 8921178134
+Consent Status: Revoked

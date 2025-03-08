@@ -1,0 +1,6 @@
+Customer ID: 5052
+Name: Amanda Martinez
+National ID: 749-92-6118
+Bank: Rodriguez-Hall Bank
+Account Number: 7072895875
+Consent Status: Revoked

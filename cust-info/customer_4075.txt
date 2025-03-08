@@ -1,0 +1,6 @@
+Customer ID: 4075
+Name: Isaac Miller
+National ID: 140-27-1634
+Bank: Miller, Nguyen and Banks Bank
+Account Number: 8401869903
+Consent Status: Granted

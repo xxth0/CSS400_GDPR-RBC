@@ -1,0 +1,6 @@
+Customer ID: 7474
+Name: Anthony Patel
+National ID: 413-25-8389
+Bank: Lopez-Brandt Bank
+Account Number: 4651200638
+Consent Status: Revoked

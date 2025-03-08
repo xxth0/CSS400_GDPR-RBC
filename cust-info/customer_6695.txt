@@ -1,0 +1,6 @@
+Customer ID: 6695
+Name: Luis Holloway
+National ID: 237-80-8200
+Bank: Boone-Noble Bank
+Account Number: 8379561251
+Consent Status: Revoked

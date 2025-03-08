@@ -1,0 +1,6 @@
+Customer ID: 1628
+Name: Jody Hopkins
+National ID: 479-94-0366
+Bank: White, Wong and Thomas Bank
+Account Number: 6260455546
+Consent Status: Granted

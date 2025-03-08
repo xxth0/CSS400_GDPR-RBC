@@ -1,0 +1,6 @@
+Customer ID: 8361
+Name: Nicholas Trujillo
+National ID: 370-56-2293
+Bank: Gutierrez PLC Bank
+Account Number: 4571500342
+Consent Status: Revoked

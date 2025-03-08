@@ -1,0 +1,6 @@
+Customer ID: 9438
+Name: Daniel Pierce
+National ID: 169-82-9753
+Bank: Charles, English and Mora Bank
+Account Number: 9298260350
+Consent Status: Revoked

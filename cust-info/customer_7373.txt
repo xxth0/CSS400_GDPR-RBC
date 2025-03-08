@@ -1,0 +1,6 @@
+Customer ID: 7373
+Name: Tara Carter
+National ID: 829-37-9699
+Bank: Rodriguez Group Bank
+Account Number: 9606583613
+Consent Status: Granted

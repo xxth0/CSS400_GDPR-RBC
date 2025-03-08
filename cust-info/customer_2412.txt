@@ -1,0 +1,6 @@
+Customer ID: 2412
+Name: Alexandra Farrell
+National ID: 494-59-9748
+Bank: Bowen Inc Bank
+Account Number: 2657382106
+Consent Status: Revoked

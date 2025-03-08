@@ -1,0 +1,6 @@
+Customer ID: 1402
+Name: Katherine Kim
+National ID: 811-27-2534
+Bank: Warren, Brown and Brooks Bank
+Account Number: 6594533524
+Consent Status: Granted

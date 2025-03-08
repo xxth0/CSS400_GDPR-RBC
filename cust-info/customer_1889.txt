@@ -1,0 +1,6 @@
+Customer ID: 1889
+Name: Veronica Anderson
+National ID: 240-40-3183
+Bank: Thompson, Dennis and Kaufman Bank
+Account Number: 1912284198
+Consent Status: Revoked

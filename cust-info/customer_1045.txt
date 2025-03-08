@@ -1,0 +1,6 @@
+Customer ID: 1045
+Name: Billy Maxwell
+National ID: 295-95-2444
+Bank: Shepherd, Gordon and Lynn Bank
+Account Number: 2825874947
+Consent Status: Granted

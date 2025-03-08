@@ -1,0 +1,6 @@
+Customer ID: 3849
+Name: Michael Sanchez
+National ID: 840-59-5453
+Bank: Wade, Ashley and Holmes Bank
+Account Number: 3405259864
+Consent Status: Granted

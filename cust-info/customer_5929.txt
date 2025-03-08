@@ -1,0 +1,6 @@
+Customer ID: 5929
+Name: Diana Butler
+National ID: 177-52-6586
+Bank: Sanchez, Johnson and Townsend Bank
+Account Number: 9865908543
+Consent Status: Revoked

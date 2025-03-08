@@ -1,0 +1,6 @@
+Customer ID: 7674
+Name: Lisa Gardner
+National ID: 704-74-0107
+Bank: Zimmerman-Chavez Bank
+Account Number: 1203005216
+Consent Status: Revoked

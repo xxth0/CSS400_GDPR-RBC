@@ -1,0 +1,6 @@
+Customer ID: 2626
+Name: Brandon Miller
+National ID: 731-82-8660
+Bank: Mccann PLC Bank
+Account Number: 4673484965
+Consent Status: Granted

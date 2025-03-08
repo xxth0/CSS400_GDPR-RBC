@@ -1,0 +1,6 @@
+Customer ID: 1864
+Name: Jose Pham
+National ID: 559-75-0907
+Bank: Kim Inc Bank
+Account Number: 2797195068
+Consent Status: Granted

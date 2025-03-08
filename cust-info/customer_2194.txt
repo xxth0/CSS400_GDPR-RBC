@@ -1,0 +1,6 @@
+Customer ID: 2194
+Name: Denise Estrada
+National ID: 380-75-3314
+Bank: Pena, Williams and Rush Bank
+Account Number: 4897729591
+Consent Status: Revoked

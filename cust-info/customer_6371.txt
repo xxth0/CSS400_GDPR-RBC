@@ -1,0 +1,6 @@
+Customer ID: 6371
+Name: Andrew James
+National ID: 826-81-7725
+Bank: Smith-Manning Bank
+Account Number: 8369531824
+Consent Status: Granted

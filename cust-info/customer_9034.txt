@@ -1,0 +1,6 @@
+Customer ID: 9034
+Name: Donna Morales
+National ID: 426-91-5306
+Bank: Schroeder Inc Bank
+Account Number: 3951653453
+Consent Status: Revoked

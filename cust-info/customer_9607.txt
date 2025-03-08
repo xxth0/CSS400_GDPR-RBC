@@ -1,0 +1,6 @@
+Customer ID: 9607
+Name: Cynthia Smith
+National ID: 514-88-5218
+Bank: Wiggins Group Bank
+Account Number: 3737289560
+Consent Status: Granted

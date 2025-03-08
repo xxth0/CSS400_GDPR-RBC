@@ -1,0 +1,6 @@
+Customer ID: 8391
+Name: Elizabeth Garcia
+National ID: 846-03-9314
+Bank: Carroll-Wilson Bank
+Account Number: 6455911760
+Consent Status: Granted

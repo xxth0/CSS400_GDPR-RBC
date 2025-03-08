@@ -1,0 +1,6 @@
+Customer ID: 2904
+Name: James Hicks
+National ID: 662-41-0698
+Bank: Henderson-Walsh Bank
+Account Number: 3238871197
+Consent Status: Granted

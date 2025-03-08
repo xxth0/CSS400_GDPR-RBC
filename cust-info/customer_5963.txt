@@ -1,0 +1,6 @@
+Customer ID: 5963
+Name: Jessica Long
+National ID: 159-31-1019
+Bank: Ramsey, Higgins and Chavez Bank
+Account Number: 6264013109
+Consent Status: Revoked

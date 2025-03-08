@@ -1,0 +1,6 @@
+Customer ID: 6059
+Name: Kelly Williams
+National ID: 639-68-4367
+Bank: Carter-Patel Bank
+Account Number: 1205454274
+Consent Status: Revoked

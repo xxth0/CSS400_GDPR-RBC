@@ -1,0 +1,6 @@
+Customer ID: 2084
+Name: Joseph Scott
+National ID: 391-66-3731
+Bank: Rivera LLC Bank
+Account Number: 2573432460
+Consent Status: Granted

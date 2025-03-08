@@ -1,0 +1,6 @@
+Customer ID: 1536
+Name: Molly Johnson
+National ID: 011-60-0240
+Bank: Paul-Watts Bank
+Account Number: 6975558409
+Consent Status: Granted

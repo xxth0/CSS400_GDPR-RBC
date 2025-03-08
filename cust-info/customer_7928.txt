@@ -1,0 +1,6 @@
+Customer ID: 7928
+Name: Richard Evans
+National ID: 698-11-0624
+Bank: Whitehead Group Bank
+Account Number: 3878517943
+Consent Status: Granted

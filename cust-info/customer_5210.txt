@@ -1,0 +1,6 @@
+Customer ID: 5210
+Name: Rodney Lynn
+National ID: 469-30-3798
+Bank: Gonzalez, Owens and Smith Bank
+Account Number: 4580483346
+Consent Status: Granted

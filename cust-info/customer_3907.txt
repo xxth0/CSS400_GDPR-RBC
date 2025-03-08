@@ -1,0 +1,6 @@
+Customer ID: 3907
+Name: Brandon Allen
+National ID: 207-59-9709
+Bank: Hoffman, Warren and Becker Bank
+Account Number: 3164289045
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6355
+Name: Brett Walker
+National ID: 386-81-3632
+Bank: Black Group Bank
+Account Number: 2860739164
+Consent Status: Revoked

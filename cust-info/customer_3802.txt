@@ -1,0 +1,6 @@
+Customer ID: 3802
+Name: Joshua Sampson
+National ID: 048-94-2933
+Bank: Long, Parker and Davis Bank
+Account Number: 5327264934
+Consent Status: Revoked

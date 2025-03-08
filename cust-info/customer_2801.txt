@@ -1,0 +1,6 @@
+Customer ID: 2801
+Name: Ashley Freeman
+National ID: 382-74-4957
+Bank: White Group Bank
+Account Number: 8565895519
+Consent Status: Granted

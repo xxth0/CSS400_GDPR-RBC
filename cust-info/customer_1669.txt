@@ -1,0 +1,6 @@
+Customer ID: 1669
+Name: Steven Miller
+National ID: 624-39-0016
+Bank: Smith, Howell and Scott Bank
+Account Number: 4511952539
+Consent Status: Revoked

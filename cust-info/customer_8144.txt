@@ -1,0 +1,6 @@
+Customer ID: 8144
+Name: James Wilkerson
+National ID: 710-73-0043
+Bank: Sharp, Duran and Sanchez Bank
+Account Number: 3936634857
+Consent Status: Granted

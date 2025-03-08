@@ -1,0 +1,6 @@
+Customer ID: 2343
+Name: Ryan Rodriguez
+National ID: 861-19-5820
+Bank: Walters, Oconnell and Barnett Bank
+Account Number: 6547913857
+Consent Status: Granted

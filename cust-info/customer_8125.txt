@@ -1,0 +1,6 @@
+Customer ID: 8125
+Name: Michael Hudson
+National ID: 738-34-7519
+Bank: Duncan PLC Bank
+Account Number: 5322990476
+Consent Status: Granted

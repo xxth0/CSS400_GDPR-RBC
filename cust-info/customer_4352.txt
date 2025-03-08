@@ -1,0 +1,6 @@
+Customer ID: 4352
+Name: Christopher Acosta
+National ID: 822-16-8666
+Bank: Wagner, Powers and Norton Bank
+Account Number: 7329772998
+Consent Status: Revoked

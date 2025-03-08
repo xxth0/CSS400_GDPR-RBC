@@ -1,0 +1,6 @@
+Customer ID: 9796
+Name: Jennifer Wade
+National ID: 119-24-2536
+Bank: Stewart-Diaz Bank
+Account Number: 2863923454
+Consent Status: Revoked

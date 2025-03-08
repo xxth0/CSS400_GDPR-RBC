@@ -1,0 +1,6 @@
+Customer ID: 7317
+Name: Lawrence Coleman
+National ID: 527-35-9235
+Bank: Sherman Ltd Bank
+Account Number: 3377456667
+Consent Status: Revoked

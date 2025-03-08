@@ -1,0 +1,6 @@
+Customer ID: 9873
+Name: Anthony Pena
+National ID: 327-94-7867
+Bank: Walker-Howard Bank
+Account Number: 4500976054
+Consent Status: Revoked

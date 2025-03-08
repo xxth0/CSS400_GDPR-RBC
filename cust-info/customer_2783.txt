@@ -1,0 +1,6 @@
+Customer ID: 2783
+Name: Shane Dalton
+National ID: 700-60-0166
+Bank: Austin, Gordon and Jordan Bank
+Account Number: 6750202620
+Consent Status: Revoked

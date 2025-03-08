@@ -1,0 +1,6 @@
+Customer ID: 5380
+Name: David Rose
+National ID: 616-84-4739
+Bank: Wyatt Inc Bank
+Account Number: 2539878376
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6410
+Name: Sandra Moore
+National ID: 825-53-7563
+Bank: Torres-Dean Bank
+Account Number: 7250473184
+Consent Status: Granted

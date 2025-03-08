@@ -1,0 +1,6 @@
+Customer ID: 7608
+Name: Marc Hernandez
+National ID: 480-28-6729
+Bank: Mcmahon Ltd Bank
+Account Number: 2909339863
+Consent Status: Revoked

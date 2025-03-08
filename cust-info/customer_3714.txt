@@ -1,0 +1,6 @@
+Customer ID: 3714
+Name: Sherry Reid
+National ID: 604-67-9423
+Bank: Cooper LLC Bank
+Account Number: 4803860733
+Consent Status: Granted

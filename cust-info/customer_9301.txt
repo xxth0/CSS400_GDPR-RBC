@@ -1,0 +1,6 @@
+Customer ID: 9301
+Name: Joseph Krueger
+National ID: 671-13-2207
+Bank: Miller, Leach and Ramirez Bank
+Account Number: 2346370841
+Consent Status: Granted

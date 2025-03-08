@@ -1,0 +1,6 @@
+Customer ID: 3022
+Name: Albert Randolph MD
+National ID: 864-30-6531
+Bank: Rich, Wood and Martinez Bank
+Account Number: 3682494534
+Consent Status: Granted

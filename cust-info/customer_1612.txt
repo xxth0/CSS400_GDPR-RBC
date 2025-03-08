@@ -1,0 +1,6 @@
+Customer ID: 1612
+Name: Kristine Evans
+National ID: 133-11-5864
+Bank: Taylor, Brown and Christensen Bank
+Account Number: 7192836275
+Consent Status: Revoked

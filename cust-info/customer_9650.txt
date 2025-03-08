@@ -1,0 +1,6 @@
+Customer ID: 9650
+Name: Sara Smith
+National ID: 385-78-7512
+Bank: Harris Inc Bank
+Account Number: 7754528078
+Consent Status: Revoked

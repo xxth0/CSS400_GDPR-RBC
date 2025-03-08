@@ -1,0 +1,6 @@
+Customer ID: 1738
+Name: James Kennedy
+National ID: 026-39-0492
+Bank: Tanner Ltd Bank
+Account Number: 9081142030
+Consent Status: Revoked

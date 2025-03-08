@@ -1,0 +1,6 @@
+Customer ID: 5537
+Name: John Young
+National ID: 208-72-5356
+Bank: Morris-Wood Bank
+Account Number: 3196360701
+Consent Status: Revoked

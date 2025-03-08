@@ -1,0 +1,6 @@
+Customer ID: 8614
+Name: John Mathis
+National ID: 326-18-1257
+Bank: Schaefer Ltd Bank
+Account Number: 5017622799
+Consent Status: Granted

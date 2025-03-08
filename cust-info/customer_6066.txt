@@ -1,0 +1,6 @@
+Customer ID: 6066
+Name: Brandi Diaz
+National ID: 784-53-3842
+Bank: Garcia, Kirby and Hayes Bank
+Account Number: 3661830992
+Consent Status: Granted

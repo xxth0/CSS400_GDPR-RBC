@@ -1,0 +1,6 @@
+Customer ID: 8465
+Name: Eric Kim
+National ID: 340-26-1466
+Bank: Thomas-Perez Bank
+Account Number: 5561176666
+Consent Status: Granted

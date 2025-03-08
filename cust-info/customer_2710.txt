@@ -1,0 +1,6 @@
+Customer ID: 2710
+Name: Ms. Rebecca Warren
+National ID: 535-72-3370
+Bank: Fox, Mcbride and Salinas Bank
+Account Number: 1047792497
+Consent Status: Revoked

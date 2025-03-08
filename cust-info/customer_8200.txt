@@ -1,0 +1,6 @@
+Customer ID: 8200
+Name: Gregory Sparks
+National ID: 656-71-7814
+Bank: Riley Group Bank
+Account Number: 5081637487
+Consent Status: Revoked

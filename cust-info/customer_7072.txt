@@ -1,0 +1,6 @@
+Customer ID: 7072
+Name: Michael Brown
+National ID: 817-78-3212
+Bank: Mayer PLC Bank
+Account Number: 4047666500
+Consent Status: Granted

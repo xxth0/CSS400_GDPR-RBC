@@ -1,0 +1,6 @@
+Customer ID: 3399
+Name: James Meza
+National ID: 695-07-6335
+Bank: Maxwell Group Bank
+Account Number: 9585215482
+Consent Status: Granted

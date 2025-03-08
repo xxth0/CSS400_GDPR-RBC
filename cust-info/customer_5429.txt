@@ -1,0 +1,6 @@
+Customer ID: 5429
+Name: Katherine Sanchez
+National ID: 892-37-0155
+Bank: Garcia-Estrada Bank
+Account Number: 9659949181
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 342
+Name: Justin Dunlap
+National ID: 055-33-4716
+Bank: Olson, Williams and Ibarra Bank
+Account Number: 1584642845
+Consent Status: Revoked

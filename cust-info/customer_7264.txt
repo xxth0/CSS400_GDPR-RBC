@@ -1,0 +1,6 @@
+Customer ID: 7264
+Name: Angela Clay
+National ID: 155-18-0217
+Bank: James-Trujillo Bank
+Account Number: 6349016443
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4101
+Name: Joseph Ward
+National ID: 762-20-2421
+Bank: Fuller PLC Bank
+Account Number: 5339283379
+Consent Status: Revoked

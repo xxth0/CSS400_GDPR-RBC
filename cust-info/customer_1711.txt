@@ -1,0 +1,6 @@
+Customer ID: 1711
+Name: Edward Wilson
+National ID: 804-60-4394
+Bank: Harvey and Sons Bank
+Account Number: 4622200460
+Consent Status: Granted

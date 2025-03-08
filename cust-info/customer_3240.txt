@@ -1,0 +1,6 @@
+Customer ID: 3240
+Name: Kimberly Garrett
+National ID: 206-36-5238
+Bank: Ramos and Sons Bank
+Account Number: 3342641785
+Consent Status: Granted

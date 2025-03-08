@@ -1,0 +1,6 @@
+Customer ID: 4976
+Name: John Hardin
+National ID: 668-83-1113
+Bank: Macias, Hampton and Oneill Bank
+Account Number: 8143231984
+Consent Status: Revoked

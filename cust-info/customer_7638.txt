@@ -1,0 +1,6 @@
+Customer ID: 7638
+Name: Ryan Lee
+National ID: 246-73-2209
+Bank: Gonzalez-Stone Bank
+Account Number: 1054915293
+Consent Status: Revoked

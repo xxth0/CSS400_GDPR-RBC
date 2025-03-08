@@ -1,0 +1,6 @@
+Customer ID: 7304
+Name: Hannah Mccoy
+National ID: 854-56-4094
+Bank: Barrett-Perez Bank
+Account Number: 1934258277
+Consent Status: Revoked

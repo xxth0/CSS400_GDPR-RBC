@@ -1,0 +1,6 @@
+Customer ID: 8322
+Name: Keith Gordon
+National ID: 498-84-8432
+Bank: Murphy-Kennedy Bank
+Account Number: 5841573779
+Consent Status: Granted

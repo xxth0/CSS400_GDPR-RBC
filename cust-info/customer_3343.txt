@@ -1,0 +1,6 @@
+Customer ID: 3343
+Name: Kayla Hart
+National ID: 741-74-4435
+Bank: Cruz, Espinoza and Ward Bank
+Account Number: 8563552653
+Consent Status: Revoked

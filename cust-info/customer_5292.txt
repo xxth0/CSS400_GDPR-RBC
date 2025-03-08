@@ -1,0 +1,6 @@
+Customer ID: 5292
+Name: Grace Hunt
+National ID: 636-60-1939
+Bank: Garcia-Clark Bank
+Account Number: 5027973103
+Consent Status: Granted

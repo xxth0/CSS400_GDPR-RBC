@@ -1,0 +1,6 @@
+Customer ID: 5817
+Name: Jordan Mccoy
+National ID: 525-23-8243
+Bank: Blair-Morgan Bank
+Account Number: 1510469908
+Consent Status: Revoked

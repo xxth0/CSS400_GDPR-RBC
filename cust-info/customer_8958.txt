@@ -1,0 +1,6 @@
+Customer ID: 8958
+Name: Paul York
+National ID: 543-42-8870
+Bank: Gonzalez-Berry Bank
+Account Number: 3197069789
+Consent Status: Revoked

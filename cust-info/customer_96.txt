@@ -1,0 +1,6 @@
+Customer ID: 96
+Name: Andrew Snyder
+National ID: 510-30-3632
+Bank: Scott, Dunn and Cole Bank
+Account Number: 8762719962
+Consent Status: Granted

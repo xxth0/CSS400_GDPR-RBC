@@ -1,0 +1,6 @@
+Customer ID: 3648
+Name: Kari Whitney
+National ID: 761-10-8484
+Bank: Kemp-Barnett Bank
+Account Number: 6090395676
+Consent Status: Revoked

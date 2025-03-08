@@ -1,0 +1,6 @@
+Customer ID: 7813
+Name: Raymond Thompson
+National ID: 308-34-7638
+Bank: Howard and Sons Bank
+Account Number: 3139578433
+Consent Status: Granted

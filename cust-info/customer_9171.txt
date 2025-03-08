@@ -1,0 +1,6 @@
+Customer ID: 9171
+Name: Rhonda Pruitt
+National ID: 670-67-0397
+Bank: West-Mcclain Bank
+Account Number: 3658878299
+Consent Status: Revoked

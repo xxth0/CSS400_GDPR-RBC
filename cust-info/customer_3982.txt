@@ -1,0 +1,6 @@
+Customer ID: 3982
+Name: Rhonda Mosley
+National ID: 256-57-0273
+Bank: Brown-Brown Bank
+Account Number: 1560500861
+Consent Status: Granted

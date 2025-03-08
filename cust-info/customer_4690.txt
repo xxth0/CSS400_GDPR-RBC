@@ -1,0 +1,6 @@
+Customer ID: 4690
+Name: Helen Hudson
+National ID: 376-26-4668
+Bank: Richardson LLC Bank
+Account Number: 1420733339
+Consent Status: Revoked

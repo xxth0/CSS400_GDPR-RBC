@@ -1,0 +1,6 @@
+Customer ID: 6394
+Name: Troy Arias
+National ID: 453-36-0971
+Bank: Walton-Green Bank
+Account Number: 1929210984
+Consent Status: Revoked

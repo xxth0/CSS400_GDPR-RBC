@@ -1,0 +1,6 @@
+Customer ID: 2650
+Name: Stephanie Perez
+National ID: 672-86-3847
+Bank: Francis-Collins Bank
+Account Number: 4345214663
+Consent Status: Revoked

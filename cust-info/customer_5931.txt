@@ -1,0 +1,6 @@
+Customer ID: 5931
+Name: Thomas Griffin
+National ID: 278-71-4674
+Bank: Gray, Wood and Fitzpatrick Bank
+Account Number: 7576174463
+Consent Status: Granted

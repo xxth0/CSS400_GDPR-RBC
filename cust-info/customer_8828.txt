@@ -1,0 +1,6 @@
+Customer ID: 8828
+Name: Angela Lewis
+National ID: 526-91-6545
+Bank: Barnes Inc Bank
+Account Number: 4940086603
+Consent Status: Revoked

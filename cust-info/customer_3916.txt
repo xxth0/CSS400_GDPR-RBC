@@ -1,0 +1,6 @@
+Customer ID: 3916
+Name: Laura Clark
+National ID: 578-91-3680
+Bank: Martinez, Moses and White Bank
+Account Number: 5304936768
+Consent Status: Revoked

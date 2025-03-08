@@ -1,0 +1,6 @@
+Customer ID: 2720
+Name: Amber Wright
+National ID: 716-09-3588
+Bank: Figueroa Inc Bank
+Account Number: 7366395549
+Consent Status: Revoked

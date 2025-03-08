@@ -1,0 +1,6 @@
+Customer ID: 6860
+Name: Maria Gray
+National ID: 648-48-3554
+Bank: Navarro-Mason Bank
+Account Number: 5785146888
+Consent Status: Granted

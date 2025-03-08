@@ -1,0 +1,6 @@
+Customer ID: 3956
+Name: Andrew Dickerson
+National ID: 498-97-0722
+Bank: Stephens-Johnson Bank
+Account Number: 3209141449
+Consent Status: Granted

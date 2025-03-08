@@ -1,0 +1,6 @@
+Customer ID: 2705
+Name: Alejandro Gordon
+National ID: 598-44-9720
+Bank: Reeves-Irwin Bank
+Account Number: 5718455976
+Consent Status: Granted

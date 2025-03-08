@@ -1,0 +1,6 @@
+Customer ID: 4278
+Name: Katherine Wilkinson
+National ID: 467-67-6321
+Bank: Smith-Davis Bank
+Account Number: 4871463218
+Consent Status: Revoked

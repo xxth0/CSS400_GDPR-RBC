@@ -1,0 +1,6 @@
+Customer ID: 5009
+Name: Patricia Brown DDS
+National ID: 362-96-2375
+Bank: Vargas LLC Bank
+Account Number: 3413997523
+Consent Status: Revoked

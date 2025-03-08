@@ -1,0 +1,6 @@
+Customer ID: 243
+Name: Laura Galvan
+National ID: 075-71-4619
+Bank: Williams, Brown and Ingram Bank
+Account Number: 7158304811
+Consent Status: Granted

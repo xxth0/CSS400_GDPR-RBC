@@ -1,0 +1,6 @@
+Customer ID: 3023
+Name: Laurie Archer
+National ID: 117-93-2574
+Bank: Huynh, Mann and Davidson Bank
+Account Number: 3065533247
+Consent Status: Revoked

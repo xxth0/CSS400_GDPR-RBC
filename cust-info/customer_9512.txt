@@ -1,0 +1,6 @@
+Customer ID: 9512
+Name: Kerry Gray
+National ID: 874-42-9365
+Bank: Wilkins, Woods and Anderson Bank
+Account Number: 5097689662
+Consent Status: Revoked

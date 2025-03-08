@@ -1,0 +1,6 @@
+Customer ID: 9300
+Name: Amanda Gilmore
+National ID: 038-11-6822
+Bank: Bradley, Hunter and Banks Bank
+Account Number: 1315881752
+Consent Status: Granted

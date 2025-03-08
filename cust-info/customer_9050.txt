@@ -1,0 +1,6 @@
+Customer ID: 9050
+Name: Judith Newton
+National ID: 695-71-7647
+Bank: Williams Group Bank
+Account Number: 1992862966
+Consent Status: Revoked

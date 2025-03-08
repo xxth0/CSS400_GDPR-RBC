@@ -1,0 +1,6 @@
+Customer ID: 6587
+Name: Michael Newman
+National ID: 286-07-3318
+Bank: Medina, Duran and Perez Bank
+Account Number: 7044167017
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2604
+Name: Jeffery Ramos
+National ID: 215-04-8859
+Bank: Mcgrath-Duncan Bank
+Account Number: 3357062751
+Consent Status: Revoked

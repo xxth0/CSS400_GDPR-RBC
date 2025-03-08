@@ -1,0 +1,6 @@
+Customer ID: 1990
+Name: Savannah Johnson
+National ID: 604-70-5477
+Bank: Orr-Benson Bank
+Account Number: 4512910195
+Consent Status: Granted

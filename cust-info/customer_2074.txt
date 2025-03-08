@@ -1,0 +1,6 @@
+Customer ID: 2074
+Name: John Reed
+National ID: 132-15-1242
+Bank: Frost-Johnson Bank
+Account Number: 2944438092
+Consent Status: Revoked

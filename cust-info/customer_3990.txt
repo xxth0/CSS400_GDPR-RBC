@@ -1,0 +1,6 @@
+Customer ID: 3990
+Name: Zachary White
+National ID: 035-92-9870
+Bank: Holland-Adams Bank
+Account Number: 6037790635
+Consent Status: Revoked

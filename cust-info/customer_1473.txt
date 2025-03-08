@@ -1,0 +1,6 @@
+Customer ID: 1473
+Name: Eric Gonzales
+National ID: 111-02-2416
+Bank: Hall PLC Bank
+Account Number: 5132477235
+Consent Status: Granted

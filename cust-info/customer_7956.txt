@@ -1,0 +1,6 @@
+Customer ID: 7956
+Name: Sarah James
+National ID: 042-95-4319
+Bank: Fowler PLC Bank
+Account Number: 5178554956
+Consent Status: Granted

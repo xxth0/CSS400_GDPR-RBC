@@ -1,0 +1,6 @@
+Customer ID: 4704
+Name: Stacey Hernandez
+National ID: 026-30-6624
+Bank: Perez-King Bank
+Account Number: 1886803278
+Consent Status: Revoked

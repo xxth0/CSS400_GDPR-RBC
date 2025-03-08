@@ -1,0 +1,6 @@
+Customer ID: 8856
+Name: Nicole Harris
+National ID: 074-73-8495
+Bank: Barnett-Lucero Bank
+Account Number: 8099469388
+Consent Status: Granted

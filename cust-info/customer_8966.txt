@@ -1,0 +1,6 @@
+Customer ID: 8966
+Name: Lindsey Morrison
+National ID: 722-98-4003
+Bank: Raymond PLC Bank
+Account Number: 6853028183
+Consent Status: Revoked

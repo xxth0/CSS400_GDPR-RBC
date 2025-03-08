@@ -1,0 +1,6 @@
+Customer ID: 620
+Name: William Stewart
+National ID: 403-42-0599
+Bank: Glass, Lopez and Wood Bank
+Account Number: 1181900050
+Consent Status: Revoked

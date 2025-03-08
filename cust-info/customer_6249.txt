@@ -1,0 +1,6 @@
+Customer ID: 6249
+Name: Dr. Jonathan White PhD
+National ID: 510-43-7430
+Bank: Taylor-Lee Bank
+Account Number: 2675407989
+Consent Status: Granted

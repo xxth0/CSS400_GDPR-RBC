@@ -1,0 +1,6 @@
+Customer ID: 9054
+Name: Mary Steele
+National ID: 344-28-6115
+Bank: Gregory-Hogan Bank
+Account Number: 4691080295
+Consent Status: Revoked

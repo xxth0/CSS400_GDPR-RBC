@@ -1,0 +1,6 @@
+Customer ID: 6914
+Name: David Zamora
+National ID: 267-46-7781
+Bank: Byrd, Pierce and Eaton Bank
+Account Number: 8878062296
+Consent Status: Revoked

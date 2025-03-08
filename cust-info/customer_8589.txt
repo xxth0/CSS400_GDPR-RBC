@@ -1,0 +1,6 @@
+Customer ID: 8589
+Name: Christopher Armstrong DVM
+National ID: 348-86-7537
+Bank: Tyler, Park and Harris Bank
+Account Number: 2673365388
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6366
+Name: Maria Bullock
+National ID: 139-73-9244
+Bank: Rodriguez, Gomez and Hobbs Bank
+Account Number: 7679539247
+Consent Status: Revoked

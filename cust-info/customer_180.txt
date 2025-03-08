@@ -1,0 +1,6 @@
+Customer ID: 180
+Name: Renee Wright
+National ID: 637-51-4866
+Bank: Parsons and Sons Bank
+Account Number: 9109318269
+Consent Status: Revoked

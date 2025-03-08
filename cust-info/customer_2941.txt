@@ -1,0 +1,6 @@
+Customer ID: 2941
+Name: Jennifer Kline
+National ID: 346-67-3501
+Bank: Johnson-Scott Bank
+Account Number: 5955122781
+Consent Status: Revoked

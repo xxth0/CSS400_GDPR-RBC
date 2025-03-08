@@ -1,0 +1,6 @@
+Customer ID: 7801
+Name: Sharon Skinner
+National ID: 883-98-8651
+Bank: Nixon, Smith and Romero Bank
+Account Number: 8682447622
+Consent Status: Granted

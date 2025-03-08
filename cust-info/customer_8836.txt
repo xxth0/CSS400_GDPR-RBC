@@ -1,0 +1,6 @@
+Customer ID: 8836
+Name: Edwin Adams
+National ID: 310-25-4514
+Bank: Nelson, Williams and Griffin Bank
+Account Number: 5431147786
+Consent Status: Revoked

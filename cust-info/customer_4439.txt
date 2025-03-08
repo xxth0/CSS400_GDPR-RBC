@@ -1,0 +1,6 @@
+Customer ID: 4439
+Name: Sally Wilson
+National ID: 027-89-5140
+Bank: Tran, Campbell and Smith Bank
+Account Number: 9968965038
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8475
+Name: Sarah Bridges
+National ID: 160-42-8352
+Bank: Morales, Sanchez and Michael Bank
+Account Number: 1775221762
+Consent Status: Revoked

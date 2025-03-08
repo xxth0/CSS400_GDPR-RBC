@@ -1,0 +1,6 @@
+Customer ID: 9237
+Name: Andrew Garza
+National ID: 532-46-8201
+Bank: Bailey Inc Bank
+Account Number: 8739745088
+Consent Status: Granted

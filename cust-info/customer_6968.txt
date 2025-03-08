@@ -1,0 +1,6 @@
+Customer ID: 6968
+Name: Tracy Harris
+National ID: 329-16-6557
+Bank: Duran-Johnson Bank
+Account Number: 8733237065
+Consent Status: Granted

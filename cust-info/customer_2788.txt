@@ -1,0 +1,6 @@
+Customer ID: 2788
+Name: Nicole Villegas
+National ID: 504-26-5052
+Bank: David-Fowler Bank
+Account Number: 8902705624
+Consent Status: Revoked

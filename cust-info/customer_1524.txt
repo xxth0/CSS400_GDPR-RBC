@@ -1,0 +1,6 @@
+Customer ID: 1524
+Name: Melinda Carter
+National ID: 477-64-1446
+Bank: Hansen-Hall Bank
+Account Number: 1264839619
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1135
+Name: Julie Scott
+National ID: 734-42-4308
+Bank: Miller, Wolfe and Jimenez Bank
+Account Number: 2984602822
+Consent Status: Granted

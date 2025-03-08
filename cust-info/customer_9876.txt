@@ -1,0 +1,6 @@
+Customer ID: 9876
+Name: Janice Navarro
+National ID: 726-06-3620
+Bank: French, Lee and Crawford Bank
+Account Number: 2511328344
+Consent Status: Granted

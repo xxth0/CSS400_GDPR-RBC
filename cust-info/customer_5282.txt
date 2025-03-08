@@ -1,0 +1,6 @@
+Customer ID: 5282
+Name: Joseph Price
+National ID: 878-23-5356
+Bank: Erickson, Jones and Archer Bank
+Account Number: 1563995739
+Consent Status: Revoked

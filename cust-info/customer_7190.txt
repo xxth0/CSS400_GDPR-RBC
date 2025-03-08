@@ -1,0 +1,6 @@
+Customer ID: 7190
+Name: Tiffany Walters
+National ID: 286-93-3613
+Bank: Robinson-Gould Bank
+Account Number: 8224077115
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8124
+Name: Evan Sanders
+National ID: 625-47-9077
+Bank: Barrett-Martin Bank
+Account Number: 7931174330
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6924
+Name: Angela Riddle
+National ID: 828-69-1344
+Bank: Garrett-Velasquez Bank
+Account Number: 4672928869
+Consent Status: Revoked

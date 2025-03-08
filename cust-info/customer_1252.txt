@@ -1,0 +1,6 @@
+Customer ID: 1252
+Name: Jonathan Owens
+National ID: 810-45-7822
+Bank: Austin, Smith and Roberts Bank
+Account Number: 5571749797
+Consent Status: Granted

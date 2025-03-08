@@ -1,0 +1,6 @@
+Customer ID: 6458
+Name: Jennifer Clark
+National ID: 059-79-2662
+Bank: Wolf Ltd Bank
+Account Number: 8608178316
+Consent Status: Granted

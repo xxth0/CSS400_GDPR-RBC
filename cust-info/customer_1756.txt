@@ -1,0 +1,6 @@
+Customer ID: 1756
+Name: Alan Barry
+National ID: 417-05-9715
+Bank: Young and Sons Bank
+Account Number: 4264515865
+Consent Status: Granted

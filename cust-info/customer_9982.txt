@@ -1,0 +1,6 @@
+Customer ID: 9982
+Name: Samuel Bolton
+National ID: 691-39-8256
+Bank: Zuniga Inc Bank
+Account Number: 8405250391
+Consent Status: Granted

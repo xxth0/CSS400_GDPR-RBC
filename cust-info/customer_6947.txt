@@ -1,0 +1,6 @@
+Customer ID: 6947
+Name: Kyle Donovan
+National ID: 043-96-8942
+Bank: Larson-Malone Bank
+Account Number: 4349907569
+Consent Status: Revoked

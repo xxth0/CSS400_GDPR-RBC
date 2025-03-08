@@ -1,0 +1,6 @@
+Customer ID: 6134
+Name: Robert Atkins
+National ID: 765-10-0498
+Bank: Stone, Wade and Martinez Bank
+Account Number: 6235430135
+Consent Status: Granted

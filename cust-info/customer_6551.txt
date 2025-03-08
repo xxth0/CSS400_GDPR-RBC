@@ -1,0 +1,6 @@
+Customer ID: 6551
+Name: Amy Gordon
+National ID: 605-86-5401
+Bank: Mathews, Richards and Oconnor Bank
+Account Number: 6497187030
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5128
+Name: Alejandra James
+National ID: 323-97-3652
+Bank: Bryant, Ortiz and Harris Bank
+Account Number: 5628478318
+Consent Status: Revoked

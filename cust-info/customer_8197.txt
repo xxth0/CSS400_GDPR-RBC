@@ -1,0 +1,6 @@
+Customer ID: 8197
+Name: Casey Sanchez
+National ID: 268-39-9667
+Bank: Moreno LLC Bank
+Account Number: 4938755759
+Consent Status: Revoked

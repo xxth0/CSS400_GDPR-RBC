@@ -1,0 +1,6 @@
+Customer ID: 7855
+Name: Emily Brooks
+National ID: 564-11-4579
+Bank: Lambert, Walker and Maddox Bank
+Account Number: 7943117189
+Consent Status: Revoked

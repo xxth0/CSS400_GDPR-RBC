@@ -1,0 +1,6 @@
+Customer ID: 7737
+Name: Amy White
+National ID: 656-64-2001
+Bank: Lynn, Bailey and Jensen Bank
+Account Number: 7553606416
+Consent Status: Granted

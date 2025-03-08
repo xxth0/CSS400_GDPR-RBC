@@ -1,0 +1,6 @@
+Customer ID: 5955
+Name: Kathryn Contreras
+National ID: 794-79-1886
+Bank: Marquez Inc Bank
+Account Number: 2761823573
+Consent Status: Revoked

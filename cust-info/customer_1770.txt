@@ -1,0 +1,6 @@
+Customer ID: 1770
+Name: Angela Whitney
+National ID: 698-22-4229
+Bank: Wilson, Donovan and James Bank
+Account Number: 1523398128
+Consent Status: Granted

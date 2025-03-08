@@ -1,0 +1,6 @@
+Customer ID: 192
+Name: Jason Smith
+National ID: 561-17-7452
+Bank: Gibson-Peterson Bank
+Account Number: 8041211281
+Consent Status: Revoked

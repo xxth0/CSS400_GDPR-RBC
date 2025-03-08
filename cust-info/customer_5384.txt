@@ -1,0 +1,6 @@
+Customer ID: 5384
+Name: Jason Pruitt
+National ID: 232-05-9730
+Bank: Taylor-Rodriguez Bank
+Account Number: 1581708350
+Consent Status: Granted

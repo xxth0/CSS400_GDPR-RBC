@@ -1,0 +1,6 @@
+Customer ID: 1075
+Name: Brian Sanford
+National ID: 544-30-6293
+Bank: Davis, Pineda and Simmons Bank
+Account Number: 4338717909
+Consent Status: Granted

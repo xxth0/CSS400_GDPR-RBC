@@ -1,0 +1,6 @@
+Customer ID: 1406
+Name: Darrell Alexander
+National ID: 119-52-1907
+Bank: Smith-Martinez Bank
+Account Number: 2650288300
+Consent Status: Granted

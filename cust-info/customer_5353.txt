@@ -1,0 +1,6 @@
+Customer ID: 5353
+Name: Fernando Davis
+National ID: 414-29-4856
+Bank: Kim PLC Bank
+Account Number: 1995077021
+Consent Status: Revoked

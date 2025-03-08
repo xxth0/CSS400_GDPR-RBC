@@ -1,0 +1,6 @@
+Customer ID: 2375
+Name: Mario Davis
+National ID: 843-87-7910
+Bank: Cook Ltd Bank
+Account Number: 6797107101
+Consent Status: Revoked

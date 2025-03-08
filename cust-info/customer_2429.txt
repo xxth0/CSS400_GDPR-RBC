@@ -1,0 +1,6 @@
+Customer ID: 2429
+Name: Adrian Arias
+National ID: 315-20-4516
+Bank: Salazar Ltd Bank
+Account Number: 7698167521
+Consent Status: Revoked

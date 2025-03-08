@@ -1,0 +1,6 @@
+Customer ID: 4495
+Name: Justin Smith
+National ID: 007-95-5525
+Bank: Moran, Clements and Jones Bank
+Account Number: 8037051822
+Consent Status: Granted

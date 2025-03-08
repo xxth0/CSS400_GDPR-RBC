@@ -1,0 +1,6 @@
+Customer ID: 9424
+Name: Sheila Brown
+National ID: 724-73-3433
+Bank: Bell, Ramos and Warner Bank
+Account Number: 7985137984
+Consent Status: Revoked

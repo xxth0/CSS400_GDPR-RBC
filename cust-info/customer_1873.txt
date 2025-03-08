@@ -1,0 +1,6 @@
+Customer ID: 1873
+Name: Brittany Whitney
+National ID: 890-06-7614
+Bank: Wade Group Bank
+Account Number: 5472601202
+Consent Status: Revoked

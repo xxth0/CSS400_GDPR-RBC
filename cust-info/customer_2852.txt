@@ -1,0 +1,6 @@
+Customer ID: 2852
+Name: Ryan Brown
+National ID: 114-79-6404
+Bank: Doyle-Anderson Bank
+Account Number: 8642410374
+Consent Status: Revoked

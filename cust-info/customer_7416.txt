@@ -1,0 +1,6 @@
+Customer ID: 7416
+Name: Allison Thomas
+National ID: 388-91-2618
+Bank: Martinez LLC Bank
+Account Number: 2291510217
+Consent Status: Revoked

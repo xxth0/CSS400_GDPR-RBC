@@ -1,0 +1,6 @@
+Customer ID: 7380
+Name: James Graham
+National ID: 835-04-6614
+Bank: Booth LLC Bank
+Account Number: 3109494839
+Consent Status: Revoked

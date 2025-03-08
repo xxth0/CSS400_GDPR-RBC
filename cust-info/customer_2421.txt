@@ -1,0 +1,6 @@
+Customer ID: 2421
+Name: Amanda Brooks
+National ID: 557-31-8040
+Bank: Bright Inc Bank
+Account Number: 9184230104
+Consent Status: Revoked

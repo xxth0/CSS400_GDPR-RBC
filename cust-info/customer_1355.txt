@@ -1,0 +1,6 @@
+Customer ID: 1355
+Name: Michelle Walsh
+National ID: 207-79-1019
+Bank: Pratt, Barrett and Bruce Bank
+Account Number: 1187902350
+Consent Status: Revoked

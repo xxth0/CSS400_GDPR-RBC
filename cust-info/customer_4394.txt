@@ -1,0 +1,6 @@
+Customer ID: 4394
+Name: Kerry Logan
+National ID: 671-75-3372
+Bank: Wright-Hughes Bank
+Account Number: 6465032137
+Consent Status: Revoked

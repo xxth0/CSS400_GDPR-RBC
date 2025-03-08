@@ -1,0 +1,6 @@
+Customer ID: 9367
+Name: Melinda Carr
+National ID: 507-61-2700
+Bank: Good-Davis Bank
+Account Number: 6927355866
+Consent Status: Revoked

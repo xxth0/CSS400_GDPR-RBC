@@ -1,0 +1,6 @@
+Customer ID: 2621
+Name: Joseph Hamilton
+National ID: 796-04-4255
+Bank: Foster, Wood and Rivera Bank
+Account Number: 2690444638
+Consent Status: Granted

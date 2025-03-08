@@ -1,0 +1,6 @@
+Customer ID: 6273
+Name: Virginia Martinez
+National ID: 203-01-9089
+Bank: Cannon-Clayton Bank
+Account Number: 8907932162
+Consent Status: Granted

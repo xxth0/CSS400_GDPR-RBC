@@ -1,0 +1,6 @@
+Customer ID: 6148
+Name: Ashley Oneill
+National ID: 798-23-4619
+Bank: Mcbride-Torres Bank
+Account Number: 6148098178
+Consent Status: Revoked

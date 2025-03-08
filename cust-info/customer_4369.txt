@@ -1,0 +1,6 @@
+Customer ID: 4369
+Name: Mallory Lester
+National ID: 182-10-8803
+Bank: Bradford-Klein Bank
+Account Number: 5500190375
+Consent Status: Revoked

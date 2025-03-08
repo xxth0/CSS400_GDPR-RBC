@@ -1,0 +1,6 @@
+Customer ID: 336
+Name: Ernest Wu
+National ID: 671-62-5068
+Bank: Ward-Walsh Bank
+Account Number: 7930831534
+Consent Status: Granted

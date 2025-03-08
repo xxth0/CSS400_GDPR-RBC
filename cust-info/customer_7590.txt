@@ -1,0 +1,6 @@
+Customer ID: 7590
+Name: Fernando Martinez
+National ID: 277-28-1530
+Bank: Gutierrez-Lewis Bank
+Account Number: 5626872867
+Consent Status: Granted

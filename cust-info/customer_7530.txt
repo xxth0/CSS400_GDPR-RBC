@@ -1,0 +1,6 @@
+Customer ID: 7530
+Name: Denise Schwartz
+National ID: 312-82-3719
+Bank: Miller-Alvarez Bank
+Account Number: 2199316374
+Consent Status: Granted

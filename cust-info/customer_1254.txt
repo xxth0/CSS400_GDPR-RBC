@@ -1,0 +1,6 @@
+Customer ID: 1254
+Name: Jennifer Price
+National ID: 827-60-0339
+Bank: Cooper Inc Bank
+Account Number: 7409319086
+Consent Status: Revoked

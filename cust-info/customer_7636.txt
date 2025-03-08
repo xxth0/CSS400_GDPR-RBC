@@ -1,0 +1,6 @@
+Customer ID: 7636
+Name: Catherine Jackson
+National ID: 513-35-5773
+Bank: Burton, Osborn and Fox Bank
+Account Number: 8819746227
+Consent Status: Granted

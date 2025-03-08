@@ -1,0 +1,6 @@
+Customer ID: 5368
+Name: Meredith Thomas
+National ID: 669-03-7735
+Bank: Patrick Group Bank
+Account Number: 4043443125
+Consent Status: Revoked

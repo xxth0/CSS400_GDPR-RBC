@@ -1,0 +1,6 @@
+Customer ID: 7337
+Name: Charles Benton
+National ID: 795-09-6308
+Bank: Edwards LLC Bank
+Account Number: 6592139680
+Consent Status: Revoked

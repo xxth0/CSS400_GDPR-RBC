@@ -1,0 +1,6 @@
+Customer ID: 2947
+Name: Samantha Romero
+National ID: 802-67-6494
+Bank: Wells Inc Bank
+Account Number: 4882727395
+Consent Status: Revoked

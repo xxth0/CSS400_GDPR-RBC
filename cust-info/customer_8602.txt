@@ -1,0 +1,6 @@
+Customer ID: 8602
+Name: Michael Mullen
+National ID: 022-20-4864
+Bank: Ramos-Ford Bank
+Account Number: 2884461596
+Consent Status: Revoked

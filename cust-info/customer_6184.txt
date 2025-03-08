@@ -1,0 +1,6 @@
+Customer ID: 6184
+Name: Robert Rivera
+National ID: 154-57-1633
+Bank: Dillon PLC Bank
+Account Number: 9184415984
+Consent Status: Granted

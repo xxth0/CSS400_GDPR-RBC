@@ -1,0 +1,6 @@
+Customer ID: 5758
+Name: Calvin Roy
+National ID: 073-36-5960
+Bank: Knapp Group Bank
+Account Number: 1848325099
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1017
+Name: William Rios
+National ID: 345-07-1387
+Bank: Howard-Moore Bank
+Account Number: 7153037706
+Consent Status: Revoked

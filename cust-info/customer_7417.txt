@@ -1,0 +1,6 @@
+Customer ID: 7417
+Name: Anthony Anderson
+National ID: 551-22-4273
+Bank: Willis-King Bank
+Account Number: 9462063154
+Consent Status: Granted

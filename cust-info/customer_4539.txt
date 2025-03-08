@@ -1,0 +1,6 @@
+Customer ID: 4539
+Name: Mrs. Elizabeth Reed
+National ID: 136-53-9774
+Bank: Perez, Hansen and Evans Bank
+Account Number: 9983200875
+Consent Status: Revoked

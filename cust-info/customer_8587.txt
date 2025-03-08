@@ -1,0 +1,6 @@
+Customer ID: 8587
+Name: Daryl Miller
+National ID: 249-58-1615
+Bank: Hunt-Hicks Bank
+Account Number: 4117753199
+Consent Status: Revoked

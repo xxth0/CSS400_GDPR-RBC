@@ -1,0 +1,6 @@
+Customer ID: 852
+Name: Amy Jackson
+National ID: 322-72-5772
+Bank: Park and Sons Bank
+Account Number: 2601459904
+Consent Status: Revoked

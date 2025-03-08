@@ -1,0 +1,6 @@
+Customer ID: 5036
+Name: Nathan Nunez
+National ID: 187-01-6338
+Bank: Rios-Stewart Bank
+Account Number: 7276272680
+Consent Status: Granted

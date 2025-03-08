@@ -1,0 +1,6 @@
+Customer ID: 1671
+Name: Jason Beard
+National ID: 602-84-4055
+Bank: Thompson-Castillo Bank
+Account Number: 1014085815
+Consent Status: Granted

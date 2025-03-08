@@ -1,0 +1,6 @@
+Customer ID: 3372
+Name: Tyler Rodriguez
+National ID: 077-61-0131
+Bank: Nelson LLC Bank
+Account Number: 3566598781
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6688
+Name: Michael Scott
+National ID: 324-43-6440
+Bank: Browning-Bishop Bank
+Account Number: 8724326405
+Consent Status: Granted

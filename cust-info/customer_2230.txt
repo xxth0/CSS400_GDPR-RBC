@@ -1,0 +1,6 @@
+Customer ID: 2230
+Name: Spencer Freeman
+National ID: 510-41-7606
+Bank: Zavala, Perkins and Brown Bank
+Account Number: 1041914963
+Consent Status: Revoked

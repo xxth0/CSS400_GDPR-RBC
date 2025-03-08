@@ -1,0 +1,6 @@
+Customer ID: 3360
+Name: Stephanie Roth
+National ID: 851-79-9050
+Bank: Gallagher, Silva and Edwards Bank
+Account Number: 2565555799
+Consent Status: Revoked

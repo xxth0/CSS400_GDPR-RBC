@@ -1,0 +1,6 @@
+Customer ID: 3164
+Name: Eric Patterson
+National ID: 596-23-8910
+Bank: Gentry-Hood Bank
+Account Number: 8731613372
+Consent Status: Revoked

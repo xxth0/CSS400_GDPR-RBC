@@ -1,0 +1,6 @@
+Customer ID: 3407
+Name: Karen Riley
+National ID: 790-13-0991
+Bank: Brown-Moore Bank
+Account Number: 3011944051
+Consent Status: Revoked

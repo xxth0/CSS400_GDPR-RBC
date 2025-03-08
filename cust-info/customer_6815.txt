@@ -1,0 +1,6 @@
+Customer ID: 6815
+Name: Deborah Foley
+National ID: 027-95-2145
+Bank: Sandoval Inc Bank
+Account Number: 1269189444
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6473
+Name: Brenda Powell
+National ID: 480-06-5286
+Bank: Wilson-Johnson Bank
+Account Number: 6308060986
+Consent Status: Granted

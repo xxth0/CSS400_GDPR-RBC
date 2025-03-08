@@ -1,0 +1,6 @@
+Customer ID: 2754
+Name: Katherine Gay
+National ID: 290-18-9813
+Bank: Foster, Berger and Jones Bank
+Account Number: 1379486468
+Consent Status: Granted

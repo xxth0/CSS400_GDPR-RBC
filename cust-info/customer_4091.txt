@@ -1,0 +1,6 @@
+Customer ID: 4091
+Name: Nicholas Booth
+National ID: 422-97-4249
+Bank: Ruiz-Rodriguez Bank
+Account Number: 1120770962
+Consent Status: Revoked

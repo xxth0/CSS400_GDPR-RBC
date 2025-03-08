@@ -1,0 +1,6 @@
+Customer ID: 5599
+Name: Jason Jacobs
+National ID: 113-55-3315
+Bank: Griffith-Herman Bank
+Account Number: 5096424241
+Consent Status: Revoked

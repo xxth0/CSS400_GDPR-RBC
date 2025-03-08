@@ -1,0 +1,6 @@
+Customer ID: 8143
+Name: Todd Wright
+National ID: 877-46-8255
+Bank: Williams PLC Bank
+Account Number: 8016011659
+Consent Status: Granted

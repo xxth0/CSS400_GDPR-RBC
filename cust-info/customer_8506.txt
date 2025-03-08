@@ -1,0 +1,6 @@
+Customer ID: 8506
+Name: Guy Mccormick
+National ID: 732-76-3850
+Bank: Jacobs and Sons Bank
+Account Number: 5713833558
+Consent Status: Granted

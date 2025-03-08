@@ -1,0 +1,6 @@
+Customer ID: 9647
+Name: Jenny Roy
+National ID: 043-60-7174
+Bank: Stanton, Hernandez and Meyer Bank
+Account Number: 2286842248
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4328
+Name: Connor Russell
+National ID: 564-84-9398
+Bank: Burns-Kaufman Bank
+Account Number: 9656133525
+Consent Status: Granted

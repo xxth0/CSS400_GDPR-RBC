@@ -1,0 +1,6 @@
+Customer ID: 7885
+Name: David Sanchez
+National ID: 521-48-5895
+Bank: Leach Ltd Bank
+Account Number: 6950597041
+Consent Status: Granted

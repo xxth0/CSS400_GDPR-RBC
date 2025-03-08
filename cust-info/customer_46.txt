@@ -1,0 +1,6 @@
+Customer ID: 46
+Name: Robert Anderson
+National ID: 732-54-0883
+Bank: Fischer-Taylor Bank
+Account Number: 2410578996
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8626
+Name: Manuel Gutierrez
+National ID: 859-01-4927
+Bank: Acosta LLC Bank
+Account Number: 4539325567
+Consent Status: Revoked

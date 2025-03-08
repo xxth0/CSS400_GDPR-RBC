@@ -1,0 +1,6 @@
+Customer ID: 9767
+Name: Tammy Brennan
+National ID: 707-89-4576
+Bank: Williams, Patterson and Drake Bank
+Account Number: 3606766483
+Consent Status: Granted

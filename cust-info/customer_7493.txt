@@ -1,0 +1,6 @@
+Customer ID: 7493
+Name: Jennifer Robles
+National ID: 852-64-7507
+Bank: Nelson-Mahoney Bank
+Account Number: 4488376882
+Consent Status: Revoked

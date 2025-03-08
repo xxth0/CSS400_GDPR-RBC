@@ -1,0 +1,6 @@
+Customer ID: 11
+Name: Joseph Anderson
+National ID: 141-41-0241
+Bank: Chambers and Sons Bank
+Account Number: 5661997445
+Consent Status: Granted

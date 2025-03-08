@@ -1,0 +1,6 @@
+Customer ID: 4851
+Name: Luis Kramer
+National ID: 220-87-8554
+Bank: Shields-Reyes Bank
+Account Number: 4694169215
+Consent Status: Granted

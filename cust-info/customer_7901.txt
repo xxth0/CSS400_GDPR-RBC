@@ -1,0 +1,6 @@
+Customer ID: 7901
+Name: Patrick Bradford
+National ID: 025-96-6909
+Bank: Brown LLC Bank
+Account Number: 9904267402
+Consent Status: Revoked

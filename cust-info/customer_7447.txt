@@ -1,0 +1,6 @@
+Customer ID: 7447
+Name: Traci Peterson
+National ID: 692-92-8570
+Bank: Ward-Allen Bank
+Account Number: 2336706198
+Consent Status: Granted

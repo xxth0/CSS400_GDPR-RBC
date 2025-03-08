@@ -1,0 +1,6 @@
+Customer ID: 8721
+Name: Gina Nelson
+National ID: 046-30-0309
+Bank: Mathews Ltd Bank
+Account Number: 7712289344
+Consent Status: Revoked

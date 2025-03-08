@@ -1,0 +1,6 @@
+Customer ID: 2942
+Name: Brittany Williams
+National ID: 209-83-1428
+Bank: Smith LLC Bank
+Account Number: 6574522471
+Consent Status: Granted

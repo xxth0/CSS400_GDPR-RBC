@@ -1,0 +1,6 @@
+Customer ID: 6974
+Name: Bryan Herman
+National ID: 434-19-4258
+Bank: Lucas, Martinez and Alexander Bank
+Account Number: 2451335792
+Consent Status: Revoked

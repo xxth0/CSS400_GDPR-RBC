@@ -1,0 +1,6 @@
+Customer ID: 2483
+Name: Mrs. Allison Floyd
+National ID: 725-04-3204
+Bank: Boyd, Reid and Baker Bank
+Account Number: 4311798673
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 103
+Name: Lindsey Wright
+National ID: 610-19-1629
+Bank: Campbell LLC Bank
+Account Number: 9002820571
+Consent Status: Granted

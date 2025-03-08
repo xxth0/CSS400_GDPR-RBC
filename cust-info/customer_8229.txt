@@ -1,0 +1,6 @@
+Customer ID: 8229
+Name: Jeffrey Flores
+National ID: 462-52-6617
+Bank: Schultz, Williams and Sanchez Bank
+Account Number: 4862188184
+Consent Status: Granted

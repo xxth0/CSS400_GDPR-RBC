@@ -1,0 +1,6 @@
+Customer ID: 6242
+Name: Ann Cox
+National ID: 395-87-3437
+Bank: Trujillo-Smith Bank
+Account Number: 6930993045
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1859
+Name: Michelle Everett
+National ID: 851-86-4976
+Bank: Scott-Coleman Bank
+Account Number: 4200528810
+Consent Status: Granted

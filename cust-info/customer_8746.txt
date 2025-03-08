@@ -1,0 +1,6 @@
+Customer ID: 8746
+Name: Margaret Miller
+National ID: 313-58-0051
+Bank: Anderson and Sons Bank
+Account Number: 8980382164
+Consent Status: Revoked

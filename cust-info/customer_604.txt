@@ -1,0 +1,6 @@
+Customer ID: 604
+Name: Christina Smith
+National ID: 594-39-0011
+Bank: Webb, French and Rodriguez Bank
+Account Number: 9379481149
+Consent Status: Granted

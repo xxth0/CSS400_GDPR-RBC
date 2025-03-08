@@ -1,0 +1,6 @@
+Customer ID: 140
+Name: Nicole Taylor
+National ID: 840-76-7608
+Bank: Watts-Santiago Bank
+Account Number: 8412980249
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8116
+Name: Joshua Thompson
+National ID: 217-64-9177
+Bank: Gibson, Mcconnell and Hall Bank
+Account Number: 6322047575
+Consent Status: Revoked

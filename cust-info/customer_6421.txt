@@ -1,0 +1,6 @@
+Customer ID: 6421
+Name: Julie Pittman
+National ID: 827-28-9102
+Bank: Garcia-Huff Bank
+Account Number: 6945710036
+Consent Status: Revoked

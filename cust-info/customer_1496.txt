@@ -1,0 +1,6 @@
+Customer ID: 1496
+Name: Thomas Hardy
+National ID: 596-56-4177
+Bank: Frazier, Morrison and Rivera Bank
+Account Number: 4446524659
+Consent Status: Revoked

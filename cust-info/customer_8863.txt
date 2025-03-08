@@ -1,0 +1,6 @@
+Customer ID: 8863
+Name: Mary Fields
+National ID: 621-23-4616
+Bank: Middleton-Ramos Bank
+Account Number: 7359044300
+Consent Status: Revoked

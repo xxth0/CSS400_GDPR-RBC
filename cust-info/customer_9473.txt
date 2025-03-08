@@ -1,0 +1,6 @@
+Customer ID: 9473
+Name: Traci Coleman
+National ID: 467-46-9605
+Bank: Richardson Ltd Bank
+Account Number: 1235521233
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7847
+Name: Linda Cooke
+National ID: 729-25-0149
+Bank: Parsons-Smith Bank
+Account Number: 2179731050
+Consent Status: Revoked

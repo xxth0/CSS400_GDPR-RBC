@@ -1,0 +1,6 @@
+Customer ID: 537
+Name: Amanda Alexander
+National ID: 810-20-9445
+Bank: Wallace, Wiley and Golden Bank
+Account Number: 8857824988
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5595
+Name: Lisa Romero
+National ID: 704-22-4874
+Bank: Mays, Smith and Mahoney Bank
+Account Number: 7357355560
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 993
+Name: George Novak
+National ID: 195-86-9462
+Bank: Cooper PLC Bank
+Account Number: 8268898092
+Consent Status: Granted

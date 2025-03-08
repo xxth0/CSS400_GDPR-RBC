@@ -1,0 +1,6 @@
+Customer ID: 1934
+Name: Laura Johnson
+National ID: 626-10-7791
+Bank: Shields, Tanner and Donaldson Bank
+Account Number: 3104174068
+Consent Status: Revoked

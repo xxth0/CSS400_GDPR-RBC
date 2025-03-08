@@ -1,0 +1,6 @@
+Customer ID: 3692
+Name: Angela Klein
+National ID: 864-47-7554
+Bank: Cox, Kim and Hill Bank
+Account Number: 9938947827
+Consent Status: Revoked

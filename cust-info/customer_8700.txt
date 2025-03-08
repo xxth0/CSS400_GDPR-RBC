@@ -1,0 +1,6 @@
+Customer ID: 8700
+Name: Jason Rodriguez
+National ID: 453-51-9408
+Bank: Cobb, Hernandez and Andersen Bank
+Account Number: 2737753760
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4350
+Name: Frank Villarreal
+National ID: 343-09-6022
+Bank: Foster, Garner and Meyers Bank
+Account Number: 5459158687
+Consent Status: Revoked

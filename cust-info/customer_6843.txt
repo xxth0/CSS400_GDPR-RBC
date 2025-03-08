@@ -1,0 +1,6 @@
+Customer ID: 6843
+Name: Dustin Perry
+National ID: 151-10-1166
+Bank: Hernandez, Davis and Wise Bank
+Account Number: 1742044909
+Consent Status: Revoked

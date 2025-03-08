@@ -1,0 +1,6 @@
+Customer ID: 6384
+Name: Dwayne Roberts
+National ID: 341-88-6683
+Bank: Morse-Smith Bank
+Account Number: 3016905718
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7715
+Name: Sonya Olsen
+National ID: 058-66-3475
+Bank: Owens, Prince and Rivera Bank
+Account Number: 9615219936
+Consent Status: Revoked

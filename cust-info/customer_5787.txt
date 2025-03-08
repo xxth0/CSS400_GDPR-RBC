@@ -1,0 +1,6 @@
+Customer ID: 5787
+Name: Cody Doyle
+National ID: 795-42-7293
+Bank: Brown, Aguilar and Lopez Bank
+Account Number: 6132745287
+Consent Status: Revoked

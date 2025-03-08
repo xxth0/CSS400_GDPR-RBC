@@ -1,0 +1,6 @@
+Customer ID: 7458
+Name: Sarah Williams
+National ID: 545-24-4400
+Bank: Williams-Cunningham Bank
+Account Number: 1027332550
+Consent Status: Revoked

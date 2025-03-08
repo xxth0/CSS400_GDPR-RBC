@@ -1,0 +1,6 @@
+Customer ID: 5684
+Name: Jennifer Villarreal
+National ID: 298-02-5586
+Bank: Rodriguez-Beard Bank
+Account Number: 4026330091
+Consent Status: Revoked

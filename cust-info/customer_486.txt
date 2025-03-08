@@ -1,0 +1,6 @@
+Customer ID: 486
+Name: Reginald Mcgee
+National ID: 224-31-5171
+Bank: Brown PLC Bank
+Account Number: 5462868358
+Consent Status: Revoked

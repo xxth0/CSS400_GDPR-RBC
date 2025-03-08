@@ -1,0 +1,6 @@
+Customer ID: 7181
+Name: Dr. Victoria Rodriguez
+National ID: 345-21-0064
+Bank: Dixon and Sons Bank
+Account Number: 4746967813
+Consent Status: Granted

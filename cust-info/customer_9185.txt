@@ -1,0 +1,6 @@
+Customer ID: 9185
+Name: Dennis Burke
+National ID: 209-35-3352
+Bank: Thomas-Johnson Bank
+Account Number: 6662276804
+Consent Status: Revoked

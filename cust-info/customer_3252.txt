@@ -1,0 +1,6 @@
+Customer ID: 3252
+Name: Gina Glover
+National ID: 410-20-4286
+Bank: Stewart Group Bank
+Account Number: 8219523882
+Consent Status: Granted

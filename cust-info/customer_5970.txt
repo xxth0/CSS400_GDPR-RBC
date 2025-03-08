@@ -1,0 +1,6 @@
+Customer ID: 5970
+Name: William Salas
+National ID: 282-08-1915
+Bank: Anderson, Jackson and Short Bank
+Account Number: 3170595299
+Consent Status: Revoked

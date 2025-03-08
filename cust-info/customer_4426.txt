@@ -1,0 +1,6 @@
+Customer ID: 4426
+Name: James Murphy
+National ID: 047-07-5001
+Bank: Wright-Joseph Bank
+Account Number: 1747527577
+Consent Status: Granted

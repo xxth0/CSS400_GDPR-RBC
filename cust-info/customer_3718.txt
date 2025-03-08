@@ -1,0 +1,6 @@
+Customer ID: 3718
+Name: Michael Reed
+National ID: 210-31-1605
+Bank: Willis PLC Bank
+Account Number: 2933811550
+Consent Status: Granted

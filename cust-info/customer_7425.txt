@@ -1,0 +1,6 @@
+Customer ID: 7425
+Name: Donald Alvarado MD
+National ID: 231-11-1833
+Bank: Mccoy LLC Bank
+Account Number: 1994600336
+Consent Status: Revoked

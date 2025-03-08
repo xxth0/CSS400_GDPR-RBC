@@ -1,0 +1,6 @@
+Customer ID: 3420
+Name: Michelle Atkinson
+National ID: 162-91-6151
+Bank: Combs-Garner Bank
+Account Number: 7897310426
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1831
+Name: Pedro Harris
+National ID: 638-71-4566
+Bank: Wells-Schultz Bank
+Account Number: 1272746418
+Consent Status: Revoked

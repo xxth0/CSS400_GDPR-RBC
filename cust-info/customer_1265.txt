@@ -1,0 +1,6 @@
+Customer ID: 1265
+Name: Lauren Smith
+National ID: 710-16-9097
+Bank: Harper, Peters and Anderson Bank
+Account Number: 7922060157
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8729
+Name: Ashley Hart
+National ID: 210-79-8429
+Bank: Brooks-Miller Bank
+Account Number: 2079672043
+Consent Status: Granted

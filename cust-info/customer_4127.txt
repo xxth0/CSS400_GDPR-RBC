@@ -1,0 +1,6 @@
+Customer ID: 4127
+Name: Sandra Fitzgerald
+National ID: 323-92-6377
+Bank: Curry-Johnson Bank
+Account Number: 5992044824
+Consent Status: Revoked

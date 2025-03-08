@@ -1,0 +1,6 @@
+Customer ID: 8217
+Name: Kelly Johnson
+National ID: 621-18-0589
+Bank: Stewart, Gray and Roach Bank
+Account Number: 3005225574
+Consent Status: Revoked

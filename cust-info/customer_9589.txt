@@ -1,0 +1,6 @@
+Customer ID: 9589
+Name: Scott Brock
+National ID: 090-85-4963
+Bank: Lee-Valdez Bank
+Account Number: 3404994249
+Consent Status: Revoked

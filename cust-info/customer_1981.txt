@@ -1,0 +1,6 @@
+Customer ID: 1981
+Name: Hunter Barry
+National ID: 829-24-3625
+Bank: Clay, Medina and Rose Bank
+Account Number: 9872141941
+Consent Status: Revoked

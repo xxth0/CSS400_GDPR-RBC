@@ -1,0 +1,6 @@
+Customer ID: 6570
+Name: Lisa Greene
+National ID: 103-76-8249
+Bank: Soto Ltd Bank
+Account Number: 6702553917
+Consent Status: Revoked

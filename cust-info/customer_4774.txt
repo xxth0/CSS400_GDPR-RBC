@@ -1,0 +1,6 @@
+Customer ID: 4774
+Name: Michael Mcclure
+National ID: 315-53-0872
+Bank: Hartman, Williams and Hampton Bank
+Account Number: 3816743906
+Consent Status: Revoked

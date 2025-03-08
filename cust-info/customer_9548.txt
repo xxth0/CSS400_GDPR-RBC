@@ -1,0 +1,6 @@
+Customer ID: 9548
+Name: Rebekah Lucero
+National ID: 135-16-7265
+Bank: Gallegos Ltd Bank
+Account Number: 4356298956
+Consent Status: Granted

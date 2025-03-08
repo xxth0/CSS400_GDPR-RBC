@@ -1,0 +1,6 @@
+Customer ID: 5753
+Name: Marc Villarreal
+National ID: 413-23-9985
+Bank: Gaines PLC Bank
+Account Number: 4581814292
+Consent Status: Revoked

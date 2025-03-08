@@ -1,0 +1,6 @@
+Customer ID: 5200
+Name: Nancy Kelly
+National ID: 037-10-7981
+Bank: Waller Ltd Bank
+Account Number: 9251648737
+Consent Status: Revoked

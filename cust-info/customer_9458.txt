@@ -1,0 +1,6 @@
+Customer ID: 9458
+Name: Amanda Allen
+National ID: 531-75-9466
+Bank: Mays-Jackson Bank
+Account Number: 8947277546
+Consent Status: Revoked

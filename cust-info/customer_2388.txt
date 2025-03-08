@@ -1,0 +1,6 @@
+Customer ID: 2388
+Name: Sean Miles
+National ID: 542-26-6004
+Bank: Murphy Ltd Bank
+Account Number: 5831889662
+Consent Status: Granted

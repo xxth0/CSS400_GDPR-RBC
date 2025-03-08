@@ -1,0 +1,6 @@
+Customer ID: 2169
+Name: Andrew Jones
+National ID: 337-93-7196
+Bank: Armstrong-Torres Bank
+Account Number: 7993618207
+Consent Status: Revoked

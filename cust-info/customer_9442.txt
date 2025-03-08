@@ -1,0 +1,6 @@
+Customer ID: 9442
+Name: Ronald Shepard
+National ID: 608-70-6763
+Bank: Weaver Group Bank
+Account Number: 6881711669
+Consent Status: Revoked

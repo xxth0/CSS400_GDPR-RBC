@@ -1,0 +1,6 @@
+Customer ID: 7967
+Name: Mitchell Fox
+National ID: 837-69-7034
+Bank: Ramirez, Brown and Henderson Bank
+Account Number: 9980070889
+Consent Status: Granted

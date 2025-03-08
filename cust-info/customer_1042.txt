@@ -1,0 +1,6 @@
+Customer ID: 1042
+Name: Lynn Harrell
+National ID: 697-53-6976
+Bank: Rivera, Edwards and Thompson Bank
+Account Number: 4867550440
+Consent Status: Revoked

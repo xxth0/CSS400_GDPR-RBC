@@ -1,0 +1,6 @@
+Customer ID: 5422
+Name: Nicholas Romero
+National ID: 403-26-4611
+Bank: Mercado-Hatfield Bank
+Account Number: 4790012300
+Consent Status: Revoked

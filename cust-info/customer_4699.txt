@@ -1,0 +1,6 @@
+Customer ID: 4699
+Name: Shawn Barnes
+National ID: 644-03-1018
+Bank: Reed, Matthews and Rivas Bank
+Account Number: 5209721582
+Consent Status: Revoked

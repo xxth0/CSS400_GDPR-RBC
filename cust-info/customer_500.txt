@@ -1,0 +1,6 @@
+Customer ID: 500
+Name: Emily Woods
+National ID: 536-79-0393
+Bank: Taylor, Arellano and Rivera Bank
+Account Number: 6036532067
+Consent Status: Granted

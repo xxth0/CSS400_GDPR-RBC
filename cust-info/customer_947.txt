@@ -1,0 +1,6 @@
+Customer ID: 947
+Name: Amy Smith
+National ID: 739-46-9497
+Bank: Nguyen, May and Owens Bank
+Account Number: 2260102556
+Consent Status: Granted

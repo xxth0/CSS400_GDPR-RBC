@@ -1,0 +1,6 @@
+Customer ID: 8010
+Name: Megan Williams
+National ID: 361-75-8944
+Bank: Zimmerman PLC Bank
+Account Number: 8466443372
+Consent Status: Granted

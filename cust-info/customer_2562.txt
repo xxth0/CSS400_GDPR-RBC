@@ -1,0 +1,6 @@
+Customer ID: 2562
+Name: David Flores
+National ID: 417-14-4903
+Bank: Mosley Group Bank
+Account Number: 2652354360
+Consent Status: Granted

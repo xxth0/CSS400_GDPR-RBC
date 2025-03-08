@@ -1,0 +1,6 @@
+Customer ID: 4396
+Name: Kenneth Moran
+National ID: 866-96-7090
+Bank: Pham-Cardenas Bank
+Account Number: 2753998068
+Consent Status: Granted

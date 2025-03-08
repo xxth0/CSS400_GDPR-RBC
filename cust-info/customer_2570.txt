@@ -1,0 +1,6 @@
+Customer ID: 2570
+Name: Bryce White
+National ID: 539-01-5579
+Bank: Hernandez-Sanchez Bank
+Account Number: 9110134123
+Consent Status: Revoked

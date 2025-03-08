@@ -1,0 +1,6 @@
+Customer ID: 1081
+Name: Laura Nichols
+National ID: 080-65-9318
+Bank: Beard-Terry Bank
+Account Number: 7185120823
+Consent Status: Revoked

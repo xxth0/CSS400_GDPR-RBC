@@ -1,0 +1,6 @@
+Customer ID: 2257
+Name: John Price
+National ID: 165-72-6914
+Bank: Dennis, Mendoza and Stevens Bank
+Account Number: 1057487247
+Consent Status: Revoked

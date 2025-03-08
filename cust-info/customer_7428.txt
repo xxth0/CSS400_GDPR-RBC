@@ -1,0 +1,6 @@
+Customer ID: 7428
+Name: David Williams
+National ID: 697-03-2118
+Bank: Taylor, Lopez and Howard Bank
+Account Number: 7758329617
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2266
+Name: Jennifer Griffin
+National ID: 779-04-0969
+Bank: Burke Ltd Bank
+Account Number: 6999602520
+Consent Status: Granted

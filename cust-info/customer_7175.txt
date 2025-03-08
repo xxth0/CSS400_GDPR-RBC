@@ -1,0 +1,6 @@
+Customer ID: 7175
+Name: Joseph James
+National ID: 528-45-5134
+Bank: Gonzalez, Gardner and Holmes Bank
+Account Number: 7831176177
+Consent Status: Granted

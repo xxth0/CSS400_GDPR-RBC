@@ -1,0 +1,6 @@
+Customer ID: 676
+Name: Jordan Brooks
+National ID: 718-31-7062
+Bank: Rivera LLC Bank
+Account Number: 6440621520
+Consent Status: Revoked

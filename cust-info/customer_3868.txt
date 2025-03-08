@@ -1,0 +1,6 @@
+Customer ID: 3868
+Name: Shannon Walton
+National ID: 779-92-5311
+Bank: Aguilar, Smith and Bridges Bank
+Account Number: 6325649476
+Consent Status: Revoked

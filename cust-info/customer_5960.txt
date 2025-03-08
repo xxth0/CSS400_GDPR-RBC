@@ -1,0 +1,6 @@
+Customer ID: 5960
+Name: David Sanchez
+National ID: 528-53-9674
+Bank: Rivera Ltd Bank
+Account Number: 4563118968
+Consent Status: Revoked

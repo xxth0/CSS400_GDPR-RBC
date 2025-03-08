@@ -1,0 +1,6 @@
+Customer ID: 6189
+Name: Kayla Owens
+National ID: 681-74-2907
+Bank: Cervantes-Martinez Bank
+Account Number: 7358922833
+Consent Status: Revoked

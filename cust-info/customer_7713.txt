@@ -1,0 +1,6 @@
+Customer ID: 7713
+Name: Lisa Allen
+National ID: 738-48-1610
+Bank: Ortiz-Brandt Bank
+Account Number: 5191128540
+Consent Status: Revoked

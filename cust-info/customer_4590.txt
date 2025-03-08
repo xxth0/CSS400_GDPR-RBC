@@ -1,0 +1,6 @@
+Customer ID: 4590
+Name: Jennifer Santos
+National ID: 825-50-6602
+Bank: Nelson PLC Bank
+Account Number: 1716711895
+Consent Status: Revoked

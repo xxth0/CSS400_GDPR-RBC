@@ -1,0 +1,6 @@
+Customer ID: 9242
+Name: Dean Sloan
+National ID: 883-41-0982
+Bank: Stark, Vincent and Hunter Bank
+Account Number: 6727902790
+Consent Status: Revoked

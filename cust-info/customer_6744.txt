@@ -1,0 +1,6 @@
+Customer ID: 6744
+Name: Christopher Robinson
+National ID: 181-33-9886
+Bank: Miller Ltd Bank
+Account Number: 3573070415
+Consent Status: Revoked

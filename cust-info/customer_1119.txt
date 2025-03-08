@@ -1,0 +1,6 @@
+Customer ID: 1119
+Name: Michael Mason
+National ID: 447-01-3244
+Bank: King-Fletcher Bank
+Account Number: 8986631485
+Consent Status: Revoked

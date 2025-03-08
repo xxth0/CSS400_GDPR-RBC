@@ -1,0 +1,6 @@
+Customer ID: 7898
+Name: Gina Mcgrath
+National ID: 799-21-0569
+Bank: Harper, Martinez and Gaines Bank
+Account Number: 5931109222
+Consent Status: Granted

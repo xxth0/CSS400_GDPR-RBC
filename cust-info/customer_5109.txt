@@ -1,0 +1,6 @@
+Customer ID: 5109
+Name: Kevin Diaz
+National ID: 205-89-2340
+Bank: Robertson-Morgan Bank
+Account Number: 8532496731
+Consent Status: Revoked

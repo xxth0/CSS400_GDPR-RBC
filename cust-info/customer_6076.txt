@@ -1,0 +1,6 @@
+Customer ID: 6076
+Name: Omar Gill
+National ID: 075-94-9509
+Bank: Hughes Group Bank
+Account Number: 7141667515
+Consent Status: Revoked

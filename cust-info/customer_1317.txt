@@ -1,0 +1,6 @@
+Customer ID: 1317
+Name: Jacob Owens
+National ID: 488-65-5844
+Bank: Allen LLC Bank
+Account Number: 2187543025
+Consent Status: Revoked

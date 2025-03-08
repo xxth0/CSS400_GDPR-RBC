@@ -1,0 +1,6 @@
+Customer ID: 6707
+Name: Lucas Lewis
+National ID: 017-71-6420
+Bank: Gray, Moore and Moore Bank
+Account Number: 2017388427
+Consent Status: Revoked

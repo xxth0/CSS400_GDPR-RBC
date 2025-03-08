@@ -1,0 +1,6 @@
+Customer ID: 9598
+Name: Stephen Webster
+National ID: 108-33-5757
+Bank: Mcguire-Evans Bank
+Account Number: 9201168912
+Consent Status: Granted

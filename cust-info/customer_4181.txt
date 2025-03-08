@@ -1,0 +1,6 @@
+Customer ID: 4181
+Name: Judy Taylor
+National ID: 105-95-6067
+Bank: Bernard, Michael and Hall Bank
+Account Number: 3292026442
+Consent Status: Revoked

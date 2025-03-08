@@ -1,0 +1,6 @@
+Customer ID: 6779
+Name: Kevin Cook
+National ID: 725-83-7303
+Bank: Edwards-Smith Bank
+Account Number: 5349996888
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9756
+Name: Julie Hernandez
+National ID: 271-39-3484
+Bank: Howard, Lopez and Frost Bank
+Account Number: 4918619731
+Consent Status: Revoked

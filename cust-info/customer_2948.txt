@@ -1,0 +1,6 @@
+Customer ID: 2948
+Name: Julia Faulkner
+National ID: 694-63-3784
+Bank: Miller-Gordon Bank
+Account Number: 7344704860
+Consent Status: Revoked

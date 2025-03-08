@@ -1,0 +1,6 @@
+Customer ID: 6047
+Name: Wendy Erickson
+National ID: 327-14-5686
+Bank: Edwards PLC Bank
+Account Number: 9118241462
+Consent Status: Revoked

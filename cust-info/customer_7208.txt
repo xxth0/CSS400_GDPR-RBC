@@ -1,0 +1,6 @@
+Customer ID: 7208
+Name: George Mcbride
+National ID: 419-08-5981
+Bank: Medina, Coleman and Hall Bank
+Account Number: 5144190474
+Consent Status: Granted

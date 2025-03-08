@@ -1,0 +1,6 @@
+Customer ID: 8362
+Name: Dawn Williams
+National ID: 278-14-6289
+Bank: Jackson-Soto Bank
+Account Number: 5461129043
+Consent Status: Revoked

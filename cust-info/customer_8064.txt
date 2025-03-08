@@ -1,0 +1,6 @@
+Customer ID: 8064
+Name: David Gordon
+National ID: 343-94-8339
+Bank: Montgomery-Moreno Bank
+Account Number: 2695982663
+Consent Status: Revoked

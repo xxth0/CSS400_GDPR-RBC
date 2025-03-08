@@ -1,0 +1,6 @@
+Customer ID: 8501
+Name: Brandy Nielsen
+National ID: 477-57-8227
+Bank: Burton Inc Bank
+Account Number: 5732315055
+Consent Status: Granted

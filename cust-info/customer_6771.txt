@@ -1,0 +1,6 @@
+Customer ID: 6771
+Name: Laura Carter
+National ID: 292-44-4129
+Bank: Cooley, Hurst and Williams Bank
+Account Number: 5902867931
+Consent Status: Revoked

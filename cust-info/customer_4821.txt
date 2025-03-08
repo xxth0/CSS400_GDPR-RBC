@@ -1,0 +1,6 @@
+Customer ID: 4821
+Name: Anthony Morales
+National ID: 619-59-8618
+Bank: Jenkins-Leon Bank
+Account Number: 6501156820
+Consent Status: Granted

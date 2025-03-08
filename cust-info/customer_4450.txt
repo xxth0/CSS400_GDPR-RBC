@@ -1,0 +1,6 @@
+Customer ID: 4450
+Name: Toni Griffith
+National ID: 040-03-3362
+Bank: Ward, Palmer and Baldwin Bank
+Account Number: 9096816172
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1746
+Name: Donald Hodges
+National ID: 317-93-0506
+Bank: Jacobson-Bell Bank
+Account Number: 3466158354
+Consent Status: Revoked

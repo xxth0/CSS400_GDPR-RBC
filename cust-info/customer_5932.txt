@@ -1,0 +1,6 @@
+Customer ID: 5932
+Name: Jeffrey Parrish
+National ID: 417-81-4938
+Bank: Cline, Williams and Williams Bank
+Account Number: 3560647285
+Consent Status: Revoked

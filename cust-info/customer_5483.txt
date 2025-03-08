@@ -1,0 +1,6 @@
+Customer ID: 5483
+Name: Mr. Fred Fitzgerald
+National ID: 156-03-2540
+Bank: Murillo-Perez Bank
+Account Number: 1022848641
+Consent Status: Granted

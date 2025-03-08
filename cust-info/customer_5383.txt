@@ -1,0 +1,6 @@
+Customer ID: 5383
+Name: Vanessa Goodman
+National ID: 599-76-9451
+Bank: Garcia, Taylor and Mann Bank
+Account Number: 2477566062
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4346
+Name: Katie Andrews
+National ID: 657-18-0685
+Bank: Castillo-Douglas Bank
+Account Number: 8765802732
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8414
+Name: Vickie Bowers
+National ID: 240-24-0324
+Bank: Chang-Hayes Bank
+Account Number: 2663919440
+Consent Status: Granted

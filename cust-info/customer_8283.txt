@@ -1,0 +1,6 @@
+Customer ID: 8283
+Name: Jerome Burns
+National ID: 730-03-4748
+Bank: Landry, Anderson and Mccullough Bank
+Account Number: 7821438759
+Consent Status: Granted

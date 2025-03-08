@@ -1,0 +1,6 @@
+Customer ID: 4262
+Name: Jordan Cabrera
+National ID: 772-99-6882
+Bank: Thomas Group Bank
+Account Number: 1672900489
+Consent Status: Granted

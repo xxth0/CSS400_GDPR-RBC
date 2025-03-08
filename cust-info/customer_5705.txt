@@ -1,0 +1,6 @@
+Customer ID: 5705
+Name: Jack Montgomery
+National ID: 455-94-7267
+Bank: Riley-Peterson Bank
+Account Number: 9249757467
+Consent Status: Granted

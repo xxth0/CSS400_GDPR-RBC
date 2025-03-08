@@ -1,0 +1,6 @@
+Customer ID: 3744
+Name: Allen Hampton
+National ID: 380-62-0770
+Bank: Copeland, Smith and Stephens Bank
+Account Number: 4112803830
+Consent Status: Granted

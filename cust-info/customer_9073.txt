@@ -1,0 +1,6 @@
+Customer ID: 9073
+Name: Kristina Watson
+National ID: 659-83-1302
+Bank: Williams, Barber and Gordon Bank
+Account Number: 1491847222
+Consent Status: Revoked

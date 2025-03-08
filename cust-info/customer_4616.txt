@@ -1,0 +1,6 @@
+Customer ID: 4616
+Name: Charles Cook
+National ID: 460-63-6497
+Bank: Gonzales Group Bank
+Account Number: 5180140794
+Consent Status: Revoked

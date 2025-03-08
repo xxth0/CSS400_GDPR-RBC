@@ -1,0 +1,6 @@
+Customer ID: 6303
+Name: James Johnson
+National ID: 264-33-2701
+Bank: Mueller and Sons Bank
+Account Number: 6833272878
+Consent Status: Revoked

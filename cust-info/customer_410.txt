@@ -1,0 +1,6 @@
+Customer ID: 410
+Name: John Phelps
+National ID: 293-42-6058
+Bank: Lee, Craig and Hughes Bank
+Account Number: 9374267745
+Consent Status: Revoked

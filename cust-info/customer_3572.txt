@@ -1,0 +1,6 @@
+Customer ID: 3572
+Name: Donna Rodriguez
+National ID: 565-10-6766
+Bank: Robinson, Gallegos and Jordan Bank
+Account Number: 4623767603
+Consent Status: Granted

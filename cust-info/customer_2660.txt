@@ -1,0 +1,6 @@
+Customer ID: 2660
+Name: James Solis
+National ID: 132-05-5440
+Bank: Zimmerman, Hurley and Barnes Bank
+Account Number: 8373014530
+Consent Status: Revoked

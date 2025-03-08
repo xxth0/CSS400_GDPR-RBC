@@ -1,0 +1,6 @@
+Customer ID: 6998
+Name: Jessica Tucker
+National ID: 377-06-5512
+Bank: Jones-Lee Bank
+Account Number: 6253432794
+Consent Status: Granted

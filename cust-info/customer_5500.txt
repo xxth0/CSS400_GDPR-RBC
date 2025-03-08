@@ -1,0 +1,6 @@
+Customer ID: 5500
+Name: John Gonzalez
+National ID: 090-73-7173
+Bank: Nelson PLC Bank
+Account Number: 5710780745
+Consent Status: Revoked

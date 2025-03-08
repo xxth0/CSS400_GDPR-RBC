@@ -1,0 +1,6 @@
+Customer ID: 4669
+Name: Robin Hicks
+National ID: 161-48-9789
+Bank: Neal Ltd Bank
+Account Number: 1861683788
+Consent Status: Granted

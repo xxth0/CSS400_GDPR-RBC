@@ -1,0 +1,6 @@
+Customer ID: 4657
+Name: Erin Clark
+National ID: 753-47-4384
+Bank: Taylor, Jackson and Miller Bank
+Account Number: 7123899446
+Consent Status: Revoked

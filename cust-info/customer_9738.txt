@@ -1,0 +1,6 @@
+Customer ID: 9738
+Name: Mary Sanchez
+National ID: 135-18-6674
+Bank: Jordan PLC Bank
+Account Number: 6465733727
+Consent Status: Granted

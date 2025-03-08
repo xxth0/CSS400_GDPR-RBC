@@ -1,0 +1,6 @@
+Customer ID: 733
+Name: Julie Powell
+National ID: 101-69-9225
+Bank: Browning-Matthews Bank
+Account Number: 5194266108
+Consent Status: Granted

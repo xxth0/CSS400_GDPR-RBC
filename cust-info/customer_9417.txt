@@ -1,0 +1,6 @@
+Customer ID: 9417
+Name: Rickey Hernandez
+National ID: 419-02-8561
+Bank: Johnson Group Bank
+Account Number: 3342761783
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4322
+Name: Laura Robinson
+National ID: 699-19-8503
+Bank: Garza, Levy and Anderson Bank
+Account Number: 5253080348
+Consent Status: Granted

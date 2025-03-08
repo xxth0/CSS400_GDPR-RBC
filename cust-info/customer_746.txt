@@ -1,0 +1,6 @@
+Customer ID: 746
+Name: William Sanders
+National ID: 766-73-4222
+Bank: Hunter PLC Bank
+Account Number: 3916257619
+Consent Status: Revoked

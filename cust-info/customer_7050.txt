@@ -1,0 +1,6 @@
+Customer ID: 7050
+Name: Dylan Wright PhD
+National ID: 691-20-8719
+Bank: Harvey, Tate and Hanna Bank
+Account Number: 9813175932
+Consent Status: Revoked

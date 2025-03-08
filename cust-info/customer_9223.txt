@@ -1,0 +1,6 @@
+Customer ID: 9223
+Name: Susan Weaver
+National ID: 121-67-3955
+Bank: Downs-Flores Bank
+Account Number: 9872390128
+Consent Status: Granted

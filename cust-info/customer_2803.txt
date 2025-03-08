@@ -1,0 +1,6 @@
+Customer ID: 2803
+Name: Valerie Hayes
+National ID: 881-45-7563
+Bank: Gilbert-Fowler Bank
+Account Number: 8765311258
+Consent Status: Revoked

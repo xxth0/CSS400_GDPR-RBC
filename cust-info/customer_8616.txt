@@ -1,0 +1,6 @@
+Customer ID: 8616
+Name: Joshua Lopez
+National ID: 586-96-4958
+Bank: Rivera-Perez Bank
+Account Number: 5293720957
+Consent Status: Revoked

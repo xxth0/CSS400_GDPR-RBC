@@ -1,0 +1,6 @@
+Customer ID: 4442
+Name: Andrew Oneal
+National ID: 243-12-6006
+Bank: Trevino, Miller and Mayer Bank
+Account Number: 1954097723
+Consent Status: Granted

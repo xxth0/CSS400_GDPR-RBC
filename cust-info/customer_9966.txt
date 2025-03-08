@@ -1,0 +1,6 @@
+Customer ID: 9966
+Name: Cheryl Allen
+National ID: 573-29-2037
+Bank: Walker LLC Bank
+Account Number: 4073418998
+Consent Status: Revoked

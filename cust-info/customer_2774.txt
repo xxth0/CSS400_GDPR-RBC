@@ -1,0 +1,6 @@
+Customer ID: 2774
+Name: Jorge Chen
+National ID: 458-81-5288
+Bank: Moore and Sons Bank
+Account Number: 8907573669
+Consent Status: Revoked

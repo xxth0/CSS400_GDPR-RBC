@@ -1,0 +1,6 @@
+Customer ID: 3963
+Name: Stacy Villanueva
+National ID: 772-08-0035
+Bank: Stanley-Jones Bank
+Account Number: 3595552117
+Consent Status: Granted

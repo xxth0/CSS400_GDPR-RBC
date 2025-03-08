@@ -1,0 +1,6 @@
+Customer ID: 4158
+Name: Janice Duncan
+National ID: 127-33-7117
+Bank: Rose, Williams and Fuller Bank
+Account Number: 9794507767
+Consent Status: Granted

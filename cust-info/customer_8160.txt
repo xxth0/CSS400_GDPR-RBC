@@ -1,0 +1,6 @@
+Customer ID: 8160
+Name: Howard Kim
+National ID: 550-61-5122
+Bank: Hammond Group Bank
+Account Number: 1612839331
+Consent Status: Revoked

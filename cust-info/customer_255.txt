@@ -1,0 +1,6 @@
+Customer ID: 255
+Name: Erin Lee
+National ID: 370-77-1881
+Bank: Johnston, Martin and Williams Bank
+Account Number: 9017422081
+Consent Status: Granted

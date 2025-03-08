@@ -1,0 +1,6 @@
+Customer ID: 9602
+Name: Melissa Harris
+National ID: 880-01-8510
+Bank: Summers-Torres Bank
+Account Number: 5411373793
+Consent Status: Granted

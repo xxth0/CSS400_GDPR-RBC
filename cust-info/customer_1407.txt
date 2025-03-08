@@ -1,0 +1,6 @@
+Customer ID: 1407
+Name: Christian Gordon
+National ID: 656-30-5641
+Bank: Roberts-Mcdonald Bank
+Account Number: 4448228095
+Consent Status: Granted

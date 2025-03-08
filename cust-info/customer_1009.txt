@@ -1,0 +1,6 @@
+Customer ID: 1009
+Name: Jennifer Williamson
+National ID: 119-26-1154
+Bank: Martin Inc Bank
+Account Number: 5004835663
+Consent Status: Revoked

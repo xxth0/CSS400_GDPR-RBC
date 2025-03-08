@@ -1,0 +1,6 @@
+Customer ID: 8540
+Name: Christopher Schultz
+National ID: 020-70-4780
+Bank: Mendez-Rivera Bank
+Account Number: 6462024184
+Consent Status: Revoked

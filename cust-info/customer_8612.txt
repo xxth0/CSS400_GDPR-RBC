@@ -1,0 +1,6 @@
+Customer ID: 8612
+Name: Arthur Baker
+National ID: 721-15-6173
+Bank: Schwartz-Bowers Bank
+Account Number: 6495410428
+Consent Status: Granted

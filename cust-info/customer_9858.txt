@@ -1,0 +1,6 @@
+Customer ID: 9858
+Name: Marc Howell
+National ID: 779-35-2516
+Bank: Leonard-Berger Bank
+Account Number: 9614337751
+Consent Status: Revoked

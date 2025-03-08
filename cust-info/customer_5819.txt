@@ -1,0 +1,6 @@
+Customer ID: 5819
+Name: Catherine Abbott
+National ID: 684-10-8808
+Bank: Buchanan, Mcgee and Lane Bank
+Account Number: 6050645624
+Consent Status: Revoked

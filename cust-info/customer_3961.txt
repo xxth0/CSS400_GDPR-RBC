@@ -1,0 +1,6 @@
+Customer ID: 3961
+Name: Matthew Goodwin
+National ID: 041-36-2112
+Bank: Morales LLC Bank
+Account Number: 6322503746
+Consent Status: Revoked

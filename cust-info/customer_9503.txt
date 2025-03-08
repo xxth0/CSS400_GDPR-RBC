@@ -1,0 +1,6 @@
+Customer ID: 9503
+Name: Carolyn Murray
+National ID: 132-01-2652
+Bank: Ayala LLC Bank
+Account Number: 5916277633
+Consent Status: Granted

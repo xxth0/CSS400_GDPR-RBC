@@ -1,0 +1,6 @@
+Customer ID: 2786
+Name: Monica Coleman
+National ID: 744-36-4585
+Bank: Parks, Palmer and Kline Bank
+Account Number: 1136730833
+Consent Status: Revoked

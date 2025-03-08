@@ -1,0 +1,6 @@
+Customer ID: 5303
+Name: Becky Carroll
+National ID: 009-89-3090
+Bank: Kent and Sons Bank
+Account Number: 7278097511
+Consent Status: Revoked

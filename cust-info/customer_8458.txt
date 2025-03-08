@@ -1,0 +1,6 @@
+Customer ID: 8458
+Name: John Ellis
+National ID: 318-60-7811
+Bank: Valentine-Ramos Bank
+Account Number: 7183551233
+Consent Status: Revoked

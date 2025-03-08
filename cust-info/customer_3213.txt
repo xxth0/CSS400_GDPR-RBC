@@ -1,0 +1,6 @@
+Customer ID: 3213
+Name: Stephen Moss
+National ID: 880-61-9380
+Bank: Johnson LLC Bank
+Account Number: 6454307893
+Consent Status: Revoked

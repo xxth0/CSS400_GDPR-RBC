@@ -1,0 +1,6 @@
+Customer ID: 8434
+Name: Benjamin Martin
+National ID: 295-99-6196
+Bank: Berry-King Bank
+Account Number: 4585769274
+Consent Status: Granted

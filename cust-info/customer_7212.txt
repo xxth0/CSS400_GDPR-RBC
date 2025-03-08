@@ -1,0 +1,6 @@
+Customer ID: 7212
+Name: Justin Smith
+National ID: 586-60-4411
+Bank: Thompson-Moreno Bank
+Account Number: 4607621677
+Consent Status: Revoked

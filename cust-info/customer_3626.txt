@@ -1,0 +1,6 @@
+Customer ID: 3626
+Name: Richard Hogan
+National ID: 585-26-7093
+Bank: Hughes PLC Bank
+Account Number: 6635434883
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8831
+Name: Andrea Wolf
+National ID: 329-14-5884
+Bank: Robertson PLC Bank
+Account Number: 2907580786
+Consent Status: Revoked

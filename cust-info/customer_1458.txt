@@ -1,0 +1,6 @@
+Customer ID: 1458
+Name: Christopher Steele
+National ID: 150-19-0348
+Bank: Graham, Myers and Simpson Bank
+Account Number: 7232835300
+Consent Status: Granted

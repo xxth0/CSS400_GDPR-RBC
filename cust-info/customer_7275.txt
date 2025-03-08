@@ -1,0 +1,6 @@
+Customer ID: 7275
+Name: Gregory Brown
+National ID: 596-71-5036
+Bank: Hart, Parks and Medina Bank
+Account Number: 1595831142
+Consent Status: Granted

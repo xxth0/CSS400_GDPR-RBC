@@ -1,0 +1,6 @@
+Customer ID: 2587
+Name: Nicholas Bruce Jr.
+National ID: 422-93-5511
+Bank: Mendoza-Thompson Bank
+Account Number: 1509380205
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3579
+Name: Kiara Graham
+National ID: 366-66-2771
+Bank: Quinn Group Bank
+Account Number: 4922246771
+Consent Status: Granted

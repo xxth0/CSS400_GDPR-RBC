@@ -1,0 +1,6 @@
+Customer ID: 5820
+Name: John Reyes
+National ID: 382-08-4804
+Bank: Perez and Sons Bank
+Account Number: 6350868071
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9637
+Name: Daniel Warren
+National ID: 323-89-9392
+Bank: Cooper-Lawson Bank
+Account Number: 6257896854
+Consent Status: Granted

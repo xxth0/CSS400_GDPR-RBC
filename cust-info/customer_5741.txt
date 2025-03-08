@@ -1,0 +1,6 @@
+Customer ID: 5741
+Name: Joy Marquez
+National ID: 422-33-3542
+Bank: Davis, Peterson and Smith Bank
+Account Number: 6718408795
+Consent Status: Revoked

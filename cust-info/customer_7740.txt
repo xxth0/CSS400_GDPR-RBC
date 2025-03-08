@@ -1,0 +1,6 @@
+Customer ID: 7740
+Name: Charles Bowen
+National ID: 281-13-6168
+Bank: Young-Price Bank
+Account Number: 7923894509
+Consent Status: Granted

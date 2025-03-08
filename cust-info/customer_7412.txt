@@ -1,0 +1,6 @@
+Customer ID: 7412
+Name: Thomas Wall
+National ID: 374-10-0228
+Bank: Lawson and Sons Bank
+Account Number: 7728997531
+Consent Status: Revoked

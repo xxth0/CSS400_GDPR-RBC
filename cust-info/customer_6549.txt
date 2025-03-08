@@ -1,0 +1,6 @@
+Customer ID: 6549
+Name: Hector Sullivan
+National ID: 635-03-0338
+Bank: King LLC Bank
+Account Number: 8604157124
+Consent Status: Revoked

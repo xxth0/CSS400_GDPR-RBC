@@ -1,0 +1,6 @@
+Customer ID: 6889
+Name: Johnny Davenport
+National ID: 667-93-2633
+Bank: Allen LLC Bank
+Account Number: 3060202311
+Consent Status: Revoked

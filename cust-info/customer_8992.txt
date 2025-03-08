@@ -1,0 +1,6 @@
+Customer ID: 8992
+Name: Jordan Clark
+National ID: 018-63-8262
+Bank: Curtis LLC Bank
+Account Number: 1606931022
+Consent Status: Revoked

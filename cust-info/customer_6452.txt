@@ -1,0 +1,6 @@
+Customer ID: 6452
+Name: Rebecca Berry
+National ID: 707-02-3528
+Bank: Johnson-Wong Bank
+Account Number: 4186847625
+Consent Status: Granted

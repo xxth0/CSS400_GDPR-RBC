@@ -1,0 +1,6 @@
+Customer ID: 89
+Name: Lindsey Avery
+National ID: 875-98-8423
+Bank: Wright and Sons Bank
+Account Number: 3911557992
+Consent Status: Granted

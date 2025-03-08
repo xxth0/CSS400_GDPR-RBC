@@ -1,0 +1,6 @@
+Customer ID: 3046
+Name: Daniel Murphy
+National ID: 512-36-6675
+Bank: Johnson-Hammond Bank
+Account Number: 1393276534
+Consent Status: Revoked

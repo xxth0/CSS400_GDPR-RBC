@@ -1,0 +1,6 @@
+Customer ID: 9344
+Name: Erica Hays
+National ID: 040-05-7741
+Bank: Carlson, Wagner and Alvarado Bank
+Account Number: 6035180299
+Consent Status: Granted

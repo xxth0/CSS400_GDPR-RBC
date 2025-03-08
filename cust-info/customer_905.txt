@@ -1,0 +1,6 @@
+Customer ID: 905
+Name: Joseph Clements
+National ID: 341-43-6415
+Bank: Meyer-Scott Bank
+Account Number: 1652363870
+Consent Status: Granted

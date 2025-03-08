@@ -1,0 +1,6 @@
+Customer ID: 7912
+Name: Kenneth Moore
+National ID: 657-60-8711
+Bank: Hall Inc Bank
+Account Number: 8378484765
+Consent Status: Granted

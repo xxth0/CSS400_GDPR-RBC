@@ -1,0 +1,6 @@
+Customer ID: 9152
+Name: Laura Jones
+National ID: 034-33-7651
+Bank: Anderson-Hudson Bank
+Account Number: 8574648176
+Consent Status: Granted

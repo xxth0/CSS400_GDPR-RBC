@@ -1,0 +1,6 @@
+Customer ID: 8046
+Name: Thomas Turner
+National ID: 561-88-1310
+Bank: Lee-Davis Bank
+Account Number: 3067336130
+Consent Status: Revoked

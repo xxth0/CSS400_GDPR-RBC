@@ -1,0 +1,6 @@
+Customer ID: 8773
+Name: Cindy Carney
+National ID: 335-88-1534
+Bank: Archer-Paul Bank
+Account Number: 7829689437
+Consent Status: Revoked

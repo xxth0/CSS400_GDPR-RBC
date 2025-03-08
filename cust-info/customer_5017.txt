@@ -1,0 +1,6 @@
+Customer ID: 5017
+Name: Raymond Williams
+National ID: 095-54-0333
+Bank: Green-Hart Bank
+Account Number: 4649123710
+Consent Status: Granted

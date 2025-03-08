@@ -1,0 +1,6 @@
+Customer ID: 6466
+Name: Meghan Parker
+National ID: 261-26-5635
+Bank: White Inc Bank
+Account Number: 4825914535
+Consent Status: Revoked

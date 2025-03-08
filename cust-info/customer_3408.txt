@@ -1,0 +1,6 @@
+Customer ID: 3408
+Name: Corey Jacobs
+National ID: 295-89-0436
+Bank: Ramirez, Chen and Nichols Bank
+Account Number: 2096468655
+Consent Status: Revoked

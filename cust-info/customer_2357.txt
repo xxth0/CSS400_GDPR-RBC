@@ -1,0 +1,6 @@
+Customer ID: 2357
+Name: Karen Foster
+National ID: 738-20-6915
+Bank: Allen and Sons Bank
+Account Number: 3106508358
+Consent Status: Granted

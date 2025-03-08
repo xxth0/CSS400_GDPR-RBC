@@ -1,0 +1,6 @@
+Customer ID: 9095
+Name: Amy Barnett
+National ID: 509-29-7609
+Bank: Allen Inc Bank
+Account Number: 9934094802
+Consent Status: Granted

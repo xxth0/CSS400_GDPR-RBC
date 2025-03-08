@@ -1,0 +1,6 @@
+Customer ID: 5086
+Name: Sandra Smith
+National ID: 038-56-9110
+Bank: Sanders-Livingston Bank
+Account Number: 5535042179
+Consent Status: Granted

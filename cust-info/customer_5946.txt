@@ -1,0 +1,6 @@
+Customer ID: 5946
+Name: Brian Fitzgerald
+National ID: 467-73-0525
+Bank: Edwards Group Bank
+Account Number: 6671259976
+Consent Status: Revoked

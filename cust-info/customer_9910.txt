@@ -1,0 +1,6 @@
+Customer ID: 9910
+Name: Teresa Powell
+National ID: 403-39-4238
+Bank: Atkinson-Padilla Bank
+Account Number: 4763384553
+Consent Status: Granted

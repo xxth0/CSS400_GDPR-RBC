@@ -1,0 +1,6 @@
+Customer ID: 6969
+Name: Daniel Thornton
+National ID: 741-72-8740
+Bank: Douglas Inc Bank
+Account Number: 1078336632
+Consent Status: Granted

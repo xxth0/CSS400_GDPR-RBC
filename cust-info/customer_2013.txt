@@ -1,0 +1,6 @@
+Customer ID: 2013
+Name: Cassandra Chen
+National ID: 153-76-7738
+Bank: Michael Inc Bank
+Account Number: 5622359832
+Consent Status: Revoked

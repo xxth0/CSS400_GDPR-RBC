@@ -1,0 +1,6 @@
+Customer ID: 8367
+Name: Erica Flores
+National ID: 677-03-4230
+Bank: Butler and Sons Bank
+Account Number: 4468418077
+Consent Status: Revoked

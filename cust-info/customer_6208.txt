@@ -1,0 +1,6 @@
+Customer ID: 6208
+Name: Michael Castillo
+National ID: 403-49-9646
+Bank: Garcia LLC Bank
+Account Number: 9069699303
+Consent Status: Revoked

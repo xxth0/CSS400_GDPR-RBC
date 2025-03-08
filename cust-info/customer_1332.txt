@@ -1,0 +1,6 @@
+Customer ID: 1332
+Name: Eric Mills
+National ID: 391-93-1904
+Bank: Jimenez, Mckee and Wall Bank
+Account Number: 6480406528
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3592
+Name: Brian Mcdonald
+National ID: 641-81-4593
+Bank: Mcneil-Graham Bank
+Account Number: 4769415304
+Consent Status: Revoked

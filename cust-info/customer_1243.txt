@@ -1,0 +1,6 @@
+Customer ID: 1243
+Name: Robyn Riggs
+National ID: 102-54-4329
+Bank: Payne and Sons Bank
+Account Number: 8413351980
+Consent Status: Granted

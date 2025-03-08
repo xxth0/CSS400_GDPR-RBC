@@ -1,0 +1,6 @@
+Customer ID: 3736
+Name: Aimee Sampson
+National ID: 235-06-3870
+Bank: Rowland-Nixon Bank
+Account Number: 9990486877
+Consent Status: Granted

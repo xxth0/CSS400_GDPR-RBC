@@ -1,0 +1,6 @@
+Customer ID: 99
+Name: Danny Garcia
+National ID: 441-26-0404
+Bank: Cooper Ltd Bank
+Account Number: 7260259947
+Consent Status: Granted

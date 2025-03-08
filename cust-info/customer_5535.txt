@@ -1,0 +1,6 @@
+Customer ID: 5535
+Name: Mary Cohen MD
+National ID: 301-27-7367
+Bank: Acosta, Martinez and Morgan Bank
+Account Number: 2452020220
+Consent Status: Revoked

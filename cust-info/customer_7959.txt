@@ -1,0 +1,6 @@
+Customer ID: 7959
+Name: Mr. Terry Hughes
+National ID: 423-48-9766
+Bank: Rivers and Sons Bank
+Account Number: 2255148511
+Consent Status: Revoked

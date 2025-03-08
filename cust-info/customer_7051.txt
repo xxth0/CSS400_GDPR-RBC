@@ -1,0 +1,6 @@
+Customer ID: 7051
+Name: Robin Brooks
+National ID: 598-17-1905
+Bank: Sexton PLC Bank
+Account Number: 8198810932
+Consent Status: Revoked

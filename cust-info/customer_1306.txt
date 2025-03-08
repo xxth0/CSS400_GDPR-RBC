@@ -1,0 +1,6 @@
+Customer ID: 1306
+Name: Matthew Cruz
+National ID: 004-14-5910
+Bank: Reed, Collins and Reyes Bank
+Account Number: 3596337384
+Consent Status: Revoked

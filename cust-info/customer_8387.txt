@@ -1,0 +1,6 @@
+Customer ID: 8387
+Name: Cynthia Young
+National ID: 530-68-8570
+Bank: Rivera, Hoffman and Zamora Bank
+Account Number: 6744599619
+Consent Status: Revoked

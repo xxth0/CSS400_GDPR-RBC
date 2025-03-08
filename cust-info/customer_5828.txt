@@ -1,0 +1,6 @@
+Customer ID: 5828
+Name: Juan Humphrey
+National ID: 041-49-6199
+Bank: Ward LLC Bank
+Account Number: 9235324162
+Consent Status: Revoked

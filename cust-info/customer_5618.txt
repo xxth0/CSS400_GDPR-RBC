@@ -1,0 +1,6 @@
+Customer ID: 5618
+Name: Ronnie Avila
+National ID: 432-92-6120
+Bank: Davis-Simmons Bank
+Account Number: 1685511821
+Consent Status: Revoked

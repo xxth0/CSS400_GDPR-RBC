@@ -1,0 +1,6 @@
+Customer ID: 9803
+Name: Miss Victoria Collins
+National ID: 220-91-8686
+Bank: Myers, Smith and Galloway Bank
+Account Number: 4568299895
+Consent Status: Revoked

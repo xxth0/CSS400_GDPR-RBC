@@ -1,0 +1,6 @@
+Customer ID: 4448
+Name: Mary Guzman
+National ID: 160-76-1033
+Bank: Davies, Hayden and Baker Bank
+Account Number: 6210269030
+Consent Status: Revoked

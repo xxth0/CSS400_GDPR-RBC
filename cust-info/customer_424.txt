@@ -1,0 +1,6 @@
+Customer ID: 424
+Name: Allen Parker
+National ID: 499-67-2537
+Bank: Sanchez and Sons Bank
+Account Number: 4485816269
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1747
+Name: Michelle Estrada
+National ID: 688-56-0330
+Bank: Turner, Frost and Phillips Bank
+Account Number: 8477021804
+Consent Status: Granted

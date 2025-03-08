@@ -1,0 +1,6 @@
+Customer ID: 6367
+Name: Kristopher Mercado
+National ID: 021-96-1409
+Bank: Gomez-Smith Bank
+Account Number: 1501831771
+Consent Status: Revoked

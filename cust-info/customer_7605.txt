@@ -1,0 +1,6 @@
+Customer ID: 7605
+Name: Thomas Collins
+National ID: 472-75-6603
+Bank: Ferguson Group Bank
+Account Number: 1027470547
+Consent Status: Granted

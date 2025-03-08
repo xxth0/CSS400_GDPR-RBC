@@ -1,0 +1,6 @@
+Customer ID: 7009
+Name: Melanie Hines
+National ID: 600-85-9565
+Bank: Hamilton-Walker Bank
+Account Number: 5409692938
+Consent Status: Granted

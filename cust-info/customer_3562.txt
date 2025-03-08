@@ -1,0 +1,6 @@
+Customer ID: 3562
+Name: Tracey Williams
+National ID: 713-31-7271
+Bank: Williams, Thomas and Logan Bank
+Account Number: 2236241839
+Consent Status: Granted

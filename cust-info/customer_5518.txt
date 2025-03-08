@@ -1,0 +1,6 @@
+Customer ID: 5518
+Name: Yolanda Rhodes
+National ID: 156-36-2702
+Bank: Vincent Inc Bank
+Account Number: 1312103006
+Consent Status: Granted

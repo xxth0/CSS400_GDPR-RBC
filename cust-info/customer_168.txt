@@ -1,0 +1,6 @@
+Customer ID: 168
+Name: Johnny Ramirez
+National ID: 682-38-0650
+Bank: Thompson, Ferguson and Roberson Bank
+Account Number: 5237820847
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4864
+Name: Keith Mullen
+National ID: 291-21-8283
+Bank: Reyes-Edwards Bank
+Account Number: 8112889973
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 162
+Name: Karen Oliver
+National ID: 842-83-9426
+Bank: Wong, Brown and Lindsey Bank
+Account Number: 7028982157
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7230
+Name: Dennis Green
+National ID: 878-01-7581
+Bank: Jensen, Jones and Bailey Bank
+Account Number: 1591484931
+Consent Status: Granted

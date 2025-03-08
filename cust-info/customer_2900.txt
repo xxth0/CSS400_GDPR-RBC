@@ -1,0 +1,6 @@
+Customer ID: 2900
+Name: Paul Becker
+National ID: 034-50-0176
+Bank: Simon, Nielsen and Washington Bank
+Account Number: 7174426860
+Consent Status: Revoked

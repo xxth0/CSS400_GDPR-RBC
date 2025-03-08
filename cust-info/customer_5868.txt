@@ -1,0 +1,6 @@
+Customer ID: 5868
+Name: Mark Jackson
+National ID: 370-51-5469
+Bank: Lester LLC Bank
+Account Number: 7844364061
+Consent Status: Revoked

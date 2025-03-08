@@ -1,0 +1,6 @@
+Customer ID: 3058
+Name: Charles Tanner
+National ID: 629-23-1672
+Bank: Hughes Ltd Bank
+Account Number: 2051145875
+Consent Status: Granted

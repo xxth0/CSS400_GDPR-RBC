@@ -1,0 +1,6 @@
+Customer ID: 1754
+Name: David Beard
+National ID: 893-72-7175
+Bank: Cameron, Castillo and Morgan Bank
+Account Number: 4143505978
+Consent Status: Revoked

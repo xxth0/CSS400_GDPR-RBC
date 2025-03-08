@@ -1,0 +1,6 @@
+Customer ID: 6687
+Name: Mandy Christian
+National ID: 695-77-1911
+Bank: Boyer, Gaines and Morrow Bank
+Account Number: 4798805016
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7066
+Name: Nicholas Ward
+National ID: 520-12-7861
+Bank: Johnson-Gomez Bank
+Account Number: 5191215440
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3892
+Name: Seth Cantrell
+National ID: 145-04-9588
+Bank: Beard PLC Bank
+Account Number: 1628354761
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6022
+Name: Michael Barnes
+National ID: 756-20-6394
+Bank: Martin, Gray and Bradford Bank
+Account Number: 7754655391
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7459
+Name: Derrick Hughes
+National ID: 316-14-5169
+Bank: Cooper-Jordan Bank
+Account Number: 8930100577
+Consent Status: Revoked

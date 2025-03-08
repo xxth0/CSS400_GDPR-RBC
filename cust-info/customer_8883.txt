@@ -1,0 +1,6 @@
+Customer ID: 8883
+Name: Ryan Conway
+National ID: 674-37-5539
+Bank: Maxwell, Garza and Thompson Bank
+Account Number: 8827814173
+Consent Status: Granted

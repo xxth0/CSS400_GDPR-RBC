@@ -1,0 +1,6 @@
+Customer ID: 3474
+Name: Joshua Martinez
+National ID: 271-37-4868
+Bank: Fletcher, Martinez and Moore Bank
+Account Number: 2572999704
+Consent Status: Granted

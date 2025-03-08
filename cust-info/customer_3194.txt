@@ -1,0 +1,6 @@
+Customer ID: 3194
+Name: Sarah Johnson
+National ID: 894-82-6350
+Bank: Bell PLC Bank
+Account Number: 2548424283
+Consent Status: Revoked

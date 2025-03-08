@@ -1,0 +1,6 @@
+Customer ID: 3822
+Name: Brad Williams
+National ID: 679-19-9553
+Bank: Stokes Inc Bank
+Account Number: 9277353114
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8851
+Name: Gregg Stewart
+National ID: 693-02-5574
+Bank: Wolfe-Gray Bank
+Account Number: 8076786912
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 569
+Name: Rodney Duncan
+National ID: 772-67-3499
+Bank: Brown, Hill and Taylor Bank
+Account Number: 8836897476
+Consent Status: Revoked

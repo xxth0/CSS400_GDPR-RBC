@@ -1,0 +1,6 @@
+Customer ID: 4939
+Name: Cynthia Smith
+National ID: 559-33-2485
+Bank: Marsh, Mccarthy and Wise Bank
+Account Number: 8817414106
+Consent Status: Revoked

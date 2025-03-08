@@ -1,0 +1,6 @@
+Customer ID: 4668
+Name: Samantha Wilcox
+National ID: 192-24-7540
+Bank: Dyer-Acosta Bank
+Account Number: 2003366374
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4831
+Name: Jeffery Stark
+National ID: 794-74-7007
+Bank: Wiggins-Weiss Bank
+Account Number: 2034066331
+Consent Status: Granted

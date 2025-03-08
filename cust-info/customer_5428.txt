@@ -1,0 +1,6 @@
+Customer ID: 5428
+Name: Andrew Todd
+National ID: 746-65-1835
+Bank: Sanchez-Hart Bank
+Account Number: 2908348258
+Consent Status: Revoked

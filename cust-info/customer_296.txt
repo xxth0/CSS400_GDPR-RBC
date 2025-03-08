@@ -1,0 +1,6 @@
+Customer ID: 296
+Name: Bryan Adkins
+National ID: 560-13-7398
+Bank: Henry-Heath Bank
+Account Number: 3808225303
+Consent Status: Revoked

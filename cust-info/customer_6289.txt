@@ -1,0 +1,6 @@
+Customer ID: 6289
+Name: Andre Wells DDS
+National ID: 013-35-2349
+Bank: Hill, Hernandez and Pierce Bank
+Account Number: 1700382701
+Consent Status: Granted

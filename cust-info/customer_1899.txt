@@ -1,0 +1,6 @@
+Customer ID: 1899
+Name: Jose Oconnell
+National ID: 118-40-8753
+Bank: Martinez-Jackson Bank
+Account Number: 7390505367
+Consent Status: Revoked

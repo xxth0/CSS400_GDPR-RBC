@@ -1,0 +1,6 @@
+Customer ID: 2318
+Name: Jack Ellis
+National ID: 652-09-3446
+Bank: Figueroa-Smith Bank
+Account Number: 3404239053
+Consent Status: Granted

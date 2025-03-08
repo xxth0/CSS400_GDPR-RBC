@@ -1,0 +1,6 @@
+Customer ID: 1116
+Name: Nicole King
+National ID: 173-86-4396
+Bank: Hughes, Haney and Gonzales Bank
+Account Number: 6445175670
+Consent Status: Revoked

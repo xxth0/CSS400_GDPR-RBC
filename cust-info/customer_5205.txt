@@ -1,0 +1,6 @@
+Customer ID: 5205
+Name: Carlos Gonzalez
+National ID: 669-01-6045
+Bank: Ross, Cannon and Jones Bank
+Account Number: 7996483135
+Consent Status: Granted

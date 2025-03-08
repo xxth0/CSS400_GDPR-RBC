@@ -1,0 +1,6 @@
+Customer ID: 3357
+Name: Rachel Hudson
+National ID: 240-15-7804
+Bank: Thompson, Petersen and Murphy Bank
+Account Number: 5742075893
+Consent Status: Revoked

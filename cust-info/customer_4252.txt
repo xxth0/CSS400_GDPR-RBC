@@ -1,0 +1,6 @@
+Customer ID: 4252
+Name: Wayne Hernandez
+National ID: 870-84-9848
+Bank: Sutton Ltd Bank
+Account Number: 8462973627
+Consent Status: Granted

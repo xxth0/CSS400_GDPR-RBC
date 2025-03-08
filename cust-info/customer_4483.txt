@@ -1,0 +1,6 @@
+Customer ID: 4483
+Name: Mrs. Tiffany Moore
+National ID: 685-53-1276
+Bank: Cox-Wall Bank
+Account Number: 2952765399
+Consent Status: Revoked

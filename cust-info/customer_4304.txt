@@ -1,0 +1,6 @@
+Customer ID: 4304
+Name: Kelly Santana
+National ID: 836-88-2827
+Bank: Palmer Group Bank
+Account Number: 4889468171
+Consent Status: Revoked

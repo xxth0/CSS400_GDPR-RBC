@@ -1,0 +1,6 @@
+Customer ID: 2439
+Name: Michele Cobb
+National ID: 481-07-1434
+Bank: Figueroa, Grant and Marshall Bank
+Account Number: 1231608609
+Consent Status: Granted

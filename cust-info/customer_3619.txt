@@ -1,0 +1,6 @@
+Customer ID: 3619
+Name: Tracy Ramirez
+National ID: 897-11-2017
+Bank: Jones PLC Bank
+Account Number: 6157762647
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7176
+Name: Kimberly Torres
+National ID: 150-64-2335
+Bank: Silva-Turner Bank
+Account Number: 3345934030
+Consent Status: Revoked

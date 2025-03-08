@@ -1,0 +1,6 @@
+Customer ID: 3950
+Name: Aaron Paul
+National ID: 371-06-9361
+Bank: Fletcher Inc Bank
+Account Number: 1368747909
+Consent Status: Revoked

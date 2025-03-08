@@ -1,0 +1,6 @@
+Customer ID: 4429
+Name: Rachel Turner
+National ID: 649-10-2707
+Bank: Tran PLC Bank
+Account Number: 3486699583
+Consent Status: Granted

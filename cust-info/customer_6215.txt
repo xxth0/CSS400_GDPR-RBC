@@ -1,0 +1,6 @@
+Customer ID: 6215
+Name: Christopher Bryant
+National ID: 456-65-8784
+Bank: Stevenson, Durham and Garcia Bank
+Account Number: 8889725649
+Consent Status: Revoked

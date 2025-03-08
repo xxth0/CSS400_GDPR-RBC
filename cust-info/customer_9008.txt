@@ -1,0 +1,6 @@
+Customer ID: 9008
+Name: Karl Bailey
+National ID: 353-34-5398
+Bank: Palmer, Munoz and Salas Bank
+Account Number: 9082073474
+Consent Status: Granted

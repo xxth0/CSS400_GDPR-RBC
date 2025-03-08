@@ -1,0 +1,6 @@
+Customer ID: 9985
+Name: James Wagner
+National ID: 461-70-3737
+Bank: Curtis, Carpenter and Martin Bank
+Account Number: 2715566175
+Consent Status: Revoked

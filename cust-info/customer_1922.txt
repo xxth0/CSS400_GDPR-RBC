@@ -1,0 +1,6 @@
+Customer ID: 1922
+Name: Megan Smith
+National ID: 680-82-0230
+Bank: Washington-Ramirez Bank
+Account Number: 2740260551
+Consent Status: Granted

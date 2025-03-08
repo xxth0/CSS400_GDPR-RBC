@@ -1,0 +1,6 @@
+Customer ID: 7406
+Name: Stephanie Wright
+National ID: 217-25-5057
+Bank: Parker, Peterson and Allen Bank
+Account Number: 6696897422
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9149
+Name: Jeffrey Galvan
+National ID: 319-66-4452
+Bank: Graves Ltd Bank
+Account Number: 2090747022
+Consent Status: Revoked

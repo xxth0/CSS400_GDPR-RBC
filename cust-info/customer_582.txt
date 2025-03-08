@@ -1,0 +1,6 @@
+Customer ID: 582
+Name: Ashley Cook
+National ID: 682-04-0413
+Bank: Ward, Wallace and Frank Bank
+Account Number: 2653548632
+Consent Status: Revoked

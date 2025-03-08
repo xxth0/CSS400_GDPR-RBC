@@ -1,0 +1,6 @@
+Customer ID: 7485
+Name: Brandon Richardson
+National ID: 323-02-5348
+Bank: Glenn-Wheeler Bank
+Account Number: 6340396794
+Consent Status: Revoked

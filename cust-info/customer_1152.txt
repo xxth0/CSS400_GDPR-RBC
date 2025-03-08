@@ -1,0 +1,6 @@
+Customer ID: 1152
+Name: Richard Washington
+National ID: 672-90-3990
+Bank: Allen-Harrington Bank
+Account Number: 7529226118
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5707
+Name: Jon Roberts
+National ID: 781-37-6365
+Bank: Williams-Sanchez Bank
+Account Number: 6715297127
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2495
+Name: Raymond Peters
+National ID: 562-80-4739
+Bank: Vaughn, Huang and Walker Bank
+Account Number: 2153941104
+Consent Status: Granted

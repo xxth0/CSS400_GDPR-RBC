@@ -1,0 +1,6 @@
+Customer ID: 6547
+Name: Bradley Trujillo
+National ID: 820-63-0686
+Bank: Kelly-Smith Bank
+Account Number: 5051023763
+Consent Status: Revoked

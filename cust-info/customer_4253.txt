@@ -1,0 +1,6 @@
+Customer ID: 4253
+Name: Mrs. Angela Cortez
+National ID: 860-01-4516
+Bank: Hernandez Group Bank
+Account Number: 6054126722
+Consent Status: Revoked

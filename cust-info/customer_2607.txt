@@ -1,0 +1,6 @@
+Customer ID: 2607
+Name: Robert Anderson
+National ID: 386-16-8789
+Bank: Griffin-Willis Bank
+Account Number: 8823699027
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8373
+Name: Cole Brown
+National ID: 471-47-9588
+Bank: Shepherd and Sons Bank
+Account Number: 8717617900
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5085
+Name: Nancy Brooks
+National ID: 867-45-7232
+Bank: Garcia, Wells and Aguilar Bank
+Account Number: 8631932054
+Consent Status: Revoked

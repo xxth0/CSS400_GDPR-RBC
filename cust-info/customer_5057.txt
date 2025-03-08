@@ -1,0 +1,6 @@
+Customer ID: 5057
+Name: Andre Warren
+National ID: 135-84-5360
+Bank: Todd, Gibbs and Nixon Bank
+Account Number: 1189181548
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9541
+Name: Wendy Reed
+National ID: 453-74-8612
+Bank: Diaz and Sons Bank
+Account Number: 2967110960
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3276
+Name: Sherri Pacheco
+National ID: 513-48-5335
+Bank: Baker, Ruiz and Holland Bank
+Account Number: 1323928296
+Consent Status: Granted

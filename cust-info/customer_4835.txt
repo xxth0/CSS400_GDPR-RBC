@@ -1,0 +1,6 @@
+Customer ID: 4835
+Name: Angela Hernandez
+National ID: 481-54-3669
+Bank: Henson-Beasley Bank
+Account Number: 6427189992
+Consent Status: Revoked

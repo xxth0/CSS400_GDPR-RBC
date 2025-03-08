@@ -1,0 +1,6 @@
+Customer ID: 416
+Name: James Peterson
+National ID: 538-43-8757
+Bank: Davis, Clay and King Bank
+Account Number: 7752865556
+Consent Status: Granted

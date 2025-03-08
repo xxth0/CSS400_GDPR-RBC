@@ -1,0 +1,6 @@
+Customer ID: 5207
+Name: Kevin Sanchez
+National ID: 467-10-9631
+Bank: Lopez, Jennings and Rivera Bank
+Account Number: 3747377728
+Consent Status: Revoked

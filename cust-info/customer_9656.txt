@@ -1,0 +1,6 @@
+Customer ID: 9656
+Name: Tyrone Lynch
+National ID: 054-13-7544
+Bank: Ortiz-Mills Bank
+Account Number: 8431483580
+Consent Status: Revoked

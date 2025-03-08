@@ -1,0 +1,6 @@
+Customer ID: 6625
+Name: Katrina Smith
+National ID: 444-53-8543
+Bank: Robinson-Lara Bank
+Account Number: 5001019052
+Consent Status: Revoked

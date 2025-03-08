@@ -1,0 +1,6 @@
+Customer ID: 6983
+Name: Jorge Mitchell
+National ID: 265-11-1323
+Bank: Walsh Group Bank
+Account Number: 8795419396
+Consent Status: Revoked

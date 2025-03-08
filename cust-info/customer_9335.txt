@@ -1,0 +1,6 @@
+Customer ID: 9335
+Name: Angela Henderson
+National ID: 831-39-0072
+Bank: Williams-Gray Bank
+Account Number: 4703862840
+Consent Status: Revoked

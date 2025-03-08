@@ -1,0 +1,6 @@
+Customer ID: 7445
+Name: Rebecca Villa
+National ID: 685-18-9107
+Bank: Young, Phillips and Montgomery Bank
+Account Number: 4372839629
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6564
+Name: Gregory Rodriguez
+National ID: 770-44-2064
+Bank: Reyes-Frank Bank
+Account Number: 4794056210
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7551
+Name: Nicholas Beard
+National ID: 118-90-3242
+Bank: Chandler PLC Bank
+Account Number: 4252417190
+Consent Status: Granted

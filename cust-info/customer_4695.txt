@@ -1,0 +1,6 @@
+Customer ID: 4695
+Name: James Maldonado
+National ID: 509-84-8033
+Bank: Mclaughlin, Campbell and Schmidt Bank
+Account Number: 9014878211
+Consent Status: Granted

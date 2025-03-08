@@ -1,0 +1,6 @@
+Customer ID: 1936
+Name: Ashley Logan
+National ID: 086-77-2809
+Bank: Stevenson Group Bank
+Account Number: 5964268723
+Consent Status: Granted

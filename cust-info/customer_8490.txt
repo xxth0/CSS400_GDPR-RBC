@@ -1,0 +1,6 @@
+Customer ID: 8490
+Name: Ronald Baker
+National ID: 312-46-8993
+Bank: Holder, Nash and Garcia Bank
+Account Number: 4273476998
+Consent Status: Revoked

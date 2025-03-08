@@ -1,0 +1,6 @@
+Customer ID: 6490
+Name: Tina Larson
+National ID: 883-04-9351
+Bank: Collins, Mccoy and Garcia Bank
+Account Number: 8657153708
+Consent Status: Revoked

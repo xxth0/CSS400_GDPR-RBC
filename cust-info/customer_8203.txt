@@ -1,0 +1,6 @@
+Customer ID: 8203
+Name: Jeffery Anderson
+National ID: 219-72-5459
+Bank: Davis-Butler Bank
+Account Number: 3067630612
+Consent Status: Revoked

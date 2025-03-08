@@ -1,0 +1,6 @@
+Customer ID: 1574
+Name: Alice Lopez
+National ID: 172-35-9119
+Bank: Smith, Thomas and Adams Bank
+Account Number: 8650835662
+Consent Status: Revoked

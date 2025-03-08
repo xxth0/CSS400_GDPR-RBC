@@ -1,0 +1,6 @@
+Customer ID: 7235
+Name: Carmen Woods
+National ID: 117-69-7432
+Bank: Kaufman, Greene and Grant Bank
+Account Number: 7029406241
+Consent Status: Granted

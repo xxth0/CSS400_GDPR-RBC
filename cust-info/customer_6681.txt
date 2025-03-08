@@ -1,0 +1,6 @@
+Customer ID: 6681
+Name: Maria Gonzalez
+National ID: 196-94-4493
+Bank: Sherman, Perez and Maynard Bank
+Account Number: 7015453348
+Consent Status: Granted

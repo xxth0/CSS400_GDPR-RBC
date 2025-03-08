@@ -1,0 +1,6 @@
+Customer ID: 6948
+Name: Stephanie Day
+National ID: 709-22-0729
+Bank: Lyons-Turner Bank
+Account Number: 8117832816
+Consent Status: Granted

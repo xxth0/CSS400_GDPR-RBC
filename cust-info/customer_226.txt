@@ -1,0 +1,6 @@
+Customer ID: 226
+Name: Matthew Anderson
+National ID: 892-56-5842
+Bank: White-Torres Bank
+Account Number: 4503854129
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 869
+Name: Brittany Jackson
+National ID: 886-41-3948
+Bank: Baker, Cuevas and Smith Bank
+Account Number: 6794604253
+Consent Status: Revoked

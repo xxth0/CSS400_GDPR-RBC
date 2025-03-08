@@ -1,0 +1,6 @@
+Customer ID: 6185
+Name: Keith Smith
+National ID: 877-77-6266
+Bank: Goodman, Roberts and Cook Bank
+Account Number: 4548458488
+Consent Status: Revoked

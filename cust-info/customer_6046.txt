@@ -1,0 +1,6 @@
+Customer ID: 6046
+Name: David Gates
+National ID: 622-43-5791
+Bank: Williams-Gross Bank
+Account Number: 5322431672
+Consent Status: Granted

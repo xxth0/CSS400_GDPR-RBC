@@ -1,0 +1,6 @@
+Customer ID: 6540
+Name: Michael Clark
+National ID: 778-77-8708
+Bank: Donaldson Group Bank
+Account Number: 1394587433
+Consent Status: Granted

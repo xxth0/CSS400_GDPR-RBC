@@ -1,0 +1,6 @@
+Customer ID: 628
+Name: Sarah Perez
+National ID: 747-54-9352
+Bank: Moore, Swanson and Hamilton Bank
+Account Number: 4052348361
+Consent Status: Revoked

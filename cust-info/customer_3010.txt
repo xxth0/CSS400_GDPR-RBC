@@ -1,0 +1,6 @@
+Customer ID: 3010
+Name: Crystal Barry
+National ID: 750-83-0669
+Bank: Mendoza Ltd Bank
+Account Number: 2485592462
+Consent Status: Revoked

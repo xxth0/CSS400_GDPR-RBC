@@ -1,0 +1,6 @@
+Customer ID: 3981
+Name: Anthony Perry
+National ID: 137-35-4179
+Bank: Roman-Greer Bank
+Account Number: 2432932681
+Consent Status: Revoked

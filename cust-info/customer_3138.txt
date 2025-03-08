@@ -1,0 +1,6 @@
+Customer ID: 3138
+Name: Katie Garcia
+National ID: 088-70-0462
+Bank: Rowe, Cooper and Robinson Bank
+Account Number: 5160282255
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3444
+Name: Benjamin Quinn
+National ID: 722-01-9899
+Bank: Wheeler Group Bank
+Account Number: 3339560935
+Consent Status: Granted

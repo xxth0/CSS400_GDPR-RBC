@@ -1,0 +1,6 @@
+Customer ID: 4691
+Name: Rebecca Serrano
+National ID: 169-85-8831
+Bank: Henry-Stokes Bank
+Account Number: 3735175427
+Consent Status: Revoked

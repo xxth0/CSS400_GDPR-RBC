@@ -1,0 +1,6 @@
+Customer ID: 8785
+Name: Sarah Perry
+National ID: 555-79-2501
+Bank: Clayton-Stewart Bank
+Account Number: 2876428822
+Consent Status: Granted

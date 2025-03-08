@@ -1,0 +1,6 @@
+Customer ID: 9980
+Name: Jeffrey Allen
+National ID: 354-04-7458
+Bank: Erickson-Miller Bank
+Account Number: 6612411065
+Consent Status: Granted

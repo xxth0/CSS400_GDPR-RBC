@@ -1,0 +1,6 @@
+Customer ID: 5462
+Name: Kimberly Morris
+National ID: 299-47-9894
+Bank: Medina-Harris Bank
+Account Number: 6161671001
+Consent Status: Granted

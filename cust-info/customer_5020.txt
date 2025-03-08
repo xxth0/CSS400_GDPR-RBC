@@ -1,0 +1,6 @@
+Customer ID: 5020
+Name: Kevin Brown
+National ID: 832-34-9230
+Bank: Sellers-Salinas Bank
+Account Number: 9768089387
+Consent Status: Granted

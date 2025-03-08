@@ -1,0 +1,6 @@
+Customer ID: 9228
+Name: Christina Wise
+National ID: 635-88-3303
+Bank: Davis PLC Bank
+Account Number: 9002059114
+Consent Status: Granted

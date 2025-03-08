@@ -1,0 +1,6 @@
+Customer ID: 6403
+Name: Brittney Rowe
+National ID: 796-27-4554
+Bank: Byrd Group Bank
+Account Number: 1580513346
+Consent Status: Revoked

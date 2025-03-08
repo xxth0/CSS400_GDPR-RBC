@@ -1,0 +1,6 @@
+Customer ID: 539
+Name: Anna Smith
+National ID: 557-01-2160
+Bank: Friedman, Johnson and King Bank
+Account Number: 8927025867
+Consent Status: Granted

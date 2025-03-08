@@ -1,0 +1,6 @@
+Customer ID: 9734
+Name: Donna James
+National ID: 488-87-0917
+Bank: Tran-Ward Bank
+Account Number: 5601239760
+Consent Status: Revoked

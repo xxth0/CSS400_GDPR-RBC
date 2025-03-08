@@ -1,0 +1,6 @@
+Customer ID: 3864
+Name: Raymond Gonzalez
+National ID: 159-54-9572
+Bank: Torres LLC Bank
+Account Number: 1162722953
+Consent Status: Revoked

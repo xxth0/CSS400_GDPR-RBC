@@ -1,0 +1,6 @@
+Customer ID: 2292
+Name: Jeffrey Johnson
+National ID: 656-10-7797
+Bank: Gonzalez-Mccoy Bank
+Account Number: 3744691164
+Consent Status: Revoked

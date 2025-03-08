@@ -1,0 +1,6 @@
+Customer ID: 9466
+Name: Ariel Campbell
+National ID: 328-15-0167
+Bank: Anderson, Griffin and Johnson Bank
+Account Number: 7307210050
+Consent Status: Granted

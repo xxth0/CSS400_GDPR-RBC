@@ -1,0 +1,6 @@
+Customer ID: 6388
+Name: Michelle Ware
+National ID: 107-62-8297
+Bank: Mills LLC Bank
+Account Number: 7537333977
+Consent Status: Revoked

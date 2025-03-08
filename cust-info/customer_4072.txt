@@ -1,0 +1,6 @@
+Customer ID: 4072
+Name: Wendy Anderson DVM
+National ID: 017-39-7527
+Bank: Carter and Sons Bank
+Account Number: 3545055667
+Consent Status: Revoked

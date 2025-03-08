@@ -1,0 +1,6 @@
+Customer ID: 2452
+Name: Dakota Orr
+National ID: 308-62-2215
+Bank: Cameron-Brown Bank
+Account Number: 2162660000
+Consent Status: Granted

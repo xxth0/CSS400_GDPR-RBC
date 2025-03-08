@@ -1,0 +1,6 @@
+Customer ID: 5506
+Name: Natalie Perkins
+National ID: 298-87-4501
+Bank: Norman Group Bank
+Account Number: 7230184866
+Consent Status: Revoked

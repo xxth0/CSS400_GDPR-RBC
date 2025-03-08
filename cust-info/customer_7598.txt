@@ -1,0 +1,6 @@
+Customer ID: 7598
+Name: Tamara Johnson
+National ID: 512-37-7336
+Bank: Parker, Fox and Castro Bank
+Account Number: 4485305866
+Consent Status: Granted

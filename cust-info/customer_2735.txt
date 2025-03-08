@@ -1,0 +1,6 @@
+Customer ID: 2735
+Name: Victor Fernandez
+National ID: 366-42-0571
+Bank: Thompson Inc Bank
+Account Number: 1047273168
+Consent Status: Granted

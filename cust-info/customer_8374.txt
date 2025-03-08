@@ -1,0 +1,6 @@
+Customer ID: 8374
+Name: Cheryl Lara
+National ID: 205-35-8908
+Bank: Wright-Robertson Bank
+Account Number: 9810694081
+Consent Status: Granted

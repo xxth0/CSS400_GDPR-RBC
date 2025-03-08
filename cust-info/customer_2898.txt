@@ -1,0 +1,6 @@
+Customer ID: 2898
+Name: Robert Smith
+National ID: 751-86-5357
+Bank: Pitts PLC Bank
+Account Number: 1511770552
+Consent Status: Revoked

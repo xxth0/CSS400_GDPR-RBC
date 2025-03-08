@@ -1,0 +1,6 @@
+Customer ID: 8432
+Name: David Rosales
+National ID: 827-90-1942
+Bank: Villanueva and Sons Bank
+Account Number: 8556679347
+Consent Status: Granted

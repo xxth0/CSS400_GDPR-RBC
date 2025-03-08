@@ -1,0 +1,6 @@
+Customer ID: 5372
+Name: Margaret Rose
+National ID: 170-91-5214
+Bank: Vargas Ltd Bank
+Account Number: 3873596634
+Consent Status: Granted

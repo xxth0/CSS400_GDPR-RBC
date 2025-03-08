@@ -1,0 +1,6 @@
+Customer ID: 7908
+Name: Melissa Curtis
+National ID: 123-71-4237
+Bank: Jones Group Bank
+Account Number: 8099960942
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1286
+Name: Stephanie Stanton
+National ID: 112-57-6765
+Bank: Medina and Sons Bank
+Account Number: 7268072159
+Consent Status: Granted

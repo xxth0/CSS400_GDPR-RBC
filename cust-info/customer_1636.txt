@@ -1,0 +1,6 @@
+Customer ID: 1636
+Name: Eric Smith
+National ID: 352-15-2862
+Bank: Lee-White Bank
+Account Number: 9541921408
+Consent Status: Granted

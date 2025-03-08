@@ -1,0 +1,6 @@
+Customer ID: 8029
+Name: Karen Barber
+National ID: 196-22-9084
+Bank: Black, Novak and Richards Bank
+Account Number: 7925125333
+Consent Status: Granted

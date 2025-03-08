@@ -1,0 +1,6 @@
+Customer ID: 5576
+Name: Amy Simon
+National ID: 431-21-9075
+Bank: Guzman LLC Bank
+Account Number: 3125799835
+Consent Status: Granted

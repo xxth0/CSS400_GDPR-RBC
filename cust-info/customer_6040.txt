@@ -1,0 +1,6 @@
+Customer ID: 6040
+Name: Christopher Mann
+National ID: 428-48-0768
+Bank: Romero, Rios and Smith Bank
+Account Number: 9189291116
+Consent Status: Revoked

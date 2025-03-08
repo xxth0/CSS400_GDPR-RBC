@@ -1,0 +1,6 @@
+Customer ID: 2258
+Name: Samuel Mendoza
+National ID: 641-77-1120
+Bank: Garza Group Bank
+Account Number: 2381771907
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1248
+Name: Keith Underwood
+National ID: 343-95-1473
+Bank: Conway-Lopez Bank
+Account Number: 6974524513
+Consent Status: Revoked

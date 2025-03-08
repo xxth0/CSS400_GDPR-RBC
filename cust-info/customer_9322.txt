@@ -1,0 +1,6 @@
+Customer ID: 9322
+Name: Lorraine Ward
+National ID: 647-81-9432
+Bank: Navarro, Bowman and Salazar Bank
+Account Number: 8945088100
+Consent Status: Revoked

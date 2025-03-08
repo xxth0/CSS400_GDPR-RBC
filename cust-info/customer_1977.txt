@@ -1,0 +1,6 @@
+Customer ID: 1977
+Name: Grace Webster
+National ID: 400-60-8189
+Bank: Elliott, Ray and Anderson Bank
+Account Number: 1683281191
+Consent Status: Revoked

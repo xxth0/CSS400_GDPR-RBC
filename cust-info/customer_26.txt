@@ -1,0 +1,6 @@
+Customer ID: 26
+Name: Jesse Jones
+National ID: 678-04-5257
+Bank: Vasquez-Williams Bank
+Account Number: 7428392659
+Consent Status: Granted

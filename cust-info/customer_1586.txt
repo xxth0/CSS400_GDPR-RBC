@@ -1,0 +1,6 @@
+Customer ID: 1586
+Name: Matthew Rice
+National ID: 073-48-9269
+Bank: Simon, Armstrong and Johnson Bank
+Account Number: 2622146249
+Consent Status: Granted

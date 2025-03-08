@@ -1,0 +1,6 @@
+Customer ID: 34
+Name: Kristina Rivera
+National ID: 358-45-8006
+Bank: Hanson, Mcclain and Barron Bank
+Account Number: 7550954868
+Consent Status: Revoked

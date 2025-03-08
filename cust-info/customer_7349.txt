@@ -1,0 +1,6 @@
+Customer ID: 7349
+Name: David Brown
+National ID: 559-25-1627
+Bank: Collier-Hanson Bank
+Account Number: 5556179732
+Consent Status: Revoked

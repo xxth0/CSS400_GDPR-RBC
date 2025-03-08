@@ -1,0 +1,6 @@
+Customer ID: 8250
+Name: Raymond Johnson
+National ID: 744-61-1727
+Bank: Avery, Price and Montes Bank
+Account Number: 1753088206
+Consent Status: Granted

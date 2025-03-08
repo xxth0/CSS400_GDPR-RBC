@@ -1,0 +1,6 @@
+Customer ID: 9724
+Name: Savannah Thomas
+National ID: 169-98-5032
+Bank: Adams-Robinson Bank
+Account Number: 3421218700
+Consent Status: Granted

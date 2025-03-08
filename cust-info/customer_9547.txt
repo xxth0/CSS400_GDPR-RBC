@@ -1,0 +1,6 @@
+Customer ID: 9547
+Name: James Schwartz
+National ID: 519-65-2751
+Bank: Santiago Ltd Bank
+Account Number: 1626860342
+Consent Status: Granted

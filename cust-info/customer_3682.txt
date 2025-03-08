@@ -1,0 +1,6 @@
+Customer ID: 3682
+Name: Brittany Nichols
+National ID: 393-29-4681
+Bank: Greene Group Bank
+Account Number: 3268598437
+Consent Status: Granted

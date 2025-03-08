@@ -1,0 +1,6 @@
+Customer ID: 2640
+Name: Courtney Boone
+National ID: 314-02-5393
+Bank: Benson, Williams and Boyer Bank
+Account Number: 9132034113
+Consent Status: Revoked

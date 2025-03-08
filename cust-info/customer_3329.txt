@@ -1,0 +1,6 @@
+Customer ID: 3329
+Name: Robert Williams
+National ID: 689-53-8862
+Bank: Wilson-Juarez Bank
+Account Number: 2838857800
+Consent Status: Granted

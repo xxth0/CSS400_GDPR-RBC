@@ -1,0 +1,6 @@
+Customer ID: 2512
+Name: Monica Allen
+National ID: 063-09-8123
+Bank: Hernandez, Ray and Smith Bank
+Account Number: 8209461686
+Consent Status: Granted

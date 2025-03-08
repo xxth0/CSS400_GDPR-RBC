@@ -1,0 +1,6 @@
+Customer ID: 5140
+Name: James Barber
+National ID: 322-93-9752
+Bank: Baxter PLC Bank
+Account Number: 7928147949
+Consent Status: Revoked

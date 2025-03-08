@@ -1,0 +1,6 @@
+Customer ID: 9393
+Name: Alejandro Winters
+National ID: 374-90-3501
+Bank: Martin-Nelson Bank
+Account Number: 9424978363
+Consent Status: Revoked

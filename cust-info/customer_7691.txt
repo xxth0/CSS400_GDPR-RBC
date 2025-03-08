@@ -1,0 +1,6 @@
+Customer ID: 7691
+Name: Jordan Quinn
+National ID: 016-65-1823
+Bank: Welch-Mccoy Bank
+Account Number: 5051742766
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7121
+Name: Jeffrey Mcknight
+National ID: 695-04-9507
+Bank: Jones LLC Bank
+Account Number: 1330972901
+Consent Status: Granted

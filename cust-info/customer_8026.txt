@@ -1,0 +1,6 @@
+Customer ID: 8026
+Name: Stephanie Rogers
+National ID: 099-28-3024
+Bank: Johnson Group Bank
+Account Number: 9292935644
+Consent Status: Revoked

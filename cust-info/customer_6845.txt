@@ -1,0 +1,6 @@
+Customer ID: 6845
+Name: Michael Gamble
+National ID: 807-96-8333
+Bank: Sanchez-Henry Bank
+Account Number: 9188309944
+Consent Status: Granted

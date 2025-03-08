@@ -1,0 +1,6 @@
+Customer ID: 176
+Name: Daniel Thompson
+National ID: 750-66-9838
+Bank: Petersen-Schmitt Bank
+Account Number: 2119928488
+Consent Status: Revoked

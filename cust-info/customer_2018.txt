@@ -1,0 +1,6 @@
+Customer ID: 2018
+Name: Richard Lopez
+National ID: 484-22-5163
+Bank: Gibson PLC Bank
+Account Number: 6796397220
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9461
+Name: Curtis Hughes
+National ID: 360-61-4775
+Bank: Odonnell, Norton and Gomez Bank
+Account Number: 6095794207
+Consent Status: Granted

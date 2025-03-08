@@ -1,0 +1,6 @@
+Customer ID: 1591
+Name: Loretta Coleman
+National ID: 204-08-8065
+Bank: Evans, Ross and Lyons Bank
+Account Number: 1536061242
+Consent Status: Revoked

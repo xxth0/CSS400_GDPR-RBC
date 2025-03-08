@@ -1,0 +1,6 @@
+Customer ID: 2195
+Name: Elizabeth Haynes
+National ID: 441-11-3212
+Bank: Hartman-Velasquez Bank
+Account Number: 6559696051
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4767
+Name: Michael Hughes
+National ID: 719-16-5818
+Bank: Gray, Colon and Hernandez Bank
+Account Number: 2977676093
+Consent Status: Revoked

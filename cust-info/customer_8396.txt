@@ -1,0 +1,6 @@
+Customer ID: 8396
+Name: Michael Davis
+National ID: 530-92-3288
+Bank: Anderson Ltd Bank
+Account Number: 2265124430
+Consent Status: Granted

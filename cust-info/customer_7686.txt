@@ -1,0 +1,6 @@
+Customer ID: 7686
+Name: Christopher Peterson
+National ID: 460-55-4836
+Bank: Walker, Taylor and Smith Bank
+Account Number: 5541368114
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5002
+Name: Terry Baker
+National ID: 049-96-8687
+Bank: Gray-Maxwell Bank
+Account Number: 6698665495
+Consent Status: Granted

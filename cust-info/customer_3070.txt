@@ -1,0 +1,6 @@
+Customer ID: 3070
+Name: Stephanie Perry
+National ID: 894-16-2996
+Bank: Murphy and Sons Bank
+Account Number: 2226934472
+Consent Status: Granted

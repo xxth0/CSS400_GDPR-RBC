@@ -1,0 +1,6 @@
+Customer ID: 1969
+Name: Harold Stevens
+National ID: 753-72-2643
+Bank: Allen, Romero and Farrell Bank
+Account Number: 4443571799
+Consent Status: Revoked

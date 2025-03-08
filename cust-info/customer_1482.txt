@@ -1,0 +1,6 @@
+Customer ID: 1482
+Name: Sandra Ramirez
+National ID: 555-36-9149
+Bank: Stephens-Collier Bank
+Account Number: 9568202734
+Consent Status: Granted

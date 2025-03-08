@@ -1,0 +1,6 @@
+Customer ID: 3838
+Name: Ryan Dean
+National ID: 492-84-3004
+Bank: Walters, Johnson and Lynch Bank
+Account Number: 8773540580
+Consent Status: Revoked

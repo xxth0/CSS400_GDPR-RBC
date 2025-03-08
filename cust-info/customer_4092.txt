@@ -1,0 +1,6 @@
+Customer ID: 4092
+Name: Julie Johnson
+National ID: 600-48-6278
+Bank: Johnson-Jones Bank
+Account Number: 7023111706
+Consent Status: Revoked

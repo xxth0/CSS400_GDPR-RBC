@@ -1,0 +1,6 @@
+Customer ID: 3003
+Name: Dawn Cross
+National ID: 551-54-6373
+Bank: Miller, Wolf and Becker Bank
+Account Number: 1309802322
+Consent Status: Granted

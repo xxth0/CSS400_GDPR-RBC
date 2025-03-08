@@ -1,0 +1,6 @@
+Customer ID: 2455
+Name: Phillip Andrade
+National ID: 871-23-7848
+Bank: Logan, Smith and Small Bank
+Account Number: 2867244286
+Consent Status: Granted

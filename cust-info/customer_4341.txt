@@ -1,0 +1,6 @@
+Customer ID: 4341
+Name: Thomas Lopez
+National ID: 139-87-7461
+Bank: Johnson, Castillo and Perez Bank
+Account Number: 1909367733
+Consent Status: Granted

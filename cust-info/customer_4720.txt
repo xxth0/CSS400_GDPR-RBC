@@ -1,0 +1,6 @@
+Customer ID: 4720
+Name: Austin Romero
+National ID: 719-01-4667
+Bank: Miller, Peterson and Santos Bank
+Account Number: 5569924889
+Consent Status: Granted

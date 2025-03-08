@@ -1,0 +1,6 @@
+Customer ID: 2260
+Name: Cynthia Brennan
+National ID: 307-48-4215
+Bank: Lopez Ltd Bank
+Account Number: 1363395571
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1477
+Name: Matthew Campbell
+National ID: 445-26-5798
+Bank: Cantrell PLC Bank
+Account Number: 4867648760
+Consent Status: Revoked

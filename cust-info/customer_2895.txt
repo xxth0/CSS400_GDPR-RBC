@@ -1,0 +1,6 @@
+Customer ID: 2895
+Name: Deanna York
+National ID: 670-67-5965
+Bank: Munoz, Buckley and Boyd Bank
+Account Number: 5174795757
+Consent Status: Granted

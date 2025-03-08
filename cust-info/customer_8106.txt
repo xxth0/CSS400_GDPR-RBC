@@ -1,0 +1,6 @@
+Customer ID: 8106
+Name: Pamela Carlson
+National ID: 172-11-3787
+Bank: Glover Inc Bank
+Account Number: 2259844259
+Consent Status: Revoked

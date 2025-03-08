@@ -1,0 +1,6 @@
+Customer ID: 745
+Name: Tracey Russell
+National ID: 316-66-1119
+Bank: Mathews, Key and Malone Bank
+Account Number: 3768444634
+Consent Status: Revoked

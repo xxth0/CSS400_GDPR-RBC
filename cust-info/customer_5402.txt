@@ -1,0 +1,6 @@
+Customer ID: 5402
+Name: Ashley Singh
+National ID: 882-77-0508
+Bank: White PLC Bank
+Account Number: 4040688799
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6590
+Name: Nancy Reeves
+National ID: 164-48-0203
+Bank: Stewart, Rodriguez and Boone Bank
+Account Number: 8607462653
+Consent Status: Granted

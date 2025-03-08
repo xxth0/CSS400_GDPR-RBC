@@ -1,0 +1,6 @@
+Customer ID: 3997
+Name: Erik Rivera
+National ID: 192-77-8821
+Bank: Gonzalez LLC Bank
+Account Number: 1890542341
+Consent Status: Revoked

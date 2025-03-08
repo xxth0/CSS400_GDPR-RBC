@@ -1,0 +1,6 @@
+Customer ID: 9121
+Name: Amanda Harvey
+National ID: 413-44-5522
+Bank: Baker and Sons Bank
+Account Number: 9977540425
+Consent Status: Granted

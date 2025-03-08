@@ -1,0 +1,6 @@
+Customer ID: 7789
+Name: Alan Stevens
+National ID: 116-45-7635
+Bank: Thomas, Matthews and Flynn Bank
+Account Number: 2801851332
+Consent Status: Revoked

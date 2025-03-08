@@ -1,0 +1,6 @@
+Customer ID: 5025
+Name: Kathy Sanchez
+National ID: 524-22-4120
+Bank: Fox, Higgins and Wilson Bank
+Account Number: 9342532460
+Consent Status: Granted

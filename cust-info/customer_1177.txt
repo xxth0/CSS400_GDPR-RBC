@@ -1,0 +1,6 @@
+Customer ID: 1177
+Name: Victor Rivas
+National ID: 632-11-2693
+Bank: Spencer-White Bank
+Account Number: 2839051529
+Consent Status: Revoked

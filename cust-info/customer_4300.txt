@@ -1,0 +1,6 @@
+Customer ID: 4300
+Name: Mark Wilson
+National ID: 730-91-8601
+Bank: Taylor, Wade and Washington Bank
+Account Number: 4827852012
+Consent Status: Granted

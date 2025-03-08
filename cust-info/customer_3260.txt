@@ -1,0 +1,6 @@
+Customer ID: 3260
+Name: Benjamin Allen
+National ID: 711-60-8066
+Bank: Young-Zimmerman Bank
+Account Number: 2374768766
+Consent Status: Revoked

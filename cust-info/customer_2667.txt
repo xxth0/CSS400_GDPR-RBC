@@ -1,0 +1,6 @@
+Customer ID: 2667
+Name: Madison Hodges
+National ID: 776-59-0623
+Bank: Salazar-Jones Bank
+Account Number: 5438882843
+Consent Status: Granted

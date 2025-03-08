@@ -1,0 +1,6 @@
+Customer ID: 7762
+Name: Jennifer Blake
+National ID: 477-90-0046
+Bank: Mitchell-Zuniga Bank
+Account Number: 1516457457
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8985
+Name: Christopher Tanner
+National ID: 348-19-5416
+Bank: Campbell, Thompson and Rodriguez Bank
+Account Number: 6501104144
+Consent Status: Revoked

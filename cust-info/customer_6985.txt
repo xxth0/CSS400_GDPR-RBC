@@ -1,0 +1,6 @@
+Customer ID: 6985
+Name: Sharon Tapia
+National ID: 148-70-7602
+Bank: Bates-Pacheco Bank
+Account Number: 3369490842
+Consent Status: Granted

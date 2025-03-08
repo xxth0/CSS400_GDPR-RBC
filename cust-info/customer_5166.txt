@@ -1,0 +1,6 @@
+Customer ID: 5166
+Name: Matthew Stephens
+National ID: 262-98-4629
+Bank: Bradshaw-Chambers Bank
+Account Number: 1401154364
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8699
+Name: Jennifer Bowers
+National ID: 614-69-6163
+Bank: George-Ferguson Bank
+Account Number: 2130775230
+Consent Status: Granted

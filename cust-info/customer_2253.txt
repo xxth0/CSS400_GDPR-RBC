@@ -1,0 +1,6 @@
+Customer ID: 2253
+Name: Sarah Good
+National ID: 104-32-8276
+Bank: Delgado PLC Bank
+Account Number: 6152012946
+Consent Status: Revoked

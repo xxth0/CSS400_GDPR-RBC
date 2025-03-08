@@ -1,0 +1,6 @@
+Customer ID: 8611
+Name: Dale Griffin
+National ID: 867-35-2371
+Bank: Clark, Taylor and Wells Bank
+Account Number: 3468718124
+Consent Status: Revoked

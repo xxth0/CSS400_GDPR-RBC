@@ -1,0 +1,6 @@
+Customer ID: 3962
+Name: Mr. Jason Mcmillan
+National ID: 105-88-3594
+Bank: Jones, Garza and Costa Bank
+Account Number: 6747708877
+Consent Status: Revoked

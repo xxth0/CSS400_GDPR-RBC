@@ -1,0 +1,6 @@
+Customer ID: 1429
+Name: Glenn Adams
+National ID: 018-03-7515
+Bank: Carr and Sons Bank
+Account Number: 6316044582
+Consent Status: Granted

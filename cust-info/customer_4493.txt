@@ -1,0 +1,6 @@
+Customer ID: 4493
+Name: Shannon Davis
+National ID: 646-58-4015
+Bank: Miller Ltd Bank
+Account Number: 3435875248
+Consent Status: Revoked

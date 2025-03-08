@@ -1,0 +1,6 @@
+Customer ID: 5662
+Name: Victoria Hunter
+National ID: 730-83-5540
+Bank: Burton PLC Bank
+Account Number: 2409876277
+Consent Status: Granted

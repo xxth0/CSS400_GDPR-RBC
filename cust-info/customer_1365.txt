@@ -1,0 +1,6 @@
+Customer ID: 1365
+Name: Bernard Barajas
+National ID: 094-62-1940
+Bank: Murphy-Day Bank
+Account Number: 7859382711
+Consent Status: Granted

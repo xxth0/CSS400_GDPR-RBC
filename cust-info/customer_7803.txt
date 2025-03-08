@@ -1,0 +1,6 @@
+Customer ID: 7803
+Name: Kevin Gates
+National ID: 195-50-4065
+Bank: Guerrero-Herring Bank
+Account Number: 3810705502
+Consent Status: Revoked

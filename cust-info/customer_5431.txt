@@ -1,0 +1,6 @@
+Customer ID: 5431
+Name: Russell Adkins
+National ID: 722-28-4669
+Bank: Hogan-Holder Bank
+Account Number: 5368794252
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1529
+Name: Wesley Mcdonald
+National ID: 194-47-4874
+Bank: Wagner, Gomez and Mcdonald Bank
+Account Number: 7950366642
+Consent Status: Revoked

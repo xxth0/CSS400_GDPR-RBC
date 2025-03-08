@@ -1,0 +1,6 @@
+Customer ID: 8401
+Name: Pamela Moore
+National ID: 172-56-8669
+Bank: Brooks Ltd Bank
+Account Number: 2790497920
+Consent Status: Revoked

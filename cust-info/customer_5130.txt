@@ -1,0 +1,6 @@
+Customer ID: 5130
+Name: Michael Ballard
+National ID: 499-43-2575
+Bank: Giles, Frank and Pierce Bank
+Account Number: 9428215218
+Consent Status: Revoked

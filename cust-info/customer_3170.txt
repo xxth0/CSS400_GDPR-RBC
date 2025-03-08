@@ -1,0 +1,6 @@
+Customer ID: 3170
+Name: Rachel Cunningham
+National ID: 121-95-8616
+Bank: Powers Ltd Bank
+Account Number: 4320878921
+Consent Status: Revoked

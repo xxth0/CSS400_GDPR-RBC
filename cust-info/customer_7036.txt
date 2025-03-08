@@ -1,0 +1,6 @@
+Customer ID: 7036
+Name: Edwin Davis
+National ID: 043-98-3894
+Bank: Herrera-Gutierrez Bank
+Account Number: 3747571776
+Consent Status: Revoked

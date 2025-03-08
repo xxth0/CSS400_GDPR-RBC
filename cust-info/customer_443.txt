@@ -1,0 +1,6 @@
+Customer ID: 443
+Name: Anna Rodriguez
+National ID: 144-66-7446
+Bank: Williams, Gardner and Leach Bank
+Account Number: 7190914492
+Consent Status: Granted

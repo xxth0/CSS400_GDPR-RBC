@@ -1,0 +1,6 @@
+Customer ID: 1690
+Name: Wesley Miller
+National ID: 316-62-5136
+Bank: Morris, Robinson and Jones Bank
+Account Number: 2073520988
+Consent Status: Revoked

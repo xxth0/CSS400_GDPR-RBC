@@ -1,0 +1,6 @@
+Customer ID: 3972
+Name: Jose Harmon
+National ID: 465-83-5722
+Bank: Austin Group Bank
+Account Number: 8308965395
+Consent Status: Revoked

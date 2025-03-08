@@ -1,0 +1,6 @@
+Customer ID: 4865
+Name: Alex Stone
+National ID: 764-41-0328
+Bank: Campos-Cohen Bank
+Account Number: 3532817570
+Consent Status: Revoked

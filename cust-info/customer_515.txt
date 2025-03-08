@@ -1,0 +1,6 @@
+Customer ID: 515
+Name: Juan Blackwell
+National ID: 241-73-8334
+Bank: Dean and Sons Bank
+Account Number: 4471725880
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4338
+Name: Shannon Wilson
+National ID: 507-04-5219
+Bank: Ryan and Sons Bank
+Account Number: 7218613399
+Consent Status: Revoked

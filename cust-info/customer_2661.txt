@@ -1,0 +1,6 @@
+Customer ID: 2661
+Name: Christina Sampson
+National ID: 691-40-8400
+Bank: Lopez, Williams and Bruce Bank
+Account Number: 3540997241
+Consent Status: Revoked

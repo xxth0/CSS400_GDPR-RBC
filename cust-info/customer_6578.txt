@@ -1,0 +1,6 @@
+Customer ID: 6578
+Name: Yesenia Barnes
+National ID: 314-80-0163
+Bank: Marquez Ltd Bank
+Account Number: 5496574504
+Consent Status: Granted

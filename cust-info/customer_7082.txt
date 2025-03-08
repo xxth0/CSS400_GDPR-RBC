@@ -1,0 +1,6 @@
+Customer ID: 7082
+Name: Ashley Wood
+National ID: 254-90-9697
+Bank: Romero, Wallace and Owens Bank
+Account Number: 8338427746
+Consent Status: Granted

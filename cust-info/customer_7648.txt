@@ -1,0 +1,6 @@
+Customer ID: 7648
+Name: Amy Garcia
+National ID: 881-29-2771
+Bank: Martinez-Hayden Bank
+Account Number: 2458814507
+Consent Status: Revoked

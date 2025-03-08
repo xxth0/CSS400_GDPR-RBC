@@ -1,0 +1,6 @@
+Customer ID: 6604
+Name: Kelly Bell
+National ID: 660-30-3291
+Bank: Wallace-Holmes Bank
+Account Number: 7667160453
+Consent Status: Granted

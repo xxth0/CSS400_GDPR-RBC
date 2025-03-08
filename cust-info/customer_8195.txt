@@ -1,0 +1,6 @@
+Customer ID: 8195
+Name: Nicholas Perez
+National ID: 802-17-6329
+Bank: Lowery, Mccann and Mcgrath Bank
+Account Number: 3519099128
+Consent Status: Granted

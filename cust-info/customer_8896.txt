@@ -1,0 +1,6 @@
+Customer ID: 8896
+Name: Erin Bautista
+National ID: 330-89-3777
+Bank: Cordova Ltd Bank
+Account Number: 1327005166
+Consent Status: Granted

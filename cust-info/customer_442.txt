@@ -1,0 +1,6 @@
+Customer ID: 442
+Name: David Wright
+National ID: 877-47-9643
+Bank: Cohen, Brown and Martin Bank
+Account Number: 5274552702
+Consent Status: Revoked

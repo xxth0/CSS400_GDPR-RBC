@@ -1,0 +1,6 @@
+Customer ID: 4936
+Name: Katie Bates
+National ID: 078-25-6789
+Bank: Horn Inc Bank
+Account Number: 1313553713
+Consent Status: Revoked

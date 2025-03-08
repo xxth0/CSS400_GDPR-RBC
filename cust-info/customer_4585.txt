@@ -1,0 +1,6 @@
+Customer ID: 4585
+Name: Kari Watson
+National ID: 845-10-2493
+Bank: Diaz-Mitchell Bank
+Account Number: 8209772983
+Consent Status: Revoked

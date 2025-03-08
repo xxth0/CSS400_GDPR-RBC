@@ -1,0 +1,6 @@
+Customer ID: 4596
+Name: Richard Singleton
+National ID: 232-33-0473
+Bank: Schaefer Inc Bank
+Account Number: 2233355987
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1642
+Name: Christopher Walker
+National ID: 320-83-9976
+Bank: Tanner-Warren Bank
+Account Number: 1553019474
+Consent Status: Revoked

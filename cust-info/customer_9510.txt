@@ -1,0 +1,6 @@
+Customer ID: 9510
+Name: Kenneth Long
+National ID: 897-22-3784
+Bank: Solis, Jenkins and Bass Bank
+Account Number: 5798716951
+Consent Status: Revoked

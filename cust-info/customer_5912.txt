@@ -1,0 +1,6 @@
+Customer ID: 5912
+Name: Amy Kirk
+National ID: 631-29-9921
+Bank: Dunn PLC Bank
+Account Number: 5755299597
+Consent Status: Revoked

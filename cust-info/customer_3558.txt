@@ -1,0 +1,6 @@
+Customer ID: 3558
+Name: Bonnie Lopez
+National ID: 319-70-2360
+Bank: Good and Sons Bank
+Account Number: 9020639149
+Consent Status: Granted

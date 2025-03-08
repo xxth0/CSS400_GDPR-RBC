@@ -1,0 +1,6 @@
+Customer ID: 7787
+Name: Katherine Santiago
+National ID: 006-15-4874
+Bank: White-Brown Bank
+Account Number: 9965010224
+Consent Status: Revoked

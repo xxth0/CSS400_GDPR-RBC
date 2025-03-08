@@ -1,0 +1,6 @@
+Customer ID: 8928
+Name: David Patel
+National ID: 723-20-3127
+Bank: Phillips LLC Bank
+Account Number: 7586398374
+Consent Status: Revoked

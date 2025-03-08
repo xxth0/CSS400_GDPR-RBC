@@ -1,0 +1,6 @@
+Customer ID: 2611
+Name: Rodney Garrett
+National ID: 043-31-8983
+Bank: Rangel Group Bank
+Account Number: 5144615344
+Consent Status: Granted

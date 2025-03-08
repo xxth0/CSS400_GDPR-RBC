@@ -1,0 +1,6 @@
+Customer ID: 2328
+Name: Justin Sims
+National ID: 542-17-4766
+Bank: Robinson PLC Bank
+Account Number: 3004602356
+Consent Status: Revoked

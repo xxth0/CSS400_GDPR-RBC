@@ -1,0 +1,6 @@
+Customer ID: 1344
+Name: Nina Carr PhD
+National ID: 288-18-4878
+Bank: Miller, Blackwell and Gray Bank
+Account Number: 3182488341
+Consent Status: Revoked

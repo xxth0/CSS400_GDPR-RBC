@@ -1,0 +1,6 @@
+Customer ID: 541
+Name: Stanley Rios
+National ID: 862-38-6284
+Bank: Grimes, Hayes and Jennings Bank
+Account Number: 5976390011
+Consent Status: Revoked

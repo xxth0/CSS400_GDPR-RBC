@@ -1,0 +1,6 @@
+Customer ID: 4580
+Name: Justin Nelson
+National ID: 779-41-8876
+Bank: Martinez LLC Bank
+Account Number: 9280175620
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6639
+Name: Nicole Wilson
+National ID: 768-72-5612
+Bank: Gonzalez-Holloway Bank
+Account Number: 8857177870
+Consent Status: Granted

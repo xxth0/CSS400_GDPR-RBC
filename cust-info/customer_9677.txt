@@ -1,0 +1,6 @@
+Customer ID: 9677
+Name: David Martin
+National ID: 722-06-5069
+Bank: Yoder-Cruz Bank
+Account Number: 1103487402
+Consent Status: Revoked

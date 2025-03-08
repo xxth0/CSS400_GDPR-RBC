@@ -1,0 +1,6 @@
+Customer ID: 9715
+Name: Michael Smith
+National ID: 125-05-1727
+Bank: Parker LLC Bank
+Account Number: 6059592112
+Consent Status: Revoked

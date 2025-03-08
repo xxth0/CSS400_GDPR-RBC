@@ -1,0 +1,6 @@
+Customer ID: 517
+Name: Lindsey Banks
+National ID: 679-64-8442
+Bank: Wilson-Lara Bank
+Account Number: 8230839263
+Consent Status: Granted

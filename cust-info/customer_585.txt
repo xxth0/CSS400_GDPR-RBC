@@ -1,0 +1,6 @@
+Customer ID: 585
+Name: Austin Williamson
+National ID: 088-79-5042
+Bank: Casey, Graves and Anderson Bank
+Account Number: 8055662979
+Consent Status: Revoked

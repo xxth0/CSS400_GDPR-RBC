@@ -1,0 +1,6 @@
+Customer ID: 7989
+Name: Robert Huerta
+National ID: 814-96-1327
+Bank: Stark-Price Bank
+Account Number: 2290204011
+Consent Status: Granted

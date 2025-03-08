@@ -1,0 +1,6 @@
+Customer ID: 9877
+Name: Christopher Baker
+National ID: 346-58-5132
+Bank: Malone, Cook and Fisher Bank
+Account Number: 2070895825
+Consent Status: Granted

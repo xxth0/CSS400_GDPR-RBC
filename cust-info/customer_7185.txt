@@ -1,0 +1,6 @@
+Customer ID: 7185
+Name: Craig Lawrence
+National ID: 744-32-0926
+Bank: Reed LLC Bank
+Account Number: 5059046332
+Consent Status: Granted

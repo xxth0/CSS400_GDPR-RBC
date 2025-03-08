@@ -1,0 +1,6 @@
+Customer ID: 2935
+Name: Misty Riley
+National ID: 093-42-8995
+Bank: Duncan, Bradford and Hall Bank
+Account Number: 3147241587
+Consent Status: Granted

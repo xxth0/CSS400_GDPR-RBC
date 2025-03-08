@@ -1,0 +1,6 @@
+Customer ID: 3137
+Name: Austin Hernandez
+National ID: 700-05-5202
+Bank: Rhodes PLC Bank
+Account Number: 4550253809
+Consent Status: Granted

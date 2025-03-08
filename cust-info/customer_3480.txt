@@ -1,0 +1,6 @@
+Customer ID: 3480
+Name: Peter Collins
+National ID: 415-38-4291
+Bank: Tate, Villanueva and Allen Bank
+Account Number: 8484803417
+Consent Status: Granted

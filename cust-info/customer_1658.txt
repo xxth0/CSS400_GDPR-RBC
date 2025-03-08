@@ -1,0 +1,6 @@
+Customer ID: 1658
+Name: Melissa Jordan
+National ID: 159-46-7211
+Bank: Bradley LLC Bank
+Account Number: 6952108952
+Consent Status: Revoked

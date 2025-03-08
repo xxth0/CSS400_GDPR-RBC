@@ -1,0 +1,6 @@
+Customer ID: 8002
+Name: Laura Martin
+National ID: 740-84-0003
+Bank: Smith, Estes and Hess Bank
+Account Number: 8421305640
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1348
+Name: Wayne Rodriguez
+National ID: 201-28-8294
+Bank: Cantu, Clay and Smith Bank
+Account Number: 4281648194
+Consent Status: Granted

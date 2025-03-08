@@ -1,0 +1,6 @@
+Customer ID: 3918
+Name: Seth Hogan
+National ID: 065-17-4047
+Bank: Reyes Ltd Bank
+Account Number: 7411082526
+Consent Status: Revoked

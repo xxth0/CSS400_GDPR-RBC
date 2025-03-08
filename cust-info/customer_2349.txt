@@ -1,0 +1,6 @@
+Customer ID: 2349
+Name: Joseph Fischer
+National ID: 285-65-4042
+Bank: Parrish and Sons Bank
+Account Number: 3057832358
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1952
+Name: Katie Grant
+National ID: 526-29-9177
+Bank: Collins PLC Bank
+Account Number: 9270029985
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4410
+Name: James Bailey
+National ID: 028-57-3461
+Bank: Weaver LLC Bank
+Account Number: 9583040827
+Consent Status: Granted

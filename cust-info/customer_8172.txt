@@ -1,0 +1,6 @@
+Customer ID: 8172
+Name: Rebekah King
+National ID: 827-97-3404
+Bank: Dixon and Sons Bank
+Account Number: 2423215645
+Consent Status: Revoked

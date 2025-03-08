@@ -1,0 +1,6 @@
+Customer ID: 6266
+Name: Christina Brown
+National ID: 798-24-3715
+Bank: Kennedy-Christensen Bank
+Account Number: 1420352045
+Consent Status: Revoked

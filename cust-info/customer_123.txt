@@ -1,0 +1,6 @@
+Customer ID: 123
+Name: Leah Fields
+National ID: 188-14-2593
+Bank: Adams, Johnson and West Bank
+Account Number: 7995025193
+Consent Status: Granted

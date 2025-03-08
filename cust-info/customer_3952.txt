@@ -1,0 +1,6 @@
+Customer ID: 3952
+Name: Adrienne Davis
+National ID: 783-32-7540
+Bank: Short-Moore Bank
+Account Number: 9857986604
+Consent Status: Revoked

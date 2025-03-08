@@ -1,0 +1,6 @@
+Customer ID: 8806
+Name: Katie Lam
+National ID: 136-75-8666
+Bank: Lutz, Bautista and Baker Bank
+Account Number: 3745316150
+Consent Status: Revoked

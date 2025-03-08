@@ -1,0 +1,6 @@
+Customer ID: 1280
+Name: Cindy Buchanan
+National ID: 668-99-1912
+Bank: Prince Inc Bank
+Account Number: 5346254505
+Consent Status: Revoked

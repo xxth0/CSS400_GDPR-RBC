@@ -1,0 +1,6 @@
+Customer ID: 7398
+Name: Craig Walsh
+National ID: 498-07-8616
+Bank: Patton, Clark and Chen Bank
+Account Number: 3315247018
+Consent Status: Revoked

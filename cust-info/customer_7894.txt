@@ -1,0 +1,6 @@
+Customer ID: 7894
+Name: Michael Price
+National ID: 678-95-6732
+Bank: Crawford PLC Bank
+Account Number: 6130000673
+Consent Status: Granted

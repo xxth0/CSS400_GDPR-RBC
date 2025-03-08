@@ -1,0 +1,6 @@
+Customer ID: 2750
+Name: Monica Herman
+National ID: 661-50-1833
+Bank: Lin LLC Bank
+Account Number: 6639565208
+Consent Status: Granted

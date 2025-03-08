@@ -1,0 +1,6 @@
+Customer ID: 5908
+Name: William Young
+National ID: 472-78-4639
+Bank: Evans, Gonzalez and Hall Bank
+Account Number: 9186946938
+Consent Status: Granted

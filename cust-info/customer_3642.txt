@@ -1,0 +1,6 @@
+Customer ID: 3642
+Name: Michael Anderson
+National ID: 134-46-3986
+Bank: Trevino, Patel and Yu Bank
+Account Number: 9621155577
+Consent Status: Revoked

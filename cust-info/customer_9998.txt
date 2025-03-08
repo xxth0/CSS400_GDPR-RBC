@@ -1,0 +1,6 @@
+Customer ID: 9998
+Name: Linda Johnson
+National ID: 157-47-7533
+Bank: Duncan and Sons Bank
+Account Number: 1593872397
+Consent Status: Granted

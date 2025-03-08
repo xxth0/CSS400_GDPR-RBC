@@ -1,0 +1,6 @@
+Customer ID: 5786
+Name: Alicia Sanchez
+National ID: 612-37-6482
+Bank: Powell-Nunez Bank
+Account Number: 9680119116
+Consent Status: Revoked

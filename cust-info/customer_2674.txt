@@ -1,0 +1,6 @@
+Customer ID: 2674
+Name: Beth Shaw
+National ID: 830-84-9498
+Bank: Nichols LLC Bank
+Account Number: 7212105547
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5226
+Name: Amy Garcia
+National ID: 450-96-2754
+Bank: Clark and Sons Bank
+Account Number: 4469465657
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8301
+Name: Christine Butler
+National ID: 087-25-5309
+Bank: Hughes, Bell and Harrison Bank
+Account Number: 1343526173
+Consent Status: Granted

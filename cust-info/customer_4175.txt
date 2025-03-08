@@ -1,0 +1,6 @@
+Customer ID: 4175
+Name: Jamie Martinez
+National ID: 502-81-7649
+Bank: Wiggins LLC Bank
+Account Number: 7019475499
+Consent Status: Granted

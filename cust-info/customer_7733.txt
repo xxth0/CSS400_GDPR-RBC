@@ -1,0 +1,6 @@
+Customer ID: 7733
+Name: Jeffrey Macdonald
+National ID: 389-09-0882
+Bank: Velazquez PLC Bank
+Account Number: 1813187113
+Consent Status: Revoked

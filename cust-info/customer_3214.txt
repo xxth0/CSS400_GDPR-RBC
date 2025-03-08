@@ -1,0 +1,6 @@
+Customer ID: 3214
+Name: Maria Li
+National ID: 895-03-6925
+Bank: Torres-Huber Bank
+Account Number: 5213936120
+Consent Status: Granted

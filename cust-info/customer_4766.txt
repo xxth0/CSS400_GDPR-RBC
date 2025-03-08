@@ -1,0 +1,6 @@
+Customer ID: 4766
+Name: Nicole Wise
+National ID: 579-16-9077
+Bank: Vega, Ellis and Baker Bank
+Account Number: 4007368157
+Consent Status: Revoked

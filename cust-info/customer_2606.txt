@@ -1,0 +1,6 @@
+Customer ID: 2606
+Name: Carlos Miller
+National ID: 739-92-4083
+Bank: Brooks-Johnson Bank
+Account Number: 9945378682
+Consent Status: Revoked

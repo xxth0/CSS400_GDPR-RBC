@@ -1,0 +1,6 @@
+Customer ID: 5645
+Name: Andrew Rose
+National ID: 645-71-6287
+Bank: Clark Group Bank
+Account Number: 1655164301
+Consent Status: Revoked

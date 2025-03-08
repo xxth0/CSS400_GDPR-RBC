@@ -1,0 +1,6 @@
+Customer ID: 3308
+Name: Andrew Hubbard
+National ID: 077-93-8286
+Bank: White-Ruiz Bank
+Account Number: 5052216475
+Consent Status: Revoked

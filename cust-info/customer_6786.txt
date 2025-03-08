@@ -1,0 +1,6 @@
+Customer ID: 6786
+Name: Tammy Patterson
+National ID: 564-02-2217
+Bank: Nelson-Snyder Bank
+Account Number: 2782517574
+Consent Status: Granted

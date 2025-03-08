@@ -1,0 +1,6 @@
+Customer ID: 5191
+Name: James Cunningham
+National ID: 274-37-8829
+Bank: Scott Group Bank
+Account Number: 5051238850
+Consent Status: Revoked

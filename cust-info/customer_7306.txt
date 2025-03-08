@@ -1,0 +1,6 @@
+Customer ID: 7306
+Name: Rebecca Smith
+National ID: 425-59-1053
+Bank: Johnson and Sons Bank
+Account Number: 3998195387
+Consent Status: Revoked

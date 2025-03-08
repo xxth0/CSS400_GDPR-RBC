@@ -1,0 +1,6 @@
+Customer ID: 5836
+Name: Kimberly Ayala
+National ID: 219-69-0594
+Bank: Sherman, Fisher and Wu Bank
+Account Number: 5996832040
+Consent Status: Revoked

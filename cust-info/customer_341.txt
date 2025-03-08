@@ -1,0 +1,6 @@
+Customer ID: 341
+Name: Aaron Turner
+National ID: 330-43-3360
+Bank: Trevino, Park and Reed Bank
+Account Number: 9116692223
+Consent Status: Granted

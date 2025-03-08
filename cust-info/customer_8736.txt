@@ -1,0 +1,6 @@
+Customer ID: 8736
+Name: Charles Novak
+National ID: 246-18-7706
+Bank: Shelton, Gallegos and Roman Bank
+Account Number: 5559766937
+Consent Status: Granted

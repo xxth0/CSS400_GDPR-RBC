@@ -1,0 +1,6 @@
+Customer ID: 3985
+Name: Susan Pittman
+National ID: 237-60-9707
+Bank: Orozco, Henderson and Cardenas Bank
+Account Number: 9092796502
+Consent Status: Granted

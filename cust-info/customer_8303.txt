@@ -1,0 +1,6 @@
+Customer ID: 8303
+Name: Nicholas Dillon
+National ID: 204-55-0782
+Bank: Collins-Brown Bank
+Account Number: 9259035427
+Consent Status: Granted

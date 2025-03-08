@@ -1,0 +1,6 @@
+Customer ID: 4050
+Name: Christopher Kelly
+National ID: 341-01-2477
+Bank: Perez, Gilbert and Johnson Bank
+Account Number: 6544295698
+Consent Status: Revoked

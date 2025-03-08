@@ -1,0 +1,6 @@
+Customer ID: 6006
+Name: Kristen Davis
+National ID: 789-13-6903
+Bank: Camacho, Bradford and Wyatt Bank
+Account Number: 7873346693
+Consent Status: Revoked

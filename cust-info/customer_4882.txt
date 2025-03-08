@@ -1,0 +1,6 @@
+Customer ID: 4882
+Name: Keith Brown
+National ID: 113-62-7979
+Bank: Lewis-Marshall Bank
+Account Number: 8266607680
+Consent Status: Granted

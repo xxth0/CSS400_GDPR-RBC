@@ -1,0 +1,6 @@
+Customer ID: 8998
+Name: Richard Murphy
+National ID: 731-05-8336
+Bank: Murray-Cummings Bank
+Account Number: 1330783409
+Consent Status: Granted

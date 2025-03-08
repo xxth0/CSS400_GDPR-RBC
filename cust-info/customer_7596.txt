@@ -1,0 +1,6 @@
+Customer ID: 7596
+Name: Melissa Thornton
+National ID: 383-05-8676
+Bank: Ritter LLC Bank
+Account Number: 5953379942
+Consent Status: Granted

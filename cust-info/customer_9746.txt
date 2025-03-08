@@ -1,0 +1,6 @@
+Customer ID: 9746
+Name: Angel Stewart
+National ID: 339-38-2561
+Bank: Mitchell Inc Bank
+Account Number: 5951340168
+Consent Status: Granted

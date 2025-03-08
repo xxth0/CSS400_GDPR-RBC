@@ -1,0 +1,6 @@
+Customer ID: 6287
+Name: Dustin Hines
+National ID: 630-89-4779
+Bank: Schneider-Lynn Bank
+Account Number: 5626289320
+Consent Status: Revoked

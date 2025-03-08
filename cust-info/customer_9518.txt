@@ -1,0 +1,6 @@
+Customer ID: 9518
+Name: Laura Marsh
+National ID: 004-94-1576
+Bank: Williams LLC Bank
+Account Number: 5532497335
+Consent Status: Revoked

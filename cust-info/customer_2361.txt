@@ -1,0 +1,6 @@
+Customer ID: 2361
+Name: Connie Schwartz
+National ID: 127-38-7199
+Bank: Taylor Inc Bank
+Account Number: 5045885322
+Consent Status: Revoked

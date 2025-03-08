@@ -1,0 +1,6 @@
+Customer ID: 8261
+Name: Steven Dunlap
+National ID: 102-59-7565
+Bank: Koch LLC Bank
+Account Number: 9957753228
+Consent Status: Granted

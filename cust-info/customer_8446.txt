@@ -1,0 +1,6 @@
+Customer ID: 8446
+Name: Kenneth Hammond
+National ID: 730-01-6907
+Bank: Ray, Richardson and Webb Bank
+Account Number: 6632048863
+Consent Status: Granted

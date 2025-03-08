@@ -1,0 +1,6 @@
+Customer ID: 7234
+Name: Julie Hoffman
+National ID: 232-30-5212
+Bank: Payne, Jenkins and Waters Bank
+Account Number: 9610268104
+Consent Status: Revoked

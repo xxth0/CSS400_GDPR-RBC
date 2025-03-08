@@ -1,0 +1,6 @@
+Customer ID: 7096
+Name: Barbara Brown
+National ID: 662-51-0729
+Bank: Mcdaniel PLC Bank
+Account Number: 2919417526
+Consent Status: Granted

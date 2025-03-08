@@ -1,0 +1,6 @@
+Customer ID: 6238
+Name: Ronald Olsen
+National ID: 362-44-5135
+Bank: Morrison PLC Bank
+Account Number: 9879911267
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9116
+Name: Joshua Davis
+National ID: 098-03-9643
+Bank: Lambert Ltd Bank
+Account Number: 1625989483
+Consent Status: Revoked

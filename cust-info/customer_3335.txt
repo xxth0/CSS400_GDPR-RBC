@@ -1,0 +1,6 @@
+Customer ID: 3335
+Name: Valerie Clark
+National ID: 520-87-1399
+Bank: Moore-Johnson Bank
+Account Number: 1298899566
+Consent Status: Revoked

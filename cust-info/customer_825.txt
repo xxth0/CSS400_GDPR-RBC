@@ -1,0 +1,6 @@
+Customer ID: 825
+Name: Darlene Reynolds
+National ID: 177-17-5503
+Bank: Patel PLC Bank
+Account Number: 4057116735
+Consent Status: Revoked

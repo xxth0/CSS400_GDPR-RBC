@@ -1,0 +1,6 @@
+Customer ID: 3820
+Name: Erik Kelly
+National ID: 044-62-9627
+Bank: White, Moore and Williams Bank
+Account Number: 3760977775
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7970
+Name: Deborah Lopez
+National ID: 194-88-5217
+Bank: Russell, Craig and White Bank
+Account Number: 8000279510
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5601
+Name: Catherine Medina
+National ID: 503-63-4206
+Bank: Murphy LLC Bank
+Account Number: 4473436304
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3775
+Name: Jeremy Jones
+National ID: 833-09-9984
+Bank: Vaughn PLC Bank
+Account Number: 7820995195
+Consent Status: Granted

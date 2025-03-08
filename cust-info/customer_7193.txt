@@ -1,0 +1,6 @@
+Customer ID: 7193
+Name: Joe Floyd
+National ID: 733-09-5601
+Bank: Davis-Webster Bank
+Account Number: 4423092487
+Consent Status: Revoked

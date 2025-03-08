@@ -1,0 +1,6 @@
+Customer ID: 6655
+Name: Zachary Campos
+National ID: 519-67-6132
+Bank: Salazar, Berry and Casey Bank
+Account Number: 2935462073
+Consent Status: Revoked

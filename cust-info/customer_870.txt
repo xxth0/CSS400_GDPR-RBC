@@ -1,0 +1,6 @@
+Customer ID: 870
+Name: Jill Barber
+National ID: 335-02-0421
+Bank: Terry-Peterson Bank
+Account Number: 2453336509
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8121
+Name: Marcus Golden
+National ID: 642-45-1915
+Bank: Johnson-Williams Bank
+Account Number: 8547996357
+Consent Status: Revoked

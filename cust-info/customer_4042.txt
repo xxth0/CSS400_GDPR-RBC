@@ -1,0 +1,6 @@
+Customer ID: 4042
+Name: Norma Ferguson
+National ID: 683-70-8478
+Bank: Mason, Huynh and Stephens Bank
+Account Number: 8788682326
+Consent Status: Granted

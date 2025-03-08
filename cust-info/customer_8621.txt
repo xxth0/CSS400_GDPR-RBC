@@ -1,0 +1,6 @@
+Customer ID: 8621
+Name: Elizabeth Johnson
+National ID: 674-34-5748
+Bank: Martin-Brown Bank
+Account Number: 1784491088
+Consent Status: Granted

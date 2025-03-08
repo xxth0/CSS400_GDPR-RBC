@@ -1,0 +1,6 @@
+Customer ID: 6706
+Name: Amy Brown
+National ID: 423-71-4093
+Bank: Pitts, Butler and Hensley Bank
+Account Number: 2139559938
+Consent Status: Revoked

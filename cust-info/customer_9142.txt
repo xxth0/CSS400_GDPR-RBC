@@ -1,0 +1,6 @@
+Customer ID: 9142
+Name: Victor Carroll
+National ID: 433-76-6953
+Bank: Haynes, Nelson and Lewis Bank
+Account Number: 2389914515
+Consent Status: Revoked

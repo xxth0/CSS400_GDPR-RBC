@@ -1,0 +1,6 @@
+Customer ID: 7149
+Name: Elizabeth Barnes
+National ID: 054-99-8916
+Bank: Lopez-Campbell Bank
+Account Number: 8567762433
+Consent Status: Granted

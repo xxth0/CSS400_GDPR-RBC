@@ -1,0 +1,6 @@
+Customer ID: 2994
+Name: Kimberly Smith
+National ID: 542-67-5609
+Bank: Avila Ltd Bank
+Account Number: 1538562094
+Consent Status: Revoked

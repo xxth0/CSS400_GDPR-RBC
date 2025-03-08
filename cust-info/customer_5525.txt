@@ -1,0 +1,6 @@
+Customer ID: 5525
+Name: Ronnie Mclean
+National ID: 412-82-8411
+Bank: Richardson, Russell and Smith Bank
+Account Number: 5807916121
+Consent Status: Granted

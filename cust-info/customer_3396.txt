@@ -1,0 +1,6 @@
+Customer ID: 3396
+Name: Dr. Sandra Coleman
+National ID: 234-19-6037
+Bank: Durham Inc Bank
+Account Number: 9360220427
+Consent Status: Granted

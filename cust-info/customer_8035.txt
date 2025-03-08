@@ -1,0 +1,6 @@
+Customer ID: 8035
+Name: Aaron Roberts
+National ID: 192-50-5080
+Bank: Jones Ltd Bank
+Account Number: 5534268936
+Consent Status: Revoked

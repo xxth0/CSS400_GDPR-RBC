@@ -1,0 +1,6 @@
+Customer ID: 8264
+Name: Denise Pena
+National ID: 015-55-4400
+Bank: Tate-Mitchell Bank
+Account Number: 3291409733
+Consent Status: Revoked

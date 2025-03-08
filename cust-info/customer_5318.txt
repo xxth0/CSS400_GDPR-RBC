@@ -1,0 +1,6 @@
+Customer ID: 5318
+Name: Ricky Byrd
+National ID: 037-63-8899
+Bank: West and Sons Bank
+Account Number: 8264776403
+Consent Status: Granted

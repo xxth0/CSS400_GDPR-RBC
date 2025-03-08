@@ -1,0 +1,6 @@
+Customer ID: 626
+Name: John Morgan
+National ID: 588-88-6101
+Bank: Wilson-Hernandez Bank
+Account Number: 5213371473
+Consent Status: Revoked

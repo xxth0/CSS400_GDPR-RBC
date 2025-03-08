@@ -1,0 +1,6 @@
+Customer ID: 7902
+Name: Danielle Harris
+National ID: 080-08-9519
+Bank: Decker, Larsen and Reed Bank
+Account Number: 4834673487
+Consent Status: Revoked

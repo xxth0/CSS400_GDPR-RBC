@@ -1,0 +1,6 @@
+Customer ID: 2000
+Name: Leon Barron
+National ID: 812-91-3569
+Bank: Cooper-Brock Bank
+Account Number: 7153627418
+Consent Status: Revoked

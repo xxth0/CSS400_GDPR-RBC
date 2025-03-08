@@ -1,0 +1,6 @@
+Customer ID: 2277
+Name: Katie Hernandez
+National ID: 677-79-4627
+Bank: Ponce PLC Bank
+Account Number: 4550784218
+Consent Status: Revoked

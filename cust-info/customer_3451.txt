@@ -1,0 +1,6 @@
+Customer ID: 3451
+Name: Melanie Nash
+National ID: 859-14-0084
+Bank: Edwards PLC Bank
+Account Number: 6970140610
+Consent Status: Granted

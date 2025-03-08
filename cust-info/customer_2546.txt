@@ -1,0 +1,6 @@
+Customer ID: 2546
+Name: Daniel Mendoza
+National ID: 402-94-5579
+Bank: Morales, Ingram and Harrison Bank
+Account Number: 9970820848
+Consent Status: Granted

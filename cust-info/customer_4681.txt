@@ -1,0 +1,6 @@
+Customer ID: 4681
+Name: Matthew Trujillo
+National ID: 616-94-3459
+Bank: Smith Group Bank
+Account Number: 8543687573
+Consent Status: Granted

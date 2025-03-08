@@ -1,0 +1,6 @@
+Customer ID: 6823
+Name: Matthew Braun
+National ID: 251-89-2963
+Bank: Moore, Poole and Baxter Bank
+Account Number: 3525077375
+Consent Status: Revoked

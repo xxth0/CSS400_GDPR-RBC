@@ -1,0 +1,6 @@
+Customer ID: 9781
+Name: James David
+National ID: 140-71-0779
+Bank: Fletcher and Sons Bank
+Account Number: 8062031856
+Consent Status: Granted

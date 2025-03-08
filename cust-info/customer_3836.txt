@@ -1,0 +1,6 @@
+Customer ID: 3836
+Name: Donald Garcia
+National ID: 086-21-7605
+Bank: Pennington Ltd Bank
+Account Number: 3651824418
+Consent Status: Granted

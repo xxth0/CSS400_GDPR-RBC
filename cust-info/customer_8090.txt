@@ -1,0 +1,6 @@
+Customer ID: 8090
+Name: Paul Powers
+National ID: 300-04-9126
+Bank: Todd PLC Bank
+Account Number: 9600616108
+Consent Status: Granted

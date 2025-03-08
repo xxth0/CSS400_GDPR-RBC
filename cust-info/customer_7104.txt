@@ -1,0 +1,6 @@
+Customer ID: 7104
+Name: Karen Walker
+National ID: 460-17-6513
+Bank: Hale and Sons Bank
+Account Number: 6087748241
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2676
+Name: Anna Porter
+National ID: 450-72-0230
+Bank: Sanchez-Davis Bank
+Account Number: 4398390761
+Consent Status: Revoked

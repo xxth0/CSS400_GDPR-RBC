@@ -1,0 +1,6 @@
+Customer ID: 4027
+Name: Jennifer Wheeler
+National ID: 427-29-4172
+Bank: Curtis, Edwards and Cole Bank
+Account Number: 7459198759
+Consent Status: Granted

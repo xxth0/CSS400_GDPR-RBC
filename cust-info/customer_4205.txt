@@ -1,0 +1,6 @@
+Customer ID: 4205
+Name: John Johnson
+National ID: 050-26-5573
+Bank: Johnson LLC Bank
+Account Number: 3732540525
+Consent Status: Revoked

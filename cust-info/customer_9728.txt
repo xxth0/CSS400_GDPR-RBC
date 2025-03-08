@@ -1,0 +1,6 @@
+Customer ID: 9728
+Name: Ana Butler
+National ID: 462-57-3381
+Bank: Miller, Singh and Johnson Bank
+Account Number: 5235570578
+Consent Status: Granted

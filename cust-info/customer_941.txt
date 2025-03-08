@@ -1,0 +1,6 @@
+Customer ID: 941
+Name: James Phillips
+National ID: 094-77-5392
+Bank: Smith, Larson and Tucker Bank
+Account Number: 6232122388
+Consent Status: Revoked

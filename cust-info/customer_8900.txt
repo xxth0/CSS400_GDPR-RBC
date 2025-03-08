@@ -1,0 +1,6 @@
+Customer ID: 8900
+Name: Ashley Newton
+National ID: 197-90-9279
+Bank: Martinez PLC Bank
+Account Number: 4945226719
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7741
+Name: Veronica Rice
+National ID: 590-85-5651
+Bank: Bell-Taylor Bank
+Account Number: 2046231261
+Consent Status: Granted

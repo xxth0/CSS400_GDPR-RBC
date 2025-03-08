@@ -1,0 +1,6 @@
+Customer ID: 3404
+Name: Sharon Martinez
+National ID: 311-58-2512
+Bank: Roberts-Nguyen Bank
+Account Number: 1973453613
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8479
+Name: John Rose
+National ID: 467-76-0504
+Bank: Jones, Walker and Rice Bank
+Account Number: 4207839515
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 105
+Name: Joseph Elliott
+National ID: 522-83-1462
+Bank: Perez Inc Bank
+Account Number: 5714156344
+Consent Status: Granted

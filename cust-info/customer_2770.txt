@@ -1,0 +1,6 @@
+Customer ID: 2770
+Name: Emily Brown
+National ID: 555-33-1511
+Bank: Ellis Ltd Bank
+Account Number: 3349400693
+Consent Status: Granted

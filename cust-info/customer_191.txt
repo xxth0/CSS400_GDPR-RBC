@@ -1,0 +1,6 @@
+Customer ID: 191
+Name: Stephanie Thompson
+National ID: 867-86-8243
+Bank: King and Sons Bank
+Account Number: 1111557544
+Consent Status: Granted

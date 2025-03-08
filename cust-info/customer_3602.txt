@@ -1,0 +1,6 @@
+Customer ID: 3602
+Name: Jonathan Weiss
+National ID: 192-68-8143
+Bank: Herman, Rodriguez and Barnes Bank
+Account Number: 4803535520
+Consent Status: Revoked

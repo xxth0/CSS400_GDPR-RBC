@@ -1,0 +1,6 @@
+Customer ID: 9486
+Name: Dave Strickland
+National ID: 224-97-3161
+Bank: Sullivan-Moore Bank
+Account Number: 4824187166
+Consent Status: Revoked

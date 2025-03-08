@@ -1,0 +1,6 @@
+Customer ID: 8085
+Name: Raymond Mcclain
+National ID: 395-42-7784
+Bank: Peters-Orozco Bank
+Account Number: 5194668168
+Consent Status: Granted

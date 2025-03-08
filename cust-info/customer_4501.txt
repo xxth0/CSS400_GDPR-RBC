@@ -1,0 +1,6 @@
+Customer ID: 4501
+Name: Derek White
+National ID: 471-88-8792
+Bank: Clark Group Bank
+Account Number: 4198194729
+Consent Status: Revoked

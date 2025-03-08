@@ -1,0 +1,6 @@
+Customer ID: 2312
+Name: Brian Jones
+National ID: 279-12-4106
+Bank: Patton Group Bank
+Account Number: 8169046038
+Consent Status: Revoked

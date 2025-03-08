@@ -1,0 +1,6 @@
+Customer ID: 1465
+Name: April Wright
+National ID: 095-07-2666
+Bank: Robinson-Wilson Bank
+Account Number: 7541560722
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3205
+Name: James Nelson
+National ID: 549-50-1895
+Bank: Alexander Group Bank
+Account Number: 8616240206
+Consent Status: Revoked

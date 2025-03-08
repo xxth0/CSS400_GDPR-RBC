@@ -1,0 +1,6 @@
+Customer ID: 6520
+Name: Anthony Stewart
+National ID: 447-92-1519
+Bank: Garcia-Mcdonald Bank
+Account Number: 8547066567
+Consent Status: Revoked

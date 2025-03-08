@@ -1,0 +1,6 @@
+Customer ID: 7012
+Name: Rebecca Ford
+National ID: 842-18-3243
+Bank: Scott, Garcia and Lee Bank
+Account Number: 9010986720
+Consent Status: Granted

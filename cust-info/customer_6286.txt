@@ -1,0 +1,6 @@
+Customer ID: 6286
+Name: Joshua Coleman
+National ID: 523-60-2096
+Bank: Duffy, Fisher and Parsons Bank
+Account Number: 7595968521
+Consent Status: Revoked

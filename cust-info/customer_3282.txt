@@ -1,0 +1,6 @@
+Customer ID: 3282
+Name: Teresa Rhodes
+National ID: 158-69-2755
+Bank: Davis-Martinez Bank
+Account Number: 1613809185
+Consent Status: Revoked

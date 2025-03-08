@@ -1,0 +1,6 @@
+Customer ID: 5287
+Name: Brittany Simpson
+National ID: 812-46-9415
+Bank: Diaz-Nichols Bank
+Account Number: 7461606350
+Consent Status: Granted

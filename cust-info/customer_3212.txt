@@ -1,0 +1,6 @@
+Customer ID: 3212
+Name: Amy Martinez
+National ID: 599-03-2210
+Bank: Smith-Underwood Bank
+Account Number: 9235236971
+Consent Status: Granted

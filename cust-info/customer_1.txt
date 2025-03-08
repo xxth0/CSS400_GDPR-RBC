@@ -1,0 +1,6 @@
+Customer ID: 1
+Name: Michael Bailey
+National ID: 662-73-4121
+Bank: Gutierrez, Robinson and Bell Bank
+Account Number: 1003798788
+Consent Status: Revoked

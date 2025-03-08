@@ -1,0 +1,6 @@
+Customer ID: 1541
+Name: James Benjamin
+National ID: 509-58-6698
+Bank: Johnston, Stuart and Hicks Bank
+Account Number: 6287305272
+Consent Status: Revoked

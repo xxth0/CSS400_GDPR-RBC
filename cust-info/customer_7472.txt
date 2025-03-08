@@ -1,0 +1,6 @@
+Customer ID: 7472
+Name: Daniel Morales
+National ID: 783-75-0820
+Bank: Flores, Stout and Johnson Bank
+Account Number: 6587453269
+Consent Status: Revoked

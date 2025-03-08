@@ -1,0 +1,6 @@
+Customer ID: 7340
+Name: Michael Hill
+National ID: 456-16-4674
+Bank: Crawford Inc Bank
+Account Number: 6951023512
+Consent Status: Revoked

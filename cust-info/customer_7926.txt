@@ -1,0 +1,6 @@
+Customer ID: 7926
+Name: Ashley Quinn
+National ID: 392-01-9758
+Bank: Oliver-Jenkins Bank
+Account Number: 8663467755
+Consent Status: Granted

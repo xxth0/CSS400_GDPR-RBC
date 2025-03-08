@@ -1,0 +1,6 @@
+Customer ID: 2445
+Name: Kelly Williamson
+National ID: 103-55-8619
+Bank: Harris, Chavez and Smith Bank
+Account Number: 6476326397
+Consent Status: Granted

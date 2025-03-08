@@ -1,0 +1,6 @@
+Customer ID: 2249
+Name: Lance Howard
+National ID: 402-58-7635
+Bank: Barber Ltd Bank
+Account Number: 8566759517
+Consent Status: Granted

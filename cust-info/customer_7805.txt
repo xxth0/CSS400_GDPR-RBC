@@ -1,0 +1,6 @@
+Customer ID: 7805
+Name: Andrew Morgan
+National ID: 313-63-0732
+Bank: Acevedo-Prince Bank
+Account Number: 6829435217
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6068
+Name: Mary May
+National ID: 047-32-8719
+Bank: Watson, Barr and Barry Bank
+Account Number: 7769481089
+Consent Status: Revoked

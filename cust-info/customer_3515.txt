@@ -1,0 +1,6 @@
+Customer ID: 3515
+Name: Teresa Clark
+National ID: 318-08-8686
+Bank: Griffin-Collier Bank
+Account Number: 5569459611
+Consent Status: Revoked

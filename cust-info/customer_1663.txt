@@ -1,0 +1,6 @@
+Customer ID: 1663
+Name: Aaron Smith
+National ID: 217-33-4439
+Bank: Lambert-Mullins Bank
+Account Number: 9670424585
+Consent Status: Granted

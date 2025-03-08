@@ -1,0 +1,6 @@
+Customer ID: 777
+Name: Steven Myers
+National ID: 557-40-4448
+Bank: Foster, Adkins and Thomas Bank
+Account Number: 5375122227
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6575
+Name: Kimberly Miller
+National ID: 097-71-6336
+Bank: Potter-Edwards Bank
+Account Number: 9188019718
+Consent Status: Revoked

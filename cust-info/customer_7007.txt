@@ -1,0 +1,6 @@
+Customer ID: 7007
+Name: Johnathan Bryan
+National ID: 013-32-0769
+Bank: Butler Inc Bank
+Account Number: 4301387673
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8687
+Name: Sarah Reyes
+National ID: 136-08-2772
+Bank: Zuniga, Johnson and Solomon Bank
+Account Number: 9908444864
+Consent Status: Granted

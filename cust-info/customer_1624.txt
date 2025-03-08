@@ -1,0 +1,6 @@
+Customer ID: 1624
+Name: Justin Dillon
+National ID: 012-23-5471
+Bank: Steele-Thompson Bank
+Account Number: 6457629115
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4355
+Name: Alicia Nguyen PhD
+National ID: 721-81-0800
+Bank: Wood-Stewart Bank
+Account Number: 5334705077
+Consent Status: Revoked

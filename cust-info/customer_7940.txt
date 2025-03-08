@@ -1,0 +1,6 @@
+Customer ID: 7940
+Name: Connie Elliott
+National ID: 270-08-6187
+Bank: Rogers and Sons Bank
+Account Number: 4855321177
+Consent Status: Granted

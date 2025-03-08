@@ -1,0 +1,6 @@
+Customer ID: 4894
+Name: Cindy Williams
+National ID: 597-43-6855
+Bank: Dean Group Bank
+Account Number: 5108008859
+Consent Status: Revoked

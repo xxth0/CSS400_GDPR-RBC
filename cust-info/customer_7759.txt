@@ -1,0 +1,6 @@
+Customer ID: 7759
+Name: Suzanne Torres
+National ID: 743-84-8183
+Bank: Harrison PLC Bank
+Account Number: 7727233799
+Consent Status: Granted

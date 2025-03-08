@@ -1,0 +1,6 @@
+Customer ID: 3937
+Name: Richard Ruiz
+National ID: 092-01-0308
+Bank: Stone Ltd Bank
+Account Number: 2492972055
+Consent Status: Revoked

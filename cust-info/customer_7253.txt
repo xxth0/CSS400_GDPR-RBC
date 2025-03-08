@@ -1,0 +1,6 @@
+Customer ID: 7253
+Name: Jennifer Garcia
+National ID: 632-95-1544
+Bank: Martinez PLC Bank
+Account Number: 1386081809
+Consent Status: Granted

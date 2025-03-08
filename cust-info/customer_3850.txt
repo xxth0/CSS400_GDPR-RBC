@@ -1,0 +1,6 @@
+Customer ID: 3850
+Name: Lisa Cook
+National ID: 886-21-1823
+Bank: Ford-Alexander Bank
+Account Number: 7601355610
+Consent Status: Revoked

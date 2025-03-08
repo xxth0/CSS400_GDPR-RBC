@@ -1,0 +1,6 @@
+Customer ID: 4848
+Name: Paula Lopez
+National ID: 071-55-8606
+Bank: Calderon, Adams and Nelson Bank
+Account Number: 5443168710
+Consent Status: Revoked

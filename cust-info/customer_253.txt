@@ -1,0 +1,6 @@
+Customer ID: 253
+Name: Courtney Strong
+National ID: 542-12-5191
+Bank: Nelson Group Bank
+Account Number: 7359776083
+Consent Status: Revoked

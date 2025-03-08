@@ -1,0 +1,6 @@
+Customer ID: 3174
+Name: Valerie Hamilton
+National ID: 617-52-3818
+Bank: Colon Inc Bank
+Account Number: 8793984969
+Consent Status: Revoked

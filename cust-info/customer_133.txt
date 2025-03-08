@@ -1,0 +1,6 @@
+Customer ID: 133
+Name: Debra Davis
+National ID: 803-01-0176
+Bank: Smith-Simmons Bank
+Account Number: 8003588915
+Consent Status: Revoked

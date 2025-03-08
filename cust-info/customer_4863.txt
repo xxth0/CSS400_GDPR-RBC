@@ -1,0 +1,6 @@
+Customer ID: 4863
+Name: Tiffany Wright
+National ID: 300-60-3065
+Bank: Dickerson, Anderson and Hall Bank
+Account Number: 4297177716
+Consent Status: Revoked

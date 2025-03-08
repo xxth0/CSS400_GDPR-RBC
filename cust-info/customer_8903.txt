@@ -1,0 +1,6 @@
+Customer ID: 8903
+Name: Susan Mcdonald
+National ID: 478-13-7085
+Bank: Taylor Group Bank
+Account Number: 7743317309
+Consent Status: Revoked

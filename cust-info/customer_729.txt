@@ -1,0 +1,6 @@
+Customer ID: 729
+Name: Albert Patel
+National ID: 627-42-4304
+Bank: Camacho, Castro and Jackson Bank
+Account Number: 7814435736
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 760
+Name: Hailey Kidd
+National ID: 429-31-1318
+Bank: Evans LLC Bank
+Account Number: 8615521365
+Consent Status: Granted

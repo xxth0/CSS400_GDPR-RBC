@@ -1,0 +1,6 @@
+Customer ID: 2010
+Name: Rose Anderson
+National ID: 505-92-0425
+Bank: Romero-Villanueva Bank
+Account Number: 3531937005
+Consent Status: Revoked

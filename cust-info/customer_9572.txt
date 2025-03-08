@@ -1,0 +1,6 @@
+Customer ID: 9572
+Name: Joe Gordon
+National ID: 650-92-1023
+Bank: Jensen, Larsen and Williams Bank
+Account Number: 1864289617
+Consent Status: Revoked

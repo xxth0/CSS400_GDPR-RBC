@@ -1,0 +1,6 @@
+Customer ID: 8098
+Name: James Brown
+National ID: 556-59-2078
+Bank: Anderson-Bailey Bank
+Account Number: 1486815175
+Consent Status: Revoked

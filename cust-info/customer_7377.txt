@@ -1,0 +1,6 @@
+Customer ID: 7377
+Name: Kevin Burns
+National ID: 064-19-2379
+Bank: Reid-Brown Bank
+Account Number: 1252313534
+Consent Status: Revoked

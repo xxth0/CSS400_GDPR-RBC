@@ -1,0 +1,6 @@
+Customer ID: 9233
+Name: Adam Williams
+National ID: 695-42-1320
+Bank: Duran Ltd Bank
+Account Number: 6456887757
+Consent Status: Granted

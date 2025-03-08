@@ -1,0 +1,6 @@
+Customer ID: 5713
+Name: Cassandra Gonzalez
+National ID: 669-79-0514
+Bank: Walker-Franco Bank
+Account Number: 4819465786
+Consent Status: Revoked

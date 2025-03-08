@@ -1,0 +1,6 @@
+Customer ID: 6477
+Name: Anthony Johnson
+National ID: 495-45-9500
+Bank: Grant, Vang and Rocha Bank
+Account Number: 1501551877
+Consent Status: Granted

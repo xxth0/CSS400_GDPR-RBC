@@ -1,0 +1,6 @@
+Customer ID: 4908
+Name: Eric Cox
+National ID: 135-78-8553
+Bank: Larsen, Spencer and Krause Bank
+Account Number: 6508614303
+Consent Status: Revoked

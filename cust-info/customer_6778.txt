@@ -1,0 +1,6 @@
+Customer ID: 6778
+Name: John Johnson
+National ID: 803-10-1180
+Bank: Dominguez Ltd Bank
+Account Number: 9378488685
+Consent Status: Granted

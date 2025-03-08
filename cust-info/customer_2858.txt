@@ -1,0 +1,6 @@
+Customer ID: 2858
+Name: Misty Brown
+National ID: 021-59-7069
+Bank: Wong LLC Bank
+Account Number: 3801545955
+Consent Status: Revoked

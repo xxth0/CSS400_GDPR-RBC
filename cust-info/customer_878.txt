@@ -1,0 +1,6 @@
+Customer ID: 878
+Name: Nicole Walker
+National ID: 335-12-8523
+Bank: Carter and Sons Bank
+Account Number: 3004903035
+Consent Status: Granted

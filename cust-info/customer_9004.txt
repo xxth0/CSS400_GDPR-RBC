@@ -1,0 +1,6 @@
+Customer ID: 9004
+Name: Donna Hardy
+National ID: 187-77-2881
+Bank: Martinez-Wilson Bank
+Account Number: 5557171160
+Consent Status: Revoked

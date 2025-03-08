@@ -1,0 +1,6 @@
+Customer ID: 38
+Name: Juan Hernandez
+National ID: 670-69-0604
+Bank: Adams, Smith and Turner Bank
+Account Number: 3188108586
+Consent Status: Revoked

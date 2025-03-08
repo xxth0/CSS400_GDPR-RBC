@@ -1,0 +1,6 @@
+Customer ID: 394
+Name: Misty Scott
+National ID: 532-29-5943
+Bank: Craig and Sons Bank
+Account Number: 3009236853
+Consent Status: Revoked

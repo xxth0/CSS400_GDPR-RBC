@@ -1,0 +1,6 @@
+Customer ID: 6230
+Name: Jonathan Campbell
+National ID: 210-96-0630
+Bank: Morris Ltd Bank
+Account Number: 9377369743
+Consent Status: Granted

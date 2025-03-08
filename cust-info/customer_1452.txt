@@ -1,0 +1,6 @@
+Customer ID: 1452
+Name: Mark Chen
+National ID: 746-29-2517
+Bank: Walker-Lindsey Bank
+Account Number: 9967820998
+Consent Status: Revoked

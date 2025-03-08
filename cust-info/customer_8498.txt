@@ -1,0 +1,6 @@
+Customer ID: 8498
+Name: Gina Collins
+National ID: 499-42-7830
+Bank: Pham, Cortez and Obrien Bank
+Account Number: 1404289491
+Consent Status: Granted

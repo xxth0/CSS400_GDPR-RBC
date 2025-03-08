@@ -1,0 +1,6 @@
+Customer ID: 4511
+Name: Joel Johnston
+National ID: 340-35-6307
+Bank: Powell Ltd Bank
+Account Number: 9065466770
+Consent Status: Granted

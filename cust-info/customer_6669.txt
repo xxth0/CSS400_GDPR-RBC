@@ -1,0 +1,6 @@
+Customer ID: 6669
+Name: Kristin Bell
+National ID: 008-84-8855
+Bank: Robertson, Calhoun and Flores Bank
+Account Number: 6215138599
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6190
+Name: Taylor Larson
+National ID: 118-52-0073
+Bank: Murphy-Schroeder Bank
+Account Number: 6014370364
+Consent Status: Revoked

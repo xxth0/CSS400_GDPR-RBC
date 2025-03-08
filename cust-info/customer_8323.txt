@@ -1,0 +1,6 @@
+Customer ID: 8323
+Name: Melissa Dalton
+National ID: 001-87-5457
+Bank: Martinez LLC Bank
+Account Number: 7600951343
+Consent Status: Granted

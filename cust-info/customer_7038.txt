@@ -1,0 +1,6 @@
+Customer ID: 7038
+Name: James Hinton
+National ID: 376-35-2749
+Bank: Petty-Washington Bank
+Account Number: 1759460678
+Consent Status: Granted

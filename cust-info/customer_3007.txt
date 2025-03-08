@@ -1,0 +1,6 @@
+Customer ID: 3007
+Name: James Wagner
+National ID: 265-99-3720
+Bank: Wilson and Sons Bank
+Account Number: 7535269595
+Consent Status: Revoked

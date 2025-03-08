@@ -1,0 +1,6 @@
+Customer ID: 9103
+Name: Tyler Diaz
+National ID: 308-38-5198
+Bank: Smith Inc Bank
+Account Number: 7571905808
+Consent Status: Granted

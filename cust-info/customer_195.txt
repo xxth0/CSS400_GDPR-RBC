@@ -1,0 +1,6 @@
+Customer ID: 195
+Name: Kevin Robertson
+National ID: 525-76-1534
+Bank: Fleming LLC Bank
+Account Number: 9176900545
+Consent Status: Revoked

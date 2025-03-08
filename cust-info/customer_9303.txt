@@ -1,0 +1,6 @@
+Customer ID: 9303
+Name: Angela Savage
+National ID: 142-22-8184
+Bank: Douglas, Small and Juarez Bank
+Account Number: 8149477758
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1771
+Name: David Shah
+National ID: 563-66-9031
+Bank: Trevino PLC Bank
+Account Number: 4865796520
+Consent Status: Revoked

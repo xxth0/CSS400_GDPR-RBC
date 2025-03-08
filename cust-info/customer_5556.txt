@@ -1,0 +1,6 @@
+Customer ID: 5556
+Name: Jeffrey Nicholson
+National ID: 314-47-8538
+Bank: Mcdaniel-York Bank
+Account Number: 3312728372
+Consent Status: Revoked

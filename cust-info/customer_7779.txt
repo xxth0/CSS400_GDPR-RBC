@@ -1,0 +1,6 @@
+Customer ID: 7779
+Name: Marissa Johnson
+National ID: 678-62-2957
+Bank: Anderson Ltd Bank
+Account Number: 6393348085
+Consent Status: Revoked

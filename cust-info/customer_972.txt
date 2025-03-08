@@ -1,0 +1,6 @@
+Customer ID: 972
+Name: Justin Collins
+National ID: 456-88-8675
+Bank: Hanson LLC Bank
+Account Number: 9572111117
+Consent Status: Revoked

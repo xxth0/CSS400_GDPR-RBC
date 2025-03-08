@@ -1,0 +1,6 @@
+Customer ID: 8670
+Name: Sara Taylor
+National ID: 388-23-7329
+Bank: Barnes-Hendricks Bank
+Account Number: 5052012978
+Consent Status: Revoked

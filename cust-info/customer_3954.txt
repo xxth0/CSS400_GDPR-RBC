@@ -1,0 +1,6 @@
+Customer ID: 3954
+Name: Michael Leonard
+National ID: 169-71-2143
+Bank: Little Ltd Bank
+Account Number: 5645518713
+Consent Status: Revoked

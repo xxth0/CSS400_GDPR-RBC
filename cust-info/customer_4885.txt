@@ -1,0 +1,6 @@
+Customer ID: 4885
+Name: Robert Mcclure
+National ID: 890-04-5844
+Bank: Smith-Solomon Bank
+Account Number: 6976927099
+Consent Status: Granted

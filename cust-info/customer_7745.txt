@@ -1,0 +1,6 @@
+Customer ID: 7745
+Name: Dalton Jones
+National ID: 830-91-0738
+Bank: Buchanan-Willis Bank
+Account Number: 2400530964
+Consent Status: Revoked

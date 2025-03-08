@@ -1,0 +1,6 @@
+Customer ID: 2955
+Name: Gregory Turner
+National ID: 246-65-3695
+Bank: Williams, Ross and Ferrell Bank
+Account Number: 9083841040
+Consent Status: Revoked

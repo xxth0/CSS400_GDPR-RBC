@@ -1,0 +1,6 @@
+Customer ID: 8343
+Name: Russell Ingram
+National ID: 817-03-2835
+Bank: Wilson Group Bank
+Account Number: 7624959414
+Consent Status: Revoked

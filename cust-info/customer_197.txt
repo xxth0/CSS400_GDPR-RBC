@@ -1,0 +1,6 @@
+Customer ID: 197
+Name: Renee Jackson
+National ID: 134-04-5500
+Bank: Maldonado, Harris and Lopez Bank
+Account Number: 1636339014
+Consent Status: Granted

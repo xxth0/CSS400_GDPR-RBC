@@ -1,0 +1,6 @@
+Customer ID: 542
+Name: Steven Nguyen
+National ID: 280-98-0509
+Bank: Mcclure-Murphy Bank
+Account Number: 9510357457
+Consent Status: Revoked

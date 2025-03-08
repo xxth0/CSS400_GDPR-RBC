@@ -1,0 +1,6 @@
+Customer ID: 6397
+Name: Christopher Hernandez
+National ID: 249-43-1754
+Bank: Conrad-Logan Bank
+Account Number: 8342547386
+Consent Status: Granted

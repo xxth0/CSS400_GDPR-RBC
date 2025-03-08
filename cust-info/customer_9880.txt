@@ -1,0 +1,6 @@
+Customer ID: 9880
+Name: Jessica Leonard
+National ID: 397-19-6202
+Bank: Moore, Gutierrez and Beltran Bank
+Account Number: 6721911420
+Consent Status: Revoked

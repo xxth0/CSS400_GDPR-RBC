@@ -1,0 +1,6 @@
+Customer ID: 8756
+Name: Katelyn Johnson
+National ID: 783-72-4214
+Bank: Berry Ltd Bank
+Account Number: 6522292239
+Consent Status: Revoked

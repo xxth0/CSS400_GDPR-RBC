@@ -1,0 +1,6 @@
+Customer ID: 9967
+Name: Alexis Richardson
+National ID: 241-39-8513
+Bank: Delgado-Carter Bank
+Account Number: 5904604481
+Consent Status: Revoked

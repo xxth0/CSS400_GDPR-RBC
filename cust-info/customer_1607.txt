@@ -1,0 +1,6 @@
+Customer ID: 1607
+Name: Jeffrey Murray
+National ID: 646-46-9698
+Bank: Rodriguez, Johnson and Perez Bank
+Account Number: 8772718115
+Consent Status: Revoked

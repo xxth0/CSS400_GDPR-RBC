@@ -1,0 +1,6 @@
+Customer ID: 295
+Name: Heather Tyler
+National ID: 203-30-7739
+Bank: Sexton, Carter and Lynch Bank
+Account Number: 2665080703
+Consent Status: Granted

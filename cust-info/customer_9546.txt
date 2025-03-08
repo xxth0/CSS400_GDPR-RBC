@@ -1,0 +1,6 @@
+Customer ID: 9546
+Name: Christine Bailey
+National ID: 297-24-3728
+Bank: Elliott-Ramirez Bank
+Account Number: 6606952890
+Consent Status: Revoked

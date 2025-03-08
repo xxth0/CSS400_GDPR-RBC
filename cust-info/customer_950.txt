@@ -1,0 +1,6 @@
+Customer ID: 950
+Name: Roberta Bowers
+National ID: 452-91-4121
+Bank: Anderson-Foster Bank
+Account Number: 6243337479
+Consent Status: Revoked

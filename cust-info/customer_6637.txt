@@ -1,0 +1,6 @@
+Customer ID: 6637
+Name: Robert Small
+National ID: 630-97-3106
+Bank: Robinson Ltd Bank
+Account Number: 9013955124
+Consent Status: Revoked

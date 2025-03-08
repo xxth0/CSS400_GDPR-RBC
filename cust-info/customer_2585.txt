@@ -1,0 +1,6 @@
+Customer ID: 2585
+Name: Erik Russo
+National ID: 623-74-9612
+Bank: Bush and Sons Bank
+Account Number: 2853153270
+Consent Status: Revoked

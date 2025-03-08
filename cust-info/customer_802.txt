@@ -1,0 +1,6 @@
+Customer ID: 802
+Name: Michael Dalton
+National ID: 773-78-3020
+Bank: Macias-Johnson Bank
+Account Number: 6661932276
+Consent Status: Granted

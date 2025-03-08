@@ -1,0 +1,6 @@
+Customer ID: 4453
+Name: Jane Griffin
+National ID: 141-85-6009
+Bank: Thompson-Ward Bank
+Account Number: 6059703828
+Consent Status: Revoked

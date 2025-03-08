@@ -1,0 +1,6 @@
+Customer ID: 6671
+Name: Michelle James
+National ID: 808-39-8060
+Bank: Ward PLC Bank
+Account Number: 4955970238
+Consent Status: Granted

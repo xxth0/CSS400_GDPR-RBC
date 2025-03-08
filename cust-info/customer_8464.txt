@@ -1,0 +1,6 @@
+Customer ID: 8464
+Name: Amy Robertson
+National ID: 651-66-0534
+Bank: Vincent-Herring Bank
+Account Number: 2735680574
+Consent Status: Revoked

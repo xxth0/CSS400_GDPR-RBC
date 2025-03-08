@@ -1,0 +1,6 @@
+Customer ID: 7881
+Name: Mary Torres
+National ID: 361-72-5706
+Bank: Wilson-Lewis Bank
+Account Number: 1521230130
+Consent Status: Revoked

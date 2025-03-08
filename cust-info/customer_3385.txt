@@ -1,0 +1,6 @@
+Customer ID: 3385
+Name: Melissa Thomas
+National ID: 530-80-0513
+Bank: Clark-Burns Bank
+Account Number: 1229760864
+Consent Status: Revoked

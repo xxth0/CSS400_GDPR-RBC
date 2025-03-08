@@ -1,0 +1,6 @@
+Customer ID: 3462
+Name: James Cain
+National ID: 690-95-1581
+Bank: Hamilton-Ortiz Bank
+Account Number: 5316635126
+Consent Status: Revoked

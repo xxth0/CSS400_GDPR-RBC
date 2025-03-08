@@ -1,0 +1,6 @@
+Customer ID: 6050
+Name: Jennifer Clark
+National ID: 492-62-4113
+Bank: Clark, Kelley and Jacobs Bank
+Account Number: 1833642256
+Consent Status: Granted

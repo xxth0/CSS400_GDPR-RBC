@@ -1,0 +1,6 @@
+Customer ID: 7164
+Name: Jennifer Bradshaw
+National ID: 892-44-8156
+Bank: Johnson Inc Bank
+Account Number: 3619609739
+Consent Status: Granted

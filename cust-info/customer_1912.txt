@@ -1,0 +1,6 @@
+Customer ID: 1912
+Name: Christopher Clayton
+National ID: 828-29-1866
+Bank: Smith, Ruiz and Wilson Bank
+Account Number: 5697528619
+Consent Status: Granted

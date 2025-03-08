@@ -1,0 +1,6 @@
+Customer ID: 8740
+Name: Michael Ross
+National ID: 025-59-7355
+Bank: Smith, Taylor and Washington Bank
+Account Number: 3852218433
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3738
+Name: Jasmine Snyder
+National ID: 893-51-8405
+Bank: Skinner Inc Bank
+Account Number: 3307833150
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4237
+Name: Joseph Le
+National ID: 506-56-4964
+Bank: Wilson PLC Bank
+Account Number: 6926357615
+Consent Status: Revoked

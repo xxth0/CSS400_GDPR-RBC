@@ -1,0 +1,6 @@
+Customer ID: 9456
+Name: Bradley Gibson
+National ID: 694-15-5862
+Bank: Smith PLC Bank
+Account Number: 9283798564
+Consent Status: Granted

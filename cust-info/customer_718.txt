@@ -1,0 +1,6 @@
+Customer ID: 718
+Name: Andrew Cuevas
+National ID: 181-56-6933
+Bank: Taylor-Mcconnell Bank
+Account Number: 9272500384
+Consent Status: Revoked

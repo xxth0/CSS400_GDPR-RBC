@@ -1,0 +1,6 @@
+Customer ID: 74
+Name: Pamela Donaldson
+National ID: 877-82-8980
+Bank: Jacobs, Johnson and Carter Bank
+Account Number: 5023814021
+Consent Status: Granted

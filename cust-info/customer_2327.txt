@@ -1,0 +1,6 @@
+Customer ID: 2327
+Name: Ryan Anderson
+National ID: 372-02-8558
+Bank: Gilmore-Price Bank
+Account Number: 2259634407
+Consent Status: Granted

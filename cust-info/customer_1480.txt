@@ -1,0 +1,6 @@
+Customer ID: 1480
+Name: Travis Cobb
+National ID: 186-04-3220
+Bank: Garcia and Sons Bank
+Account Number: 6242375388
+Consent Status: Revoked

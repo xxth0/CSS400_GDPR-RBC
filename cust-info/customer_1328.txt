@@ -1,0 +1,6 @@
+Customer ID: 1328
+Name: Debbie Cortez
+National ID: 529-15-9376
+Bank: Hansen PLC Bank
+Account Number: 9986278276
+Consent Status: Revoked

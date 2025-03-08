@@ -1,0 +1,6 @@
+Customer ID: 8058
+Name: Amanda Ellis
+National ID: 153-18-8262
+Bank: Small-Brown Bank
+Account Number: 9070273082
+Consent Status: Revoked

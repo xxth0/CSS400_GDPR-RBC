@@ -1,0 +1,6 @@
+Customer ID: 8105
+Name: Dylan Sanders
+National ID: 328-28-1617
+Bank: Rose Inc Bank
+Account Number: 3894077978
+Consent Status: Granted

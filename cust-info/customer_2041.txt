@@ -1,0 +1,6 @@
+Customer ID: 2041
+Name: Ronald Rodgers
+National ID: 539-36-2185
+Bank: Kramer Group Bank
+Account Number: 6798708569
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7219
+Name: James Mitchell
+National ID: 834-63-8688
+Bank: Leblanc-Nelson Bank
+Account Number: 4599765117
+Consent Status: Revoked

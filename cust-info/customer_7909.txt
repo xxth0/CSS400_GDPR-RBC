@@ -1,0 +1,6 @@
+Customer ID: 7909
+Name: Ryan Lynch
+National ID: 346-31-3045
+Bank: Powell, Christian and Galvan Bank
+Account Number: 7920967556
+Consent Status: Granted

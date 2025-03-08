@@ -1,0 +1,6 @@
+Customer ID: 9865
+Name: Kristen Garner
+National ID: 688-07-5399
+Bank: Spence-Cardenas Bank
+Account Number: 2272015606
+Consent Status: Granted

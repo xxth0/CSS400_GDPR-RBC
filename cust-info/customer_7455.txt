@@ -1,0 +1,6 @@
+Customer ID: 7455
+Name: Angela Allen
+National ID: 177-86-6173
+Bank: Nelson, Chen and Nguyen Bank
+Account Number: 1679241882
+Consent Status: Revoked

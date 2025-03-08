@@ -1,0 +1,6 @@
+Customer ID: 3843
+Name: Robert Young
+National ID: 710-55-1439
+Bank: Collins Inc Bank
+Account Number: 3333853487
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6956
+Name: Jennifer Carr
+National ID: 556-08-3938
+Bank: Scott Ltd Bank
+Account Number: 1993986712
+Consent Status: Revoked

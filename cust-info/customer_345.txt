@@ -1,0 +1,6 @@
+Customer ID: 345
+Name: Amber Smith
+National ID: 288-98-3356
+Bank: Brooks-Thompson Bank
+Account Number: 4957488236
+Consent Status: Granted

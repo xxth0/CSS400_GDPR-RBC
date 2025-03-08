@@ -1,0 +1,6 @@
+Customer ID: 9052
+Name: Valerie Gonzales
+National ID: 875-24-6820
+Bank: Vasquez, Castillo and Yu Bank
+Account Number: 2095666215
+Consent Status: Revoked

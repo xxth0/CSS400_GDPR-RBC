@@ -1,0 +1,6 @@
+Customer ID: 4692
+Name: Albert Freeman
+National ID: 415-55-2587
+Bank: Luna, Murphy and Bender Bank
+Account Number: 3574811162
+Consent Status: Granted

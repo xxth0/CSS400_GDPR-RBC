@@ -1,0 +1,6 @@
+Customer ID: 8876
+Name: Aaron Escobar
+National ID: 759-96-1990
+Bank: Thompson-Perry Bank
+Account Number: 9092796298
+Consent Status: Granted

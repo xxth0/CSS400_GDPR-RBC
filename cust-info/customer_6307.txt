@@ -1,0 +1,6 @@
+Customer ID: 6307
+Name: Jane Hudson
+National ID: 272-42-8099
+Bank: Griffin LLC Bank
+Account Number: 7383148778
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 648
+Name: Eric Mckinney
+National ID: 237-70-4914
+Bank: Armstrong PLC Bank
+Account Number: 3578455306
+Consent Status: Revoked

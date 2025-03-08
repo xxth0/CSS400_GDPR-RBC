@@ -1,0 +1,6 @@
+Customer ID: 1173
+Name: Rebecca Gibson
+National ID: 368-25-1128
+Bank: Thompson Group Bank
+Account Number: 4798143101
+Consent Status: Granted

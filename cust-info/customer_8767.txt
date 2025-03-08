@@ -1,0 +1,6 @@
+Customer ID: 8767
+Name: Colton Briggs
+National ID: 198-59-4334
+Bank: Robinson-Salazar Bank
+Account Number: 1825876969
+Consent Status: Granted

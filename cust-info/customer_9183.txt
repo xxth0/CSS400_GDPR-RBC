@@ -1,0 +1,6 @@
+Customer ID: 9183
+Name: Hannah Rangel
+National ID: 415-05-1437
+Bank: Johnson, Vaughn and Jones Bank
+Account Number: 1711733844
+Consent Status: Revoked

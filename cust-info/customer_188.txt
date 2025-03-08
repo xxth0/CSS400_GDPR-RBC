@@ -1,0 +1,6 @@
+Customer ID: 188
+Name: Travis Hawkins
+National ID: 542-77-9175
+Bank: Wilson-Bernard Bank
+Account Number: 7937714201
+Consent Status: Revoked

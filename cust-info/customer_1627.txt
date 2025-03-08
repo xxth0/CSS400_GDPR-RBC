@@ -1,0 +1,6 @@
+Customer ID: 1627
+Name: Rebecca Everett
+National ID: 612-15-7111
+Bank: Hicks, Martin and Martinez Bank
+Account Number: 5163715557
+Consent Status: Revoked

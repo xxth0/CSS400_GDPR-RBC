@@ -1,0 +1,6 @@
+Customer ID: 8433
+Name: Erica Smith
+National ID: 426-58-4440
+Bank: Sullivan, Tucker and Gibson Bank
+Account Number: 6691993150
+Consent Status: Granted

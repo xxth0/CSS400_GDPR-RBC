@@ -1,0 +1,6 @@
+Customer ID: 9329
+Name: Kristie Durham
+National ID: 761-56-5587
+Bank: Rodriguez LLC Bank
+Account Number: 8031009440
+Consent Status: Revoked

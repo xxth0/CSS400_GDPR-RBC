@@ -1,0 +1,6 @@
+Customer ID: 4694
+Name: David Hawkins
+National ID: 471-20-6121
+Bank: Graham-Fuentes Bank
+Account Number: 2503682273
+Consent Status: Revoked

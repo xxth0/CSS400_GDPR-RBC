@@ -1,0 +1,6 @@
+Customer ID: 2262
+Name: Allison Howard
+National ID: 598-44-4631
+Bank: Mooney-Reynolds Bank
+Account Number: 4060454612
+Consent Status: Granted

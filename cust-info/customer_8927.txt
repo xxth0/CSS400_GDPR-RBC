@@ -1,0 +1,6 @@
+Customer ID: 8927
+Name: Julie Wilson
+National ID: 120-39-8605
+Bank: Wright, Valentine and Jones Bank
+Account Number: 6946723541
+Consent Status: Revoked

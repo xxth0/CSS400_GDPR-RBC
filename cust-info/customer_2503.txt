@@ -1,0 +1,6 @@
+Customer ID: 2503
+Name: Christopher Carey
+National ID: 201-61-9830
+Bank: Anderson-Smith Bank
+Account Number: 7852958050
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4178
+Name: Alexa Ashley
+National ID: 049-84-9711
+Bank: Simon-Tucker Bank
+Account Number: 7992885848
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1011
+Name: Annette Mcdonald
+National ID: 414-50-1711
+Bank: Garza LLC Bank
+Account Number: 4943952883
+Consent Status: Granted

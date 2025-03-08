@@ -1,0 +1,6 @@
+Customer ID: 8348
+Name: Ryan Sanchez
+National ID: 103-81-1351
+Bank: Mcconnell-Hays Bank
+Account Number: 9884164176
+Consent Status: Revoked

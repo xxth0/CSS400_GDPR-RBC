@@ -1,0 +1,6 @@
+Customer ID: 8123
+Name: Michael Scott
+National ID: 088-66-7393
+Bank: Padilla-Murphy Bank
+Account Number: 2669096985
+Consent Status: Granted

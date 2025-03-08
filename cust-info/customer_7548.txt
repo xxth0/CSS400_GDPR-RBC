@@ -1,0 +1,6 @@
+Customer ID: 7548
+Name: Vincent Wong
+National ID: 038-61-4486
+Bank: Stanton, Mcpherson and Jones Bank
+Account Number: 2704729328
+Consent Status: Granted

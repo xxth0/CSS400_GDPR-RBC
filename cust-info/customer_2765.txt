@@ -1,0 +1,6 @@
+Customer ID: 2765
+Name: Joshua Haynes
+National ID: 181-40-9541
+Bank: Martinez, Brandt and Krueger Bank
+Account Number: 4755729178
+Consent Status: Granted

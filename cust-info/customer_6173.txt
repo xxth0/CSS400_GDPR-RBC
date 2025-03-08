@@ -1,0 +1,6 @@
+Customer ID: 6173
+Name: Kelsey Johnston
+National ID: 822-05-5708
+Bank: Mendez and Sons Bank
+Account Number: 2815127733
+Consent Status: Granted

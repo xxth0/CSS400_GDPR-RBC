@@ -1,0 +1,6 @@
+Customer ID: 1278
+Name: John Roberts
+National ID: 028-84-2434
+Bank: Buckley, Thomas and Jackson Bank
+Account Number: 7108232101
+Consent Status: Granted

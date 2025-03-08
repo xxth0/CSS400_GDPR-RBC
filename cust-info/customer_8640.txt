@@ -1,0 +1,6 @@
+Customer ID: 8640
+Name: Jennifer Tucker
+National ID: 717-32-4315
+Bank: Stevens, Webb and Sanchez Bank
+Account Number: 9367903701
+Consent Status: Granted

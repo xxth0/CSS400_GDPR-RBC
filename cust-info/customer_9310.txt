@@ -1,0 +1,6 @@
+Customer ID: 9310
+Name: Melanie Cook
+National ID: 652-93-4028
+Bank: Rodriguez, Robles and Watson Bank
+Account Number: 1133373910
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1471
+Name: Tracy Bartlett
+National ID: 214-54-7754
+Bank: Torres Inc Bank
+Account Number: 1992335370
+Consent Status: Revoked

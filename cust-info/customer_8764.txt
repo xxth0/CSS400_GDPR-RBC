@@ -1,0 +1,6 @@
+Customer ID: 8764
+Name: Jonathan Mendoza
+National ID: 061-17-2170
+Bank: Malone Ltd Bank
+Account Number: 7584705363
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 85
+Name: Lisa Jones
+National ID: 266-65-1418
+Bank: White-Browning Bank
+Account Number: 2347057705
+Consent Status: Granted

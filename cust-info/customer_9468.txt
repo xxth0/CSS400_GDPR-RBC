@@ -1,0 +1,6 @@
+Customer ID: 9468
+Name: Rebecca Beasley
+National ID: 509-04-8238
+Bank: Jackson-Gutierrez Bank
+Account Number: 9823933768
+Consent Status: Granted

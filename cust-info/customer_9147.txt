@@ -1,0 +1,6 @@
+Customer ID: 9147
+Name: John Davis
+National ID: 431-80-3265
+Bank: Mckenzie-Fitzpatrick Bank
+Account Number: 6596726648
+Consent Status: Revoked

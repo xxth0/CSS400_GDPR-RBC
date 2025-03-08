@@ -1,0 +1,6 @@
+Customer ID: 7197
+Name: Samantha Gonzalez
+National ID: 592-48-8591
+Bank: Cunningham, Bryan and Patton Bank
+Account Number: 1974424852
+Consent Status: Granted

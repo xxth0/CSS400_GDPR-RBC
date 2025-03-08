@@ -1,0 +1,6 @@
+Customer ID: 3259
+Name: Amy Adams
+National ID: 136-85-2591
+Bank: Adams-Lee Bank
+Account Number: 9463494526
+Consent Status: Granted

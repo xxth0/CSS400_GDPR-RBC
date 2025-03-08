@@ -1,0 +1,6 @@
+Customer ID: 5212
+Name: Stephanie Gonzalez
+National ID: 892-70-8099
+Bank: Williams, Wheeler and Benjamin Bank
+Account Number: 2421216821
+Consent Status: Granted

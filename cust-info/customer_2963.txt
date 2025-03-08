@@ -1,0 +1,6 @@
+Customer ID: 2963
+Name: Patricia Hodges
+National ID: 356-02-5843
+Bank: Smith and Sons Bank
+Account Number: 4016100915
+Consent Status: Revoked

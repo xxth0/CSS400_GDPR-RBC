@@ -1,0 +1,6 @@
+Customer ID: 4463
+Name: Darrell Glass
+National ID: 461-45-2157
+Bank: Lucero Group Bank
+Account Number: 6822178495
+Consent Status: Granted

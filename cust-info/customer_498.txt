@@ -1,0 +1,6 @@
+Customer ID: 498
+Name: Todd Griffin
+National ID: 651-66-9737
+Bank: Kennedy, Morton and Garcia Bank
+Account Number: 4846450086
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9970
+Name: Walter Villegas
+National ID: 894-27-5443
+Bank: Bailey, Davis and Miller Bank
+Account Number: 4285856948
+Consent Status: Revoked

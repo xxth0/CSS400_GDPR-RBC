@@ -1,0 +1,6 @@
+Customer ID: 1370
+Name: Jeffrey Gates
+National ID: 279-84-3441
+Bank: Reyes-Hart Bank
+Account Number: 9294100675
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2479
+Name: Mary Johnson
+National ID: 372-01-0445
+Bank: Lee, Boyle and Diaz Bank
+Account Number: 3052827125
+Consent Status: Revoked

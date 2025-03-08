@@ -1,0 +1,6 @@
+Customer ID: 6733
+Name: Mr. Manuel Greene MD
+National ID: 724-72-8602
+Bank: Russell, Dunn and Garcia Bank
+Account Number: 6797054062
+Consent Status: Revoked

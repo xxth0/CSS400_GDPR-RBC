@@ -1,0 +1,6 @@
+Customer ID: 3442
+Name: Cody Turner
+National ID: 414-88-7945
+Bank: Hill-Walker Bank
+Account Number: 1478228080
+Consent Status: Revoked

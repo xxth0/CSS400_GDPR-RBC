@@ -1,0 +1,6 @@
+Customer ID: 2777
+Name: Shelley Clark
+National ID: 277-02-8118
+Bank: Lynch, Mendez and Nolan Bank
+Account Number: 2430772415
+Consent Status: Revoked

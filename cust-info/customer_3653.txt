@@ -1,0 +1,6 @@
+Customer ID: 3653
+Name: Jay Murray
+National ID: 681-61-5219
+Bank: Benson Inc Bank
+Account Number: 3398291030
+Consent Status: Granted

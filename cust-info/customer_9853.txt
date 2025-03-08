@@ -1,0 +1,6 @@
+Customer ID: 9853
+Name: Kaitlyn Lopez DDS
+National ID: 765-72-1354
+Bank: Miller-Stephens Bank
+Account Number: 8636535292
+Consent Status: Granted

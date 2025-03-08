@@ -1,0 +1,6 @@
+Customer ID: 1701
+Name: Jason Mora
+National ID: 483-11-9925
+Bank: Johnson Group Bank
+Account Number: 9751720593
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8048
+Name: Angela Russell
+National ID: 484-88-3688
+Bank: Hernandez-Mullen Bank
+Account Number: 6972641542
+Consent Status: Granted

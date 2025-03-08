@@ -1,0 +1,6 @@
+Customer ID: 9726
+Name: Kathryn Stewart
+National ID: 295-69-1379
+Bank: Allen Ltd Bank
+Account Number: 9617626495
+Consent Status: Granted

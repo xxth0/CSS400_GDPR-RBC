@@ -1,0 +1,6 @@
+Customer ID: 3457
+Name: Jose Fitzpatrick
+National ID: 819-31-7801
+Bank: Vazquez Inc Bank
+Account Number: 2749940980
+Consent Status: Revoked

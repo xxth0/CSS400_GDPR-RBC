@@ -1,0 +1,6 @@
+Customer ID: 4376
+Name: Jocelyn Lewis
+National ID: 687-79-7909
+Bank: Diaz LLC Bank
+Account Number: 6168950935
+Consent Status: Revoked

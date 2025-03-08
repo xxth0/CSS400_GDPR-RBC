@@ -1,0 +1,6 @@
+Customer ID: 8524
+Name: Christy Reed
+National ID: 110-21-3954
+Bank: Anderson-Perez Bank
+Account Number: 6431048584
+Consent Status: Granted

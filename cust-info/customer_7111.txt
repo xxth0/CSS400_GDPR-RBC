@@ -1,0 +1,6 @@
+Customer ID: 7111
+Name: Sandra Romero
+National ID: 755-27-3332
+Bank: Garcia-Jones Bank
+Account Number: 5831720221
+Consent Status: Revoked

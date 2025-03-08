@@ -1,0 +1,6 @@
+Customer ID: 5477
+Name: Lisa Anderson
+National ID: 258-72-5505
+Bank: Schultz-Chavez Bank
+Account Number: 3090023349
+Consent Status: Granted

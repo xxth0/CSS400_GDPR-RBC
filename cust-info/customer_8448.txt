@@ -1,0 +1,6 @@
+Customer ID: 8448
+Name: David Miller
+National ID: 866-24-3014
+Bank: Pham Ltd Bank
+Account Number: 3809657038
+Consent Status: Revoked

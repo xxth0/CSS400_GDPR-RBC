@@ -1,0 +1,6 @@
+Customer ID: 5789
+Name: Craig Clark
+National ID: 454-30-7481
+Bank: Williams Ltd Bank
+Account Number: 3257464692
+Consent Status: Revoked

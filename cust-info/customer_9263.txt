@@ -1,0 +1,6 @@
+Customer ID: 9263
+Name: Mark Fox
+National ID: 665-98-2429
+Bank: Rodgers Group Bank
+Account Number: 8634130611
+Consent Status: Granted

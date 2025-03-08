@@ -1,0 +1,6 @@
+Customer ID: 3531
+Name: Erika Gamble
+National ID: 350-86-7620
+Bank: Brown Ltd Bank
+Account Number: 9612462655
+Consent Status: Revoked

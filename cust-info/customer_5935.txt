@@ -1,0 +1,6 @@
+Customer ID: 5935
+Name: Kara Elliott
+National ID: 658-79-8296
+Bank: Evans, Powell and Krueger Bank
+Account Number: 9070999959
+Consent Status: Granted

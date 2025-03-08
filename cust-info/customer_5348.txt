@@ -1,0 +1,6 @@
+Customer ID: 5348
+Name: Dr. Margaret Harper
+National ID: 184-89-4431
+Bank: Carson-Marsh Bank
+Account Number: 5475425071
+Consent Status: Revoked

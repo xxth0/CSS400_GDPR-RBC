@@ -1,0 +1,6 @@
+Customer ID: 7645
+Name: Gregory Winters
+National ID: 621-19-4199
+Bank: Donovan Inc Bank
+Account Number: 6525094070
+Consent Status: Revoked

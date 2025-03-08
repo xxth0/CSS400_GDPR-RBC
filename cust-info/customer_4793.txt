@@ -1,0 +1,6 @@
+Customer ID: 4793
+Name: Samuel Clark
+National ID: 253-37-4445
+Bank: Lawrence-Marquez Bank
+Account Number: 9524709120
+Consent Status: Revoked

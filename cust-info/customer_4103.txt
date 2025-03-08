@@ -1,0 +1,6 @@
+Customer ID: 4103
+Name: Paul Payne
+National ID: 622-08-7606
+Bank: Beck, Williams and Williams Bank
+Account Number: 9751574429
+Consent Status: Revoked

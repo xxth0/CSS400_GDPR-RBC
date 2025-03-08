@@ -1,0 +1,6 @@
+Customer ID: 9002
+Name: Cassandra White
+National ID: 627-59-5818
+Bank: Roberts, Morales and Oconnor Bank
+Account Number: 8208072187
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5411
+Name: Dean Dennis
+National ID: 001-96-4528
+Bank: Lee and Sons Bank
+Account Number: 1242008990
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6665
+Name: Anthony Cook
+National ID: 587-24-1813
+Bank: Gutierrez, Costa and Patterson Bank
+Account Number: 9053087029
+Consent Status: Revoked

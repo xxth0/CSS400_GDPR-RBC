@@ -1,0 +1,6 @@
+Customer ID: 6651
+Name: Katie Garner
+National ID: 071-64-9623
+Bank: Johnson-Beltran Bank
+Account Number: 9992520317
+Consent Status: Granted

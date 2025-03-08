@@ -1,0 +1,6 @@
+Customer ID: 8523
+Name: Gary Martinez
+National ID: 812-15-8533
+Bank: Park-Allen Bank
+Account Number: 9432427954
+Consent Status: Revoked

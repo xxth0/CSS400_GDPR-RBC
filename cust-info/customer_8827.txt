@@ -1,0 +1,6 @@
+Customer ID: 8827
+Name: Elizabeth Perez
+National ID: 470-92-7759
+Bank: Lucas, Copeland and West Bank
+Account Number: 5061079498
+Consent Status: Revoked

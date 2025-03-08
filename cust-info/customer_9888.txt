@@ -1,0 +1,6 @@
+Customer ID: 9888
+Name: Rachael Banks
+National ID: 535-21-9093
+Bank: Williams, Stafford and Morrison Bank
+Account Number: 5720659903
+Consent Status: Granted

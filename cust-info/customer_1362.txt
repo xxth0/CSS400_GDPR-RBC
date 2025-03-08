@@ -1,0 +1,6 @@
+Customer ID: 1362
+Name: Shawn Silva
+National ID: 736-21-3043
+Bank: Ponce-Martin Bank
+Account Number: 3943745688
+Consent Status: Revoked

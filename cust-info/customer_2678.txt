@@ -1,0 +1,6 @@
+Customer ID: 2678
+Name: Wayne Martin
+National ID: 647-50-7190
+Bank: Ritter, Pennington and Maddox Bank
+Account Number: 8730131127
+Consent Status: Revoked

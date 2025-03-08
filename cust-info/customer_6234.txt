@@ -1,0 +1,6 @@
+Customer ID: 6234
+Name: Darryl Miller
+National ID: 462-33-9123
+Bank: Salinas, Harrison and Green Bank
+Account Number: 2500453125
+Consent Status: Granted

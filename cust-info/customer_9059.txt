@@ -1,0 +1,6 @@
+Customer ID: 9059
+Name: Brandy Martinez
+National ID: 761-56-6006
+Bank: Williams, Beltran and Meyer Bank
+Account Number: 7683887185
+Consent Status: Granted

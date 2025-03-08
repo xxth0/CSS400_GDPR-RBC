@@ -1,0 +1,6 @@
+Customer ID: 2813
+Name: Brad Scott
+National ID: 788-88-4285
+Bank: Mayer, Rodriguez and Copeland Bank
+Account Number: 6002231577
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3245
+Name: Morgan Wright
+National ID: 665-30-3403
+Bank: Wright PLC Bank
+Account Number: 1775274338
+Consent Status: Granted

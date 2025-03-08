@@ -1,0 +1,6 @@
+Customer ID: 6015
+Name: Bryan Brooks
+National ID: 495-29-6353
+Bank: Schneider, Johnson and Williams Bank
+Account Number: 6965418999
+Consent Status: Revoked

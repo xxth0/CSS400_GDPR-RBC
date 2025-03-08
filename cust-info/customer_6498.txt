@@ -1,0 +1,6 @@
+Customer ID: 6498
+Name: Michelle Delgado
+National ID: 523-50-1213
+Bank: Hamilton, Carroll and Wilson Bank
+Account Number: 1382881756
+Consent Status: Granted

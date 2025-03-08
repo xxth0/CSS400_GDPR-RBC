@@ -1,0 +1,6 @@
+Customer ID: 744
+Name: Ryan Martinez
+National ID: 275-23-5175
+Bank: Greer Group Bank
+Account Number: 8991442823
+Consent Status: Revoked

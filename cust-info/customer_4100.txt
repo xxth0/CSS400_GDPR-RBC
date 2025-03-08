@@ -1,0 +1,6 @@
+Customer ID: 4100
+Name: Jose Hill
+National ID: 021-43-9155
+Bank: Cross LLC Bank
+Account Number: 7957034470
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8712
+Name: Robert Hubbard
+National ID: 007-59-9514
+Bank: Anderson Ltd Bank
+Account Number: 4449821997
+Consent Status: Revoked

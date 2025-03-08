@@ -1,0 +1,6 @@
+Customer ID: 2836
+Name: Jacob Nguyen
+National ID: 676-47-9051
+Bank: Sanchez LLC Bank
+Account Number: 7678110117
+Consent Status: Revoked

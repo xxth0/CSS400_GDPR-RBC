@@ -1,0 +1,6 @@
+Customer ID: 4839
+Name: Marc Reilly
+National ID: 228-16-6961
+Bank: Edwards PLC Bank
+Account Number: 8345594082
+Consent Status: Revoked

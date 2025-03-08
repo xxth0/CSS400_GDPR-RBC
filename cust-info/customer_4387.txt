@@ -1,0 +1,6 @@
+Customer ID: 4387
+Name: Michael Yates
+National ID: 395-28-3421
+Bank: Jones-Nash Bank
+Account Number: 5605410497
+Consent Status: Revoked

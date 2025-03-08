@@ -1,0 +1,6 @@
+Customer ID: 6116
+Name: Michael Brown
+National ID: 872-12-4740
+Bank: Bird, Barrett and Mendoza Bank
+Account Number: 5562589407
+Consent Status: Granted

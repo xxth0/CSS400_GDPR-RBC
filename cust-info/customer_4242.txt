@@ -1,0 +1,6 @@
+Customer ID: 4242
+Name: Laura Martinez
+National ID: 404-36-0815
+Bank: Sullivan Ltd Bank
+Account Number: 1291979154
+Consent Status: Revoked

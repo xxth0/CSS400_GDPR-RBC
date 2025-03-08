@@ -1,0 +1,6 @@
+Customer ID: 1804
+Name: Julie Taylor
+National ID: 132-23-7474
+Bank: Watkins-Ramirez Bank
+Account Number: 7386039648
+Consent Status: Revoked

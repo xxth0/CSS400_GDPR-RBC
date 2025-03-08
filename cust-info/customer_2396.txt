@@ -1,0 +1,6 @@
+Customer ID: 2396
+Name: Benjamin Bartlett
+National ID: 158-90-4085
+Bank: Thomas-Braun Bank
+Account Number: 5903610848
+Consent Status: Granted

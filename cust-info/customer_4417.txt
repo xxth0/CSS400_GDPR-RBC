@@ -1,0 +1,6 @@
+Customer ID: 4417
+Name: Brian Moore
+National ID: 408-66-7688
+Bank: Carrillo-Garner Bank
+Account Number: 9259197708
+Consent Status: Revoked

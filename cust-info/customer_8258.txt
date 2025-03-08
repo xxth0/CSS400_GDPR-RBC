@@ -1,0 +1,6 @@
+Customer ID: 8258
+Name: Brandy Rhodes
+National ID: 793-05-4911
+Bank: Stewart-Manning Bank
+Account Number: 2549615463
+Consent Status: Granted

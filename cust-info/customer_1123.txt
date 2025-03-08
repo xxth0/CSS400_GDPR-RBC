@@ -1,0 +1,6 @@
+Customer ID: 1123
+Name: Tara Hayes
+National ID: 257-86-4515
+Bank: Morrison PLC Bank
+Account Number: 2639793818
+Consent Status: Revoked

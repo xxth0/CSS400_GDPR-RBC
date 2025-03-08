@@ -1,0 +1,6 @@
+Customer ID: 3906
+Name: Amy Blake
+National ID: 786-58-7613
+Bank: Ross PLC Bank
+Account Number: 1936951039
+Consent Status: Granted

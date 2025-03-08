@@ -1,0 +1,6 @@
+Customer ID: 8183
+Name: David Hancock
+National ID: 427-49-2733
+Bank: Hughes, Williams and Serrano Bank
+Account Number: 6449820276
+Consent Status: Revoked

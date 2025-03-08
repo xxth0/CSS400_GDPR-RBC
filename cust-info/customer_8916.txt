@@ -1,0 +1,6 @@
+Customer ID: 8916
+Name: Briana Wilson
+National ID: 721-04-2219
+Bank: Caldwell PLC Bank
+Account Number: 7415078170
+Consent Status: Granted

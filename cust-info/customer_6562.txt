@@ -1,0 +1,6 @@
+Customer ID: 6562
+Name: Michelle Garcia
+National ID: 253-19-9695
+Bank: Harris, Bradford and Johnston Bank
+Account Number: 9236674233
+Consent Status: Revoked

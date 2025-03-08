@@ -1,0 +1,6 @@
+Customer ID: 6701
+Name: Amy Dyer
+National ID: 825-67-8381
+Bank: Walker-Smith Bank
+Account Number: 9240158935
+Consent Status: Granted

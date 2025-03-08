@@ -1,0 +1,6 @@
+Customer ID: 7313
+Name: Eric Riggs
+National ID: 022-54-2298
+Bank: Conley Inc Bank
+Account Number: 4984913932
+Consent Status: Granted

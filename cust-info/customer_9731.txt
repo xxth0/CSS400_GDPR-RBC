@@ -1,0 +1,6 @@
+Customer ID: 9731
+Name: Annette Wells
+National ID: 626-39-8355
+Bank: Baldwin-Lee Bank
+Account Number: 1590774178
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1967
+Name: Christopher Mata
+National ID: 387-12-8371
+Bank: Lindsey Ltd Bank
+Account Number: 7071606569
+Consent Status: Revoked

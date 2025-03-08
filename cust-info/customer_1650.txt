@@ -1,0 +1,6 @@
+Customer ID: 1650
+Name: Aaron Gonzalez
+National ID: 478-47-1803
+Bank: Stephens-Carter Bank
+Account Number: 3056400319
+Consent Status: Revoked

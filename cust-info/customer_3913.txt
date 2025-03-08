@@ -1,0 +1,6 @@
+Customer ID: 3913
+Name: Curtis Gamble
+National ID: 539-84-8188
+Bank: Brown-Powell Bank
+Account Number: 1925629928
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6986
+Name: Sara Little
+National ID: 306-13-0612
+Bank: Charles-Goodman Bank
+Account Number: 3192203713
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9081
+Name: Brandy Taylor
+National ID: 803-41-7981
+Bank: Brown-Brown Bank
+Account Number: 1095186693
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 846
+Name: Richard Munoz
+National ID: 245-87-0583
+Bank: Nash-Moss Bank
+Account Number: 1930281118
+Consent Status: Granted

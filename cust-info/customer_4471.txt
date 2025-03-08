@@ -1,0 +1,6 @@
+Customer ID: 4471
+Name: Dana Velez
+National ID: 469-18-6279
+Bank: Hahn-Reeves Bank
+Account Number: 5968880444
+Consent Status: Granted

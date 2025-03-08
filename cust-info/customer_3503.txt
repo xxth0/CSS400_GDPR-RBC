@@ -1,0 +1,6 @@
+Customer ID: 3503
+Name: Jonathan Craig
+National ID: 304-08-2377
+Bank: Ramirez, Kelly and Clark Bank
+Account Number: 7792030213
+Consent Status: Granted

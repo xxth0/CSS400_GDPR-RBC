@@ -1,0 +1,6 @@
+Customer ID: 8850
+Name: Thomas Kelly
+National ID: 314-11-5664
+Bank: Thomas-Clark Bank
+Account Number: 4402509221
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4931
+Name: Pamela Evans
+National ID: 040-35-5521
+Bank: Potter, Arias and Richmond Bank
+Account Number: 3955471808
+Consent Status: Granted

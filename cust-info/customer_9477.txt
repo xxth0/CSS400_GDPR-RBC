@@ -1,0 +1,6 @@
+Customer ID: 9477
+Name: James Barron
+National ID: 747-57-9346
+Bank: Davis-Graham Bank
+Account Number: 7974975454
+Consent Status: Granted

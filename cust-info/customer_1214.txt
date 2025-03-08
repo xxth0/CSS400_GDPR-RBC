@@ -1,0 +1,6 @@
+Customer ID: 1214
+Name: Paul Simon
+National ID: 749-98-8021
+Bank: Yates, Stephens and Torres Bank
+Account Number: 8422473576
+Consent Status: Granted

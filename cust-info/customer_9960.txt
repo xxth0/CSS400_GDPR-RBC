@@ -1,0 +1,6 @@
+Customer ID: 9960
+Name: Vicki Kelly
+National ID: 836-46-8419
+Bank: Campbell Group Bank
+Account Number: 8606883112
+Consent Status: Revoked

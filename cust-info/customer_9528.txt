@@ -1,0 +1,6 @@
+Customer ID: 9528
+Name: Douglas Brown
+National ID: 137-65-1741
+Bank: Caldwell-French Bank
+Account Number: 9793106057
+Consent Status: Revoked

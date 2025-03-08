@@ -1,0 +1,6 @@
+Customer ID: 265
+Name: Melanie Flores
+National ID: 186-08-8345
+Bank: Jones Group Bank
+Account Number: 6106910265
+Consent Status: Revoked

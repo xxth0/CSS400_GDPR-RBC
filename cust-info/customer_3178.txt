@@ -1,0 +1,6 @@
+Customer ID: 3178
+Name: Jennifer Jackson
+National ID: 855-37-9881
+Bank: Rosario LLC Bank
+Account Number: 3949484679
+Consent Status: Revoked

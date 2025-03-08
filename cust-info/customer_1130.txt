@@ -1,0 +1,6 @@
+Customer ID: 1130
+Name: Michelle Mcknight
+National ID: 606-27-7738
+Bank: Ramirez-Moss Bank
+Account Number: 8912646315
+Consent Status: Granted

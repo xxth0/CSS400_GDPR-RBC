@@ -1,0 +1,6 @@
+Customer ID: 1397
+Name: Patricia Carter
+National ID: 821-70-6653
+Bank: Hunt and Sons Bank
+Account Number: 4863506145
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 850
+Name: Virginia Carey
+National ID: 623-49-3814
+Bank: Avila, Perez and Lynch Bank
+Account Number: 7209371373
+Consent Status: Revoked

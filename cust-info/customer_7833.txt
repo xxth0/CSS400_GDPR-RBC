@@ -1,0 +1,6 @@
+Customer ID: 7833
+Name: Jonathan Bailey
+National ID: 230-90-6632
+Bank: Hawkins PLC Bank
+Account Number: 2858940340
+Consent Status: Revoked

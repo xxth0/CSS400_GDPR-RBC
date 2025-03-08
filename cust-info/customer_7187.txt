@@ -1,0 +1,6 @@
+Customer ID: 7187
+Name: Dalton Smith
+National ID: 106-18-2375
+Bank: Pierce-Townsend Bank
+Account Number: 4617037427
+Consent Status: Granted

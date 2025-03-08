@@ -1,0 +1,6 @@
+Customer ID: 8870
+Name: Jonathan Mcconnell
+National ID: 231-56-7809
+Bank: Green-Mcclure Bank
+Account Number: 7620844984
+Consent Status: Granted

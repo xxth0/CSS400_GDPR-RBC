@@ -1,0 +1,6 @@
+Customer ID: 5496
+Name: Cassandra Reed
+National ID: 171-66-3935
+Bank: Price-Roberts Bank
+Account Number: 5934019668
+Consent Status: Revoked

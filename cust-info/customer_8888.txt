@@ -1,0 +1,6 @@
+Customer ID: 8888
+Name: Louis Johnson
+National ID: 125-20-4447
+Bank: Goodwin, Mitchell and Mueller Bank
+Account Number: 2214810651
+Consent Status: Revoked

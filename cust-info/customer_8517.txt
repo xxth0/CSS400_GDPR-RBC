@@ -1,0 +1,6 @@
+Customer ID: 8517
+Name: Joyce Johnson
+National ID: 516-30-1190
+Bank: Wagner LLC Bank
+Account Number: 1500230274
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6596
+Name: Stefanie Jackson
+National ID: 881-29-9399
+Bank: Miller PLC Bank
+Account Number: 2518794755
+Consent Status: Revoked

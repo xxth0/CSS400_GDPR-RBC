@@ -1,0 +1,6 @@
+Customer ID: 1121
+Name: Zoe White
+National ID: 816-46-5368
+Bank: Gordon LLC Bank
+Account Number: 1563627180
+Consent Status: Granted

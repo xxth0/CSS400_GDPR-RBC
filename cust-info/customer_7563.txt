@@ -1,0 +1,6 @@
+Customer ID: 7563
+Name: Robert Fleming
+National ID: 164-34-6541
+Bank: Goodman, Ross and Green Bank
+Account Number: 8378652346
+Consent Status: Revoked

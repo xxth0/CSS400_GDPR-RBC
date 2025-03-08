@@ -1,0 +1,6 @@
+Customer ID: 4131
+Name: Anna Mack
+National ID: 017-89-7938
+Bank: Garcia, Price and Jones Bank
+Account Number: 2852522620
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2652
+Name: Cynthia Thompson
+National ID: 870-24-6513
+Bank: House PLC Bank
+Account Number: 8170602621
+Consent Status: Revoked

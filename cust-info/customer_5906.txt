@@ -1,0 +1,6 @@
+Customer ID: 5906
+Name: Brooke Ramirez
+National ID: 106-74-4185
+Bank: Patterson and Sons Bank
+Account Number: 4208926700
+Consent Status: Revoked

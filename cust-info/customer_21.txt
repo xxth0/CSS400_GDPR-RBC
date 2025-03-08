@@ -1,0 +1,6 @@
+Customer ID: 21
+Name: Joshua Young
+National ID: 280-66-8797
+Bank: Whitaker, Weiss and Blackwell Bank
+Account Number: 3195520534
+Consent Status: Revoked

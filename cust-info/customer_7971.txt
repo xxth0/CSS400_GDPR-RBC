@@ -1,0 +1,6 @@
+Customer ID: 7971
+Name: Samantha Hamilton
+National ID: 045-23-2231
+Bank: Wright Inc Bank
+Account Number: 7003760312
+Consent Status: Revoked

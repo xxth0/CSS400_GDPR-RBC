@@ -1,0 +1,6 @@
+Customer ID: 2399
+Name: Kelly Oneal
+National ID: 777-96-6213
+Bank: Nichols-Alvarez Bank
+Account Number: 3064066865
+Consent Status: Granted

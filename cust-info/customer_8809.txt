@@ -1,0 +1,6 @@
+Customer ID: 8809
+Name: Daniel Paul
+National ID: 454-05-3388
+Bank: Cook-Hicks Bank
+Account Number: 8156054456
+Consent Status: Granted

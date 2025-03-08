@@ -1,0 +1,6 @@
+Customer ID: 5547
+Name: Christina Oconnor
+National ID: 090-58-1919
+Bank: Martinez, Gray and Butler Bank
+Account Number: 8829793551
+Consent Status: Granted

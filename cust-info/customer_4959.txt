@@ -1,0 +1,6 @@
+Customer ID: 4959
+Name: Christopher Gutierrez
+National ID: 122-08-7099
+Bank: Diaz-Joyce Bank
+Account Number: 3354642417
+Consent Status: Granted

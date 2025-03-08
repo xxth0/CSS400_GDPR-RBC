@@ -1,0 +1,6 @@
+Customer ID: 1314
+Name: Karen Jenkins
+National ID: 141-40-8157
+Bank: Carpenter, Martin and Hutchinson Bank
+Account Number: 3618214639
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3386
+Name: Deborah Allen
+National ID: 860-82-5628
+Bank: Cervantes Group Bank
+Account Number: 9953144841
+Consent Status: Granted

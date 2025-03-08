@@ -1,0 +1,6 @@
+Customer ID: 9508
+Name: Stephanie Molina
+National ID: 574-27-3166
+Bank: Snyder Inc Bank
+Account Number: 7187556728
+Consent Status: Revoked

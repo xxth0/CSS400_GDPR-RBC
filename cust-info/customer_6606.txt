@@ -1,0 +1,6 @@
+Customer ID: 6606
+Name: Amanda Smith
+National ID: 110-20-4204
+Bank: Collier, Walker and Taylor Bank
+Account Number: 5956081996
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2605
+Name: Julie Cooley
+National ID: 224-65-5078
+Bank: Hood, Weeks and Morris Bank
+Account Number: 6261321108
+Consent Status: Granted

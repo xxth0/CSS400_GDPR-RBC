@@ -1,0 +1,6 @@
+Customer ID: 6677
+Name: Joel Mason
+National ID: 083-09-9270
+Bank: Kim-Lopez Bank
+Account Number: 7173742344
+Consent Status: Revoked

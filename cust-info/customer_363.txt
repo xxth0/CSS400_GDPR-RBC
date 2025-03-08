@@ -1,0 +1,6 @@
+Customer ID: 363
+Name: Gary Weaver
+National ID: 516-08-8522
+Bank: Baldwin-Richardson Bank
+Account Number: 1344660387
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2411
+Name: Amy Cox
+National ID: 455-76-5966
+Bank: Gomez-Wang Bank
+Account Number: 1189394452
+Consent Status: Granted

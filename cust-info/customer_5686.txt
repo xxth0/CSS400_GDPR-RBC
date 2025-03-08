@@ -1,0 +1,6 @@
+Customer ID: 5686
+Name: Dana Garcia
+National ID: 340-26-8038
+Bank: Rosario and Sons Bank
+Account Number: 8485528013
+Consent Status: Revoked

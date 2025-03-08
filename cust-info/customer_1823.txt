@@ -1,0 +1,6 @@
+Customer ID: 1823
+Name: Roy Bradley
+National ID: 536-59-0340
+Bank: Mueller, Mejia and Cervantes Bank
+Account Number: 8075736893
+Consent Status: Revoked

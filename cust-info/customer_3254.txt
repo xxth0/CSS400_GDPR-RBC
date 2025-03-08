@@ -1,0 +1,6 @@
+Customer ID: 3254
+Name: Joseph Aguilar
+National ID: 491-19-0959
+Bank: Salazar-Giles Bank
+Account Number: 3086435959
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1417
+Name: Joshua Taylor
+National ID: 800-44-3507
+Bank: Cherry, Johnson and Kramer Bank
+Account Number: 4519682854
+Consent Status: Granted

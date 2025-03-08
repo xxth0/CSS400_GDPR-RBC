@@ -1,0 +1,6 @@
+Customer ID: 9516
+Name: Annette Lopez
+National ID: 809-56-5578
+Bank: Mcdonald, Hooper and Tapia Bank
+Account Number: 5019412425
+Consent Status: Granted

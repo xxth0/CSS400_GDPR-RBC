@@ -1,0 +1,6 @@
+Customer ID: 9040
+Name: Linda Soto
+National ID: 661-45-0077
+Bank: Monroe, Perkins and Pennington Bank
+Account Number: 1418955901
+Consent Status: Revoked

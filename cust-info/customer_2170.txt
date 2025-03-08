@@ -1,0 +1,6 @@
+Customer ID: 2170
+Name: Dr. Jonathan Wright
+National ID: 445-87-9499
+Bank: Boyd LLC Bank
+Account Number: 2881298658
+Consent Status: Granted

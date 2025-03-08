@@ -1,0 +1,6 @@
+Customer ID: 4052
+Name: Dennis Lowe
+National ID: 523-13-7072
+Bank: Crawford-Walker Bank
+Account Number: 4736815589
+Consent Status: Revoked

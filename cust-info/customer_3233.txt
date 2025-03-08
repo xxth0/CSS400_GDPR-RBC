@@ -1,0 +1,6 @@
+Customer ID: 3233
+Name: Curtis Salinas
+National ID: 005-55-1379
+Bank: Reyes PLC Bank
+Account Number: 7374896485
+Consent Status: Granted

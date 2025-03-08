@@ -1,0 +1,6 @@
+Customer ID: 2879
+Name: Cole Ellis
+National ID: 566-19-2826
+Bank: Goodman Group Bank
+Account Number: 6761545904
+Consent Status: Granted

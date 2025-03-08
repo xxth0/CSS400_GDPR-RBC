@@ -1,0 +1,6 @@
+Customer ID: 8008
+Name: Adrian Wolf
+National ID: 150-58-1569
+Bank: Simmons PLC Bank
+Account Number: 4862663579
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8245
+Name: Tara Galvan
+National ID: 215-28-3096
+Bank: Sandoval-Rodriguez Bank
+Account Number: 4259954094
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4142
+Name: Jared Carter
+National ID: 222-73-5816
+Bank: Todd-Smith Bank
+Account Number: 5680522461
+Consent Status: Revoked

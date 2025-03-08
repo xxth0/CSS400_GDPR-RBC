@@ -1,0 +1,6 @@
+Customer ID: 8846
+Name: Cheryl Morris
+National ID: 287-51-5722
+Bank: Brown-Vazquez Bank
+Account Number: 9886785234
+Consent Status: Revoked

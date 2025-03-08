@@ -1,0 +1,6 @@
+Customer ID: 6906
+Name: Todd Williams
+National ID: 648-41-4010
+Bank: Johnson, Fitzgerald and Dunn Bank
+Account Number: 9200256538
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9582
+Name: Kara Harris
+National ID: 825-21-8971
+Bank: Cantu, Stevens and Farrell Bank
+Account Number: 4315698615
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1390
+Name: Daniel Delacruz
+National ID: 304-53-4980
+Bank: Spencer-Stanley Bank
+Account Number: 7853088181
+Consent Status: Granted

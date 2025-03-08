@@ -1,0 +1,6 @@
+Customer ID: 8100
+Name: Jose Villanueva
+National ID: 253-17-0933
+Bank: Stevens, Roberts and Johnson Bank
+Account Number: 4967162409
+Consent Status: Revoked

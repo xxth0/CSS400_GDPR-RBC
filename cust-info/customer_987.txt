@@ -1,0 +1,6 @@
+Customer ID: 987
+Name: Shannon Reyes
+National ID: 862-18-5740
+Bank: Lopez and Sons Bank
+Account Number: 4840847448
+Consent Status: Revoked

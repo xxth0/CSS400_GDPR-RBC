@@ -1,0 +1,6 @@
+Customer ID: 8413
+Name: Richard Oneal
+National ID: 735-07-4743
+Bank: Ramirez, Colon and Miller Bank
+Account Number: 5048189564
+Consent Status: Revoked

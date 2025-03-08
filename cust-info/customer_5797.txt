@@ -1,0 +1,6 @@
+Customer ID: 5797
+Name: Denise Doyle
+National ID: 313-01-8491
+Bank: Roberson, Moreno and Foster Bank
+Account Number: 9188917210
+Consent Status: Revoked

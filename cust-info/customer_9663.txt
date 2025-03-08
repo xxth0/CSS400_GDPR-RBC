@@ -1,0 +1,6 @@
+Customer ID: 9663
+Name: Vernon Camacho
+National ID: 505-74-6069
+Bank: Ramos-Brown Bank
+Account Number: 7140887424
+Consent Status: Granted

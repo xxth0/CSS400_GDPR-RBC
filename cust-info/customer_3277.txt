@@ -1,0 +1,6 @@
+Customer ID: 3277
+Name: Patricia Johnson
+National ID: 133-46-0522
+Bank: Chambers, Sheppard and Ramirez Bank
+Account Number: 9680165194
+Consent Status: Granted

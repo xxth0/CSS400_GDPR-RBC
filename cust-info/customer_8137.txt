@@ -1,0 +1,6 @@
+Customer ID: 8137
+Name: Nicole Carter
+National ID: 159-73-6857
+Bank: Love-Castillo Bank
+Account Number: 5919794335
+Consent Status: Revoked

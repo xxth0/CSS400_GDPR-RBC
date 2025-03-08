@@ -1,0 +1,6 @@
+Customer ID: 2233
+Name: Jesse Yates
+National ID: 425-96-2633
+Bank: Reeves, Cole and Evans Bank
+Account Number: 1897082041
+Consent Status: Revoked

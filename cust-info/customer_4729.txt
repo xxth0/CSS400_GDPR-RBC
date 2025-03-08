@@ -1,0 +1,6 @@
+Customer ID: 4729
+Name: James West
+National ID: 201-92-1914
+Bank: Cox LLC Bank
+Account Number: 8321581755
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4740
+Name: Noah Martinez
+National ID: 881-96-8479
+Bank: Cruz LLC Bank
+Account Number: 4748210124
+Consent Status: Granted

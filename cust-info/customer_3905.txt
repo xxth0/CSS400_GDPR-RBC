@@ -1,0 +1,6 @@
+Customer ID: 3905
+Name: Kaitlyn Duncan
+National ID: 166-05-8416
+Bank: Anderson, Stanton and Anderson Bank
+Account Number: 4302982685
+Consent Status: Revoked

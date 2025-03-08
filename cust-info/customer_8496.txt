@@ -1,0 +1,6 @@
+Customer ID: 8496
+Name: Janice Miles
+National ID: 708-11-9164
+Bank: Eaton, Smith and Pennington Bank
+Account Number: 8717348843
+Consent Status: Revoked

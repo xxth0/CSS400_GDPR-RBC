@@ -1,0 +1,6 @@
+Customer ID: 2642
+Name: Ashley Gonzalez
+National ID: 713-40-0264
+Bank: Roach, Johnson and Daniels Bank
+Account Number: 5489259295
+Consent Status: Granted

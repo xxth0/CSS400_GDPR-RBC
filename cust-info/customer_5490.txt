@@ -1,0 +1,6 @@
+Customer ID: 5490
+Name: Susan King
+National ID: 591-95-0766
+Bank: Gonzalez and Sons Bank
+Account Number: 7618126790
+Consent Status: Revoked

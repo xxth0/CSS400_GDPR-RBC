@@ -1,0 +1,6 @@
+Customer ID: 2092
+Name: Christopher Castaneda
+National ID: 825-32-0329
+Bank: Roberts Inc Bank
+Account Number: 3040801906
+Consent Status: Revoked

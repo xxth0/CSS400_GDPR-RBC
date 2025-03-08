@@ -1,0 +1,6 @@
+Customer ID: 1375
+Name: Edwin Long
+National ID: 863-71-5014
+Bank: Mitchell Ltd Bank
+Account Number: 9980816580
+Consent Status: Granted

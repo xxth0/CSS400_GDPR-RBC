@@ -1,0 +1,6 @@
+Customer ID: 6753
+Name: Mary Briggs
+National ID: 082-24-2347
+Bank: Luna Ltd Bank
+Account Number: 5304953529
+Consent Status: Revoked

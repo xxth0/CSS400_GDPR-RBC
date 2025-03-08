@@ -1,0 +1,6 @@
+Customer ID: 1456
+Name: Ryan Ray
+National ID: 323-21-0199
+Bank: Allen-Ryan Bank
+Account Number: 8309213470
+Consent Status: Granted

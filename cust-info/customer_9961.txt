@@ -1,0 +1,6 @@
+Customer ID: 9961
+Name: Matthew Rich
+National ID: 663-87-5124
+Bank: Wallace-Nguyen Bank
+Account Number: 3413038818
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1232
+Name: Rebecca Brown
+National ID: 344-17-8985
+Bank: Kline-Mckinney Bank
+Account Number: 7390871210
+Consent Status: Revoked

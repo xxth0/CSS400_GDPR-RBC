@@ -1,0 +1,6 @@
+Customer ID: 809
+Name: Angel Bowman
+National ID: 668-90-9146
+Bank: Thomas-Phelps Bank
+Account Number: 4339661088
+Consent Status: Revoked

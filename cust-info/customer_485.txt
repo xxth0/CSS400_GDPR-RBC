@@ -1,0 +1,6 @@
+Customer ID: 485
+Name: Bobby Jones
+National ID: 896-48-0856
+Bank: Santos and Sons Bank
+Account Number: 6249733085
+Consent Status: Granted

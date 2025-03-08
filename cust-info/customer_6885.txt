@@ -1,0 +1,6 @@
+Customer ID: 6885
+Name: Tanya Richards
+National ID: 359-67-1127
+Bank: Bailey, Brown and Bowman Bank
+Account Number: 2315529589
+Consent Status: Granted

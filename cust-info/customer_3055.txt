@@ -1,0 +1,6 @@
+Customer ID: 3055
+Name: Chad Bowers
+National ID: 373-95-3375
+Bank: Thompson, Banks and Brooks Bank
+Account Number: 7048728541
+Consent Status: Revoked

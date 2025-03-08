@@ -1,0 +1,6 @@
+Customer ID: 3079
+Name: Karen Moran
+National ID: 460-85-2924
+Bank: Flores Inc Bank
+Account Number: 5922458712
+Consent Status: Revoked

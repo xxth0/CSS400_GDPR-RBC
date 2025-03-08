@@ -1,0 +1,6 @@
+Customer ID: 1918
+Name: April Miller
+National ID: 471-17-5834
+Bank: Byrd, Phillips and Barnes Bank
+Account Number: 7646389061
+Consent Status: Granted

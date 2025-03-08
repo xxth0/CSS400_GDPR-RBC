@@ -1,0 +1,6 @@
+Customer ID: 9563
+Name: Anna Cole
+National ID: 669-21-4690
+Bank: Keller-Greene Bank
+Account Number: 5886341240
+Consent Status: Revoked

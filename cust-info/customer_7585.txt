@@ -1,0 +1,6 @@
+Customer ID: 7585
+Name: Bethany Mahoney
+National ID: 624-09-7588
+Bank: Matthews, Morgan and Williams Bank
+Account Number: 6789856089
+Consent Status: Revoked

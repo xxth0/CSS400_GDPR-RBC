@@ -1,0 +1,6 @@
+Customer ID: 5948
+Name: George Rivera
+National ID: 515-85-4845
+Bank: Cooke-Ray Bank
+Account Number: 7990123899
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2866
+Name: Yvonne Banks
+National ID: 515-12-3171
+Bank: Cummings and Sons Bank
+Account Number: 8314833378
+Consent Status: Revoked

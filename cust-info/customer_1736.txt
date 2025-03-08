@@ -1,0 +1,6 @@
+Customer ID: 1736
+Name: Mary Cameron
+National ID: 346-26-8057
+Bank: Anthony, Harvey and Morris Bank
+Account Number: 9518052917
+Consent Status: Granted

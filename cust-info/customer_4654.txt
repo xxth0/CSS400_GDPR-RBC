@@ -1,0 +1,6 @@
+Customer ID: 4654
+Name: Jamie Little
+National ID: 659-41-3401
+Bank: Bryant-Calderon Bank
+Account Number: 4265578674
+Consent Status: Revoked

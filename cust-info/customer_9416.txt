@@ -1,0 +1,6 @@
+Customer ID: 9416
+Name: Samantha Gray
+National ID: 039-57-5671
+Bank: Green Inc Bank
+Account Number: 3814299798
+Consent Status: Granted

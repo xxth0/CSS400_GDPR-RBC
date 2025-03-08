@@ -1,0 +1,6 @@
+Customer ID: 3946
+Name: Jasmine Knox
+National ID: 759-37-6142
+Bank: Decker Inc Bank
+Account Number: 3753010521
+Consent Status: Revoked

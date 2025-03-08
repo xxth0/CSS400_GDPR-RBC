@@ -1,0 +1,6 @@
+Customer ID: 5634
+Name: Nathan Townsend
+National ID: 114-48-3716
+Bank: Peters-Martin Bank
+Account Number: 2678568367
+Consent Status: Granted

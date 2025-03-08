@@ -1,0 +1,6 @@
+Customer ID: 6011
+Name: Jessica Smith
+National ID: 526-61-7262
+Bank: Jones, Watkins and Ingram Bank
+Account Number: 8109385989
+Consent Status: Revoked

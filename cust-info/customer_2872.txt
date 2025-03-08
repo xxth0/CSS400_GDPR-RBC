@@ -1,0 +1,6 @@
+Customer ID: 2872
+Name: Jennifer Doyle
+National ID: 540-75-3340
+Bank: Perry, Jordan and Yoder Bank
+Account Number: 3880688525
+Consent Status: Revoked

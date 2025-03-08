@@ -1,0 +1,6 @@
+Customer ID: 1266
+Name: Jorge Jones
+National ID: 454-66-1505
+Bank: Cooper, Pearson and Velasquez Bank
+Account Number: 8191764890
+Consent Status: Revoked

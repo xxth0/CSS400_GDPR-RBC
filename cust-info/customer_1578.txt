@@ -1,0 +1,6 @@
+Customer ID: 1578
+Name: Brandon Tucker
+National ID: 435-29-0306
+Bank: Garcia-Webb Bank
+Account Number: 8792428406
+Consent Status: Granted

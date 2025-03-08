@@ -1,0 +1,6 @@
+Customer ID: 3869
+Name: Samuel Moody
+National ID: 798-04-6868
+Bank: Simpson Inc Bank
+Account Number: 1526575654
+Consent Status: Granted

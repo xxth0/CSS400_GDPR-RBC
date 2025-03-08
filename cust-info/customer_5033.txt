@@ -1,0 +1,6 @@
+Customer ID: 5033
+Name: Wanda Kim
+National ID: 288-81-6078
+Bank: Jensen, Clark and Cardenas Bank
+Account Number: 5340024953
+Consent Status: Revoked

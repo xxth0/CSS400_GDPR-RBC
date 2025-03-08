@@ -1,0 +1,6 @@
+Customer ID: 3795
+Name: Ashley May
+National ID: 054-48-1090
+Bank: Vargas, Chang and Myers Bank
+Account Number: 6028614190
+Consent Status: Revoked

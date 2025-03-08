@@ -1,0 +1,6 @@
+Customer ID: 5903
+Name: Amy Collier
+National ID: 138-16-9455
+Bank: Brown-Mclaughlin Bank
+Account Number: 8184739375
+Consent Status: Revoked

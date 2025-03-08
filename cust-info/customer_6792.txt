@@ -1,0 +1,6 @@
+Customer ID: 6792
+Name: Wendy Fox
+National ID: 037-90-2907
+Bank: Kennedy, Dunn and Ross Bank
+Account Number: 5562280587
+Consent Status: Granted

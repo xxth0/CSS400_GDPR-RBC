@@ -1,0 +1,6 @@
+Customer ID: 8088
+Name: Curtis Miller
+National ID: 483-33-3712
+Bank: Smith-Chandler Bank
+Account Number: 6185432817
+Consent Status: Granted

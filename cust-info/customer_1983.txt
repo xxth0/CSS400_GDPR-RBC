@@ -1,0 +1,6 @@
+Customer ID: 1983
+Name: Terry Todd
+National ID: 718-73-1748
+Bank: Hays and Sons Bank
+Account Number: 4371989523
+Consent Status: Revoked

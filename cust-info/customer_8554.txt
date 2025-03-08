@@ -1,0 +1,6 @@
+Customer ID: 8554
+Name: Hunter Adams
+National ID: 815-14-7250
+Bank: Rodriguez PLC Bank
+Account Number: 2593019018
+Consent Status: Revoked

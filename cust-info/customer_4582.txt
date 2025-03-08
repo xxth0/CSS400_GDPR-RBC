@@ -1,0 +1,6 @@
+Customer ID: 4582
+Name: Andrew Wise
+National ID: 056-30-1483
+Bank: Bruce PLC Bank
+Account Number: 8351247240
+Consent Status: Granted

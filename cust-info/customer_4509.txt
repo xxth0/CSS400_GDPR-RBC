@@ -1,0 +1,6 @@
+Customer ID: 4509
+Name: Mitchell Salazar
+National ID: 885-41-9351
+Bank: Quinn LLC Bank
+Account Number: 9571910873
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 773
+Name: Brittany Huffman
+National ID: 152-29-0841
+Bank: Winters Group Bank
+Account Number: 7100332426
+Consent Status: Revoked

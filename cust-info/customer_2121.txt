@@ -1,0 +1,6 @@
+Customer ID: 2121
+Name: Norman Jenkins
+National ID: 671-47-1745
+Bank: Jackson Group Bank
+Account Number: 9059259693
+Consent Status: Granted

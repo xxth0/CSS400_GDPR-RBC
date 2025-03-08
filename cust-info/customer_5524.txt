@@ -1,0 +1,6 @@
+Customer ID: 5524
+Name: Andrea Gill
+National ID: 436-14-6249
+Bank: Brock-Hall Bank
+Account Number: 9947708247
+Consent Status: Granted

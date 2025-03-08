@@ -1,0 +1,6 @@
+Customer ID: 9524
+Name: Erika Carr
+National ID: 625-64-7948
+Bank: Gross-Johnson Bank
+Account Number: 9942042299
+Consent Status: Revoked

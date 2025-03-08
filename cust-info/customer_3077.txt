@@ -1,0 +1,6 @@
+Customer ID: 3077
+Name: Alejandro Rojas
+National ID: 667-67-4289
+Bank: Moore-Bowman Bank
+Account Number: 6260708308
+Consent Status: Revoked

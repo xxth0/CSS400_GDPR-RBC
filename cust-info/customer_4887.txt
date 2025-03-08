@@ -1,0 +1,6 @@
+Customer ID: 4887
+Name: Michael Gibson
+National ID: 341-83-7723
+Bank: Brooks-Dixon Bank
+Account Number: 3647718230
+Consent Status: Granted

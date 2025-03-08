@@ -1,0 +1,6 @@
+Customer ID: 4923
+Name: Douglas Bowen
+National ID: 819-31-7321
+Bank: Potts-Gonzalez Bank
+Account Number: 6812356913
+Consent Status: Granted

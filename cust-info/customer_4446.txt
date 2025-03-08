@@ -1,0 +1,6 @@
+Customer ID: 4446
+Name: Shannon George
+National ID: 300-94-8168
+Bank: Murray-West Bank
+Account Number: 8380841631
+Consent Status: Revoked

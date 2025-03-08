@@ -1,0 +1,6 @@
+Customer ID: 4309
+Name: Benjamin Fields PhD
+National ID: 486-37-4861
+Bank: Carter, Thompson and Bruce Bank
+Account Number: 7978874178
+Consent Status: Granted

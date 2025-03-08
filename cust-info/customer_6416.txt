@@ -1,0 +1,6 @@
+Customer ID: 6416
+Name: Morgan Perez
+National ID: 221-97-4171
+Bank: Pierce and Sons Bank
+Account Number: 2390306726
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7295
+Name: Morgan Barrera
+National ID: 670-17-5827
+Bank: Morris Group Bank
+Account Number: 6538553004
+Consent Status: Revoked

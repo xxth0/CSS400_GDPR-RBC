@@ -1,0 +1,6 @@
+Customer ID: 8482
+Name: Greg Mckenzie
+National ID: 423-04-3705
+Bank: Vazquez-Mitchell Bank
+Account Number: 8719635833
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7588
+Name: James Jenkins
+National ID: 676-50-3546
+Bank: Graham-Rodriguez Bank
+Account Number: 3931934526
+Consent Status: Revoked

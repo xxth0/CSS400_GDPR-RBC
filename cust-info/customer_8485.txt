@@ -1,0 +1,6 @@
+Customer ID: 8485
+Name: Ryan Cunningham
+National ID: 412-48-0184
+Bank: Mcdaniel-Patrick Bank
+Account Number: 8708862990
+Consent Status: Revoked

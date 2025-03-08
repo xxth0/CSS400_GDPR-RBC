@@ -1,0 +1,6 @@
+Customer ID: 4120
+Name: Kimberly Weber
+National ID: 532-05-2544
+Bank: Cruz-Burgess Bank
+Account Number: 1475127609
+Consent Status: Revoked

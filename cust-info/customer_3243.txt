@@ -1,0 +1,6 @@
+Customer ID: 3243
+Name: Kendra Richards
+National ID: 399-68-9878
+Bank: Patterson-Thompson Bank
+Account Number: 2658154072
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6439
+Name: Kathryn Perez
+National ID: 023-58-0884
+Bank: Young, Gordon and Black Bank
+Account Number: 7905791780
+Consent Status: Revoked

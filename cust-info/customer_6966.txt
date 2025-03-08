@@ -1,0 +1,6 @@
+Customer ID: 6966
+Name: Stacy Bell
+National ID: 326-29-8124
+Bank: Mcclain LLC Bank
+Account Number: 1807708787
+Consent Status: Granted

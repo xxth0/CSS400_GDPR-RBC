@@ -1,0 +1,6 @@
+Customer ID: 2714
+Name: Lauren Wagner
+National ID: 636-56-7992
+Bank: Casey-Mckee Bank
+Account Number: 9274299469
+Consent Status: Granted

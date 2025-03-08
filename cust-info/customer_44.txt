@@ -1,0 +1,6 @@
+Customer ID: 44
+Name: Richard Walker
+National ID: 732-97-0824
+Bank: Scott-Brown Bank
+Account Number: 1829506380
+Consent Status: Granted

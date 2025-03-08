@@ -1,0 +1,6 @@
+Customer ID: 8089
+Name: Erica Humphrey
+National ID: 472-12-3142
+Bank: Watson Group Bank
+Account Number: 7996119158
+Consent Status: Revoked

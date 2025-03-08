@@ -1,0 +1,6 @@
+Customer ID: 7649
+Name: Joanna Lawson
+National ID: 684-03-8116
+Bank: Russell, Pierce and Garrett Bank
+Account Number: 1454161808
+Consent Status: Granted

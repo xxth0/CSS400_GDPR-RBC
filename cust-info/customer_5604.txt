@@ -1,0 +1,6 @@
+Customer ID: 5604
+Name: Michael Lowe
+National ID: 377-91-8810
+Bank: Brown and Sons Bank
+Account Number: 4185765505
+Consent Status: Revoked

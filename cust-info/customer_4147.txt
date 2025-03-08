@@ -1,0 +1,6 @@
+Customer ID: 4147
+Name: Kristin Adkins
+National ID: 087-60-1546
+Bank: Knight-Price Bank
+Account Number: 8120945910
+Consent Status: Revoked

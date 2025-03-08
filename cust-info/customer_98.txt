@@ -1,0 +1,6 @@
+Customer ID: 98
+Name: Erin Brown
+National ID: 827-83-2990
+Bank: Holmes Ltd Bank
+Account Number: 8265628340
+Consent Status: Revoked

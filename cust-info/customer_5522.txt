@@ -1,0 +1,6 @@
+Customer ID: 5522
+Name: Geoffrey Huff
+National ID: 126-84-4196
+Bank: Lopez-Lee Bank
+Account Number: 4817740895
+Consent Status: Granted

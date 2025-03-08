@@ -1,0 +1,6 @@
+Customer ID: 3002
+Name: John Rivera
+National ID: 071-92-3225
+Bank: Hart-Bell Bank
+Account Number: 4430886115
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 754
+Name: Kristy Allen
+National ID: 260-81-4105
+Bank: Brown LLC Bank
+Account Number: 7053744230
+Consent Status: Revoked

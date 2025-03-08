@@ -1,0 +1,6 @@
+Customer ID: 9976
+Name: Dylan Phillips
+National ID: 825-31-8832
+Bank: Humphrey, Cooper and Mueller Bank
+Account Number: 3677859417
+Consent Status: Revoked

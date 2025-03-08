@@ -1,0 +1,6 @@
+Customer ID: 6087
+Name: Jack Olson
+National ID: 658-13-3569
+Bank: Allen-Simmons Bank
+Account Number: 3440437551
+Consent Status: Revoked

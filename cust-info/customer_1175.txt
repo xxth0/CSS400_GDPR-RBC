@@ -1,0 +1,6 @@
+Customer ID: 1175
+Name: Sabrina Moore
+National ID: 165-77-7372
+Bank: Avery, Navarro and Ellis Bank
+Account Number: 8969752340
+Consent Status: Revoked

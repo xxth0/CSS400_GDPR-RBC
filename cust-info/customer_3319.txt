@@ -1,0 +1,6 @@
+Customer ID: 3319
+Name: Stephanie Trevino
+National ID: 675-30-1099
+Bank: Reese LLC Bank
+Account Number: 1227686276
+Consent Status: Revoked

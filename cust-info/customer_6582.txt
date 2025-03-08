@@ -1,0 +1,6 @@
+Customer ID: 6582
+Name: Alexis Wong
+National ID: 342-43-0726
+Bank: Collier Group Bank
+Account Number: 7591549119
+Consent Status: Granted

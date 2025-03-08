@@ -1,0 +1,6 @@
+Customer ID: 5897
+Name: Rodney Ingram
+National ID: 647-24-5901
+Bank: Lopez, Wood and Smith Bank
+Account Number: 1769787733
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2304
+Name: Danielle Lopez
+National ID: 002-97-6015
+Bank: Cameron, Anderson and White Bank
+Account Number: 2129767336
+Consent Status: Granted

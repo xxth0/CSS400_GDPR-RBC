@@ -1,0 +1,6 @@
+Customer ID: 4588
+Name: Johnathan Stafford
+National ID: 785-13-1348
+Bank: Ortega, Lane and Weber Bank
+Account Number: 3484749398
+Consent Status: Revoked

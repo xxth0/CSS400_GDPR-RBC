@@ -1,0 +1,6 @@
+Customer ID: 1470
+Name: David Cortez
+National ID: 289-62-6261
+Bank: Reeves-Johnson Bank
+Account Number: 1807241815
+Consent Status: Revoked

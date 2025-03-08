@@ -1,0 +1,6 @@
+Customer ID: 3696
+Name: Amber Manning
+National ID: 442-95-0762
+Bank: Harding, Mills and Curtis Bank
+Account Number: 1566466863
+Consent Status: Granted

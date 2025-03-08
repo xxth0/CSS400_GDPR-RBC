@@ -1,0 +1,6 @@
+Customer ID: 2486
+Name: Kenneth Johnson
+National ID: 125-37-8544
+Bank: Lucas, Zavala and Lee Bank
+Account Number: 8174931812
+Consent Status: Granted

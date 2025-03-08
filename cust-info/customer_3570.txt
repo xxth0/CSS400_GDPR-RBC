@@ -1,0 +1,6 @@
+Customer ID: 3570
+Name: Anthony Sullivan
+National ID: 625-89-4129
+Bank: Cruz, Gibson and Skinner Bank
+Account Number: 5820046255
+Consent Status: Granted

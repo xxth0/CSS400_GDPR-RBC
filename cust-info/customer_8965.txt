@@ -1,0 +1,6 @@
+Customer ID: 8965
+Name: Michael Knox
+National ID: 105-61-2945
+Bank: Simmons-Guerrero Bank
+Account Number: 5003033791
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9867
+Name: Alexander Russell
+National ID: 135-99-9739
+Bank: Townsend, Sandoval and Brown Bank
+Account Number: 7238830623
+Consent Status: Revoked

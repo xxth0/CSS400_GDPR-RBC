@@ -1,0 +1,6 @@
+Customer ID: 7654
+Name: Christopher Harris
+National ID: 082-78-3729
+Bank: Drake-Ayers Bank
+Account Number: 4968965406
+Consent Status: Granted

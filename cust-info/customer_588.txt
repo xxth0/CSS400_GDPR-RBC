@@ -1,0 +1,6 @@
+Customer ID: 588
+Name: Lauren Carrillo
+National ID: 823-94-6990
+Bank: Suarez Inc Bank
+Account Number: 8310923777
+Consent Status: Granted

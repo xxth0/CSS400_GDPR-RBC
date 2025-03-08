@@ -1,0 +1,6 @@
+Customer ID: 959
+Name: Stacey Smith
+National ID: 575-45-6558
+Bank: Fowler-Hanson Bank
+Account Number: 6108308528
+Consent Status: Granted

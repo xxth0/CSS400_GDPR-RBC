@@ -1,0 +1,6 @@
+Customer ID: 8027
+Name: Ronnie Klein
+National ID: 245-19-5158
+Bank: Thompson and Sons Bank
+Account Number: 2856466731
+Consent Status: Revoked

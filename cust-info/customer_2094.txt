@@ -1,0 +1,6 @@
+Customer ID: 2094
+Name: Jo White
+National ID: 367-01-3019
+Bank: Roth, Collins and Stone Bank
+Account Number: 7822369490
+Consent Status: Revoked

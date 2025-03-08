@@ -1,0 +1,6 @@
+Customer ID: 5508
+Name: Jennifer James
+National ID: 627-49-2902
+Bank: Barnes-Nash Bank
+Account Number: 5483669172
+Consent Status: Revoked

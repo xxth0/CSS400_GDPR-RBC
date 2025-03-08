@@ -1,0 +1,6 @@
+Customer ID: 5798
+Name: Luis Little
+National ID: 103-54-3146
+Bank: Dean and Sons Bank
+Account Number: 1118644081
+Consent Status: Revoked

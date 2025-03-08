@@ -1,0 +1,6 @@
+Customer ID: 6887
+Name: Jonathan Carter
+National ID: 719-33-5295
+Bank: Scott Ltd Bank
+Account Number: 8601610158
+Consent Status: Granted

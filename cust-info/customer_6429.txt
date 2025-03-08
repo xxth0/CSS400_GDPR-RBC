@@ -1,0 +1,6 @@
+Customer ID: 6429
+Name: Francisco Diaz
+National ID: 039-40-8709
+Bank: Henderson Group Bank
+Account Number: 7983854111
+Consent Status: Revoked

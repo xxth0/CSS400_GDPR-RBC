@@ -1,0 +1,6 @@
+Customer ID: 6863
+Name: Emily Smith
+National ID: 177-78-6820
+Bank: Bentley-Atkinson Bank
+Account Number: 3190321509
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3221
+Name: Mike Parker
+National ID: 181-57-7643
+Bank: Parker, Smith and Prince Bank
+Account Number: 7568690863
+Consent Status: Revoked

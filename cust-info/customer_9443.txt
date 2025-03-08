@@ -1,0 +1,6 @@
+Customer ID: 9443
+Name: Scott Bradford
+National ID: 227-78-9120
+Bank: Griffin, Rodriguez and Johnson Bank
+Account Number: 4378727519
+Consent Status: Granted

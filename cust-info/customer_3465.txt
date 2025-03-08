@@ -1,0 +1,6 @@
+Customer ID: 3465
+Name: Henry Allen
+National ID: 788-04-9839
+Bank: Mckay, Goodman and Briggs Bank
+Account Number: 8888175035
+Consent Status: Revoked

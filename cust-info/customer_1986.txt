@@ -1,0 +1,6 @@
+Customer ID: 1986
+Name: Monique Mills
+National ID: 169-67-4102
+Bank: Patterson LLC Bank
+Account Number: 6222386385
+Consent Status: Revoked

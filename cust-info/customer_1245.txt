@@ -1,0 +1,6 @@
+Customer ID: 1245
+Name: Rachel Manning
+National ID: 073-54-7081
+Bank: Moore and Sons Bank
+Account Number: 9061424384
+Consent Status: Granted

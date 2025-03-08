@@ -1,0 +1,6 @@
+Customer ID: 5224
+Name: Yolanda Cummings
+National ID: 365-67-4086
+Bank: Maxwell, Matthews and Harrell Bank
+Account Number: 9427874989
+Consent Status: Granted

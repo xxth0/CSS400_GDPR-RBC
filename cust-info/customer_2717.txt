@@ -1,0 +1,6 @@
+Customer ID: 2717
+Name: Melissa Collins
+National ID: 043-22-5378
+Bank: Taylor-Miller Bank
+Account Number: 8911421119
+Consent Status: Revoked

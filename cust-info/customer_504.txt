@@ -1,0 +1,6 @@
+Customer ID: 504
+Name: Linda Mendez
+National ID: 555-81-6458
+Bank: Russo LLC Bank
+Account Number: 4450793789
+Consent Status: Granted

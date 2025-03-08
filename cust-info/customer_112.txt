@@ -1,0 +1,6 @@
+Customer ID: 112
+Name: Tyler Young
+National ID: 774-57-6851
+Bank: Wilkins, Martin and Cannon Bank
+Account Number: 3750550439
+Consent Status: Revoked

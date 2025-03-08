@@ -1,0 +1,6 @@
+Customer ID: 4524
+Name: Kelli Brown
+National ID: 004-01-4081
+Bank: Bradley-Guerrero Bank
+Account Number: 2501115483
+Consent Status: Revoked

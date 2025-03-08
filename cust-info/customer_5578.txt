@@ -1,0 +1,6 @@
+Customer ID: 5578
+Name: Julie Brown
+National ID: 603-46-7679
+Bank: Roach, Bell and Williams Bank
+Account Number: 2933514693
+Consent Status: Revoked

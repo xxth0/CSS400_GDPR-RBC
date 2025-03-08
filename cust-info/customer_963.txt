@@ -1,0 +1,6 @@
+Customer ID: 963
+Name: Cody Larsen
+National ID: 121-88-8372
+Bank: Butler-Meyer Bank
+Account Number: 9112528654
+Consent Status: Revoked

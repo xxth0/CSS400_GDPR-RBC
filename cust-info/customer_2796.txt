@@ -1,0 +1,6 @@
+Customer ID: 2796
+Name: Jose Edwards
+National ID: 363-48-9776
+Bank: Stevens, Garcia and Salas Bank
+Account Number: 9855963873
+Consent Status: Granted

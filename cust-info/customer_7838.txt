@@ -1,0 +1,6 @@
+Customer ID: 7838
+Name: Mr. Timothy Kelly
+National ID: 670-24-9595
+Bank: Fisher Inc Bank
+Account Number: 9328428549
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3133
+Name: Patricia Strong
+National ID: 729-07-7950
+Bank: Johnson-Johnson Bank
+Account Number: 1205158471
+Consent Status: Granted

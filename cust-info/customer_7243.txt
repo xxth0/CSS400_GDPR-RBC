@@ -1,0 +1,6 @@
+Customer ID: 7243
+Name: Emily Maxwell
+National ID: 866-31-5187
+Bank: Ryan-Cordova Bank
+Account Number: 3373019540
+Consent Status: Granted

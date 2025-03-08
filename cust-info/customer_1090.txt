@@ -1,0 +1,6 @@
+Customer ID: 1090
+Name: Jose Lee
+National ID: 742-60-6022
+Bank: Kelly, Bonilla and Zimmerman Bank
+Account Number: 3797143561
+Consent Status: Revoked

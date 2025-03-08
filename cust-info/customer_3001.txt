@@ -1,0 +1,6 @@
+Customer ID: 3001
+Name: David Pena
+National ID: 736-51-0050
+Bank: Brady-Roberson Bank
+Account Number: 5447370590
+Consent Status: Revoked

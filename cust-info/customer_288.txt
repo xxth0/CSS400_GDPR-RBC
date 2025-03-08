@@ -1,0 +1,6 @@
+Customer ID: 288
+Name: Travis Cooke
+National ID: 106-88-0266
+Bank: Stephens-Smith Bank
+Account Number: 3370237177
+Consent Status: Granted

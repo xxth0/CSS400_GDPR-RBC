@@ -1,0 +1,6 @@
+Customer ID: 387
+Name: Brooke Hill
+National ID: 701-34-0039
+Bank: Miranda PLC Bank
+Account Number: 7964192528
+Consent Status: Revoked

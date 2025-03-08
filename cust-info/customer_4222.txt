@@ -1,0 +1,6 @@
+Customer ID: 4222
+Name: Rodney Austin
+National ID: 420-18-0597
+Bank: Gomez-Mcintyre Bank
+Account Number: 2131459584
+Consent Status: Granted

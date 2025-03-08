@@ -1,0 +1,6 @@
+Customer ID: 329
+Name: Darrell Mitchell
+National ID: 501-08-4172
+Bank: Ortiz-Cruz Bank
+Account Number: 6315021190
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3645
+Name: David Taylor
+National ID: 744-50-4246
+Bank: Smith-King Bank
+Account Number: 9374589285
+Consent Status: Revoked

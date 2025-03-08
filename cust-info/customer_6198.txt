@@ -1,0 +1,6 @@
+Customer ID: 6198
+Name: Joseph Jackson
+National ID: 692-95-7420
+Bank: Clark, Davidson and Cabrera Bank
+Account Number: 1544178494
+Consent Status: Revoked

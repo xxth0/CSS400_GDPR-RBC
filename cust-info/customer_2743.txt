@@ -1,0 +1,6 @@
+Customer ID: 2743
+Name: Mary Hunt
+National ID: 813-55-0003
+Bank: Clark Group Bank
+Account Number: 6238496992
+Consent Status: Revoked

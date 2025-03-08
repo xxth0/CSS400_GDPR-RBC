@@ -1,0 +1,6 @@
+Customer ID: 4048
+Name: Veronica Carson
+National ID: 016-09-7733
+Bank: Christensen-Jones Bank
+Account Number: 1266596151
+Consent Status: Revoked

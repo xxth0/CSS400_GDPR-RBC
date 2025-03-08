@@ -1,0 +1,6 @@
+Customer ID: 4719
+Name: Christian Harrington
+National ID: 591-58-6019
+Bank: Bradley-Allen Bank
+Account Number: 4332509618
+Consent Status: Granted

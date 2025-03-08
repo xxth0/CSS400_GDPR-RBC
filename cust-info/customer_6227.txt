@@ -1,0 +1,6 @@
+Customer ID: 6227
+Name: Kathryn Jackson
+National ID: 178-78-4155
+Bank: West-Reyes Bank
+Account Number: 1566953215
+Consent Status: Granted

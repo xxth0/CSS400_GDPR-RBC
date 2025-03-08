@@ -1,0 +1,6 @@
+Customer ID: 9864
+Name: Jasmine Roberts
+National ID: 766-51-9692
+Bank: Quinn and Sons Bank
+Account Number: 3614845930
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5163
+Name: April Daniel
+National ID: 452-80-5521
+Bank: King Inc Bank
+Account Number: 5783549216
+Consent Status: Revoked

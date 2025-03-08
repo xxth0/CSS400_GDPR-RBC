@@ -1,0 +1,6 @@
+Customer ID: 9542
+Name: Elizabeth Reynolds
+National ID: 229-47-7959
+Bank: Diaz, Carter and Nelson Bank
+Account Number: 8825171981
+Consent Status: Revoked

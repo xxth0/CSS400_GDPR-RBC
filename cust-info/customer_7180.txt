@@ -1,0 +1,6 @@
+Customer ID: 7180
+Name: Natasha Perkins
+National ID: 541-65-7929
+Bank: Neal PLC Bank
+Account Number: 9719040174
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6058
+Name: Matthew Andrews
+National ID: 685-65-5237
+Bank: Velasquez, Garcia and Rodriguez Bank
+Account Number: 2805040812
+Consent Status: Granted

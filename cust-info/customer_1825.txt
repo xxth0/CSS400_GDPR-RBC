@@ -1,0 +1,6 @@
+Customer ID: 1825
+Name: Amy Frazier
+National ID: 856-74-5953
+Bank: Garcia-Holmes Bank
+Account Number: 7176634182
+Consent Status: Revoked

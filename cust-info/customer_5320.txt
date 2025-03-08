@@ -1,0 +1,6 @@
+Customer ID: 5320
+Name: Frank Lutz
+National ID: 379-93-6625
+Bank: Richardson-Butler Bank
+Account Number: 9098096783
+Consent Status: Granted

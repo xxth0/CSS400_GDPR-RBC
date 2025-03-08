@@ -1,0 +1,6 @@
+Customer ID: 9657
+Name: Jamie Phillips
+National ID: 040-67-1428
+Bank: Cooper-Daniel Bank
+Account Number: 2044388995
+Consent Status: Revoked

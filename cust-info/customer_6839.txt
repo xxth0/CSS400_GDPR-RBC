@@ -1,0 +1,6 @@
+Customer ID: 6839
+Name: Mrs. Emily Brown
+National ID: 808-82-3551
+Bank: Flynn, Rose and Cruz Bank
+Account Number: 7551400109
+Consent Status: Granted

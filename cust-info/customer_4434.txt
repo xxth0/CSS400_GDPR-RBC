@@ -1,0 +1,6 @@
+Customer ID: 4434
+Name: Traci Campos
+National ID: 131-45-6282
+Bank: Jones-Hawkins Bank
+Account Number: 7477746997
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1802
+Name: Henry Brown
+National ID: 348-19-4894
+Bank: Evans-Lee Bank
+Account Number: 7060152932
+Consent Status: Granted

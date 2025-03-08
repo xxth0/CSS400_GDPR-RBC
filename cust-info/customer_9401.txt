@@ -1,0 +1,6 @@
+Customer ID: 9401
+Name: Mary Carlson
+National ID: 859-97-4126
+Bank: Freeman Inc Bank
+Account Number: 4177511030
+Consent Status: Granted

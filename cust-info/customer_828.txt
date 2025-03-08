@@ -1,0 +1,6 @@
+Customer ID: 828
+Name: Bradley Mccormick
+National ID: 367-69-2675
+Bank: Hall-Lewis Bank
+Account Number: 2358013797
+Consent Status: Granted

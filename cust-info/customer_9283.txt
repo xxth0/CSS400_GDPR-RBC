@@ -1,0 +1,6 @@
+Customer ID: 9283
+Name: Michael Murphy
+National ID: 315-86-4543
+Bank: Martin, Turner and Sims Bank
+Account Number: 3288252335
+Consent Status: Granted

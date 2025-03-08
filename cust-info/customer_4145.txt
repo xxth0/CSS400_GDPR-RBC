@@ -1,0 +1,6 @@
+Customer ID: 4145
+Name: David Atkins
+National ID: 377-66-2055
+Bank: Bennett Inc Bank
+Account Number: 8788114576
+Consent Status: Revoked

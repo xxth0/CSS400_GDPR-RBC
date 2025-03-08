@@ -1,0 +1,6 @@
+Customer ID: 4152
+Name: Alfred Cooper
+National ID: 566-21-0901
+Bank: Rangel PLC Bank
+Account Number: 7937407855
+Consent Status: Revoked

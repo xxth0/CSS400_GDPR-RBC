@@ -1,0 +1,6 @@
+Customer ID: 3811
+Name: Raymond Cooke
+National ID: 624-73-4184
+Bank: Jones, Sutton and Jordan Bank
+Account Number: 4198722396
+Consent Status: Revoked

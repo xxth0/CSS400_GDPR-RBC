@@ -1,0 +1,6 @@
+Customer ID: 8052
+Name: Patricia Miller
+National ID: 555-68-0644
+Bank: Perez LLC Bank
+Account Number: 6331253593
+Consent Status: Revoked

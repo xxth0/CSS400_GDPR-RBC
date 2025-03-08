@@ -1,0 +1,6 @@
+Customer ID: 9101
+Name: Megan Johnson
+National ID: 283-17-9708
+Bank: Cowan-Moore Bank
+Account Number: 9492812031
+Consent Status: Revoked

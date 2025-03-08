@@ -1,0 +1,6 @@
+Customer ID: 1930
+Name: Norman Turner
+National ID: 488-87-5204
+Bank: Lozano, Thomas and Lyons Bank
+Account Number: 2306857858
+Consent Status: Revoked

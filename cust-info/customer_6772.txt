@@ -1,0 +1,6 @@
+Customer ID: 6772
+Name: Carla Harris
+National ID: 114-80-3201
+Bank: Pham-Blair Bank
+Account Number: 8026344298
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9380
+Name: Mark Bishop
+National ID: 747-25-0936
+Bank: Morales, Rocha and Santos Bank
+Account Number: 4844176443
+Consent Status: Granted

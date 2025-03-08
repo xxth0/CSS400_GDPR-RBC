@@ -1,0 +1,6 @@
+Customer ID: 2289
+Name: John Farmer
+National ID: 382-27-8624
+Bank: Monroe, Henderson and Hobbs Bank
+Account Number: 7019699595
+Consent Status: Granted

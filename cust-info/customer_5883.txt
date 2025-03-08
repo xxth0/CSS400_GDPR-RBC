@@ -1,0 +1,6 @@
+Customer ID: 5883
+Name: David Reid
+National ID: 811-82-2984
+Bank: Singh, Ali and Smith Bank
+Account Number: 4391751969
+Consent Status: Granted

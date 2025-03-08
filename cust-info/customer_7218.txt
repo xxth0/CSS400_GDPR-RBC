@@ -1,0 +1,6 @@
+Customer ID: 7218
+Name: Ashley Watson
+National ID: 624-79-4126
+Bank: Hall-Peterson Bank
+Account Number: 8030684217
+Consent Status: Granted

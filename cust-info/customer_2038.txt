@@ -1,0 +1,6 @@
+Customer ID: 2038
+Name: Brandy Lopez
+National ID: 584-64-8053
+Bank: Adams Ltd Bank
+Account Number: 2180123097
+Consent Status: Granted

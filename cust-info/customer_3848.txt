@@ -1,0 +1,6 @@
+Customer ID: 3848
+Name: Zoe Olson
+National ID: 007-55-0836
+Bank: Hodges-Greene Bank
+Account Number: 7819683762
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 608
+Name: Christine Cooper
+National ID: 708-44-5464
+Bank: Obrien Ltd Bank
+Account Number: 8320726926
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5125
+Name: Lawrence Vazquez
+National ID: 094-42-4698
+Bank: Adams-Lewis Bank
+Account Number: 9143273425
+Consent Status: Revoked

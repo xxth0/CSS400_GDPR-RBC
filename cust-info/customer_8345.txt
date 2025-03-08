@@ -1,0 +1,6 @@
+Customer ID: 8345
+Name: Eric Jenkins
+National ID: 435-11-1315
+Bank: Yates, James and Stephens Bank
+Account Number: 6715850920
+Consent Status: Revoked

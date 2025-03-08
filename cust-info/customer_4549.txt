@@ -1,0 +1,6 @@
+Customer ID: 4549
+Name: Eric Pearson
+National ID: 795-65-6739
+Bank: Clayton Inc Bank
+Account Number: 1687815576
+Consent Status: Granted

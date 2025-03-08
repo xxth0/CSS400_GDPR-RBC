@@ -1,0 +1,6 @@
+Customer ID: 4184
+Name: Marcus Hansen
+National ID: 067-92-0034
+Bank: Reynolds Group Bank
+Account Number: 2774497687
+Consent Status: Granted

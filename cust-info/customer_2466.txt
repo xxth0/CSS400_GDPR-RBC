@@ -1,0 +1,6 @@
+Customer ID: 2466
+Name: Mr. Charles Cook
+National ID: 107-45-1175
+Bank: Velez PLC Bank
+Account Number: 6901919721
+Consent Status: Revoked

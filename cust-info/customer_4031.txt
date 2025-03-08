@@ -1,0 +1,6 @@
+Customer ID: 4031
+Name: Christine Smith
+National ID: 523-02-4553
+Bank: Patel, Delacruz and Ramos Bank
+Account Number: 7917786695
+Consent Status: Revoked

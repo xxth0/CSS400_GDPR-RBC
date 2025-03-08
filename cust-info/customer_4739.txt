@@ -1,0 +1,6 @@
+Customer ID: 4739
+Name: Daniel Rivers
+National ID: 407-06-4098
+Bank: Brown LLC Bank
+Account Number: 5223991558
+Consent Status: Granted

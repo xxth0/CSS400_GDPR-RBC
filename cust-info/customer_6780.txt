@@ -1,0 +1,6 @@
+Customer ID: 6780
+Name: Alexander Hubbard
+National ID: 114-14-9109
+Bank: Francis Ltd Bank
+Account Number: 4332348288
+Consent Status: Granted

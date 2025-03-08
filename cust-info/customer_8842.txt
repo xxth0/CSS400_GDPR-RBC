@@ -1,0 +1,6 @@
+Customer ID: 8842
+Name: Melissa Dickerson
+National ID: 016-06-6947
+Bank: Smith, Anderson and Davis Bank
+Account Number: 6312069307
+Consent Status: Revoked

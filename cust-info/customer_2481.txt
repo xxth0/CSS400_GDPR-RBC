@@ -1,0 +1,6 @@
+Customer ID: 2481
+Name: Mary Reynolds
+National ID: 494-10-3278
+Bank: Villanueva-Flores Bank
+Account Number: 8321984514
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7534
+Name: Vicki Sullivan
+National ID: 134-98-8449
+Bank: Solomon, Hamilton and Lee Bank
+Account Number: 2817104785
+Consent Status: Granted

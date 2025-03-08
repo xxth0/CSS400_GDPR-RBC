@@ -1,0 +1,6 @@
+Customer ID: 8793
+Name: Joseph Howe
+National ID: 545-76-7509
+Bank: Dixon-Turner Bank
+Account Number: 9740902522
+Consent Status: Granted

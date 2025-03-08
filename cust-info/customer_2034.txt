@@ -1,0 +1,6 @@
+Customer ID: 2034
+Name: Jeffery Thomas
+National ID: 639-31-7718
+Bank: Garcia LLC Bank
+Account Number: 4983591516
+Consent Status: Granted

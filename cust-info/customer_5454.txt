@@ -1,0 +1,6 @@
+Customer ID: 5454
+Name: Jonathan Bell
+National ID: 787-93-8244
+Bank: Beasley PLC Bank
+Account Number: 2554634851
+Consent Status: Revoked

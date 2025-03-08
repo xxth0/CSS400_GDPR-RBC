@@ -1,0 +1,6 @@
+Customer ID: 2048
+Name: Katherine Owens
+National ID: 306-79-2322
+Bank: Williams and Sons Bank
+Account Number: 7528756997
+Consent Status: Granted

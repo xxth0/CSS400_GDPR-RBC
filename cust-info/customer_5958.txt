@@ -1,0 +1,6 @@
+Customer ID: 5958
+Name: Lisa Bray
+National ID: 447-81-7230
+Bank: Cain, Vega and Ortega Bank
+Account Number: 1708565062
+Consent Status: Revoked

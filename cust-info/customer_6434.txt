@@ -1,0 +1,6 @@
+Customer ID: 6434
+Name: Brian Sawyer
+National ID: 414-65-5126
+Bank: Clark-Ware Bank
+Account Number: 8077666553
+Consent Status: Granted

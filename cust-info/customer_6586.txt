@@ -1,0 +1,6 @@
+Customer ID: 6586
+Name: Nicolas Ryan
+National ID: 272-73-4954
+Bank: Reed LLC Bank
+Account Number: 7944408467
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5833
+Name: Amanda Russell
+National ID: 092-04-4527
+Bank: Cardenas, Bailey and Warren Bank
+Account Number: 7418435787
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6872
+Name: Jennifer Moore
+National ID: 720-82-9514
+Bank: Lucas, Brewer and Dean Bank
+Account Number: 1312981649
+Consent Status: Revoked

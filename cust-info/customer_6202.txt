@@ -1,0 +1,6 @@
+Customer ID: 6202
+Name: Kimberly Castillo
+National ID: 329-58-4221
+Bank: Jackson-Griffin Bank
+Account Number: 8634824281
+Consent Status: Revoked

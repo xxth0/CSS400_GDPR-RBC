@@ -1,0 +1,6 @@
+Customer ID: 2841
+Name: Lauren Allen
+National ID: 514-86-4920
+Bank: Buckley-Smith Bank
+Account Number: 3580232810
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2377
+Name: Brandon Burke
+National ID: 328-43-3624
+Bank: Boyd-Wilson Bank
+Account Number: 4928516673
+Consent Status: Granted

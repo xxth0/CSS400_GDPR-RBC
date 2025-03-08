@@ -1,0 +1,6 @@
+Customer ID: 9348
+Name: Devon Turner
+National ID: 779-39-2512
+Bank: Fletcher-White Bank
+Account Number: 3472779783
+Consent Status: Revoked

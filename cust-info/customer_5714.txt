@@ -1,0 +1,6 @@
+Customer ID: 5714
+Name: Bobby Jarvis
+National ID: 873-55-2148
+Bank: Stevens-Snow Bank
+Account Number: 9659753933
+Consent Status: Revoked

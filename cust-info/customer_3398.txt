@@ -1,0 +1,6 @@
+Customer ID: 3398
+Name: Deborah Miller
+National ID: 614-78-8313
+Bank: King, Stone and Beltran Bank
+Account Number: 9440871437
+Consent Status: Revoked

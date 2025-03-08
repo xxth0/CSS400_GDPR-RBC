@@ -1,0 +1,6 @@
+Customer ID: 2096
+Name: Meredith Dunlap
+National ID: 444-33-5996
+Bank: Jordan-Martin Bank
+Account Number: 4465588431
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9390
+Name: Richard Smith
+National ID: 894-90-8814
+Bank: Jackson Group Bank
+Account Number: 5734229060
+Consent Status: Granted

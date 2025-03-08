@@ -1,0 +1,6 @@
+Customer ID: 3103
+Name: Jose Ruiz
+National ID: 888-17-9095
+Bank: Smith Inc Bank
+Account Number: 5726310969
+Consent Status: Granted

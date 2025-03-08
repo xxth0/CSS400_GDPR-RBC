@@ -1,0 +1,6 @@
+Customer ID: 308
+Name: Jesse Herring
+National ID: 460-90-8913
+Bank: Gaines-Hoffman Bank
+Account Number: 3170072362
+Consent Status: Revoked

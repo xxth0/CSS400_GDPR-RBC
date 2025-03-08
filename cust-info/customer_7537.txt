@@ -1,0 +1,6 @@
+Customer ID: 7537
+Name: Jennifer Potts
+National ID: 838-59-2645
+Bank: White PLC Bank
+Account Number: 5658414433
+Consent Status: Revoked

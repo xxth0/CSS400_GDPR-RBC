@@ -1,0 +1,6 @@
+Customer ID: 6435
+Name: Laura Baker
+National ID: 064-23-9160
+Bank: Edwards-Harris Bank
+Account Number: 2498107299
+Consent Status: Granted

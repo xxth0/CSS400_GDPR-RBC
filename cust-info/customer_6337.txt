@@ -1,0 +1,6 @@
+Customer ID: 6337
+Name: John Bennett
+National ID: 429-37-9299
+Bank: Duke-Miller Bank
+Account Number: 8491203055
+Consent Status: Revoked

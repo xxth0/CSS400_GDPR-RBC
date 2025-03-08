@@ -1,0 +1,6 @@
+Customer ID: 3090
+Name: Michael Lang
+National ID: 531-63-8522
+Bank: Roberts-Mason Bank
+Account Number: 9929850858
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5586
+Name: Mary Gutierrez
+National ID: 310-31-4300
+Bank: Valencia-Bond Bank
+Account Number: 9155533843
+Consent Status: Revoked

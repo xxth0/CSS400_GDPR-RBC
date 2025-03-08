@@ -1,0 +1,6 @@
+Customer ID: 8452
+Name: Martha Nguyen
+National ID: 359-23-5904
+Bank: Salazar-Lester Bank
+Account Number: 3527297263
+Consent Status: Revoked

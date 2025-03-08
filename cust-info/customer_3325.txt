@@ -1,0 +1,6 @@
+Customer ID: 3325
+Name: Steven Edwards
+National ID: 143-36-3168
+Bank: Lopez-Aguilar Bank
+Account Number: 7008258537
+Consent Status: Granted

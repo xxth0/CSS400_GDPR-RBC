@@ -1,0 +1,6 @@
+Customer ID: 382
+Name: Robert Calderon
+National ID: 678-17-8604
+Bank: Blair, Shepherd and Griffith Bank
+Account Number: 3410060191
+Consent Status: Revoked

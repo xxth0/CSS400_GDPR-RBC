@@ -1,0 +1,6 @@
+Customer ID: 7643
+Name: Jose Davis
+National ID: 807-60-0781
+Bank: Sharp, Smith and Hart Bank
+Account Number: 9060393112
+Consent Status: Granted

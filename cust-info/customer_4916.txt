@@ -1,0 +1,6 @@
+Customer ID: 4916
+Name: Jennifer Steele
+National ID: 200-76-9730
+Bank: Donaldson, Murray and Jackson Bank
+Account Number: 6951271470
+Consent Status: Granted

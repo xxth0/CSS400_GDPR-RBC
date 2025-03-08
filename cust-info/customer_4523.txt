@@ -1,0 +1,6 @@
+Customer ID: 4523
+Name: Angela Fowler
+National ID: 658-60-2098
+Bank: Carter, Humphrey and Wood Bank
+Account Number: 1109073787
+Consent Status: Revoked

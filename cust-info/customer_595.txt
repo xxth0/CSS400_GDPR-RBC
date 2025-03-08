@@ -1,0 +1,6 @@
+Customer ID: 595
+Name: Tyrone Olsen
+National ID: 028-82-6227
+Bank: Davis Group Bank
+Account Number: 6582084900
+Consent Status: Revoked

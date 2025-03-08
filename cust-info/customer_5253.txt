@@ -1,0 +1,6 @@
+Customer ID: 5253
+Name: Kimberly Johnson
+National ID: 578-30-5180
+Bank: Chase-Hernandez Bank
+Account Number: 5058470670
+Consent Status: Granted

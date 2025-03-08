@@ -1,0 +1,6 @@
+Customer ID: 9198
+Name: Michelle Brown
+National ID: 084-93-7427
+Bank: West, Vance and Wilson Bank
+Account Number: 6482284891
+Consent Status: Revoked

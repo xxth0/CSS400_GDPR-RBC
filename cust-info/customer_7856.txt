@@ -1,0 +1,6 @@
+Customer ID: 7856
+Name: Anthony Rice
+National ID: 219-24-8337
+Bank: Daniels LLC Bank
+Account Number: 1102711114
+Consent Status: Granted

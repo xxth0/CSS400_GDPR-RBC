@@ -1,0 +1,6 @@
+Customer ID: 272
+Name: Kim Hatfield
+National ID: 247-26-5550
+Bank: Travis, Garrison and Morgan Bank
+Account Number: 3900259027
+Consent Status: Revoked

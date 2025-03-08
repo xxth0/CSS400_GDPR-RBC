@@ -1,0 +1,6 @@
+Customer ID: 1207
+Name: Dawn Sanford
+National ID: 070-29-1317
+Bank: Escobar and Sons Bank
+Account Number: 1325979769
+Consent Status: Revoked

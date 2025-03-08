@@ -1,0 +1,6 @@
+Customer ID: 1702
+Name: Doris Castro
+National ID: 308-99-6936
+Bank: Murillo-Gray Bank
+Account Number: 8868469662
+Consent Status: Revoked

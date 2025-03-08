@@ -1,0 +1,6 @@
+Customer ID: 4182
+Name: Mrs. Mary Arroyo
+National ID: 842-81-7643
+Bank: Martinez-Montoya Bank
+Account Number: 2936411134
+Consent Status: Granted

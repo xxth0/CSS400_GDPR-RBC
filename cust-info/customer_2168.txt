@@ -1,0 +1,6 @@
+Customer ID: 2168
+Name: Bradley Campos
+National ID: 343-50-8344
+Bank: Cunningham-Martinez Bank
+Account Number: 5831272786
+Consent Status: Granted

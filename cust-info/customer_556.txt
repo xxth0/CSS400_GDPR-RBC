@@ -1,0 +1,6 @@
+Customer ID: 556
+Name: James Brown
+National ID: 487-75-6171
+Bank: Rodriguez-Collins Bank
+Account Number: 6623381501
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7995
+Name: Wesley Fox
+National ID: 510-30-2448
+Bank: Palmer and Sons Bank
+Account Number: 9763263278
+Consent Status: Revoked

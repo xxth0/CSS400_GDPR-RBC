@@ -1,0 +1,6 @@
+Customer ID: 2359
+Name: Brian Richardson
+National ID: 194-29-6800
+Bank: Chavez, Jones and Carpenter Bank
+Account Number: 6976830120
+Consent Status: Revoked

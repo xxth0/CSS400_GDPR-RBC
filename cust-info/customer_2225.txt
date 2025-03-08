@@ -1,0 +1,6 @@
+Customer ID: 2225
+Name: Teresa Ward
+National ID: 051-31-0592
+Bank: Wright, Logan and Watts Bank
+Account Number: 2367218277
+Consent Status: Revoked

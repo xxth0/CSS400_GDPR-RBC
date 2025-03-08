@@ -1,0 +1,6 @@
+Customer ID: 4479
+Name: Daniel Wyatt
+National ID: 710-10-2279
+Bank: Avila, Jones and Bell Bank
+Account Number: 3988873894
+Consent Status: Revoked

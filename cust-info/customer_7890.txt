@@ -1,0 +1,6 @@
+Customer ID: 7890
+Name: Tricia Perry
+National ID: 223-02-2198
+Bank: Taylor, Robinson and Bass Bank
+Account Number: 7094392775
+Consent Status: Granted

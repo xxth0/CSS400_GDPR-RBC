@@ -1,0 +1,6 @@
+Customer ID: 1915
+Name: James Odonnell DDS
+National ID: 316-99-2189
+Bank: Wolfe PLC Bank
+Account Number: 9629753476
+Consent Status: Granted

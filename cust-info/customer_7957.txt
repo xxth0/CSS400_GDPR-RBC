@@ -1,0 +1,6 @@
+Customer ID: 7957
+Name: Michelle Bates
+National ID: 023-10-5300
+Bank: Castaneda-Rangel Bank
+Account Number: 2814592996
+Consent Status: Granted

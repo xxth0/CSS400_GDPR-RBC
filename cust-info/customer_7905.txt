@@ -1,0 +1,6 @@
+Customer ID: 7905
+Name: Benjamin Mckenzie
+National ID: 753-79-4104
+Bank: Clark LLC Bank
+Account Number: 8080339381
+Consent Status: Revoked

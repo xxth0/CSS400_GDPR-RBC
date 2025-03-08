@@ -1,0 +1,6 @@
+Customer ID: 7564
+Name: Ruben Conway
+National ID: 132-34-2053
+Bank: Compton-May Bank
+Account Number: 8125710327
+Consent Status: Revoked

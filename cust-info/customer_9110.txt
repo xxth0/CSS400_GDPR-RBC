@@ -1,0 +1,6 @@
+Customer ID: 9110
+Name: Tara Malone
+National ID: 600-21-2646
+Bank: Scott-Frazier Bank
+Account Number: 1697314422
+Consent Status: Granted

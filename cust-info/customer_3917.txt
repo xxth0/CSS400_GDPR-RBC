@@ -1,0 +1,6 @@
+Customer ID: 3917
+Name: Troy Cooper
+National ID: 490-90-1889
+Bank: Brewer Ltd Bank
+Account Number: 5197410164
+Consent Status: Granted

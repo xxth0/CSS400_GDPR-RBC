@@ -1,0 +1,6 @@
+Customer ID: 1853
+Name: William Macdonald
+National ID: 708-98-2770
+Bank: Hayes-Martinez Bank
+Account Number: 8636395675
+Consent Status: Revoked

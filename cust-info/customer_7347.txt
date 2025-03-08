@@ -1,0 +1,6 @@
+Customer ID: 7347
+Name: Rodney Turner
+National ID: 261-30-9366
+Bank: Daniels, Wilson and Sims Bank
+Account Number: 7418427778
+Consent Status: Revoked

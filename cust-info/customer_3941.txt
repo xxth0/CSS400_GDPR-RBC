@@ -1,0 +1,6 @@
+Customer ID: 3941
+Name: Bobby Hart
+National ID: 533-01-1369
+Bank: Jackson LLC Bank
+Account Number: 2831829868
+Consent Status: Revoked

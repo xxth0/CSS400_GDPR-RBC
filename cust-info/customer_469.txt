@@ -1,0 +1,6 @@
+Customer ID: 469
+Name: Beth Patterson
+National ID: 548-35-3748
+Bank: Williams, Hunter and Miller Bank
+Account Number: 3029466224
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4484
+Name: Jared Pope
+National ID: 135-08-0510
+Bank: Blackwell-Sandoval Bank
+Account Number: 2826585152
+Consent Status: Revoked

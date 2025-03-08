@@ -1,0 +1,6 @@
+Customer ID: 9968
+Name: Felicia Johnson
+National ID: 632-77-6545
+Bank: Jackson and Sons Bank
+Account Number: 5033780638
+Consent Status: Revoked

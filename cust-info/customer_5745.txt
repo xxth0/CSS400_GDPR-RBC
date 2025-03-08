@@ -1,0 +1,6 @@
+Customer ID: 5745
+Name: Michael Johnson
+National ID: 431-90-3542
+Bank: Salazar, Fuentes and Larson Bank
+Account Number: 4606305645
+Consent Status: Granted

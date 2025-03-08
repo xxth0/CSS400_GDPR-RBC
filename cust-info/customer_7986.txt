@@ -1,0 +1,6 @@
+Customer ID: 7986
+Name: Sheri Decker
+National ID: 864-43-5366
+Bank: Buckley-Crosby Bank
+Account Number: 9890735181
+Consent Status: Revoked

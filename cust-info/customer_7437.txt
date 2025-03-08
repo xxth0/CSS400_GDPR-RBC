@@ -1,0 +1,6 @@
+Customer ID: 7437
+Name: Thomas Hernandez
+National ID: 712-27-9125
+Bank: Brock, Lowe and Mitchell Bank
+Account Number: 1429922670
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8193
+Name: Latoya Obrien
+National ID: 010-78-2318
+Bank: David, Medina and Smith Bank
+Account Number: 2357089453
+Consent Status: Granted

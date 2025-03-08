@@ -1,0 +1,6 @@
+Customer ID: 9839
+Name: Sabrina Gray
+National ID: 021-27-5820
+Bank: Lee Ltd Bank
+Account Number: 7578129649
+Consent Status: Granted

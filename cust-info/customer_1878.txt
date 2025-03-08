@@ -1,0 +1,6 @@
+Customer ID: 1878
+Name: Danielle Washington
+National ID: 130-64-1915
+Bank: Rogers Ltd Bank
+Account Number: 5966304277
+Consent Status: Revoked

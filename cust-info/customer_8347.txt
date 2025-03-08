@@ -1,0 +1,6 @@
+Customer ID: 8347
+Name: Sabrina Smith
+National ID: 844-98-8190
+Bank: Page, Hughes and Clark Bank
+Account Number: 9621851931
+Consent Status: Revoked

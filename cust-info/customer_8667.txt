@@ -1,0 +1,6 @@
+Customer ID: 8667
+Name: Lisa Harris
+National ID: 687-52-8846
+Bank: Dyer LLC Bank
+Account Number: 1000077237
+Consent Status: Revoked

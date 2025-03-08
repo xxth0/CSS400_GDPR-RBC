@@ -1,0 +1,6 @@
+Customer ID: 6836
+Name: Kimberly Moore
+National ID: 630-92-8241
+Bank: Ramirez, Gardner and Hamilton Bank
+Account Number: 1370470576
+Consent Status: Granted

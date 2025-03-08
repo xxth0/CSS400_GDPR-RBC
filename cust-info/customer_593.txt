@@ -1,0 +1,6 @@
+Customer ID: 593
+Name: Donna Turner
+National ID: 616-45-0907
+Bank: Turner-Thompson Bank
+Account Number: 5725245273
+Consent Status: Revoked

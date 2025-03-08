@@ -1,0 +1,6 @@
+Customer ID: 2871
+Name: Lynn Wright
+National ID: 536-56-6240
+Bank: Bailey-Allison Bank
+Account Number: 9579421733
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6257
+Name: Jeffrey Garcia
+National ID: 226-59-3517
+Bank: Sullivan, Hill and Dodson Bank
+Account Number: 3350321376
+Consent Status: Revoked

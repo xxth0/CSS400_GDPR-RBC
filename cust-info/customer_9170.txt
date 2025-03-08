@@ -1,0 +1,6 @@
+Customer ID: 9170
+Name: Nicholas Johnson
+National ID: 760-01-0865
+Bank: Ellis and Sons Bank
+Account Number: 3550695804
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4826
+Name: Jimmy Martin
+National ID: 844-22-3258
+Bank: Snyder and Sons Bank
+Account Number: 8187491186
+Consent Status: Revoked

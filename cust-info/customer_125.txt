@@ -1,0 +1,6 @@
+Customer ID: 125
+Name: Tammy Mcdaniel
+National ID: 366-04-4002
+Bank: Snyder-Skinner Bank
+Account Number: 1801903246
+Consent Status: Revoked

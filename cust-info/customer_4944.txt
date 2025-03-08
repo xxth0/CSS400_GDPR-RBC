@@ -1,0 +1,6 @@
+Customer ID: 4944
+Name: Lauren Smith
+National ID: 696-22-8466
+Bank: Berry-Wright Bank
+Account Number: 6909694466
+Consent Status: Revoked

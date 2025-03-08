@@ -1,0 +1,6 @@
+Customer ID: 9989
+Name: Anthony Moore
+National ID: 724-21-2045
+Bank: Gillespie-Watson Bank
+Account Number: 2811373771
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5356
+Name: Natalie Olson
+National ID: 063-10-4514
+Bank: Serrano-James Bank
+Account Number: 5868173068
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2910
+Name: Gary Stein
+National ID: 270-90-5745
+Bank: Whitaker, Brown and Macias Bank
+Account Number: 5900776336
+Consent Status: Granted

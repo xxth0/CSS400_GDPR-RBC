@@ -1,0 +1,6 @@
+Customer ID: 8716
+Name: Aaron Middleton
+National ID: 714-82-9592
+Bank: Tran, Howard and Gordon Bank
+Account Number: 6961746854
+Consent Status: Revoked

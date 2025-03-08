@@ -1,0 +1,6 @@
+Customer ID: 2120
+Name: Hunter Martinez
+National ID: 344-66-5146
+Bank: Flores PLC Bank
+Account Number: 4271405881
+Consent Status: Granted

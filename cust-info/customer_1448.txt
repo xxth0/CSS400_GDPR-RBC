@@ -1,0 +1,6 @@
+Customer ID: 1448
+Name: Michele Manning
+National ID: 859-34-8283
+Bank: Murray Inc Bank
+Account Number: 8561793316
+Consent Status: Revoked

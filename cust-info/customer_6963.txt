@@ -1,0 +1,6 @@
+Customer ID: 6963
+Name: Deborah Mendoza
+National ID: 501-30-4621
+Bank: Nichols-Mckay Bank
+Account Number: 8537361985
+Consent Status: Revoked

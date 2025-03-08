@@ -1,0 +1,6 @@
+Customer ID: 232
+Name: Cheryl Burke
+National ID: 257-90-1457
+Bank: Mendoza, Schaefer and Rubio Bank
+Account Number: 7333554998
+Consent Status: Granted

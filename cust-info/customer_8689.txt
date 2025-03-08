@@ -1,0 +1,6 @@
+Customer ID: 8689
+Name: Paul Meyer
+National ID: 243-49-7853
+Bank: Jenkins PLC Bank
+Account Number: 8244312335
+Consent Status: Revoked

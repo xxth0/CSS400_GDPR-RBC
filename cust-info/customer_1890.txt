@@ -1,0 +1,6 @@
+Customer ID: 1890
+Name: Thomas Mccarty
+National ID: 603-15-6880
+Bank: Haynes PLC Bank
+Account Number: 6193165330
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4301
+Name: Rhonda Brewer
+National ID: 646-60-6530
+Bank: Hensley, Fuller and Bradshaw Bank
+Account Number: 7067992952
+Consent Status: Revoked

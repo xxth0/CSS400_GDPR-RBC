@@ -1,0 +1,6 @@
+Customer ID: 8471
+Name: Kenneth Harrington
+National ID: 126-87-2055
+Bank: Farley-Moreno Bank
+Account Number: 2344175797
+Consent Status: Revoked

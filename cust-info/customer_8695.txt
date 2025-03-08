@@ -1,0 +1,6 @@
+Customer ID: 8695
+Name: Robert Wallace
+National ID: 279-17-7742
+Bank: Rodriguez-Paul Bank
+Account Number: 1494080468
+Consent Status: Revoked

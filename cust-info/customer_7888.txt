@@ -1,0 +1,6 @@
+Customer ID: 7888
+Name: Willie Cook
+National ID: 093-17-7631
+Bank: Barker-Suarez Bank
+Account Number: 4310589112
+Consent Status: Revoked

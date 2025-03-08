@@ -1,0 +1,6 @@
+Customer ID: 5331
+Name: Whitney Rowe
+National ID: 733-33-0303
+Bank: Abbott, Morgan and Banks Bank
+Account Number: 8841691896
+Consent Status: Revoked

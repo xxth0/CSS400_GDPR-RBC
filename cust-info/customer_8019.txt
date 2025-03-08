@@ -1,0 +1,6 @@
+Customer ID: 8019
+Name: Alex Charles
+National ID: 873-30-1122
+Bank: Hutchinson LLC Bank
+Account Number: 6084906968
+Consent Status: Revoked

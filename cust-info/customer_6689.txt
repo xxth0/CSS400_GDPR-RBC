@@ -1,0 +1,6 @@
+Customer ID: 6689
+Name: Joseph Mcintyre
+National ID: 232-02-7120
+Bank: Harris, Harper and Wilson Bank
+Account Number: 9417680156
+Consent Status: Granted

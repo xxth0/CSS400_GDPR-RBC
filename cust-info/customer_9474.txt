@@ -1,0 +1,6 @@
+Customer ID: 9474
+Name: Angela Martinez
+National ID: 772-65-4473
+Bank: Salas, Skinner and Duffy Bank
+Account Number: 9644216994
+Consent Status: Granted

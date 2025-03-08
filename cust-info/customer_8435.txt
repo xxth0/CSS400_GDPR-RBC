@@ -1,0 +1,6 @@
+Customer ID: 8435
+Name: Mary Pearson
+National ID: 479-83-1636
+Bank: Bryant-Cameron Bank
+Account Number: 9831469870
+Consent Status: Granted

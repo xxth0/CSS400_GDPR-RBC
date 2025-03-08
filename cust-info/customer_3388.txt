@@ -1,0 +1,6 @@
+Customer ID: 3388
+Name: Patricia Barnes
+National ID: 641-91-2503
+Bank: Russell Inc Bank
+Account Number: 2677358613
+Consent Status: Revoked

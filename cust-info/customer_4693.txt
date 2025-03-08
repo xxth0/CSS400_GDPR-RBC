@@ -1,0 +1,6 @@
+Customer ID: 4693
+Name: Mr. Ryan Burnett
+National ID: 355-74-5830
+Bank: Lawson-Vance Bank
+Account Number: 4640871049
+Consent Status: Granted

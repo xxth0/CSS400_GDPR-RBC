@@ -1,0 +1,6 @@
+Customer ID: 4035
+Name: Nicholas Walters
+National ID: 314-13-3181
+Bank: Walker-Thompson Bank
+Account Number: 7674781653
+Consent Status: Revoked

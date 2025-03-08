@@ -1,0 +1,6 @@
+Customer ID: 4136
+Name: Stephen Weaver
+National ID: 771-18-1391
+Bank: Price Ltd Bank
+Account Number: 6473008929
+Consent Status: Granted

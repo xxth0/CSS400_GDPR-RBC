@@ -1,0 +1,6 @@
+Customer ID: 713
+Name: Karen Allen
+National ID: 040-34-6254
+Bank: Campbell and Sons Bank
+Account Number: 2880997389
+Consent Status: Revoked

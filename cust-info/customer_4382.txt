@@ -1,0 +1,6 @@
+Customer ID: 4382
+Name: Mark Cunningham
+National ID: 665-75-1370
+Bank: Moore Group Bank
+Account Number: 6035568687
+Consent Status: Revoked

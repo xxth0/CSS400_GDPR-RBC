@@ -1,0 +1,6 @@
+Customer ID: 6533
+Name: Lisa Stephens
+National ID: 330-87-2344
+Bank: Martinez, Hampton and Brady Bank
+Account Number: 9228583799
+Consent Status: Granted

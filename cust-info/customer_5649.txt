@@ -1,0 +1,6 @@
+Customer ID: 5649
+Name: Suzanne Reed
+National ID: 731-97-4341
+Bank: Brown Ltd Bank
+Account Number: 9013127994
+Consent Status: Revoked

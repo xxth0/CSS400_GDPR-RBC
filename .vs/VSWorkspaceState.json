@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\AuthProofGen",
-    "\\Redaction"
+    "\\contracts",
+    "\\cust-pdf\\experiment",
+    "\\migrations"
   ],
-  "SelectedNode": "\\AuthProofGen\\auth_benchmark.py",
   "PreviewInSolutionExplorer": false
 }

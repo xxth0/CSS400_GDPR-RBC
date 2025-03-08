@@ -1,0 +1,6 @@
+Customer ID: 5035
+Name: Spencer Caldwell
+National ID: 649-82-9018
+Bank: Sims-Fitzpatrick Bank
+Account Number: 2967427611
+Consent Status: Granted

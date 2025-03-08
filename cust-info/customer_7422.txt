@@ -1,0 +1,6 @@
+Customer ID: 7422
+Name: Jared Allen
+National ID: 377-21-8468
+Bank: Hall, Nguyen and Ashley Bank
+Account Number: 8455942154
+Consent Status: Revoked

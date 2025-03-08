@@ -1,0 +1,6 @@
+Customer ID: 451
+Name: Kirsten Ryan
+National ID: 793-98-2543
+Bank: Baker Inc Bank
+Account Number: 9815971990
+Consent Status: Revoked

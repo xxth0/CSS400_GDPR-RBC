@@ -1,0 +1,6 @@
+Customer ID: 8841
+Name: John Jackson
+National ID: 350-38-6374
+Bank: Nguyen PLC Bank
+Account Number: 2999752794
+Consent Status: Revoked

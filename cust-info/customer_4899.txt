@@ -1,0 +1,6 @@
+Customer ID: 4899
+Name: Jeffrey Powers
+National ID: 867-84-3440
+Bank: Phillips, Fernandez and Cruz Bank
+Account Number: 2095223117
+Consent Status: Revoked

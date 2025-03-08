@@ -1,0 +1,6 @@
+Customer ID: 768
+Name: Christopher Hanna
+National ID: 480-60-2886
+Bank: Wright, Brown and Patel Bank
+Account Number: 1118382730
+Consent Status: Granted

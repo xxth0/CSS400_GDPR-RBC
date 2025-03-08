@@ -1,0 +1,6 @@
+Customer ID: 1176
+Name: Richard Evans
+National ID: 307-32-9296
+Bank: Long-Thomas Bank
+Account Number: 4035937439
+Consent Status: Granted

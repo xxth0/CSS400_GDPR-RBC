@@ -1,0 +1,6 @@
+Customer ID: 2294
+Name: Andrew May
+National ID: 801-53-7673
+Bank: Pham-West Bank
+Account Number: 1892499048
+Consent Status: Revoked

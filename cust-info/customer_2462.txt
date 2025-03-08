@@ -1,0 +1,6 @@
+Customer ID: 2462
+Name: Jay Curry
+National ID: 209-51-8159
+Bank: Norman, Murphy and Rosario Bank
+Account Number: 5009837618
+Consent Status: Revoked

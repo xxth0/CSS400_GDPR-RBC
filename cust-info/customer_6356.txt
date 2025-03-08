@@ -1,0 +1,6 @@
+Customer ID: 6356
+Name: Carla Taylor
+National ID: 886-03-0716
+Bank: Jones, Garrett and George Bank
+Account Number: 1477528551
+Consent Status: Granted

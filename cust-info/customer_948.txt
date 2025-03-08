@@ -1,0 +1,6 @@
+Customer ID: 948
+Name: Ryan Jones
+National ID: 555-30-8660
+Bank: Jenkins PLC Bank
+Account Number: 1869486800
+Consent Status: Revoked

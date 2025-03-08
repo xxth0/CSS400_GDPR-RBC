@@ -1,0 +1,6 @@
+Customer ID: 476
+Name: Travis Castillo
+National ID: 224-48-9823
+Bank: Ballard LLC Bank
+Account Number: 7237850127
+Consent Status: Granted

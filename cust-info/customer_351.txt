@@ -1,0 +1,6 @@
+Customer ID: 351
+Name: Adam Barrett
+National ID: 779-18-0797
+Bank: Brown-Johnson Bank
+Account Number: 1967112024
+Consent Status: Granted

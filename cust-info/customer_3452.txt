@@ -1,0 +1,6 @@
+Customer ID: 3452
+Name: Donna Benitez
+National ID: 713-05-3527
+Bank: Cortez, Byrd and Baker Bank
+Account Number: 6213467425
+Consent Status: Granted

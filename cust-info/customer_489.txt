@@ -1,0 +1,6 @@
+Customer ID: 489
+Name: Douglas Harris
+National ID: 727-78-3018
+Bank: Anderson-Lane Bank
+Account Number: 5250558106
+Consent Status: Revoked

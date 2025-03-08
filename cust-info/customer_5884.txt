@@ -1,0 +1,6 @@
+Customer ID: 5884
+Name: Michelle Turner
+National ID: 245-67-2831
+Bank: Nelson PLC Bank
+Account Number: 9181582812
+Consent Status: Revoked

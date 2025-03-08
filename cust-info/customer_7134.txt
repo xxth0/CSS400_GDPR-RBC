@@ -1,0 +1,6 @@
+Customer ID: 7134
+Name: Joseph Huffman
+National ID: 646-96-9849
+Bank: Mason, Horton and Diaz Bank
+Account Number: 5237582674
+Consent Status: Granted

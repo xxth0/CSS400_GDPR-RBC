@@ -1,0 +1,6 @@
+Customer ID: 1292
+Name: Alexander Harmon
+National ID: 899-52-4556
+Bank: Jones-Garrett Bank
+Account Number: 5622227450
+Consent Status: Revoked

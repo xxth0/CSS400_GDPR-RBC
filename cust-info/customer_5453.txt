@@ -1,0 +1,6 @@
+Customer ID: 5453
+Name: Jermaine Hays
+National ID: 330-88-9916
+Bank: Boyer, Vance and Cruz Bank
+Account Number: 7964947331
+Consent Status: Revoked

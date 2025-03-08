@@ -1,0 +1,6 @@
+Customer ID: 8534
+Name: Kathy Bishop
+National ID: 021-99-6858
+Bank: Robinson-Solis Bank
+Account Number: 9130212750
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1326
+Name: Raven Lee
+National ID: 153-91-1504
+Bank: Jones-Cross Bank
+Account Number: 1487581673
+Consent Status: Revoked

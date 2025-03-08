@@ -1,0 +1,6 @@
+Customer ID: 6178
+Name: Michael White
+National ID: 406-92-7271
+Bank: Howard-Young Bank
+Account Number: 1683651148
+Consent Status: Revoked

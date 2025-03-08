@@ -1,0 +1,6 @@
+Customer ID: 2296
+Name: Hannah Vega
+National ID: 314-47-5879
+Bank: Cox LLC Bank
+Account Number: 6093320793
+Consent Status: Revoked

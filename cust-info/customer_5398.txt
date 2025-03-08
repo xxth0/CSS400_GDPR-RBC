@@ -1,0 +1,6 @@
+Customer ID: 5398
+Name: Elizabeth Hernandez
+National ID: 861-07-9973
+Bank: Weaver LLC Bank
+Account Number: 4737097607
+Consent Status: Granted

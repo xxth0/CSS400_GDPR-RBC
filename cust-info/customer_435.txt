@@ -1,0 +1,6 @@
+Customer ID: 435
+Name: Mr. Billy Parks
+National ID: 480-42-5185
+Bank: Powers-Harrison Bank
+Account Number: 1141331717
+Consent Status: Revoked

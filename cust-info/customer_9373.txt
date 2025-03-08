@@ -1,0 +1,6 @@
+Customer ID: 9373
+Name: Brian Thomas
+National ID: 457-32-8095
+Bank: Nguyen-Ross Bank
+Account Number: 8581879881
+Consent Status: Revoked

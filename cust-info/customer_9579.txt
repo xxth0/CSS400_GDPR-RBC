@@ -1,0 +1,6 @@
+Customer ID: 9579
+Name: Christopher Kim
+National ID: 167-82-2893
+Bank: Price-Keith Bank
+Account Number: 1100348322
+Consent Status: Revoked

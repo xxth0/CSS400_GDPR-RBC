@@ -1,0 +1,6 @@
+Customer ID: 4251
+Name: Melinda Serrano
+National ID: 148-87-3278
+Bank: Miller Group Bank
+Account Number: 9128268997
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5138
+Name: Gabriel Campbell
+National ID: 502-04-6377
+Bank: Mcdonald PLC Bank
+Account Number: 5731387615
+Consent Status: Revoked

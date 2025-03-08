@@ -1,0 +1,6 @@
+Customer ID: 9167
+Name: Stephanie Love
+National ID: 046-22-4055
+Bank: Harris, Bell and Williams Bank
+Account Number: 2938012044
+Consent Status: Granted

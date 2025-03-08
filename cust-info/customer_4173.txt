@@ -1,0 +1,6 @@
+Customer ID: 4173
+Name: Yvonne Smith
+National ID: 677-40-6428
+Bank: Hurley-Perry Bank
+Account Number: 8370311423
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7046
+Name: Dr. John Roberson
+National ID: 110-06-5873
+Bank: Duncan-Whitehead Bank
+Account Number: 1659688898
+Consent Status: Granted

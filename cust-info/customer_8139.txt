@@ -1,0 +1,6 @@
+Customer ID: 8139
+Name: Brian Welch
+National ID: 575-81-9615
+Bank: Hawkins Ltd Bank
+Account Number: 6246079249
+Consent Status: Revoked

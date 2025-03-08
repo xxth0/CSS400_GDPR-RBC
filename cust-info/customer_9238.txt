@@ -1,0 +1,6 @@
+Customer ID: 9238
+Name: Mary Walls
+National ID: 731-80-2551
+Bank: Lowery PLC Bank
+Account Number: 8669126359
+Consent Status: Granted

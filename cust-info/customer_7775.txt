@@ -1,0 +1,6 @@
+Customer ID: 7775
+Name: Kyle Brown
+National ID: 675-41-1840
+Bank: Reynolds Group Bank
+Account Number: 6509473939
+Consent Status: Revoked

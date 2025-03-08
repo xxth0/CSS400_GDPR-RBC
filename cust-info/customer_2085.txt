@@ -1,0 +1,6 @@
+Customer ID: 2085
+Name: Dr. Joel Ramos
+National ID: 633-18-9373
+Bank: Avery Inc Bank
+Account Number: 1916417518
+Consent Status: Revoked

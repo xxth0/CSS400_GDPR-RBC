@@ -1,0 +1,6 @@
+Customer ID: 9674
+Name: Troy Fisher
+National ID: 229-45-7588
+Bank: Stephens Ltd Bank
+Account Number: 4091764471
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 300
+Name: Jeffery Lowery
+National ID: 336-78-4163
+Bank: Wagner and Sons Bank
+Account Number: 8337913344
+Consent Status: Granted

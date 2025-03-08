@@ -1,0 +1,6 @@
+Customer ID: 8647
+Name: Tracy Martinez
+National ID: 616-02-3209
+Bank: Nguyen Inc Bank
+Account Number: 8562792515
+Consent Status: Granted

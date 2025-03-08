@@ -1,0 +1,6 @@
+Customer ID: 325
+Name: Dean Young
+National ID: 191-15-2843
+Bank: Hernandez Ltd Bank
+Account Number: 2433020993
+Consent Status: Granted

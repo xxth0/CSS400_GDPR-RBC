@@ -1,0 +1,6 @@
+Customer ID: 5240
+Name: Michael Bennett
+National ID: 127-79-7525
+Bank: Yates-Weber Bank
+Account Number: 8280613131
+Consent Status: Granted

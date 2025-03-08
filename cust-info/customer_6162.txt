@@ -1,0 +1,6 @@
+Customer ID: 6162
+Name: James Guzman
+National ID: 260-92-6046
+Bank: Johnson Inc Bank
+Account Number: 5687013081
+Consent Status: Revoked

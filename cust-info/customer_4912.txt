@@ -1,0 +1,6 @@
+Customer ID: 4912
+Name: Erin Carpenter
+National ID: 683-74-7365
+Bank: Garcia PLC Bank
+Account Number: 4952730859
+Consent Status: Revoked

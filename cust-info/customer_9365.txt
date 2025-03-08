@@ -1,0 +1,6 @@
+Customer ID: 9365
+Name: Katherine Summers
+National ID: 082-99-4841
+Bank: Short-Mercer Bank
+Account Number: 2487303151
+Consent Status: Revoked

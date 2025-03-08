@@ -1,0 +1,6 @@
+Customer ID: 5774
+Name: Jonathan Taylor
+National ID: 667-95-3145
+Bank: Flores LLC Bank
+Account Number: 6127909817
+Consent Status: Revoked

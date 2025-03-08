@@ -1,0 +1,6 @@
+Customer ID: 3890
+Name: Darryl Smith
+National ID: 846-26-6987
+Bank: Castillo, Wilson and Ramirez Bank
+Account Number: 8257266610
+Consent Status: Revoked

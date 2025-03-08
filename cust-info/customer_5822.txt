@@ -1,0 +1,6 @@
+Customer ID: 5822
+Name: Tony Coleman
+National ID: 491-34-6943
+Bank: Robinson, Anderson and Woods Bank
+Account Number: 3696655998
+Consent Status: Granted

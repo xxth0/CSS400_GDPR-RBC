@@ -1,0 +1,6 @@
+Customer ID: 4710
+Name: Margaret White
+National ID: 572-89-1155
+Bank: Walton, Smith and Campbell Bank
+Account Number: 5856498212
+Consent Status: Granted

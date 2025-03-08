@@ -1,0 +1,6 @@
+Customer ID: 5418
+Name: Douglas Williams
+National ID: 329-57-2312
+Bank: Myers, Norris and Wheeler Bank
+Account Number: 5363628877
+Consent Status: Revoked

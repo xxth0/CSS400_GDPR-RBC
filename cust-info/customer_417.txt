@@ -1,0 +1,6 @@
+Customer ID: 417
+Name: Beverly Hughes
+National ID: 520-96-3920
+Bank: Mckenzie-Golden Bank
+Account Number: 5035838969
+Consent Status: Revoked

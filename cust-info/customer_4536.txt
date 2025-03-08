@@ -1,0 +1,6 @@
+Customer ID: 4536
+Name: David Gordon
+National ID: 011-92-6194
+Bank: Wu, Clark and Hinton Bank
+Account Number: 6844779191
+Consent Status: Revoked

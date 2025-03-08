@@ -1,0 +1,6 @@
+Customer ID: 1147
+Name: Steven Garza
+National ID: 280-16-5773
+Bank: Oliver-Moore Bank
+Account Number: 2846328728
+Consent Status: Granted

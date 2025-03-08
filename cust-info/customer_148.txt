@@ -1,0 +1,6 @@
+Customer ID: 148
+Name: Carl Gregory
+National ID: 245-90-3235
+Bank: Cox, Schmidt and Beasley Bank
+Account Number: 9216043612
+Consent Status: Granted

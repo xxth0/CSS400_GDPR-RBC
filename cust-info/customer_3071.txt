@@ -1,0 +1,6 @@
+Customer ID: 3071
+Name: Erin Snow
+National ID: 148-47-1083
+Bank: Whitaker, Sharp and Williams Bank
+Account Number: 8696234127
+Consent Status: Revoked

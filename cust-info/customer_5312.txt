@@ -1,0 +1,6 @@
+Customer ID: 5312
+Name: John Spencer
+National ID: 039-25-3990
+Bank: Ryan, Stokes and Bennett Bank
+Account Number: 6512736874
+Consent Status: Granted

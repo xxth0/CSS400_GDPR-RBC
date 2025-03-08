@@ -1,0 +1,6 @@
+Customer ID: 3073
+Name: Anthony Barnes
+National ID: 009-39-3318
+Bank: Allison-Holmes Bank
+Account Number: 1548740332
+Consent Status: Revoked

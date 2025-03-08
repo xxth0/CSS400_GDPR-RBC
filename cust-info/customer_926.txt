@@ -1,0 +1,6 @@
+Customer ID: 926
+Name: Timothy Johnson
+National ID: 156-38-9684
+Bank: Spencer Ltd Bank
+Account Number: 4334913441
+Consent Status: Granted

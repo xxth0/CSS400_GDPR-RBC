@@ -1,0 +1,6 @@
+Customer ID: 9281
+Name: Mary Thomas
+National ID: 473-45-2145
+Bank: Carter-White Bank
+Account Number: 7189018407
+Consent Status: Revoked

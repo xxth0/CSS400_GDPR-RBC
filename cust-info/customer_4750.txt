@@ -1,0 +1,6 @@
+Customer ID: 4750
+Name: Stephanie Moore
+National ID: 550-41-6883
+Bank: Richards Ltd Bank
+Account Number: 1770563195
+Consent Status: Revoked

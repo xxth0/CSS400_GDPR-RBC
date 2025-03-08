@@ -1,0 +1,6 @@
+Customer ID: 7560
+Name: Elijah White
+National ID: 425-02-3534
+Bank: Smith-Arnold Bank
+Account Number: 6818422566
+Consent Status: Granted

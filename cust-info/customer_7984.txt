@@ -1,0 +1,6 @@
+Customer ID: 7984
+Name: Debbie Martinez
+National ID: 721-11-4040
+Bank: Schaefer-Smith Bank
+Account Number: 9963098986
+Consent Status: Revoked

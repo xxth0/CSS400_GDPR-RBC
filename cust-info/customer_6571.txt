@@ -1,0 +1,6 @@
+Customer ID: 6571
+Name: Eric Robinson
+National ID: 767-56-6443
+Bank: Reyes, Bernard and Hawkins Bank
+Account Number: 9774411179
+Consent Status: Revoked

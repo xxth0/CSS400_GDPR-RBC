@@ -1,0 +1,6 @@
+Customer ID: 9210
+Name: Tom Summers
+National ID: 870-59-7977
+Bank: Ward Inc Bank
+Account Number: 6575828963
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1056
+Name: Gabrielle Roy
+National ID: 514-12-8912
+Bank: Thomas-Trujillo Bank
+Account Number: 8682162878
+Consent Status: Granted

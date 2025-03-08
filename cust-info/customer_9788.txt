@@ -1,0 +1,6 @@
+Customer ID: 9788
+Name: Amanda Lee
+National ID: 163-57-5997
+Bank: Poole, Scott and Schmitt Bank
+Account Number: 1797478799
+Consent Status: Granted

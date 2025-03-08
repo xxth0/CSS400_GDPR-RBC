@@ -1,0 +1,6 @@
+Customer ID: 7022
+Name: Matthew York
+National ID: 597-30-5297
+Bank: Rodriguez, Buchanan and Zamora Bank
+Account Number: 9221414095
+Consent Status: Granted

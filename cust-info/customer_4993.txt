@@ -1,0 +1,6 @@
+Customer ID: 4993
+Name: Marie Stark
+National ID: 207-14-8022
+Bank: Farrell and Sons Bank
+Account Number: 7955542437
+Consent Status: Revoked

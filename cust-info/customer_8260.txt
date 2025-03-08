@@ -1,0 +1,6 @@
+Customer ID: 8260
+Name: Richard Burton
+National ID: 288-01-9882
+Bank: Chambers-Ortiz Bank
+Account Number: 9085411712
+Consent Status: Revoked

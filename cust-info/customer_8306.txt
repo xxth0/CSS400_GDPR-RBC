@@ -1,0 +1,6 @@
+Customer ID: 8306
+Name: Jessica Miller
+National ID: 560-15-2865
+Bank: Mcdonald and Sons Bank
+Account Number: 7046805320
+Consent Status: Granted

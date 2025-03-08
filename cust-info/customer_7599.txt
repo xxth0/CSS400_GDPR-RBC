@@ -1,0 +1,6 @@
+Customer ID: 7599
+Name: Steven Cochran
+National ID: 832-57-1559
+Bank: Davis-Jackson Bank
+Account Number: 7099006996
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2630
+Name: Valerie Lawrence
+National ID: 155-31-7424
+Bank: Ramirez, Roberson and Ray Bank
+Account Number: 9955265311
+Consent Status: Granted

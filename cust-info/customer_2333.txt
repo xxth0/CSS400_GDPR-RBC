@@ -1,0 +1,6 @@
+Customer ID: 2333
+Name: Jacob Robinson
+National ID: 664-07-7246
+Bank: Rivera, Parrish and Smith Bank
+Account Number: 7307908201
+Consent Status: Revoked

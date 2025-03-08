@@ -1,0 +1,6 @@
+Customer ID: 3777
+Name: Frances Warren
+National ID: 052-25-7407
+Bank: Lyons-Patrick Bank
+Account Number: 9662468662
+Consent Status: Granted

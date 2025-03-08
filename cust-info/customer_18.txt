@@ -1,0 +1,6 @@
+Customer ID: 18
+Name: Jennifer Golden
+National ID: 305-99-5132
+Bank: Scott Inc Bank
+Account Number: 7640299556
+Consent Status: Granted

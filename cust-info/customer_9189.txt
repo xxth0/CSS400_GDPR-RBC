@@ -1,0 +1,6 @@
+Customer ID: 9189
+Name: Emily Barrett
+National ID: 778-95-1992
+Bank: Fitzpatrick-Johnson Bank
+Account Number: 5873145656
+Consent Status: Granted

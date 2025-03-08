@@ -1,0 +1,6 @@
+Customer ID: 9933
+Name: Brittany Pruitt
+National ID: 772-98-4514
+Bank: Price PLC Bank
+Account Number: 7499167398
+Consent Status: Revoked

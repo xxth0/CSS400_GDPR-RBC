@@ -1,0 +1,6 @@
+Customer ID: 9930
+Name: Adam Williams
+National ID: 763-47-0008
+Bank: Williams LLC Bank
+Account Number: 6936280055
+Consent Status: Revoked

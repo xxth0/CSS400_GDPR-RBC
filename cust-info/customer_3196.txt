@@ -1,0 +1,6 @@
+Customer ID: 3196
+Name: Daniel Moore
+National ID: 046-80-8471
+Bank: Castro, Guerrero and Hampton Bank
+Account Number: 2533876401
+Consent Status: Granted

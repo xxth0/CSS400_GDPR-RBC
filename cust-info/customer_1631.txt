@@ -1,0 +1,6 @@
+Customer ID: 1631
+Name: Alice Adams
+National ID: 884-86-5116
+Bank: Sanchez, Nunez and Martinez Bank
+Account Number: 8954921636
+Consent Status: Revoked

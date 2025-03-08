@@ -1,0 +1,6 @@
+Customer ID: 2197
+Name: Kenneth Joseph
+National ID: 884-98-5966
+Bank: Ray, Garcia and Lopez Bank
+Account Number: 6459717121
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4078
+Name: Tiffany Taylor
+National ID: 860-64-9228
+Bank: Novak LLC Bank
+Account Number: 2086338971
+Consent Status: Granted

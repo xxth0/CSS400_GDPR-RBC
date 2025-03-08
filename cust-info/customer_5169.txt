@@ -1,0 +1,6 @@
+Customer ID: 5169
+Name: Gary Kim
+National ID: 356-03-7143
+Bank: Jones-Dawson Bank
+Account Number: 5287293414
+Consent Status: Granted

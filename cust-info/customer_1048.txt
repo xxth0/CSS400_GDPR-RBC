@@ -1,0 +1,6 @@
+Customer ID: 1048
+Name: Samantha Wilkinson
+National ID: 798-45-2439
+Bank: Banks PLC Bank
+Account Number: 3860096900
+Consent Status: Granted

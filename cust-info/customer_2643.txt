@@ -1,0 +1,6 @@
+Customer ID: 2643
+Name: Stacy Miller
+National ID: 275-04-4961
+Bank: Austin, Briggs and Harrison Bank
+Account Number: 2305430374
+Consent Status: Revoked

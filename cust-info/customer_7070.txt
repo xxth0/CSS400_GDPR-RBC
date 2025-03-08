@@ -1,0 +1,6 @@
+Customer ID: 7070
+Name: Karen Hurst
+National ID: 447-17-8058
+Bank: Juarez-Anderson Bank
+Account Number: 6174990115
+Consent Status: Revoked

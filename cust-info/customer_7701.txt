@@ -1,0 +1,6 @@
+Customer ID: 7701
+Name: Charles White
+National ID: 789-34-0086
+Bank: Santos Ltd Bank
+Account Number: 9664885136
+Consent Status: Granted

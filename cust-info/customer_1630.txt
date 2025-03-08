@@ -1,0 +1,6 @@
+Customer ID: 1630
+Name: Joseph Harris
+National ID: 713-82-6102
+Bank: Garner-Smith Bank
+Account Number: 1269562581
+Consent Status: Revoked

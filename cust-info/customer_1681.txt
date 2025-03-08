@@ -1,0 +1,6 @@
+Customer ID: 1681
+Name: Miguel Malone
+National ID: 716-49-1658
+Bank: Thomas PLC Bank
+Account Number: 3015670946
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2467
+Name: Timothy Clark
+National ID: 069-78-3756
+Bank: King-Schmidt Bank
+Account Number: 6394035281
+Consent Status: Revoked

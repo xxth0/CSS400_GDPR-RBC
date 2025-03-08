@@ -1,0 +1,6 @@
+Customer ID: 1743
+Name: Michael Haney
+National ID: 272-39-6151
+Bank: Miller, Lewis and Day Bank
+Account Number: 9992491527
+Consent Status: Granted

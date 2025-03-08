@@ -1,0 +1,6 @@
+Customer ID: 7376
+Name: Robert Buchanan
+National ID: 458-82-8385
+Bank: Barton, Kim and Juarez Bank
+Account Number: 2064212267
+Consent Status: Granted

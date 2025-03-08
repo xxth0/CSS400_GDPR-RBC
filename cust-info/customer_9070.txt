@@ -1,0 +1,6 @@
+Customer ID: 9070
+Name: Ronald Rivera
+National ID: 480-96-0643
+Bank: Bryan LLC Bank
+Account Number: 2051258492
+Consent Status: Granted

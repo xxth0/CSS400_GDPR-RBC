@@ -1,0 +1,6 @@
+Customer ID: 3377
+Name: Alyssa Thompson
+National ID: 651-21-3599
+Bank: Garcia, Hayes and Delacruz Bank
+Account Number: 5786646222
+Consent Status: Revoked

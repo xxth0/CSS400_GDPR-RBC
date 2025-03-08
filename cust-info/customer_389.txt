@@ -1,0 +1,6 @@
+Customer ID: 389
+Name: Kathleen Maldonado
+National ID: 859-09-0843
+Bank: Lopez PLC Bank
+Account Number: 4855602498
+Consent Status: Granted

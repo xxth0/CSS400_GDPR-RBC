@@ -1,0 +1,6 @@
+Customer ID: 3817
+Name: Jacob Massey
+National ID: 120-03-4612
+Bank: Ramirez-Rodriguez Bank
+Account Number: 1230479745
+Consent Status: Revoked

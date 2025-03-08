@@ -1,0 +1,6 @@
+Customer ID: 5280
+Name: Denise Kelly
+National ID: 104-91-0736
+Bank: Smith Group Bank
+Account Number: 7420708541
+Consent Status: Revoked

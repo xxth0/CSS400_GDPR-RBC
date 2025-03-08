@@ -1,0 +1,6 @@
+Customer ID: 1083
+Name: Jonathan Flores
+National ID: 334-13-1571
+Bank: Kerr-Pitts Bank
+Account Number: 9336355355
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1283
+Name: Amber Cruz
+National ID: 291-78-7176
+Bank: Garrison, Brown and Bowman Bank
+Account Number: 8544633970
+Consent Status: Revoked

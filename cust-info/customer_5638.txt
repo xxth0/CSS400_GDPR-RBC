@@ -1,0 +1,6 @@
+Customer ID: 5638
+Name: Michael Hernandez
+National ID: 707-73-2285
+Bank: Salazar, Gutierrez and Mcclure Bank
+Account Number: 4012456362
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8907
+Name: Larry Stokes
+National ID: 670-08-4686
+Bank: Walker PLC Bank
+Account Number: 3466495947
+Consent Status: Revoked

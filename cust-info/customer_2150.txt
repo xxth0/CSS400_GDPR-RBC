@@ -1,0 +1,6 @@
+Customer ID: 2150
+Name: Daniel Ayala
+National ID: 603-46-9510
+Bank: Pratt Group Bank
+Account Number: 3795520280
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4843
+Name: Joyce Rosario
+National ID: 412-02-7142
+Bank: Figueroa, Huang and Howe Bank
+Account Number: 6531311894
+Consent Status: Revoked

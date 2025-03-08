@@ -1,0 +1,6 @@
+Customer ID: 992
+Name: Briana Moran
+National ID: 074-18-3902
+Bank: Copeland and Sons Bank
+Account Number: 9707281890
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4728
+Name: Zachary Bishop
+National ID: 140-62-1935
+Bank: Williams-Huff Bank
+Account Number: 8592411285
+Consent Status: Granted

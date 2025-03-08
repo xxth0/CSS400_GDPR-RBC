@@ -1,0 +1,6 @@
+Customer ID: 1898
+Name: Jon Holland
+National ID: 294-84-8890
+Bank: Austin PLC Bank
+Account Number: 2682756472
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5310
+Name: Nancy Crane
+National ID: 166-72-9111
+Bank: Sutton, Anderson and Morgan Bank
+Account Number: 3952924941
+Consent Status: Granted

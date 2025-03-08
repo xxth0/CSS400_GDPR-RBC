@@ -1,0 +1,6 @@
+Customer ID: 7394
+Name: Christopher Jones
+National ID: 569-41-8720
+Bank: Foster Group Bank
+Account Number: 2537250592
+Consent Status: Revoked

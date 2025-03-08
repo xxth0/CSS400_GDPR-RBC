@@ -1,0 +1,6 @@
+Customer ID: 1842
+Name: Jeffrey Webb
+National ID: 757-73-2352
+Bank: Thompson-Smith Bank
+Account Number: 9192004353
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 58
+Name: Johnny Davidson
+National ID: 750-52-7617
+Bank: Mercer-Parker Bank
+Account Number: 7961195994
+Consent Status: Revoked

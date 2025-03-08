@@ -1,0 +1,6 @@
+Customer ID: 7323
+Name: Daniel Fowler
+National ID: 098-81-9509
+Bank: Ayers-Acosta Bank
+Account Number: 6648506731
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 978
+Name: Jamie Ruiz
+National ID: 319-12-6078
+Bank: Ortiz LLC Bank
+Account Number: 1058790243
+Consent Status: Granted

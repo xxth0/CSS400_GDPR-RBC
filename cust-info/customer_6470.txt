@@ -1,0 +1,6 @@
+Customer ID: 6470
+Name: David Berger
+National ID: 330-99-4417
+Bank: Williams Group Bank
+Account Number: 8956970706
+Consent Status: Granted

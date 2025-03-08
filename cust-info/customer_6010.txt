@@ -1,0 +1,6 @@
+Customer ID: 6010
+Name: Robin English
+National ID: 647-84-9597
+Bank: Baxter PLC Bank
+Account Number: 7903535307
+Consent Status: Granted

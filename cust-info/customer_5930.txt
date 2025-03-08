@@ -1,0 +1,6 @@
+Customer ID: 5930
+Name: Anthony Neal
+National ID: 804-37-1234
+Bank: Schmidt LLC Bank
+Account Number: 7062873454
+Consent Status: Revoked

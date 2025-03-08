@@ -1,0 +1,6 @@
+Customer ID: 167
+Name: James Patterson
+National ID: 830-84-0143
+Bank: Holmes, Howard and King Bank
+Account Number: 4533061983
+Consent Status: Revoked

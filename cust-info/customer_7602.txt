@@ -1,0 +1,6 @@
+Customer ID: 7602
+Name: Jillian Stewart
+National ID: 635-99-8485
+Bank: Chen Ltd Bank
+Account Number: 2520381991
+Consent Status: Revoked

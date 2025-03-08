@@ -1,0 +1,6 @@
+Customer ID: 1308
+Name: Susan Faulkner
+National ID: 113-55-4381
+Bank: Patton, Castillo and Carpenter Bank
+Account Number: 5385384036
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5023
+Name: Allen Klein
+National ID: 847-13-2653
+Bank: Hill-Harmon Bank
+Account Number: 8759144139
+Consent Status: Granted

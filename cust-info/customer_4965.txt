@@ -1,0 +1,6 @@
+Customer ID: 4965
+Name: Leslie Moore
+National ID: 089-31-3347
+Bank: Martinez-Mcbride Bank
+Account Number: 2467543310
+Consent Status: Granted

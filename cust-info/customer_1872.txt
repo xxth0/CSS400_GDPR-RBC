@@ -1,0 +1,6 @@
+Customer ID: 1872
+Name: Nancy Sheppard
+National ID: 541-28-1386
+Bank: Dalton Inc Bank
+Account Number: 3144052294
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7884
+Name: Kathleen Bennett
+National ID: 875-50-6506
+Bank: Carr and Sons Bank
+Account Number: 5708855100
+Consent Status: Revoked

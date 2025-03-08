@@ -1,0 +1,6 @@
+Customer ID: 9219
+Name: Christine Castro
+National ID: 425-83-4303
+Bank: Diaz Ltd Bank
+Account Number: 6640414467
+Consent Status: Granted

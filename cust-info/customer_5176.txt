@@ -1,0 +1,6 @@
+Customer ID: 5176
+Name: Kevin Morris
+National ID: 858-63-5064
+Bank: Smith, Michael and Church Bank
+Account Number: 8786397645
+Consent Status: Revoked

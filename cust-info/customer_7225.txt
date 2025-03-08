@@ -1,0 +1,6 @@
+Customer ID: 7225
+Name: Carla Odom
+National ID: 832-09-4139
+Bank: Reed Inc Bank
+Account Number: 9302509020
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9735
+Name: Kevin Obrien
+National ID: 659-79-1469
+Bank: Forbes, Walker and Walters Bank
+Account Number: 7697568564
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1035
+Name: Dennis Riley
+National ID: 595-44-1378
+Bank: Gaines Inc Bank
+Account Number: 8953215766
+Consent Status: Granted

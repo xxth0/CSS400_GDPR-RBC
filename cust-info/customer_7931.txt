@@ -1,0 +1,6 @@
+Customer ID: 7931
+Name: Katherine Smith
+National ID: 817-94-1607
+Bank: Hinton PLC Bank
+Account Number: 9237748865
+Consent Status: Granted

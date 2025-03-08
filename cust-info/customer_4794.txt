@@ -1,0 +1,6 @@
+Customer ID: 4794
+Name: Sophia Miller
+National ID: 205-18-5482
+Bank: Anderson Group Bank
+Account Number: 9937362079
+Consent Status: Revoked

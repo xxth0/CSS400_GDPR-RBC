@@ -1,0 +1,6 @@
+Customer ID: 4809
+Name: James Madden
+National ID: 299-50-5368
+Bank: Sanchez-Anderson Bank
+Account Number: 2469186422
+Consent Status: Revoked

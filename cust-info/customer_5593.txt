@@ -1,0 +1,6 @@
+Customer ID: 5593
+Name: Cristian Faulkner
+National ID: 659-65-6283
+Bank: Carrillo-Wilson Bank
+Account Number: 4712254264
+Consent Status: Granted

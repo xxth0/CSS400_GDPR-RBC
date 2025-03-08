@@ -1,0 +1,6 @@
+Customer ID: 9409
+Name: Yolanda Fernandez
+National ID: 764-88-3234
+Bank: Sherman-Lucas Bank
+Account Number: 8197905999
+Consent Status: Granted

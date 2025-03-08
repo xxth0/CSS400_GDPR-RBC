@@ -1,0 +1,6 @@
+Customer ID: 2403
+Name: James Anderson
+National ID: 127-27-2985
+Bank: Rosario and Sons Bank
+Account Number: 2094779632
+Consent Status: Revoked

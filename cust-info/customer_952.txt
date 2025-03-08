@@ -1,0 +1,6 @@
+Customer ID: 952
+Name: Ryan Barker
+National ID: 757-45-7220
+Bank: Mullins, Perkins and Meadows Bank
+Account Number: 4864520416
+Consent Status: Granted

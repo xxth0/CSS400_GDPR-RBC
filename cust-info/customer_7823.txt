@@ -1,0 +1,6 @@
+Customer ID: 7823
+Name: Stephanie Harris
+National ID: 527-53-2869
+Bank: Dodson, Parsons and Carroll Bank
+Account Number: 8300323279
+Consent Status: Granted

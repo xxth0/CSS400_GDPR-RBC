@@ -1,0 +1,6 @@
+Customer ID: 5189
+Name: Bradley Clarke
+National ID: 485-59-0826
+Bank: Ross-Williams Bank
+Account Number: 6686704669
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7837
+Name: Nicolas Wilson
+National ID: 493-11-9776
+Bank: Vasquez PLC Bank
+Account Number: 8307926406
+Consent Status: Revoked

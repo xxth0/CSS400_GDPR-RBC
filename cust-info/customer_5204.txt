@@ -1,0 +1,6 @@
+Customer ID: 5204
+Name: Frances Ramirez
+National ID: 534-74-5410
+Bank: Willis-Johnson Bank
+Account Number: 3718908686
+Consent Status: Granted

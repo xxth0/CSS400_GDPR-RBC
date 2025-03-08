@@ -1,0 +1,6 @@
+Customer ID: 677
+Name: Allison James
+National ID: 553-10-7242
+Bank: Wilson, Woods and Montoya Bank
+Account Number: 4466984662
+Consent Status: Revoked

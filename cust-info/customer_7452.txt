@@ -1,0 +1,6 @@
+Customer ID: 7452
+Name: Robert Flores
+National ID: 219-56-7217
+Bank: Clark, Costa and Bell Bank
+Account Number: 6237576429
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 769
+Name: Adam Schultz
+National ID: 667-67-6610
+Bank: Kidd LLC Bank
+Account Number: 5870541766
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8941
+Name: Brian Greene
+National ID: 583-65-7030
+Bank: Jenkins, Evans and Gonzalez Bank
+Account Number: 4932252539
+Consent Status: Revoked

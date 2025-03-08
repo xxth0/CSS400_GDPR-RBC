@@ -1,0 +1,6 @@
+Customer ID: 6280
+Name: Charles Brown
+National ID: 492-16-3727
+Bank: Watkins-Adkins Bank
+Account Number: 6197752574
+Consent Status: Granted

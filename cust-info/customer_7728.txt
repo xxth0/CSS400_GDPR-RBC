@@ -1,0 +1,6 @@
+Customer ID: 7728
+Name: Joseph Leblanc
+National ID: 105-47-9080
+Bank: Butler PLC Bank
+Account Number: 2154753297
+Consent Status: Revoked

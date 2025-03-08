@@ -1,0 +1,6 @@
+Customer ID: 7812
+Name: Kristy Burns
+National ID: 092-09-6898
+Bank: Archer Ltd Bank
+Account Number: 3850328471
+Consent Status: Granted

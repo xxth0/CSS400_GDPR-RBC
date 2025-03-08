@@ -1,0 +1,6 @@
+Customer ID: 9780
+Name: Angelica Brown
+National ID: 343-09-3460
+Bank: Banks and Sons Bank
+Account Number: 8877614231
+Consent Status: Granted

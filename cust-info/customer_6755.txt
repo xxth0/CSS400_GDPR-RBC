@@ -1,0 +1,6 @@
+Customer ID: 6755
+Name: Craig Miller
+National ID: 898-22-0247
+Bank: Mcdonald-Morales Bank
+Account Number: 2731833553
+Consent Status: Revoked

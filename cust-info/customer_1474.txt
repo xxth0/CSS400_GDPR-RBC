@@ -1,0 +1,6 @@
+Customer ID: 1474
+Name: James Ibarra
+National ID: 150-33-7803
+Bank: Perry, Bean and Cabrera Bank
+Account Number: 6509962468
+Consent Status: Granted

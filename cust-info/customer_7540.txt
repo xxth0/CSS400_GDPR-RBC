@@ -1,0 +1,6 @@
+Customer ID: 7540
+Name: Ashley Nelson PhD
+National ID: 344-87-3431
+Bank: Ibarra, Wood and Smith Bank
+Account Number: 3499999275
+Consent Status: Revoked

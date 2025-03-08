@@ -1,0 +1,6 @@
+Customer ID: 5329
+Name: Victor Johnson
+National ID: 058-65-7600
+Bank: Jones Inc Bank
+Account Number: 4556634897
+Consent Status: Revoked

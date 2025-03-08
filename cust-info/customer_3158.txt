@@ -1,0 +1,6 @@
+Customer ID: 3158
+Name: Joseph Friedman
+National ID: 076-54-8801
+Bank: Curtis Inc Bank
+Account Number: 2722084737
+Consent Status: Granted

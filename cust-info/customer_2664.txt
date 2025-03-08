@@ -1,0 +1,6 @@
+Customer ID: 2664
+Name: Casey Nicholson
+National ID: 367-11-8714
+Bank: Ward, Lowe and Trevino Bank
+Account Number: 1777248029
+Consent Status: Granted

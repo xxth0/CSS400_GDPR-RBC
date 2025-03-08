@@ -1,0 +1,6 @@
+Customer ID: 5244
+Name: Angela Wright
+National ID: 367-63-6184
+Bank: Greer-Prince Bank
+Account Number: 6328402889
+Consent Status: Granted

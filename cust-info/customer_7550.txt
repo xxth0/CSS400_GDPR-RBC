@@ -1,0 +1,6 @@
+Customer ID: 7550
+Name: Michelle Knight
+National ID: 601-15-3641
+Bank: Fox, Mosley and Terry Bank
+Account Number: 6331927717
+Consent Status: Granted

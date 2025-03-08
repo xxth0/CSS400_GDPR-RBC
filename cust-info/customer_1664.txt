@@ -1,0 +1,6 @@
+Customer ID: 1664
+Name: Robert Taylor
+National ID: 822-89-4725
+Bank: Schmidt, Clark and Mcdonald Bank
+Account Number: 4242012216
+Consent Status: Revoked

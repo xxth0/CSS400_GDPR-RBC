@@ -1,0 +1,6 @@
+Customer ID: 6850
+Name: Maria Torres
+National ID: 473-63-6854
+Bank: Williams and Sons Bank
+Account Number: 4029350689
+Consent Status: Revoked

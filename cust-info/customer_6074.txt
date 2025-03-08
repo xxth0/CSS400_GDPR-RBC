@@ -1,0 +1,6 @@
+Customer ID: 6074
+Name: Christina Christian
+National ID: 120-94-4680
+Bank: Aguilar Group Bank
+Account Number: 9699327869
+Consent Status: Granted

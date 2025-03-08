@@ -1,0 +1,6 @@
+Customer ID: 8572
+Name: William Marsh
+National ID: 448-86-0378
+Bank: Jacobs, Cooper and Gonzales Bank
+Account Number: 2718966729
+Consent Status: Granted

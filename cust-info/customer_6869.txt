@@ -1,0 +1,6 @@
+Customer ID: 6869
+Name: Jose Bartlett
+National ID: 434-66-9333
+Bank: Payne, Alvarez and Taylor Bank
+Account Number: 5977086009
+Consent Status: Granted

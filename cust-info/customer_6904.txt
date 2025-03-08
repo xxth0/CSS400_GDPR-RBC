@@ -1,0 +1,6 @@
+Customer ID: 6904
+Name: James Phillips
+National ID: 397-37-0293
+Bank: Lowe-Bonilla Bank
+Account Number: 7698912758
+Consent Status: Revoked

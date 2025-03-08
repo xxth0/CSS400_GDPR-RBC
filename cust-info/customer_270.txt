@@ -1,0 +1,6 @@
+Customer ID: 270
+Name: Robert Pierce
+National ID: 045-31-6752
+Bank: Wong and Sons Bank
+Account Number: 1372843490
+Consent Status: Granted

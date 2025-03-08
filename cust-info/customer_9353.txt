@@ -1,0 +1,6 @@
+Customer ID: 9353
+Name: Daniel Mendez
+National ID: 582-83-0992
+Bank: Hopkins Inc Bank
+Account Number: 2035287436
+Consent Status: Revoked

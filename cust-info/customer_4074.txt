@@ -1,0 +1,6 @@
+Customer ID: 4074
+Name: Cathy Rogers
+National ID: 192-45-3929
+Bank: Whitaker-Stokes Bank
+Account Number: 3020626877
+Consent Status: Granted

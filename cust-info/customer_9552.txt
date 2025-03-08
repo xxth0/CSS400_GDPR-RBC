@@ -1,0 +1,6 @@
+Customer ID: 9552
+Name: James Pitts
+National ID: 686-32-1362
+Bank: Roman, Johnson and Keller Bank
+Account Number: 4744654133
+Consent Status: Granted

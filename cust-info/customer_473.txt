@@ -1,0 +1,6 @@
+Customer ID: 473
+Name: Juan King
+National ID: 542-32-2290
+Bank: Brown Inc Bank
+Account Number: 7126205065
+Consent Status: Revoked

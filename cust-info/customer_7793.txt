@@ -1,0 +1,6 @@
+Customer ID: 7793
+Name: Katherine Parker
+National ID: 578-79-3508
+Bank: Johnson LLC Bank
+Account Number: 7125518365
+Consent Status: Granted

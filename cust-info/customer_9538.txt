@@ -1,0 +1,6 @@
+Customer ID: 9538
+Name: Vincent Rogers
+National ID: 886-50-9933
+Bank: Cook-Salazar Bank
+Account Number: 5535351635
+Consent Status: Revoked

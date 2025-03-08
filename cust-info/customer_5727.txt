@@ -1,0 +1,6 @@
+Customer ID: 5727
+Name: Sara Shaffer
+National ID: 250-20-5078
+Bank: Herrera and Sons Bank
+Account Number: 5220303147
+Consent Status: Granted

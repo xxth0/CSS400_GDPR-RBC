@@ -1,0 +1,6 @@
+Customer ID: 2252
+Name: Joshua Tran
+National ID: 484-79-2047
+Bank: Mcdonald, Washington and Morton Bank
+Account Number: 1181349895
+Consent Status: Revoked

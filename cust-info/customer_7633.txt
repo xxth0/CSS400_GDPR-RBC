@@ -1,0 +1,6 @@
+Customer ID: 7633
+Name: Laura Friedman
+National ID: 163-11-1674
+Bank: Perez-King Bank
+Account Number: 3847457359
+Consent Status: Revoked

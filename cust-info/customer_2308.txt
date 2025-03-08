@@ -1,0 +1,6 @@
+Customer ID: 2308
+Name: Sylvia Love
+National ID: 163-89-8563
+Bank: Garcia-Bailey Bank
+Account Number: 5940730795
+Consent Status: Revoked

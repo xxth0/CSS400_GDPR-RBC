@@ -1,0 +1,6 @@
+Customer ID: 9962
+Name: Peggy Young
+National ID: 209-34-5230
+Bank: Sanchez, Garrison and Morgan Bank
+Account Number: 6592632885
+Consent Status: Granted

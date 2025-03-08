@@ -1,0 +1,6 @@
+Customer ID: 8421
+Name: Ms. Daisy Murray
+National ID: 780-85-1559
+Bank: Gutierrez, Phillips and Logan Bank
+Account Number: 2415612713
+Consent Status: Granted

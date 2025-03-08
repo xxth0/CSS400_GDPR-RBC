@@ -1,0 +1,6 @@
+Customer ID: 3853
+Name: Tina Costa
+National ID: 474-33-2038
+Bank: Peterson Group Bank
+Account Number: 4662752781
+Consent Status: Revoked

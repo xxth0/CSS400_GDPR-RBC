@@ -1,0 +1,6 @@
+Customer ID: 4126
+Name: Mary Gordon
+National ID: 740-30-0590
+Bank: Wilcox Inc Bank
+Account Number: 5533186300
+Consent Status: Revoked

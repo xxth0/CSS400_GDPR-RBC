@@ -1,0 +1,6 @@
+Customer ID: 8062
+Name: John Scott
+National ID: 804-30-9566
+Bank: Dunn, Flores and Martin Bank
+Account Number: 7838984770
+Consent Status: Revoked

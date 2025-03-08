@@ -1,0 +1,6 @@
+Customer ID: 7749
+Name: Christopher Shepherd
+National ID: 272-36-1677
+Bank: Mendoza-Richardson Bank
+Account Number: 6365495390
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4166
+Name: David Clay
+National ID: 833-63-9697
+Bank: Barrett, Andrews and Price Bank
+Account Number: 3543363643
+Consent Status: Granted

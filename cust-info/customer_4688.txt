@@ -1,0 +1,6 @@
+Customer ID: 4688
+Name: Erin Ramirez
+National ID: 100-46-2794
+Bank: Smith and Sons Bank
+Account Number: 3727320817
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6588
+Name: Mary Rowland
+National ID: 188-83-3005
+Bank: Martin PLC Bank
+Account Number: 7785853449
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1215
+Name: Christopher Long
+National ID: 512-39-5703
+Bank: Russell LLC Bank
+Account Number: 4331848138
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 701
+Name: Jason Ibarra
+National ID: 878-31-9139
+Bank: Ward, Walker and White Bank
+Account Number: 8787402873
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2748
+Name: Rhonda Stevens
+National ID: 099-22-9971
+Bank: Barron PLC Bank
+Account Number: 7197651444
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8120
+Name: Aaron Brady
+National ID: 459-93-0367
+Bank: Cardenas-Clayton Bank
+Account Number: 5270127577
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4889
+Name: Amber Sims
+National ID: 593-53-6683
+Bank: Miller, Johnson and Solomon Bank
+Account Number: 7146030771
+Consent Status: Revoked

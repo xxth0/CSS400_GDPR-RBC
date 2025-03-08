@@ -1,0 +1,6 @@
+Customer ID: 9902
+Name: Mr. Taylor Smith
+National ID: 702-55-0600
+Bank: Smith, Rhodes and Kelley Bank
+Account Number: 7381073253
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8142
+Name: Rachel Bell
+National ID: 620-02-8173
+Bank: Wang, Miller and Roberts Bank
+Account Number: 7864737588
+Consent Status: Granted

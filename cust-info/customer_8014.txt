@@ -1,0 +1,6 @@
+Customer ID: 8014
+Name: Barry Williams
+National ID: 359-84-0557
+Bank: Hill-Lee Bank
+Account Number: 7474574608
+Consent Status: Revoked

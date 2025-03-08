@@ -1,0 +1,6 @@
+Customer ID: 7619
+Name: Elizabeth Dominguez
+National ID: 059-61-5713
+Bank: Fry-Williamson Bank
+Account Number: 7272575805
+Consent Status: Revoked

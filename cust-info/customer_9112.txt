@@ -1,0 +1,6 @@
+Customer ID: 9112
+Name: James Wells
+National ID: 830-84-6601
+Bank: Smith, Shepherd and Davis Bank
+Account Number: 2045298333
+Consent Status: Granted

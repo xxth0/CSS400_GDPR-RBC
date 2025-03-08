@@ -1,0 +1,6 @@
+Customer ID: 1744
+Name: Mr. Steven Hayes
+National ID: 768-34-8228
+Bank: Thomas Ltd Bank
+Account Number: 5330319889
+Consent Status: Revoked

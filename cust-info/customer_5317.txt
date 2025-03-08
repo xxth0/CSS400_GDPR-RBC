@@ -1,0 +1,6 @@
+Customer ID: 5317
+Name: Zachary Summers
+National ID: 667-73-3549
+Bank: Richards, Kidd and Freeman Bank
+Account Number: 8815200100
+Consent Status: Revoked

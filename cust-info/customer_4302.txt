@@ -1,0 +1,6 @@
+Customer ID: 4302
+Name: Donald Woodward
+National ID: 108-93-5011
+Bank: Anderson-Wilson Bank
+Account Number: 8433524546
+Consent Status: Revoked

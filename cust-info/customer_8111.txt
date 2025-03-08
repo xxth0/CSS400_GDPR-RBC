@@ -1,0 +1,6 @@
+Customer ID: 8111
+Name: Mitchell Castro
+National ID: 204-13-8105
+Bank: Kim, Rice and Wu Bank
+Account Number: 5834127332
+Consent Status: Granted

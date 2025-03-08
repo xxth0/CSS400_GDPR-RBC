@@ -1,0 +1,6 @@
+Customer ID: 390
+Name: Jose Phelps
+National ID: 795-70-1218
+Bank: Duran-Guerra Bank
+Account Number: 5207583192
+Consent Status: Granted

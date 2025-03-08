@@ -1,0 +1,6 @@
+Customer ID: 7468
+Name: Jean Dunn
+National ID: 112-24-8081
+Bank: Rivera PLC Bank
+Account Number: 9477192867
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6326
+Name: Jerry Diaz
+National ID: 685-94-4711
+Bank: Torres, Mcdonald and Hicks Bank
+Account Number: 1192169419
+Consent Status: Revoked

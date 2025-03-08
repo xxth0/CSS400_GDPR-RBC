@@ -1,0 +1,6 @@
+Customer ID: 4675
+Name: Elaine Thomas
+National ID: 094-94-8784
+Bank: Patel, Cooper and Prince Bank
+Account Number: 1068707864
+Consent Status: Revoked

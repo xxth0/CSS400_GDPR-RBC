@@ -1,0 +1,6 @@
+Customer ID: 1792
+Name: Michael Burns
+National ID: 543-06-9746
+Bank: Irwin, Garcia and Larsen Bank
+Account Number: 9103299934
+Consent Status: Revoked

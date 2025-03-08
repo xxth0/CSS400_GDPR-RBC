@@ -1,0 +1,6 @@
+Customer ID: 8118
+Name: Andrew Harding
+National ID: 862-94-0891
+Bank: Ferguson Inc Bank
+Account Number: 4949566668
+Consent Status: Granted

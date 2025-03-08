@@ -1,0 +1,6 @@
+Customer ID: 7781
+Name: Dakota Knight
+National ID: 199-09-3147
+Bank: Miller-Hester Bank
+Account Number: 1123911959
+Consent Status: Granted

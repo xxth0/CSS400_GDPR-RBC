@@ -1,0 +1,6 @@
+Customer ID: 8873
+Name: Timothy Horn
+National ID: 653-76-8718
+Bank: Escobar Ltd Bank
+Account Number: 5251583173
+Consent Status: Granted

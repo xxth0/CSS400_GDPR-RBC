@@ -1,0 +1,6 @@
+Customer ID: 6390
+Name: Brittany Lee
+National ID: 358-69-0629
+Bank: Alvarez, Clark and Hernandez Bank
+Account Number: 3682555718
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3345
+Name: Adam Hansen
+National ID: 088-65-4213
+Bank: Walters Inc Bank
+Account Number: 3064565255
+Consent Status: Revoked

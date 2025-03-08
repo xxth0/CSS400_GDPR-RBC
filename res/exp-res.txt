@@ -1,0 +1,37 @@
+100kb
+[2] Hybrid RSA + AES | Encrypt Time: 1581.430 µs | Decrypt Time: 2094.507 µs
+[6] QKD + PQC (PyCryptodome ECC + AES) | Encrypt Time: 13617.754 µs | Decrypt Time: 509.262 µs
+[13] ECC Scalar Multiplication | Encrypt Time: 0.000 µs | Decrypt Time: 0.000 µs
+[Ours] C_sym (AES only) | Encrypt Time: 1127.958 µs | Decrypt Time: 528.812 µs
+
+
+
+200kb
+[2] Hybrid RSA + AES | Encrypt Time: 1879.215 µs | Decrypt Time: 2118.587 µs
+[6] QKD + PQC (PyCryptodome ECC + AES) | Encrypt Time: 8219.004 µs | Decrypt Time: 528.097 µs
+[13] ECC Scalar Multiplication | Encrypt Time: 0.000 µs | Decrypt Time: 0.000 µs
+[Ours] C_sym (AES only) | Encrypt Time: 1612.663 µs | Decrypt Time: 532.389 µs
+
+
+
+400kb
+[2] Hybrid RSA + AES | Encrypt Time: 2730.370 µs | Decrypt Time: 2217.770 µs
+[6] QKD + PQC (PyCryptodome ECC + AES) | Encrypt Time: 8644.342 µs | Decrypt Time: 529.766 µs
+[13] ECC Scalar Multiplication | Encrypt Time: 0.000 µs | Decrypt Time: 0.000 µs
+[Ours] C_sym (AES only) | Encrypt Time: 1827.717 µs | Decrypt Time: 532.627 µs
+
+
+
+800kb
+[2] Hybrid RSA + AES | Encrypt Time: 2870.083 µs | Decrypt Time: 2373.219 µs
+[6] QKD + PQC (PyCryptodome ECC + AES) | Encrypt Time: 10482.073 µs | Decrypt Time: 1070.738 µs
+[13] ECC Scalar Multiplication | Encrypt Time: 0.000 µs | Decrypt Time: 0.000 µs
+[Ours] C_sym (AES only) | Encrypt Time: 2157.450 µs | Decrypt Time: 600.576 µs
+
+
+
+1600kb
+[2] Hybrid RSA + AES | Encrypt Time: 3226.042 µs | Decrypt Time: 3200.054 µs
+[6] QKD + PQC (PyCryptodome ECC + AES) | Encrypt Time: 10615.110 µs | Decrypt Time: 2107.859 µs
+[13] ECC Scalar Multiplication | Encrypt Time: 0.000 µs | Decrypt Time: 0.000 µs
+[Ours] C_sym (AES only) | Encrypt Time: 3164.768 µs | Decrypt Time: 1576.662 µs

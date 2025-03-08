@@ -1,0 +1,6 @@
+Customer ID: 6448
+Name: Timothy Reed
+National ID: 332-97-5390
+Bank: Myers Ltd Bank
+Account Number: 5406675269
+Consent Status: Revoked

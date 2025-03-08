@@ -1,0 +1,6 @@
+Customer ID: 8759
+Name: Timothy Williams
+National ID: 711-23-9164
+Bank: Pugh-Morrison Bank
+Account Number: 1090744076
+Consent Status: Revoked

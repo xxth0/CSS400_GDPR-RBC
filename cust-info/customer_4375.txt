@@ -1,0 +1,6 @@
+Customer ID: 4375
+Name: Joseph Farmer
+National ID: 806-15-2882
+Bank: Chandler Group Bank
+Account Number: 9659376121
+Consent Status: Revoked

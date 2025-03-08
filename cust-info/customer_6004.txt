@@ -1,0 +1,6 @@
+Customer ID: 6004
+Name: Jessica Jennings
+National ID: 749-65-4503
+Bank: Chandler-Kaiser Bank
+Account Number: 8888609916
+Consent Status: Revoked

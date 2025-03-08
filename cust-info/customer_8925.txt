@@ -1,0 +1,6 @@
+Customer ID: 8925
+Name: Michael Maldonado
+National ID: 291-88-9399
+Bank: Stewart PLC Bank
+Account Number: 1204808622
+Consent Status: Revoked

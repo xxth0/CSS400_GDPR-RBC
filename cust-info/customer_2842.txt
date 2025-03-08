@@ -1,0 +1,6 @@
+Customer ID: 2842
+Name: Bryan Harris
+National ID: 834-14-4487
+Bank: Carter-Peterson Bank
+Account Number: 4531151170
+Consent Status: Revoked

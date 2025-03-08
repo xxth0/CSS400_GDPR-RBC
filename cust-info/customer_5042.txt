@@ -1,0 +1,6 @@
+Customer ID: 5042
+Name: Alexa Osborne
+National ID: 453-93-8457
+Bank: Johnson, Cox and Ortiz Bank
+Account Number: 2150875932
+Consent Status: Revoked

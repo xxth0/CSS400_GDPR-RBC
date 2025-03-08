@@ -1,0 +1,6 @@
+Customer ID: 789
+Name: Daniel Blake
+National ID: 321-41-7587
+Bank: Hicks, Payne and Rodriguez Bank
+Account Number: 6493357854
+Consent Status: Revoked

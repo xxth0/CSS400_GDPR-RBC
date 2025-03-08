@@ -1,0 +1,6 @@
+Customer ID: 9018
+Name: Patty Russell
+National ID: 473-39-7458
+Bank: Anderson Group Bank
+Account Number: 4150720318
+Consent Status: Granted

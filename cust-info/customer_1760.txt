@@ -1,0 +1,6 @@
+Customer ID: 1760
+Name: Charles Jennings
+National ID: 571-96-2615
+Bank: Richardson, Taylor and Grimes Bank
+Account Number: 4398388979
+Consent Status: Revoked

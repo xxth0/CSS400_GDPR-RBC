@@ -1,0 +1,6 @@
+Customer ID: 7224
+Name: Amy Simpson
+National ID: 747-80-4840
+Bank: Campos-Miller Bank
+Account Number: 2999583197
+Consent Status: Revoked

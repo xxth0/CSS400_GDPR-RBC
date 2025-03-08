@@ -1,0 +1,6 @@
+Customer ID: 5072
+Name: John Hester
+National ID: 523-24-9718
+Bank: Gomez-Cummings Bank
+Account Number: 6383603169
+Consent Status: Granted

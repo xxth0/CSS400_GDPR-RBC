@@ -1,0 +1,6 @@
+Customer ID: 2231
+Name: James Barnett
+National ID: 574-10-9795
+Bank: Moore Ltd Bank
+Account Number: 8794348579
+Consent Status: Granted

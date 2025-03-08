@@ -1,0 +1,6 @@
+Customer ID: 543
+Name: Daniel Aguilar
+National ID: 234-17-2514
+Bank: Wilkins, Benjamin and Tran Bank
+Account Number: 1482800546
+Consent Status: Granted

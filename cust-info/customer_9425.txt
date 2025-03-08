@@ -1,0 +1,6 @@
+Customer ID: 9425
+Name: Laurie Aguirre
+National ID: 651-64-9490
+Bank: Miller Ltd Bank
+Account Number: 5380135870
+Consent Status: Granted

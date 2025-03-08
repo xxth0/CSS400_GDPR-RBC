@@ -1,0 +1,6 @@
+Customer ID: 1073
+Name: Joyce Coleman
+National ID: 654-58-0833
+Bank: Baldwin-Gonzalez Bank
+Account Number: 3241348978
+Consent Status: Granted

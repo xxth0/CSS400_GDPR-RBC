@@ -1,0 +1,6 @@
+Customer ID: 9700
+Name: Daniel Sullivan
+National ID: 896-07-4886
+Bank: Rivers LLC Bank
+Account Number: 3140452102
+Consent Status: Revoked

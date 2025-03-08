@@ -1,0 +1,6 @@
+Customer ID: 6056
+Name: Glenn Dyer
+National ID: 565-02-1075
+Bank: Wheeler-Johnson Bank
+Account Number: 7197887546
+Consent Status: Granted

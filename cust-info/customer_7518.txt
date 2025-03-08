@@ -1,0 +1,6 @@
+Customer ID: 7518
+Name: Alicia Smith
+National ID: 090-36-2890
+Bank: Webb, Glover and Chapman Bank
+Account Number: 5584539183
+Consent Status: Revoked

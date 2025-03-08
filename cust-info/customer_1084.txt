@@ -1,0 +1,6 @@
+Customer ID: 1084
+Name: Joseph Gray
+National ID: 830-60-2268
+Bank: Zuniga-Brown Bank
+Account Number: 9256257934
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1988
+Name: Jeremiah Clark
+National ID: 848-49-4973
+Bank: James Group Bank
+Account Number: 9047320557
+Consent Status: Granted

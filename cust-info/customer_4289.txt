@@ -1,0 +1,6 @@
+Customer ID: 4289
+Name: Allison Simon
+National ID: 454-60-0224
+Bank: Hernandez-Patterson Bank
+Account Number: 6767851094
+Consent Status: Granted

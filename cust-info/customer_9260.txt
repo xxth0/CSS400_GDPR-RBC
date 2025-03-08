@@ -1,0 +1,6 @@
+Customer ID: 9260
+Name: Robert Taylor
+National ID: 611-56-4281
+Bank: Harris and Sons Bank
+Account Number: 2243334794
+Consent Status: Revoked

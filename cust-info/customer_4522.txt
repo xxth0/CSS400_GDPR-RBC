@@ -1,0 +1,6 @@
+Customer ID: 4522
+Name: Roberto Whitehead
+National ID: 435-43-8070
+Bank: Buchanan, Parrish and Cox Bank
+Account Number: 9973200594
+Consent Status: Revoked

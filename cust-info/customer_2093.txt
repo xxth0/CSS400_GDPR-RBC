@@ -1,0 +1,6 @@
+Customer ID: 2093
+Name: John Lopez
+National ID: 614-56-0095
+Bank: Haynes Group Bank
+Account Number: 5892017885
+Consent Status: Granted

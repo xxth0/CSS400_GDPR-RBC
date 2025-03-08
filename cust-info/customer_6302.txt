@@ -1,0 +1,6 @@
+Customer ID: 6302
+Name: Spencer King
+National ID: 154-88-8938
+Bank: Sanchez-Doyle Bank
+Account Number: 7757368569
+Consent Status: Granted

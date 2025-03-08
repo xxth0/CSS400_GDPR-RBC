@@ -1,0 +1,6 @@
+Customer ID: 1193
+Name: Sara Rodriguez
+National ID: 594-05-7527
+Bank: York LLC Bank
+Account Number: 6321990658
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 33
+Name: Donald Harrison
+National ID: 729-95-2252
+Bank: Johnston-Schneider Bank
+Account Number: 1091610615
+Consent Status: Revoked

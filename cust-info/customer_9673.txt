@@ -1,0 +1,6 @@
+Customer ID: 9673
+Name: Katherine Jordan
+National ID: 470-07-8636
+Bank: White and Sons Bank
+Account Number: 3297621641
+Consent Status: Granted

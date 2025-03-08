@@ -1,0 +1,6 @@
+Customer ID: 5708
+Name: Roger Daugherty
+National ID: 850-52-9580
+Bank: Hall Ltd Bank
+Account Number: 7146154040
+Consent Status: Revoked

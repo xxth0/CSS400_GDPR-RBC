@@ -1,0 +1,6 @@
+Customer ID: 5076
+Name: Charles Johnson
+National ID: 640-63-6110
+Bank: Boyd PLC Bank
+Account Number: 5477878067
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5034
+Name: Brian Potter
+National ID: 331-53-5023
+Bank: Brennan Inc Bank
+Account Number: 6477325215
+Consent Status: Granted

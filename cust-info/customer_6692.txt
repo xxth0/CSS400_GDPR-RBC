@@ -1,0 +1,6 @@
+Customer ID: 6692
+Name: Margaret Oliver
+National ID: 575-19-6640
+Bank: Jones PLC Bank
+Account Number: 1721872233
+Consent Status: Granted

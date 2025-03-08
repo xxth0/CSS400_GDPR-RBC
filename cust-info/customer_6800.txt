@@ -1,0 +1,6 @@
+Customer ID: 6800
+Name: Faith Whitney
+National ID: 870-51-8345
+Bank: Ruiz, Love and Chambers Bank
+Account Number: 9470589530
+Consent Status: Revoked

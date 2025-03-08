@@ -1,0 +1,6 @@
+Customer ID: 505
+Name: Rebecca Harding
+National ID: 814-77-7651
+Bank: Fields, Andrews and Taylor Bank
+Account Number: 6070991770
+Consent Status: Revoked

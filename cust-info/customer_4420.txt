@@ -1,0 +1,6 @@
+Customer ID: 4420
+Name: Cassandra Jones
+National ID: 881-86-0533
+Bank: Wilson Group Bank
+Account Number: 2389153706
+Consent Status: Granted

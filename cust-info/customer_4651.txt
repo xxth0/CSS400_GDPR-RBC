@@ -1,0 +1,6 @@
+Customer ID: 4651
+Name: Christopher Holloway
+National ID: 077-04-1046
+Bank: Mueller-Wright Bank
+Account Number: 7914744283
+Consent Status: Granted

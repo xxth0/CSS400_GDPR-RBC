@@ -1,0 +1,6 @@
+Customer ID: 4292
+Name: Malik Brooks
+National ID: 219-94-2596
+Bank: Carter Inc Bank
+Account Number: 2091604573
+Consent Status: Revoked

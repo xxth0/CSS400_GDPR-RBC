@@ -1,0 +1,6 @@
+Customer ID: 1206
+Name: Christopher Cain
+National ID: 155-93-6829
+Bank: Collins-Henderson Bank
+Account Number: 6907351206
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 785
+Name: Sarah Hardin
+National ID: 878-08-0446
+Bank: Lopez, Clark and Stewart Bank
+Account Number: 3483512966
+Consent Status: Granted

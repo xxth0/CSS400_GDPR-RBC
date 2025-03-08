@@ -1,0 +1,6 @@
+Customer ID: 1039
+Name: Maureen Smith
+National ID: 484-67-0061
+Bank: Mack-Pearson Bank
+Account Number: 5820571829
+Consent Status: Revoked

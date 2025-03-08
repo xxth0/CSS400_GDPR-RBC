@@ -1,0 +1,6 @@
+Customer ID: 7450
+Name: Christopher Kelly
+National ID: 209-48-9427
+Bank: Clark-Hurley Bank
+Account Number: 2968685082
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 478
+Name: Christian Medina
+National ID: 678-64-8432
+Bank: Brown, Beck and Dennis Bank
+Account Number: 2411342897
+Consent Status: Granted

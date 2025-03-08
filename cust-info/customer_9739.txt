@@ -1,0 +1,6 @@
+Customer ID: 9739
+Name: Stephanie Johnson
+National ID: 787-02-1127
+Bank: Rivera-Clark Bank
+Account Number: 8525192869
+Consent Status: Granted

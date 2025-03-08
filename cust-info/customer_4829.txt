@@ -1,0 +1,6 @@
+Customer ID: 4829
+Name: Karen Barber
+National ID: 179-92-1880
+Bank: Gutierrez Ltd Bank
+Account Number: 2259219183
+Consent Status: Granted

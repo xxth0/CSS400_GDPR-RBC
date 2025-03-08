@@ -1,0 +1,6 @@
+Customer ID: 8204
+Name: Susan Moore
+National ID: 309-11-1802
+Bank: Reese, Moran and Pearson Bank
+Account Number: 7240060731
+Consent Status: Granted

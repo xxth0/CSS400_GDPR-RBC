@@ -1,0 +1,6 @@
+Customer ID: 5561
+Name: Christopher Guzman
+National ID: 288-02-9285
+Bank: Harris and Sons Bank
+Account Number: 2701664485
+Consent Status: Granted

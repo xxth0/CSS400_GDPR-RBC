@@ -1,0 +1,6 @@
+Customer ID: 9730
+Name: Robert Khan
+National ID: 031-18-9943
+Bank: Black and Sons Bank
+Account Number: 8519722278
+Consent Status: Granted

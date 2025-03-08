@@ -1,0 +1,6 @@
+Customer ID: 6311
+Name: Jeremy Carlson
+National ID: 600-39-4399
+Bank: Peterson PLC Bank
+Account Number: 1947091032
+Consent Status: Revoked

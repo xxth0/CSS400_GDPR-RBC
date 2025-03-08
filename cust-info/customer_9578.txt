@@ -1,0 +1,6 @@
+Customer ID: 9578
+Name: Willie Welch
+National ID: 660-21-6442
+Bank: Hopkins-Powell Bank
+Account Number: 8910016290
+Consent Status: Granted

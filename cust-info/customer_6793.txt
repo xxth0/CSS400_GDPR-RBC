@@ -1,0 +1,6 @@
+Customer ID: 6793
+Name: Michael Brown
+National ID: 355-89-6026
+Bank: Burns-Jacobs Bank
+Account Number: 2112142617
+Consent Status: Revoked

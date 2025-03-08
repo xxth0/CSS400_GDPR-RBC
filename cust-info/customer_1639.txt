@@ -1,0 +1,6 @@
+Customer ID: 1639
+Name: Robert Dunlap
+National ID: 828-50-5530
+Bank: Guerra-Gomez Bank
+Account Number: 3611988891
+Consent Status: Revoked

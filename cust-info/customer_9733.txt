@@ -1,0 +1,6 @@
+Customer ID: 9733
+Name: Shannon Jackson
+National ID: 763-76-9698
+Bank: Campbell Ltd Bank
+Account Number: 2790589659
+Consent Status: Revoked

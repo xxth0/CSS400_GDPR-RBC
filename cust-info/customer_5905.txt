@@ -1,0 +1,6 @@
+Customer ID: 5905
+Name: Jeremy Charles DDS
+National ID: 435-16-9160
+Bank: Reyes, Salazar and Knight Bank
+Account Number: 7615551412
+Consent Status: Revoked

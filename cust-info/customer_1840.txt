@@ -1,0 +1,6 @@
+Customer ID: 1840
+Name: Christian Turner
+National ID: 271-70-4848
+Bank: Berg PLC Bank
+Account Number: 7949537106
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5468
+Name: Ernest Cline
+National ID: 581-92-8582
+Bank: Parks-Knight Bank
+Account Number: 8676157507
+Consent Status: Revoked

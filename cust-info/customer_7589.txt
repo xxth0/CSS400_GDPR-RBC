@@ -1,0 +1,6 @@
+Customer ID: 7589
+Name: Ian Johnson
+National ID: 211-20-4632
+Bank: Pittman Group Bank
+Account Number: 9105165119
+Consent Status: Granted

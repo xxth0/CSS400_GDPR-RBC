@@ -1,0 +1,6 @@
+Customer ID: 9620
+Name: Antonio Richards
+National ID: 525-66-1214
+Bank: Brown-Pope Bank
+Account Number: 7121933357
+Consent Status: Granted

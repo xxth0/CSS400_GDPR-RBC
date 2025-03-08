@@ -1,0 +1,6 @@
+Customer ID: 304
+Name: Carly Baker
+National ID: 520-22-8562
+Bank: Hart-Atkinson Bank
+Account Number: 2639984556
+Consent Status: Revoked

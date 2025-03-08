@@ -1,0 +1,6 @@
+Customer ID: 1339
+Name: Erik Bowers
+National ID: 129-87-2380
+Bank: Clark PLC Bank
+Account Number: 1943498676
+Consent Status: Granted

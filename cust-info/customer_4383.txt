@@ -1,0 +1,6 @@
+Customer ID: 4383
+Name: Matthew Rojas
+National ID: 881-72-4437
+Bank: Miller, Benjamin and Gibson Bank
+Account Number: 6635687444
+Consent Status: Granted

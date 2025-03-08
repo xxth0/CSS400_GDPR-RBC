@@ -1,0 +1,6 @@
+Customer ID: 1101
+Name: Anne Ramirez
+National ID: 326-55-2645
+Bank: Martinez-Smith Bank
+Account Number: 3895613515
+Consent Status: Revoked

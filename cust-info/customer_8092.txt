@@ -1,0 +1,6 @@
+Customer ID: 8092
+Name: Tiffany Olson
+National ID: 466-59-9144
+Bank: Castro-Briggs Bank
+Account Number: 7184644793
+Consent Status: Revoked

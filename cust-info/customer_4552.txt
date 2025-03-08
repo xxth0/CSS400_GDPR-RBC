@@ -1,0 +1,6 @@
+Customer ID: 4552
+Name: Tasha Hanna
+National ID: 643-03-5497
+Bank: Robinson-Mendoza Bank
+Account Number: 4740387566
+Consent Status: Granted

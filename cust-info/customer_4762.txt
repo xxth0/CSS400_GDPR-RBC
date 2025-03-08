@@ -1,0 +1,6 @@
+Customer ID: 4762
+Name: Kevin Curry
+National ID: 771-96-9360
+Bank: Weaver, Jennings and Watts Bank
+Account Number: 2702104136
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6597
+Name: Jerry Arnold
+National ID: 125-24-7768
+Bank: Gonzalez PLC Bank
+Account Number: 1250408859
+Consent Status: Granted

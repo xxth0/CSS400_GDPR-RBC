@@ -1,0 +1,6 @@
+Customer ID: 5089
+Name: David Perez
+National ID: 701-36-6326
+Bank: Johnson, Brooks and Taylor Bank
+Account Number: 4898835804
+Consent Status: Revoked

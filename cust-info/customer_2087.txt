@@ -1,0 +1,6 @@
+Customer ID: 2087
+Name: Jessica Rios
+National ID: 585-36-0933
+Bank: Black Ltd Bank
+Account Number: 5791663363
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6925
+Name: Luis Fisher
+National ID: 064-26-0094
+Bank: Fernandez, Harrington and Lynn Bank
+Account Number: 8793545291
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 284
+Name: Joseph Wang
+National ID: 381-17-1081
+Bank: Mercado-Mcmahon Bank
+Account Number: 6353508835
+Consent Status: Revoked

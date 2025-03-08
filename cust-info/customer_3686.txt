@@ -1,0 +1,6 @@
+Customer ID: 3686
+Name: Tyler Hale
+National ID: 557-85-5342
+Bank: Wolf, Blackburn and Lozano Bank
+Account Number: 1462421085
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8701
+Name: Nathan Wilson
+National ID: 440-11-9947
+Bank: Hunter LLC Bank
+Account Number: 8978807997
+Consent Status: Granted

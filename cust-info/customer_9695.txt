@@ -1,0 +1,6 @@
+Customer ID: 9695
+Name: Jennifer Gardner
+National ID: 795-61-6953
+Bank: Bennett-Prince Bank
+Account Number: 1409335057
+Consent Status: Revoked

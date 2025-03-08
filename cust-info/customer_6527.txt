@@ -1,0 +1,6 @@
+Customer ID: 6527
+Name: Matthew Turner
+National ID: 590-97-4892
+Bank: Everett-Johnson Bank
+Account Number: 4743766687
+Consent Status: Revoked

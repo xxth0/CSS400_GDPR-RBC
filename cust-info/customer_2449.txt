@@ -1,0 +1,6 @@
+Customer ID: 2449
+Name: Preston Hunter
+National ID: 520-37-6801
+Bank: Jackson-Smith Bank
+Account Number: 3066440659
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4618
+Name: Joshua Wood
+National ID: 267-05-9717
+Bank: Roberts, Bowman and Silva Bank
+Account Number: 7534868255
+Consent Status: Revoked

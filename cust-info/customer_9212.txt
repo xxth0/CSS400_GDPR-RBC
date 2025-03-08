@@ -1,0 +1,6 @@
+Customer ID: 9212
+Name: John Phillips
+National ID: 707-97-6377
+Bank: Moses-Ware Bank
+Account Number: 4596484429
+Consent Status: Granted

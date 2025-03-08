@@ -1,0 +1,6 @@
+Customer ID: 4402
+Name: Amanda Duarte
+National ID: 663-40-0617
+Bank: Hickman PLC Bank
+Account Number: 5397423368
+Consent Status: Granted

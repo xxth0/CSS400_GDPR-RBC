@@ -1,0 +1,6 @@
+Customer ID: 8354
+Name: Jeffrey Allen
+National ID: 635-31-6826
+Bank: Reed and Sons Bank
+Account Number: 4680410272
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7194
+Name: Roger Martin
+National ID: 317-05-0460
+Bank: Martin-Garcia Bank
+Account Number: 8909227344
+Consent Status: Granted

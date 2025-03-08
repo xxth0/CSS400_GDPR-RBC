@@ -1,0 +1,6 @@
+Customer ID: 9196
+Name: Christopher Cherry
+National ID: 084-26-7096
+Bank: Gutierrez-Winters Bank
+Account Number: 9288427891
+Consent Status: Revoked

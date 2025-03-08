@@ -1,0 +1,6 @@
+Customer ID: 6251
+Name: Katie Miller
+National ID: 158-02-5424
+Bank: Logan, Newman and Erickson Bank
+Account Number: 6163425208
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5803
+Name: Steven Lara
+National ID: 574-31-3341
+Bank: Li-Benitez Bank
+Account Number: 1518044419
+Consent Status: Granted

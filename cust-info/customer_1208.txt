@@ -1,0 +1,6 @@
+Customer ID: 1208
+Name: Suzanne Parker
+National ID: 553-11-1662
+Bank: Mclean-Thompson Bank
+Account Number: 9040974428
+Consent Status: Revoked

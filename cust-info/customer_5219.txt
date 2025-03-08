@@ -1,0 +1,6 @@
+Customer ID: 5219
+Name: Kelli Vargas
+National ID: 063-78-5812
+Bank: Eaton Ltd Bank
+Account Number: 9970997353
+Consent Status: Revoked

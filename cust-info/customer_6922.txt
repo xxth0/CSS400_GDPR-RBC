@@ -1,0 +1,6 @@
+Customer ID: 6922
+Name: Vincent Gordon
+National ID: 243-50-5780
+Bank: Gregory, Shepherd and Herman Bank
+Account Number: 9350196716
+Consent Status: Granted

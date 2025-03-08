@@ -1,0 +1,6 @@
+Customer ID: 2703
+Name: Carly Thomas
+National ID: 606-52-1107
+Bank: Jimenez, Melton and Smith Bank
+Account Number: 4529896348
+Consent Status: Revoked

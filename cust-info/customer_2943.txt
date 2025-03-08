@@ -1,0 +1,6 @@
+Customer ID: 2943
+Name: Stacey Hernandez
+National ID: 057-49-9729
+Bank: Shaffer and Sons Bank
+Account Number: 1415018543
+Consent Status: Revoked

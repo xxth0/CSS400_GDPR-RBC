@@ -1,0 +1,6 @@
+Customer ID: 7934
+Name: Connor Crawford
+National ID: 402-62-2377
+Bank: Green Group Bank
+Account Number: 9599814824
+Consent Status: Granted

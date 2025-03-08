@@ -1,0 +1,6 @@
+Customer ID: 961
+Name: Deborah Zavala
+National ID: 019-07-0404
+Bank: Jensen-Garcia Bank
+Account Number: 8762994561
+Consent Status: Granted

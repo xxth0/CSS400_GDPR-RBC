@@ -1,0 +1,6 @@
+Customer ID: 6345
+Name: James Mason
+National ID: 109-21-9613
+Bank: Rodriguez-West Bank
+Account Number: 9779726079
+Consent Status: Revoked

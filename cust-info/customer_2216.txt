@@ -1,0 +1,6 @@
+Customer ID: 2216
+Name: Brian Harris
+National ID: 006-92-7982
+Bank: Gross and Sons Bank
+Account Number: 6689309596
+Consent Status: Granted

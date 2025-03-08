@@ -1,0 +1,6 @@
+Customer ID: 2470
+Name: Rebecca Scott
+National ID: 289-31-2436
+Bank: Thompson, Allen and Frazier Bank
+Account Number: 8364955953
+Consent Status: Granted

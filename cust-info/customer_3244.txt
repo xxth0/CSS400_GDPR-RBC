@@ -1,0 +1,6 @@
+Customer ID: 3244
+Name: Christopher Daniels
+National ID: 325-61-5344
+Bank: Green-Wagner Bank
+Account Number: 9357286240
+Consent Status: Revoked

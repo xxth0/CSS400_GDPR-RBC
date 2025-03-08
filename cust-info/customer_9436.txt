@@ -1,0 +1,6 @@
+Customer ID: 9436
+Name: Sherri Ross
+National ID: 164-27-9304
+Bank: Hogan-Burns Bank
+Account Number: 3736501343
+Consent Status: Granted

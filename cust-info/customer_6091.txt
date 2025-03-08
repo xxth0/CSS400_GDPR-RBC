@@ -1,0 +1,6 @@
+Customer ID: 6091
+Name: Gregory Garcia
+National ID: 326-01-3243
+Bank: Barnes Ltd Bank
+Account Number: 6806375769
+Consent Status: Granted

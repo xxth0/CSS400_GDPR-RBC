@@ -1,0 +1,6 @@
+Customer ID: 969
+Name: Kathryn Anderson
+National ID: 886-72-4007
+Bank: Shields and Sons Bank
+Account Number: 9788888852
+Consent Status: Revoked

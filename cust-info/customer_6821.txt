@@ -1,0 +1,6 @@
+Customer ID: 6821
+Name: Nicole Bullock
+National ID: 329-94-3768
+Bank: Ward Inc Bank
+Account Number: 7219839197
+Consent Status: Revoked

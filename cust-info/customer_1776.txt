@@ -1,0 +1,6 @@
+Customer ID: 1776
+Name: Robert Williams
+National ID: 670-73-9270
+Bank: Perry-Campbell Bank
+Account Number: 8423487182
+Consent Status: Revoked

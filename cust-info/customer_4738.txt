@@ -1,0 +1,6 @@
+Customer ID: 4738
+Name: Amanda Carlson
+National ID: 061-25-3600
+Bank: Perez-Waller Bank
+Account Number: 7457497945
+Consent Status: Revoked

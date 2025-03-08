@@ -1,0 +1,6 @@
+Customer ID: 6927
+Name: Melissa Butler
+National ID: 884-72-3858
+Bank: Smith-Cameron Bank
+Account Number: 4550102574
+Consent Status: Revoked

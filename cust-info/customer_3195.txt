@@ -1,0 +1,6 @@
+Customer ID: 3195
+Name: Matthew Snyder
+National ID: 344-05-4337
+Bank: Garcia-Vaughn Bank
+Account Number: 7796351767
+Consent Status: Granted

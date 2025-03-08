@@ -1,0 +1,6 @@
+Customer ID: 8804
+Name: Theresa Hunt
+National ID: 697-16-4667
+Bank: Miller, Evans and Bates Bank
+Account Number: 9417878662
+Consent Status: Revoked

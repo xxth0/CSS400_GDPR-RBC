@@ -1,0 +1,6 @@
+Customer ID: 6067
+Name: Kayla Anderson
+National ID: 543-27-5448
+Bank: Richard LLC Bank
+Account Number: 7526449566
+Consent Status: Granted

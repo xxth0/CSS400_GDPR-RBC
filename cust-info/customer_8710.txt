@@ -1,0 +1,6 @@
+Customer ID: 8710
+Name: Samantha Johnson
+National ID: 390-73-5069
+Bank: Saunders, Riley and Herman Bank
+Account Number: 9678141029
+Consent Status: Revoked

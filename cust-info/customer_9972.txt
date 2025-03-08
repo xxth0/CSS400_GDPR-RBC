@@ -1,0 +1,6 @@
+Customer ID: 9972
+Name: Michele Payne
+National ID: 054-08-5384
+Bank: Savage, Ortiz and White Bank
+Account Number: 3075113407
+Consent Status: Granted

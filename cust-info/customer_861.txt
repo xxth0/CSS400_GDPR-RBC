@@ -1,0 +1,6 @@
+Customer ID: 861
+Name: Nicole Kelly
+National ID: 621-87-4320
+Bank: Mcfarland, Evans and Cox Bank
+Account Number: 3740029918
+Consent Status: Granted

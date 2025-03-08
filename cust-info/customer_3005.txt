@@ -1,0 +1,6 @@
+Customer ID: 3005
+Name: Martin Gutierrez
+National ID: 100-99-7044
+Bank: Obrien LLC Bank
+Account Number: 1205190521
+Consent Status: Revoked

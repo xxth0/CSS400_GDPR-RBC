@@ -1,0 +1,6 @@
+Customer ID: 9838
+Name: Henry Boyd
+National ID: 559-95-6515
+Bank: Keller PLC Bank
+Account Number: 7128068326
+Consent Status: Revoked

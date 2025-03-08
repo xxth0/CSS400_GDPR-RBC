@@ -1,0 +1,6 @@
+Customer ID: 5751
+Name: Debbie Oneal
+National ID: 428-94-4433
+Bank: Garcia-Ramos Bank
+Account Number: 3952233823
+Consent Status: Revoked

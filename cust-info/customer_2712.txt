@@ -1,0 +1,6 @@
+Customer ID: 2712
+Name: Barbara Green
+National ID: 781-50-3192
+Bank: Walker, Griffin and Ellis Bank
+Account Number: 5312642391
+Consent Status: Revoked

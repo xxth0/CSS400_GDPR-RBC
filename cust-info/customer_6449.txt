@@ -1,0 +1,6 @@
+Customer ID: 6449
+Name: Herbert Castillo
+National ID: 539-87-9525
+Bank: Sweeney-Stephens Bank
+Account Number: 2687041148
+Consent Status: Revoked

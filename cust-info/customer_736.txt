@@ -1,0 +1,6 @@
+Customer ID: 736
+Name: Elizabeth Knight
+National ID: 138-34-0790
+Bank: Williams-Huber Bank
+Account Number: 5400781534
+Consent Status: Revoked

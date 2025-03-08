@@ -1,0 +1,6 @@
+Customer ID: 2441
+Name: Brian Clark
+National ID: 236-12-6319
+Bank: Williams, Phillips and Torres Bank
+Account Number: 7973567854
+Consent Status: Revoked

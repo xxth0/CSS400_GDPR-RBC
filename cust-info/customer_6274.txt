@@ -1,0 +1,6 @@
+Customer ID: 6274
+Name: Doris Miller
+National ID: 077-09-8262
+Bank: Barber, Harrison and Rodriguez Bank
+Account Number: 9068602353
+Consent Status: Revoked

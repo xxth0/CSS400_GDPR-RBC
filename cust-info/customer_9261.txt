@@ -1,0 +1,6 @@
+Customer ID: 9261
+Name: Jeffrey Mckee
+National ID: 093-47-9281
+Bank: Ballard Ltd Bank
+Account Number: 9138263713
+Consent Status: Revoked

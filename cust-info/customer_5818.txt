@@ -1,0 +1,6 @@
+Customer ID: 5818
+Name: Russell King
+National ID: 678-39-6174
+Bank: White and Sons Bank
+Account Number: 4404262625
+Consent Status: Granted

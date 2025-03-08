@@ -1,0 +1,6 @@
+Customer ID: 412
+Name: Christina Pena
+National ID: 106-54-9081
+Bank: Goodman, Blackwell and French Bank
+Account Number: 4382086371
+Consent Status: Revoked

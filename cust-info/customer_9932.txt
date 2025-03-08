@@ -1,0 +1,6 @@
+Customer ID: 9932
+Name: Randall Moran
+National ID: 282-25-7907
+Bank: Jimenez-Quinn Bank
+Account Number: 1211214783
+Consent Status: Revoked

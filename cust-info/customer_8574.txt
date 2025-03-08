@@ -1,0 +1,6 @@
+Customer ID: 8574
+Name: Oscar Ruiz
+National ID: 722-82-0367
+Bank: Lee, Shelton and Bauer Bank
+Account Number: 4597078760
+Consent Status: Granted

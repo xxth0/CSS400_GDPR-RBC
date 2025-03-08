@@ -1,0 +1,6 @@
+Customer ID: 35
+Name: Lori Rivera
+National ID: 885-43-7243
+Bank: Daugherty, Hanna and Williams Bank
+Account Number: 1227254065
+Consent Status: Granted

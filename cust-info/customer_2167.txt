@@ -1,0 +1,6 @@
+Customer ID: 2167
+Name: Robert Jones
+National ID: 530-35-2256
+Bank: Olsen, Jacobs and Sullivan Bank
+Account Number: 2779810020
+Consent Status: Revoked

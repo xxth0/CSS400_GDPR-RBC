@@ -1,0 +1,6 @@
+Customer ID: 8937
+Name: Crystal Jones
+National ID: 112-12-3660
+Bank: Mason-Crawford Bank
+Account Number: 5695479044
+Consent Status: Granted

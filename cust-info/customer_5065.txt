@@ -1,0 +1,6 @@
+Customer ID: 5065
+Name: Robert Fernandez
+National ID: 235-56-2184
+Bank: Berg-Wilson Bank
+Account Number: 1426032472
+Consent Status: Granted

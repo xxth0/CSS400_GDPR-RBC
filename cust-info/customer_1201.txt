@@ -1,0 +1,6 @@
+Customer ID: 1201
+Name: Michael Ellis
+National ID: 740-71-5954
+Bank: Campbell, Combs and Johnson Bank
+Account Number: 8249472715
+Consent Status: Granted

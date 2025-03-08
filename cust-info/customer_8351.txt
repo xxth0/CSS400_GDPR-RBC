@@ -1,0 +1,6 @@
+Customer ID: 8351
+Name: Steven Hall
+National ID: 008-75-7216
+Bank: Barnes, Brewer and Forbes Bank
+Account Number: 3817767773
+Consent Status: Granted

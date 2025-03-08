@@ -1,0 +1,6 @@
+Customer ID: 6585
+Name: Kevin Chandler
+National ID: 058-60-5264
+Bank: Pierce, Brady and Carroll Bank
+Account Number: 6475359176
+Consent Status: Revoked

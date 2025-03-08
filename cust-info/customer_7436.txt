@@ -1,0 +1,6 @@
+Customer ID: 7436
+Name: Jackson Santos
+National ID: 171-75-0202
+Bank: Byrd, Robinson and Kirk Bank
+Account Number: 7493114482
+Consent Status: Revoked

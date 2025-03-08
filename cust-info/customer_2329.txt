@@ -1,0 +1,6 @@
+Customer ID: 2329
+Name: Eric Mendez
+National ID: 568-50-4086
+Bank: Clark Inc Bank
+Account Number: 2889114297
+Consent Status: Granted

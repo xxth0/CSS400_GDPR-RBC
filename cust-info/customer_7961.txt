@@ -1,0 +1,6 @@
+Customer ID: 7961
+Name: Michelle Chen
+National ID: 856-65-7425
+Bank: Kirk-Mcclain Bank
+Account Number: 4202509835
+Consent Status: Revoked

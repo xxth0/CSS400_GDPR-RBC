@@ -1,0 +1,6 @@
+Customer ID: 1943
+Name: Brian Mills
+National ID: 607-07-4228
+Bank: Graham-Garza Bank
+Account Number: 2054638137
+Consent Status: Granted

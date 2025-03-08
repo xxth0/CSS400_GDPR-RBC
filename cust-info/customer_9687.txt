@@ -1,0 +1,6 @@
+Customer ID: 9687
+Name: Jacob Bridges
+National ID: 827-55-9495
+Bank: Dalton Inc Bank
+Account Number: 4385061053
+Consent Status: Revoked

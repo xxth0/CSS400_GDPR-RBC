@@ -1,0 +1,6 @@
+Customer ID: 3876
+Name: Christopher Michael
+National ID: 779-50-4897
+Bank: Phelps-Heath Bank
+Account Number: 8519315930
+Consent Status: Revoked

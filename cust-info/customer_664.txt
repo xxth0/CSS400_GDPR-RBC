@@ -1,0 +1,6 @@
+Customer ID: 664
+Name: Robert Rivera
+National ID: 673-47-6822
+Bank: York, Armstrong and Alvarez Bank
+Account Number: 2898631632
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4348
+Name: Terry Powell
+National ID: 288-68-1577
+Bank: Franklin Inc Bank
+Account Number: 8584146418
+Consent Status: Revoked

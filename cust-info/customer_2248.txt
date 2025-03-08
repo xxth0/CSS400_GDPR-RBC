@@ -1,0 +1,6 @@
+Customer ID: 2248
+Name: Kristi White
+National ID: 342-78-1019
+Bank: Medina-Ferguson Bank
+Account Number: 2751319980
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1041
+Name: Garrett Smith
+National ID: 890-32-6702
+Bank: Thompson-Bryan Bank
+Account Number: 3781462105
+Consent Status: Revoked

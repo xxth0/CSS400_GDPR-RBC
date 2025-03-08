@@ -1,0 +1,6 @@
+Customer ID: 5100
+Name: Jason Jones
+National ID: 194-52-6022
+Bank: Paul, Rodriguez and Woods Bank
+Account Number: 3442233864
+Consent Status: Granted

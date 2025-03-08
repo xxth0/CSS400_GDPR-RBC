@@ -1,0 +1,6 @@
+Customer ID: 5724
+Name: Thomas Sharp
+National ID: 578-69-9355
+Bank: Long-Holden Bank
+Account Number: 5184558068
+Consent Status: Revoked

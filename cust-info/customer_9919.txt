@@ -1,0 +1,6 @@
+Customer ID: 9919
+Name: Sara Mccall
+National ID: 805-01-2162
+Bank: Bennett-Jackson Bank
+Account Number: 9070333410
+Consent Status: Revoked

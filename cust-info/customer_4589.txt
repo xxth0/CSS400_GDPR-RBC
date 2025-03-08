@@ -1,0 +1,6 @@
+Customer ID: 4589
+Name: Shannon Edwards
+National ID: 138-50-9481
+Bank: Smith-Moreno Bank
+Account Number: 1146832450
+Consent Status: Granted

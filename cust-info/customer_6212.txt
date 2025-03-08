@@ -1,0 +1,6 @@
+Customer ID: 6212
+Name: Mr. John Knapp
+National ID: 885-46-0405
+Bank: Crane Inc Bank
+Account Number: 3887001382
+Consent Status: Revoked

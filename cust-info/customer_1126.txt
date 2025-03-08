@@ -1,0 +1,6 @@
+Customer ID: 1126
+Name: Robert Peterson
+National ID: 446-90-7068
+Bank: Obrien, Gomez and Munoz Bank
+Account Number: 1292203374
+Consent Status: Granted

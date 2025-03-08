@@ -1,0 +1,6 @@
+Customer ID: 6910
+Name: Brittney Sharp
+National ID: 037-68-0244
+Bank: Price-Thompson Bank
+Account Number: 5537478354
+Consent Status: Revoked

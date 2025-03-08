@@ -1,0 +1,6 @@
+Customer ID: 434
+Name: Deborah Martinez
+National ID: 509-47-9774
+Bank: Mcguire Ltd Bank
+Account Number: 5199456380
+Consent Status: Granted

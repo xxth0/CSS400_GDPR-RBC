@@ -1,0 +1,6 @@
+Customer ID: 3574
+Name: Maria Stewart
+National ID: 299-32-2497
+Bank: Burch LLC Bank
+Account Number: 3647716873
+Consent Status: Granted

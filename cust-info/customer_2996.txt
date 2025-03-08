@@ -1,0 +1,6 @@
+Customer ID: 2996
+Name: Wayne Soto MD
+National ID: 243-08-8859
+Bank: Anderson and Sons Bank
+Account Number: 5670625742
+Consent Status: Granted

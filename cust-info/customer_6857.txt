@@ -1,0 +1,6 @@
+Customer ID: 6857
+Name: Michael Mclean
+National ID: 172-53-7664
+Bank: Campbell-Baker Bank
+Account Number: 8676203067
+Consent Status: Granted

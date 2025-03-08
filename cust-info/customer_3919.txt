@@ -1,0 +1,6 @@
+Customer ID: 3919
+Name: Jacob Gray
+National ID: 192-91-2409
+Bank: Santiago, Mendoza and Santiago Bank
+Account Number: 1904286217
+Consent Status: Revoked

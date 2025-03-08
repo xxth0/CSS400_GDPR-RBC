@@ -1,0 +1,6 @@
+Customer ID: 481
+Name: Joshua Price
+National ID: 852-78-5738
+Bank: Warner, Pace and Harrell Bank
+Account Number: 3708512589
+Consent Status: Revoked

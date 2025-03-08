@@ -1,0 +1,6 @@
+Customer ID: 8821
+Name: Brian Johnson
+National ID: 209-51-5607
+Bank: Johnson, Ferguson and Robertson Bank
+Account Number: 4612943205
+Consent Status: Revoked

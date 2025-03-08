@@ -1,0 +1,6 @@
+Customer ID: 2165
+Name: Rebecca Graham
+National ID: 574-83-6348
+Bank: Schmidt Inc Bank
+Account Number: 9758248671
+Consent Status: Revoked

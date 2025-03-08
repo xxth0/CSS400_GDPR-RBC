@@ -1,0 +1,6 @@
+Customer ID: 6456
+Name: Lee Atkins
+National ID: 721-07-8045
+Bank: Anderson Group Bank
+Account Number: 8686095782
+Consent Status: Revoked

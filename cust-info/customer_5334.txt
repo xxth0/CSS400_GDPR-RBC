@@ -1,0 +1,6 @@
+Customer ID: 5334
+Name: Wanda Nunez
+National ID: 014-46-2993
+Bank: Allen Group Bank
+Account Number: 4433554779
+Consent Status: Granted

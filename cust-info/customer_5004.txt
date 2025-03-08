@@ -1,0 +1,6 @@
+Customer ID: 5004
+Name: Brian Ho
+National ID: 867-74-4896
+Bank: Diaz-Bennett Bank
+Account Number: 1529855091
+Consent Status: Revoked

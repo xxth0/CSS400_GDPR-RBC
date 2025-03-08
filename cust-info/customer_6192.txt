@@ -1,0 +1,6 @@
+Customer ID: 6192
+Name: Kim Allen
+National ID: 696-11-7027
+Bank: Marshall-Bonilla Bank
+Account Number: 4144462302
+Consent Status: Revoked

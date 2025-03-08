@@ -1,0 +1,6 @@
+Customer ID: 5755
+Name: Peter Thomas
+National ID: 053-95-9289
+Bank: Hudson-Davis Bank
+Account Number: 3317543468
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7889
+Name: Patricia Russell
+National ID: 349-97-9256
+Bank: Fox Inc Bank
+Account Number: 4352405751
+Consent Status: Revoked

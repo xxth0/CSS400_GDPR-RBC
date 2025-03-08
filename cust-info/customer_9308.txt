@@ -1,0 +1,6 @@
+Customer ID: 9308
+Name: Kimberly Evans
+National ID: 611-57-6351
+Bank: Brown-Stein Bank
+Account Number: 2150393647
+Consent Status: Revoked

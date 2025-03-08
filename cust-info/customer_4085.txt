@@ -1,0 +1,6 @@
+Customer ID: 4085
+Name: Mrs. Samantha George
+National ID: 152-32-5946
+Bank: Taylor-Frank Bank
+Account Number: 3484984110
+Consent Status: Granted

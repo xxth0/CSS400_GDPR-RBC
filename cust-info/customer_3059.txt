@@ -1,0 +1,6 @@
+Customer ID: 3059
+Name: Sharon Khan
+National ID: 231-47-1314
+Bank: Carroll, Burgess and Scott Bank
+Account Number: 7565984857
+Consent Status: Granted

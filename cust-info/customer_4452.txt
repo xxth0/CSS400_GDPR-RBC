@@ -1,0 +1,6 @@
+Customer ID: 4452
+Name: Nathan Baker
+National ID: 227-08-6177
+Bank: Jackson-Alvarez Bank
+Account Number: 3200023157
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1378
+Name: Stephen Bradley
+National ID: 511-90-1027
+Bank: Watson LLC Bank
+Account Number: 9541232442
+Consent Status: Granted

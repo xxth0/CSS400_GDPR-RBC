@@ -1,0 +1,6 @@
+Customer ID: 6638
+Name: Tanya Turner DDS
+National ID: 428-23-5237
+Bank: Turner-Blevins Bank
+Account Number: 9964806104
+Consent Status: Revoked

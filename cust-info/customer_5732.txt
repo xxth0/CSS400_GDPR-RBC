@@ -1,0 +1,6 @@
+Customer ID: 5732
+Name: Ashley Trujillo
+National ID: 464-09-0725
+Bank: Morris, Wilson and Decker Bank
+Account Number: 8035955293
+Consent Status: Revoked

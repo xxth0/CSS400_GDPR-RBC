@@ -1,0 +1,6 @@
+Customer ID: 9842
+Name: Mitchell Doyle
+National ID: 847-91-3653
+Bank: Jones, Gibbs and Kim Bank
+Account Number: 6775045705
+Consent Status: Granted

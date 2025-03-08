@@ -1,0 +1,6 @@
+Customer ID: 916
+Name: Angela Novak
+National ID: 195-34-3474
+Bank: Christensen and Sons Bank
+Account Number: 9468918524
+Consent Status: Revoked

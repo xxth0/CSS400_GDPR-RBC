@@ -1,0 +1,6 @@
+Customer ID: 3810
+Name: Anthony Ball
+National ID: 036-94-1985
+Bank: Parker Inc Bank
+Account Number: 5000859536
+Consent Status: Granted

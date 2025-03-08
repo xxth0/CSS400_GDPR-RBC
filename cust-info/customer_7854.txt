@@ -1,0 +1,6 @@
+Customer ID: 7854
+Name: Jermaine Reyes
+National ID: 233-87-1126
+Bank: Mcpherson Group Bank
+Account Number: 8743876056
+Consent Status: Granted

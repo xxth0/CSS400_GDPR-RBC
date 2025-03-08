@@ -1,0 +1,6 @@
+Customer ID: 6826
+Name: Daniel Woods
+National ID: 457-20-9446
+Bank: Reyes-Martin Bank
+Account Number: 2188525143
+Consent Status: Revoked

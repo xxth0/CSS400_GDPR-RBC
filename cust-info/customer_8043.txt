@@ -1,0 +1,6 @@
+Customer ID: 8043
+Name: Ariel Farrell
+National ID: 664-66-0282
+Bank: Alexander-Fletcher Bank
+Account Number: 4307951416
+Consent Status: Granted

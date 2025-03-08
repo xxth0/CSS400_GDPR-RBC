@@ -1,0 +1,6 @@
+Customer ID: 7684
+Name: Amy Webb
+National ID: 045-41-9287
+Bank: Rosales, Reynolds and Simmons Bank
+Account Number: 8708266797
+Consent Status: Granted

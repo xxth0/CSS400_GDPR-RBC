@@ -1,0 +1,6 @@
+Customer ID: 4258
+Name: Christian Moore
+National ID: 021-37-5954
+Bank: Marshall-Jackson Bank
+Account Number: 6075560811
+Consent Status: Revoked

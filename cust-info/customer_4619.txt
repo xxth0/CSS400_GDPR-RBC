@@ -1,0 +1,6 @@
+Customer ID: 4619
+Name: Keith Thomas
+National ID: 363-61-5656
+Bank: Armstrong-Adams Bank
+Account Number: 5272318992
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5194
+Name: Amy Ochoa
+National ID: 642-88-9513
+Bank: Cabrera, Smith and Webb Bank
+Account Number: 5283101367
+Consent Status: Granted

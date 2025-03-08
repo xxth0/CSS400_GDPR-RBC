@@ -1,0 +1,6 @@
+Customer ID: 3955
+Name: David Knight
+National ID: 896-07-9402
+Bank: Harris and Sons Bank
+Account Number: 4767768514
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1877
+Name: Karen Hernandez
+National ID: 810-35-6935
+Bank: Duncan-Gates Bank
+Account Number: 9845238882
+Consent Status: Granted

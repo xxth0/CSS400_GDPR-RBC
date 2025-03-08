@@ -1,0 +1,6 @@
+Customer ID: 7048
+Name: Patrick James
+National ID: 370-16-6284
+Bank: Rodgers-Vaughan Bank
+Account Number: 5581712650
+Consent Status: Revoked

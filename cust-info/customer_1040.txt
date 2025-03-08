@@ -1,0 +1,6 @@
+Customer ID: 1040
+Name: David Harrison
+National ID: 513-17-6362
+Bank: Horn-Collier Bank
+Account Number: 2744258001
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6758
+Name: Steven Sanchez
+National ID: 479-60-1258
+Bank: White-Travis Bank
+Account Number: 4865202262
+Consent Status: Revoked

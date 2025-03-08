@@ -1,0 +1,6 @@
+Customer ID: 4599
+Name: Marissa Vazquez
+National ID: 516-51-8543
+Bank: Williamson PLC Bank
+Account Number: 7412189005
+Consent Status: Revoked

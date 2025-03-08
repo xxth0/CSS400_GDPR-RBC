@@ -1,0 +1,6 @@
+Customer ID: 3242
+Name: Robert Walsh
+National ID: 473-92-3566
+Bank: Martinez-Gregory Bank
+Account Number: 8520830107
+Consent Status: Revoked

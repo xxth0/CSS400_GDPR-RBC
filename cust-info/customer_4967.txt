@@ -1,0 +1,6 @@
+Customer ID: 4967
+Name: Michael Taylor
+National ID: 800-08-3041
+Bank: Bartlett Group Bank
+Account Number: 5158838670
+Consent Status: Granted

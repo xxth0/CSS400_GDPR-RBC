@@ -1,0 +1,6 @@
+Customer ID: 8578
+Name: Andre Salinas
+National ID: 120-48-5054
+Bank: Palmer PLC Bank
+Account Number: 5662176267
+Consent Status: Revoked

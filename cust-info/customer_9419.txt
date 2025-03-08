@@ -1,0 +1,6 @@
+Customer ID: 9419
+Name: Samuel Kelley
+National ID: 073-22-0771
+Bank: Bates, Walker and Compton Bank
+Account Number: 8179187422
+Consent Status: Granted

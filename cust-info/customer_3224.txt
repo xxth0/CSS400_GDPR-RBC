@@ -1,0 +1,6 @@
+Customer ID: 3224
+Name: Brian Carey
+National ID: 023-07-0748
+Bank: Jones Ltd Bank
+Account Number: 6288064592
+Consent Status: Revoked

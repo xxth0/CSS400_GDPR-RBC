@@ -1,0 +1,6 @@
+Customer ID: 5013
+Name: Kristopher Ayala
+National ID: 279-47-1785
+Bank: Hansen LLC Bank
+Account Number: 3259251754
+Consent Status: Revoked

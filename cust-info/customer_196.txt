@@ -1,0 +1,6 @@
+Customer ID: 196
+Name: William Clark
+National ID: 536-52-2058
+Bank: Thompson, Brooks and Aguilar Bank
+Account Number: 7262176922
+Consent Status: Granted

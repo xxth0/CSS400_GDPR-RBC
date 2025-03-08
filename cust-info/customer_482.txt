@@ -1,0 +1,6 @@
+Customer ID: 482
+Name: Michelle Clark
+National ID: 274-50-3443
+Bank: Hood, Lopez and Moore Bank
+Account Number: 1858083197
+Consent Status: Granted

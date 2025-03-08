@@ -1,0 +1,6 @@
+Customer ID: 5400
+Name: Kelsey Mack
+National ID: 509-65-3926
+Bank: Stark-Robinson Bank
+Account Number: 6713434556
+Consent Status: Revoked

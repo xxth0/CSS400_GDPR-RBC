@@ -1,0 +1,6 @@
+Customer ID: 1404
+Name: Christopher Wood
+National ID: 517-72-9926
+Bank: Wyatt-Rosario Bank
+Account Number: 9718326230
+Consent Status: Revoked

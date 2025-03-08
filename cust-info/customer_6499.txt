@@ -1,0 +1,6 @@
+Customer ID: 6499
+Name: Janice Gentry
+National ID: 592-16-3218
+Bank: Orozco-Acosta Bank
+Account Number: 4235781810
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6801
+Name: Deborah Gonzalez
+National ID: 541-77-4737
+Bank: Rodriguez Inc Bank
+Account Number: 2431478392
+Consent Status: Granted

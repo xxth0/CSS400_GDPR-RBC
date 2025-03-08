@@ -1,0 +1,6 @@
+Customer ID: 291
+Name: Ellen Nguyen
+National ID: 171-77-5623
+Bank: Vaughn Inc Bank
+Account Number: 1172488005
+Consent Status: Granted

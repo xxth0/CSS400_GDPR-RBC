@@ -1,0 +1,6 @@
+Customer ID: 4389
+Name: Victoria Cooper
+National ID: 389-49-1181
+Bank: Gordon-Fleming Bank
+Account Number: 8736514357
+Consent Status: Granted

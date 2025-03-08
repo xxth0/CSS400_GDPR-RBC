@@ -1,0 +1,6 @@
+Customer ID: 1600
+Name: Brian Cole
+National ID: 810-30-0737
+Bank: Miller, Crawford and Simpson Bank
+Account Number: 6488801758
+Consent Status: Granted

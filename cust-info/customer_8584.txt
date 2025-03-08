@@ -1,0 +1,6 @@
+Customer ID: 8584
+Name: Xavier Huffman
+National ID: 184-20-2449
+Bank: Singh LLC Bank
+Account Number: 1192382944
+Consent Status: Granted

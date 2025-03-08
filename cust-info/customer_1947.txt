@@ -1,0 +1,6 @@
+Customer ID: 1947
+Name: Erin Harrison
+National ID: 584-28-6579
+Bank: Pineda Group Bank
+Account Number: 6390775803
+Consent Status: Revoked

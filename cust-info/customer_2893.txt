@@ -1,0 +1,6 @@
+Customer ID: 2893
+Name: James Roberts
+National ID: 464-44-7448
+Bank: Miller, Austin and Walker Bank
+Account Number: 8066877544
+Consent Status: Revoked

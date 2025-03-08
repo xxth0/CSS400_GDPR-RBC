@@ -1,0 +1,6 @@
+Customer ID: 5298
+Name: Michael Shaw
+National ID: 042-43-7734
+Bank: Perry LLC Bank
+Account Number: 9011708638
+Consent Status: Revoked

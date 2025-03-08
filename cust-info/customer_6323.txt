@@ -1,0 +1,6 @@
+Customer ID: 6323
+Name: Stephanie Thomas
+National ID: 250-22-9272
+Bank: Green Ltd Bank
+Account Number: 2410622990
+Consent Status: Revoked

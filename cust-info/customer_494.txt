@@ -1,0 +1,6 @@
+Customer ID: 494
+Name: Ernest Johnson
+National ID: 742-16-0271
+Bank: Brown, Burton and Cook Bank
+Account Number: 7753363672
+Consent Status: Revoked

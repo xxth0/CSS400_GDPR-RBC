@@ -1,0 +1,6 @@
+Customer ID: 3845
+Name: Ronald Cabrera DDS
+National ID: 483-06-8730
+Bank: Ford-Hudson Bank
+Account Number: 6748550051
+Consent Status: Granted

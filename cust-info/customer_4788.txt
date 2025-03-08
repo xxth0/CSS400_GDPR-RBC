@@ -1,0 +1,6 @@
+Customer ID: 4788
+Name: David White
+National ID: 683-29-6198
+Bank: Roman and Sons Bank
+Account Number: 4853312746
+Consent Status: Granted

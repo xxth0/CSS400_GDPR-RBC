@@ -1,0 +1,6 @@
+Customer ID: 2886
+Name: Angela Campbell
+National ID: 808-95-5972
+Bank: Mcintyre-Lee Bank
+Account Number: 8160837117
+Consent Status: Revoked

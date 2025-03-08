@@ -1,0 +1,6 @@
+Customer ID: 5480
+Name: Julie Gonzalez
+National ID: 593-18-5946
+Bank: Reynolds, Russell and Harris Bank
+Account Number: 1998877279
+Consent Status: Granted

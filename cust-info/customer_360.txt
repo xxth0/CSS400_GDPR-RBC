@@ -1,0 +1,6 @@
+Customer ID: 360
+Name: Timothy Scott
+National ID: 890-24-1491
+Bank: Bailey, Moore and Dixon Bank
+Account Number: 1847160289
+Consent Status: Revoked

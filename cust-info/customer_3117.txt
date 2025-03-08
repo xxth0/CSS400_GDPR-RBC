@@ -1,0 +1,6 @@
+Customer ID: 3117
+Name: Victor Conley
+National ID: 341-31-9436
+Bank: Higgins-Herrera Bank
+Account Number: 9687433135
+Consent Status: Revoked

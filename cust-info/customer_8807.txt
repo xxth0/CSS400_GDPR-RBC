@@ -1,0 +1,6 @@
+Customer ID: 8807
+Name: Brandon Watson
+National ID: 265-58-3102
+Bank: Escobar Inc Bank
+Account Number: 7993874923
+Consent Status: Granted

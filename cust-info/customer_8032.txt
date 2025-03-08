@@ -1,0 +1,6 @@
+Customer ID: 8032
+Name: Rebecca Ortiz
+National ID: 601-80-5164
+Bank: Chavez-Lowe Bank
+Account Number: 8293965634
+Consent Status: Granted

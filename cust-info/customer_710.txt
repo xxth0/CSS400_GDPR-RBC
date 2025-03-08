@@ -1,0 +1,6 @@
+Customer ID: 710
+Name: Catherine Hunter
+National ID: 687-34-3408
+Bank: Jones-Evans Bank
+Account Number: 7639819631
+Consent Status: Revoked

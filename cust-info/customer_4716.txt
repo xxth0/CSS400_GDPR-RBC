@@ -1,0 +1,6 @@
+Customer ID: 4716
+Name: Dennis Morales
+National ID: 663-31-7488
+Bank: Salazar Ltd Bank
+Account Number: 8200224568
+Consent Status: Revoked

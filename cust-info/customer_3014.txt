@@ -1,0 +1,6 @@
+Customer ID: 3014
+Name: Kathryn Morrison
+National ID: 078-23-5689
+Bank: Taylor, Thompson and Nelson Bank
+Account Number: 9748608953
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4054
+Name: Michael Rios
+National ID: 380-77-4181
+Bank: Hughes-Pearson Bank
+Account Number: 9418535630
+Consent Status: Revoked

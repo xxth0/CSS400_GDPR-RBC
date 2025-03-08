@@ -1,0 +1,6 @@
+Customer ID: 9993
+Name: Wendy Green
+National ID: 592-85-4743
+Bank: Woods, Durham and Ford Bank
+Account Number: 7565870872
+Consent Status: Revoked

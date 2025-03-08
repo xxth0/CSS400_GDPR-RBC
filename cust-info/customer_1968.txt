@@ -1,0 +1,6 @@
+Customer ID: 1968
+Name: Sarah Andrews
+National ID: 611-47-8681
+Bank: Hamilton, Duran and Bell Bank
+Account Number: 2648667469
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2875
+Name: Mary Marsh
+National ID: 442-31-8984
+Bank: Wagner Inc Bank
+Account Number: 3824152049
+Consent Status: Revoked

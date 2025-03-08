@@ -1,0 +1,6 @@
+Customer ID: 6797
+Name: Steven King
+National ID: 035-61-6136
+Bank: Evans, Monroe and Smith Bank
+Account Number: 2816825610
+Consent Status: Granted

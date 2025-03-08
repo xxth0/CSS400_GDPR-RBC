@@ -1,0 +1,6 @@
+Customer ID: 9732
+Name: Robert Wheeler
+National ID: 683-55-1924
+Bank: Hammond, Lee and Kim Bank
+Account Number: 3856307620
+Consent Status: Revoked

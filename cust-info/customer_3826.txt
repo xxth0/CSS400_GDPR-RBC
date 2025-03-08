@@ -1,0 +1,6 @@
+Customer ID: 3826
+Name: Kelsey Cole
+National ID: 082-17-9600
+Bank: Mathis, Bishop and Rice Bank
+Account Number: 6772220481
+Consent Status: Granted

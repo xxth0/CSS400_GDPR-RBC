@@ -1,0 +1,6 @@
+Customer ID: 4037
+Name: Benjamin Drake
+National ID: 275-55-4559
+Bank: Jones-Delgado Bank
+Account Number: 9929599652
+Consent Status: Granted

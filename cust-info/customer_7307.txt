@@ -1,0 +1,6 @@
+Customer ID: 7307
+Name: Joshua Wood
+National ID: 435-28-6288
+Bank: Johnson LLC Bank
+Account Number: 4247157597
+Consent Status: Revoked

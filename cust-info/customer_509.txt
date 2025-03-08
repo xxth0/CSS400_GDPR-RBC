@@ -1,0 +1,6 @@
+Customer ID: 509
+Name: Mary Thompson
+National ID: 890-94-1938
+Bank: Jefferson, Cohen and King Bank
+Account Number: 9765146784
+Consent Status: Revoked

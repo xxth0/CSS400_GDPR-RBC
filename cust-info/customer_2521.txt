@@ -1,0 +1,6 @@
+Customer ID: 2521
+Name: Rhonda Barber
+National ID: 255-30-9355
+Bank: Graves-Ramirez Bank
+Account Number: 8117683162
+Consent Status: Granted

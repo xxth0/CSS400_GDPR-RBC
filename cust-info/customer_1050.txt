@@ -1,0 +1,6 @@
+Customer ID: 1050
+Name: Carl Harding
+National ID: 756-88-7742
+Bank: Smith, White and Taylor Bank
+Account Number: 7089539541
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5225
+Name: Jessica Lara
+National ID: 782-89-1820
+Bank: Nielsen-Phillips Bank
+Account Number: 7530981980
+Consent Status: Revoked

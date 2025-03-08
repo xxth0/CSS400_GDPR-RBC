@@ -1,0 +1,6 @@
+Customer ID: 5922
+Name: Jordan Brown
+National ID: 344-64-6308
+Bank: Miller-Meyer Bank
+Account Number: 9690138809
+Consent Status: Granted

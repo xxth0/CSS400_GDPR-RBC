@@ -1,0 +1,6 @@
+Customer ID: 119
+Name: Sarah Alexander
+National ID: 069-03-8518
+Bank: Paul, Delgado and Bishop Bank
+Account Number: 8520780073
+Consent Status: Granted

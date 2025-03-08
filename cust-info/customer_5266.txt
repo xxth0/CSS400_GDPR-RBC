@@ -1,0 +1,6 @@
+Customer ID: 5266
+Name: Matthew Morris
+National ID: 235-14-9283
+Bank: Mccarthy and Sons Bank
+Account Number: 9147412217
+Consent Status: Granted

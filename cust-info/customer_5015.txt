@@ -1,0 +1,6 @@
+Customer ID: 5015
+Name: Brian Lewis
+National ID: 432-11-0774
+Bank: Howe-Thornton Bank
+Account Number: 6385627436
+Consent Status: Granted

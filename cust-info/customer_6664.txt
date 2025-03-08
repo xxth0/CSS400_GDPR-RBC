@@ -1,0 +1,6 @@
+Customer ID: 6664
+Name: Charles Ryan
+National ID: 463-22-1266
+Bank: Peters and Sons Bank
+Account Number: 3310443717
+Consent Status: Granted

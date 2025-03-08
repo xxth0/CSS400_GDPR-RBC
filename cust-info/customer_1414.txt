@@ -1,0 +1,6 @@
+Customer ID: 1414
+Name: Jacqueline Medina
+National ID: 757-16-4607
+Bank: Jones-Logan Bank
+Account Number: 9831680460
+Consent Status: Granted

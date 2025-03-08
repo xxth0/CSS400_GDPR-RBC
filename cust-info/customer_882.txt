@@ -1,0 +1,6 @@
+Customer ID: 882
+Name: Christopher Mcmahon
+National ID: 127-95-4334
+Bank: Lang Group Bank
+Account Number: 8070864966
+Consent Status: Granted

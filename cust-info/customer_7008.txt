@@ -1,0 +1,6 @@
+Customer ID: 7008
+Name: Michael Hernandez
+National ID: 294-98-7692
+Bank: Wagner-Walker Bank
+Account Number: 7008008441
+Consent Status: Revoked

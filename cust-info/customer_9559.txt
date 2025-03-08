@@ -1,0 +1,6 @@
+Customer ID: 9559
+Name: Logan Lindsey
+National ID: 242-11-7090
+Bank: Chaney-Sullivan Bank
+Account Number: 1177185684
+Consent Status: Revoked

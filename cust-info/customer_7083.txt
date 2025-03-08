@@ -1,0 +1,6 @@
+Customer ID: 7083
+Name: Brent Boone
+National ID: 230-69-5981
+Bank: Jensen, Rivera and Lewis Bank
+Account Number: 6465370384
+Consent Status: Revoked

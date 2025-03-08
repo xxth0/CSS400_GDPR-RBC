@@ -1,0 +1,6 @@
+Customer ID: 187
+Name: Jeremy Johnson
+National ID: 076-25-9511
+Bank: Smith-Davidson Bank
+Account Number: 8601724141
+Consent Status: Granted

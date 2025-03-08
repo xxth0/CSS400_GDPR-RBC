@@ -1,0 +1,6 @@
+Customer ID: 2950
+Name: Jenny Price
+National ID: 773-76-8999
+Bank: Mccarthy, Norris and Garcia Bank
+Account Number: 9644491854
+Consent Status: Granted

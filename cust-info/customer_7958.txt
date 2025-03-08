@@ -1,0 +1,6 @@
+Customer ID: 7958
+Name: Jeffrey Gomez
+National ID: 444-14-5341
+Bank: Small-Charles Bank
+Account Number: 2901404675
+Consent Status: Granted

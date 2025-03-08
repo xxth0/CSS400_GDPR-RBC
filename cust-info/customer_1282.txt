@@ -1,0 +1,6 @@
+Customer ID: 1282
+Name: Todd Davis
+National ID: 780-78-3669
+Bank: Cabrera PLC Bank
+Account Number: 4983274906
+Consent Status: Revoked

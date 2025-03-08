@@ -1,0 +1,6 @@
+Customer ID: 9100
+Name: Craig Thornton
+National ID: 029-90-0240
+Bank: Curtis-Jones Bank
+Account Number: 2882626517
+Consent Status: Revoked

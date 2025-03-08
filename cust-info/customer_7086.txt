@@ -1,0 +1,6 @@
+Customer ID: 7086
+Name: Amy Ritter
+National ID: 348-43-1852
+Bank: Jackson and Sons Bank
+Account Number: 3716647193
+Consent Status: Granted

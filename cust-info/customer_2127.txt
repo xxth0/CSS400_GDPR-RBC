@@ -1,0 +1,6 @@
+Customer ID: 2127
+Name: Alicia Lewis
+National ID: 006-90-7585
+Bank: Torres, Brady and Rodriguez Bank
+Account Number: 1402138856
+Consent Status: Revoked

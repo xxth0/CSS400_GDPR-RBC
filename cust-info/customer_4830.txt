@@ -1,0 +1,6 @@
+Customer ID: 4830
+Name: Lauren Herrera
+National ID: 073-79-4894
+Bank: Murray-Weber Bank
+Account Number: 3198502981
+Consent Status: Granted

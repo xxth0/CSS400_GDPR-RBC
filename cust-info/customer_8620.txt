@@ -1,0 +1,6 @@
+Customer ID: 8620
+Name: Charles Jones
+National ID: 033-46-4714
+Bank: Pennington-Smith Bank
+Account Number: 9524490973
+Consent Status: Granted

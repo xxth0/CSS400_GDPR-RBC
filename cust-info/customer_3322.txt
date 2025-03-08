@@ -1,0 +1,6 @@
+Customer ID: 3322
+Name: Thomas Ray
+National ID: 106-58-1697
+Bank: Lopez, Costa and Warren Bank
+Account Number: 6678601883
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6641
+Name: Samantha Miller
+National ID: 534-70-8409
+Bank: Cox, Brown and Hall Bank
+Account Number: 2701975355
+Consent Status: Granted

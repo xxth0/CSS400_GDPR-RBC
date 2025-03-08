@@ -1,0 +1,6 @@
+Customer ID: 4632
+Name: Lori Diaz
+National ID: 830-10-4284
+Bank: Davis Ltd Bank
+Account Number: 9858978076
+Consent Status: Revoked

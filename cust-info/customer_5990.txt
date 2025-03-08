@@ -1,0 +1,6 @@
+Customer ID: 5990
+Name: Jennifer Murphy
+National ID: 840-48-5807
+Bank: Delgado Inc Bank
+Account Number: 1061881353
+Consent Status: Revoked

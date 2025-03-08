@@ -1,0 +1,6 @@
+Customer ID: 2284
+Name: Joshua Leblanc
+National ID: 492-01-8803
+Bank: Chang, Patrick and Payne Bank
+Account Number: 8863947429
+Consent Status: Revoked

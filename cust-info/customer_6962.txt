@@ -1,0 +1,6 @@
+Customer ID: 6962
+Name: Kimberly Parrish
+National ID: 816-91-7023
+Bank: Smith Inc Bank
+Account Number: 6532189390
+Consent Status: Granted

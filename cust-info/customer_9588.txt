@@ -1,0 +1,6 @@
+Customer ID: 9588
+Name: Deborah Bonilla
+National ID: 024-46-6654
+Bank: Smith, Wagner and Bennett Bank
+Account Number: 5751333973
+Consent Status: Revoked

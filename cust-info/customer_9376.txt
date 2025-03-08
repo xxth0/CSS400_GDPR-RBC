@@ -1,0 +1,6 @@
+Customer ID: 9376
+Name: Ryan Williams
+National ID: 016-30-6208
+Bank: Dixon Inc Bank
+Account Number: 6066635745
+Consent Status: Revoked

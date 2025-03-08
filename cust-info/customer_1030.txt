@@ -1,0 +1,6 @@
+Customer ID: 1030
+Name: Alec Jones
+National ID: 589-11-6621
+Bank: Farmer and Sons Bank
+Account Number: 6119877726
+Consent Status: Revoked

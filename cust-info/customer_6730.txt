@@ -1,0 +1,6 @@
+Customer ID: 6730
+Name: Erica Johnson
+National ID: 096-93-6335
+Bank: Herrera-Hall Bank
+Account Number: 2605722181
+Consent Status: Revoked

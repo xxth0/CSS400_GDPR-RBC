@@ -1,0 +1,6 @@
+Customer ID: 4268
+Name: George Friedman
+National ID: 380-61-7737
+Bank: Murillo Ltd Bank
+Account Number: 3094418268
+Consent Status: Granted

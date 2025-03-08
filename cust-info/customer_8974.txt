@@ -1,0 +1,6 @@
+Customer ID: 8974
+Name: Aaron Brown
+National ID: 027-12-2169
+Bank: Banks-Castro Bank
+Account Number: 7115463088
+Consent Status: Granted

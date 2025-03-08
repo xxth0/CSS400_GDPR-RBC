@@ -1,0 +1,6 @@
+Customer ID: 7252
+Name: Danny Ford IV
+National ID: 245-73-6309
+Bank: Hayes-Mitchell Bank
+Account Number: 3784137283
+Consent Status: Revoked

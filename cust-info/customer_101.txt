@@ -1,0 +1,6 @@
+Customer ID: 101
+Name: Sarah Taylor
+National ID: 882-36-3653
+Bank: Murphy Inc Bank
+Account Number: 1877982439
+Consent Status: Granted

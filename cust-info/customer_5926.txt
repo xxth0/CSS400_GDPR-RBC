@@ -1,0 +1,6 @@
+Customer ID: 5926
+Name: Alexis Henderson
+National ID: 516-23-0602
+Bank: Anderson Group Bank
+Account Number: 3395355811
+Consent Status: Revoked

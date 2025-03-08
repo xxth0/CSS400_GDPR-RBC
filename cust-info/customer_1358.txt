@@ -1,0 +1,6 @@
+Customer ID: 1358
+Name: Carl Allen
+National ID: 294-86-8675
+Bank: Hale, Conner and Mason Bank
+Account Number: 4634223180
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5971
+Name: Teresa Douglas
+National ID: 450-38-6022
+Bank: Gaines, Brewer and Johnson Bank
+Account Number: 8628915762
+Consent Status: Granted

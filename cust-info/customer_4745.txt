@@ -1,0 +1,6 @@
+Customer ID: 4745
+Name: Donald Schneider
+National ID: 593-28-1073
+Bank: Martinez, Morris and Fitzpatrick Bank
+Account Number: 2235428347
+Consent Status: Revoked

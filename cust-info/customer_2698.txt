@@ -1,0 +1,6 @@
+Customer ID: 2698
+Name: Devin Friedman
+National ID: 820-65-7315
+Bank: Brewer and Sons Bank
+Account Number: 8656622749
+Consent Status: Granted

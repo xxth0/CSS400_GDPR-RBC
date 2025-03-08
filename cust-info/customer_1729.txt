@@ -1,0 +1,6 @@
+Customer ID: 1729
+Name: Scott Hudson
+National ID: 336-27-3657
+Bank: Hamilton, Stanley and Price Bank
+Account Number: 4819086129
+Consent Status: Granted

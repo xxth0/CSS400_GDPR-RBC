@@ -1,0 +1,6 @@
+Customer ID: 6848
+Name: Fred Davidson
+National ID: 197-86-9832
+Bank: Cabrera-Santos Bank
+Account Number: 6087457431
+Consent Status: Revoked

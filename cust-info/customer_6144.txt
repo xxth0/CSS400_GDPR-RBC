@@ -1,0 +1,6 @@
+Customer ID: 6144
+Name: Kyle Perez
+National ID: 615-95-9086
+Bank: Dickerson, Murray and Mcintyre Bank
+Account Number: 5842158407
+Consent Status: Revoked

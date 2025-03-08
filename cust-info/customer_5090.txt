@@ -1,0 +1,6 @@
+Customer ID: 5090
+Name: Michael Gray
+National ID: 544-13-1407
+Bank: Stewart PLC Bank
+Account Number: 1215475618
+Consent Status: Granted

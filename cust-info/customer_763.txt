@@ -1,0 +1,6 @@
+Customer ID: 763
+Name: Susan Green
+National ID: 726-35-6867
+Bank: Costa Inc Bank
+Account Number: 7709772346
+Consent Status: Revoked

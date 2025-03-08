@@ -1,0 +1,6 @@
+Customer ID: 1319
+Name: Michael Padilla
+National ID: 787-95-7360
+Bank: Edwards-Sanchez Bank
+Account Number: 6330160476
+Consent Status: Revoked

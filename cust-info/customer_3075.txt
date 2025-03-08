@@ -1,0 +1,6 @@
+Customer ID: 3075
+Name: Nicole Gomez PhD
+National ID: 580-89-0323
+Bank: Howe Group Bank
+Account Number: 2863228087
+Consent Status: Revoked

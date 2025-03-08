@@ -1,0 +1,6 @@
+Customer ID: 8273
+Name: Edwin Hawkins
+National ID: 603-69-2380
+Bank: Brown Inc Bank
+Account Number: 9293961218
+Consent Status: Granted

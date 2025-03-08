@@ -1,0 +1,6 @@
+Customer ID: 9536
+Name: Randall Cain
+National ID: 246-92-5170
+Bank: Williams-Anderson Bank
+Account Number: 8341730858
+Consent Status: Revoked

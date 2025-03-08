@@ -1,0 +1,6 @@
+Customer ID: 4804
+Name: Joel Acevedo
+National ID: 640-87-5573
+Bank: Massey, Marsh and Franklin Bank
+Account Number: 5234081549
+Consent Status: Revoked

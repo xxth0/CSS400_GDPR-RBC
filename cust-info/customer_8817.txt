@@ -1,0 +1,6 @@
+Customer ID: 8817
+Name: Gerald Mendoza
+National ID: 766-08-8768
+Bank: Walker, Terrell and Perry Bank
+Account Number: 3427291694
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2673
+Name: Tyler Young
+National ID: 787-55-1666
+Bank: Palmer, Romero and Hurst Bank
+Account Number: 5602686379
+Consent Status: Revoked

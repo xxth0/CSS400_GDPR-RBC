@@ -1,0 +1,6 @@
+Customer ID: 8741
+Name: Jerry Armstrong
+National ID: 382-95-8747
+Bank: Turner, Weaver and Rios Bank
+Account Number: 6008321112
+Consent Status: Granted

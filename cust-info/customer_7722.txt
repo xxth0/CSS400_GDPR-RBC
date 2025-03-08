@@ -1,0 +1,6 @@
+Customer ID: 7722
+Name: Dave Kennedy
+National ID: 544-01-0778
+Bank: Tran PLC Bank
+Account Number: 4144809508
+Consent Status: Granted

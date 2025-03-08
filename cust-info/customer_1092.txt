@@ -1,0 +1,6 @@
+Customer ID: 1092
+Name: Jennifer Vargas
+National ID: 296-66-0705
+Bank: Jensen, Morgan and Johnson Bank
+Account Number: 8862071435
+Consent Status: Revoked

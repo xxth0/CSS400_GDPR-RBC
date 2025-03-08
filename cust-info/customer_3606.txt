@@ -1,0 +1,6 @@
+Customer ID: 3606
+Name: Kristina Monroe
+National ID: 603-20-9026
+Bank: Bond-Williamson Bank
+Account Number: 8798092521
+Consent Status: Granted

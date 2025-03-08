@@ -1,0 +1,6 @@
+Customer ID: 6820
+Name: Heather Stanton
+National ID: 259-21-8888
+Bank: Potter, Gonzales and Torres Bank
+Account Number: 2617531542
+Consent Status: Revoked

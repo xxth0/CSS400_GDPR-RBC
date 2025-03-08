@@ -1,0 +1,6 @@
+Customer ID: 5809
+Name: Benjamin Branch
+National ID: 320-54-6236
+Bank: Sanders-Sandoval Bank
+Account Number: 7577813787
+Consent Status: Granted

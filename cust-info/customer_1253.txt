@@ -1,0 +1,6 @@
+Customer ID: 1253
+Name: Jennifer Webster
+National ID: 471-75-2483
+Bank: Wilkins LLC Bank
+Account Number: 7545832315
+Consent Status: Granted

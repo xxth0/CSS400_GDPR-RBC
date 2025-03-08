@@ -1,0 +1,6 @@
+Customer ID: 6741
+Name: Steven Hamilton
+National ID: 398-65-1117
+Bank: Hopkins, Salinas and Alvarez Bank
+Account Number: 5013115167
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7727
+Name: Rebecca Mcclain
+National ID: 503-72-3824
+Bank: Joseph-Jackson Bank
+Account Number: 1621007109
+Consent Status: Revoked

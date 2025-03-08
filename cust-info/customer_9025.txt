@@ -1,0 +1,6 @@
+Customer ID: 9025
+Name: Michael Payne
+National ID: 248-51-3487
+Bank: Rivera, Walton and Morton Bank
+Account Number: 7330833356
+Consent Status: Revoked

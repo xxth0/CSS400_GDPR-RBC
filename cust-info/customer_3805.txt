@@ -1,0 +1,6 @@
+Customer ID: 3805
+Name: Laura Wood
+National ID: 323-84-2465
+Bank: Austin, Small and Ramirez Bank
+Account Number: 9713860490
+Consent Status: Revoked

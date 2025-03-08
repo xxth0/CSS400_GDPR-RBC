@@ -1,0 +1,6 @@
+Customer ID: 6363
+Name: Sarah Clark
+National ID: 324-56-1936
+Bank: Barber-Welch Bank
+Account Number: 7515413928
+Consent Status: Revoked

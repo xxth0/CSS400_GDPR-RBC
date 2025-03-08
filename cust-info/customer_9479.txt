@@ -1,0 +1,6 @@
+Customer ID: 9479
+Name: Chase Thomas
+National ID: 320-10-5919
+Bank: Davis, Castillo and Lewis Bank
+Account Number: 5998205024
+Consent Status: Revoked

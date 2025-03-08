@@ -1,0 +1,6 @@
+Customer ID: 2086
+Name: Kevin Ward
+National ID: 574-79-3578
+Bank: Pratt PLC Bank
+Account Number: 7697713648
+Consent Status: Granted

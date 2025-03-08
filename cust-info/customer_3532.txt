@@ -1,0 +1,6 @@
+Customer ID: 3532
+Name: John Jacobs
+National ID: 750-21-2465
+Bank: Griffith, Hartman and Anderson Bank
+Account Number: 8588594661
+Consent Status: Revoked

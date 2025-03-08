@@ -1,0 +1,6 @@
+Customer ID: 7113
+Name: Emily Wilson
+National ID: 731-01-0787
+Bank: Adams Ltd Bank
+Account Number: 7693576290
+Consent Status: Granted

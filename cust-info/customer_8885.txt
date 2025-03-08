@@ -1,0 +1,6 @@
+Customer ID: 8885
+Name: James Lee
+National ID: 090-02-7846
+Bank: Sanchez-Cunningham Bank
+Account Number: 7166367842
+Consent Status: Granted

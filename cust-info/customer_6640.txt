@@ -1,0 +1,6 @@
+Customer ID: 6640
+Name: Michelle Hill
+National ID: 837-48-8398
+Bank: Gardner-Ortega Bank
+Account Number: 1296435053
+Consent Status: Granted

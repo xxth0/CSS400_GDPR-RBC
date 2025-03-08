@@ -1,0 +1,6 @@
+Customer ID: 8500
+Name: Bradley Allen
+National ID: 384-21-6980
+Bank: Wilson LLC Bank
+Account Number: 5861667952
+Consent Status: Granted

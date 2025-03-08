@@ -1,0 +1,6 @@
+Customer ID: 555
+Name: Debra Hodges
+National ID: 812-16-5266
+Bank: Waller LLC Bank
+Account Number: 2457087644
+Consent Status: Revoked

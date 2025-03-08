@@ -1,0 +1,6 @@
+Customer ID: 6500
+Name: Lisa Tran
+National ID: 678-05-0382
+Bank: Dixon, Bauer and Robinson Bank
+Account Number: 6994626242
+Consent Status: Revoked

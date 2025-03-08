@@ -1,0 +1,6 @@
+Customer ID: 2035
+Name: Gail Bishop
+National ID: 515-78-2036
+Bank: Mendoza, Stevens and Wright Bank
+Account Number: 6585897871
+Consent Status: Granted

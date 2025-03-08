@@ -1,0 +1,6 @@
+Customer ID: 7388
+Name: Julie Garza
+National ID: 007-25-9138
+Bank: Bradley-Harris Bank
+Account Number: 6869918981
+Consent Status: Revoked

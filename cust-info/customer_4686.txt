@@ -1,0 +1,6 @@
+Customer ID: 4686
+Name: Gary Gomez
+National ID: 773-85-3425
+Bank: Johnson PLC Bank
+Account Number: 5900272654
+Consent Status: Revoked

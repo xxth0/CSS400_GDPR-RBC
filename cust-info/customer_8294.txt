@@ -1,0 +1,6 @@
+Customer ID: 8294
+Name: Joe Lozano
+National ID: 402-32-8976
+Bank: Miller, Gordon and Russell Bank
+Account Number: 6953529301
+Consent Status: Revoked

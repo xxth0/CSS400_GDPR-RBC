@@ -1,0 +1,6 @@
+Customer ID: 5452
+Name: Julie Fields
+National ID: 251-86-0090
+Bank: Gilbert, Gay and Williams Bank
+Account Number: 9599055465
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5326
+Name: John Hines
+National ID: 244-12-1513
+Bank: Conway-Haynes Bank
+Account Number: 2183645120
+Consent Status: Revoked

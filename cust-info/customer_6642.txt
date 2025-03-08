@@ -1,0 +1,6 @@
+Customer ID: 6642
+Name: Marcus Drake
+National ID: 067-60-0387
+Bank: Walton LLC Bank
+Account Number: 2544068139
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3567
+Name: Dr. Robin Frey
+National ID: 870-34-4614
+Bank: Vincent Inc Bank
+Account Number: 6895905018
+Consent Status: Revoked

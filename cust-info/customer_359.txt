@@ -1,0 +1,6 @@
+Customer ID: 359
+Name: Amy Reid MD
+National ID: 603-82-4117
+Bank: Hopkins-Crawford Bank
+Account Number: 9425650397
+Consent Status: Granted

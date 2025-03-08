@@ -1,0 +1,6 @@
+Customer ID: 9978
+Name: Mark Tran
+National ID: 605-18-5618
+Bank: Martinez, Maldonado and Myers Bank
+Account Number: 8786937330
+Consent Status: Granted

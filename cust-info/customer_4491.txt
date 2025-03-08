@@ -1,0 +1,6 @@
+Customer ID: 4491
+Name: Joshua Jensen
+National ID: 164-34-5087
+Bank: Rodriguez, Thomas and Tapia Bank
+Account Number: 6328639543
+Consent Status: Revoked

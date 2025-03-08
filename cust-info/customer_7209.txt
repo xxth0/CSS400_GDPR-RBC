@@ -1,0 +1,6 @@
+Customer ID: 7209
+Name: Kim Kennedy
+National ID: 899-18-9766
+Bank: Martin-Booker Bank
+Account Number: 2500602917
+Consent Status: Granted

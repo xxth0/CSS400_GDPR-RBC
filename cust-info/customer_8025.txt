@@ -1,0 +1,6 @@
+Customer ID: 8025
+Name: Amy Hudson
+National ID: 308-19-2668
+Bank: Brooks, Young and Sims Bank
+Account Number: 4196290919
+Consent Status: Granted

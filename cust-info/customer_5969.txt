@@ -1,0 +1,6 @@
+Customer ID: 5969
+Name: Melvin Jackson
+National ID: 171-88-5298
+Bank: Phelps, Rich and Mitchell Bank
+Account Number: 7537576897
+Consent Status: Revoked

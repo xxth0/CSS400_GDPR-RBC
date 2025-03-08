@@ -1,0 +1,6 @@
+Customer ID: 4898
+Name: Matthew Jones
+National ID: 359-87-9134
+Bank: Miller-Moreno Bank
+Account Number: 5012918928
+Consent Status: Granted

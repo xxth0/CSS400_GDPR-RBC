@@ -1,0 +1,6 @@
+Customer ID: 7858
+Name: Jessica Castro
+National ID: 401-25-4368
+Bank: Riley-Stuart Bank
+Account Number: 1984677082
+Consent Status: Granted

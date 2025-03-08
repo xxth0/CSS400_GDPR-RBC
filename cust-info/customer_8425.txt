@@ -1,0 +1,6 @@
+Customer ID: 8425
+Name: Michael Allison
+National ID: 841-64-5144
+Bank: Bowman Ltd Bank
+Account Number: 4306511167
+Consent Status: Revoked

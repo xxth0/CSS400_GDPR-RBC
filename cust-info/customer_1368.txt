@@ -1,0 +1,6 @@
+Customer ID: 1368
+Name: Michael Garner
+National ID: 151-56-7976
+Bank: Ponce-Meyers Bank
+Account Number: 5523263711
+Consent Status: Granted

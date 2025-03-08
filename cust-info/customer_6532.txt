@@ -1,0 +1,6 @@
+Customer ID: 6532
+Name: Daniel Haney
+National ID: 684-01-6873
+Bank: Bryant, Jones and Foster Bank
+Account Number: 1658454706
+Consent Status: Granted

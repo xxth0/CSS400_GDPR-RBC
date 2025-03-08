@@ -1,0 +1,6 @@
+Customer ID: 8226
+Name: Marissa Long
+National ID: 680-38-4235
+Bank: Rodriguez LLC Bank
+Account Number: 6117541823
+Consent Status: Granted

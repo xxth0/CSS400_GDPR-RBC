@@ -1,0 +1,6 @@
+Customer ID: 6952
+Name: Jessica Kemp
+National ID: 112-75-8195
+Bank: Deleon Group Bank
+Account Number: 3402052533
+Consent Status: Revoked

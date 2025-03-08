@@ -1,0 +1,6 @@
+Customer ID: 1718
+Name: Kelli Shea
+National ID: 889-27-8756
+Bank: Jones, Lozano and Hancock Bank
+Account Number: 9718446895
+Consent Status: Granted

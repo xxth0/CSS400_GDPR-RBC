@@ -1,0 +1,6 @@
+Customer ID: 2959
+Name: Ryan Simon
+National ID: 670-80-2628
+Bank: Williams, Mcpherson and Wood Bank
+Account Number: 2825925228
+Consent Status: Revoked

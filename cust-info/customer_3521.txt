@@ -1,0 +1,6 @@
+Customer ID: 3521
+Name: Megan Anderson
+National ID: 812-05-8250
+Bank: White Ltd Bank
+Account Number: 4918122433
+Consent Status: Revoked

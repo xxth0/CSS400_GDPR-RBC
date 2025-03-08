@@ -1,0 +1,6 @@
+Customer ID: 9683
+Name: David Lynch
+National ID: 578-65-5383
+Bank: Grant-Mitchell Bank
+Account Number: 8688425064
+Consent Status: Revoked

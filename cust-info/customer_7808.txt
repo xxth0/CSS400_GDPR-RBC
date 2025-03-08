@@ -1,0 +1,6 @@
+Customer ID: 7808
+Name: Calvin Daugherty
+National ID: 652-64-7890
+Bank: Clark and Sons Bank
+Account Number: 1186824267
+Consent Status: Revoked

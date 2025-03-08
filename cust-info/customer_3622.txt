@@ -1,0 +1,6 @@
+Customer ID: 3622
+Name: Danny Mann
+National ID: 631-82-5747
+Bank: Bennett Group Bank
+Account Number: 5364321045
+Consent Status: Revoked

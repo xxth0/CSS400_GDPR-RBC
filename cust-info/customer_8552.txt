@@ -1,0 +1,6 @@
+Customer ID: 8552
+Name: Joshua Kidd
+National ID: 525-71-1737
+Bank: Baker, Smith and Levine Bank
+Account Number: 1315988429
+Consent Status: Granted

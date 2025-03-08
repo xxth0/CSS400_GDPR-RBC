@@ -1,0 +1,6 @@
+Customer ID: 4928
+Name: Nicholas Rasmussen
+National ID: 747-62-0814
+Bank: Miles PLC Bank
+Account Number: 4265626331
+Consent Status: Revoked

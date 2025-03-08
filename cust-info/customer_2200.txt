@@ -1,0 +1,6 @@
+Customer ID: 2200
+Name: Katherine Campbell
+National ID: 829-49-4020
+Bank: Hawkins, Sandoval and Anderson Bank
+Account Number: 3085864536
+Consent Status: Revoked

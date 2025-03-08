@@ -1,0 +1,6 @@
+Customer ID: 7893
+Name: Samantha Phillips
+National ID: 620-22-9360
+Bank: Contreras PLC Bank
+Account Number: 7262796708
+Consent Status: Granted

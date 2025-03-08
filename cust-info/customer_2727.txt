@@ -1,0 +1,6 @@
+Customer ID: 2727
+Name: Derek Brewer
+National ID: 279-53-6443
+Bank: Smith Inc Bank
+Account Number: 2427084572
+Consent Status: Granted

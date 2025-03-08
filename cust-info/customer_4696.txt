@@ -1,0 +1,6 @@
+Customer ID: 4696
+Name: Tracy Fry
+National ID: 048-62-1656
+Bank: Carter-Marshall Bank
+Account Number: 8691339263
+Consent Status: Granted

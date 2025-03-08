@@ -1,0 +1,6 @@
+Customer ID: 6611
+Name: Richard Long
+National ID: 849-70-3607
+Bank: Cooper Inc Bank
+Account Number: 1304500095
+Consent Status: Granted

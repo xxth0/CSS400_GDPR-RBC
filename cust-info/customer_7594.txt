@@ -1,0 +1,6 @@
+Customer ID: 7594
+Name: Daniel Smith
+National ID: 394-34-3258
+Bank: Rodriguez, Neal and Lin Bank
+Account Number: 4947367439
+Consent Status: Revoked

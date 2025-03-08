@@ -1,0 +1,6 @@
+Customer ID: 9336
+Name: Douglas Martin
+National ID: 353-55-9428
+Bank: Nelson, Edwards and Davis Bank
+Account Number: 7404762517
+Consent Status: Revoked

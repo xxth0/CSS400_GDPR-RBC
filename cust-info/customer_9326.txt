@@ -1,0 +1,6 @@
+Customer ID: 9326
+Name: Dustin Kim
+National ID: 094-99-6738
+Bank: Spencer LLC Bank
+Account Number: 2452640558
+Consent Status: Revoked

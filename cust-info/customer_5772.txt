@@ -1,0 +1,6 @@
+Customer ID: 5772
+Name: Brandon Smith
+National ID: 700-08-4559
+Bank: Lowery and Sons Bank
+Account Number: 7256175395
+Consent Status: Revoked

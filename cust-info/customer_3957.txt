@@ -1,0 +1,6 @@
+Customer ID: 3957
+Name: Stephanie Hensley
+National ID: 203-02-7221
+Bank: Nelson-Taylor Bank
+Account Number: 8148402650
+Consent Status: Revoked

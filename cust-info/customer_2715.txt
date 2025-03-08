@@ -1,0 +1,6 @@
+Customer ID: 2715
+Name: Diane Cook
+National ID: 238-56-5868
+Bank: Page-Martinez Bank
+Account Number: 9631257361
+Consent Status: Granted

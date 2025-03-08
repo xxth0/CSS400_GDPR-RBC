@@ -1,0 +1,6 @@
+Customer ID: 3935
+Name: Joseph Page
+National ID: 102-58-4710
+Bank: Hutchinson Inc Bank
+Account Number: 8051759943
+Consent Status: Revoked

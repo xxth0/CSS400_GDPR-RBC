@@ -1,0 +1,6 @@
+Customer ID: 6113
+Name: Beverly Gardner
+National ID: 493-12-1192
+Bank: Williams-Garcia Bank
+Account Number: 1606742855
+Consent Status: Granted

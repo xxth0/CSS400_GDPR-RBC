@@ -1,0 +1,6 @@
+Customer ID: 4095
+Name: Darlene Wells
+National ID: 456-77-4167
+Bank: Wilson, Henderson and Hernandez Bank
+Account Number: 4528394382
+Consent Status: Granted

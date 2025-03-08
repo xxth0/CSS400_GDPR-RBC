@@ -1,0 +1,6 @@
+Customer ID: 8218
+Name: Mary Smith
+National ID: 742-52-6752
+Bank: Weiss Group Bank
+Account Number: 1415727465
+Consent Status: Revoked

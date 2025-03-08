@@ -1,0 +1,6 @@
+Customer ID: 1070
+Name: James Hampton
+National ID: 576-61-4504
+Bank: Watts-Luna Bank
+Account Number: 6062156157
+Consent Status: Granted

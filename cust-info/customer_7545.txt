@@ -1,0 +1,6 @@
+Customer ID: 7545
+Name: Kristen Wright
+National ID: 733-04-9457
+Bank: Cohen, Morgan and Williams Bank
+Account Number: 1571511737
+Consent Status: Revoked

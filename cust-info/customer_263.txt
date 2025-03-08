@@ -1,0 +1,6 @@
+Customer ID: 263
+Name: Frank Hansen
+National ID: 424-57-7425
+Bank: Norris, Anderson and Mason Bank
+Account Number: 3708138264
+Consent Status: Granted

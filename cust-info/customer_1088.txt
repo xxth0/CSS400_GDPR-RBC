@@ -1,0 +1,6 @@
+Customer ID: 1088
+Name: Douglas Mclaughlin
+National ID: 457-76-8349
+Bank: Jensen-George Bank
+Account Number: 7921641031
+Consent Status: Revoked

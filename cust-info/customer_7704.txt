@@ -1,0 +1,6 @@
+Customer ID: 7704
+Name: Darrell Smith
+National ID: 477-68-3268
+Bank: Garrett-Hansen Bank
+Account Number: 4157457881
+Consent Status: Granted

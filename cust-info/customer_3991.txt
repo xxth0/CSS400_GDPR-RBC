@@ -1,0 +1,6 @@
+Customer ID: 3991
+Name: Kimberly Williams
+National ID: 489-32-4004
+Bank: Edwards, Swanson and Ponce Bank
+Account Number: 2145335345
+Consent Status: Revoked

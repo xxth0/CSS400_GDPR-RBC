@@ -1,0 +1,6 @@
+Customer ID: 8074
+Name: Angela Harrison
+National ID: 114-67-5044
+Bank: Perkins, Williams and Snow Bank
+Account Number: 7919125936
+Consent Status: Revoked

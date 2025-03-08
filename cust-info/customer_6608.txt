@@ -1,0 +1,6 @@
+Customer ID: 6608
+Name: Jose Barnes
+National ID: 076-86-0014
+Bank: Stephens Group Bank
+Account Number: 9726507844
+Consent Status: Granted

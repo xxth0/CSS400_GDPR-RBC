@@ -1,0 +1,6 @@
+Customer ID: 9088
+Name: Adrian Simpson
+National ID: 017-10-4533
+Bank: Williams, Jackson and Bates Bank
+Account Number: 6509975731
+Consent Status: Granted

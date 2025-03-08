@@ -1,0 +1,6 @@
+Customer ID: 4269
+Name: Emily Dixon
+National ID: 003-76-4986
+Bank: Williams Ltd Bank
+Account Number: 8267536157
+Consent Status: Granted

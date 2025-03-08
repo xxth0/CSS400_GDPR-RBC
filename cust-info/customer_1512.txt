@@ -1,0 +1,6 @@
+Customer ID: 1512
+Name: Colleen Watson
+National ID: 630-41-1532
+Bank: Lee-Gonzales Bank
+Account Number: 7502894708
+Consent Status: Granted

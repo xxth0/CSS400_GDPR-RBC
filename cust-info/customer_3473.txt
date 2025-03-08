@@ -1,0 +1,6 @@
+Customer ID: 3473
+Name: Scott Martinez
+National ID: 178-94-0246
+Bank: Wise-Ibarra Bank
+Account Number: 4544303573
+Consent Status: Granted

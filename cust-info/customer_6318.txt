@@ -1,0 +1,6 @@
+Customer ID: 6318
+Name: Jacob Peters
+National ID: 322-02-7344
+Bank: Garcia-Myers Bank
+Account Number: 9370822543
+Consent Status: Revoked

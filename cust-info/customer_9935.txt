@@ -1,0 +1,6 @@
+Customer ID: 9935
+Name: Joanne Levine
+National ID: 889-06-9175
+Bank: Martin-Watkins Bank
+Account Number: 8356850727
+Consent Status: Revoked

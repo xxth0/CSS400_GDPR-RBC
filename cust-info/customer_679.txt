@@ -1,0 +1,6 @@
+Customer ID: 679
+Name: Diane Fox
+National ID: 333-67-4991
+Bank: Garrison, Leon and Vargas Bank
+Account Number: 4259967119
+Consent Status: Revoked

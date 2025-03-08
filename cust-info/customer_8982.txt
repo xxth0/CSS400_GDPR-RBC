@@ -1,0 +1,6 @@
+Customer ID: 8982
+Name: Kyle Perry
+National ID: 668-68-1541
+Bank: Kidd, Estes and Deleon Bank
+Account Number: 8432468266
+Consent Status: Granted

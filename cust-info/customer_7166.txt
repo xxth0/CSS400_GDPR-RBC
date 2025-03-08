@@ -1,0 +1,6 @@
+Customer ID: 7166
+Name: Sarah Fernandez
+National ID: 819-20-5871
+Bank: Mckinney, Kim and Mitchell Bank
+Account Number: 7004762134
+Consent Status: Revoked

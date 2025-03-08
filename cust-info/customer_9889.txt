@@ -1,0 +1,6 @@
+Customer ID: 9889
+Name: Kara Miller
+National ID: 465-94-3342
+Bank: Rodriguez Group Bank
+Account Number: 7589502810
+Consent Status: Revoked

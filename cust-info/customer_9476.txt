@@ -1,0 +1,6 @@
+Customer ID: 9476
+Name: Cassie Allen
+National ID: 787-55-2813
+Bank: Henry, Smith and Williams Bank
+Account Number: 8893896853
+Consent Status: Granted

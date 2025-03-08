@@ -1,0 +1,6 @@
+Customer ID: 1408
+Name: Cheryl Vaughn
+National ID: 222-38-0525
+Bank: Schmidt LLC Bank
+Account Number: 9574213310
+Consent Status: Revoked

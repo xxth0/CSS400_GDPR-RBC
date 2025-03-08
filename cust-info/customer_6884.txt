@@ -1,0 +1,6 @@
+Customer ID: 6884
+Name: Gregory Mathis
+National ID: 344-63-3203
+Bank: Cain-Casey Bank
+Account Number: 8543126417
+Consent Status: Granted

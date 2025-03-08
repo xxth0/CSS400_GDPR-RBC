@@ -1,0 +1,6 @@
+Customer ID: 8219
+Name: Sharon Simon
+National ID: 189-39-3671
+Bank: Lawson and Sons Bank
+Account Number: 4528322353
+Consent Status: Revoked

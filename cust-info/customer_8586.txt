@@ -1,0 +1,6 @@
+Customer ID: 8586
+Name: Jonathan Owens
+National ID: 812-03-9776
+Bank: Garcia Group Bank
+Account Number: 4977798327
+Consent Status: Granted

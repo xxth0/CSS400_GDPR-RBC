@@ -1,0 +1,6 @@
+Customer ID: 4533
+Name: Brianna Anderson
+National ID: 400-32-1148
+Bank: Gonzalez Inc Bank
+Account Number: 8693428551
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4351
+Name: Andrea Mathis
+National ID: 351-12-5572
+Bank: Smith-Higgins Bank
+Account Number: 2536977669
+Consent Status: Revoked

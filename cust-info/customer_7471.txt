@@ -1,0 +1,6 @@
+Customer ID: 7471
+Name: Joseph Bullock
+National ID: 679-89-3142
+Bank: Wallace Inc Bank
+Account Number: 7465897053
+Consent Status: Revoked

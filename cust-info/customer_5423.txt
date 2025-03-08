@@ -1,0 +1,6 @@
+Customer ID: 5423
+Name: Diane Garcia
+National ID: 212-86-8306
+Bank: Morris and Sons Bank
+Account Number: 6523355905
+Consent Status: Revoked

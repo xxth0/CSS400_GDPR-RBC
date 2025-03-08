@@ -1,0 +1,6 @@
+Customer ID: 5419
+Name: Marie Pruitt
+National ID: 390-23-4582
+Bank: Clark Ltd Bank
+Account Number: 9114045410
+Consent Status: Granted

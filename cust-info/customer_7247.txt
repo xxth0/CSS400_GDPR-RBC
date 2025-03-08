@@ -1,0 +1,6 @@
+Customer ID: 7247
+Name: Melissa Schroeder
+National ID: 532-38-5069
+Bank: Gordon-Peterson Bank
+Account Number: 7113847784
+Consent Status: Granted

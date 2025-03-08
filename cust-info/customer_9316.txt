@@ -1,0 +1,6 @@
+Customer ID: 9316
+Name: Gabriela Chaney
+National ID: 778-09-9734
+Bank: White-Wilson Bank
+Account Number: 7620770753
+Consent Status: Revoked

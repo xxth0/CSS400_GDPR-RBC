@@ -1,0 +1,6 @@
+Customer ID: 2499
+Name: Lindsey Goodman
+National ID: 328-82-9603
+Bank: Cook-Fowler Bank
+Account Number: 4084491530
+Consent Status: Revoked

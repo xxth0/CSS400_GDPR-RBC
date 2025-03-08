@@ -1,0 +1,6 @@
+Customer ID: 4212
+Name: David Anderson
+National ID: 246-09-4958
+Bank: Briggs-Hunt Bank
+Account Number: 8071008237
+Consent Status: Revoked

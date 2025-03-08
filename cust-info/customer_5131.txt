@@ -1,0 +1,6 @@
+Customer ID: 5131
+Name: Abigail Jackson
+National ID: 211-35-1604
+Bank: Cooper and Sons Bank
+Account Number: 6482591993
+Consent Status: Revoked

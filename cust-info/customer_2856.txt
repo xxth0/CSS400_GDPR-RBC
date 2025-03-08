@@ -1,0 +1,6 @@
+Customer ID: 2856
+Name: Gerald James
+National ID: 385-27-6349
+Bank: Perry-Carter Bank
+Account Number: 2928190238
+Consent Status: Revoked

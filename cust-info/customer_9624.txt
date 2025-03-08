@@ -1,0 +1,6 @@
+Customer ID: 9624
+Name: Rebecca Larson
+National ID: 124-71-5880
+Bank: Malone-Randall Bank
+Account Number: 3004604154
+Consent Status: Granted

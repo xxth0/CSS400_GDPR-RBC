@@ -1,0 +1,6 @@
+Customer ID: 4373
+Name: Michael Allen
+National ID: 355-40-0748
+Bank: Miller Group Bank
+Account Number: 9891463950
+Consent Status: Granted

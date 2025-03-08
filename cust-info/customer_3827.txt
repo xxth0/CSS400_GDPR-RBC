@@ -1,0 +1,6 @@
+Customer ID: 3827
+Name: Roger Ho
+National ID: 640-10-0152
+Bank: Bruce-Weiss Bank
+Account Number: 3267993669
+Consent Status: Revoked

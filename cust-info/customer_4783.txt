@@ -1,0 +1,6 @@
+Customer ID: 4783
+Name: Douglas Hernandez
+National ID: 291-10-2255
+Bank: Davis, Kirby and Blackwell Bank
+Account Number: 2937479488
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5237
+Name: Wendy Wells
+National ID: 734-92-2469
+Bank: Lambert, James and Long Bank
+Account Number: 9900860468
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3708
+Name: Anthony Lucas
+National ID: 100-68-2612
+Bank: Smith, Gordon and White Bank
+Account Number: 9483143302
+Consent Status: Revoked

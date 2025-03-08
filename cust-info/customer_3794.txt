@@ -1,0 +1,6 @@
+Customer ID: 3794
+Name: Christopher Arnold
+National ID: 275-91-3186
+Bank: Yoder, Harris and Herman Bank
+Account Number: 4907171691
+Consent Status: Revoked

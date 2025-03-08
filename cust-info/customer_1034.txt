@@ -1,0 +1,6 @@
+Customer ID: 1034
+Name: Emma Heath
+National ID: 454-15-7512
+Bank: Gould, Brown and Bailey Bank
+Account Number: 2763807783
+Consent Status: Revoked

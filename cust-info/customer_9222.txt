@@ -1,0 +1,6 @@
+Customer ID: 9222
+Name: Ryan Garcia
+National ID: 260-75-0541
+Bank: Hughes Inc Bank
+Account Number: 3125614234
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4156
+Name: Richard Robles
+National ID: 024-62-7002
+Bank: Reed, Morrison and Cline Bank
+Account Number: 7292446135
+Consent Status: Granted

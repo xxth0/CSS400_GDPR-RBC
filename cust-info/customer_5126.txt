@@ -1,0 +1,6 @@
+Customer ID: 5126
+Name: Chad Smith
+National ID: 091-89-1007
+Bank: Meyers-Stewart Bank
+Account Number: 8480585047
+Consent Status: Granted

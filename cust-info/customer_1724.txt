@@ -1,0 +1,6 @@
+Customer ID: 1724
+Name: James Brown
+National ID: 016-35-4655
+Bank: Lewis-Henderson Bank
+Account Number: 7558255760
+Consent Status: Revoked

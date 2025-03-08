@@ -1,0 +1,6 @@
+Customer ID: 1678
+Name: Raymond York
+National ID: 765-84-5265
+Bank: Randolph-Delgado Bank
+Account Number: 6593110599
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6117
+Name: Ashley Patel
+National ID: 090-66-7349
+Bank: Harrison LLC Bank
+Account Number: 5228959284
+Consent Status: Revoked

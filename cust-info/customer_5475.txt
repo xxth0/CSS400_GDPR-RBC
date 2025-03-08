@@ -1,0 +1,6 @@
+Customer ID: 5475
+Name: Matthew Larson
+National ID: 843-05-3750
+Bank: Johnston-Rios Bank
+Account Number: 9949030225
+Consent Status: Revoked

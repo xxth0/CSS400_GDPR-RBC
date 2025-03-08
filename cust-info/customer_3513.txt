@@ -1,0 +1,6 @@
+Customer ID: 3513
+Name: Brittany Villa
+National ID: 541-51-1640
+Bank: Rivera Ltd Bank
+Account Number: 4529841587
+Consent Status: Granted

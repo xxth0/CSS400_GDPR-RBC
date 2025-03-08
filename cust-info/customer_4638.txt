@@ -1,0 +1,6 @@
+Customer ID: 4638
+Name: Dale Gonzalez
+National ID: 305-94-4773
+Bank: Quinn, Mullins and Horn Bank
+Account Number: 7094817020
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9235
+Name: Tara Hansen
+National ID: 524-14-9021
+Bank: Peterson LLC Bank
+Account Number: 1239901781
+Consent Status: Revoked

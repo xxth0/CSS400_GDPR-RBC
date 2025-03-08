@@ -1,0 +1,6 @@
+Customer ID: 6497
+Name: Tracy Stafford
+National ID: 345-19-6096
+Bank: Jackson, Glover and Smith Bank
+Account Number: 5444093479
+Consent Status: Revoked

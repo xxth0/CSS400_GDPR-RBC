@@ -1,0 +1,6 @@
+Customer ID: 4005
+Name: Kenneth Mullins
+National ID: 503-08-0162
+Bank: Livingston, Washington and Bates Bank
+Account Number: 7922895871
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9937
+Name: Julie Baker
+National ID: 572-83-1839
+Bank: Moreno-Johnson Bank
+Account Number: 4147449421
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3134
+Name: John Rubio
+National ID: 039-60-9051
+Bank: Jackson Group Bank
+Account Number: 2930683757
+Consent Status: Revoked

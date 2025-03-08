@@ -1,0 +1,6 @@
+Customer ID: 8288
+Name: Jennifer Estrada
+National ID: 358-44-4663
+Bank: Cook, Gonzalez and Williams Bank
+Account Number: 4979290669
+Consent Status: Granted

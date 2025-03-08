@@ -1,0 +1,6 @@
+Customer ID: 7942
+Name: Jennifer Rodgers
+National ID: 340-49-4837
+Bank: Knight, Collier and English Bank
+Account Number: 8757330472
+Consent Status: Granted

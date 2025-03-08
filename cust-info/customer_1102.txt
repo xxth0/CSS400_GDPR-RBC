@@ -1,0 +1,6 @@
+Customer ID: 1102
+Name: Alexander Hernandez
+National ID: 875-02-9386
+Bank: Fletcher-Johnson Bank
+Account Number: 7885642199
+Consent Status: Granted

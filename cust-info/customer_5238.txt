@@ -1,0 +1,6 @@
+Customer ID: 5238
+Name: Dr. Amy Cruz MD
+National ID: 021-48-6762
+Bank: Baker, Thomas and Hunter Bank
+Account Number: 5768888460
+Consent Status: Revoked

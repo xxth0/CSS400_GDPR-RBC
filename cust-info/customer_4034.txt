@@ -1,0 +1,6 @@
+Customer ID: 4034
+Name: Kimberly Lopez
+National ID: 780-10-4890
+Bank: Hammond, Martin and Rosario Bank
+Account Number: 2113757372
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9267
+Name: Joshua Holt
+National ID: 475-84-8577
+Bank: Thompson Ltd Bank
+Account Number: 9580452591
+Consent Status: Revoked

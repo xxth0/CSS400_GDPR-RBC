@@ -1,0 +1,6 @@
+Customer ID: 8237
+Name: Margaret Wright
+National ID: 641-60-7389
+Bank: Soto-Robertson Bank
+Account Number: 1552758502
+Consent Status: Granted

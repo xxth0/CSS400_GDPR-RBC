@@ -1,0 +1,6 @@
+Customer ID: 7395
+Name: Stacey Gomez
+National ID: 282-27-9482
+Bank: Mcdonald and Sons Bank
+Account Number: 3267734418
+Consent Status: Granted

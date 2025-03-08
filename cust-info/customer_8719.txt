@@ -1,0 +1,6 @@
+Customer ID: 8719
+Name: Rebecca Jones
+National ID: 556-79-5937
+Bank: Miller Ltd Bank
+Account Number: 3596822448
+Consent Status: Granted

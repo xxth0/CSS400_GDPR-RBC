@@ -1,0 +1,6 @@
+Customer ID: 9759
+Name: Barbara Beasley
+National ID: 823-34-1544
+Bank: Hall Group Bank
+Account Number: 4290209799
+Consent Status: Revoked

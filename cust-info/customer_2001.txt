@@ -1,0 +1,6 @@
+Customer ID: 2001
+Name: Tristan Snyder
+National ID: 643-50-9390
+Bank: Calhoun-Taylor Bank
+Account Number: 6177110646
+Consent Status: Revoked

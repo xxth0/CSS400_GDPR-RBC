@@ -1,0 +1,6 @@
+Customer ID: 6979
+Name: Jennifer Smith
+National ID: 027-13-6087
+Bank: Sims-Ramos Bank
+Account Number: 3009196438
+Consent Status: Revoked

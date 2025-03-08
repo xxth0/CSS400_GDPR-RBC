@@ -1,0 +1,6 @@
+Customer ID: 4353
+Name: Timothy Liu
+National ID: 645-37-3358
+Bank: Rosales-Walker Bank
+Account Number: 5142318395
+Consent Status: Granted

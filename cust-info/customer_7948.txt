@@ -1,0 +1,6 @@
+Customer ID: 7948
+Name: Christina Johnston
+National ID: 639-61-4324
+Bank: Shaw, Cooley and Dalton Bank
+Account Number: 2186257559
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3540
+Name: Deborah Carlson
+National ID: 145-61-6176
+Bank: Garcia-Ryan Bank
+Account Number: 4766172845
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3563
+Name: Sandy Johnson
+National ID: 436-33-0222
+Bank: Porter LLC Bank
+Account Number: 6332839696
+Consent Status: Revoked

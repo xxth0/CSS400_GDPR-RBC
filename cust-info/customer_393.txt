@@ -1,0 +1,6 @@
+Customer ID: 393
+Name: Jody Lewis
+National ID: 518-46-2833
+Bank: King-Williams Bank
+Account Number: 6047177058
+Consent Status: Revoked

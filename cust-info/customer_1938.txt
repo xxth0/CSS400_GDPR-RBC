@@ -1,0 +1,6 @@
+Customer ID: 1938
+Name: Joanna Thompson
+National ID: 708-93-6356
+Bank: Moore-Bridges Bank
+Account Number: 4795761943
+Consent Status: Revoked

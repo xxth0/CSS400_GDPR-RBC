@@ -1,0 +1,6 @@
+Customer ID: 9671
+Name: Elizabeth Garcia
+National ID: 810-47-4102
+Bank: Hunter-Diaz Bank
+Account Number: 9372563885
+Consent Status: Granted

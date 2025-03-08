@@ -1,0 +1,6 @@
+Customer ID: 6567
+Name: Samuel Howard
+National ID: 045-34-7891
+Bank: Davidson, Taylor and Porter Bank
+Account Number: 7623477570
+Consent Status: Granted

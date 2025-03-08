@@ -1,0 +1,6 @@
+Customer ID: 3936
+Name: Joann Allen
+National ID: 876-77-2014
+Bank: Branch, Diaz and Gutierrez Bank
+Account Number: 3986060990
+Consent Status: Revoked

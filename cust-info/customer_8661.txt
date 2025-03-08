@@ -1,0 +1,6 @@
+Customer ID: 8661
+Name: Steven Franklin
+National ID: 133-20-3468
+Bank: Collins, Davis and Stafford Bank
+Account Number: 5799925745
+Consent Status: Revoked

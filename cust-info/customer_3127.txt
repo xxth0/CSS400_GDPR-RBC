@@ -1,0 +1,6 @@
+Customer ID: 3127
+Name: Emily Miller
+National ID: 693-67-0227
+Bank: Castro, Mcdonald and Chambers Bank
+Account Number: 3612683540
+Consent Status: Granted

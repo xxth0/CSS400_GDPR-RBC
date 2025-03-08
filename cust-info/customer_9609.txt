@@ -1,0 +1,6 @@
+Customer ID: 9609
+Name: John Turner
+National ID: 497-09-8631
+Bank: Nguyen, Brown and Smith Bank
+Account Number: 3575661202
+Consent Status: Revoked

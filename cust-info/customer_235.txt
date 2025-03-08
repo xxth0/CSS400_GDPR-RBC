@@ -1,0 +1,6 @@
+Customer ID: 235
+Name: Gina Gray
+National ID: 095-80-5027
+Bank: Perez-Randall Bank
+Account Number: 4278459840
+Consent Status: Granted

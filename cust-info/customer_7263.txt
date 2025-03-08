@@ -1,0 +1,6 @@
+Customer ID: 7263
+Name: Diana Weber
+National ID: 686-74-0482
+Bank: Ramirez-Santos Bank
+Account Number: 6382585198
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7983
+Name: Jessica Bell
+National ID: 474-60-6170
+Bank: Clarke LLC Bank
+Account Number: 2770716814
+Consent Status: Revoked

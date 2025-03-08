@@ -1,0 +1,6 @@
+Customer ID: 843
+Name: Ernest Johnson
+National ID: 894-54-3541
+Bank: Faulkner, Winters and Campbell Bank
+Account Number: 6471256200
+Consent Status: Granted

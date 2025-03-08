@@ -1,0 +1,6 @@
+Customer ID: 7037
+Name: Benjamin Scott DVM
+National ID: 558-94-8856
+Bank: Erickson-Hernandez Bank
+Account Number: 9442033912
+Consent Status: Revoked

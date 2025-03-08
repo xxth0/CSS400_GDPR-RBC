@@ -1,0 +1,6 @@
+Customer ID: 228
+Name: Michelle Miller
+National ID: 490-62-5507
+Bank: Martinez Group Bank
+Account Number: 2802646026
+Consent Status: Revoked

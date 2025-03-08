@@ -1,0 +1,6 @@
+Customer ID: 4674
+Name: Stacey Olson
+National ID: 511-14-3551
+Bank: Adams Ltd Bank
+Account Number: 2853420210
+Consent Status: Granted

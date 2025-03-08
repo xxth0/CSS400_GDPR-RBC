@@ -1,0 +1,6 @@
+Customer ID: 5975
+Name: Alex Fisher
+National ID: 194-35-3904
+Bank: Baldwin, Alvarez and Rojas Bank
+Account Number: 6002362261
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4364
+Name: Stephen Graham
+National ID: 887-54-2606
+Bank: Johnston Group Bank
+Account Number: 8608140204
+Consent Status: Revoked

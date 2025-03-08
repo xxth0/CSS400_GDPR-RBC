@@ -1,0 +1,6 @@
+Customer ID: 3922
+Name: Michael Shepard
+National ID: 624-39-8294
+Bank: Pratt-Tucker Bank
+Account Number: 8597204070
+Consent Status: Granted

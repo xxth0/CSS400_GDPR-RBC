@@ -1,0 +1,6 @@
+Customer ID: 4641
+Name: Joshua Flynn
+National ID: 097-82-0875
+Bank: Pham Inc Bank
+Account Number: 4844296253
+Consent Status: Revoked

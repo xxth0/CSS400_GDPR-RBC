@@ -1,0 +1,6 @@
+Customer ID: 5806
+Name: Lucas Nguyen
+National ID: 748-94-9081
+Bank: Williams, Jarvis and Goodwin Bank
+Account Number: 4618035528
+Consent Status: Revoked

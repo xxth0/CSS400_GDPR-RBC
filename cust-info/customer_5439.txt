@@ -1,0 +1,6 @@
+Customer ID: 5439
+Name: John White
+National ID: 124-35-4775
+Bank: Mckenzie-Cooper Bank
+Account Number: 3288297741
+Consent Status: Granted

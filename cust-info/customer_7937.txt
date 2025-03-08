@@ -1,0 +1,6 @@
+Customer ID: 7937
+Name: Joe Thomas
+National ID: 425-30-4518
+Bank: Garcia-Travis Bank
+Account Number: 3315645244
+Consent Status: Granted

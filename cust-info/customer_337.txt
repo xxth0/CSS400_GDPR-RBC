@@ -1,0 +1,6 @@
+Customer ID: 337
+Name: Nathan Weaver
+National ID: 463-94-6873
+Bank: Young-Barnes Bank
+Account Number: 3954048545
+Consent Status: Granted

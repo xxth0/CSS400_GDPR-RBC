@@ -1,0 +1,6 @@
+Customer ID: 7580
+Name: David Torres
+National ID: 874-71-3857
+Bank: Carpenter Ltd Bank
+Account Number: 5379458682
+Consent Status: Revoked

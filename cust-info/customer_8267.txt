@@ -1,0 +1,6 @@
+Customer ID: 8267
+Name: Sharon Michael
+National ID: 565-42-8478
+Bank: Johnson, Rangel and Nguyen Bank
+Account Number: 6595135461
+Consent Status: Revoked

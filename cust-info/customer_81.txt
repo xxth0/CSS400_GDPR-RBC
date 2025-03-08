@@ -1,0 +1,6 @@
+Customer ID: 81
+Name: Chelsea Patrick
+National ID: 141-96-0116
+Bank: Aguirre Inc Bank
+Account Number: 7421753007
+Consent Status: Revoked

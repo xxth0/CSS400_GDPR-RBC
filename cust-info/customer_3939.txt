@@ -1,0 +1,6 @@
+Customer ID: 3939
+Name: Robert Jackson
+National ID: 694-23-1265
+Bank: Chen Ltd Bank
+Account Number: 5051392699
+Consent Status: Revoked

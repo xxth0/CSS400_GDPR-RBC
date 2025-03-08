@@ -1,0 +1,6 @@
+Customer ID: 4418
+Name: Brandon Wilson
+National ID: 163-64-8236
+Bank: Lopez, Martinez and Powers Bank
+Account Number: 6309834839
+Consent Status: Revoked

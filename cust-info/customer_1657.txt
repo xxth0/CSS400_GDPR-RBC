@@ -1,0 +1,6 @@
+Customer ID: 1657
+Name: Thomas Patterson
+National ID: 402-36-9852
+Bank: Webb PLC Bank
+Account Number: 1217667314
+Consent Status: Revoked

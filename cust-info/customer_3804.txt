@@ -1,0 +1,6 @@
+Customer ID: 3804
+Name: Danielle Reyes
+National ID: 510-32-5683
+Bank: Roach LLC Bank
+Account Number: 2412874605
+Consent Status: Granted

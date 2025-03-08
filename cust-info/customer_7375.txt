@@ -1,0 +1,6 @@
+Customer ID: 7375
+Name: Diamond Stokes
+National ID: 263-60-8996
+Bank: Smith, Joseph and Lee Bank
+Account Number: 2541285349
+Consent Status: Granted

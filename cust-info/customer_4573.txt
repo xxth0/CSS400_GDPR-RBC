@@ -1,0 +1,6 @@
+Customer ID: 4573
+Name: David Herrera Jr.
+National ID: 154-32-4984
+Bank: Villanueva, Green and Petersen Bank
+Account Number: 8202186884
+Consent Status: Revoked

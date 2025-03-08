@@ -1,0 +1,6 @@
+Customer ID: 6254
+Name: Jennifer Watkins
+National ID: 501-72-6062
+Bank: Nunez PLC Bank
+Account Number: 4632278825
+Consent Status: Revoked

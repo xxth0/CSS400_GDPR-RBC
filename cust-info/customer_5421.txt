@@ -1,0 +1,6 @@
+Customer ID: 5421
+Name: Amber Reid
+National ID: 801-66-7490
+Bank: Jordan, Green and White Bank
+Account Number: 3260703653
+Consent Status: Granted

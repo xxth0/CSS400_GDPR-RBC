@@ -1,0 +1,6 @@
+Customer ID: 409
+Name: Nina Martin
+National ID: 786-47-4994
+Bank: Hill and Sons Bank
+Account Number: 4667419583
+Consent Status: Revoked

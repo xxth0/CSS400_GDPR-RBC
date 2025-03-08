@@ -1,0 +1,6 @@
+Customer ID: 4581
+Name: Sandra Owen
+National ID: 783-43-8151
+Bank: Williams PLC Bank
+Account Number: 5003024609
+Consent Status: Granted

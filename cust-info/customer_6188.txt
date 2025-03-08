@@ -1,0 +1,6 @@
+Customer ID: 6188
+Name: Kurt Gregory
+National ID: 174-80-5389
+Bank: Bishop-Torres Bank
+Account Number: 5594244405
+Consent Status: Revoked

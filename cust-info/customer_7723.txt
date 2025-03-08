@@ -1,0 +1,6 @@
+Customer ID: 7723
+Name: Christina Martinez
+National ID: 514-78-2631
+Bank: Wu, Burns and Hart Bank
+Account Number: 3607001729
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3978
+Name: Aaron Martinez
+National ID: 685-76-0283
+Bank: Fox, Wang and Bradley Bank
+Account Number: 5893308495
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 86
+Name: Michael Johnson
+National ID: 616-85-5769
+Bank: Manning-Walker Bank
+Account Number: 8649052987
+Consent Status: Revoked

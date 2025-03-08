@@ -1,0 +1,6 @@
+Customer ID: 1601
+Name: Brian Gallagher
+National ID: 185-45-5502
+Bank: Armstrong-Blair Bank
+Account Number: 9304705304
+Consent Status: Revoked

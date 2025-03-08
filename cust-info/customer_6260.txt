@@ -1,0 +1,6 @@
+Customer ID: 6260
+Name: Andrew Zimmerman
+National ID: 585-23-7366
+Bank: Shaw, Baker and Cummings Bank
+Account Number: 3184091781
+Consent Status: Revoked

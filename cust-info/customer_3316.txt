@@ -1,0 +1,6 @@
+Customer ID: 3316
+Name: Dominic Moss
+National ID: 005-23-6193
+Bank: Hall Inc Bank
+Account Number: 5990374062
+Consent Status: Revoked

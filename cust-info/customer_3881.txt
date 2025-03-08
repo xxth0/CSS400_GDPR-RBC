@@ -1,0 +1,6 @@
+Customer ID: 3881
+Name: Kirsten White
+National ID: 417-85-1848
+Bank: Strong, Gill and Wright Bank
+Account Number: 6583982667
+Consent Status: Granted

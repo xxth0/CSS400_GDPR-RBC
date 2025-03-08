@@ -1,0 +1,6 @@
+Customer ID: 9711
+Name: Robert Campbell
+National ID: 197-08-6288
+Bank: Massey PLC Bank
+Account Number: 8634028623
+Consent Status: Revoked

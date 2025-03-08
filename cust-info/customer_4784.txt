@@ -1,0 +1,6 @@
+Customer ID: 4784
+Name: Hannah Gomez
+National ID: 638-98-2088
+Bank: Alvarez, Gillespie and Stone Bank
+Account Number: 3176015989
+Consent Status: Revoked

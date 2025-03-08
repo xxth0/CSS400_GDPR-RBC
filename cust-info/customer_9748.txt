@@ -1,0 +1,6 @@
+Customer ID: 9748
+Name: Angelica Clark
+National ID: 891-74-1458
+Bank: Donaldson-Lambert Bank
+Account Number: 8735222046
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1204
+Name: Brian Moore
+National ID: 342-24-6256
+Bank: Smith-Campbell Bank
+Account Number: 9230454608
+Consent Status: Revoked

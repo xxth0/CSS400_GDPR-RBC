@@ -1,0 +1,6 @@
+Customer ID: 8613
+Name: David Lopez
+National ID: 112-19-6396
+Bank: Patterson-Morgan Bank
+Account Number: 4708715328
+Consent Status: Granted

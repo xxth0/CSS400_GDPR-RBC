@@ -1,0 +1,6 @@
+Customer ID: 7494
+Name: Christopher Solomon
+National ID: 874-29-2648
+Bank: Mendez-Todd Bank
+Account Number: 8502988954
+Consent Status: Revoked

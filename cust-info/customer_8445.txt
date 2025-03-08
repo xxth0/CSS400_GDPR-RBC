@@ -1,0 +1,6 @@
+Customer ID: 8445
+Name: Lisa Jenkins
+National ID: 705-36-4279
+Bank: Adams PLC Bank
+Account Number: 6026360529
+Consent Status: Revoked

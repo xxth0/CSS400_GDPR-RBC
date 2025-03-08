@@ -1,0 +1,6 @@
+Customer ID: 4317
+Name: Dustin Owen
+National ID: 388-73-4645
+Bank: Edwards Ltd Bank
+Account Number: 2014424620
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6719
+Name: Melinda Harrell
+National ID: 549-81-2382
+Bank: Mueller-Sanchez Bank
+Account Number: 1263574206
+Consent Status: Granted

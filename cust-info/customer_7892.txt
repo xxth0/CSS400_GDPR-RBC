@@ -1,0 +1,6 @@
+Customer ID: 7892
+Name: Brian Cox
+National ID: 523-99-6319
+Bank: Fitzgerald-Banks Bank
+Account Number: 6885578010
+Consent Status: Revoked

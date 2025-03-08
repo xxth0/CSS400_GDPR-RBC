@@ -1,0 +1,6 @@
+Customer ID: 3542
+Name: Amber Butler
+National ID: 203-61-8196
+Bank: Floyd PLC Bank
+Account Number: 5986396291
+Consent Status: Revoked

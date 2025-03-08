@@ -1,0 +1,6 @@
+Customer ID: 6781
+Name: Jaime Tapia
+National ID: 271-29-4894
+Bank: Livingston Group Bank
+Account Number: 6533763547
+Consent Status: Revoked

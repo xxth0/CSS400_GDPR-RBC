@@ -1,0 +1,6 @@
+Customer ID: 8254
+Name: Joshua Martinez
+National ID: 051-60-2105
+Bank: Mccormick, Moore and Rogers Bank
+Account Number: 4065213825
+Consent Status: Granted

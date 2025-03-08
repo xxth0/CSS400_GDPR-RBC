@@ -1,0 +1,6 @@
+Customer ID: 1563
+Name: Stephen Lopez
+National ID: 110-71-0844
+Bank: Garcia-Lopez Bank
+Account Number: 1207662427
+Consent Status: Revoked

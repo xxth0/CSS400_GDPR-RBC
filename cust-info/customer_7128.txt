@@ -1,0 +1,6 @@
+Customer ID: 7128
+Name: Caitlin Williams
+National ID: 089-60-9459
+Bank: Black, Smith and Phillips Bank
+Account Number: 3862878364
+Consent Status: Granted

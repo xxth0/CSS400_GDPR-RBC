@@ -1,0 +1,6 @@
+Customer ID: 612
+Name: Joseph Brown
+National ID: 184-47-6255
+Bank: Fowler, Patterson and Collins Bank
+Account Number: 9592538087
+Consent Status: Granted

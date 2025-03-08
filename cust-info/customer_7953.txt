@@ -1,0 +1,6 @@
+Customer ID: 7953
+Name: Ashley Fuller
+National ID: 754-17-1772
+Bank: Garcia, Stanley and Brooks Bank
+Account Number: 8212276286
+Consent Status: Granted

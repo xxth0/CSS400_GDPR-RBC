@@ -1,0 +1,6 @@
+Customer ID: 3949
+Name: April Miller
+National ID: 848-09-9984
+Bank: Rose-Sanders Bank
+Account Number: 4309101406
+Consent Status: Granted

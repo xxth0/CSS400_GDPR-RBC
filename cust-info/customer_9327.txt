@@ -1,0 +1,6 @@
+Customer ID: 9327
+Name: Ryan Walker
+National ID: 663-63-6618
+Bank: Hill-Smith Bank
+Account Number: 4006038972
+Consent Status: Granted

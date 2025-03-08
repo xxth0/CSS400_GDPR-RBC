@@ -1,0 +1,6 @@
+Customer ID: 4932
+Name: Russell Jones
+National ID: 764-19-7841
+Bank: Hardy, Chavez and Nguyen Bank
+Account Number: 9358590251
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9136
+Name: Jeffrey Haney
+National ID: 331-60-0272
+Bank: Rosales, Garcia and Clay Bank
+Account Number: 4373456303
+Consent Status: Granted

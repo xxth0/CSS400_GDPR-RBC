@@ -1,0 +1,6 @@
+Customer ID: 5311
+Name: Richard Miller
+National ID: 068-03-9026
+Bank: Reyes-Anderson Bank
+Account Number: 5241640418
+Consent Status: Granted

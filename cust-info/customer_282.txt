@@ -1,0 +1,6 @@
+Customer ID: 282
+Name: Stephanie Camacho
+National ID: 141-04-9686
+Bank: Swanson-Jimenez Bank
+Account Number: 8800167320
+Consent Status: Granted

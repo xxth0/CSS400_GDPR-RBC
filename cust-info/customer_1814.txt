@@ -1,0 +1,6 @@
+Customer ID: 1814
+Name: Katie Russell
+National ID: 171-53-8686
+Bank: Taylor, Hill and Hayes Bank
+Account Number: 7446957107
+Consent Status: Granted

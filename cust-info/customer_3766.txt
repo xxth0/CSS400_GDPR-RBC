@@ -1,0 +1,6 @@
+Customer ID: 3766
+Name: Alexis Brown
+National ID: 098-98-9327
+Bank: Meyers Inc Bank
+Account Number: 6549927887
+Consent Status: Granted

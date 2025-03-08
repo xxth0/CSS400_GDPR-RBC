@@ -1,0 +1,6 @@
+Customer ID: 656
+Name: John Allen
+National ID: 656-52-5695
+Bank: Henderson Group Bank
+Account Number: 3862299851
+Consent Status: Granted

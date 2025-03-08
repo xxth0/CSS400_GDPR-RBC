@@ -1,0 +1,6 @@
+Customer ID: 3953
+Name: Joshua Smith
+National ID: 604-97-3435
+Bank: Lowe and Sons Bank
+Account Number: 8873598384
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6698
+Name: Dana Johnson
+National ID: 483-92-3607
+Bank: Craig Ltd Bank
+Account Number: 8653916309
+Consent Status: Granted

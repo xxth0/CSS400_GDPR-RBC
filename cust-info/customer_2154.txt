@@ -1,0 +1,6 @@
+Customer ID: 2154
+Name: Nicole Knight
+National ID: 570-36-8746
+Bank: Rose-Huang Bank
+Account Number: 2696533790
+Consent Status: Revoked

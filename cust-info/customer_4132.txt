@@ -1,0 +1,6 @@
+Customer ID: 4132
+Name: Matthew Jordan
+National ID: 403-06-5710
+Bank: Cooper-Lynn Bank
+Account Number: 8937117609
+Consent Status: Revoked

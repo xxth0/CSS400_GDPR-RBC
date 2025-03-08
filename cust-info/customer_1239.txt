@@ -1,0 +1,6 @@
+Customer ID: 1239
+Name: Bethany Bowers
+National ID: 773-78-3361
+Bank: Guzman, Leonard and Reynolds Bank
+Account Number: 9564827526
+Consent Status: Revoked

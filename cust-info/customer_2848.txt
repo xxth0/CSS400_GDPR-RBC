@@ -1,0 +1,6 @@
+Customer ID: 2848
+Name: Jackson Thomas
+National ID: 576-07-7332
+Bank: Oconnell-Brown Bank
+Account Number: 9429283335
+Consent Status: Granted

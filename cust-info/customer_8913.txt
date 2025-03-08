@@ -1,0 +1,6 @@
+Customer ID: 8913
+Name: Alicia Johnson
+National ID: 764-53-3085
+Bank: Faulkner, Perry and Martinez Bank
+Account Number: 7956488083
+Consent Status: Revoked

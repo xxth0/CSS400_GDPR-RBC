@@ -1,0 +1,6 @@
+Customer ID: 4306
+Name: Debra White
+National ID: 753-79-8384
+Bank: Hayes-Henry Bank
+Account Number: 3296303356
+Consent Status: Granted

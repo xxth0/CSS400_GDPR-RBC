@@ -1,0 +1,6 @@
+Customer ID: 1145
+Name: Katie White
+National ID: 794-05-1313
+Bank: Lozano and Sons Bank
+Account Number: 1347947723
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9117
+Name: Brittany Bender
+National ID: 855-55-7383
+Bank: Stewart-Gonzalez Bank
+Account Number: 4646494179
+Consent Status: Granted

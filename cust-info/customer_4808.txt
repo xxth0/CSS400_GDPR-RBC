@@ -1,0 +1,6 @@
+Customer ID: 4808
+Name: Ryan Melendez
+National ID: 801-49-4040
+Bank: Houston-Gomez Bank
+Account Number: 7639646906
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5211
+Name: Gary Valdez
+National ID: 539-73-9792
+Bank: Johnson-Jones Bank
+Account Number: 1660882922
+Consent Status: Revoked

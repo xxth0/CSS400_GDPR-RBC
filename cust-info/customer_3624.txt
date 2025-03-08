@@ -1,0 +1,6 @@
+Customer ID: 3624
+Name: James Marquez
+National ID: 241-77-5986
+Bank: Hudson-Hill Bank
+Account Number: 3651269338
+Consent Status: Granted

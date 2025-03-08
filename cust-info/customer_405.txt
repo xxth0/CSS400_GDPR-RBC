@@ -1,0 +1,6 @@
+Customer ID: 405
+Name: Timothy Butler
+National ID: 045-40-5918
+Bank: Stanton Group Bank
+Account Number: 6902478590
+Consent Status: Granted

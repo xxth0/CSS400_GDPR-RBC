@@ -1,0 +1,6 @@
+Customer ID: 5778
+Name: Monique Jackson
+National ID: 837-95-6086
+Bank: George-Reed Bank
+Account Number: 2706984719
+Consent Status: Revoked

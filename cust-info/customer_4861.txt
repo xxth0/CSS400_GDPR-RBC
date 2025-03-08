@@ -1,0 +1,6 @@
+Customer ID: 4861
+Name: Lucas Vincent
+National ID: 422-55-0121
+Bank: Brown, Peterson and Dunn Bank
+Account Number: 2862515907
+Consent Status: Revoked

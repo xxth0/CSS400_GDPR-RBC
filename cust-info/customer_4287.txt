@@ -1,0 +1,6 @@
+Customer ID: 4287
+Name: Jason Bush
+National ID: 557-74-8580
+Bank: Krueger Inc Bank
+Account Number: 1125299878
+Consent Status: Revoked

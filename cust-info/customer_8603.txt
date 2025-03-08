@@ -1,0 +1,6 @@
+Customer ID: 8603
+Name: Jeffrey Williams
+National ID: 068-88-1776
+Bank: Houston, Rich and Romero Bank
+Account Number: 5867261795
+Consent Status: Revoked

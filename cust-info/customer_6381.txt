@@ -1,0 +1,6 @@
+Customer ID: 6381
+Name: Adrian Allen
+National ID: 699-76-6138
+Bank: Hansen, Blake and Schmidt Bank
+Account Number: 5568374259
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1897
+Name: John Mathis
+National ID: 038-30-1873
+Bank: Sanchez, Smith and Bell Bank
+Account Number: 4142653564
+Consent Status: Granted

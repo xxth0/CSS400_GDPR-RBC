@@ -1,0 +1,6 @@
+Customer ID: 9015
+Name: Jesus Davis
+National ID: 212-97-2971
+Bank: Ramirez-Smith Bank
+Account Number: 2140459469
+Consent Status: Revoked

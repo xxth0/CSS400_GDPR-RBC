@@ -1,0 +1,6 @@
+Customer ID: 3691
+Name: Jeremiah Munoz
+National ID: 295-99-8287
+Bank: Juarez-Bell Bank
+Account Number: 1180027304
+Consent Status: Revoked

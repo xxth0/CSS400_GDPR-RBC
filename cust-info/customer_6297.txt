@@ -1,0 +1,6 @@
+Customer ID: 6297
+Name: Cassandra Friedman
+National ID: 022-01-6938
+Bank: Pace-Elliott Bank
+Account Number: 4981940375
+Consent Status: Revoked

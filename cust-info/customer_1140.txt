@@ -1,0 +1,6 @@
+Customer ID: 1140
+Name: Dennis Williams
+National ID: 747-98-0677
+Bank: Palmer and Sons Bank
+Account Number: 7242414422
+Consent Status: Revoked

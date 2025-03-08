@@ -1,0 +1,6 @@
+Customer ID: 7730
+Name: Charles Knapp
+National ID: 837-95-9417
+Bank: Carter, Cook and Moore Bank
+Account Number: 4148190845
+Consent Status: Granted

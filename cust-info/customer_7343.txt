@@ -1,0 +1,6 @@
+Customer ID: 7343
+Name: Holly Burnett
+National ID: 638-01-8949
+Bank: Williamson, Copeland and Rangel Bank
+Account Number: 2870684182
+Consent Status: Granted

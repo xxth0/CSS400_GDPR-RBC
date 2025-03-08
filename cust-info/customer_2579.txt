@@ -1,0 +1,6 @@
+Customer ID: 2579
+Name: John Lamb
+National ID: 395-81-5058
+Bank: Small Group Bank
+Account Number: 9093810860
+Consent Status: Granted

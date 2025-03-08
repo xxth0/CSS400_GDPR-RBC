@@ -1,0 +1,6 @@
+Customer ID: 240
+Name: Brooke Thomas
+National ID: 621-29-5755
+Bank: Lawson and Sons Bank
+Account Number: 9026231081
+Consent Status: Revoked

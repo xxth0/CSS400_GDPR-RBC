@@ -1,0 +1,6 @@
+Customer ID: 1763
+Name: Gary Cook
+National ID: 098-99-9677
+Bank: Burton-Foley Bank
+Account Number: 7708824333
+Consent Status: Revoked

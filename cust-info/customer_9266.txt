@@ -1,0 +1,6 @@
+Customer ID: 9266
+Name: Nathan Mcmillan
+National ID: 421-72-4579
+Bank: Garcia-Olson Bank
+Account Number: 1203448089
+Consent Status: Granted

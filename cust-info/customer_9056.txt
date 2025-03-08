@@ -1,0 +1,6 @@
+Customer ID: 9056
+Name: Lydia Murray
+National ID: 560-59-9254
+Bank: Jennings and Sons Bank
+Account Number: 1167678726
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1441
+Name: Michael Greene
+National ID: 268-05-4087
+Bank: Chase, Ryan and Armstrong Bank
+Account Number: 6252340161
+Consent Status: Granted

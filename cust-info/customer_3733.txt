@@ -1,0 +1,6 @@
+Customer ID: 3733
+Name: Tiffany Collins
+National ID: 612-54-4837
+Bank: Lawrence, Sherman and Perez Bank
+Account Number: 1711717439
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 245
+Name: Robin Flores
+National ID: 113-14-0162
+Bank: Lynch-Rivera Bank
+Account Number: 6382266208
+Consent Status: Granted

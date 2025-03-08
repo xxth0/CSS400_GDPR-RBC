@@ -1,0 +1,6 @@
+Customer ID: 4206
+Name: Shaun Garza
+National ID: 227-47-0109
+Bank: Walter Ltd Bank
+Account Number: 6415439746
+Consent Status: Granted

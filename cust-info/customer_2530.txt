@@ -1,0 +1,6 @@
+Customer ID: 2530
+Name: Lynn Rose
+National ID: 837-68-4047
+Bank: Greer-Guzman Bank
+Account Number: 3501819665
+Consent Status: Revoked

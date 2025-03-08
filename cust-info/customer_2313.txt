@@ -1,0 +1,6 @@
+Customer ID: 2313
+Name: Janet Owens
+National ID: 629-03-9786
+Bank: Peterson, Benitez and Nelson Bank
+Account Number: 2057939598
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5992
+Name: Carlos Crawford
+National ID: 407-76-0614
+Bank: Mccoy-Pena Bank
+Account Number: 6654714710
+Consent Status: Granted

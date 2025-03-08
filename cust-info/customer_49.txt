@@ -1,0 +1,6 @@
+Customer ID: 49
+Name: Donald Bullock
+National ID: 719-43-2422
+Bank: Weaver-Williams Bank
+Account Number: 2878773312
+Consent Status: Granted

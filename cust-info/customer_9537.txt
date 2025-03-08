@@ -1,0 +1,6 @@
+Customer ID: 9537
+Name: Samantha Carter
+National ID: 431-37-9264
+Bank: Duarte-Brooks Bank
+Account Number: 4294142502
+Consent Status: Revoked

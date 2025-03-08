@@ -1,0 +1,6 @@
+Customer ID: 6807
+Name: Amy Bowen
+National ID: 678-07-1078
+Bank: Taylor-Reynolds Bank
+Account Number: 2134509549
+Consent Status: Revoked

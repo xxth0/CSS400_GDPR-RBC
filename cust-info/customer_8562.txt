@@ -1,0 +1,6 @@
+Customer ID: 8562
+Name: Philip Barrera
+National ID: 417-85-8088
+Bank: Walker-Johnson Bank
+Account Number: 8257417632
+Consent Status: Granted

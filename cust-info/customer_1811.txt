@@ -1,0 +1,6 @@
+Customer ID: 1811
+Name: Joe Morrison
+National ID: 858-43-6656
+Bank: Brock, Cohen and Morales Bank
+Account Number: 3908930255
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1069
+Name: James Pratt
+National ID: 314-22-9971
+Bank: Anderson and Sons Bank
+Account Number: 3909899827
+Consent Status: Granted

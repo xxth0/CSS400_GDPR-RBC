@@ -1,0 +1,6 @@
+Customer ID: 2832
+Name: Karen Owen
+National ID: 789-96-9724
+Bank: Crawford, Lopez and Jimenez Bank
+Account Number: 7848905699
+Consent Status: Granted

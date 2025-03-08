@@ -1,0 +1,6 @@
+Customer ID: 7378
+Name: Patricia Fletcher
+National ID: 539-86-6132
+Bank: Meyer, Simpson and Moreno Bank
+Account Number: 2596166869
+Consent Status: Revoked

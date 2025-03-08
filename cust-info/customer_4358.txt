@@ -1,0 +1,6 @@
+Customer ID: 4358
+Name: Kevin Williams
+National ID: 734-01-3017
+Bank: Martin and Sons Bank
+Account Number: 6453313116
+Consent Status: Revoked

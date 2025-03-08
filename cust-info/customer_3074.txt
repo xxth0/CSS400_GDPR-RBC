@@ -1,0 +1,6 @@
+Customer ID: 3074
+Name: Teresa Oconnell
+National ID: 121-98-3498
+Bank: Johnson-Robles Bank
+Account Number: 2004957674
+Consent Status: Revoked

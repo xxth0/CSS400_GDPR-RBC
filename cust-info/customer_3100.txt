@@ -1,0 +1,6 @@
+Customer ID: 3100
+Name: Kevin Barnett
+National ID: 483-30-2023
+Bank: Bean, Fitzpatrick and Miles Bank
+Account Number: 5191170395
+Consent Status: Revoked

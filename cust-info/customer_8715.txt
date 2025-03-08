@@ -1,0 +1,6 @@
+Customer ID: 8715
+Name: Sara Bell
+National ID: 610-02-5321
+Bank: Jackson, Reese and Matthews Bank
+Account Number: 3672850788
+Consent Status: Revoked

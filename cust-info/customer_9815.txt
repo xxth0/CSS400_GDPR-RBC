@@ -1,0 +1,6 @@
+Customer ID: 9815
+Name: Charles Melton
+National ID: 487-79-6533
+Bank: Brown, Price and Kent Bank
+Account Number: 6410960007
+Consent Status: Revoked

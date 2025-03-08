@@ -1,0 +1,6 @@
+Customer ID: 6546
+Name: Wesley Parsons
+National ID: 120-68-1250
+Bank: Cortez, Mitchell and Carr Bank
+Account Number: 6213978338
+Consent Status: Revoked

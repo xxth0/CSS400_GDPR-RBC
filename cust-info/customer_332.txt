@@ -1,0 +1,6 @@
+Customer ID: 332
+Name: Mrs. Stephanie Pierce
+National ID: 470-88-0674
+Bank: Bennett Inc Bank
+Account Number: 9924473288
+Consent Status: Revoked

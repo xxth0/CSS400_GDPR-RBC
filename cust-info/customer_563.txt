@@ -1,0 +1,6 @@
+Customer ID: 563
+Name: Samantha Hamilton
+National ID: 554-70-4227
+Bank: Scott-Davidson Bank
+Account Number: 3218417077
+Consent Status: Granted

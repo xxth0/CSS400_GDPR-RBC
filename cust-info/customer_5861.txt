@@ -1,0 +1,6 @@
+Customer ID: 5861
+Name: Aaron Campbell
+National ID: 467-16-8162
+Bank: Hughes-Estrada Bank
+Account Number: 3133940555
+Consent Status: Granted

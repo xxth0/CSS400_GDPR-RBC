@@ -1,0 +1,6 @@
+Customer ID: 5881
+Name: Timothy Faulkner
+National ID: 559-81-7696
+Bank: Santos, Baker and Jones Bank
+Account Number: 7616177322
+Consent Status: Granted

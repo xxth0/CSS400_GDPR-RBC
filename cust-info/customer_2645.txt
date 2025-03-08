@@ -1,0 +1,6 @@
+Customer ID: 2645
+Name: Kelly Spencer
+National ID: 375-59-4189
+Bank: Mitchell Group Bank
+Account Number: 6789694941
+Consent Status: Granted

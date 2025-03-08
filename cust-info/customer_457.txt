@@ -1,0 +1,6 @@
+Customer ID: 457
+Name: Richard Forbes
+National ID: 723-14-6206
+Bank: Delacruz Inc Bank
+Account Number: 2702660572
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8378
+Name: Katherine Rodriguez
+National ID: 432-86-6517
+Bank: Byrd, Harris and Parker Bank
+Account Number: 7310182878
+Consent Status: Granted

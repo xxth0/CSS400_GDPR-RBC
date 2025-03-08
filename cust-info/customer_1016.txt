@@ -1,0 +1,6 @@
+Customer ID: 1016
+Name: Alyssa Horn
+National ID: 507-17-3730
+Bank: Byrd, Flores and Carpenter Bank
+Account Number: 8516763329
+Consent Status: Revoked

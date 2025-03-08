@@ -1,0 +1,6 @@
+Customer ID: 6365
+Name: Patrick Bailey
+National ID: 893-22-2018
+Bank: Rowe, Le and Stewart Bank
+Account Number: 9214609800
+Consent Status: Granted

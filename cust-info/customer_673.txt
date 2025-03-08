@@ -1,0 +1,6 @@
+Customer ID: 673
+Name: Christopher King
+National ID: 199-07-6560
+Bank: Davis, Jenkins and Johnson Bank
+Account Number: 9961811675
+Consent Status: Granted

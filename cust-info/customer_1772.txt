@@ -1,0 +1,6 @@
+Customer ID: 1772
+Name: Jasmine Donaldson
+National ID: 538-25-0230
+Bank: Kelley, Barnes and Douglas Bank
+Account Number: 3660079850
+Consent Status: Revoked

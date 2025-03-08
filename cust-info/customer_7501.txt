@@ -1,0 +1,6 @@
+Customer ID: 7501
+Name: Melissa Ward
+National ID: 339-86-6261
+Bank: King PLC Bank
+Account Number: 6706341702
+Consent Status: Granted

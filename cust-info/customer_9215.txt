@@ -1,0 +1,6 @@
+Customer ID: 9215
+Name: Michael Edwards
+National ID: 731-39-9315
+Bank: Smith-Bradshaw Bank
+Account Number: 7162334782
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8265
+Name: Todd Barnett
+National ID: 195-86-5700
+Bank: Miller Ltd Bank
+Account Number: 1172835175
+Consent Status: Revoked

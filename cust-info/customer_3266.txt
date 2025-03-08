@@ -1,0 +1,6 @@
+Customer ID: 3266
+Name: Jennifer Mullins
+National ID: 755-62-6420
+Bank: Hartman-Ellis Bank
+Account Number: 2275257421
+Consent Status: Granted

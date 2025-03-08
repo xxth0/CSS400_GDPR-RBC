@@ -1,0 +1,6 @@
+Customer ID: 6256
+Name: Kenneth Moore
+National ID: 285-25-4465
+Bank: Morrison-Mills Bank
+Account Number: 7968083701
+Consent Status: Revoked

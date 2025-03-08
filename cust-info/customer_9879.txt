@@ -1,0 +1,6 @@
+Customer ID: 9879
+Name: Andre Jackson
+National ID: 486-61-7265
+Bank: Glass-Gibbs Bank
+Account Number: 6167222234
+Consent Status: Revoked

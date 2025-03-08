@@ -1,0 +1,6 @@
+Customer ID: 3763
+Name: Jennifer Patton
+National ID: 341-24-0414
+Bank: Diaz Ltd Bank
+Account Number: 9350447331
+Consent Status: Revoked

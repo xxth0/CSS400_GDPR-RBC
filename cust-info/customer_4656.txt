@@ -1,0 +1,6 @@
+Customer ID: 4656
+Name: Michael Wilson
+National ID: 120-74-2662
+Bank: Ward-Patel Bank
+Account Number: 7486911697
+Consent Status: Granted

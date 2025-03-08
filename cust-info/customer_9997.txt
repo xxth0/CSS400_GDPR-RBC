@@ -1,0 +1,6 @@
+Customer ID: 9997
+Name: Christine Sanders
+National ID: 485-97-7727
+Bank: Blake, Brown and Alvarado Bank
+Account Number: 7833132108
+Consent Status: Revoked

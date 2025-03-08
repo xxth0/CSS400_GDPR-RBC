@@ -1,0 +1,6 @@
+Customer ID: 69
+Name: Bethany Perez
+National ID: 267-02-1160
+Bank: Parker, Rowland and Anthony Bank
+Account Number: 4037594957
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8135
+Name: Danielle Ruiz
+National ID: 066-17-4685
+Bank: Zimmerman, Holland and Murray Bank
+Account Number: 4877402058
+Consent Status: Revoked

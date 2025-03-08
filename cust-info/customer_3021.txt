@@ -1,0 +1,6 @@
+Customer ID: 3021
+Name: Tammy Schmidt
+National ID: 356-88-8646
+Bank: Hudson Ltd Bank
+Account Number: 8746428858
+Consent Status: Revoked

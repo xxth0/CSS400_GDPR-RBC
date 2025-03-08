@@ -1,0 +1,6 @@
+Customer ID: 790
+Name: James Miller
+National ID: 631-58-4890
+Bank: Bender LLC Bank
+Account Number: 1024771952
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6028
+Name: Gilbert Gray
+National ID: 127-33-2910
+Bank: Mcdonald-Austin Bank
+Account Number: 3956246877
+Consent Status: Revoked

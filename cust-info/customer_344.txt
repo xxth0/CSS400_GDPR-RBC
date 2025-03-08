@@ -1,0 +1,6 @@
+Customer ID: 344
+Name: Cathy Neal
+National ID: 195-31-1468
+Bank: Taylor-White Bank
+Account Number: 1801809791
+Consent Status: Granted

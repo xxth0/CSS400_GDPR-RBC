@@ -1,0 +1,6 @@
+Customer ID: 5448
+Name: James Harrison
+National ID: 888-21-1186
+Bank: Miller and Sons Bank
+Account Number: 5980208405
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 957
+Name: Marc Davis
+National ID: 036-81-2417
+Bank: Anderson LLC Bank
+Account Number: 3221320557
+Consent Status: Revoked

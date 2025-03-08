@@ -1,0 +1,6 @@
+Customer ID: 5838
+Name: Joseph Short
+National ID: 636-52-3309
+Bank: Shah, Collins and Cisneros Bank
+Account Number: 6416702278
+Consent Status: Revoked

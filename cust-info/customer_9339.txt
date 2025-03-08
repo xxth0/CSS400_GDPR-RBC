@@ -1,0 +1,6 @@
+Customer ID: 9339
+Name: James Mercer
+National ID: 757-40-2893
+Bank: Jackson and Sons Bank
+Account Number: 7234304074
+Consent Status: Granted

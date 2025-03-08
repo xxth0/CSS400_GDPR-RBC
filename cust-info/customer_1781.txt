@@ -1,0 +1,6 @@
+Customer ID: 1781
+Name: Alejandro Oliver
+National ID: 896-83-1861
+Bank: Knapp, Cervantes and James Bank
+Account Number: 9023951004
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6654
+Name: Karen Ellis
+National ID: 754-09-7679
+Bank: Johnson Inc Bank
+Account Number: 7141137021
+Consent Status: Revoked

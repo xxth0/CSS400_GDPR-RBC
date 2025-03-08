@@ -1,0 +1,6 @@
+Customer ID: 1720
+Name: Alexander Lee
+National ID: 471-64-1249
+Bank: Hampton Group Bank
+Account Number: 8546596923
+Consent Status: Revoked

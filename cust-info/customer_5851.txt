@@ -1,0 +1,6 @@
+Customer ID: 5851
+Name: Colleen Smith
+National ID: 599-03-7275
+Bank: Jones-Vaughn Bank
+Account Number: 8853056873
+Consent Status: Granted

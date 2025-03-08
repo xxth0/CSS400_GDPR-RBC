@@ -1,0 +1,6 @@
+Customer ID: 7603
+Name: Sharon Miller
+National ID: 361-18-7185
+Bank: Herrera Ltd Bank
+Account Number: 7187734247
+Consent Status: Revoked

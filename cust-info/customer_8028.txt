@@ -1,0 +1,6 @@
+Customer ID: 8028
+Name: Brittany Curry
+National ID: 115-28-7198
+Bank: Cuevas-Clark Bank
+Account Number: 9039526646
+Consent Status: Revoked

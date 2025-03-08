@@ -1,0 +1,6 @@
+Customer ID: 7725
+Name: Mike Williams
+National ID: 621-51-9044
+Bank: Ramsey-Wagner Bank
+Account Number: 4900540973
+Consent Status: Revoked

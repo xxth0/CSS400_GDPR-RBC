@@ -1,0 +1,6 @@
+Customer ID: 8369
+Name: Raymond Howard
+National ID: 795-95-2659
+Bank: Roberts-Mcmillan Bank
+Account Number: 5116599672
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6828
+Name: Martha Silva
+National ID: 070-18-9132
+Bank: Harris and Sons Bank
+Account Number: 6699739832
+Consent Status: Granted

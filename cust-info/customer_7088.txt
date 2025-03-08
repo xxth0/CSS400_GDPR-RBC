@@ -1,0 +1,6 @@
+Customer ID: 7088
+Name: Allison Sellers
+National ID: 520-12-4227
+Bank: Flowers-Wong Bank
+Account Number: 5084843373
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1426
+Name: Justin Jones
+National ID: 583-01-1554
+Bank: Bishop, Perez and Lucas Bank
+Account Number: 5492079672
+Consent Status: Revoked

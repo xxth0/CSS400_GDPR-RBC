@@ -1,0 +1,6 @@
+Customer ID: 4601
+Name: Patrick Tucker
+National ID: 244-31-2120
+Bank: Edwards, Blanchard and Conner Bank
+Account Number: 3603210539
+Consent Status: Granted

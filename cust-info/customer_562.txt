@@ -1,0 +1,6 @@
+Customer ID: 562
+Name: Dylan Williams
+National ID: 131-37-3834
+Bank: Dennis Inc Bank
+Account Number: 6944945344
+Consent Status: Revoked

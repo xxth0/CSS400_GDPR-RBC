@@ -1,0 +1,6 @@
+Customer ID: 2219
+Name: Laura Graham
+National ID: 247-38-9559
+Bank: Velazquez Ltd Bank
+Account Number: 3653048581
+Consent Status: Granted

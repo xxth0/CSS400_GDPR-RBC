@@ -1,0 +1,6 @@
+Customer ID: 3517
+Name: Charles Morgan
+National ID: 025-52-5718
+Bank: Alvarez, Jackson and Ramirez Bank
+Account Number: 9393775782
+Consent Status: Granted

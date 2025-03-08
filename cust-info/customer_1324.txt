@@ -1,0 +1,6 @@
+Customer ID: 1324
+Name: Thomas Grant
+National ID: 036-27-3182
+Bank: Manning, Arnold and Houston Bank
+Account Number: 6895131257
+Consent Status: Revoked

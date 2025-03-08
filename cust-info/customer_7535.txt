@@ -1,0 +1,6 @@
+Customer ID: 7535
+Name: Mark Lopez
+National ID: 460-87-3611
+Bank: Richardson, Smith and Boyd Bank
+Account Number: 2520911825
+Consent Status: Granted

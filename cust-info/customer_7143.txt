@@ -1,0 +1,6 @@
+Customer ID: 7143
+Name: Rebecca Hughes
+National ID: 219-01-9550
+Bank: Miller-Schmidt Bank
+Account Number: 8665449025
+Consent Status: Granted

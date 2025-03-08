@@ -1,0 +1,6 @@
+Customer ID: 1832
+Name: Scott Ramos
+National ID: 314-05-9907
+Bank: Brown, Turner and Walton Bank
+Account Number: 9353779362
+Consent Status: Granted

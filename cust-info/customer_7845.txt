@@ -1,0 +1,6 @@
+Customer ID: 7845
+Name: Rodney Floyd
+National ID: 544-33-6726
+Bank: Evans-Richardson Bank
+Account Number: 2703794631
+Consent Status: Granted

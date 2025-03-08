@@ -1,0 +1,6 @@
+Customer ID: 7068
+Name: Christopher Chang
+National ID: 011-90-1850
+Bank: Gomez Group Bank
+Account Number: 2883587878
+Consent Status: Revoked

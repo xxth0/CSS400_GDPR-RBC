@@ -1,0 +1,6 @@
+Customer ID: 7669
+Name: Scott Brown
+National ID: 878-08-4756
+Bank: Steele, Sutton and Elliott Bank
+Account Number: 8512808649
+Consent Status: Revoked

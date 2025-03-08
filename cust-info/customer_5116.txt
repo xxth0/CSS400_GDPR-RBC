@@ -1,0 +1,6 @@
+Customer ID: 5116
+Name: Marc Bishop
+National ID: 264-57-9409
+Bank: Nunez Group Bank
+Account Number: 8537377584
+Consent Status: Revoked

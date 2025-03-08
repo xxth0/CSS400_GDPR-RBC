@@ -1,0 +1,6 @@
+Customer ID: 4061
+Name: William Sawyer
+National ID: 379-43-6675
+Bank: Foster-Gill Bank
+Account Number: 3788806115
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4332
+Name: Julie Torres
+National ID: 653-14-3881
+Bank: Taylor, Adams and Smith Bank
+Account Number: 1591718707
+Consent Status: Granted

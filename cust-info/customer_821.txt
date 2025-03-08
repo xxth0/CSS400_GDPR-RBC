@@ -1,0 +1,6 @@
+Customer ID: 821
+Name: Jose Hernandez
+National ID: 221-65-7889
+Bank: Mckinney, Browning and Arroyo Bank
+Account Number: 8315201630
+Consent Status: Granted

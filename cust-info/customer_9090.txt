@@ -1,0 +1,6 @@
+Customer ID: 9090
+Name: Jeffrey Reed
+National ID: 458-87-8058
+Bank: Welch Ltd Bank
+Account Number: 2058380358
+Consent Status: Granted

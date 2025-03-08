@@ -1,0 +1,6 @@
+Customer ID: 5053
+Name: Nicole Moore
+National ID: 025-76-6814
+Bank: Grimes, Meza and Hurst Bank
+Account Number: 1899588323
+Consent Status: Granted

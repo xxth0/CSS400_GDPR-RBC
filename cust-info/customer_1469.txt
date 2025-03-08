@@ -1,0 +1,6 @@
+Customer ID: 1469
+Name: Brad Miller
+National ID: 031-77-3303
+Bank: Leblanc-Arnold Bank
+Account Number: 1081725704
+Consent Status: Revoked

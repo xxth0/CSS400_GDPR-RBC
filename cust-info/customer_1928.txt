@@ -1,0 +1,6 @@
+Customer ID: 1928
+Name: Jessica Garcia
+National ID: 633-92-5752
+Bank: Johnson LLC Bank
+Account Number: 7989765792
+Consent Status: Granted

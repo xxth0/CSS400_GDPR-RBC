@@ -1,0 +1,6 @@
+Customer ID: 5507
+Name: Alyssa Mccarty
+National ID: 367-94-6542
+Bank: Johnson LLC Bank
+Account Number: 8607737763
+Consent Status: Revoked

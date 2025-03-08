@@ -1,0 +1,6 @@
+Customer ID: 4307
+Name: Michelle Chandler
+National ID: 448-71-3134
+Bank: Hernandez, Novak and Bennett Bank
+Account Number: 5161195185
+Consent Status: Revoked

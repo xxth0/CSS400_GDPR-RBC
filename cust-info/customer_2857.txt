@@ -1,0 +1,6 @@
+Customer ID: 2857
+Name: James Fuller
+National ID: 200-30-2657
+Bank: Harmon and Sons Bank
+Account Number: 2362668676
+Consent Status: Revoked

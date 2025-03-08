@@ -1,0 +1,6 @@
+Customer ID: 6739
+Name: Sheila Schmidt
+National ID: 292-31-1419
+Bank: Graham-Holland Bank
+Account Number: 7995643304
+Consent Status: Granted

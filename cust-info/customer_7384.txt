@@ -1,0 +1,6 @@
+Customer ID: 7384
+Name: Timothy Chen
+National ID: 218-47-1430
+Bank: Marshall, Chandler and Foster Bank
+Account Number: 6732456304
+Consent Status: Granted

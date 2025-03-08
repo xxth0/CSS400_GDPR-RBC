@@ -1,0 +1,6 @@
+Customer ID: 3885
+Name: Amber Miller
+National ID: 701-34-2883
+Bank: Hernandez, Prince and Fuentes Bank
+Account Number: 7309645427
+Consent Status: Revoked

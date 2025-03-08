@@ -1,0 +1,6 @@
+Customer ID: 9178
+Name: Russell Hahn
+National ID: 065-74-0953
+Bank: Shelton-Quinn Bank
+Account Number: 6848990908
+Consent Status: Granted

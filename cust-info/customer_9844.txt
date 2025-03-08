@@ -1,0 +1,6 @@
+Customer ID: 9844
+Name: Deborah Smith
+National ID: 480-95-0013
+Bank: Flynn Ltd Bank
+Account Number: 6982942594
+Consent Status: Revoked

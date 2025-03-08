@@ -1,0 +1,6 @@
+Customer ID: 8392
+Name: John Smith
+National ID: 844-98-5649
+Bank: Gilbert-Bond Bank
+Account Number: 6393758851
+Consent Status: Granted

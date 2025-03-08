@@ -1,0 +1,6 @@
+Customer ID: 3958
+Name: John Simon
+National ID: 413-61-5565
+Bank: Young Group Bank
+Account Number: 5594194230
+Consent Status: Granted

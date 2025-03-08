@@ -1,0 +1,6 @@
+Customer ID: 6199
+Name: Andrea Ferguson
+National ID: 858-33-1305
+Bank: Chavez-Stein Bank
+Account Number: 1286715731
+Consent Status: Granted

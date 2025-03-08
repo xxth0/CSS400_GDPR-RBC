@@ -1,0 +1,6 @@
+Customer ID: 5810
+Name: Christian Vaughn
+National ID: 180-63-2740
+Bank: Lewis-Rubio Bank
+Account Number: 7619152233
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5341
+Name: John Spence
+National ID: 735-25-8352
+Bank: Murray-Garcia Bank
+Account Number: 2809810356
+Consent Status: Granted

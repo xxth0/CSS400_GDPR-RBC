@@ -1,0 +1,6 @@
+Customer ID: 6285
+Name: David Walker
+National ID: 132-15-6873
+Bank: Gilbert, Choi and Mcconnell Bank
+Account Number: 8275846110
+Consent Status: Granted

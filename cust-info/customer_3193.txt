@@ -1,0 +1,6 @@
+Customer ID: 3193
+Name: Jamie Randall
+National ID: 777-93-5061
+Bank: Brooks-Anderson Bank
+Account Number: 1518708938
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5768
+Name: Robert Hawkins
+National ID: 018-39-7827
+Bank: Castillo-Smith Bank
+Account Number: 1599283308
+Consent Status: Granted

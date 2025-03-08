@@ -1,0 +1,6 @@
+Customer ID: 1732
+Name: Alan Gonzalez
+National ID: 497-94-1840
+Bank: Moyer LLC Bank
+Account Number: 7771442441
+Consent Status: Revoked

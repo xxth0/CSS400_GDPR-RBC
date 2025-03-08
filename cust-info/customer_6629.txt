@@ -1,0 +1,6 @@
+Customer ID: 6629
+Name: Teresa Harding
+National ID: 639-25-9100
+Bank: Bennett Inc Bank
+Account Number: 6004867498
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5435
+Name: Donna Hogan
+National ID: 327-94-5757
+Bank: Barrera-Salinas Bank
+Account Number: 2746589073
+Consent Status: Revoked

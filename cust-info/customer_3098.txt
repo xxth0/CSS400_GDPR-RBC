@@ -1,0 +1,6 @@
+Customer ID: 3098
+Name: Lisa Kemp
+National ID: 272-34-0451
+Bank: Frank-Mcpherson Bank
+Account Number: 1846147716
+Consent Status: Granted

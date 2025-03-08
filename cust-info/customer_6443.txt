@@ -1,0 +1,6 @@
+Customer ID: 6443
+Name: Diane Velasquez
+National ID: 421-80-5027
+Bank: Jackson-Espinoza Bank
+Account Number: 1010757444
+Consent Status: Granted

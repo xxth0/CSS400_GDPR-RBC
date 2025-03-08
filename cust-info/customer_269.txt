@@ -1,0 +1,6 @@
+Customer ID: 269
+Name: Meghan Wilson
+National ID: 650-47-7897
+Bank: Parks, Anderson and Dawson Bank
+Account Number: 3732692437
+Consent Status: Revoked

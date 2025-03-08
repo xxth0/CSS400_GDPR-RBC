@@ -1,0 +1,6 @@
+Customer ID: 9532
+Name: Janice Williams
+National ID: 413-72-4809
+Bank: Davis, Hernandez and Reyes Bank
+Account Number: 5425934783
+Consent Status: Granted

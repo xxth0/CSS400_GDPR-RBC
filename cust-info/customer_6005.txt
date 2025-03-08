@@ -1,0 +1,6 @@
+Customer ID: 6005
+Name: John Garcia
+National ID: 020-22-2569
+Bank: Boone, Cervantes and Williams Bank
+Account Number: 3128286322
+Consent Status: Revoked

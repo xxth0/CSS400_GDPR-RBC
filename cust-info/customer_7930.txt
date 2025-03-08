@@ -1,0 +1,6 @@
+Customer ID: 7930
+Name: Amy Brown
+National ID: 230-41-4114
+Bank: Robertson Inc Bank
+Account Number: 1017249896
+Consent Status: Revoked

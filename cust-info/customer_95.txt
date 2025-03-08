@@ -1,0 +1,6 @@
+Customer ID: 95
+Name: Steven House
+National ID: 270-50-6331
+Bank: Cardenas, Bennett and Ferguson Bank
+Account Number: 1527814861
+Consent Status: Revoked

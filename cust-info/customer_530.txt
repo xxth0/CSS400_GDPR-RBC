@@ -1,0 +1,6 @@
+Customer ID: 530
+Name: Kathryn Willis
+National ID: 887-61-9512
+Bank: Richmond-Burns Bank
+Account Number: 5506986899
+Consent Status: Granted

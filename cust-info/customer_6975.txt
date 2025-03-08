@@ -1,0 +1,6 @@
+Customer ID: 6975
+Name: Eric Cobb
+National ID: 064-44-3270
+Bank: Thomas, Cohen and Wilson Bank
+Account Number: 2895733274
+Consent Status: Revoked

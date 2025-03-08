@@ -1,0 +1,6 @@
+Customer ID: 3625
+Name: Leslie Washington
+National ID: 630-30-5674
+Bank: Davidson Inc Bank
+Account Number: 8494451309
+Consent Status: Revoked

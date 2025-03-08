@@ -1,0 +1,6 @@
+Customer ID: 6517
+Name: John Bishop
+National ID: 517-08-1804
+Bank: Valencia-Buck Bank
+Account Number: 5965344678
+Consent Status: Revoked

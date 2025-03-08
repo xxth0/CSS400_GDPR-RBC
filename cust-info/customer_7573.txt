@@ -1,0 +1,6 @@
+Customer ID: 7573
+Name: Joshua Preston
+National ID: 596-60-0546
+Bank: Hicks LLC Bank
+Account Number: 8137708821
+Consent Status: Revoked

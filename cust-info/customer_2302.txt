@@ -1,0 +1,6 @@
+Customer ID: 2302
+Name: Michele Ortega
+National ID: 595-88-3281
+Bank: Rowland and Sons Bank
+Account Number: 4811225943
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1838
+Name: Sara Lucero
+National ID: 323-38-4605
+Bank: Hill-Washington Bank
+Account Number: 3312347092
+Consent Status: Revoked

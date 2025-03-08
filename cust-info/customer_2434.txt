@@ -1,0 +1,6 @@
+Customer ID: 2434
+Name: Kenneth Roach
+National ID: 213-47-3359
+Bank: Duffy Ltd Bank
+Account Number: 2636860333
+Consent Status: Granted

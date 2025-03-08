@@ -1,0 +1,6 @@
+Customer ID: 7616
+Name: Connie Barnes
+National ID: 097-56-5517
+Bank: Vargas-Mills Bank
+Account Number: 6728872197
+Consent Status: Revoked

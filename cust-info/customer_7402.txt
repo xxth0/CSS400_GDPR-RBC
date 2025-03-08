@@ -1,0 +1,6 @@
+Customer ID: 7402
+Name: Kevin Walls
+National ID: 354-36-0634
+Bank: Jones and Sons Bank
+Account Number: 7463924122
+Consent Status: Revoked

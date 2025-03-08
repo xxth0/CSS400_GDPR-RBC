@@ -1,0 +1,6 @@
+Customer ID: 5864
+Name: James Obrien
+National ID: 715-76-6613
+Bank: Taylor-Murphy Bank
+Account Number: 8214086875
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 970
+Name: Danielle Smith
+National ID: 871-01-2305
+Bank: Andrews-Burke Bank
+Account Number: 3686392806
+Consent Status: Granted

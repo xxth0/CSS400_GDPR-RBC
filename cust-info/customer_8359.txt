@@ -1,0 +1,6 @@
+Customer ID: 8359
+Name: Charles Hill
+National ID: 535-28-9287
+Bank: Pope and Sons Bank
+Account Number: 7845566106
+Consent Status: Granted

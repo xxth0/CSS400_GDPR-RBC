@@ -1,0 +1,6 @@
+Customer ID: 3256
+Name: Craig Weiss
+National ID: 579-29-6396
+Bank: Watson Group Bank
+Account Number: 4388641853
+Consent Status: Granted

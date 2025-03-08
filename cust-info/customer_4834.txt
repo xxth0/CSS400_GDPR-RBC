@@ -1,0 +1,6 @@
+Customer ID: 4834
+Name: Chad Nielsen
+National ID: 636-12-3062
+Bank: Avila, Taylor and Bowen Bank
+Account Number: 6540244000
+Consent Status: Revoked

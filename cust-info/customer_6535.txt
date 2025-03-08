@@ -1,0 +1,6 @@
+Customer ID: 6535
+Name: Joshua Carpenter
+National ID: 679-31-7020
+Bank: Tran Inc Bank
+Account Number: 7319997217
+Consent Status: Granted

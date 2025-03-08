@@ -1,0 +1,6 @@
+Customer ID: 4082
+Name: Sierra Perez
+National ID: 371-38-2737
+Bank: Hoffman, Edwards and Moore Bank
+Account Number: 9517202462
+Consent Status: Revoked

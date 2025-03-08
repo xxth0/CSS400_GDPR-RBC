@@ -1,0 +1,6 @@
+Customer ID: 4227
+Name: Grace Davis
+National ID: 757-12-9985
+Bank: Powell-Burgess Bank
+Account Number: 8029072480
+Consent Status: Granted

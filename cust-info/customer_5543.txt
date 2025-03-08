@@ -1,0 +1,6 @@
+Customer ID: 5543
+Name: Mary Williams
+National ID: 568-24-6295
+Bank: Rodriguez, Bennett and Stone Bank
+Account Number: 7604985819
+Consent Status: Revoked

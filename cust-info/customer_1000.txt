@@ -1,0 +1,6 @@
+Customer ID: 1000
+Name: Craig Allen
+National ID: 095-65-7033
+Bank: Page-Wood Bank
+Account Number: 9224150790
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1057
+Name: Jason Norton
+National ID: 759-37-4167
+Bank: Stanley-Cowan Bank
+Account Number: 4326299920
+Consent Status: Revoked

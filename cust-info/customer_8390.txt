@@ -1,0 +1,6 @@
+Customer ID: 8390
+Name: Adam Booth
+National ID: 336-31-0193
+Bank: Jackson-Higgins Bank
+Account Number: 7602212655
+Consent Status: Granted

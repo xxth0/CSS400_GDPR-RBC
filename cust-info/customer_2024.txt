@@ -1,0 +1,6 @@
+Customer ID: 2024
+Name: Sarah Snow
+National ID: 023-89-2764
+Bank: Jackson PLC Bank
+Account Number: 6303203101
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6833
+Name: Angela Perry
+National ID: 615-99-3815
+Bank: Tucker and Sons Bank
+Account Number: 8889236902
+Consent Status: Revoked

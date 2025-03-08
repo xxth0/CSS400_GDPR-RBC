@@ -1,0 +1,6 @@
+Customer ID: 7092
+Name: Vanessa Bowers
+National ID: 220-66-0883
+Bank: Martinez and Sons Bank
+Account Number: 7438995571
+Consent Status: Revoked

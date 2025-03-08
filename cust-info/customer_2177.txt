@@ -1,0 +1,6 @@
+Customer ID: 2177
+Name: Rachel Pena
+National ID: 182-28-8592
+Bank: Pacheco-Price Bank
+Account Number: 3867190896
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4990
+Name: Michael Edwards
+National ID: 518-95-9051
+Bank: Stanton-Lowe Bank
+Account Number: 6683631555
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8752
+Name: Shelby Patel
+National ID: 733-08-1742
+Bank: Wagner PLC Bank
+Account Number: 7481349052
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7877
+Name: Brianna Stevens
+National ID: 534-34-4501
+Bank: Cameron-Spencer Bank
+Account Number: 2678071211
+Consent Status: Revoked

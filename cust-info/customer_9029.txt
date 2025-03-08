@@ -1,0 +1,6 @@
+Customer ID: 9029
+Name: Zachary Johnson
+National ID: 280-66-4669
+Bank: Barker, Ross and Prince Bank
+Account Number: 3125793825
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3119
+Name: Renee Gutierrez
+National ID: 691-57-2994
+Bank: Mclean-Salazar Bank
+Account Number: 2072694795
+Consent Status: Revoked

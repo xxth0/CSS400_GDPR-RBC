@@ -1,0 +1,6 @@
+Customer ID: 1509
+Name: Calvin Yu
+National ID: 400-85-9872
+Bank: Chavez, Lynch and Davenport Bank
+Account Number: 8644646651
+Consent Status: Revoked

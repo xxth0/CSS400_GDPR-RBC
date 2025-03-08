@@ -1,0 +1,6 @@
+Customer ID: 9224
+Name: Cameron Curry
+National ID: 878-71-8277
+Bank: Aguirre and Sons Bank
+Account Number: 1150671535
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4228
+Name: Melissa Campbell
+National ID: 607-63-2943
+Bank: Norris and Sons Bank
+Account Number: 6014874563
+Consent Status: Granted

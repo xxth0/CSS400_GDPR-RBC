@@ -1,0 +1,6 @@
+Customer ID: 6430
+Name: Erik Austin
+National ID: 588-51-5557
+Bank: Shelton, Norris and Whitney Bank
+Account Number: 7884133778
+Consent Status: Revoked

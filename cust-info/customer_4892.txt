@@ -1,0 +1,6 @@
+Customer ID: 4892
+Name: Jessica Tucker
+National ID: 827-46-3237
+Bank: Perez-Baker Bank
+Account Number: 6084564475
+Consent Status: Granted

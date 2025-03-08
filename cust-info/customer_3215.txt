@@ -1,0 +1,6 @@
+Customer ID: 3215
+Name: Christopher Murphy
+National ID: 423-62-6863
+Bank: Cook, Gillespie and Norman Bank
+Account Number: 7406677443
+Consent Status: Revoked

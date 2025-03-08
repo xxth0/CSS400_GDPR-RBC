@@ -1,0 +1,6 @@
+Customer ID: 6560
+Name: Lisa Stone
+National ID: 384-03-6344
+Bank: Gonzalez Group Bank
+Account Number: 5518006521
+Consent Status: Granted

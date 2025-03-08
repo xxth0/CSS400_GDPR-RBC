@@ -1,0 +1,6 @@
+Customer ID: 3112
+Name: Jeffrey Ward
+National ID: 234-59-5128
+Bank: Brown-Alvarez Bank
+Account Number: 8866307417
+Consent Status: Granted

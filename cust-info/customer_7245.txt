@@ -1,0 +1,6 @@
+Customer ID: 7245
+Name: Omar Olsen
+National ID: 814-33-7350
+Bank: Hall Group Bank
+Account Number: 9863877602
+Consent Status: Granted

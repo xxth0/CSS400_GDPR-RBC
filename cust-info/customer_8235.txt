@@ -1,0 +1,6 @@
+Customer ID: 8235
+Name: Steven Gonzalez
+National ID: 867-83-0498
+Bank: Flynn, Fox and Garcia Bank
+Account Number: 8450232526
+Consent Status: Revoked

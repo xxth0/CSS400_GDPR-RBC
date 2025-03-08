@@ -1,0 +1,6 @@
+Customer ID: 4312
+Name: Nathan Hopkins
+National ID: 118-31-6033
+Bank: Summers-Austin Bank
+Account Number: 6657892938
+Consent Status: Revoked

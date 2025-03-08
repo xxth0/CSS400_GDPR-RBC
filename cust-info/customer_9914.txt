@@ -1,0 +1,6 @@
+Customer ID: 9914
+Name: Timothy Glass
+National ID: 191-63-8009
+Bank: Caldwell, Love and Park Bank
+Account Number: 4235527355
+Consent Status: Granted

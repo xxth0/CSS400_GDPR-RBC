@@ -1,0 +1,6 @@
+Customer ID: 549
+Name: Stephanie Patterson
+National ID: 181-61-6732
+Bank: Barber Group Bank
+Account Number: 3380562053
+Consent Status: Granted

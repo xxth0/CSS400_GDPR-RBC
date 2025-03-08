@@ -1,0 +1,6 @@
+Customer ID: 5959
+Name: Gregory Johnston
+National ID: 183-61-7263
+Bank: Kramer Group Bank
+Account Number: 3675108076
+Consent Status: Granted

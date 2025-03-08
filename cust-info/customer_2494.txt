@@ -1,0 +1,6 @@
+Customer ID: 2494
+Name: Melody Mckinney
+National ID: 589-71-4928
+Bank: Becker Inc Bank
+Account Number: 2683288223
+Consent Status: Revoked

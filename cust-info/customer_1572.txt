@@ -1,0 +1,6 @@
+Customer ID: 1572
+Name: Cynthia Campbell
+National ID: 214-95-2615
+Bank: Turner-Rodriguez Bank
+Account Number: 8572020824
+Consent Status: Revoked

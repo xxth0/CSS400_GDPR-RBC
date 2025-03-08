@@ -1,0 +1,6 @@
+Customer ID: 164
+Name: Michael Allen
+National ID: 850-26-3565
+Bank: Diaz-Simon Bank
+Account Number: 4684983581
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2203
+Name: Rebecca Little
+National ID: 279-51-5189
+Bank: Ray, Miranda and Fleming Bank
+Account Number: 3096166178
+Consent Status: Granted

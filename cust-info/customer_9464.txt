@@ -1,0 +1,6 @@
+Customer ID: 9464
+Name: Tammy Jackson
+National ID: 503-42-3059
+Bank: Sanchez-Romero Bank
+Account Number: 7536657742
+Consent Status: Granted

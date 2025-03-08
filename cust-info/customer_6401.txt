@@ -1,0 +1,6 @@
+Customer ID: 6401
+Name: Terry Patton
+National ID: 638-05-4725
+Bank: Cohen-Vega Bank
+Account Number: 9411039984
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1845
+Name: Jonathan Wright
+National ID: 029-51-0573
+Bank: Tucker and Sons Bank
+Account Number: 9272854148
+Consent Status: Granted

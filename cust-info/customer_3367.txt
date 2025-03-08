@@ -1,0 +1,6 @@
+Customer ID: 3367
+Name: Veronica Shaw
+National ID: 555-67-3873
+Bank: Robertson and Sons Bank
+Account Number: 2547414214
+Consent Status: Granted

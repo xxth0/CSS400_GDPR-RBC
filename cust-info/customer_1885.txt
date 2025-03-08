@@ -1,0 +1,6 @@
+Customer ID: 1885
+Name: Pamela Zamora
+National ID: 681-47-8028
+Bank: Park, Odom and Morton Bank
+Account Number: 2380065224
+Consent Status: Revoked

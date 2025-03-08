@@ -1,0 +1,6 @@
+Customer ID: 9819
+Name: Misty Schultz
+National ID: 812-09-2552
+Bank: Velez, Mendoza and Alexander Bank
+Account Number: 5948183757
+Consent Status: Revoked

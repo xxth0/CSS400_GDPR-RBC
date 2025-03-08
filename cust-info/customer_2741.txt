@@ -1,0 +1,6 @@
+Customer ID: 2741
+Name: Mark Edwards
+National ID: 092-81-3124
+Bank: Rodriguez-Bradley Bank
+Account Number: 4928301297
+Consent Status: Granted

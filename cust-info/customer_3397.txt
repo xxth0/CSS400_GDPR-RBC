@@ -1,0 +1,6 @@
+Customer ID: 3397
+Name: Kevin Cole
+National ID: 476-26-3953
+Bank: Ferrell, Davis and Cook Bank
+Account Number: 2287295852
+Consent Status: Granted

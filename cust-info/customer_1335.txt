@@ -1,0 +1,6 @@
+Customer ID: 1335
+Name: Vanessa Cline
+National ID: 480-75-2346
+Bank: Taylor, Flynn and Mosley Bank
+Account Number: 2966274271
+Consent Status: Granted

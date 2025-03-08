@@ -1,0 +1,6 @@
+Customer ID: 1728
+Name: Gina Scott
+National ID: 131-02-5063
+Bank: Gonzales Ltd Bank
+Account Number: 5037568554
+Consent Status: Granted

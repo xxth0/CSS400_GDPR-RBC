@@ -1,0 +1,6 @@
+Customer ID: 6875
+Name: Mark Murillo
+National ID: 602-89-3419
+Bank: Klein, Estes and Weber Bank
+Account Number: 9078554045
+Consent Status: Revoked

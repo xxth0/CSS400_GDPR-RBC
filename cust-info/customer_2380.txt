@@ -1,0 +1,6 @@
+Customer ID: 2380
+Name: Joyce Ruiz
+National ID: 793-22-1479
+Bank: Armstrong Group Bank
+Account Number: 3077622302
+Consent Status: Granted

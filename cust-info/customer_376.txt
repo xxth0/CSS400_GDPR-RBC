@@ -1,0 +1,6 @@
+Customer ID: 376
+Name: Taylor Brooks
+National ID: 411-53-9549
+Bank: Miller, Nguyen and Blackwell Bank
+Account Number: 1376020277
+Consent Status: Revoked

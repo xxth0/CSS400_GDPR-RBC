@@ -1,0 +1,6 @@
+Customer ID: 3898
+Name: Andrew Mendez
+National ID: 303-22-7879
+Bank: Hill PLC Bank
+Account Number: 6113865085
+Consent Status: Granted

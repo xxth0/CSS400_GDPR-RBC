@@ -1,0 +1,6 @@
+Customer ID: 7095
+Name: Patrick Gardner
+National ID: 766-82-5371
+Bank: Hernandez-Bell Bank
+Account Number: 2589737496
+Consent Status: Revoked

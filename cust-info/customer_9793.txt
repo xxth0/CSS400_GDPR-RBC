@@ -1,0 +1,6 @@
+Customer ID: 9793
+Name: Billy Koch
+National ID: 172-09-4564
+Bank: Snyder Ltd Bank
+Account Number: 3518888838
+Consent Status: Granted

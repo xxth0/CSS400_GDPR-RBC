@@ -1,0 +1,6 @@
+Customer ID: 2718
+Name: Darren Atkins
+National ID: 507-89-5784
+Bank: Williams, Scott and Warner Bank
+Account Number: 6461788397
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4648
+Name: Steven Moore
+National ID: 022-45-4029
+Bank: Avila, Conner and Taylor Bank
+Account Number: 2066943350
+Consent Status: Revoked

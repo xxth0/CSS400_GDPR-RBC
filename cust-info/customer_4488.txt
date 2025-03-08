@@ -1,0 +1,6 @@
+Customer ID: 4488
+Name: Cassandra Moore
+National ID: 065-54-3125
+Bank: Santiago, Kerr and Davis Bank
+Account Number: 3225237675
+Consent Status: Granted

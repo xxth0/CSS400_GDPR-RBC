@@ -1,0 +1,6 @@
+Customer ID: 3897
+Name: Gabriel Cisneros
+National ID: 430-74-7939
+Bank: Banks-Nguyen Bank
+Account Number: 1995824703
+Consent Status: Granted

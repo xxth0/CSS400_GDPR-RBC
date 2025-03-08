@@ -1,0 +1,6 @@
+Customer ID: 8879
+Name: Duane Peterson
+National ID: 725-58-7668
+Bank: Adams, Chavez and Santiago Bank
+Account Number: 6876644492
+Consent Status: Revoked

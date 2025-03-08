@@ -1,0 +1,6 @@
+Customer ID: 5489
+Name: Darrell Lee
+National ID: 898-69-0877
+Bank: Bishop PLC Bank
+Account Number: 1753716258
+Consent Status: Granted

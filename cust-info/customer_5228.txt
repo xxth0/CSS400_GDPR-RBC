@@ -1,0 +1,6 @@
+Customer ID: 5228
+Name: Amanda Stewart
+National ID: 329-23-8450
+Bank: Johnson, Rodriguez and Ali Bank
+Account Number: 8293211971
+Consent Status: Granted

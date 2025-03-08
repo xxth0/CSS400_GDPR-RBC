@@ -1,0 +1,6 @@
+Customer ID: 9992
+Name: Patrick Ruiz
+National ID: 775-97-6645
+Bank: Blake-Harris Bank
+Account Number: 3691537098
+Consent Status: Granted

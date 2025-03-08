@@ -1,0 +1,6 @@
+Customer ID: 8938
+Name: Sandra Camacho
+National ID: 463-08-1526
+Bank: Wheeler, Lopez and Hood Bank
+Account Number: 8184708860
+Consent Status: Revoked

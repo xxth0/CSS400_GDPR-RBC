@@ -1,0 +1,6 @@
+Customer ID: 5572
+Name: Thomas Jensen
+National ID: 537-17-5075
+Bank: Jackson-Davis Bank
+Account Number: 8761904964
+Consent Status: Revoked

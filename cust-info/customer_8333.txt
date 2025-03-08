@@ -1,0 +1,6 @@
+Customer ID: 8333
+Name: Valerie Golden
+National ID: 444-17-7391
+Bank: Cole-Williams Bank
+Account Number: 9863043862
+Consent Status: Revoked

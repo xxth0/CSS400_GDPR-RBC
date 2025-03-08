@@ -1,0 +1,6 @@
+Customer ID: 9850
+Name: Mrs. Julia Rodriguez
+National ID: 447-66-3638
+Bank: Dennis, Woodward and Carey Bank
+Account Number: 2433082519
+Consent Status: Granted

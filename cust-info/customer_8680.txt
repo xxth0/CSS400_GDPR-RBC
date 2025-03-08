@@ -1,0 +1,6 @@
+Customer ID: 8680
+Name: Austin Williamson III
+National ID: 227-02-6033
+Bank: Holmes-Castillo Bank
+Account Number: 7136737197
+Consent Status: Granted

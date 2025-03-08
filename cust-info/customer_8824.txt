@@ -1,0 +1,6 @@
+Customer ID: 8824
+Name: Charles Schmitt
+National ID: 805-50-6573
+Bank: Bush, Maldonado and Coleman Bank
+Account Number: 9354226769
+Consent Status: Revoked

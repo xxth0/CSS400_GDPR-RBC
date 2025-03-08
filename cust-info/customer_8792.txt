@@ -1,0 +1,6 @@
+Customer ID: 8792
+Name: Joseph Parker
+National ID: 313-46-0673
+Bank: Brown, Foley and Pena Bank
+Account Number: 8549867210
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3730
+Name: Dennis Anderson
+National ID: 785-61-5992
+Bank: Cox-Smith Bank
+Account Number: 3655106900
+Consent Status: Granted

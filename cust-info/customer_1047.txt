@@ -1,0 +1,6 @@
+Customer ID: 1047
+Name: Elizabeth Bradshaw
+National ID: 775-21-5725
+Bank: Sheppard, Combs and Foster Bank
+Account Number: 2570632242
+Consent Status: Granted

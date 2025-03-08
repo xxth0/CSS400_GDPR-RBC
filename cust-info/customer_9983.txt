@@ -1,0 +1,6 @@
+Customer ID: 9983
+Name: Kyle Gibbs
+National ID: 671-93-4494
+Bank: Lewis-Moore Bank
+Account Number: 8582481584
+Consent Status: Granted

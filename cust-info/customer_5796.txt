@@ -1,0 +1,6 @@
+Customer ID: 5796
+Name: Zachary Phillips
+National ID: 483-04-1903
+Bank: Martinez LLC Bank
+Account Number: 4563940453
+Consent Status: Revoked

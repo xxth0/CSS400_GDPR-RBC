@@ -1,0 +1,6 @@
+Customer ID: 4998
+Name: Jason Roberts
+National ID: 440-45-6758
+Bank: Roberts-Lopez Bank
+Account Number: 7849761048
+Consent Status: Granted

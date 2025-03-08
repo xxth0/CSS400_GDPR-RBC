@@ -1,0 +1,6 @@
+Customer ID: 3060
+Name: Ruth Mcbride
+National ID: 673-79-5026
+Bank: Curtis, Richardson and Fisher Bank
+Account Number: 8839434631
+Consent Status: Granted

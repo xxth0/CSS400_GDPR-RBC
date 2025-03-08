@@ -1,0 +1,6 @@
+Customer ID: 9314
+Name: Jennifer Walker
+National ID: 857-89-4105
+Bank: Jimenez-Wood Bank
+Account Number: 2457917322
+Consent Status: Granted

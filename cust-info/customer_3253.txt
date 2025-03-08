@@ -1,0 +1,6 @@
+Customer ID: 3253
+Name: April Crawford
+National ID: 193-56-7668
+Bank: Scott Group Bank
+Account Number: 5114334612
+Consent Status: Revoked

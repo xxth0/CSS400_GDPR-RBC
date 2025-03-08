@@ -1,0 +1,6 @@
+Customer ID: 460
+Name: Christopher Scott
+National ID: 758-85-5020
+Bank: Mcclain-Lawson Bank
+Account Number: 6446445976
+Consent Status: Revoked

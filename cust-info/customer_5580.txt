@@ -1,0 +1,6 @@
+Customer ID: 5580
+Name: Laura Nunez
+National ID: 055-08-1908
+Bank: Juarez and Sons Bank
+Account Number: 9466707063
+Consent Status: Granted

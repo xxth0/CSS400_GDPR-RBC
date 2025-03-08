@@ -1,0 +1,6 @@
+Customer ID: 4550
+Name: Matthew Carter
+National ID: 822-52-2713
+Bank: Carlson Inc Bank
+Account Number: 2049647715
+Consent Status: Revoked

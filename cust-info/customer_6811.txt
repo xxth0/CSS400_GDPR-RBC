@@ -1,0 +1,6 @@
+Customer ID: 6811
+Name: Kelli Ramirez
+National ID: 030-96-9199
+Bank: Houston-Gilbert Bank
+Account Number: 6068212336
+Consent Status: Revoked

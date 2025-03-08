@@ -1,0 +1,6 @@
+Customer ID: 9168
+Name: Stephanie George
+National ID: 554-22-0810
+Bank: Joseph, Klein and Wiley Bank
+Account Number: 3491649530
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4438
+Name: Erin Fitzgerald
+National ID: 803-82-9234
+Bank: Weber Group Bank
+Account Number: 2738399983
+Consent Status: Revoked

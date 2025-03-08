@@ -1,0 +1,6 @@
+Customer ID: 7058
+Name: Samuel Webster
+National ID: 013-45-9019
+Bank: Chaney, Gaines and Garcia Bank
+Account Number: 5252793192
+Consent Status: Revoked

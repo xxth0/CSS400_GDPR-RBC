@@ -1,0 +1,6 @@
+Customer ID: 8902
+Name: Amy Franklin
+National ID: 537-58-8231
+Bank: Moore-Sanchez Bank
+Account Number: 1900049261
+Consent Status: Revoked

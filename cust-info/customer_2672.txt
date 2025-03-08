@@ -1,0 +1,6 @@
+Customer ID: 2672
+Name: Clarence Keith
+National ID: 260-02-9358
+Bank: Moreno, Allen and Allison Bank
+Account Number: 3077615064
+Consent Status: Revoked

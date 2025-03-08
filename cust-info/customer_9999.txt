@@ -1,0 +1,6 @@
+Customer ID: 9999
+Name: Andrew Ward
+National ID: 422-29-3926
+Bank: George-Williams Bank
+Account Number: 6204710156
+Consent Status: Granted

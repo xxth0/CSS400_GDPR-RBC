@@ -1,0 +1,6 @@
+Customer ID: 3555
+Name: Michael Roy
+National ID: 776-38-9119
+Bank: Shah, Brown and Kaufman Bank
+Account Number: 3012550495
+Consent Status: Granted

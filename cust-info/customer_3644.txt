@@ -1,0 +1,6 @@
+Customer ID: 3644
+Name: Brandon Maddox
+National ID: 168-15-7243
+Bank: Terry-Gonzalez Bank
+Account Number: 6661742918
+Consent Status: Granted

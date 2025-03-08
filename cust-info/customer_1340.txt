@@ -1,0 +1,6 @@
+Customer ID: 1340
+Name: Ann Mcdaniel
+National ID: 838-67-5001
+Bank: Jones Group Bank
+Account Number: 5628774402
+Consent Status: Granted

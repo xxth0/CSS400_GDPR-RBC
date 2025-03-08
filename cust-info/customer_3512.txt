@@ -1,0 +1,6 @@
+Customer ID: 3512
+Name: Valerie Elliott
+National ID: 300-50-5482
+Bank: Gray and Sons Bank
+Account Number: 9522830434
+Consent Status: Granted

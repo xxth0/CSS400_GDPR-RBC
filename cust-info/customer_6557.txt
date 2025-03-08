@@ -1,0 +1,6 @@
+Customer ID: 6557
+Name: Jeremy Vazquez
+National ID: 357-63-8410
+Bank: Robinson-Hernandez Bank
+Account Number: 7786535710
+Consent Status: Revoked

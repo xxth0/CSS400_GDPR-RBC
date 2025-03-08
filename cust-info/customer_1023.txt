@@ -1,0 +1,6 @@
+Customer ID: 1023
+Name: Cheryl Hernandez
+National ID: 601-33-1577
+Bank: Mccormick, Larson and Miller Bank
+Account Number: 5657527163
+Consent Status: Revoked

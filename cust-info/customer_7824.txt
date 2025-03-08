@@ -1,0 +1,6 @@
+Customer ID: 7824
+Name: Edward Cox
+National ID: 169-03-3472
+Bank: Garcia, Wood and Perez Bank
+Account Number: 2409090577
+Consent Status: Granted

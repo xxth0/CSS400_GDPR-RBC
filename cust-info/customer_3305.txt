@@ -1,0 +1,6 @@
+Customer ID: 3305
+Name: Gerald Harrington
+National ID: 020-42-6610
+Bank: Ferguson, Garcia and Howe Bank
+Account Number: 4238832339
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5440
+Name: Christopher Brown
+National ID: 044-88-9411
+Bank: Burke-Lopez Bank
+Account Number: 6434228928
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4198
+Name: Nathan Williams
+National ID: 298-47-2087
+Bank: Fox, Compton and Hernandez Bank
+Account Number: 2695174061
+Consent Status: Revoked

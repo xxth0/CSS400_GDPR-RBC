@@ -1,0 +1,6 @@
+Customer ID: 1735
+Name: Ryan Miller
+National ID: 586-34-0928
+Bank: Bautista LLC Bank
+Account Number: 7857567871
+Consent Status: Granted

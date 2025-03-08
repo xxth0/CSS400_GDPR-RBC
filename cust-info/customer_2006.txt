@@ -1,0 +1,6 @@
+Customer ID: 2006
+Name: Linda Fisher
+National ID: 131-51-6607
+Bank: Smith, Cardenas and White Bank
+Account Number: 4406885082
+Consent Status: Granted

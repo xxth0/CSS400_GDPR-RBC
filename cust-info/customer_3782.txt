@@ -1,0 +1,6 @@
+Customer ID: 3782
+Name: Heather Spencer
+National ID: 025-59-2353
+Bank: Garcia, Curry and Smith Bank
+Account Number: 3251188892
+Consent Status: Revoked

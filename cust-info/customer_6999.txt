@@ -1,0 +1,6 @@
+Customer ID: 6999
+Name: Stacy Lawrence
+National ID: 698-74-4670
+Bank: Crawford PLC Bank
+Account Number: 2215857412
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9280
+Name: Jessica Perez
+National ID: 698-23-6920
+Bank: Kim PLC Bank
+Account Number: 5457306965
+Consent Status: Granted

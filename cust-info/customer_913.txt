@@ -1,0 +1,6 @@
+Customer ID: 913
+Name: Danielle Oneal
+National ID: 554-12-8697
+Bank: Cooper PLC Bank
+Account Number: 4788078084
+Consent Status: Revoked

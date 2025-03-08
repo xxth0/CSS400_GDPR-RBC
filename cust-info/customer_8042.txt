@@ -1,0 +1,6 @@
+Customer ID: 8042
+Name: Samantha Avila
+National ID: 292-64-2619
+Bank: Lewis Group Bank
+Account Number: 1645158144
+Consent Status: Revoked

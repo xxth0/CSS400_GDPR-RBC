@@ -1,0 +1,6 @@
+Customer ID: 9996
+Name: Rhonda Weber
+National ID: 167-87-0941
+Bank: Friedman, Walsh and Gibson Bank
+Account Number: 5613092948
+Consent Status: Granted

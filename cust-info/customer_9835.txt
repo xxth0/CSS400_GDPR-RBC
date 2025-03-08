@@ -1,0 +1,6 @@
+Customer ID: 9835
+Name: John Campbell
+National ID: 032-97-5135
+Bank: James-King Bank
+Account Number: 6629896894
+Consent Status: Granted

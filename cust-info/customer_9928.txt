@@ -1,0 +1,6 @@
+Customer ID: 9928
+Name: Anna Caldwell
+National ID: 838-08-3540
+Bank: Diaz-Avila Bank
+Account Number: 7640198210
+Consent Status: Revoked

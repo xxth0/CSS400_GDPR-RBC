@@ -1,0 +1,6 @@
+Customer ID: 6732
+Name: Justin Freeman
+National ID: 335-16-8568
+Bank: Roach Inc Bank
+Account Number: 4678493430
+Consent Status: Revoked

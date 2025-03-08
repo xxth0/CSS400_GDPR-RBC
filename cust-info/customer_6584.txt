@@ -1,0 +1,6 @@
+Customer ID: 6584
+Name: Chelsea Medina
+National ID: 621-83-8716
+Bank: Singh, Knapp and Stout Bank
+Account Number: 4910919340
+Consent Status: Granted

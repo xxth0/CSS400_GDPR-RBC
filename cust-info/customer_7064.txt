@@ -1,0 +1,6 @@
+Customer ID: 7064
+Name: Megan Tucker
+National ID: 735-13-1333
+Bank: Walker-Neal Bank
+Account Number: 4497125950
+Consent Status: Granted

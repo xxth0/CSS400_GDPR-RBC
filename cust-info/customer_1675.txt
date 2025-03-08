@@ -1,0 +1,6 @@
+Customer ID: 1675
+Name: Michael Bautista DVM
+National ID: 048-29-5696
+Bank: Howard, Miller and Santiago Bank
+Account Number: 2047804581
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1534
+Name: Rodney Walls
+National ID: 824-79-6812
+Bank: Griffith, Kim and Baker Bank
+Account Number: 1046124551
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6475
+Name: Amber Gutierrez
+National ID: 102-22-0163
+Bank: Moore, Larsen and Lopez Bank
+Account Number: 7283232190
+Consent Status: Revoked

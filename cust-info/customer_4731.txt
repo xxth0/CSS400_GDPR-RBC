@@ -1,0 +1,6 @@
+Customer ID: 4731
+Name: Richard Green
+National ID: 862-47-6605
+Bank: Lane, Miller and Coleman Bank
+Account Number: 7061876906
+Consent Status: Revoked

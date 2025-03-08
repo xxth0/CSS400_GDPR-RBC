@@ -1,0 +1,6 @@
+Customer ID: 8753
+Name: John Gonzales
+National ID: 881-21-2606
+Bank: Davis-Mcknight Bank
+Account Number: 5650502180
+Consent Status: Granted

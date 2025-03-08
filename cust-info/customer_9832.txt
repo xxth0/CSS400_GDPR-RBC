@@ -1,0 +1,6 @@
+Customer ID: 9832
+Name: Karen Hall
+National ID: 611-34-1174
+Bank: Cooper, Martin and Pearson Bank
+Account Number: 3555411930
+Consent Status: Granted

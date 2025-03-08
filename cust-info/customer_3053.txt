@@ -1,0 +1,6 @@
+Customer ID: 3053
+Name: Gabriel Delgado
+National ID: 326-66-7994
+Bank: Murray, Johnson and Johnson Bank
+Account Number: 8736677301
+Consent Status: Revoked

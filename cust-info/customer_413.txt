@@ -1,0 +1,6 @@
+Customer ID: 413
+Name: Erica Lee
+National ID: 183-36-7980
+Bank: Benson and Sons Bank
+Account Number: 9890291836
+Consent Status: Revoked

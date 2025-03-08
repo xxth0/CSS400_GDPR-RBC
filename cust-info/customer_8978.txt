@@ -1,0 +1,6 @@
+Customer ID: 8978
+Name: James Davis
+National ID: 847-58-3358
+Bank: Johnson-Kemp Bank
+Account Number: 7207958030
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6993
+Name: Paula Clements
+National ID: 095-14-4143
+Bank: Jones, Richards and Gutierrez Bank
+Account Number: 9610903530
+Consent Status: Revoked

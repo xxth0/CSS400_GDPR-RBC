@@ -1,0 +1,6 @@
+Customer ID: 5364
+Name: Daniel Reynolds
+National ID: 585-37-9190
+Bank: Padilla, Archer and Patrick Bank
+Account Number: 7748195848
+Consent Status: Revoked

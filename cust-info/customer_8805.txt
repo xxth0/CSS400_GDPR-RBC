@@ -1,0 +1,6 @@
+Customer ID: 8805
+Name: Lisa Guerrero
+National ID: 199-63-5544
+Bank: Gill-Lewis Bank
+Account Number: 5987852207
+Consent Status: Granted

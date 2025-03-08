@@ -1,0 +1,6 @@
+Customer ID: 1209
+Name: Angela Chapman
+National ID: 144-77-0628
+Bank: Holt, Miller and Greer Bank
+Account Number: 4486678424
+Consent Status: Revoked

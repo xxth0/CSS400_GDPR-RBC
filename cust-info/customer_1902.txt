@@ -1,0 +1,6 @@
+Customer ID: 1902
+Name: Phillip Baird
+National ID: 612-15-1900
+Bank: Sharp Inc Bank
+Account Number: 1254201992
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1382
+Name: Brandon Davis
+National ID: 073-54-7443
+Bank: Copeland-Owens Bank
+Account Number: 5104611498
+Consent Status: Revoked

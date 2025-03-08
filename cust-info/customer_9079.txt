@@ -1,0 +1,6 @@
+Customer ID: 9079
+Name: Bethany Harris
+National ID: 544-78-8453
+Bank: Cardenas Ltd Bank
+Account Number: 2692475720
+Consent Status: Revoked

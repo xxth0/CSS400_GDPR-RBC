@@ -1,0 +1,6 @@
+Customer ID: 2641
+Name: Laura Hayes
+National ID: 846-67-4109
+Bank: Morgan-Vaughn Bank
+Account Number: 7817130483
+Consent Status: Revoked

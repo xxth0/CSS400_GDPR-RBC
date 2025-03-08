@@ -1,0 +1,6 @@
+Customer ID: 286
+Name: Shelly Gallagher
+National ID: 720-03-6502
+Bank: Gilbert, Jones and Zimmerman Bank
+Account Number: 3662963548
+Consent Status: Revoked

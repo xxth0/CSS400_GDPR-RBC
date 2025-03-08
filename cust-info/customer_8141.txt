@@ -1,0 +1,6 @@
+Customer ID: 8141
+Name: Albert Mcdonald
+National ID: 007-93-0649
+Bank: Lynch Ltd Bank
+Account Number: 4152870889
+Consent Status: Revoked

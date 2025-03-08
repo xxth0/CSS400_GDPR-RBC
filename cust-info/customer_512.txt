@@ -1,0 +1,6 @@
+Customer ID: 512
+Name: Amy Garcia
+National ID: 048-62-0990
+Bank: Villarreal-Armstrong Bank
+Account Number: 7288668014
+Consent Status: Revoked

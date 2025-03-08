@@ -1,0 +1,6 @@
+Customer ID: 4543
+Name: Veronica Carter
+National ID: 235-48-3709
+Bank: Cabrera, Smith and Thomas Bank
+Account Number: 3959439477
+Consent Status: Revoked

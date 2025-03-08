@@ -1,0 +1,6 @@
+Customer ID: 4734
+Name: Christopher Bell
+National ID: 529-41-5632
+Bank: Olsen-Jones Bank
+Account Number: 6174867687
+Consent Status: Revoked

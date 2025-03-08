@@ -1,0 +1,6 @@
+Customer ID: 9634
+Name: Maria Wells
+National ID: 201-53-3265
+Bank: Graham Group Bank
+Account Number: 2746144735
+Consent Status: Granted

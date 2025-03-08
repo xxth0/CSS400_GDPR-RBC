@@ -1,0 +1,6 @@
+Customer ID: 8081
+Name: Kathleen Jordan
+National ID: 013-20-6430
+Bank: Hubbard-Hernandez Bank
+Account Number: 6621765054
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3422
+Name: Ashley Palmer PhD
+National ID: 109-31-2590
+Bank: Lowery PLC Bank
+Account Number: 9294906558
+Consent Status: Revoked

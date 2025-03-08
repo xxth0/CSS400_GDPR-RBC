@@ -1,0 +1,6 @@
+Customer ID: 6250
+Name: Justin Pacheco
+National ID: 340-30-5920
+Bank: Carter LLC Bank
+Account Number: 4641311885
+Consent Status: Revoked

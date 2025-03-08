@@ -1,0 +1,6 @@
+Customer ID: 4805
+Name: Erin Miranda
+National ID: 545-59-3636
+Bank: Higgins, Dennis and Rodriguez Bank
+Account Number: 3835184978
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9003
+Name: Hannah Peterson
+National ID: 616-63-8791
+Bank: Whitaker-Wright Bank
+Account Number: 3247587551
+Consent Status: Revoked

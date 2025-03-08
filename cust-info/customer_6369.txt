@@ -1,0 +1,6 @@
+Customer ID: 6369
+Name: Jeremiah Scott
+National ID: 817-06-6974
+Bank: Evans Ltd Bank
+Account Number: 5311752133
+Consent Status: Granted

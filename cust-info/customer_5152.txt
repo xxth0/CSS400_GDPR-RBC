@@ -1,0 +1,6 @@
+Customer ID: 5152
+Name: Steven Reid
+National ID: 424-56-0891
+Bank: Vasquez, Garcia and Strong Bank
+Account Number: 2245181903
+Consent Status: Revoked

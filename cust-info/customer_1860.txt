@@ -1,0 +1,6 @@
+Customer ID: 1860
+Name: Connor Branch
+National ID: 752-93-4023
+Bank: Cook, Bender and Payne Bank
+Account Number: 3197993531
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2847
+Name: Tracy Martinez
+National ID: 068-87-2709
+Bank: Payne and Sons Bank
+Account Number: 8493573174
+Consent Status: Revoked

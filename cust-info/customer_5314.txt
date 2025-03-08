@@ -1,0 +1,6 @@
+Customer ID: 5314
+Name: Brittany Hicks
+National ID: 670-14-8140
+Bank: Ayala LLC Bank
+Account Number: 2283211754
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6507
+Name: Cheryl Zimmerman
+National ID: 107-23-5539
+Bank: Edwards-Freeman Bank
+Account Number: 6357169501
+Consent Status: Granted

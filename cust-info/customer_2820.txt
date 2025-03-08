@@ -1,0 +1,6 @@
+Customer ID: 2820
+Name: Elizabeth Davis
+National ID: 827-12-6606
+Bank: Valdez Inc Bank
+Account Number: 1761474598
+Consent Status: Revoked

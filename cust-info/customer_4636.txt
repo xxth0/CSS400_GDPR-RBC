@@ -1,0 +1,6 @@
+Customer ID: 4636
+Name: Leslie Garcia
+National ID: 532-21-2243
+Bank: White PLC Bank
+Account Number: 1753121997
+Consent Status: Granted

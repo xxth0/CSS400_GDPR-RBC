@@ -1,0 +1,6 @@
+Customer ID: 6436
+Name: Kevin Potts
+National ID: 069-67-9033
+Bank: Fitzpatrick Inc Bank
+Account Number: 3224107609
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7849
+Name: Bobby Wall
+National ID: 119-35-5516
+Bank: Bush PLC Bank
+Account Number: 2390574005
+Consent Status: Revoked

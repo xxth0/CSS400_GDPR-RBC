@@ -1,0 +1,6 @@
+Customer ID: 7977
+Name: Bryan Brown
+National ID: 639-60-6902
+Bank: Hardy Inc Bank
+Account Number: 1815413400
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7519
+Name: Amy Brown
+National ID: 696-68-1796
+Bank: Sweeney, Oconnor and Foley Bank
+Account Number: 4327128373
+Consent Status: Granted

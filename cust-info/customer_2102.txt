@@ -1,0 +1,6 @@
+Customer ID: 2102
+Name: Victoria Martin
+National ID: 623-24-3680
+Bank: Roberts and Sons Bank
+Account Number: 3806918714
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8007
+Name: Theresa Wright DDS
+National ID: 786-17-0958
+Bank: Nelson PLC Bank
+Account Number: 5540175872
+Consent Status: Revoked

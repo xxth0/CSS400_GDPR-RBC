@@ -1,0 +1,6 @@
+Customer ID: 1679
+Name: Rebecca Parks DVM
+National ID: 544-48-7336
+Bank: Schneider Ltd Bank
+Account Number: 9331555856
+Consent Status: Revoked

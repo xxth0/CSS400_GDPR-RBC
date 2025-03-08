@@ -1,0 +1,6 @@
+Customer ID: 6304
+Name: Andrea Robinson
+National ID: 871-17-7042
+Bank: Hoffman LLC Bank
+Account Number: 2335805549
+Consent Status: Revoked

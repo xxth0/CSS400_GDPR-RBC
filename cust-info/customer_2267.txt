@@ -1,0 +1,6 @@
+Customer ID: 2267
+Name: Nancy Roberts
+National ID: 204-64-1236
+Bank: Clayton-Bauer Bank
+Account Number: 1854326106
+Consent Status: Granted

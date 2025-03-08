@@ -1,0 +1,6 @@
+Customer ID: 8209
+Name: Billy Carlson
+National ID: 228-85-9269
+Bank: Henderson, Roth and Douglas Bank
+Account Number: 7712700585
+Consent Status: Granted

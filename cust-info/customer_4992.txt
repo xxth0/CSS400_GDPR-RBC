@@ -1,0 +1,6 @@
+Customer ID: 4992
+Name: Carrie Mcknight
+National ID: 432-29-9795
+Bank: Bailey PLC Bank
+Account Number: 3937403746
+Consent Status: Revoked

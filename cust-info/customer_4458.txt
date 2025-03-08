@@ -1,0 +1,6 @@
+Customer ID: 4458
+Name: Aaron Reilly
+National ID: 517-48-2918
+Bank: Andrade Ltd Bank
+Account Number: 7575383440
+Consent Status: Revoked

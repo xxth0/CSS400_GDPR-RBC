@@ -1,0 +1,6 @@
+Customer ID: 1495
+Name: Taylor Summers
+National ID: 574-13-1199
+Bank: Sharp Ltd Bank
+Account Number: 2906671089
+Consent Status: Granted

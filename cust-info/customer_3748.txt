@@ -1,0 +1,6 @@
+Customer ID: 3748
+Name: Trevor Mccarthy
+National ID: 455-62-9450
+Bank: Barton-Crane Bank
+Account Number: 7054530896
+Consent Status: Revoked

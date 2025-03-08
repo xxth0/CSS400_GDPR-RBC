@@ -1,0 +1,6 @@
+Customer ID: 6704
+Name: Jenna Phillips
+National ID: 441-39-2719
+Bank: Jones, Raymond and Cameron Bank
+Account Number: 3843343528
+Consent Status: Granted

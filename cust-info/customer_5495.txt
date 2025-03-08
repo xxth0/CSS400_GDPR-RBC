@@ -1,0 +1,6 @@
+Customer ID: 5495
+Name: Mrs. Linda Cantrell
+National ID: 348-04-0564
+Bank: Guzman and Sons Bank
+Account Number: 9650234941
+Consent Status: Granted

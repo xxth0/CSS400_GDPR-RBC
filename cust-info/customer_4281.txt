@@ -1,0 +1,6 @@
+Customer ID: 4281
+Name: Chris Reed
+National ID: 691-99-4683
+Bank: Smith Ltd Bank
+Account Number: 8155638502
+Consent Status: Granted

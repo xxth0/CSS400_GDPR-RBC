@@ -1,0 +1,6 @@
+Customer ID: 9343
+Name: Rebecca Frazier
+National ID: 369-72-4006
+Bank: Weeks, Franklin and Johnson Bank
+Account Number: 8182393389
+Consent Status: Granted

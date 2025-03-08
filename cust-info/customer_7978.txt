@@ -1,0 +1,6 @@
+Customer ID: 7978
+Name: Gary Little
+National ID: 044-35-3431
+Bank: Palmer-Medina Bank
+Account Number: 5603883785
+Consent Status: Granted

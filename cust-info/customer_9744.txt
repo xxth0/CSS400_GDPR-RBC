@@ -1,0 +1,6 @@
+Customer ID: 9744
+Name: Steven Hunt
+National ID: 720-29-9935
+Bank: Mclaughlin-Andrews Bank
+Account Number: 3164271089
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7382
+Name: Richard Gilbert
+National ID: 167-41-3498
+Bank: Jones PLC Bank
+Account Number: 1907555831
+Consent Status: Revoked

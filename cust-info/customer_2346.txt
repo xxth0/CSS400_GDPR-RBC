@@ -1,0 +1,6 @@
+Customer ID: 2346
+Name: Stefanie Brooks
+National ID: 764-88-2775
+Bank: Wheeler-Williams Bank
+Account Number: 3942021703
+Consent Status: Revoked

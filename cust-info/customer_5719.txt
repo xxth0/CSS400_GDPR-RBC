@@ -1,0 +1,6 @@
+Customer ID: 5719
+Name: Angela Richardson
+National ID: 842-74-5225
+Bank: Hanson, Frederick and Wilson Bank
+Account Number: 7905680480
+Consent Status: Granted

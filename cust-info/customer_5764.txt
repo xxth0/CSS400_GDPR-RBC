@@ -1,0 +1,6 @@
+Customer ID: 5764
+Name: Kimberly Burch
+National ID: 456-20-7811
+Bank: Stanton, Ruiz and Brooks Bank
+Account Number: 8806146297
+Consent Status: Granted

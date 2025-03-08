@@ -1,0 +1,6 @@
+Customer ID: 1826
+Name: Riley Wilson
+National ID: 464-24-8386
+Bank: Peterson, Erickson and Frye Bank
+Account Number: 5298050390
+Consent Status: Granted

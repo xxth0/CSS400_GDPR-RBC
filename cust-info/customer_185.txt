@@ -1,0 +1,6 @@
+Customer ID: 185
+Name: Dr. Kenneth Robinson II
+National ID: 044-05-7380
+Bank: Krueger PLC Bank
+Account Number: 8755791292
+Consent Status: Revoked

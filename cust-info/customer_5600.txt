@@ -1,0 +1,6 @@
+Customer ID: 5600
+Name: Stephanie Chan
+National ID: 434-58-4023
+Bank: Chaney, Carpenter and Thomas Bank
+Account Number: 6403610007
+Consent Status: Granted

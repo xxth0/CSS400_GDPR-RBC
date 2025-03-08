@@ -1,0 +1,6 @@
+Customer ID: 3381
+Name: Ashley Collins
+National ID: 378-41-7984
+Bank: Lewis and Sons Bank
+Account Number: 6271942093
+Consent Status: Granted

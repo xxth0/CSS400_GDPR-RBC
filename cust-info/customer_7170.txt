@@ -1,0 +1,6 @@
+Customer ID: 7170
+Name: Melanie Jones
+National ID: 496-15-9182
+Bank: Hughes Inc Bank
+Account Number: 2012358594
+Consent Status: Granted

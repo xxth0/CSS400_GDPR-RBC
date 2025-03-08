@@ -1,0 +1,6 @@
+Customer ID: 5332
+Name: Phillip Brooks
+National ID: 067-86-7324
+Bank: Jones, Schmidt and Zimmerman Bank
+Account Number: 8446515688
+Consent Status: Granted

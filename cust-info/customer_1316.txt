@@ -1,0 +1,6 @@
+Customer ID: 1316
+Name: Nichole Brown
+National ID: 856-28-4689
+Bank: Lozano-Murphy Bank
+Account Number: 2043204891
+Consent Status: Revoked

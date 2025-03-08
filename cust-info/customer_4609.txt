@@ -1,0 +1,6 @@
+Customer ID: 4609
+Name: Sabrina Roberts
+National ID: 357-07-1770
+Bank: Phillips-Turner Bank
+Account Number: 6309062236
+Consent Status: Revoked

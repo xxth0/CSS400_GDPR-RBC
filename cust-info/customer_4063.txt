@@ -1,0 +1,6 @@
+Customer ID: 4063
+Name: Helen Collins
+National ID: 806-96-0398
+Bank: Velazquez, Flynn and Fisher Bank
+Account Number: 6691023723
+Consent Status: Granted

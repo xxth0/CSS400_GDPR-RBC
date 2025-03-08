@@ -1,0 +1,6 @@
+Customer ID: 9201
+Name: Danielle Cohen
+National ID: 402-07-7076
+Bank: Clark, Daniels and Farmer Bank
+Account Number: 2787777828
+Consent Status: Revoked

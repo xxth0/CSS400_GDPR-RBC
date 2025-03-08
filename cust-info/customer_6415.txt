@@ -1,0 +1,6 @@
+Customer ID: 6415
+Name: Kimberly Hall
+National ID: 246-44-9371
+Bank: Aguilar Group Bank
+Account Number: 4006436664
+Consent Status: Revoked

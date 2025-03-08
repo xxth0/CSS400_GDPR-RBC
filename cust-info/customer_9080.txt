@@ -1,0 +1,6 @@
+Customer ID: 9080
+Name: Jason Huynh
+National ID: 279-58-2926
+Bank: Guzman Group Bank
+Account Number: 8366688296
+Consent Status: Revoked

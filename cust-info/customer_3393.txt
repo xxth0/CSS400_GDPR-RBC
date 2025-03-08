@@ -1,0 +1,6 @@
+Customer ID: 3393
+Name: Ann Hickman
+National ID: 240-92-8710
+Bank: Taylor and Sons Bank
+Account Number: 1783537207
+Consent Status: Revoked

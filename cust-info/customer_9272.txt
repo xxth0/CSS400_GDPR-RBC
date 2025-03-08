@@ -1,0 +1,6 @@
+Customer ID: 9272
+Name: Connie Williams
+National ID: 573-39-0860
+Bank: Wilson LLC Bank
+Account Number: 3013091542
+Consent Status: Revoked

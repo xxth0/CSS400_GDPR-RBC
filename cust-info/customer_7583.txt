@@ -1,0 +1,6 @@
+Customer ID: 7583
+Name: Caleb Green
+National ID: 754-57-3330
+Bank: Stevens, Mcconnell and Smith Bank
+Account Number: 7731770982
+Consent Status: Granted

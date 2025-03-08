@@ -1,0 +1,6 @@
+Customer ID: 5845
+Name: Brian Rodriguez
+National ID: 799-24-1904
+Bank: Alexander, Williams and Ramirez Bank
+Account Number: 2895370899
+Consent Status: Granted

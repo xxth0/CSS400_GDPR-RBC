@@ -1,0 +1,6 @@
+Customer ID: 548
+Name: Rebecca Chavez
+National ID: 755-44-6039
+Bank: Hunt-Lopez Bank
+Account Number: 6269026865
+Consent Status: Granted

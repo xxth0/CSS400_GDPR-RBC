@@ -1,0 +1,6 @@
+Customer ID: 6317
+Name: Dr. George Goodwin
+National ID: 607-15-4939
+Bank: Bennett Inc Bank
+Account Number: 9684945720
+Consent Status: Granted

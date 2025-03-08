@@ -1,0 +1,6 @@
+Customer ID: 7549
+Name: Scott Ryan
+National ID: 373-27-3365
+Bank: Knox Ltd Bank
+Account Number: 8394038153
+Consent Status: Revoked

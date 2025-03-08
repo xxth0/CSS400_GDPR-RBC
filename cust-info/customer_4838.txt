@@ -1,0 +1,6 @@
+Customer ID: 4838
+Name: Stephen Ray
+National ID: 124-27-7967
+Bank: Hill Ltd Bank
+Account Number: 3386320556
+Consent Status: Granted

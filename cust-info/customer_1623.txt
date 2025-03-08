@@ -1,0 +1,6 @@
+Customer ID: 1623
+Name: Sarah Cook
+National ID: 157-09-3112
+Bank: Woodward Group Bank
+Account Number: 4763036203
+Consent Status: Revoked

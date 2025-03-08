@@ -1,0 +1,6 @@
+Customer ID: 7334
+Name: Kirk Flores
+National ID: 161-83-3028
+Bank: Nixon, Kim and Charles Bank
+Account Number: 2194797959
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4381
+Name: Thomas Brady
+National ID: 212-23-4289
+Bank: Vincent PLC Bank
+Account Number: 9639815729
+Consent Status: Granted

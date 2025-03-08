@@ -1,0 +1,6 @@
+Customer ID: 6064
+Name: Maria Anderson
+National ID: 182-42-5349
+Bank: Lara PLC Bank
+Account Number: 5685143494
+Consent Status: Revoked

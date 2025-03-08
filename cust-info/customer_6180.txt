@@ -1,0 +1,6 @@
+Customer ID: 6180
+Name: Randy Reed
+National ID: 587-01-1748
+Bank: Wilson, Higgins and Davis Bank
+Account Number: 2215066592
+Consent Status: Revoked

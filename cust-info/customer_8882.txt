@@ -1,0 +1,6 @@
+Customer ID: 8882
+Name: Autumn Clayton
+National ID: 797-95-4987
+Bank: Lynch LLC Bank
+Account Number: 7686231304
+Consent Status: Revoked

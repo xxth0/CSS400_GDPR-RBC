@@ -1,0 +1,6 @@
+Customer ID: 7286
+Name: Rebecca Larson
+National ID: 292-88-1470
+Bank: Lawrence Inc Bank
+Account Number: 4080421543
+Consent Status: Revoked

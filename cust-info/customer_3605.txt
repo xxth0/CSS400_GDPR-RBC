@@ -1,0 +1,6 @@
+Customer ID: 3605
+Name: Cathy Lutz
+National ID: 711-71-8538
+Bank: Hill Inc Bank
+Account Number: 7622864600
+Consent Status: Revoked

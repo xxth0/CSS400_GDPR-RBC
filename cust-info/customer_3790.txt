@@ -1,0 +1,6 @@
+Customer ID: 3790
+Name: Paul Todd
+National ID: 391-27-2636
+Bank: Combs and Sons Bank
+Account Number: 7867408629
+Consent Status: Granted

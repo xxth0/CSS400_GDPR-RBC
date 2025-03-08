@@ -1,0 +1,6 @@
+Customer ID: 7288
+Name: James Craig
+National ID: 288-51-9301
+Bank: Warren-Johnson Bank
+Account Number: 5061511979
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4412
+Name: Angela Williams
+National ID: 221-52-5892
+Bank: Kaiser-Powell Bank
+Account Number: 1411521547
+Consent Status: Revoked

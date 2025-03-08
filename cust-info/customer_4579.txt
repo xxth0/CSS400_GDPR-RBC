@@ -1,0 +1,6 @@
+Customer ID: 4579
+Name: Keith Medina
+National ID: 283-22-2302
+Bank: Morales-Brewer Bank
+Account Number: 9703700161
+Consent Status: Granted

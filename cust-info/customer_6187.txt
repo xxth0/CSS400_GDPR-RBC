@@ -1,0 +1,6 @@
+Customer ID: 6187
+Name: Jacqueline Fuentes
+National ID: 078-87-4990
+Bank: Chambers Ltd Bank
+Account Number: 6166516845
+Consent Status: Granted

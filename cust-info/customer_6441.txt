@@ -1,0 +1,6 @@
+Customer ID: 6441
+Name: Fernando Adams
+National ID: 364-06-5448
+Bank: Davenport-Johnson Bank
+Account Number: 3748627961
+Consent Status: Revoked

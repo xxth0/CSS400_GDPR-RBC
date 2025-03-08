@@ -1,0 +1,6 @@
+Customer ID: 2874
+Name: Christine Taylor
+National ID: 638-91-1243
+Bank: Whitaker Ltd Bank
+Account Number: 7793181621
+Consent Status: Granted

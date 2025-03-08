@@ -1,0 +1,6 @@
+Customer ID: 6752
+Name: Tina Roberts
+National ID: 288-38-5002
+Bank: Jones LLC Bank
+Account Number: 1868297597
+Consent Status: Revoked

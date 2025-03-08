@@ -1,0 +1,6 @@
+Customer ID: 2424
+Name: Kathleen Lee
+National ID: 719-05-9292
+Bank: Carter-Bryant Bank
+Account Number: 8532003578
+Consent Status: Granted

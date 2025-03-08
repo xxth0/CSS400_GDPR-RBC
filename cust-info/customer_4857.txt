@@ -1,0 +1,6 @@
+Customer ID: 4857
+Name: Amber Huerta
+National ID: 028-27-7085
+Bank: Reed, Barber and Thompson Bank
+Account Number: 2870127506
+Consent Status: Granted

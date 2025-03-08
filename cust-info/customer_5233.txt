@@ -1,0 +1,6 @@
+Customer ID: 5233
+Name: Patrick Miller
+National ID: 610-90-0113
+Bank: Whitehead-Mcdonald Bank
+Account Number: 3450562216
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7810
+Name: Diane Aguilar
+National ID: 401-81-7367
+Bank: Dixon PLC Bank
+Account Number: 7712311961
+Consent Status: Revoked

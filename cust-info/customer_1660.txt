@@ -1,0 +1,6 @@
+Customer ID: 1660
+Name: Caitlin Holmes
+National ID: 087-49-4297
+Bank: Brown, Jackson and Davis Bank
+Account Number: 5708779027
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 216
+Name: Elizabeth Beck
+National ID: 807-25-9889
+Bank: Bird-Davis Bank
+Account Number: 5033979819
+Consent Status: Granted

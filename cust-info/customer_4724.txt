@@ -1,0 +1,6 @@
+Customer ID: 4724
+Name: Amber Maldonado
+National ID: 885-88-6523
+Bank: Baker Inc Bank
+Account Number: 6900546982
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3425
+Name: Terry Long
+National ID: 098-31-7210
+Bank: Gordon-Carr Bank
+Account Number: 5610382224
+Consent Status: Granted

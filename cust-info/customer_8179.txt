@@ -1,0 +1,6 @@
+Customer ID: 8179
+Name: Katherine Paul
+National ID: 508-63-7077
+Bank: Meyer, Torres and Johnson Bank
+Account Number: 7877440261
+Consent Status: Granted

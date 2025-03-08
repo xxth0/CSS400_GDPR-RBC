@@ -1,0 +1,6 @@
+Customer ID: 4403
+Name: Devon Burch
+National ID: 659-01-4027
+Bank: Frazier and Sons Bank
+Account Number: 6039700871
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7155
+Name: David Shepard
+National ID: 531-45-6335
+Bank: Rivera-Calderon Bank
+Account Number: 4277398861
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2365
+Name: Kelsey Ramirez
+National ID: 368-41-2486
+Bank: Howell-Martin Bank
+Account Number: 7081615512
+Consent Status: Revoked

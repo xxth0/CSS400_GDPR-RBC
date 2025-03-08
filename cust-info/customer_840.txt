@@ -1,0 +1,6 @@
+Customer ID: 840
+Name: David Martinez
+National ID: 086-69-8128
+Bank: Mejia-Anderson Bank
+Account Number: 6998891915
+Consent Status: Granted

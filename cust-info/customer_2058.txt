@@ -1,0 +1,6 @@
+Customer ID: 2058
+Name: Brittany Mendoza
+National ID: 819-37-4402
+Bank: Bruce Group Bank
+Account Number: 8779306567
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8272
+Name: Ryan Smith
+National ID: 128-88-8316
+Bank: Jones, Douglas and Vega Bank
+Account Number: 7040543864
+Consent Status: Revoked

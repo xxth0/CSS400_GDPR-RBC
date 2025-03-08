@@ -1,0 +1,6 @@
+Customer ID: 124
+Name: Jennifer Harvey
+National ID: 857-36-6144
+Bank: Stewart LLC Bank
+Account Number: 1081611884
+Consent Status: Revoked

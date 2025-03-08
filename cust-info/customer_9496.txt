@@ -1,0 +1,6 @@
+Customer ID: 9496
+Name: John Bell
+National ID: 859-29-7887
+Bank: Frost Ltd Bank
+Account Number: 9785261479
+Consent Status: Revoked

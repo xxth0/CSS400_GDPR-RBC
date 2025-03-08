@@ -1,0 +1,6 @@
+Customer ID: 5998
+Name: Jordan Williams
+National ID: 872-56-0893
+Bank: Alvarez, Moore and Page Bank
+Account Number: 4400898389
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8994
+Name: Allison Roberson
+National ID: 445-15-2625
+Bank: Lee, Cohen and Cochran Bank
+Account Number: 9905001499
+Consent Status: Revoked

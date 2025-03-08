@@ -1,0 +1,6 @@
+Customer ID: 6298
+Name: Kristen Munoz
+National ID: 586-77-2058
+Bank: Williams-Lawson Bank
+Account Number: 2696366400
+Consent Status: Revoked

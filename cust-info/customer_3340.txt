@@ -1,0 +1,6 @@
+Customer ID: 3340
+Name: Katherine Berry
+National ID: 178-68-6195
+Bank: Espinoza-Moore Bank
+Account Number: 5204102593
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7517
+Name: Jennifer Valdez
+National ID: 173-94-1385
+Bank: Gonzalez LLC Bank
+Account Number: 3260133613
+Consent Status: Granted

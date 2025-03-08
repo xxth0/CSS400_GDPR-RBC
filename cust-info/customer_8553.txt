@@ -1,0 +1,6 @@
+Customer ID: 8553
+Name: Donald Richmond
+National ID: 497-15-7469
+Bank: Warren-Mclean Bank
+Account Number: 2514517491
+Consent Status: Revoked

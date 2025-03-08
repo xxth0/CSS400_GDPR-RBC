@@ -1,0 +1,6 @@
+Customer ID: 7593
+Name: Kenneth Phillips
+National ID: 616-37-4266
+Bank: Herring and Sons Bank
+Account Number: 4686260059
+Consent Status: Revoked

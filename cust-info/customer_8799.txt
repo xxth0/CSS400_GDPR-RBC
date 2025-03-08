@@ -1,0 +1,6 @@
+Customer ID: 8799
+Name: Steven Olson
+National ID: 689-85-7422
+Bank: Figueroa LLC Bank
+Account Number: 5887998887
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7282
+Name: Amanda Murray
+National ID: 673-83-7283
+Bank: Mack and Sons Bank
+Account Number: 4493303330
+Consent Status: Revoked

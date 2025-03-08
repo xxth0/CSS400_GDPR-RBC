@@ -1,0 +1,6 @@
+Customer ID: 3280
+Name: Amy Jenkins
+National ID: 561-86-3511
+Bank: Hicks, Keller and West Bank
+Account Number: 3646617840
+Consent Status: Granted

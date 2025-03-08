@@ -1,0 +1,6 @@
+Customer ID: 4875
+Name: Crystal Proctor
+National ID: 133-95-6084
+Bank: Andrews, Simpson and Garcia Bank
+Account Number: 7919402301
+Consent Status: Granted

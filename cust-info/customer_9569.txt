@@ -1,0 +1,6 @@
+Customer ID: 9569
+Name: Janet Stewart
+National ID: 728-34-3980
+Bank: Stephens and Sons Bank
+Account Number: 8816484325
+Consent Status: Revoked

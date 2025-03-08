@@ -1,0 +1,6 @@
+Customer ID: 7826
+Name: Jeremiah Hamilton
+National ID: 358-35-2420
+Bank: Kelly-Perez Bank
+Account Number: 4420863788
+Consent Status: Granted

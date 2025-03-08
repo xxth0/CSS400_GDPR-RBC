@@ -1,0 +1,6 @@
+Customer ID: 1110
+Name: Kaitlyn Rose
+National ID: 877-67-8310
+Bank: Jefferson, Brooks and Buchanan Bank
+Account Number: 7003170413
+Consent Status: Revoked

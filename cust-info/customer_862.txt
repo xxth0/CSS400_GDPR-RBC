@@ -1,0 +1,6 @@
+Customer ID: 862
+Name: Christian Barajas
+National ID: 528-42-3105
+Bank: Johnson, Strong and White Bank
+Account Number: 1630450756
+Consent Status: Granted

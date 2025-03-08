@@ -1,0 +1,6 @@
+Customer ID: 3323
+Name: Kimberly Price
+National ID: 109-37-2682
+Bank: Byrd-Thomas Bank
+Account Number: 2868795293
+Consent Status: Revoked

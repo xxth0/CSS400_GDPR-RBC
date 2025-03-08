@@ -1,0 +1,6 @@
+Customer ID: 8766
+Name: Luis Webb
+National ID: 857-47-4729
+Bank: Gardner-Campbell Bank
+Account Number: 9590047077
+Consent Status: Revoked

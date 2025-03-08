@@ -1,0 +1,6 @@
+Customer ID: 1143
+Name: Eric Blair
+National ID: 195-35-6968
+Bank: Anderson and Sons Bank
+Account Number: 3890351500
+Consent Status: Revoked

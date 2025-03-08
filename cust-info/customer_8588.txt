@@ -1,0 +1,6 @@
+Customer ID: 8588
+Name: April Sanchez PhD
+National ID: 683-55-9426
+Bank: Fernandez, Sanchez and Solis Bank
+Account Number: 9537513931
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5256
+Name: Nicole Roman
+National ID: 550-01-3567
+Bank: White Ltd Bank
+Account Number: 7679252702
+Consent Status: Granted

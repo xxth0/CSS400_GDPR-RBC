@@ -1,0 +1,6 @@
+Customer ID: 4371
+Name: James Wise
+National ID: 610-17-2174
+Bank: Jenkins Inc Bank
+Account Number: 7561140596
+Consent Status: Revoked

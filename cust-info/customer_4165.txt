@@ -1,0 +1,6 @@
+Customer ID: 4165
+Name: Rhonda Valdez
+National ID: 367-49-0207
+Bank: Rangel-Crawford Bank
+Account Number: 3776680874
+Consent Status: Revoked

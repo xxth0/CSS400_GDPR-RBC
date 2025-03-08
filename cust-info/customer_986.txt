@@ -1,0 +1,6 @@
+Customer ID: 986
+Name: Angela Jones
+National ID: 286-23-8597
+Bank: Coleman-Cruz Bank
+Account Number: 3669955511
+Consent Status: Revoked

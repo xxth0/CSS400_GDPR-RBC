@@ -1,0 +1,6 @@
+Customer ID: 654
+Name: Anthony Dominguez
+National ID: 370-27-0826
+Bank: Murphy Group Bank
+Account Number: 4224194060
+Consent Status: Granted

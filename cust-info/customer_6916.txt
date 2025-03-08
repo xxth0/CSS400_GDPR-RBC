@@ -1,0 +1,6 @@
+Customer ID: 6916
+Name: Alexander Mcclain
+National ID: 199-72-1867
+Bank: Buchanan, Wong and Paul Bank
+Account Number: 5502789378
+Consent Status: Granted

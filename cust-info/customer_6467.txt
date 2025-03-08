@@ -1,0 +1,6 @@
+Customer ID: 6467
+Name: Jamie Wall
+National ID: 060-40-8680
+Bank: Jordan, Mcgee and Houston Bank
+Account Number: 8411967274
+Consent Status: Granted

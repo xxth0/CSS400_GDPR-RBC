@@ -1,0 +1,6 @@
+Customer ID: 3841
+Name: Nicole Edwards
+National ID: 537-31-9007
+Bank: Nash, Salinas and Horton Bank
+Account Number: 4056557371
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8055
+Name: Lauren Lee
+National ID: 831-79-5238
+Bank: Simmons PLC Bank
+Account Number: 2258998359
+Consent Status: Revoked

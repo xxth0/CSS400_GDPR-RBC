@@ -1,0 +1,6 @@
+Customer ID: 4707
+Name: Dawn White
+National ID: 392-52-7840
+Bank: Kelley, Smith and Gilbert Bank
+Account Number: 3795272705
+Consent Status: Revoked

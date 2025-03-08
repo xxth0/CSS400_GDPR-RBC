@@ -1,0 +1,6 @@
+Customer ID: 1241
+Name: Calvin Cabrera
+National ID: 868-57-2061
+Bank: Stewart-Coleman Bank
+Account Number: 3514375311
+Consent Status: Revoked

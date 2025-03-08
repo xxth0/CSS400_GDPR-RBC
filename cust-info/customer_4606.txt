@@ -1,0 +1,6 @@
+Customer ID: 4606
+Name: Virginia Mendoza
+National ID: 820-37-4040
+Bank: Turner, Wilkinson and Hernandez Bank
+Account Number: 2348998332
+Consent Status: Granted

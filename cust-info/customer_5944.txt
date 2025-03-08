@@ -1,0 +1,6 @@
+Customer ID: 5944
+Name: Gregory Dunn
+National ID: 685-90-4036
+Bank: Montgomery PLC Bank
+Account Number: 2389175837
+Consent Status: Revoked

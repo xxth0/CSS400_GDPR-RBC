@@ -1,0 +1,6 @@
+Customer ID: 467
+Name: Kelly Vargas
+National ID: 769-01-9393
+Bank: Farley-Powers Bank
+Account Number: 2134882410
+Consent Status: Granted

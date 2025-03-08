@@ -1,0 +1,6 @@
+Customer ID: 4392
+Name: Sierra Bradley
+National ID: 541-01-4436
+Bank: Park-Nguyen Bank
+Account Number: 6525571631
+Consent Status: Revoked

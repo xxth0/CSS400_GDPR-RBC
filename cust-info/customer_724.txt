@@ -1,0 +1,6 @@
+Customer ID: 724
+Name: Alexander Nelson
+National ID: 290-95-0235
+Bank: Smith-Mcclure Bank
+Account Number: 2663827643
+Consent Status: Revoked

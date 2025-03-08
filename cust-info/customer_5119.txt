@@ -1,0 +1,6 @@
+Customer ID: 5119
+Name: Justin Stevens
+National ID: 595-38-7019
+Bank: Vasquez-Luna Bank
+Account Number: 7405304641
+Consent Status: Granted

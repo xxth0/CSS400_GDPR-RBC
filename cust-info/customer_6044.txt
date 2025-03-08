@@ -1,0 +1,6 @@
+Customer ID: 6044
+Name: Christina Olsen
+National ID: 125-35-7107
+Bank: Daniels-Welch Bank
+Account Number: 6786740573
+Consent Status: Granted

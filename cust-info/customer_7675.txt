@@ -1,0 +1,6 @@
+Customer ID: 7675
+Name: Martin Smith
+National ID: 051-27-9041
+Bank: Bowman PLC Bank
+Account Number: 5320905012
+Consent Status: Granted

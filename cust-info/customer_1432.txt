@@ -1,0 +1,6 @@
+Customer ID: 1432
+Name: Tamara Bailey
+National ID: 795-63-5115
+Bank: Rowe-Banks Bank
+Account Number: 9797206946
+Consent Status: Revoked

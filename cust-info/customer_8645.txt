@@ -1,0 +1,6 @@
+Customer ID: 8645
+Name: Tommy West
+National ID: 157-40-8801
+Bank: Peterson-Murray Bank
+Account Number: 5863848767
+Consent Status: Revoked

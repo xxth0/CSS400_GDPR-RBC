@@ -1,0 +1,6 @@
+Customer ID: 8428
+Name: Robert Mitchell
+National ID: 838-51-3277
+Bank: Hunt PLC Bank
+Account Number: 7664893388
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8257
+Name: George Smith
+National ID: 302-05-6830
+Bank: Willis, Morris and Bell Bank
+Account Number: 6124812312
+Consent Status: Revoked

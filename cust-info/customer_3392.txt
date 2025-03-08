@@ -1,0 +1,6 @@
+Customer ID: 3392
+Name: Phillip Jones
+National ID: 131-26-5457
+Bank: Arias-Fuller Bank
+Account Number: 2042511068
+Consent Status: Granted

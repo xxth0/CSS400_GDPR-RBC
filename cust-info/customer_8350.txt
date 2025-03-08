@@ -1,0 +1,6 @@
+Customer ID: 8350
+Name: James Mathis
+National ID: 602-37-2383
+Bank: Williams, Bentley and Wells Bank
+Account Number: 6290686295
+Consent Status: Granted

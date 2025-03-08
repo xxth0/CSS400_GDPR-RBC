@@ -1,0 +1,6 @@
+Customer ID: 921
+Name: Lori Cameron
+National ID: 625-15-1579
+Bank: Wilcox, Clark and Miller Bank
+Account Number: 1946711719
+Consent Status: Revoked

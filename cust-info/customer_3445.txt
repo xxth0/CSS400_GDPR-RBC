@@ -1,0 +1,6 @@
+Customer ID: 3445
+Name: Edward Delgado
+National ID: 870-04-3139
+Bank: Sanders Ltd Bank
+Account Number: 7769862641
+Consent Status: Revoked

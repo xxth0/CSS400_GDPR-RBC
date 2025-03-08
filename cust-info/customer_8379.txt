@@ -1,0 +1,6 @@
+Customer ID: 8379
+Name: Calvin Cox
+National ID: 829-13-0015
+Bank: Turner PLC Bank
+Account Number: 2717483538
+Consent Status: Revoked

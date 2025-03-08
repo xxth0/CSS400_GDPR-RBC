@@ -1,0 +1,6 @@
+Customer ID: 5242
+Name: Mark Thornton
+National ID: 857-79-1751
+Bank: Johnston, Harper and Peters Bank
+Account Number: 9405993969
+Consent Status: Revoked

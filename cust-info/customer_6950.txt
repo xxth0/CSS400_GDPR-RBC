@@ -1,0 +1,6 @@
+Customer ID: 6950
+Name: Barbara Petersen
+National ID: 855-53-0402
+Bank: Donaldson-Torres Bank
+Account Number: 6824869869
+Consent Status: Granted

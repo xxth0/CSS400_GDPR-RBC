@@ -1,0 +1,6 @@
+Customer ID: 1618
+Name: Brian Dickerson
+National ID: 526-28-3538
+Bank: Page-Sanchez Bank
+Account Number: 9817955403
+Consent Status: Granted

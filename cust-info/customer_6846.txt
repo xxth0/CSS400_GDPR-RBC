@@ -1,0 +1,6 @@
+Customer ID: 6846
+Name: Dale Martin
+National ID: 643-68-9789
+Bank: Payne-Miller Bank
+Account Number: 6914975469
+Consent Status: Granted

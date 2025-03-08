@@ -1,0 +1,6 @@
+Customer ID: 3785
+Name: Joanna James
+National ID: 419-42-0206
+Bank: Harmon, Moore and Ortiz Bank
+Account Number: 7923553343
+Consent Status: Granted

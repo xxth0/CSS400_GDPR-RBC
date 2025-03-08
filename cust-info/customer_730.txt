@@ -1,0 +1,6 @@
+Customer ID: 730
+Name: Juan Hendrix
+National ID: 846-56-4521
+Bank: Mercer-Young Bank
+Account Number: 5271537982
+Consent Status: Granted

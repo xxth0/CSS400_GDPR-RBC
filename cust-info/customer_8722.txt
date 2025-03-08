@@ -1,0 +1,6 @@
+Customer ID: 8722
+Name: Vincent Lee
+National ID: 684-09-0453
+Bank: Mejia Group Bank
+Account Number: 3315707916
+Consent Status: Revoked

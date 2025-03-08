@@ -1,0 +1,6 @@
+Customer ID: 7711
+Name: Miguel Gutierrez
+National ID: 168-42-5631
+Bank: Coleman Group Bank
+Account Number: 9478752664
+Consent Status: Granted

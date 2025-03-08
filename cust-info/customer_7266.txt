@@ -1,0 +1,6 @@
+Customer ID: 7266
+Name: Valerie Kim
+National ID: 677-54-3346
+Bank: Perkins, Ramirez and Ross Bank
+Account Number: 4159970824
+Consent Status: Granted

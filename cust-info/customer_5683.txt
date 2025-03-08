@@ -1,0 +1,6 @@
+Customer ID: 5683
+Name: Jennifer Thomas
+National ID: 269-50-9186
+Bank: Wolfe-Walsh Bank
+Account Number: 3457712196
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2020
+Name: Danielle Pena
+National ID: 512-01-5629
+Bank: Fitzgerald-Harris Bank
+Account Number: 3231428193
+Consent Status: Revoked

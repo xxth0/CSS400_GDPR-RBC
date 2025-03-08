@@ -1,0 +1,6 @@
+Customer ID: 1383
+Name: Cindy Clark
+National ID: 224-27-1520
+Bank: Woods, Olsen and Tran Bank
+Account Number: 1622872815
+Consent Status: Revoked

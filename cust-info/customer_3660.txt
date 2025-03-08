@@ -1,0 +1,6 @@
+Customer ID: 3660
+Name: Kelly Hernandez
+National ID: 027-89-1319
+Bank: Hughes Inc Bank
+Account Number: 1447536453
+Consent Status: Granted

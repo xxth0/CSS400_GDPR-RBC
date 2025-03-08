@@ -1,0 +1,6 @@
+Customer ID: 6396
+Name: Martin Krueger
+National ID: 613-32-1819
+Bank: Buchanan and Sons Bank
+Account Number: 8147029372
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3300
+Name: Mandy Burke
+National ID: 655-34-4928
+Bank: May-Wu Bank
+Account Number: 8724832665
+Consent Status: Revoked

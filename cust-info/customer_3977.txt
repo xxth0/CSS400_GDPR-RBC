@@ -1,0 +1,6 @@
+Customer ID: 3977
+Name: Theresa Vaughn
+National ID: 354-73-7678
+Bank: Nichols, Hobbs and Hart Bank
+Account Number: 8350572683
+Consent Status: Granted

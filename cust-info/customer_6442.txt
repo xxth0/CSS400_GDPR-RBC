@@ -1,0 +1,6 @@
+Customer ID: 6442
+Name: Donna Page
+National ID: 032-22-6301
+Bank: Escobar, Parker and Griffin Bank
+Account Number: 5655284583
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9462
+Name: Alfred Munoz
+National ID: 669-44-5909
+Bank: Rios Inc Bank
+Account Number: 3018188841
+Consent Status: Revoked

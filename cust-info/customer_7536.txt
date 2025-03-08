@@ -1,0 +1,6 @@
+Customer ID: 7536
+Name: Sara Taylor
+National ID: 088-66-6229
+Bank: Blair, Graham and Wolf Bank
+Account Number: 6212636204
+Consent Status: Revoked

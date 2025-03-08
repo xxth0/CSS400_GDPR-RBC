@@ -1,0 +1,6 @@
+Customer ID: 6583
+Name: Jose Smith
+National ID: 846-51-9508
+Bank: Luna-Shields Bank
+Account Number: 4881466048
+Consent Status: Revoked

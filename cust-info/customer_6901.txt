@@ -1,0 +1,6 @@
+Customer ID: 6901
+Name: Tanya Schneider
+National ID: 165-51-1113
+Bank: Mooney, Moore and Bryan Bank
+Account Number: 1818278655
+Consent Status: Revoked

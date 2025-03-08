@@ -1,0 +1,6 @@
+Customer ID: 4231
+Name: Adam Horn
+National ID: 414-23-4641
+Bank: Frazier PLC Bank
+Account Number: 8772926586
+Consent Status: Revoked

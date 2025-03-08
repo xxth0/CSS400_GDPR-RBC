@@ -1,0 +1,6 @@
+Customer ID: 7250
+Name: David James
+National ID: 246-99-9702
+Bank: Patton-Zamora Bank
+Account Number: 1380477304
+Consent Status: Granted

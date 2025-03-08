@@ -1,0 +1,6 @@
+Customer ID: 2924
+Name: Mark Sutton
+National ID: 240-40-1416
+Bank: Johnson, Terry and Hunter Bank
+Account Number: 5755327450
+Consent Status: Revoked

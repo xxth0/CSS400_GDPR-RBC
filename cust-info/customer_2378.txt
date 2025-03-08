@@ -1,0 +1,6 @@
+Customer ID: 2378
+Name: Kevin Lewis
+National ID: 689-49-8924
+Bank: Robinson-Fuentes Bank
+Account Number: 7274182213
+Consent Status: Granted

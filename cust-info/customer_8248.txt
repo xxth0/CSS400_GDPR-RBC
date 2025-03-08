@@ -1,0 +1,6 @@
+Customer ID: 8248
+Name: Tonya Guerrero
+National ID: 678-56-4753
+Bank: Brown PLC Bank
+Account Number: 1576073245
+Consent Status: Granted

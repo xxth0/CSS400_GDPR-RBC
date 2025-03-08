@@ -1,0 +1,6 @@
+Customer ID: 251
+Name: Justin Edwards
+National ID: 660-19-1002
+Bank: Phillips, King and Martinez Bank
+Account Number: 1950112010
+Consent Status: Granted

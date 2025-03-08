@@ -1,0 +1,6 @@
+Customer ID: 7265
+Name: Daniel Compton
+National ID: 779-70-3167
+Bank: Graham and Sons Bank
+Account Number: 6139769827
+Consent Status: Revoked

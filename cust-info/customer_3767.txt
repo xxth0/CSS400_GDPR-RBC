@@ -1,0 +1,6 @@
+Customer ID: 3767
+Name: Timothy Moon
+National ID: 572-66-6916
+Bank: Rodriguez-Smith Bank
+Account Number: 7887028330
+Consent Status: Granted

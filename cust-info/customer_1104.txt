@@ -1,0 +1,6 @@
+Customer ID: 1104
+Name: Michael Cardenas
+National ID: 351-79-4694
+Bank: Huffman, Hansen and Davis Bank
+Account Number: 8881098878
+Consent Status: Granted

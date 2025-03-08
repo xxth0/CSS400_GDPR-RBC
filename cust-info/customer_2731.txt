@@ -1,0 +1,6 @@
+Customer ID: 2731
+Name: Donald Norman
+National ID: 540-50-9860
+Bank: Rodriguez-Haynes Bank
+Account Number: 4187487750
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 373
+Name: Catherine Fuller
+National ID: 450-44-8472
+Bank: Miller-Mason Bank
+Account Number: 8830418406
+Consent Status: Granted

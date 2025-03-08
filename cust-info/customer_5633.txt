@@ -1,0 +1,6 @@
+Customer ID: 5633
+Name: Tony Walker
+National ID: 172-64-7561
+Bank: Johnson-Miller Bank
+Account Number: 6881481325
+Consent Status: Revoked

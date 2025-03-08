@@ -1,0 +1,6 @@
+Customer ID: 3979
+Name: Abigail Doyle
+National ID: 896-51-5432
+Bank: Bauer-Rivera Bank
+Account Number: 4524404981
+Consent Status: Granted

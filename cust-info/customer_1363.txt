@@ -1,0 +1,6 @@
+Customer ID: 1363
+Name: Christopher Malone
+National ID: 584-92-2159
+Bank: Bell Inc Bank
+Account Number: 5293186239
+Consent Status: Granted

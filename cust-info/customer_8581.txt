@@ -1,0 +1,6 @@
+Customer ID: 8581
+Name: Trevor Lindsey
+National ID: 488-88-1973
+Bank: Shaffer Inc Bank
+Account Number: 3278448764
+Consent Status: Revoked

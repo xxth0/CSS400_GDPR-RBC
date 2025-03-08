@@ -1,0 +1,6 @@
+Customer ID: 4111
+Name: Rachel Andersen
+National ID: 878-31-9213
+Bank: Crawford Inc Bank
+Account Number: 6030555324
+Consent Status: Revoked

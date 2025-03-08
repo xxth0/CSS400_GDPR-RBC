@@ -1,0 +1,6 @@
+Customer ID: 6617
+Name: Jake Newman
+National ID: 396-21-2287
+Bank: Castro, May and Everett Bank
+Account Number: 4734308802
+Consent Status: Granted

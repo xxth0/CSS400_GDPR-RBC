@@ -1,0 +1,6 @@
+Customer ID: 7076
+Name: Roy Pratt
+National ID: 093-75-1565
+Bank: Galloway Inc Bank
+Account Number: 4197575882
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9211
+Name: Trevor Hall
+National ID: 280-88-8958
+Bank: Branch, Gonzalez and Wolf Bank
+Account Number: 6567822895
+Consent Status: Revoked

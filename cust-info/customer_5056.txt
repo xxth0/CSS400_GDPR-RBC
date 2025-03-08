@@ -1,0 +1,6 @@
+Customer ID: 5056
+Name: Amy Nguyen
+National ID: 477-74-1793
+Bank: Mccormick, Chapman and Dorsey Bank
+Account Number: 1863935568
+Consent Status: Granted

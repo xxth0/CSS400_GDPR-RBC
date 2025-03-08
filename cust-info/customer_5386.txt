@@ -1,0 +1,6 @@
+Customer ID: 5386
+Name: Gabrielle Perez
+National ID: 027-11-4435
+Bank: Johnson, Mckee and Vang Bank
+Account Number: 2730536541
+Consent Status: Granted

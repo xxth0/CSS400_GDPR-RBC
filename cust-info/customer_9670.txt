@@ -1,0 +1,6 @@
+Customer ID: 9670
+Name: Matthew Hudson
+National ID: 002-19-3107
+Bank: Palmer-Frederick Bank
+Account Number: 8998865170
+Consent Status: Revoked

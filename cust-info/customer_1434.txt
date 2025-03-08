@@ -1,0 +1,6 @@
+Customer ID: 1434
+Name: Sharon Cooper
+National ID: 492-15-6498
+Bank: Mcdaniel, Garner and Gates Bank
+Account Number: 5657250957
+Consent Status: Granted

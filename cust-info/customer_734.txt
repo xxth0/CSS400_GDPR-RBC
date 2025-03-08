@@ -1,0 +1,6 @@
+Customer ID: 734
+Name: Emily Lewis
+National ID: 546-75-9004
+Bank: Johnson, Murphy and Pineda Bank
+Account Number: 2680417951
+Consent Status: Granted

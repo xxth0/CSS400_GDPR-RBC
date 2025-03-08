@@ -1,0 +1,6 @@
+Customer ID: 7259
+Name: Anna Perez
+National ID: 768-33-1115
+Bank: Lopez-Cook Bank
+Account Number: 2513484010
+Consent Status: Granted

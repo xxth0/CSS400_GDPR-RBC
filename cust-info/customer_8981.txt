@@ -1,0 +1,6 @@
+Customer ID: 8981
+Name: Jennifer Anderson
+National ID: 028-23-6874
+Bank: Johnston and Sons Bank
+Account Number: 7951530081
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2706
+Name: John Flowers
+National ID: 363-36-3836
+Bank: Jenkins-Dean Bank
+Account Number: 4706077780
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3780
+Name: Mark Yates
+National ID: 327-54-3959
+Bank: Gomez-Richmond Bank
+Account Number: 2688619932
+Consent Status: Revoked

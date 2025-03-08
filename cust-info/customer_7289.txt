@@ -1,0 +1,6 @@
+Customer ID: 7289
+Name: Charles Powers
+National ID: 557-62-4186
+Bank: Diaz Inc Bank
+Account Number: 1661732399
+Consent Status: Granted

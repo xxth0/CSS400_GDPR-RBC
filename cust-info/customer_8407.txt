@@ -1,0 +1,6 @@
+Customer ID: 8407
+Name: Mark Francis
+National ID: 885-35-5232
+Bank: Ayers-Golden Bank
+Account Number: 2536446672
+Consent Status: Revoked

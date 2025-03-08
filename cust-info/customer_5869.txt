@@ -1,0 +1,6 @@
+Customer ID: 5869
+Name: Christine Waters
+National ID: 849-06-3459
+Bank: Avila, Thomas and Martinez Bank
+Account Number: 7282557661
+Consent Status: Revoked

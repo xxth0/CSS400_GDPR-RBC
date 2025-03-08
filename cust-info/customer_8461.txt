@@ -1,0 +1,6 @@
+Customer ID: 8461
+Name: Kristi Bridges
+National ID: 393-23-8250
+Bank: Rhodes-Russell Bank
+Account Number: 4813521742
+Consent Status: Granted

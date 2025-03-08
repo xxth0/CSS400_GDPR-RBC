@@ -1,0 +1,6 @@
+Customer ID: 259
+Name: Bradley Sims
+National ID: 113-23-1297
+Bank: Hicks-Armstrong Bank
+Account Number: 4046401536
+Consent Status: Revoked

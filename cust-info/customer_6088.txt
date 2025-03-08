@@ -1,0 +1,6 @@
+Customer ID: 6088
+Name: Peter Clark
+National ID: 522-70-0457
+Bank: Anderson, Dominguez and Reynolds Bank
+Account Number: 4846560195
+Consent Status: Revoked

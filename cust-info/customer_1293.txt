@@ -1,0 +1,6 @@
+Customer ID: 1293
+Name: Makayla Willis
+National ID: 336-45-4766
+Bank: Herrera, Erickson and Anderson Bank
+Account Number: 6016778033
+Consent Status: Revoked

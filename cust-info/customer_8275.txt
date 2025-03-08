@@ -1,0 +1,6 @@
+Customer ID: 8275
+Name: Nicholas Scott
+National ID: 360-51-8677
+Bank: Taylor, Vasquez and Eaton Bank
+Account Number: 2757019365
+Consent Status: Granted

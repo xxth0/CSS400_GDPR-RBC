@@ -1,0 +1,6 @@
+Customer ID: 5939
+Name: Kristen Stephens
+National ID: 491-23-2643
+Bank: Mcmillan, Phillips and Williams Bank
+Account Number: 5437106804
+Consent Status: Granted

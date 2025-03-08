@@ -1,0 +1,6 @@
+Customer ID: 3999
+Name: Peter Buchanan
+National ID: 843-64-3019
+Bank: Townsend-Moore Bank
+Account Number: 6668842447
+Consent Status: Granted

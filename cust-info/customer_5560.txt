@@ -1,0 +1,6 @@
+Customer ID: 5560
+Name: Ryan Gonzalez
+National ID: 155-66-3376
+Bank: Stokes, Solomon and Gutierrez Bank
+Account Number: 6593450190
+Consent Status: Granted

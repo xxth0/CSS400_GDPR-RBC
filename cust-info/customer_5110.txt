@@ -1,0 +1,6 @@
+Customer ID: 5110
+Name: Becky Davis
+National ID: 446-88-7173
+Bank: Murillo-Payne Bank
+Account Number: 6792540435
+Consent Status: Revoked

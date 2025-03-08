@@ -1,0 +1,6 @@
+Customer ID: 1299
+Name: Rachel Jones
+National ID: 171-96-0177
+Bank: Stark-Stevenson Bank
+Account Number: 9321689763
+Consent Status: Granted

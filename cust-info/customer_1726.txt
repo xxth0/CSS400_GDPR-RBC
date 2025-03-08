@@ -1,0 +1,6 @@
+Customer ID: 1726
+Name: Diana Watson
+National ID: 490-49-0692
+Bank: Hill, Moreno and Thomas Bank
+Account Number: 6384380934
+Consent Status: Revoked

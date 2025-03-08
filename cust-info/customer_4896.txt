@@ -1,0 +1,6 @@
+Customer ID: 4896
+Name: Amy Tate
+National ID: 869-64-7156
+Bank: Gardner Ltd Bank
+Account Number: 9668417576
+Consent Status: Revoked

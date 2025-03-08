@@ -1,0 +1,6 @@
+Customer ID: 8718
+Name: Heather Bradley
+National ID: 724-20-3815
+Bank: Hunt and Sons Bank
+Account Number: 6418070889
+Consent Status: Granted

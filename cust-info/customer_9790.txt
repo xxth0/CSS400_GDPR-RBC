@@ -1,0 +1,6 @@
+Customer ID: 9790
+Name: Kevin Young
+National ID: 321-89-3713
+Bank: Shaw-Perry Bank
+Account Number: 8076566342
+Consent Status: Revoked

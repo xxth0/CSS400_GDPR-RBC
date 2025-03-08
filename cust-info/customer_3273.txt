@@ -1,0 +1,6 @@
+Customer ID: 3273
+Name: Colton Fitzpatrick
+National ID: 796-68-8432
+Bank: Charles, Curtis and Sexton Bank
+Account Number: 7029056483
+Consent Status: Revoked

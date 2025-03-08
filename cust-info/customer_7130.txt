@@ -1,0 +1,6 @@
+Customer ID: 7130
+Name: Kelsey Ramos
+National ID: 870-13-5721
+Bank: Martin Group Bank
+Account Number: 3962609630
+Consent Status: Granted

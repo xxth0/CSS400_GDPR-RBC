@@ -1,0 +1,6 @@
+Customer ID: 7718
+Name: Jon Watson
+National ID: 428-99-5088
+Bank: Greer-Parker Bank
+Account Number: 3407463076
+Consent Status: Revoked

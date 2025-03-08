@@ -1,0 +1,6 @@
+Customer ID: 7033
+Name: Matthew Roach
+National ID: 355-17-5836
+Bank: Brewer LLC Bank
+Account Number: 8884929922
+Consent Status: Revoked

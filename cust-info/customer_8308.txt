@@ -1,0 +1,6 @@
+Customer ID: 8308
+Name: Austin Mann
+National ID: 147-12-2357
+Bank: Young-Clark Bank
+Account Number: 4694714502
+Consent Status: Revoked

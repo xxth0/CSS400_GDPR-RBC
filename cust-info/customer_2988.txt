@@ -1,0 +1,6 @@
+Customer ID: 2988
+Name: Jeffrey Keller
+National ID: 828-44-9325
+Bank: Stuart PLC Bank
+Account Number: 8248099038
+Consent Status: Granted

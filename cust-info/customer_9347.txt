@@ -1,0 +1,6 @@
+Customer ID: 9347
+Name: Johnny Hays
+National ID: 711-98-5327
+Bank: Wilson Group Bank
+Account Number: 1074000373
+Consent Status: Granted

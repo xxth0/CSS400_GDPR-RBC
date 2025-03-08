@@ -1,0 +1,6 @@
+Customer ID: 1787
+Name: John Dominguez
+National ID: 661-85-4617
+Bank: Martin LLC Bank
+Account Number: 8557391781
+Consent Status: Granted

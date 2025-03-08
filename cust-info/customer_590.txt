@@ -1,0 +1,6 @@
+Customer ID: 590
+Name: Alicia Olson
+National ID: 848-89-4210
+Bank: Williams and Sons Bank
+Account Number: 4322138549
+Consent Status: Revoked

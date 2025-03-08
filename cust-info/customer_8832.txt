@@ -1,0 +1,6 @@
+Customer ID: 8832
+Name: Alejandro Woods
+National ID: 310-14-9278
+Bank: Hughes PLC Bank
+Account Number: 4887008901
+Consent Status: Granted

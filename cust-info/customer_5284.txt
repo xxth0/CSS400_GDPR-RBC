@@ -1,0 +1,6 @@
+Customer ID: 5284
+Name: Samantha Parker
+National ID: 505-52-2855
+Bank: Morris Group Bank
+Account Number: 5836337410
+Consent Status: Granted

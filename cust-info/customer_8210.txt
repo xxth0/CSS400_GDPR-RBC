@@ -1,0 +1,6 @@
+Customer ID: 8210
+Name: Kevin Graham
+National ID: 608-28-7891
+Bank: Dennis Ltd Bank
+Account Number: 1356158265
+Consent Status: Revoked

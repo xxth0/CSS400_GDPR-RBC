@@ -1,0 +1,6 @@
+Customer ID: 9354
+Name: Jose Wright
+National ID: 567-96-4460
+Bank: Scott Inc Bank
+Account Number: 5635906673
+Consent Status: Granted

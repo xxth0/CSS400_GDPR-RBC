@@ -1,0 +1,6 @@
+Customer ID: 4862
+Name: Johnny Gilbert
+National ID: 365-71-2713
+Bank: Ramirez-Lynch Bank
+Account Number: 5293737002
+Consent Status: Revoked

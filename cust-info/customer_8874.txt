@@ -1,0 +1,6 @@
+Customer ID: 8874
+Name: Tamara Holt
+National ID: 725-12-8630
+Bank: Mathews-Smith Bank
+Account Number: 1332419835
+Consent Status: Granted

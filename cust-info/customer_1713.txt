@@ -1,0 +1,6 @@
+Customer ID: 1713
+Name: Mary Thompson
+National ID: 742-47-4261
+Bank: Rogers LLC Bank
+Account Number: 2425938604
+Consent Status: Revoked

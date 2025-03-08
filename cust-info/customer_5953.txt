@@ -1,0 +1,6 @@
+Customer ID: 5953
+Name: Joseph Anderson
+National ID: 807-15-7433
+Bank: Meadows, Simpson and Smith Bank
+Account Number: 5245367663
+Consent Status: Granted

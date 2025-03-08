@@ -1,0 +1,6 @@
+Customer ID: 7755
+Name: Scott Wilson
+National ID: 394-76-0998
+Bank: Sexton-Reynolds Bank
+Account Number: 1764488079
+Consent Status: Revoked

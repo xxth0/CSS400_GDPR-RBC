@@ -1,0 +1,6 @@
+Customer ID: 1059
+Name: Alexandria Mercer
+National ID: 312-67-6361
+Bank: Haynes Group Bank
+Account Number: 9078070198
+Consent Status: Granted

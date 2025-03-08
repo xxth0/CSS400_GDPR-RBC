@@ -1,0 +1,6 @@
+Customer ID: 1072
+Name: Melissa Stewart
+National ID: 391-17-1858
+Bank: Schultz-Sharp Bank
+Account Number: 5794927397
+Consent Status: Granted

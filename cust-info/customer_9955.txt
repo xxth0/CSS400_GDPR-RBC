@@ -1,0 +1,6 @@
+Customer ID: 9955
+Name: Neil Banks
+National ID: 420-27-9501
+Bank: Diaz, Harris and Davis Bank
+Account Number: 7803814537
+Consent Status: Granted

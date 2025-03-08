@@ -1,0 +1,6 @@
+Customer ID: 8954
+Name: Bradley Walton
+National ID: 014-26-8082
+Bank: Weaver Ltd Bank
+Account Number: 8959462486
+Consent Status: Revoked

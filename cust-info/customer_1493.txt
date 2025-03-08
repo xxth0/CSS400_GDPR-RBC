@@ -1,0 +1,6 @@
+Customer ID: 1493
+Name: James Salas
+National ID: 603-31-3558
+Bank: Hodges-Glenn Bank
+Account Number: 4889587806
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8570
+Name: Amanda Cowan
+National ID: 433-80-1731
+Bank: Walters-Castro Bank
+Account Number: 8761077263
+Consent Status: Granted

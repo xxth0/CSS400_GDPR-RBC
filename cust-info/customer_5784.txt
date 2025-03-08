@@ -1,0 +1,6 @@
+Customer ID: 5784
+Name: Curtis Boyle
+National ID: 581-21-3278
+Bank: Prince-Gomez Bank
+Account Number: 8539219018
+Consent Status: Revoked

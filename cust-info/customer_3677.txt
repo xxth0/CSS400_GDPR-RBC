@@ -1,0 +1,6 @@
+Customer ID: 3677
+Name: Austin Austin
+National ID: 201-90-0649
+Bank: Wu Inc Bank
+Account Number: 6512917578
+Consent Status: Revoked

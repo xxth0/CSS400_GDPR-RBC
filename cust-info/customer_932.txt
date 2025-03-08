@@ -1,0 +1,6 @@
+Customer ID: 932
+Name: Sue Gross
+National ID: 654-88-4410
+Bank: Anderson, Moore and Lee Bank
+Account Number: 8656540092
+Consent Status: Granted

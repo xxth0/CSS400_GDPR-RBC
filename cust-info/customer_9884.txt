@@ -1,0 +1,6 @@
+Customer ID: 9884
+Name: Carmen Mcclure
+National ID: 344-64-0466
+Bank: Benjamin, Salinas and Stewart Bank
+Account Number: 8496815923
+Consent Status: Revoked

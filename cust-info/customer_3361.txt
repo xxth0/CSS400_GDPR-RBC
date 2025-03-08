@@ -1,0 +1,6 @@
+Customer ID: 3361
+Name: John Vargas
+National ID: 728-26-7166
+Bank: Mcclure Inc Bank
+Account Number: 2887302053
+Consent Status: Revoked

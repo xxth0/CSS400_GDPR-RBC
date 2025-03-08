@@ -1,0 +1,6 @@
+Customer ID: 262
+Name: Holly Knapp
+National ID: 625-72-7848
+Bank: Reyes, Rose and Johnson Bank
+Account Number: 6516459117
+Consent Status: Granted

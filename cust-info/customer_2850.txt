@@ -1,0 +1,6 @@
+Customer ID: 2850
+Name: Amy Moore DDS
+National ID: 887-82-7424
+Bank: Yates, Jimenez and Lee Bank
+Account Number: 1663084170
+Consent Status: Revoked

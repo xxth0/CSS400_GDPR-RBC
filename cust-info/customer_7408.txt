@@ -1,0 +1,6 @@
+Customer ID: 7408
+Name: Alice Mcguire
+National ID: 328-47-0526
+Bank: Walker Ltd Bank
+Account Number: 1491634139
+Consent Status: Revoked

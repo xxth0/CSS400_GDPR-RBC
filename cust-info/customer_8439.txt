@@ -1,0 +1,6 @@
+Customer ID: 8439
+Name: Patricia Barrett
+National ID: 582-27-3494
+Bank: Mills, Williams and Love Bank
+Account Number: 6555384185
+Consent Status: Revoked

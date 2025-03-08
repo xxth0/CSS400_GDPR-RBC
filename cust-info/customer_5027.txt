@@ -1,0 +1,6 @@
+Customer ID: 5027
+Name: Kaitlyn Castillo
+National ID: 271-55-9877
+Bank: Wilson and Sons Bank
+Account Number: 6550368304
+Consent Status: Revoked

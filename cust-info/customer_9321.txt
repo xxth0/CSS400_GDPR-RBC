@@ -1,0 +1,6 @@
+Customer ID: 9321
+Name: Sarah Douglas
+National ID: 079-13-4225
+Bank: Thompson, Peters and Fletcher Bank
+Account Number: 1544378317
+Consent Status: Granted

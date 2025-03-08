@@ -1,0 +1,6 @@
+Customer ID: 922
+Name: Angela Scott
+National ID: 404-21-6581
+Bank: Johnson, Fuller and Kirk Bank
+Account Number: 2527028642
+Consent Status: Granted

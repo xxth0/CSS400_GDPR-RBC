@@ -1,0 +1,6 @@
+Customer ID: 5315
+Name: Dustin Williams
+National ID: 257-91-1295
+Bank: White Group Bank
+Account Number: 9014951721
+Consent Status: Granted

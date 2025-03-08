@@ -1,0 +1,6 @@
+Customer ID: 1576
+Name: Ashley Mcpherson
+National ID: 824-01-4307
+Bank: Evans Inc Bank
+Account Number: 4039223615
+Consent Status: Revoked

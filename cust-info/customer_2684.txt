@@ -1,0 +1,6 @@
+Customer ID: 2684
+Name: Kaitlyn Herrera
+National ID: 589-69-2327
+Bank: Phillips-Neal Bank
+Account Number: 6853047313
+Consent Status: Granted

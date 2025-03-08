@@ -1,0 +1,6 @@
+Customer ID: 6182
+Name: Juan Davis
+National ID: 390-12-6538
+Bank: Thompson-Garza Bank
+Account Number: 6525024068
+Consent Status: Revoked

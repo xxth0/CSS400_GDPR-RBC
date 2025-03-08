@@ -1,0 +1,6 @@
+Customer ID: 800
+Name: Michael Williams
+National ID: 718-68-1032
+Bank: Richardson-Sanchez Bank
+Account Number: 4258255098
+Consent Status: Revoked

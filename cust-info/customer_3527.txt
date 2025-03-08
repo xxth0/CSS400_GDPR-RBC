@@ -1,0 +1,6 @@
+Customer ID: 3527
+Name: James Brooks
+National ID: 126-48-0316
+Bank: Herrera, Arnold and Ayala Bank
+Account Number: 5867987499
+Consent Status: Revoked

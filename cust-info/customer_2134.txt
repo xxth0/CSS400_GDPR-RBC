@@ -1,0 +1,6 @@
+Customer ID: 2134
+Name: Gerald Miller
+National ID: 646-37-0999
+Bank: Thompson Ltd Bank
+Account Number: 1583031799
+Consent Status: Granted

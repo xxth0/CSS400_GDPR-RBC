@@ -1,0 +1,6 @@
+Customer ID: 2435
+Name: Joseph Phillips
+National ID: 487-09-9620
+Bank: Freeman-Lee Bank
+Account Number: 4505150815
+Consent Status: Revoked

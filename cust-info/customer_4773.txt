@@ -1,0 +1,6 @@
+Customer ID: 4773
+Name: Elizabeth Taylor
+National ID: 175-15-2572
+Bank: Munoz Ltd Bank
+Account Number: 6426144559
+Consent Status: Revoked

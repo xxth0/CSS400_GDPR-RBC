@@ -1,0 +1,6 @@
+Customer ID: 3713
+Name: James Henry
+National ID: 644-07-0658
+Bank: Huynh-Atkinson Bank
+Account Number: 5481812598
+Consent Status: Revoked

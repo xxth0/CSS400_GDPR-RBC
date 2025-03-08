@@ -1,0 +1,6 @@
+Customer ID: 6319
+Name: April Mullen
+National ID: 890-35-0121
+Bank: Owens-Montgomery Bank
+Account Number: 3912469332
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6322
+Name: Christina Rodriguez
+National ID: 096-55-2571
+Bank: Holland, Martin and Morris Bank
+Account Number: 8378951452
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6315
+Name: Michael Mclaughlin
+National ID: 041-37-0704
+Bank: Hines and Sons Bank
+Account Number: 3102752188
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7017
+Name: Eric Hayes
+National ID: 681-11-7832
+Bank: Harris-Black Bank
+Account Number: 2698332573
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8154
+Name: Alejandro Campbell
+National ID: 286-73-9513
+Bank: Nelson-Reyes Bank
+Account Number: 4941358363
+Consent Status: Granted

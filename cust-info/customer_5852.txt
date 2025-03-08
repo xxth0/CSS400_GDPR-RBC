@@ -1,0 +1,6 @@
+Customer ID: 5852
+Name: Nicholas Trevino
+National ID: 554-27-9317
+Bank: Johnson, Huynh and Flowers Bank
+Account Number: 3994764563
+Consent Status: Granted

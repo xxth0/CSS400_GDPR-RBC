@@ -1,0 +1,6 @@
+Customer ID: 8006
+Name: Patricia Barron
+National ID: 082-95-1599
+Bank: Rhodes LLC Bank
+Account Number: 7234535006
+Consent Status: Revoked

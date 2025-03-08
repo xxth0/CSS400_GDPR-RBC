@@ -1,0 +1,6 @@
+Customer ID: 1765
+Name: Angelica Smith
+National ID: 894-80-6458
+Bank: Hunt, Ayala and Stafford Bank
+Account Number: 1126063631
+Consent Status: Revoked

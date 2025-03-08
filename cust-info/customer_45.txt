@@ -1,0 +1,6 @@
+Customer ID: 45
+Name: Elizabeth Powers
+National ID: 478-62-9654
+Bank: Nelson and Sons Bank
+Account Number: 9294315943
+Consent Status: Granted

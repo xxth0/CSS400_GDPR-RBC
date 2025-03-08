@@ -1,0 +1,6 @@
+Customer ID: 3314
+Name: Brian Henderson
+National ID: 474-39-5274
+Bank: Figueroa-Meza Bank
+Account Number: 9834348222
+Consent Status: Granted

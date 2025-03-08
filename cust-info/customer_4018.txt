@@ -1,0 +1,6 @@
+Customer ID: 4018
+Name: Amanda Sandoval
+National ID: 344-66-5004
+Bank: Harvey-Nash Bank
+Account Number: 6054828451
+Consent Status: Revoked

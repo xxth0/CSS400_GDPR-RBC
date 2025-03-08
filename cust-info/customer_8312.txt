@@ -1,0 +1,6 @@
+Customer ID: 8312
+Name: Andrea Roberts
+National ID: 507-17-2576
+Bank: Larson-Taylor Bank
+Account Number: 6421808034
+Consent Status: Revoked

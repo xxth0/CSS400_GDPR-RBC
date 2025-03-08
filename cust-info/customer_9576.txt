@@ -1,0 +1,6 @@
+Customer ID: 9576
+Name: Dr. Tina Reed
+National ID: 326-67-2418
+Bank: Cross PLC Bank
+Account Number: 2688903829
+Consent Status: Revoked

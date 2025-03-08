@@ -1,0 +1,6 @@
+Customer ID: 2142
+Name: Kaitlyn Cox
+National ID: 544-60-4623
+Bank: Weaver Group Bank
+Account Number: 7344643125
+Consent Status: Revoked

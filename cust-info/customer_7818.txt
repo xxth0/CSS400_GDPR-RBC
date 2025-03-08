@@ -1,0 +1,6 @@
+Customer ID: 7818
+Name: Daniel Smith
+National ID: 699-60-8474
+Bank: Carlson, Pearson and Hall Bank
+Account Number: 2522152672
+Consent Status: Revoked

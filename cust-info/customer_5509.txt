@@ -1,0 +1,6 @@
+Customer ID: 5509
+Name: Elizabeth Lopez
+National ID: 601-78-1438
+Bank: Duncan, Whitaker and Coleman Bank
+Account Number: 4983539251
+Consent Status: Granted

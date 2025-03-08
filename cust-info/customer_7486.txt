@@ -1,0 +1,6 @@
+Customer ID: 7486
+Name: Robert Bruce
+National ID: 544-98-3019
+Bank: Ruiz-Davis Bank
+Account Number: 9024572766
+Consent Status: Revoked

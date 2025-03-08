@@ -1,0 +1,6 @@
+Customer ID: 5814
+Name: Taylor Watkins
+National ID: 880-95-7380
+Bank: Bryant-Blankenship Bank
+Account Number: 2613690579
+Consent Status: Revoked

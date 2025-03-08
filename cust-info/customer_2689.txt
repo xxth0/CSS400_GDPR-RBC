@@ -1,0 +1,6 @@
+Customer ID: 2689
+Name: Jennifer Rodriguez
+National ID: 042-28-7165
+Bank: Sanchez, Young and Thomas Bank
+Account Number: 7597850159
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3129
+Name: Amanda Decker
+National ID: 408-18-8336
+Bank: Franklin-Moore Bank
+Account Number: 5832308255
+Consent Status: Granted

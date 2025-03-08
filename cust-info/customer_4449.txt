@@ -1,0 +1,6 @@
+Customer ID: 4449
+Name: Vincent Cooley
+National ID: 553-71-1547
+Bank: Sandoval, Frank and Bishop Bank
+Account Number: 3843558363
+Consent Status: Revoked

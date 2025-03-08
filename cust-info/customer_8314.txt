@@ -1,0 +1,6 @@
+Customer ID: 8314
+Name: John Cobb
+National ID: 047-16-8091
+Bank: White-Phelps Bank
+Account Number: 2044911311
+Consent Status: Granted

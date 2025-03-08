@@ -1,0 +1,6 @@
+Customer ID: 4208
+Name: Nicole Medina
+National ID: 023-10-9679
+Bank: Welch LLC Bank
+Account Number: 7803730260
+Consent Status: Granted

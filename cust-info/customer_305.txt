@@ -1,0 +1,6 @@
+Customer ID: 305
+Name: Paul Grimes
+National ID: 679-60-1533
+Bank: Crane-Burton Bank
+Account Number: 7904023164
+Consent Status: Granted

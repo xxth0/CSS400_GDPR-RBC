@@ -1,0 +1,6 @@
+Customer ID: 3616
+Name: Diane Thompson
+National ID: 448-03-3439
+Bank: Berg and Sons Bank
+Account Number: 4007009184
+Consent Status: Granted

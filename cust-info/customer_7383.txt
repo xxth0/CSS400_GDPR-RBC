@@ -1,0 +1,6 @@
+Customer ID: 7383
+Name: Misty Jones
+National ID: 285-03-8461
+Bank: Gomez Ltd Bank
+Account Number: 2087524982
+Consent Status: Revoked

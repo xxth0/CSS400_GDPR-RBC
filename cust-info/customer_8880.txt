@@ -1,0 +1,6 @@
+Customer ID: 8880
+Name: Sarah Sanchez
+National ID: 353-64-3481
+Bank: Nguyen LLC Bank
+Account Number: 1476496108
+Consent Status: Revoked

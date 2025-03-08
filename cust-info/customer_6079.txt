@@ -1,0 +1,6 @@
+Customer ID: 6079
+Name: Samuel Martin
+National ID: 367-48-8938
+Bank: Reed-Tucker Bank
+Account Number: 9461463585
+Consent Status: Granted

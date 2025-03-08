@@ -1,0 +1,6 @@
+Customer ID: 5742
+Name: Lauren Lee
+National ID: 257-91-6210
+Bank: Huff Group Bank
+Account Number: 1082173999
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8744
+Name: Joanna Flores
+National ID: 362-59-4323
+Bank: Jackson-Simpson Bank
+Account Number: 4194438245
+Consent Status: Revoked

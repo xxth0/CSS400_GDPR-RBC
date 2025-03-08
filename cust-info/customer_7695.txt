@@ -1,0 +1,6 @@
+Customer ID: 7695
+Name: William Berry
+National ID: 801-70-7544
+Bank: Robles PLC Bank
+Account Number: 1130969620
+Consent Status: Revoked

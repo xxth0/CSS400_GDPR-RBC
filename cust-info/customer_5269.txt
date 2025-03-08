@@ -1,0 +1,6 @@
+Customer ID: 5269
+Name: Charles Moody
+National ID: 869-18-5712
+Bank: Cox PLC Bank
+Account Number: 5382995117
+Consent Status: Revoked

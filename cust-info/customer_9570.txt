@@ -1,0 +1,6 @@
+Customer ID: 9570
+Name: Jessica Miller
+National ID: 674-03-1728
+Bank: Wood, Mccarthy and Mullins Bank
+Account Number: 3174829173
+Consent Status: Granted

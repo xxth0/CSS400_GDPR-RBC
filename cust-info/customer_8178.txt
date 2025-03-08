@@ -1,0 +1,6 @@
+Customer ID: 8178
+Name: Deborah Murray
+National ID: 054-96-3096
+Bank: Contreras Inc Bank
+Account Number: 5521639481
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2636
+Name: Kelly Cummings
+National ID: 149-54-6887
+Bank: Smith, Bell and Woods Bank
+Account Number: 3217327311
+Consent Status: Revoked

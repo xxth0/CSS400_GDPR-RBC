@@ -1,0 +1,6 @@
+Customer ID: 811
+Name: William Young
+National ID: 563-77-7216
+Bank: Garcia-Stanley Bank
+Account Number: 8230720270
+Consent Status: Revoked

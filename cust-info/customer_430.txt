@@ -1,0 +1,6 @@
+Customer ID: 430
+Name: Rachael Thomas
+National ID: 164-47-5305
+Bank: Turner-Mitchell Bank
+Account Number: 1955781681
+Consent Status: Revoked

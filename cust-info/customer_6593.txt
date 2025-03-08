@@ -1,0 +1,6 @@
+Customer ID: 6593
+Name: Elizabeth Rocha
+National ID: 164-09-9455
+Bank: Gomez, Ruiz and Alexander Bank
+Account Number: 3761364782
+Consent Status: Granted

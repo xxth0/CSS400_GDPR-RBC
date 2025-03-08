@@ -1,0 +1,6 @@
+Customer ID: 1399
+Name: Nathan Miller
+National ID: 409-01-9664
+Bank: Hernandez-Graves Bank
+Account Number: 6433928690
+Consent Status: Granted

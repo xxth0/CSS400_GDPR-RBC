@@ -1,0 +1,6 @@
+Customer ID: 6038
+Name: Michael Conner
+National ID: 332-51-5061
+Bank: Sanders, Medina and Combs Bank
+Account Number: 3210675988
+Consent Status: Revoked

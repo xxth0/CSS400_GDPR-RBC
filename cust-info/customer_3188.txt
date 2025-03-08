@@ -1,0 +1,6 @@
+Customer ID: 3188
+Name: Mrs. Leslie Mitchell
+National ID: 082-77-0971
+Bank: Haley-Hatfield Bank
+Account Number: 9783538118
+Consent Status: Granted

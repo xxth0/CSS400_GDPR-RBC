@@ -1,0 +1,6 @@
+Customer ID: 7676
+Name: Rachel Davis
+National ID: 082-50-6001
+Bank: Adams and Sons Bank
+Account Number: 2616780663
+Consent Status: Revoked

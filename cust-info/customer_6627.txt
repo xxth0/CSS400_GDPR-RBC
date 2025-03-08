@@ -1,0 +1,6 @@
+Customer ID: 6627
+Name: Christine Hamilton
+National ID: 786-96-9519
+Bank: Hall Group Bank
+Account Number: 3070595474
+Consent Status: Granted

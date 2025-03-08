@@ -1,0 +1,6 @@
+Customer ID: 8380
+Name: Amy Ford
+National ID: 564-40-8342
+Bank: Cooper-Jarvis Bank
+Account Number: 8201722955
+Consent Status: Revoked

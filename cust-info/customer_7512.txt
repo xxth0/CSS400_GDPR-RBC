@@ -1,0 +1,6 @@
+Customer ID: 7512
+Name: Jerry Barnes
+National ID: 504-40-6153
+Bank: Terry Inc Bank
+Account Number: 2529294328
+Consent Status: Revoked

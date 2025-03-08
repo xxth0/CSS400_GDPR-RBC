@@ -1,0 +1,6 @@
+Customer ID: 3226
+Name: Sean Parsons
+National ID: 607-61-0226
+Bank: King, Yang and Underwood Bank
+Account Number: 4986489770
+Consent Status: Granted

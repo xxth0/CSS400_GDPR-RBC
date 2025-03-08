@@ -1,0 +1,6 @@
+Customer ID: 2032
+Name: Nathaniel Andrews
+National ID: 360-94-7407
+Bank: Stevenson-Anderson Bank
+Account Number: 2083603188
+Consent Status: Granted

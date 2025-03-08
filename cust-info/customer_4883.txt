@@ -1,0 +1,6 @@
+Customer ID: 4883
+Name: John Lopez
+National ID: 050-03-3675
+Bank: Morrison LLC Bank
+Account Number: 4253718240
+Consent Status: Granted

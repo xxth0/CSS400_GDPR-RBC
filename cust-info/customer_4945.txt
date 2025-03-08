@@ -1,0 +1,6 @@
+Customer ID: 4945
+Name: Casey Hutchinson
+National ID: 527-39-4821
+Bank: Francis Ltd Bank
+Account Number: 8031637821
+Consent Status: Granted

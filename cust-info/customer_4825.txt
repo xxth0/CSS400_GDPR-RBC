@@ -1,0 +1,6 @@
+Customer ID: 4825
+Name: Natalie Golden
+National ID: 883-20-3916
+Bank: Mann Ltd Bank
+Account Number: 4429772400
+Consent Status: Revoked

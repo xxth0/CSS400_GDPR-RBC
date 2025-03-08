@@ -1,0 +1,6 @@
+Customer ID: 471
+Name: Julia Johnson
+National ID: 755-29-9847
+Bank: Nunez, Butler and Green Bank
+Account Number: 2129943833
+Consent Status: Granted

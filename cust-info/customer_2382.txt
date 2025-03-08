@@ -1,0 +1,6 @@
+Customer ID: 2382
+Name: Melissa Lawrence
+National ID: 213-57-1995
+Bank: Diaz Group Bank
+Account Number: 4989610927
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6195
+Name: Jason Dixon
+National ID: 147-64-8145
+Bank: Atkins, Rubio and Garcia Bank
+Account Number: 2743272303
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5108
+Name: Adam Brown
+National ID: 578-66-7228
+Bank: Miller-Pratt Bank
+Account Number: 5637054061
+Consent Status: Revoked

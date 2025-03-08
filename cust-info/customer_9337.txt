@@ -1,0 +1,6 @@
+Customer ID: 9337
+Name: Jose Scott
+National ID: 601-24-9356
+Bank: Guerrero, Scott and Suarez Bank
+Account Number: 6602054868
+Consent Status: Granted

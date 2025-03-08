@@ -1,0 +1,6 @@
+Customer ID: 6988
+Name: Cheryl Cobb
+National ID: 738-98-4461
+Bank: Smith, Yates and Wheeler Bank
+Account Number: 5498351965
+Consent Status: Granted

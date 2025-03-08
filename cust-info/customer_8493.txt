@@ -1,0 +1,6 @@
+Customer ID: 8493
+Name: Maria Sanders
+National ID: 290-28-9989
+Bank: Arnold PLC Bank
+Account Number: 8185941006
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7298
+Name: Hayley Shannon
+National ID: 300-76-6782
+Bank: Smith-Campbell Bank
+Account Number: 1779164450
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4172
+Name: Sue Wilson
+National ID: 494-41-2972
+Bank: Collins Group Bank
+Account Number: 4162782455
+Consent Status: Granted

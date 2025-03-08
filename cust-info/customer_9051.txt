@@ -1,0 +1,6 @@
+Customer ID: 9051
+Name: Stephanie Todd
+National ID: 507-55-1808
+Bank: Wallace, Carpenter and Pitts Bank
+Account Number: 4528280425
+Consent Status: Revoked

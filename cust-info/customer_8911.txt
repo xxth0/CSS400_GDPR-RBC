@@ -1,0 +1,6 @@
+Customer ID: 8911
+Name: Edward Smith
+National ID: 480-87-5632
+Bank: Byrd, Oliver and Martin Bank
+Account Number: 5745118648
+Consent Status: Granted

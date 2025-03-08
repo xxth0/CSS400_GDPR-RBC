@@ -1,0 +1,6 @@
+Customer ID: 9701
+Name: Jennifer Yu
+National ID: 349-65-7267
+Bank: Burgess Inc Bank
+Account Number: 7224162461
+Consent Status: Revoked

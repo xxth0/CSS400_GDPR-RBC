@@ -1,0 +1,6 @@
+Customer ID: 1723
+Name: Mark Wallace
+National ID: 287-25-7544
+Bank: Hubbard-Chavez Bank
+Account Number: 8316404401
+Consent Status: Revoked

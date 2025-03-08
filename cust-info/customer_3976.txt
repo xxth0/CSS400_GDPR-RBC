@@ -1,0 +1,6 @@
+Customer ID: 3976
+Name: Patrick Hamilton
+National ID: 182-09-1364
+Bank: Cook-Phillips Bank
+Account Number: 8286415691
+Consent Status: Granted

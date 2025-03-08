@@ -1,0 +1,6 @@
+Customer ID: 3423
+Name: James Carroll
+National ID: 039-40-6276
+Bank: Callahan-Brown Bank
+Account Number: 5516526972
+Consent Status: Revoked

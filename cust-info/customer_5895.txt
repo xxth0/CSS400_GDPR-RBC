@@ -1,0 +1,6 @@
+Customer ID: 5895
+Name: Stephanie Chavez
+National ID: 549-23-7584
+Bank: Williams PLC Bank
+Account Number: 7868706226
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6201
+Name: Sean Webster
+National ID: 081-37-9590
+Bank: Sullivan, Miller and Calhoun Bank
+Account Number: 7353613410
+Consent Status: Granted

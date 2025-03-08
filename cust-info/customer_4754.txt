@@ -1,0 +1,6 @@
+Customer ID: 4754
+Name: Alison Rodriguez
+National ID: 869-80-5232
+Bank: Harmon-Cummings Bank
+Account Number: 2380250893
+Consent Status: Granted

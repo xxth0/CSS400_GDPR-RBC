@@ -1,0 +1,6 @@
+Customer ID: 4337
+Name: Ryan Bell
+National ID: 597-58-0380
+Bank: Bowman-Harrison Bank
+Account Number: 2162367556
+Consent Status: Revoked

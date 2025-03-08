@@ -1,0 +1,6 @@
+Customer ID: 1036
+Name: Anthony Jones
+National ID: 064-96-3359
+Bank: Barry-Aguilar Bank
+Account Number: 7525676520
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8599
+Name: Sarah Morrow
+National ID: 800-72-8856
+Bank: Hamilton-Bullock Bank
+Account Number: 9371866773
+Consent Status: Granted

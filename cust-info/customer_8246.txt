@@ -1,0 +1,6 @@
+Customer ID: 8246
+Name: Ana Payne
+National ID: 736-20-7549
+Bank: Howard-Snyder Bank
+Account Number: 2189183148
+Consent Status: Revoked

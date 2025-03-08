@@ -1,0 +1,6 @@
+Customer ID: 4871
+Name: James Schmidt
+National ID: 611-32-6546
+Bank: Henderson PLC Bank
+Account Number: 5168004769
+Consent Status: Granted

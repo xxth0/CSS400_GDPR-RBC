@@ -1,0 +1,6 @@
+Customer ID: 8364
+Name: Michael Jones
+National ID: 602-20-9060
+Bank: Yates, Miller and Bowers Bank
+Account Number: 9357661711
+Consent Status: Revoked

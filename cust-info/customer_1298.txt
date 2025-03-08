@@ -1,0 +1,6 @@
+Customer ID: 1298
+Name: Cassie Douglas
+National ID: 894-13-5906
+Bank: Moore, Herman and Sherman Bank
+Account Number: 6483150521
+Consent Status: Revoked

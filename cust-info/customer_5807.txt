@@ -1,0 +1,6 @@
+Customer ID: 5807
+Name: Derrick Phillips
+National ID: 593-81-3532
+Bank: Ramirez, Miller and Nielsen Bank
+Account Number: 6474278431
+Consent Status: Granted

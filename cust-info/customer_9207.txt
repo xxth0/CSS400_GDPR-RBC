@@ -1,0 +1,6 @@
+Customer ID: 9207
+Name: Amy Brown
+National ID: 315-28-0392
+Bank: Hooper-Johnson Bank
+Account Number: 8117570970
+Consent Status: Revoked

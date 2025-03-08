@@ -1,0 +1,6 @@
+Customer ID: 2577
+Name: Jessica Bolton
+National ID: 721-96-5548
+Bank: Duncan and Sons Bank
+Account Number: 5665389464
+Consent Status: Revoked

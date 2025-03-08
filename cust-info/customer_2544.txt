@@ -1,0 +1,6 @@
+Customer ID: 2544
+Name: Robert Sanchez
+National ID: 825-49-7301
+Bank: Williams, Kelly and Osborn Bank
+Account Number: 9915151951
+Consent Status: Granted

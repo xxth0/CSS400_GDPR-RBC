@@ -1,0 +1,6 @@
+Customer ID: 8854
+Name: Danny Medina MD
+National ID: 588-43-2940
+Bank: Jackson-Aguilar Bank
+Account Number: 8631290653
+Consent Status: Granted

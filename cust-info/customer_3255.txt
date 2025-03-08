@@ -1,0 +1,6 @@
+Customer ID: 3255
+Name: Jennifer James
+National ID: 134-57-0282
+Bank: Adams, Berry and Lewis Bank
+Account Number: 3251922807
+Consent Status: Revoked

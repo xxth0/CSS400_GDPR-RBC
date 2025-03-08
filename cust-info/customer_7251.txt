@@ -1,0 +1,6 @@
+Customer ID: 7251
+Name: Courtney Miller
+National ID: 611-13-6041
+Bank: Nguyen, Kelly and Nicholson Bank
+Account Number: 5417443976
+Consent Status: Revoked

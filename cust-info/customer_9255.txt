@@ -1,0 +1,6 @@
+Customer ID: 9255
+Name: Brad West
+National ID: 193-20-8557
+Bank: Perez, Gonzales and Knight Bank
+Account Number: 1017098918
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9340
+Name: Michael Brown
+National ID: 052-83-4800
+Bank: Sosa LLC Bank
+Account Number: 7727259304
+Consent Status: Granted

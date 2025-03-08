@@ -1,0 +1,6 @@
+Customer ID: 4677
+Name: Mr. Justin Smith
+National ID: 720-40-7713
+Bank: Sanders, Christensen and Montgomery Bank
+Account Number: 2144438464
+Consent Status: Granted

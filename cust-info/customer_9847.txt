@@ -1,0 +1,6 @@
+Customer ID: 9847
+Name: Donna Phelps
+National ID: 233-14-7184
+Bank: Gill-Booker Bank
+Account Number: 5922671312
+Consent Status: Revoked

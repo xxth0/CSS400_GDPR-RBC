@@ -1,0 +1,6 @@
+Customer ID: 1596
+Name: Nicholas Soto
+National ID: 587-65-4341
+Bank: Flores, Avery and Mccormick Bank
+Account Number: 9990824216
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1507
+Name: Daniel George
+National ID: 338-62-0621
+Bank: Jones, Valdez and Walker Bank
+Account Number: 9182384850
+Consent Status: Granted

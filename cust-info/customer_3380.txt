@@ -1,0 +1,6 @@
+Customer ID: 3380
+Name: Olivia Allen
+National ID: 884-22-7153
+Bank: Porter, Adams and Chen Bank
+Account Number: 9721646274
+Consent Status: Revoked

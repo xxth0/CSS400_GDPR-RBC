@@ -1,0 +1,6 @@
+Customer ID: 5924
+Name: Jacob Walton
+National ID: 167-34-6521
+Bank: Hancock and Sons Bank
+Account Number: 7552838944
+Consent Status: Revoked

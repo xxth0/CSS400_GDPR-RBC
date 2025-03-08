@@ -1,0 +1,6 @@
+Customer ID: 2686
+Name: Steven Baker
+National ID: 568-50-4993
+Bank: Johnson, Richardson and Joseph Bank
+Account Number: 7951201742
+Consent Status: Granted

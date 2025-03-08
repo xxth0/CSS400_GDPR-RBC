@@ -1,0 +1,6 @@
+Customer ID: 3582
+Name: Christina Pittman
+National ID: 794-64-5652
+Bank: Wilson-Wilson Bank
+Account Number: 5444632852
+Consent Status: Granted

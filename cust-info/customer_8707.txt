@@ -1,0 +1,6 @@
+Customer ID: 8707
+Name: Luis Johnson
+National ID: 833-66-7872
+Bank: Wheeler-Rollins Bank
+Account Number: 6893757132
+Consent Status: Granted

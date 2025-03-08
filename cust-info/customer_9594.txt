@@ -1,0 +1,6 @@
+Customer ID: 9594
+Name: Frank Taylor
+National ID: 845-91-9710
+Bank: Jackson Group Bank
+Account Number: 5025051058
+Consent Status: Granted

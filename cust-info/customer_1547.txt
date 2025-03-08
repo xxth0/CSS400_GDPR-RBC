@@ -1,0 +1,6 @@
+Customer ID: 1547
+Name: Natalie Garner
+National ID: 251-59-0176
+Bank: Evans, Hardin and Mccall Bank
+Account Number: 8583677441
+Consent Status: Granted

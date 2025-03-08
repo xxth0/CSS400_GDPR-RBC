@@ -1,0 +1,6 @@
+Customer ID: 9533
+Name: Amy Barajas
+National ID: 062-54-0302
+Bank: Ortiz, Hanson and Ross Bank
+Account Number: 9720765135
+Consent Status: Granted

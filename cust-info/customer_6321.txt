@@ -1,0 +1,6 @@
+Customer ID: 6321
+Name: Peter Wells
+National ID: 530-56-5949
+Bank: Valenzuela-Brennan Bank
+Account Number: 4001527796
+Consent Status: Granted

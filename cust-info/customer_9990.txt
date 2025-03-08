@@ -1,0 +1,6 @@
+Customer ID: 9990
+Name: Stacy Brooks
+National ID: 136-90-9463
+Bank: Sanchez Ltd Bank
+Account Number: 5301890954
+Consent Status: Granted

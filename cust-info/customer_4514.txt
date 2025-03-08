@@ -1,0 +1,6 @@
+Customer ID: 4514
+Name: Douglas Young
+National ID: 701-50-6287
+Bank: Moran, Moore and Taylor Bank
+Account Number: 7991697711
+Consent Status: Revoked

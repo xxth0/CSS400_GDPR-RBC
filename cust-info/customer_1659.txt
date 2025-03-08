@@ -1,0 +1,6 @@
+Customer ID: 1659
+Name: Phillip Mckinney
+National ID: 835-85-7722
+Bank: Rodriguez-Lloyd Bank
+Account Number: 9128810042
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5643
+Name: William White
+National ID: 325-91-8731
+Bank: Santana, Parker and Blankenship Bank
+Account Number: 8008980492
+Consent Status: Revoked

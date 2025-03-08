@@ -1,0 +1,6 @@
+Customer ID: 9010
+Name: Andrea Hull
+National ID: 603-42-8032
+Bank: Jenkins-Rodriguez Bank
+Account Number: 2950610236
+Consent Status: Granted

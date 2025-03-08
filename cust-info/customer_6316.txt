@@ -1,0 +1,6 @@
+Customer ID: 6316
+Name: Gary Henderson
+National ID: 388-77-4075
+Bank: Brown, Duran and Stokes Bank
+Account Number: 7897720663
+Consent Status: Granted

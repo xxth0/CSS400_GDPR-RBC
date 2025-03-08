@@ -1,0 +1,6 @@
+Customer ID: 9296
+Name: Christopher Stephens
+National ID: 152-89-6988
+Bank: Thompson-Moreno Bank
+Account Number: 6483237188
+Consent Status: Granted

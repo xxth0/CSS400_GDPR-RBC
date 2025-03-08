@@ -1,0 +1,6 @@
+Customer ID: 6710
+Name: Rodney Strickland
+National ID: 883-06-7233
+Bank: Cervantes and Sons Bank
+Account Number: 5954745577
+Consent Status: Granted

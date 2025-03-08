@@ -1,0 +1,6 @@
+Customer ID: 2757
+Name: Jacob Cruz
+National ID: 313-06-9009
+Bank: Matthews, Hampton and Carroll Bank
+Account Number: 8017878692
+Consent Status: Revoked

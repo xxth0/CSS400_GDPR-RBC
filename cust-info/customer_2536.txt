@@ -1,0 +1,6 @@
+Customer ID: 2536
+Name: William Fleming
+National ID: 352-74-1473
+Bank: Carlson, Garcia and Barr Bank
+Account Number: 3653711344
+Consent Status: Granted

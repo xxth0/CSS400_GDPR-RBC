@@ -1,0 +1,6 @@
+Customer ID: 979
+Name: Ashley Jackson
+National ID: 576-95-2692
+Bank: Stewart, Hammond and Smith Bank
+Account Number: 2864496398
+Consent Status: Revoked

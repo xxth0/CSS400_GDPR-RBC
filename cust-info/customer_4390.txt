@@ -1,0 +1,6 @@
+Customer ID: 4390
+Name: David Perez
+National ID: 458-18-4824
+Bank: Graham-Cooper Bank
+Account Number: 6657352486
+Consent Status: Revoked

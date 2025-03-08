@@ -1,0 +1,6 @@
+Customer ID: 1649
+Name: Samuel Bird
+National ID: 880-93-2457
+Bank: Lee, Moore and Robinson Bank
+Account Number: 1001101617
+Consent Status: Revoked

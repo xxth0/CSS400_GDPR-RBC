@@ -1,0 +1,6 @@
+Customer ID: 109
+Name: David Marsh
+National ID: 012-67-0343
+Bank: Hull LLC Bank
+Account Number: 1920358161
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8296
+Name: Kimberly Walters
+National ID: 024-27-5514
+Bank: Murphy, Thomas and Guzman Bank
+Account Number: 2226065711
+Consent Status: Granted

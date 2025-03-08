@@ -1,0 +1,6 @@
+Customer ID: 8287
+Name: Stephanie Peterson
+National ID: 151-28-4077
+Bank: Christian Ltd Bank
+Account Number: 8773618805
+Consent Status: Granted

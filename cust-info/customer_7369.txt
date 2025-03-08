@@ -1,0 +1,6 @@
+Customer ID: 7369
+Name: Nicholas Austin
+National ID: 106-40-6960
+Bank: Richards-Hughes Bank
+Account Number: 7595921502
+Consent Status: Revoked

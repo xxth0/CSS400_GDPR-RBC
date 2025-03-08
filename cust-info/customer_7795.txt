@@ -1,0 +1,6 @@
+Customer ID: 7795
+Name: Dr. Anita Smith
+National ID: 667-02-1129
+Bank: Hatfield, Hubbard and Sanchez Bank
+Account Number: 3325065994
+Consent Status: Revoked

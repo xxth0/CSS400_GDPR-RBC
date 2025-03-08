@@ -1,0 +1,6 @@
+Customer ID: 9455
+Name: Teresa Salazar
+National ID: 128-92-3758
+Bank: Collins Ltd Bank
+Account Number: 3508445097
+Consent Status: Granted

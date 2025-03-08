@@ -1,0 +1,6 @@
+Customer ID: 3054
+Name: Susan Price
+National ID: 364-06-2198
+Bank: Santos LLC Bank
+Account Number: 5693723490
+Consent Status: Granted

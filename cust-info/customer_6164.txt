@@ -1,0 +1,6 @@
+Customer ID: 6164
+Name: Dominique Mccoy
+National ID: 038-50-0980
+Bank: Mcconnell, Powers and Kennedy Bank
+Account Number: 6733788442
+Consent Status: Granted

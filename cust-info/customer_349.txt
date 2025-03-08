@@ -1,0 +1,6 @@
+Customer ID: 349
+Name: George Perry
+National ID: 038-58-6005
+Bank: Fisher, Collins and Reed Bank
+Account Number: 7478621408
+Consent Status: Granted

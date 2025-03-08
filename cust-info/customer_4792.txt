@@ -1,0 +1,6 @@
+Customer ID: 4792
+Name: Larry Watson
+National ID: 650-88-0310
+Bank: Russo-Robertson Bank
+Account Number: 2253472456
+Consent Status: Revoked

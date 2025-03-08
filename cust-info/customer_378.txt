@@ -1,0 +1,6 @@
+Customer ID: 378
+Name: Austin Morris
+National ID: 044-90-7664
+Bank: Walker-Cunningham Bank
+Account Number: 9234968219
+Consent Status: Granted

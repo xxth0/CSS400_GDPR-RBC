@@ -1,0 +1,6 @@
+Customer ID: 5568
+Name: Gina Carrillo
+National ID: 252-09-6731
+Bank: Davis-Parker Bank
+Account Number: 5326472500
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 220
+Name: Michael Noble
+National ID: 363-09-5146
+Bank: Chapman Ltd Bank
+Account Number: 7015184500
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7277
+Name: Scott Rasmussen
+National ID: 708-09-9813
+Bank: Castillo, Hickman and Pearson Bank
+Account Number: 9834904935
+Consent Status: Granted

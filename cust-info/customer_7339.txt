@@ -1,0 +1,6 @@
+Customer ID: 7339
+Name: Cody Wells
+National ID: 540-73-6167
+Bank: Yates, Miller and Mccoy Bank
+Account Number: 8639061710
+Consent Status: Revoked

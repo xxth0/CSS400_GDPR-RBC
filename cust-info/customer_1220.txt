@@ -1,0 +1,6 @@
+Customer ID: 1220
+Name: Alyssa Conway
+National ID: 252-52-6010
+Bank: Wells LLC Bank
+Account Number: 2359870302
+Consent Status: Revoked

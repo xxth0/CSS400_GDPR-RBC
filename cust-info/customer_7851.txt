@@ -1,0 +1,6 @@
+Customer ID: 7851
+Name: Jacob Herman
+National ID: 537-40-5983
+Bank: Francis-Johnson Bank
+Account Number: 6424814690
+Consent Status: Revoked

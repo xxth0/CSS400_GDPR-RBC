@@ -1,0 +1,6 @@
+Customer ID: 6537
+Name: Tim Oliver
+National ID: 200-96-7295
+Bank: Lewis-Strickland Bank
+Account Number: 4462555335
+Consent Status: Revoked

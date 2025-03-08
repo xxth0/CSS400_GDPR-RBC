@@ -1,0 +1,6 @@
+Customer ID: 7487
+Name: Eric Stone DVM
+National ID: 188-10-3472
+Bank: Davis Ltd Bank
+Account Number: 9709305489
+Consent Status: Granted

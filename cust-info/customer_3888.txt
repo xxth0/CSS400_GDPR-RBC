@@ -1,0 +1,6 @@
+Customer ID: 3888
+Name: Benjamin Griffin
+National ID: 521-25-4324
+Bank: Smith, Lewis and Evans Bank
+Account Number: 6714085382
+Consent Status: Revoked

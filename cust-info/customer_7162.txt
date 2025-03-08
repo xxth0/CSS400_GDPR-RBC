@@ -1,0 +1,6 @@
+Customer ID: 7162
+Name: Austin Spears
+National ID: 105-79-1287
+Bank: Parks, Fowler and Chavez Bank
+Account Number: 2946350573
+Consent Status: Granted

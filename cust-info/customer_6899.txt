@@ -1,0 +1,6 @@
+Customer ID: 6899
+Name: Kenneth Murphy
+National ID: 144-33-4518
+Bank: Lewis Ltd Bank
+Account Number: 8248489431
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 73
+Name: Amber Daniel
+National ID: 528-73-6991
+Bank: Schneider Ltd Bank
+Account Number: 7298716657
+Consent Status: Granted

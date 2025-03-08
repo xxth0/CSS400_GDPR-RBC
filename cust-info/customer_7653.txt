@@ -1,0 +1,6 @@
+Customer ID: 7653
+Name: Michael Lee
+National ID: 389-95-6460
+Bank: Roberts, Cunningham and May Bank
+Account Number: 1034379315
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9672
+Name: Laurie Preston
+National ID: 848-21-5867
+Bank: Peterson-Ramirez Bank
+Account Number: 2603248829
+Consent Status: Granted

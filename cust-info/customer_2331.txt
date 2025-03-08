@@ -1,0 +1,6 @@
+Customer ID: 2331
+Name: Dana Barron
+National ID: 256-41-6674
+Bank: Walker, Jordan and Bolton Bank
+Account Number: 4229065060
+Consent Status: Revoked

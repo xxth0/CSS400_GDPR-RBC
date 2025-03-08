@@ -1,0 +1,6 @@
+Customer ID: 9938
+Name: Brandy Lopez
+National ID: 199-50-7435
+Bank: Lloyd Group Bank
+Account Number: 2116099090
+Consent Status: Granted

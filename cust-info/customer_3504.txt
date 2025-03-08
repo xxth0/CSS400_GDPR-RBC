@@ -1,0 +1,6 @@
+Customer ID: 3504
+Name: William Vincent
+National ID: 448-11-6464
+Bank: David Group Bank
+Account Number: 7792570865
+Consent Status: Granted

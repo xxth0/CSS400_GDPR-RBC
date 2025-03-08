@@ -1,0 +1,6 @@
+Customer ID: 362
+Name: Carolyn Lowe
+National ID: 146-40-4466
+Bank: Smith, Obrien and Elliott Bank
+Account Number: 1162112026
+Consent Status: Granted

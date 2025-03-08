@@ -1,0 +1,6 @@
+Customer ID: 1731
+Name: Shannon Johnson
+National ID: 184-19-2478
+Bank: Pitts PLC Bank
+Account Number: 4346859621
+Consent Status: Revoked

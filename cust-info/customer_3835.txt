@@ -1,0 +1,6 @@
+Customer ID: 3835
+Name: Scott Armstrong
+National ID: 705-72-6786
+Bank: Banks-Evans Bank
+Account Number: 7568988192
+Consent Status: Revoked

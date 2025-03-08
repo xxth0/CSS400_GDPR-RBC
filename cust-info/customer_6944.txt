@@ -1,0 +1,6 @@
+Customer ID: 6944
+Name: John Rose
+National ID: 151-43-6468
+Bank: Nguyen-Butler Bank
+Account Number: 7747452711
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3986
+Name: Maria Davis
+National ID: 367-38-7452
+Bank: Hester, Martinez and Obrien Bank
+Account Number: 8248186350
+Consent Status: Revoked

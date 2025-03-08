@@ -1,0 +1,6 @@
+Customer ID: 7047
+Name: Wendy Sullivan
+National ID: 224-56-7046
+Bank: Kelley-Thomas Bank
+Account Number: 6195572786
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4359
+Name: Jay Brown
+National ID: 277-08-4626
+Bank: Carter-Sweeney Bank
+Account Number: 7076106190
+Consent Status: Granted

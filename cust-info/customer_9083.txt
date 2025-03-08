@@ -1,0 +1,6 @@
+Customer ID: 9083
+Name: Rachael Tate
+National ID: 673-01-1914
+Bank: Martin, Graves and Howard Bank
+Account Number: 1859916188
+Consent Status: Granted

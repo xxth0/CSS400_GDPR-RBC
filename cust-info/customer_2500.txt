@@ -1,0 +1,6 @@
+Customer ID: 2500
+Name: Cory Perry
+National ID: 894-41-1161
+Bank: Dickerson-Deleon Bank
+Account Number: 5910200678
+Consent Status: Revoked

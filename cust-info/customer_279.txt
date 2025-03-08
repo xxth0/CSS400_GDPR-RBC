@@ -1,0 +1,6 @@
+Customer ID: 279
+Name: Richard Mitchell
+National ID: 599-95-4647
+Bank: French, Hernandez and Brooks Bank
+Account Number: 7398775935
+Consent Status: Granted

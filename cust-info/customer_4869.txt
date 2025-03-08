@@ -1,0 +1,6 @@
+Customer ID: 4869
+Name: Scott Hutchinson
+National ID: 581-87-8801
+Bank: Perry and Sons Bank
+Account Number: 9820719698
+Consent Status: Granted

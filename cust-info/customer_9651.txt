@@ -1,0 +1,6 @@
+Customer ID: 9651
+Name: Gregory Miller
+National ID: 232-35-6999
+Bank: Butler-Jackson Bank
+Account Number: 9181592923
+Consent Status: Granted

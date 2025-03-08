@@ -1,0 +1,6 @@
+Customer ID: 1164
+Name: Stephanie Ferguson
+National ID: 607-24-6359
+Bank: Williams-Sanchez Bank
+Account Number: 7014587362
+Consent Status: Revoked

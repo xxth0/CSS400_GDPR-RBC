@@ -1,0 +1,6 @@
+Customer ID: 1755
+Name: Diane Mendez
+National ID: 393-70-3933
+Bank: Peterson, Lowe and Watkins Bank
+Account Number: 9655050245
+Consent Status: Revoked

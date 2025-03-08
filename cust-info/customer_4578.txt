@@ -1,0 +1,6 @@
+Customer ID: 4578
+Name: Darlene Johnson
+National ID: 641-83-9020
+Bank: Park Ltd Bank
+Account Number: 4495044799
+Consent Status: Revoked

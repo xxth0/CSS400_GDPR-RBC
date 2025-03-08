@@ -1,0 +1,6 @@
+Customer ID: 6048
+Name: Joseph Lee
+National ID: 308-43-4567
+Bank: Ellis, Reyes and Carter Bank
+Account Number: 4939612460
+Consent Status: Revoked

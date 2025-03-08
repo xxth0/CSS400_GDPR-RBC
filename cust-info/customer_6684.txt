@@ -1,0 +1,6 @@
+Customer ID: 6684
+Name: Danielle Morales
+National ID: 794-13-7891
+Bank: Myers-Rodriguez Bank
+Account Number: 5941566670
+Consent Status: Granted

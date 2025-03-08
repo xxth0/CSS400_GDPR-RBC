@@ -1,0 +1,6 @@
+Customer ID: 2582
+Name: Jason Lucas
+National ID: 177-50-2731
+Bank: Arnold-Bowman Bank
+Account Number: 8640086506
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3498
+Name: Kelly Parker
+National ID: 160-07-2107
+Bank: Todd-Wilson Bank
+Account Number: 4631621322
+Consent Status: Granted

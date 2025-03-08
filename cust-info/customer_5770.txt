@@ -1,0 +1,6 @@
+Customer ID: 5770
+Name: Kevin Sanders
+National ID: 483-10-9791
+Bank: Jordan Group Bank
+Account Number: 9352606259
+Consent Status: Revoked

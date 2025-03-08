@@ -1,0 +1,6 @@
+Customer ID: 3128
+Name: Derrick Goodwin
+National ID: 875-63-5696
+Bank: Hampton-Bruce Bank
+Account Number: 9881025872
+Consent Status: Granted

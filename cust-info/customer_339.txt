@@ -1,0 +1,6 @@
+Customer ID: 339
+Name: Tyler Perry
+National ID: 011-03-1411
+Bank: Thomas LLC Bank
+Account Number: 6504848574
+Consent Status: Revoked

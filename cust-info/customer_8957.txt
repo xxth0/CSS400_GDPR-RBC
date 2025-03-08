@@ -1,0 +1,6 @@
+Customer ID: 8957
+Name: Connor Perry
+National ID: 857-46-5465
+Bank: Delacruz-Bowman Bank
+Account Number: 5339067145
+Consent Status: Granted

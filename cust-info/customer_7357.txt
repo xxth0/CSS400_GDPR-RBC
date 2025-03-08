@@ -1,0 +1,6 @@
+Customer ID: 7357
+Name: James Harrison
+National ID: 302-53-6556
+Bank: Torres-Adams Bank
+Account Number: 3524597100
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6550
+Name: Brandy Larsen
+National ID: 643-06-2225
+Bank: Dean-Trujillo Bank
+Account Number: 9554839527
+Consent Status: Revoked

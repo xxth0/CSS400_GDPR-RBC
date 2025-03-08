@@ -1,0 +1,6 @@
+Customer ID: 1451
+Name: Maureen Martin
+National ID: 044-41-0377
+Bank: Hall-Alexander Bank
+Account Number: 3942242294
+Consent Status: Revoked

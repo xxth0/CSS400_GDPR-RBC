@@ -1,0 +1,6 @@
+Customer ID: 1279
+Name: Denise Davis
+National ID: 578-99-4678
+Bank: Carter and Sons Bank
+Account Number: 9222060339
+Consent Status: Revoked

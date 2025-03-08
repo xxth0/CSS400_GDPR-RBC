@@ -1,0 +1,6 @@
+Customer ID: 8953
+Name: Megan Johnson
+National ID: 898-16-8720
+Bank: Owens, Martinez and Hunt Bank
+Account Number: 7280201207
+Consent Status: Granted

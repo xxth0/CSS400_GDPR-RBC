@@ -1,0 +1,6 @@
+Customer ID: 7433
+Name: Brittany Martin
+National ID: 464-66-4342
+Bank: Kennedy, Boone and Chen Bank
+Account Number: 7366849854
+Consent Status: Granted

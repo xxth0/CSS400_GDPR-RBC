@@ -1,0 +1,6 @@
+Customer ID: 9642
+Name: Amy Smith
+National ID: 067-02-6435
+Bank: Hess, Chen and Smith Bank
+Account Number: 6931961537
+Consent Status: Revoked

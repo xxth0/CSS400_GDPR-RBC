@@ -1,0 +1,6 @@
+Customer ID: 2065
+Name: Cassandra Bennett
+National ID: 515-04-1363
+Bank: Rasmussen and Sons Bank
+Account Number: 4025855194
+Consent Status: Revoked

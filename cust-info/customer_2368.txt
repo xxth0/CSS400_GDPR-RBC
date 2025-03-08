@@ -1,0 +1,6 @@
+Customer ID: 2368
+Name: Carly Griffin
+National ID: 074-95-8045
+Bank: Green, Rodriguez and Hayes Bank
+Account Number: 4771941700
+Consent Status: Granted

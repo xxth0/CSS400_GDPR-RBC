@@ -1,0 +1,6 @@
+Customer ID: 586
+Name: Teresa Rollins
+National ID: 758-56-8559
+Bank: Hutchinson-Lamb Bank
+Account Number: 6376064639
+Consent Status: Granted

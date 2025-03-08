@@ -1,0 +1,6 @@
+Customer ID: 142
+Name: Daniel Trevino
+National ID: 254-91-6509
+Bank: Manning LLC Bank
+Account Number: 4423809722
+Consent Status: Revoked

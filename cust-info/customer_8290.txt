@@ -1,0 +1,6 @@
+Customer ID: 8290
+Name: Kim Thompson
+National ID: 095-16-8676
+Bank: Garner, Mcguire and Watson Bank
+Account Number: 5497090710
+Consent Status: Granted

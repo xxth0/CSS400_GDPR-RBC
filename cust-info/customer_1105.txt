@@ -1,0 +1,6 @@
+Customer ID: 1105
+Name: Bradley Ellis
+National ID: 320-33-5681
+Bank: Suarez Inc Bank
+Account Number: 7492983741
+Consent Status: Revoked

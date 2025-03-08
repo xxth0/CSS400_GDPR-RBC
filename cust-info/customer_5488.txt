@@ -1,0 +1,6 @@
+Customer ID: 5488
+Name: Ashley Miller
+National ID: 224-68-2623
+Bank: Whitney LLC Bank
+Account Number: 7273241901
+Consent Status: Granted

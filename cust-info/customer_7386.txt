@@ -1,0 +1,6 @@
+Customer ID: 7386
+Name: Daniel Watson
+National ID: 871-93-8892
+Bank: Townsend, Clarke and Evans Bank
+Account Number: 5462578644
+Consent Status: Granted

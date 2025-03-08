@@ -1,0 +1,6 @@
+Customer ID: 1500
+Name: Natalie Bennett
+National ID: 048-35-0631
+Bank: Higgins and Sons Bank
+Account Number: 5281770928
+Consent Status: Revoked

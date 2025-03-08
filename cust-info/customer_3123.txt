@@ -1,0 +1,6 @@
+Customer ID: 3123
+Name: Andrew Andersen DDS
+National ID: 303-68-5430
+Bank: Moreno-Allen Bank
+Account Number: 8824686234
+Consent Status: Granted

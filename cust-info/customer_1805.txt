@@ -1,0 +1,6 @@
+Customer ID: 1805
+Name: Michael Johnson II
+National ID: 538-30-1869
+Bank: Medina-Case Bank
+Account Number: 1631902411
+Consent Status: Revoked

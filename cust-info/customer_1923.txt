@@ -1,0 +1,6 @@
+Customer ID: 1923
+Name: Linda Walker
+National ID: 784-45-1653
+Bank: Snow-Cook Bank
+Account Number: 7216529174
+Consent Status: Revoked

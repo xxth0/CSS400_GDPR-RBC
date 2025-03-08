@@ -1,0 +1,6 @@
+Customer ID: 205
+Name: David Brown
+National ID: 366-36-2210
+Bank: Montgomery Ltd Bank
+Account Number: 5552980783
+Consent Status: Revoked

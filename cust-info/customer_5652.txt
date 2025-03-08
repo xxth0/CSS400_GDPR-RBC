@@ -1,0 +1,6 @@
+Customer ID: 5652
+Name: Willie Ramos
+National ID: 740-88-8954
+Bank: Marquez Group Bank
+Account Number: 4535439760
+Consent Status: Revoked

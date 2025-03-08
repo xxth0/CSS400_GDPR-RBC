@@ -1,0 +1,6 @@
+Customer ID: 2339
+Name: Gregory Owens
+National ID: 695-16-2388
+Bank: Mcknight, Newman and Carter Bank
+Account Number: 3187842230
+Consent Status: Revoked

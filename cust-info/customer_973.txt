@@ -1,0 +1,6 @@
+Customer ID: 973
+Name: Rachel Acosta
+National ID: 757-90-9200
+Bank: Weeks-Larsen Bank
+Account Number: 6209117781
+Consent Status: Revoked

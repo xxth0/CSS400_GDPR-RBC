@@ -1,0 +1,6 @@
+Customer ID: 3328
+Name: Laura Frazier
+National ID: 700-06-5506
+Bank: Smith-Gomez Bank
+Account Number: 1790454193
+Consent Status: Revoked

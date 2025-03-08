@@ -1,0 +1,6 @@
+Customer ID: 2614
+Name: Debra Cobb
+National ID: 275-45-7366
+Bank: Martinez, Rhodes and Patton Bank
+Account Number: 4066815976
+Consent Status: Revoked

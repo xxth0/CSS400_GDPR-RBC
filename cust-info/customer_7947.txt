@@ -1,0 +1,6 @@
+Customer ID: 7947
+Name: Melanie Lane
+National ID: 450-33-3713
+Bank: Burke-Mccormick Bank
+Account Number: 4342236239
+Consent Status: Revoked

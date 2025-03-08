@@ -1,0 +1,6 @@
+Customer ID: 5550
+Name: James Mata
+National ID: 810-21-3257
+Bank: Moore, Phillips and Marshall Bank
+Account Number: 7631891673
+Consent Status: Granted

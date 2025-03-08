@@ -1,0 +1,6 @@
+Customer ID: 1098
+Name: Morgan Rose
+National ID: 023-30-6144
+Bank: Mitchell, Gray and Hughes Bank
+Account Number: 1126529034
+Consent Status: Revoked

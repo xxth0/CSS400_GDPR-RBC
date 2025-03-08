@@ -1,0 +1,6 @@
+Customer ID: 1855
+Name: Jacqueline Allison
+National ID: 387-12-0802
+Bank: West, Jones and Thompson Bank
+Account Number: 1456580607
+Consent Status: Revoked

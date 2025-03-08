@@ -1,0 +1,6 @@
+Customer ID: 2176
+Name: Charles Harris
+National ID: 138-53-4047
+Bank: Davis-Wallace Bank
+Account Number: 8559429611
+Consent Status: Granted

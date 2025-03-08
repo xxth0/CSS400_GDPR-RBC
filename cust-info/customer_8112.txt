@@ -1,0 +1,6 @@
+Customer ID: 8112
+Name: Christopher Perez
+National ID: 898-44-2196
+Bank: Martinez-Torres Bank
+Account Number: 4185348195
+Consent Status: Revoked

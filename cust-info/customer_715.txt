@@ -1,0 +1,6 @@
+Customer ID: 715
+Name: Jennifer Reid
+National ID: 107-48-9860
+Bank: Bond PLC Bank
+Account Number: 1718120461
+Consent Status: Revoked

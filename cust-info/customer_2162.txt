@@ -1,0 +1,6 @@
+Customer ID: 2162
+Name: Wayne Norton
+National ID: 053-86-3906
+Bank: Berry, Walker and Phillips Bank
+Account Number: 5757836652
+Consent Status: Revoked

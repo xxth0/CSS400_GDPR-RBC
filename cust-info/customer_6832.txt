@@ -1,0 +1,6 @@
+Customer ID: 6832
+Name: Michael Pierce
+National ID: 561-36-7613
+Bank: Guerrero-Holland Bank
+Account Number: 1933499196
+Consent Status: Revoked

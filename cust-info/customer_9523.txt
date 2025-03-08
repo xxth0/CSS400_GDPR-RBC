@@ -1,0 +1,6 @@
+Customer ID: 9523
+Name: Michael Fry
+National ID: 560-81-5362
+Bank: Vargas-Bradley Bank
+Account Number: 4575501420
+Consent Status: Revoked

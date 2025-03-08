@@ -1,0 +1,6 @@
+Customer ID: 4840
+Name: Diane Prince
+National ID: 663-11-2469
+Bank: Foster and Sons Bank
+Account Number: 7771186708
+Consent Status: Granted

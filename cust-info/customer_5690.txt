@@ -1,0 +1,6 @@
+Customer ID: 5690
+Name: Lisa Jones
+National ID: 375-56-0492
+Bank: Brown, Phillips and Brown Bank
+Account Number: 2523145385
+Consent Status: Revoked

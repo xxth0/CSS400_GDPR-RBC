@@ -1,0 +1,6 @@
+Customer ID: 3337
+Name: Taylor Skinner
+National ID: 102-89-8504
+Bank: Case, Swanson and Jackson Bank
+Account Number: 8121447800
+Consent Status: Granted

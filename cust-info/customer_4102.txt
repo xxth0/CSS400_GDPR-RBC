@@ -1,0 +1,6 @@
+Customer ID: 4102
+Name: Devin Anderson
+National ID: 482-70-7504
+Bank: Russell-Butler Bank
+Account Number: 3598721352
+Consent Status: Granted

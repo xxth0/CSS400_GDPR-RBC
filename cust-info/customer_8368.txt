@@ -1,0 +1,6 @@
+Customer ID: 8368
+Name: Steve Saunders
+National ID: 340-77-2599
+Bank: Clark-Mason Bank
+Account Number: 5975265501
+Consent Status: Granted

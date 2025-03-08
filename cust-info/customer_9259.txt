@@ -1,0 +1,6 @@
+Customer ID: 9259
+Name: Vanessa Cox
+National ID: 219-33-6322
+Bank: Suarez, Moore and Ramsey Bank
+Account Number: 6799258170
+Consent Status: Granted

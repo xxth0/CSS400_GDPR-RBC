@@ -1,0 +1,6 @@
+Customer ID: 3362
+Name: Ariel Kim
+National ID: 002-54-5231
+Bank: Harrison-Hubbard Bank
+Account Number: 5161584192
+Consent Status: Granted

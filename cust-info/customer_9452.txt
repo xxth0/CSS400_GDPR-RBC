@@ -1,0 +1,6 @@
+Customer ID: 9452
+Name: Sarah Schaefer
+National ID: 654-75-4765
+Bank: Burnett PLC Bank
+Account Number: 5968628447
+Consent Status: Revoked

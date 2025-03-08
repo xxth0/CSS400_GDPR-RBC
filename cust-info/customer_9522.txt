@@ -1,0 +1,6 @@
+Customer ID: 9522
+Name: Joshua Powers
+National ID: 555-02-2489
+Bank: Jarvis LLC Bank
+Account Number: 5312806709
+Consent Status: Revoked

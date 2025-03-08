@@ -1,0 +1,6 @@
+Customer ID: 4742
+Name: Claire Young
+National ID: 231-06-7684
+Bank: Torres, Stokes and Livingston Bank
+Account Number: 7481372420
+Consent Status: Revoked

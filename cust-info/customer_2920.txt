@@ -1,0 +1,6 @@
+Customer ID: 2920
+Name: Jamie Ashley
+National ID: 749-42-5090
+Bank: Cowan Ltd Bank
+Account Number: 5120757493
+Consent Status: Revoked

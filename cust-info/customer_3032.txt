@@ -1,0 +1,6 @@
+Customer ID: 3032
+Name: Joseph Taylor
+National ID: 282-91-5915
+Bank: Williams, Fox and Diaz Bank
+Account Number: 8168647001
+Consent Status: Revoked

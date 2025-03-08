@@ -1,0 +1,6 @@
+Customer ID: 3609
+Name: Michael Santiago
+National ID: 657-14-9961
+Bank: Baxter, Johnson and Rivera Bank
+Account Number: 5099042873
+Consent Status: Granted

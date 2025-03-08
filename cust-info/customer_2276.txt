@@ -1,0 +1,6 @@
+Customer ID: 2276
+Name: Tanya Young
+National ID: 809-79-0329
+Bank: Benjamin-Delgado Bank
+Account Number: 7728136785
+Consent Status: Granted

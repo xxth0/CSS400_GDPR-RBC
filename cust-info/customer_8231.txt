@@ -1,0 +1,6 @@
+Customer ID: 8231
+Name: Tammy Hunt
+National ID: 587-19-6167
+Bank: Smith-White Bank
+Account Number: 1211390555
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6108
+Name: Joseph Yu
+National ID: 845-85-3742
+Bank: Simmons, Alexander and Smith Bank
+Account Number: 1328624873
+Consent Status: Revoked

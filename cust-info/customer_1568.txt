@@ -1,0 +1,6 @@
+Customer ID: 1568
+Name: Brent Bauer
+National ID: 033-65-3428
+Bank: Harris, Stone and Watkins Bank
+Account Number: 2160304678
+Consent Status: Granted

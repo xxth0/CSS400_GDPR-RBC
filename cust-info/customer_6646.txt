@@ -1,0 +1,6 @@
+Customer ID: 6646
+Name: Veronica Freeman
+National ID: 444-61-8157
+Bank: Scott-Arellano Bank
+Account Number: 9730819852
+Consent Status: Revoked

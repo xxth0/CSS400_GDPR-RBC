@@ -1,0 +1,6 @@
+Customer ID: 3197
+Name: Leroy Ball
+National ID: 148-57-0211
+Bank: Mcdonald PLC Bank
+Account Number: 3858233316
+Consent Status: Revoked

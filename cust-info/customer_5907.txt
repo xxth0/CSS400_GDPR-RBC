@@ -1,0 +1,6 @@
+Customer ID: 5907
+Name: Kimberly Ramirez
+National ID: 402-07-9825
+Bank: Hoffman PLC Bank
+Account Number: 8264387929
+Consent Status: Revoked

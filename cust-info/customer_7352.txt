@@ -1,0 +1,6 @@
+Customer ID: 7352
+Name: Joanne Richard
+National ID: 625-17-3530
+Bank: Webb, Martinez and Figueroa Bank
+Account Number: 5423663344
+Consent Status: Revoked

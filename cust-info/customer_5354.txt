@@ -1,0 +1,6 @@
+Customer ID: 5354
+Name: Andre Wright
+National ID: 786-95-7040
+Bank: Brown, Lyons and Hull Bank
+Account Number: 8642656920
+Consent Status: Revoked

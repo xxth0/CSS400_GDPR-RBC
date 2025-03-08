@@ -1,0 +1,6 @@
+Customer ID: 2594
+Name: Carla Cooper
+National ID: 246-51-2924
+Bank: Stephens PLC Bank
+Account Number: 7695251711
+Consent Status: Revoked

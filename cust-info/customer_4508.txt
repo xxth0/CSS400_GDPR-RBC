@@ -1,0 +1,6 @@
+Customer ID: 4508
+Name: Joseph Schwartz
+National ID: 572-99-7567
+Bank: Brewer LLC Bank
+Account Number: 8994360687
+Consent Status: Revoked

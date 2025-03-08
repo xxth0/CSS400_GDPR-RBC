@@ -1,0 +1,6 @@
+Customer ID: 2708
+Name: Christopher Lloyd
+National ID: 365-77-0263
+Bank: Bryan-Chen Bank
+Account Number: 6163488636
+Consent Status: Revoked

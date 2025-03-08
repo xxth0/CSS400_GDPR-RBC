@@ -1,0 +1,6 @@
+Customer ID: 5405
+Name: Rachel Hanna
+National ID: 897-07-8846
+Bank: Jackson-Flores Bank
+Account Number: 1370382874
+Consent Status: Granted

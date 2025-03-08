@@ -1,0 +1,6 @@
+Customer ID: 4083
+Name: Tina Macdonald
+National ID: 154-36-7731
+Bank: Moreno-Beasley Bank
+Account Number: 6794246381
+Consent Status: Granted

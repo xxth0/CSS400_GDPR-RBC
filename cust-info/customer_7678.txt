@@ -1,0 +1,6 @@
+Customer ID: 7678
+Name: Zachary Schultz
+National ID: 356-25-1335
+Bank: Marquez-Knight Bank
+Account Number: 1529599038
+Consent Status: Revoked

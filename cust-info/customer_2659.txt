@@ -1,0 +1,6 @@
+Customer ID: 2659
+Name: Nicolas Boyer
+National ID: 780-53-7056
+Bank: Gonzalez Group Bank
+Account Number: 6694814291
+Consent Status: Granted

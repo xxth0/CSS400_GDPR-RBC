@@ -1,0 +1,6 @@
+Customer ID: 3568
+Name: Cynthia Phillips
+National ID: 456-90-0687
+Bank: Hampton, Lee and Christensen Bank
+Account Number: 4428703807
+Consent Status: Revoked

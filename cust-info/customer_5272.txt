@@ -1,0 +1,6 @@
+Customer ID: 5272
+Name: Christina Lewis
+National ID: 806-03-2176
+Bank: Jensen PLC Bank
+Account Number: 3015255841
+Consent Status: Revoked

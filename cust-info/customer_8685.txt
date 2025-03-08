@@ -1,0 +1,6 @@
+Customer ID: 8685
+Name: Kimberly Sandoval
+National ID: 556-79-9922
+Bank: Sanchez LLC Bank
+Account Number: 2350275648
+Consent Status: Revoked

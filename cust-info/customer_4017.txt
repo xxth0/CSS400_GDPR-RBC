@@ -1,0 +1,6 @@
+Customer ID: 4017
+Name: Deborah Hansen
+National ID: 183-41-8131
+Bank: King LLC Bank
+Account Number: 6507135147
+Consent Status: Revoked

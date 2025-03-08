@@ -1,0 +1,6 @@
+Customer ID: 8104
+Name: Joseph Lang
+National ID: 186-99-9881
+Bank: Brown LLC Bank
+Account Number: 7103941997
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2432
+Name: Lisa Wilson
+National ID: 438-39-8812
+Bank: Wright PLC Bank
+Account Number: 5734293698
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2338
+Name: Jimmy Brady
+National ID: 475-17-0452
+Bank: Russell LLC Bank
+Account Number: 3304123892
+Consent Status: Revoked

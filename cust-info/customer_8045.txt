@@ -1,0 +1,6 @@
+Customer ID: 8045
+Name: Joel Howell
+National ID: 648-83-5883
+Bank: Wilson Group Bank
+Account Number: 2413607353
+Consent Status: Granted

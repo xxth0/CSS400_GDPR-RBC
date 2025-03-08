@@ -1,0 +1,6 @@
+Customer ID: 748
+Name: Jeffrey Cook
+National ID: 258-08-7834
+Bank: Harrison, Mejia and Garner Bank
+Account Number: 5514106180
+Consent Status: Revoked

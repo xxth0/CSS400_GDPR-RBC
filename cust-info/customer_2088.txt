@@ -1,0 +1,6 @@
+Customer ID: 2088
+Name: Patricia Figueroa
+National ID: 664-43-7195
+Bank: Miller-Greene Bank
+Account Number: 3769872568
+Consent Status: Granted

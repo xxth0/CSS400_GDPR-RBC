@@ -1,0 +1,6 @@
+Customer ID: 584
+Name: Dr. Juan Hull
+National ID: 215-52-5135
+Bank: Johnson-Ponce Bank
+Account Number: 8959365590
+Consent Status: Granted

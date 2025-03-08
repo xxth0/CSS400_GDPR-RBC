@@ -1,0 +1,6 @@
+Customer ID: 1169
+Name: Alison Wilson
+National ID: 770-17-3828
+Bank: Martin, Smith and Cervantes Bank
+Account Number: 9341025279
+Consent Status: Revoked

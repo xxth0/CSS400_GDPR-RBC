@@ -1,0 +1,6 @@
+Customer ID: 7999
+Name: Victor Cooper
+National ID: 500-44-6526
+Bank: Jones-Moore Bank
+Account Number: 8364845853
+Consent Status: Granted

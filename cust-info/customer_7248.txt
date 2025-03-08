@@ -1,0 +1,6 @@
+Customer ID: 7248
+Name: Angela Simmons
+National ID: 462-22-5712
+Bank: Smith and Sons Bank
+Account Number: 1559200047
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8486
+Name: Sandra Matthews
+National ID: 554-82-5059
+Bank: Brown, May and Moore Bank
+Account Number: 8691148108
+Consent Status: Revoked

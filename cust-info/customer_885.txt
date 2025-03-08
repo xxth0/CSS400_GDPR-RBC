@@ -1,0 +1,6 @@
+Customer ID: 885
+Name: Darrell Reynolds
+National ID: 373-65-9363
+Bank: Browning-Mahoney Bank
+Account Number: 3545669533
+Consent Status: Revoked

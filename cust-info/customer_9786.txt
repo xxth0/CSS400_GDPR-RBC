@@ -1,0 +1,6 @@
+Customer ID: 9786
+Name: Lisa Conner
+National ID: 367-86-9457
+Bank: Long, Nelson and Bowen Bank
+Account Number: 9745992335
+Consent Status: Revoked

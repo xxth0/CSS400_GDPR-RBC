@@ -1,0 +1,6 @@
+Customer ID: 7362
+Name: Mrs. Megan Hardy
+National ID: 670-19-5424
+Bank: Campos PLC Bank
+Account Number: 1988650133
+Consent Status: Revoked

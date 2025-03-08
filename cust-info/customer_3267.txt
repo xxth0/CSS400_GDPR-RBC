@@ -1,0 +1,6 @@
+Customer ID: 3267
+Name: Emily Lin
+National ID: 732-12-3653
+Bank: Brewer, Dixon and Avila Bank
+Account Number: 2335065685
+Consent Status: Revoked

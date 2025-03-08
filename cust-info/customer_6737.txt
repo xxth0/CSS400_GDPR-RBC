@@ -1,0 +1,6 @@
+Customer ID: 6737
+Name: Manuel Donaldson
+National ID: 305-79-9590
+Bank: Lopez, Martin and Kelley Bank
+Account Number: 2967372420
+Consent Status: Granted

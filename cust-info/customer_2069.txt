@@ -1,0 +1,6 @@
+Customer ID: 2069
+Name: Stephanie Douglas
+National ID: 551-62-2184
+Bank: Diaz LLC Bank
+Account Number: 4333604312
+Consent Status: Granted

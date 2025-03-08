@@ -1,0 +1,6 @@
+Customer ID: 4437
+Name: Jodi Sanchez
+National ID: 272-36-3925
+Bank: Castillo Ltd Bank
+Account Number: 4216711966
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9289
+Name: Amber Graham
+National ID: 323-13-1997
+Bank: Brown, Ray and Lane Bank
+Account Number: 9798073317
+Consent Status: Revoked

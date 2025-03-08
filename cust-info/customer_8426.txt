@@ -1,0 +1,6 @@
+Customer ID: 8426
+Name: Joel Osborne
+National ID: 615-60-8898
+Bank: Mcmillan Ltd Bank
+Account Number: 4063261640
+Consent Status: Granted

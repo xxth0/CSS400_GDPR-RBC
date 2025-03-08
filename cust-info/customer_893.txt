@@ -1,0 +1,6 @@
+Customer ID: 893
+Name: Elizabeth Cruz
+National ID: 467-71-8017
+Bank: Quinn-Jones Bank
+Account Number: 3461517680
+Consent Status: Granted

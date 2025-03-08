@@ -1,0 +1,6 @@
+Customer ID: 3038
+Name: Samantha Hunt
+National ID: 458-14-9873
+Bank: Farley, Garcia and Hamilton Bank
+Account Number: 6364151575
+Consent Status: Granted

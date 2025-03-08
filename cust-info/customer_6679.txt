@@ -1,0 +1,6 @@
+Customer ID: 6679
+Name: Linda Case
+National ID: 338-89-9064
+Bank: Frederick-Young Bank
+Account Number: 4492515091
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6683
+Name: Jason Jones
+National ID: 083-33-3037
+Bank: Johnson PLC Bank
+Account Number: 5639199040
+Consent Status: Revoked

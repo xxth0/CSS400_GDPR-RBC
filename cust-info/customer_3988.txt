@@ -1,0 +1,6 @@
+Customer ID: 3988
+Name: Jake Robinson
+National ID: 784-11-9782
+Bank: Browning-Stone Bank
+Account Number: 9391954061
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9870
+Name: Erin Dyer
+National ID: 206-85-9236
+Bank: Brown-Wells Bank
+Account Number: 7333085713
+Consent Status: Revoked

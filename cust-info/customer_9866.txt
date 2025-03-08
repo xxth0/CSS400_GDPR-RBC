@@ -1,0 +1,6 @@
+Customer ID: 9866
+Name: Bryan Brock
+National ID: 136-32-7931
+Bank: Chaney-Davis Bank
+Account Number: 6957547891
+Consent Status: Granted

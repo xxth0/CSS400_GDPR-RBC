@@ -1,0 +1,6 @@
+Customer ID: 8060
+Name: Joseph Jenkins
+National ID: 248-69-4016
+Bank: Smith, Hawkins and Wheeler Bank
+Account Number: 7642531123
+Consent Status: Revoked

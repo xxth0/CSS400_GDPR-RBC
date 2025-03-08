@@ -1,0 +1,6 @@
+Customer ID: 4370
+Name: Jimmy Cole
+National ID: 412-13-3525
+Bank: Schroeder, Owens and Mcdonald Bank
+Account Number: 5227575783
+Consent Status: Revoked

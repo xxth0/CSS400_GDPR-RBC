@@ -1,0 +1,6 @@
+Customer ID: 7125
+Name: Joshua Mendoza
+National ID: 219-58-2075
+Bank: Wagner, Miller and Berg Bank
+Account Number: 5104401206
+Consent Status: Revoked

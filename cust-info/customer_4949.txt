@@ -1,0 +1,6 @@
+Customer ID: 4949
+Name: Michael Mckinney
+National ID: 787-33-1406
+Bank: Hammond, Soto and Soto Bank
+Account Number: 6836367599
+Consent Status: Revoked

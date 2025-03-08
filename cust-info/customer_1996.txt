@@ -1,0 +1,6 @@
+Customer ID: 1996
+Name: Michael Boyd
+National ID: 459-47-7708
+Bank: Lewis-Sandoval Bank
+Account Number: 9912267037
+Consent Status: Revoked

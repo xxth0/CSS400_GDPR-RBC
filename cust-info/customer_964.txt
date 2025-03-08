@@ -1,0 +1,6 @@
+Customer ID: 964
+Name: Sarah Haas
+National ID: 301-46-5370
+Bank: Davis-Keller Bank
+Account Number: 2686850712
+Consent Status: Revoked

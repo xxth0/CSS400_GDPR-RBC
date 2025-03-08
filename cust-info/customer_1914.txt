@@ -1,0 +1,6 @@
+Customer ID: 1914
+Name: Michael Morales
+National ID: 372-55-8016
+Bank: Smith-Johnson Bank
+Account Number: 3945423208
+Consent Status: Revoked

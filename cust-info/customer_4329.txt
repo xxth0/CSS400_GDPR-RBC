@@ -1,0 +1,6 @@
+Customer ID: 4329
+Name: Christina Reed
+National ID: 011-88-7355
+Bank: Rivera-Beard Bank
+Account Number: 1520428837
+Consent Status: Granted

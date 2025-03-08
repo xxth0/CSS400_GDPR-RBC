@@ -1,0 +1,6 @@
+Customer ID: 1225
+Name: Clinton Diaz
+National ID: 759-50-4990
+Bank: Delgado, Camacho and Hawkins Bank
+Account Number: 3446921012
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2510
+Name: Carmen Bond
+National ID: 324-58-1076
+Bank: Lopez-Lee Bank
+Account Number: 2340984543
+Consent Status: Revoked

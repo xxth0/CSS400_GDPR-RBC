@@ -1,0 +1,6 @@
+Customer ID: 3880
+Name: Mary Wilson
+National ID: 430-24-9597
+Bank: Jefferson-Kramer Bank
+Account Number: 9450713472
+Consent Status: Revoked

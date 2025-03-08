@@ -1,0 +1,6 @@
+Customer ID: 2578
+Name: Kim Sanders
+National ID: 094-19-9173
+Bank: Schneider-Gibson Bank
+Account Number: 3212970494
+Consent Status: Revoked

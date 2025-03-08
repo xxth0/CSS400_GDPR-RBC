@@ -1,0 +1,6 @@
+Customer ID: 421
+Name: Diane Hamilton
+National ID: 017-50-1811
+Bank: Hernandez-Ruiz Bank
+Account Number: 9019507087
+Consent Status: Granted

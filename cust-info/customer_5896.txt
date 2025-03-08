@@ -1,0 +1,6 @@
+Customer ID: 5896
+Name: Jennifer Rodriguez
+National ID: 434-52-6874
+Bank: Mcdonald PLC Bank
+Account Number: 8497611224
+Consent Status: Revoked

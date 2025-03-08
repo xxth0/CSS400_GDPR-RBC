@@ -1,0 +1,6 @@
+Customer ID: 7778
+Name: Amanda Taylor
+National ID: 009-08-6973
+Bank: Rodriguez-Green Bank
+Account Number: 1954646029
+Consent Status: Revoked

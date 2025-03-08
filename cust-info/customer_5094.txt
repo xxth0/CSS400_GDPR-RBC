@@ -1,0 +1,6 @@
+Customer ID: 5094
+Name: Adam Scott
+National ID: 709-19-1506
+Bank: Robinson, Moore and Jones Bank
+Account Number: 9036638661
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 135
+Name: Jessica Patel
+National ID: 228-23-7994
+Bank: Brown-Johnson Bank
+Account Number: 9252089657
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1005
+Name: Zachary Carlson
+National ID: 802-51-2039
+Bank: Howard PLC Bank
+Account Number: 1270864890
+Consent Status: Granted

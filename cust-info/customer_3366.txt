@@ -1,0 +1,6 @@
+Customer ID: 3366
+Name: Andrew Cardenas
+National ID: 383-18-5230
+Bank: Gordon-Ortega Bank
+Account Number: 2577872283
+Consent Status: Granted

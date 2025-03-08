@@ -1,0 +1,6 @@
+Customer ID: 4683
+Name: Jacob Davis
+National ID: 017-48-7978
+Bank: Miller and Sons Bank
+Account Number: 3600043705
+Consent Status: Revoked

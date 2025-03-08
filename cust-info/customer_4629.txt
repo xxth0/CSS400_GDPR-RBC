@@ -1,0 +1,6 @@
+Customer ID: 4629
+Name: Scott Freeman
+National ID: 214-10-2990
+Bank: Perry, Huang and Gonzalez Bank
+Account Number: 1052473314
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4319
+Name: James Bender
+National ID: 010-88-3460
+Bank: Ellis Ltd Bank
+Account Number: 7776907200
+Consent Status: Revoked

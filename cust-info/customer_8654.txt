@@ -1,0 +1,6 @@
+Customer ID: 8654
+Name: Justin Alvarez
+National ID: 619-77-2208
+Bank: Lewis-Foster Bank
+Account Number: 9344550770
+Consent Status: Revoked

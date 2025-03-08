@@ -1,0 +1,6 @@
+Customer ID: 4081
+Name: Margaret Snow
+National ID: 712-52-0741
+Bank: Williams LLC Bank
+Account Number: 7774306849
+Consent Status: Revoked

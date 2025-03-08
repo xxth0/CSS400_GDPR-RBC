@@ -1,0 +1,6 @@
+Customer ID: 5132
+Name: Travis Ramos
+National ID: 041-73-7389
+Bank: Chase-Alvarez Bank
+Account Number: 3289864253
+Consent Status: Revoked

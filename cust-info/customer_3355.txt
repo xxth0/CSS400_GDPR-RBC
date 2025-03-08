@@ -1,0 +1,6 @@
+Customer ID: 3355
+Name: Erin Tate
+National ID: 221-55-3662
+Bank: Jackson Ltd Bank
+Account Number: 9216640551
+Consent Status: Granted

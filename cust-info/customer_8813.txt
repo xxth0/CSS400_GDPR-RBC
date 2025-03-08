@@ -1,0 +1,6 @@
+Customer ID: 8813
+Name: Richard Hamilton
+National ID: 153-13-5404
+Bank: Jenkins and Sons Bank
+Account Number: 6370799402
+Consent Status: Revoked

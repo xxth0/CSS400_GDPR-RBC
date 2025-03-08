@@ -1,0 +1,6 @@
+Customer ID: 7510
+Name: Gary Brown
+National ID: 282-63-5862
+Bank: Rivera, Hale and Cantrell Bank
+Account Number: 2949778809
+Consent Status: Revoked

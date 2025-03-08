@@ -1,0 +1,6 @@
+Customer ID: 4327
+Name: Melissa Williams
+National ID: 555-09-9769
+Bank: Fox Ltd Bank
+Account Number: 4616136574
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8216
+Name: Danielle Gibson
+National ID: 768-39-3485
+Bank: Bruce-Lozano Bank
+Account Number: 9353268936
+Consent Status: Revoked

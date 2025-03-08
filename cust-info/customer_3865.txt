@@ -1,0 +1,6 @@
+Customer ID: 3865
+Name: Mark Hawkins
+National ID: 736-17-5045
+Bank: Morgan-Villanueva Bank
+Account Number: 6025362350
+Consent Status: Revoked

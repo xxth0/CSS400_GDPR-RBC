@@ -1,0 +1,6 @@
+Customer ID: 5232
+Name: Barbara Trevino
+National ID: 288-96-3934
+Bank: Jensen-Clark Bank
+Account Number: 3765145457
+Consent Status: Revoked

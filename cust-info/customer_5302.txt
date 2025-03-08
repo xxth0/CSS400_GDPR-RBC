@@ -1,0 +1,6 @@
+Customer ID: 5302
+Name: Jo Hampton
+National ID: 894-18-0198
+Bank: Zamora and Sons Bank
+Account Number: 5193862020
+Consent Status: Granted

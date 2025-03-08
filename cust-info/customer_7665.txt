@@ -1,0 +1,6 @@
+Customer ID: 7665
+Name: Devin Watts
+National ID: 684-21-5438
+Bank: Brown, Carlson and Brooks Bank
+Account Number: 6539062730
+Consent Status: Revoked

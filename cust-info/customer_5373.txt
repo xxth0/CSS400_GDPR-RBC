@@ -1,0 +1,6 @@
+Customer ID: 5373
+Name: Melissa Gates
+National ID: 540-96-2735
+Bank: Hopkins, Neal and Sparks Bank
+Account Number: 4397835572
+Consent Status: Revoked

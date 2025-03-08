@@ -1,0 +1,6 @@
+Customer ID: 8681
+Name: Robin Parks
+National ID: 492-65-2807
+Bank: Rivera, Wood and Pacheco Bank
+Account Number: 9841944801
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 601
+Name: Kristina Carroll
+National ID: 794-60-1283
+Bank: Casey and Sons Bank
+Account Number: 7095459110
+Consent Status: Revoked

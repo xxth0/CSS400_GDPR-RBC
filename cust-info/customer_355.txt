@@ -1,0 +1,6 @@
+Customer ID: 355
+Name: Kristine Murray
+National ID: 607-67-9925
+Bank: Mccoy, Ramirez and Taylor Bank
+Account Number: 7152713207
+Consent Status: Revoked

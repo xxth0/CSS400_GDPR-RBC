@@ -1,0 +1,6 @@
+Customer ID: 3499
+Name: Nancy Clark
+National ID: 299-34-9999
+Bank: Butler Inc Bank
+Account Number: 7794075659
+Consent Status: Granted

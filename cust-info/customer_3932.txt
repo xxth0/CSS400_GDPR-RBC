@@ -1,0 +1,6 @@
+Customer ID: 3932
+Name: Kristina Sanford
+National ID: 012-36-8708
+Bank: Wells-Roach Bank
+Account Number: 1310247393
+Consent Status: Granted

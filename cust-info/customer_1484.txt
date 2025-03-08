@@ -1,0 +1,6 @@
+Customer ID: 1484
+Name: Richard Burns
+National ID: 634-67-5749
+Bank: Davis Inc Bank
+Account Number: 5415597907
+Consent Status: Granted

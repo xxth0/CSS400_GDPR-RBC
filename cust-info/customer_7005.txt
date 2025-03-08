@@ -1,0 +1,6 @@
+Customer ID: 7005
+Name: Adam Cortez
+National ID: 400-85-1697
+Bank: Vance Ltd Bank
+Account Number: 7210157584
+Consent Status: Granted

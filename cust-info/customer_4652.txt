@@ -1,0 +1,6 @@
+Customer ID: 4652
+Name: April Watson
+National ID: 302-93-0331
+Bank: Reeves-Martin Bank
+Account Number: 8376135286
+Consent Status: Granted

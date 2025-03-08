@@ -1,0 +1,6 @@
+Customer ID: 5795
+Name: Anthony Pierce
+National ID: 536-09-5324
+Bank: Cruz-Wilson Bank
+Account Number: 3011874741
+Consent Status: Revoked

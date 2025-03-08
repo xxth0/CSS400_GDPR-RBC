@@ -1,0 +1,6 @@
+Customer ID: 1504
+Name: Dennis Golden
+National ID: 625-78-3016
+Bank: Clay-Bishop Bank
+Account Number: 4076440772
+Consent Status: Granted

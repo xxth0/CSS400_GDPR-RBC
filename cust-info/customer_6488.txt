@@ -1,0 +1,6 @@
+Customer ID: 6488
+Name: Shannon Bennett
+National ID: 234-70-3925
+Bank: Ruiz Group Bank
+Account Number: 7059255645
+Consent Status: Granted

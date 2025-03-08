@@ -1,0 +1,6 @@
+Customer ID: 5434
+Name: Matthew Walker
+National ID: 164-50-9927
+Bank: Fischer Group Bank
+Account Number: 6261789550
+Consent Status: Revoked

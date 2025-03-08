@@ -1,0 +1,6 @@
+Customer ID: 7637
+Name: Mrs. Marissa Morgan
+National ID: 055-62-0121
+Bank: Smith, Ruiz and Walters Bank
+Account Number: 7193331371
+Consent Status: Revoked

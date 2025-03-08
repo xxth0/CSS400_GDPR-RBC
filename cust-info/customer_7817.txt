@@ -1,0 +1,6 @@
+Customer ID: 7817
+Name: Tina Mcclain
+National ID: 820-55-1941
+Bank: Barnett-Bowers Bank
+Account Number: 5664800258
+Consent Status: Granted

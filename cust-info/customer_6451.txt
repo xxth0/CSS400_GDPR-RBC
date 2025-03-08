@@ -1,0 +1,6 @@
+Customer ID: 6451
+Name: Mr. Luis Stanley Jr.
+National ID: 243-29-0691
+Bank: Reid-Clark Bank
+Account Number: 3148346936
+Consent Status: Granted

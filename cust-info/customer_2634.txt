@@ -1,0 +1,6 @@
+Customer ID: 2634
+Name: John Murphy
+National ID: 409-45-9600
+Bank: Brown-Hall Bank
+Account Number: 3411078988
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7591
+Name: Alexander Johnson Jr.
+National ID: 613-15-9883
+Bank: Price, Kirk and Gomez Bank
+Account Number: 5763345161
+Consent Status: Revoked

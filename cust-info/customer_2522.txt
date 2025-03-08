@@ -1,0 +1,6 @@
+Customer ID: 2522
+Name: Rachel Pena
+National ID: 752-56-9104
+Bank: Harrington Group Bank
+Account Number: 8730750139
+Consent Status: Revoked

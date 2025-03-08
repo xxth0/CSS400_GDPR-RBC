@@ -1,0 +1,6 @@
+Customer ID: 8860
+Name: Anthony Taylor
+National ID: 389-64-7909
+Bank: Welch-Miller Bank
+Account Number: 6479273719
+Consent Status: Granted

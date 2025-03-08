@@ -1,0 +1,6 @@
+Customer ID: 7228
+Name: Ronald Fleming
+National ID: 421-37-9264
+Bank: Peterson, Arnold and Browning Bank
+Account Number: 6188856607
+Consent Status: Revoked

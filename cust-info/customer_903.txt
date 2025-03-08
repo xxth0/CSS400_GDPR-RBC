@@ -1,0 +1,6 @@
+Customer ID: 903
+Name: Jacob Jones
+National ID: 152-99-5892
+Bank: West-Wright Bank
+Account Number: 3298160840
+Consent Status: Revoked

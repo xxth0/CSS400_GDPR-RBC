@@ -1,0 +1,6 @@
+Customer ID: 456
+Name: Linda Ford
+National ID: 059-11-0317
+Bank: Owens, Briggs and Cruz Bank
+Account Number: 3533430594
+Consent Status: Granted

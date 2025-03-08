@@ -1,0 +1,6 @@
+Customer ID: 1389
+Name: Carl Oneal
+National ID: 812-76-5642
+Bank: Wright-Perez Bank
+Account Number: 9029482091
+Consent Status: Granted

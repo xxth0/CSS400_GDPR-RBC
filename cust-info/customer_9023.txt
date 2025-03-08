@@ -1,0 +1,6 @@
+Customer ID: 9023
+Name: Tracy Peterson
+National ID: 809-10-3141
+Bank: Meadows and Sons Bank
+Account Number: 7369972509
+Consent Status: Granted

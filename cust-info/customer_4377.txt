@@ -1,0 +1,6 @@
+Customer ID: 4377
+Name: Shannon Watson
+National ID: 110-94-2746
+Bank: Gonzalez and Sons Bank
+Account Number: 9851820081
+Consent Status: Granted

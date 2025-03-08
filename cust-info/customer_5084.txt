@@ -1,0 +1,6 @@
+Customer ID: 5084
+Name: Valerie Ellis
+National ID: 526-74-9018
+Bank: Acosta-Shah Bank
+Account Number: 1119060997
+Consent Status: Granted

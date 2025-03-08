@@ -1,0 +1,6 @@
+Customer ID: 106
+Name: Stephanie Green
+National ID: 123-46-7237
+Bank: Fisher-Rojas Bank
+Account Number: 9940662701
+Consent Status: Granted

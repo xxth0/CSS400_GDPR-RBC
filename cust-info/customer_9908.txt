@@ -1,0 +1,6 @@
+Customer ID: 9908
+Name: Kathy Manning
+National ID: 633-79-0098
+Bank: Walter and Sons Bank
+Account Number: 9593558271
+Consent Status: Granted

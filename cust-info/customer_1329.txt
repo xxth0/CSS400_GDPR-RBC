@@ -1,0 +1,6 @@
+Customer ID: 1329
+Name: Connie Garcia
+National ID: 635-76-1966
+Bank: Stone-Jones Bank
+Account Number: 4520613862
+Consent Status: Revoked

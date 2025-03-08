@@ -1,0 +1,6 @@
+Customer ID: 7765
+Name: Brandon Wells
+National ID: 032-69-6919
+Bank: Roach, Adams and Shields Bank
+Account Number: 6557229572
+Consent Status: Revoked

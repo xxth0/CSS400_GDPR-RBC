@@ -1,0 +1,6 @@
+Customer ID: 9901
+Name: Frederick Cooper
+National ID: 775-07-1926
+Bank: Wallace LLC Bank
+Account Number: 1950940864
+Consent Status: Revoked

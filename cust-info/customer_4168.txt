@@ -1,0 +1,6 @@
+Customer ID: 4168
+Name: Patricia Hernandez
+National ID: 432-46-0598
+Bank: Welch-Wells Bank
+Account Number: 1440873007
+Consent Status: Granted

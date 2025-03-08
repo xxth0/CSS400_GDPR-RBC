@@ -1,0 +1,6 @@
+Customer ID: 9000
+Name: Joseph Gregory
+National ID: 519-62-4216
+Bank: Williams-Tucker Bank
+Account Number: 5384113385
+Consent Status: Granted

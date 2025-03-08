@@ -1,0 +1,6 @@
+Customer ID: 8417
+Name: Sharon Jenkins
+National ID: 197-92-7373
+Bank: Moore, Wallace and Williams Bank
+Account Number: 3703576622
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5466
+Name: Terri Stokes
+National ID: 188-19-5659
+Bank: Holland, Briggs and Walters Bank
+Account Number: 8702312978
+Consent Status: Revoked

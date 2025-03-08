@@ -1,0 +1,6 @@
+Customer ID: 845
+Name: Linda Avery
+National ID: 806-92-5505
+Bank: Patton Ltd Bank
+Account Number: 6852053217
+Consent Status: Granted

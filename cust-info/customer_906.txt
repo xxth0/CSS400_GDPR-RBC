@@ -1,0 +1,6 @@
+Customer ID: 906
+Name: Timothy Carpenter
+National ID: 232-71-1018
+Bank: Vargas, Smith and Shaw Bank
+Account Number: 4128441839
+Consent Status: Revoked

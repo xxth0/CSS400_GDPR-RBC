@@ -1,0 +1,6 @@
+Customer ID: 966
+Name: Denise Rice
+National ID: 309-98-4138
+Bank: Smith-Howard Bank
+Account Number: 9466364776
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6295
+Name: Michael Thomas
+National ID: 859-77-0402
+Bank: Parker LLC Bank
+Account Number: 1240306365
+Consent Status: Granted

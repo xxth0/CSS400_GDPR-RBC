@@ -1,0 +1,6 @@
+Customer ID: 5021
+Name: Kimberly Stout
+National ID: 298-63-9842
+Bank: Hernandez, Collins and Shepherd Bank
+Account Number: 7589107203
+Consent Status: Granted

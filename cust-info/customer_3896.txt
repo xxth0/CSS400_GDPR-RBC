@@ -1,0 +1,6 @@
+Customer ID: 3896
+Name: Jorge James
+National ID: 535-38-3198
+Bank: Reynolds-Woods Bank
+Account Number: 9850894696
+Consent Status: Granted

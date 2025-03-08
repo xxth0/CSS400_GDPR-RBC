@@ -1,0 +1,6 @@
+Customer ID: 4427
+Name: Suzanne Brown
+National ID: 257-19-8603
+Bank: Cruz-Powell Bank
+Account Number: 8985990976
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5222
+Name: Michael Johnson
+National ID: 418-41-1205
+Bank: Grant, Miller and Harris Bank
+Account Number: 5746162418
+Consent Status: Revoked

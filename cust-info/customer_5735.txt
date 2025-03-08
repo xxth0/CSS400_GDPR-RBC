@@ -1,0 +1,6 @@
+Customer ID: 5735
+Name: Amber Vaughan
+National ID: 513-69-8851
+Bank: Barnes, Elliott and Young Bank
+Account Number: 8311817079
+Consent Status: Granted

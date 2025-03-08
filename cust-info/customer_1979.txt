@@ -1,0 +1,6 @@
+Customer ID: 1979
+Name: John Harrell
+National ID: 392-80-6664
+Bank: Castro, Hayes and Gray Bank
+Account Number: 2140205882
+Consent Status: Revoked

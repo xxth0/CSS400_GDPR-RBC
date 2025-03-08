@@ -1,0 +1,6 @@
+Customer ID: 9140
+Name: Lisa Johnson
+National ID: 446-22-7318
+Bank: Bentley Inc Bank
+Account Number: 4975208507
+Consent Status: Granted

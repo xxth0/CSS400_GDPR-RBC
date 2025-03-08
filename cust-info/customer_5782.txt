@@ -1,0 +1,6 @@
+Customer ID: 5782
+Name: Louis Jones
+National ID: 051-12-8673
+Bank: Mclaughlin LLC Bank
+Account Number: 5643350622
+Consent Status: Granted

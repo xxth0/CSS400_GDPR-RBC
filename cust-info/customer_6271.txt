@@ -1,0 +1,6 @@
+Customer ID: 6271
+Name: Bruce Brady
+National ID: 835-01-1084
+Bank: Ford, Carter and Erickson Bank
+Account Number: 6616042119
+Consent Status: Granted

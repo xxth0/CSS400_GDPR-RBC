@@ -1,0 +1,6 @@
+Customer ID: 8628
+Name: John Bush
+National ID: 248-08-9070
+Bank: Parsons and Sons Bank
+Account Number: 3726827893
+Consent Status: Revoked

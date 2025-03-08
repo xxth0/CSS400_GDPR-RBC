@@ -1,0 +1,6 @@
+Customer ID: 9060
+Name: Jonathan Oconnell
+National ID: 750-28-2351
+Bank: Sanchez Group Bank
+Account Number: 2852239938
+Consent Status: Revoked

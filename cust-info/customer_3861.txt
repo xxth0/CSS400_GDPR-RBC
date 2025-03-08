@@ -1,0 +1,6 @@
+Customer ID: 3861
+Name: James Castro
+National ID: 247-98-4990
+Bank: Goodwin Ltd Bank
+Account Number: 2309286818
+Consent Status: Granted

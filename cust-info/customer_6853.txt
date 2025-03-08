@@ -1,0 +1,6 @@
+Customer ID: 6853
+Name: Samantha Greene
+National ID: 587-78-7483
+Bank: Wilson-Wright Bank
+Account Number: 5798605472
+Consent Status: Granted

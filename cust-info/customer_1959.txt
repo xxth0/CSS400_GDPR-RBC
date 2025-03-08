@@ -1,0 +1,6 @@
+Customer ID: 1959
+Name: Katrina Hughes
+National ID: 027-06-9123
+Bank: Robbins, Brooks and Sutton Bank
+Account Number: 4628158431
+Consent Status: Revoked

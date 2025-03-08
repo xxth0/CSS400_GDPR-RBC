@@ -1,0 +1,6 @@
+Customer ID: 3223
+Name: Bruce Bryant
+National ID: 197-43-8290
+Bank: Graham-Fields Bank
+Account Number: 2307433498
+Consent Status: Revoked

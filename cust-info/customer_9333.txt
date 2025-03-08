@@ -1,0 +1,6 @@
+Customer ID: 9333
+Name: Brenda Bishop
+National ID: 501-65-6102
+Bank: Alvarez-Calhoun Bank
+Account Number: 5207105869
+Consent Status: Granted

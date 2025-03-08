@@ -1,0 +1,6 @@
+Customer ID: 1082
+Name: Nancy Burton
+National ID: 078-36-6001
+Bank: Lee, King and Friedman Bank
+Account Number: 1457790844
+Consent Status: Granted

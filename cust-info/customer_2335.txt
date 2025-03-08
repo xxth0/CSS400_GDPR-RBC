@@ -1,0 +1,6 @@
+Customer ID: 2335
+Name: Gerald Nielsen
+National ID: 183-22-5775
+Bank: Barker, Hancock and Johnson Bank
+Account Number: 5419904290
+Consent Status: Revoked

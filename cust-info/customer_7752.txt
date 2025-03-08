@@ -1,0 +1,6 @@
+Customer ID: 7752
+Name: Alexandra Pearson
+National ID: 600-26-0887
+Bank: Marquez, Hodge and Myers Bank
+Account Number: 2276160908
+Consent Status: Granted

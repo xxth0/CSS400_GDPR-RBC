@@ -1,0 +1,6 @@
+Customer ID: 892
+Name: David Ward
+National ID: 282-36-3353
+Bank: Cabrera Ltd Bank
+Account Number: 4069995551
+Consent Status: Revoked

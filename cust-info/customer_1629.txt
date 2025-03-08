@@ -1,0 +1,6 @@
+Customer ID: 1629
+Name: Brandon Mcgee
+National ID: 145-73-3112
+Bank: Flores, Hernandez and Castillo Bank
+Account Number: 6489559538
+Consent Status: Granted

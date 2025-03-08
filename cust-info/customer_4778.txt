@@ -1,0 +1,6 @@
+Customer ID: 4778
+Name: Anna Brown
+National ID: 275-54-3991
+Bank: Rosario Group Bank
+Account Number: 1553706862
+Consent Status: Revoked

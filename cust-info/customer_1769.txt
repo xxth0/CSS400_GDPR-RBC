@@ -1,0 +1,6 @@
+Customer ID: 1769
+Name: Ashley Brown
+National ID: 812-40-0903
+Bank: Murillo Group Bank
+Account Number: 9957737032
+Consent Status: Granted

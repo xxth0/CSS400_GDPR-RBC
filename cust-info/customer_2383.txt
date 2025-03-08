@@ -1,0 +1,6 @@
+Customer ID: 2383
+Name: Lisa Austin
+National ID: 493-94-7984
+Bank: Allen, Garcia and Hanson Bank
+Account Number: 3927247382
+Consent Status: Granted

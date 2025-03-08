@@ -1,0 +1,6 @@
+Customer ID: 8862
+Name: Derrick Wong
+National ID: 656-41-3444
+Bank: Pierce, Andrews and Hernandez Bank
+Account Number: 3973478203
+Consent Status: Revoked

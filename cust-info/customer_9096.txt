@@ -1,0 +1,6 @@
+Customer ID: 9096
+Name: Cassandra Pennington
+National ID: 375-49-1611
+Bank: Morgan-Ross Bank
+Account Number: 6514763228
+Consent Status: Granted

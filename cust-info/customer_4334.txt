@@ -1,0 +1,6 @@
+Customer ID: 4334
+Name: Joseph Brewer
+National ID: 160-57-5741
+Bank: Hernandez, Norman and Richardson Bank
+Account Number: 7506568286
+Consent Status: Granted

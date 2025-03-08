@@ -1,0 +1,6 @@
+Customer ID: 5752
+Name: Anita Stewart
+National ID: 077-13-7402
+Bank: Kim LLC Bank
+Account Number: 8191917624
+Consent Status: Revoked

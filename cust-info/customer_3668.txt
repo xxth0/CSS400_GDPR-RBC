@@ -1,0 +1,6 @@
+Customer ID: 3668
+Name: John Estrada
+National ID: 359-40-9647
+Bank: Ray-Smith Bank
+Account Number: 1195505932
+Consent Status: Granted

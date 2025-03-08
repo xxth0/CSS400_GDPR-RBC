@@ -1,0 +1,6 @@
+Customer ID: 4236
+Name: Jessica Burke
+National ID: 409-22-9909
+Bank: Hill, Williams and Garrett Bank
+Account Number: 4467879257
+Consent Status: Granted

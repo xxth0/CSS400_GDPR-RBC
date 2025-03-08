@@ -1,0 +1,6 @@
+Customer ID: 7161
+Name: Ashley Carey
+National ID: 617-76-8031
+Bank: Roberts-Jones Bank
+Account Number: 1853096760
+Consent Status: Granted

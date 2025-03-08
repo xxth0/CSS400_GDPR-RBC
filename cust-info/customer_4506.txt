@@ -1,0 +1,6 @@
+Customer ID: 4506
+Name: Gregory Williams
+National ID: 307-23-9453
+Bank: Rivers Ltd Bank
+Account Number: 3930340375
+Consent Status: Granted

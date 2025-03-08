@@ -1,0 +1,6 @@
+Customer ID: 3204
+Name: Russell Moore
+National ID: 143-67-9595
+Bank: Palmer PLC Bank
+Account Number: 4396468104
+Consent Status: Granted

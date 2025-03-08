@@ -1,0 +1,6 @@
+Customer ID: 5494
+Name: Danielle Perez
+National ID: 665-96-7906
+Bank: Graham-Long Bank
+Account Number: 9094363744
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8735
+Name: Diane Juarez
+National ID: 419-14-5162
+Bank: Mckenzie, Ramos and Murphy Bank
+Account Number: 3923116846
+Consent Status: Granted

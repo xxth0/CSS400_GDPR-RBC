@@ -1,0 +1,6 @@
+Customer ID: 431
+Name: Rebecca Kidd
+National ID: 358-21-2147
+Bank: Jordan Group Bank
+Account Number: 7129935073
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8187
+Name: Steven Buck
+National ID: 352-01-3105
+Bank: Mann, Morris and Brown Bank
+Account Number: 1973307574
+Consent Status: Granted

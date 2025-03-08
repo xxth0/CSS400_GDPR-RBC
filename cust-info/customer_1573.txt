@@ -1,0 +1,6 @@
+Customer ID: 1573
+Name: Nina Pacheco
+National ID: 638-07-5475
+Bank: Hill-Hatfield Bank
+Account Number: 2794590638
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9304
+Name: Sarah Hudson
+National ID: 690-99-8749
+Bank: Meyer-Ware Bank
+Account Number: 1497374252
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6958
+Name: Christopher Costa
+National ID: 017-10-7038
+Bank: Wallace, Hernandez and Gutierrez Bank
+Account Number: 2423875842
+Consent Status: Revoked

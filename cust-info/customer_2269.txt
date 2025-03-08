@@ -1,0 +1,6 @@
+Customer ID: 2269
+Name: Tina Diaz
+National ID: 762-50-0472
+Bank: Cervantes-Phillips Bank
+Account Number: 4668859947
+Consent Status: Granted

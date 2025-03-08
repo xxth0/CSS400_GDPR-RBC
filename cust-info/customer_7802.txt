@@ -1,0 +1,6 @@
+Customer ID: 7802
+Name: Jo Smith
+National ID: 409-01-6284
+Bank: Garcia, Bartlett and Hess Bank
+Account Number: 9382591585
+Consent Status: Revoked

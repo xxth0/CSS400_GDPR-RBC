@@ -1,0 +1,6 @@
+Customer ID: 9787
+Name: Alexis Johnson
+National ID: 269-98-1232
+Bank: Huff-Andrade Bank
+Account Number: 8801660921
+Consent Status: Revoked

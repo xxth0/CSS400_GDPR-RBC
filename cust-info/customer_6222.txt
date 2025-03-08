@@ -1,0 +1,6 @@
+Customer ID: 6222
+Name: Natasha Dunn
+National ID: 642-60-8306
+Bank: Bradley, Lawrence and Andrews Bank
+Account Number: 8273714509
+Consent Status: Granted

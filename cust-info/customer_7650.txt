@@ -1,0 +1,6 @@
+Customer ID: 7650
+Name: Nicholas Harmon
+National ID: 563-95-4372
+Bank: Gonzales, Peck and Price Bank
+Account Number: 2202368460
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7331
+Name: Tyler Pierce
+National ID: 665-62-0159
+Bank: Mathews-Burton Bank
+Account Number: 7887777492
+Consent Status: Revoked

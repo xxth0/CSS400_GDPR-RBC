@@ -1,0 +1,6 @@
+Customer ID: 2982
+Name: Carly Barnes
+National ID: 233-14-5779
+Bank: Green Group Bank
+Account Number: 9219558751
+Consent Status: Granted

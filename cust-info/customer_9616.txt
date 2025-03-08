@@ -1,0 +1,6 @@
+Customer ID: 9616
+Name: Joanna Potts
+National ID: 482-82-4197
+Bank: Rose-Gibson Bank
+Account Number: 2103082639
+Consent Status: Granted

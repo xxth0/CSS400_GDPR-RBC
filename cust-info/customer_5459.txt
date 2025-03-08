@@ -1,0 +1,6 @@
+Customer ID: 5459
+Name: Bobby Dougherty
+National ID: 024-86-9489
+Bank: Blake, Collins and Long Bank
+Account Number: 9155588575
+Consent Status: Revoked

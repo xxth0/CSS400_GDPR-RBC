@@ -1,0 +1,6 @@
+Customer ID: 5523
+Name: Joel James
+National ID: 820-39-0406
+Bank: Molina, Hernandez and Sanders Bank
+Account Number: 7926086763
+Consent Status: Granted

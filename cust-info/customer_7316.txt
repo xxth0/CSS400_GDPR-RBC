@@ -1,0 +1,6 @@
+Customer ID: 7316
+Name: Christine Harris
+National ID: 810-16-2734
+Bank: Ortiz-Robertson Bank
+Account Number: 1193680641
+Consent Status: Revoked

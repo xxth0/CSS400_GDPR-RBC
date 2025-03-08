@@ -1,0 +1,6 @@
+Customer ID: 2526
+Name: Jason Wilson
+National ID: 725-39-1740
+Bank: Bradley Group Bank
+Account Number: 8704404392
+Consent Status: Revoked

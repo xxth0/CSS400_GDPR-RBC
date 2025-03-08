@@ -1,0 +1,6 @@
+Customer ID: 8979
+Name: Alfred Smith MD
+National ID: 779-83-5080
+Bank: Nelson-Washington Bank
+Account Number: 1916121239
+Consent Status: Granted

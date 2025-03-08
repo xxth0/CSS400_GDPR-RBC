@@ -1,0 +1,6 @@
+Customer ID: 4743
+Name: Nicole Johnson
+National ID: 541-19-4702
+Bank: Johnson, Stone and Elliott Bank
+Account Number: 8973772805
+Consent Status: Granted

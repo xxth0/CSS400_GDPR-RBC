@@ -1,0 +1,6 @@
+Customer ID: 5750
+Name: Alexis Taylor
+National ID: 708-80-5615
+Bank: Kirk Ltd Bank
+Account Number: 7384431284
+Consent Status: Revoked

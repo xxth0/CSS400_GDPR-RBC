@@ -1,0 +1,6 @@
+Customer ID: 3599
+Name: Debra Stafford
+National ID: 062-42-2175
+Bank: Johnson, Jackson and Hayes Bank
+Account Number: 1171304645
+Consent Status: Granted

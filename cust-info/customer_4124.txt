@@ -1,0 +1,6 @@
+Customer ID: 4124
+Name: Melissa Armstrong
+National ID: 329-11-8725
+Bank: Alexander, Ferguson and Simpson Bank
+Account Number: 9884588782
+Consent Status: Granted

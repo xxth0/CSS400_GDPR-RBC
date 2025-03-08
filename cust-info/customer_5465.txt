@@ -1,0 +1,6 @@
+Customer ID: 5465
+Name: Chad Young
+National ID: 439-16-8531
+Bank: Herrera, Sanford and Rogers Bank
+Account Number: 7411771291
+Consent Status: Revoked

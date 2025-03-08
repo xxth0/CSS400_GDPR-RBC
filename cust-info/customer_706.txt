@@ -1,0 +1,6 @@
+Customer ID: 706
+Name: Dustin Chavez
+National ID: 779-02-6945
+Bank: White-Simmons Bank
+Account Number: 5570573043
+Consent Status: Granted

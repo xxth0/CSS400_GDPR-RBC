@@ -1,0 +1,6 @@
+Customer ID: 1301
+Name: Christine Skinner
+National ID: 516-17-7877
+Bank: Quinn-Morgan Bank
+Account Number: 5548821325
+Consent Status: Revoked

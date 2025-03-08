@@ -1,0 +1,6 @@
+Customer ID: 7325
+Name: Adrian Gonzales
+National ID: 336-40-4608
+Bank: Leon, Hammond and Meyer Bank
+Account Number: 1392204106
+Consent Status: Revoked

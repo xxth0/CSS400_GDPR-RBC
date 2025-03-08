@@ -1,0 +1,6 @@
+Customer ID: 7223
+Name: Donald Davis
+National ID: 241-20-9667
+Bank: Williams LLC Bank
+Account Number: 1965696460
+Consent Status: Revoked

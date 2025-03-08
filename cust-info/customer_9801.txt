@@ -1,0 +1,6 @@
+Customer ID: 9801
+Name: Francisco Jones
+National ID: 658-64-1682
+Bank: Gonzalez Inc Bank
+Account Number: 1813905278
+Consent Status: Revoked

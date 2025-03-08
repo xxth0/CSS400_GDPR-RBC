@@ -1,0 +1,6 @@
+Customer ID: 1247
+Name: Cindy Greene
+National ID: 361-67-4984
+Bank: Campbell and Sons Bank
+Account Number: 2900780785
+Consent Status: Revoked

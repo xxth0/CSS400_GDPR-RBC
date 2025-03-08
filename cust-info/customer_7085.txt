@@ -1,0 +1,6 @@
+Customer ID: 7085
+Name: Barbara Morales
+National ID: 361-03-0330
+Bank: Cook, Dudley and Martin Bank
+Account Number: 9520771630
+Consent Status: Granted

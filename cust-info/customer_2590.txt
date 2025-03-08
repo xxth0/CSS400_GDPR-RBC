@@ -1,0 +1,6 @@
+Customer ID: 2590
+Name: Brian Carlson
+National ID: 285-72-6097
+Bank: Yang PLC Bank
+Account Number: 1973020813
+Consent Status: Revoked

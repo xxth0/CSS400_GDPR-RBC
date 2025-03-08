@@ -1,0 +1,6 @@
+Customer ID: 9583
+Name: Paul Chen
+National ID: 475-86-4490
+Bank: Brown, Sullivan and Boyd Bank
+Account Number: 9244103702
+Consent Status: Revoked

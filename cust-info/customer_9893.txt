@@ -1,0 +1,6 @@
+Customer ID: 9893
+Name: Scott Hale
+National ID: 758-19-7531
+Bank: Jones and Sons Bank
+Account Number: 2266973627
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3844
+Name: Carly Soto
+National ID: 886-46-5819
+Bank: Edwards, Cardenas and Davis Bank
+Account Number: 8914986046
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7706
+Name: Cody Smith
+National ID: 073-73-7988
+Bank: Evans-Morgan Bank
+Account Number: 3759769659
+Consent Status: Revoked

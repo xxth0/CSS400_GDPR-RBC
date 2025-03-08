@@ -1,0 +1,6 @@
+Customer ID: 544
+Name: Timothy Dixon
+National ID: 531-86-6012
+Bank: Dunlap-Campbell Bank
+Account Number: 8862803521
+Consent Status: Revoked

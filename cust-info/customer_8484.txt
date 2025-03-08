@@ -1,0 +1,6 @@
+Customer ID: 8484
+Name: Michael Chandler
+National ID: 234-09-6447
+Bank: Benjamin-Waters Bank
+Account Number: 9025921959
+Consent Status: Revoked

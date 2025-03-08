@@ -1,0 +1,6 @@
+Customer ID: 5923
+Name: Charles Young
+National ID: 488-17-1090
+Bank: Kidd Ltd Bank
+Account Number: 3936157774
+Consent Status: Granted

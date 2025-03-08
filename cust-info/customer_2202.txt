@@ -1,0 +1,6 @@
+Customer ID: 2202
+Name: Mallory Campbell
+National ID: 480-29-9984
+Bank: Wilson LLC Bank
+Account Number: 9248028099
+Consent Status: Revoked

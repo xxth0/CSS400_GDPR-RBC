@@ -1,0 +1,6 @@
+Customer ID: 904
+Name: Sydney King
+National ID: 247-72-6447
+Bank: Nelson Ltd Bank
+Account Number: 8189532758
+Consent Status: Revoked

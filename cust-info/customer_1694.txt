@@ -1,0 +1,6 @@
+Customer ID: 1694
+Name: Nicole Mccarty
+National ID: 060-71-9837
+Bank: Garcia-Johnson Bank
+Account Number: 8588294084
+Consent Status: Granted

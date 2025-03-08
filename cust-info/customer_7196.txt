@@ -1,0 +1,6 @@
+Customer ID: 7196
+Name: Charles Williams
+National ID: 280-43-9476
+Bank: Daugherty-Buckley Bank
+Account Number: 6673137655
+Consent Status: Granted

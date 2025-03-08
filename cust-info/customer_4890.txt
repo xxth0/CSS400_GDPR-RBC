@@ -1,0 +1,6 @@
+Customer ID: 4890
+Name: Mallory Ayala
+National ID: 415-46-9005
+Bank: Gross, Hill and Moore Bank
+Account Number: 5740411477
+Consent Status: Granted

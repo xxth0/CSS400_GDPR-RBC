@@ -1,0 +1,6 @@
+Customer ID: 3039
+Name: Danielle Farley
+National ID: 072-47-9430
+Bank: Pearson, Martinez and Reeves Bank
+Account Number: 1584119642
+Consent Status: Granted

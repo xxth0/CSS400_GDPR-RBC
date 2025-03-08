@@ -1,0 +1,6 @@
+Customer ID: 672
+Name: Bryan Nelson
+National ID: 157-08-7265
+Bank: Peterson-Taylor Bank
+Account Number: 4970641510
+Consent Status: Granted

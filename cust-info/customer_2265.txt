@@ -1,0 +1,6 @@
+Customer ID: 2265
+Name: Amy Ruiz
+National ID: 541-93-4856
+Bank: Rodriguez, Walker and Ortiz Bank
+Account Number: 1964753517
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 634
+Name: Kelly Francis
+National ID: 347-52-7467
+Bank: Hall, Ramos and Rosales Bank
+Account Number: 9627656604
+Consent Status: Granted

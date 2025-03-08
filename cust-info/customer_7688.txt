@@ -1,0 +1,6 @@
+Customer ID: 7688
+Name: William Oliver
+National ID: 347-30-7556
+Bank: Singleton, Carney and Perkins Bank
+Account Number: 1675829916
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1692
+Name: Lauren Hernandez
+National ID: 287-22-3303
+Bank: Johnson, Roberts and Ball Bank
+Account Number: 9486917471
+Consent Status: Granted

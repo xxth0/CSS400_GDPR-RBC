@@ -1,0 +1,6 @@
+Customer ID: 6573
+Name: Joseph Hunter
+National ID: 298-51-9531
+Bank: Campbell, Oneill and Woods Bank
+Account Number: 3089703247
+Consent Status: Revoked

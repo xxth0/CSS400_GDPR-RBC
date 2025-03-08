@@ -1,0 +1,6 @@
+Customer ID: 5827
+Name: Amanda Harris
+National ID: 323-41-4887
+Bank: Guerra-Wallace Bank
+Account Number: 5082483473
+Consent Status: Granted

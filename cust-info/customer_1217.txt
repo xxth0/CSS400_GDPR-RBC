@@ -1,0 +1,6 @@
+Customer ID: 1217
+Name: April Moore DVM
+National ID: 237-39-4922
+Bank: Lee Group Bank
+Account Number: 3616011994
+Consent Status: Revoked

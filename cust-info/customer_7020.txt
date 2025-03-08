@@ -1,0 +1,6 @@
+Customer ID: 7020
+Name: Tonya Castillo
+National ID: 446-67-0944
+Bank: Wong Group Bank
+Account Number: 1492408580
+Consent Status: Revoked

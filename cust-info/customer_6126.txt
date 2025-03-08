@@ -1,0 +1,6 @@
+Customer ID: 6126
+Name: Scott Jones
+National ID: 152-45-6064
+Bank: Valenzuela, Yang and Clarke Bank
+Account Number: 5132820493
+Consent Status: Granted

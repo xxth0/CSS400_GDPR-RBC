@@ -1,0 +1,6 @@
+Customer ID: 4650
+Name: Cindy Reynolds
+National ID: 192-09-0491
+Bank: Jones Ltd Bank
+Account Number: 1845651007
+Consent Status: Granted

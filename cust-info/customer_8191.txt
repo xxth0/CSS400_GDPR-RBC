@@ -1,0 +1,6 @@
+Customer ID: 8191
+Name: Paul Kane
+National ID: 197-46-2016
+Bank: Smith PLC Bank
+Account Number: 7649934124
+Consent Status: Revoked

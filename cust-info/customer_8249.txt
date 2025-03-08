@@ -1,0 +1,6 @@
+Customer ID: 8249
+Name: Stephen Taylor
+National ID: 789-61-0272
+Bank: Santos, Phillips and Giles Bank
+Account Number: 4808054293
+Consent Status: Revoked

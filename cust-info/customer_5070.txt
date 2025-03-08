@@ -1,0 +1,6 @@
+Customer ID: 5070
+Name: Mary Patel
+National ID: 611-11-5429
+Bank: Ford, Hayden and Beck Bank
+Account Number: 5020687621
+Consent Status: Granted

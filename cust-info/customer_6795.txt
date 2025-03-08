@@ -1,0 +1,6 @@
+Customer ID: 6795
+Name: Miss Mary Garza
+National ID: 472-34-2729
+Bank: Tate-Smith Bank
+Account Number: 2735139330
+Consent Status: Granted

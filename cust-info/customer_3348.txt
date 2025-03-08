@@ -1,0 +1,6 @@
+Customer ID: 3348
+Name: John Simon
+National ID: 275-14-7881
+Bank: Smith-Rodriguez Bank
+Account Number: 7994326302
+Consent Status: Granted

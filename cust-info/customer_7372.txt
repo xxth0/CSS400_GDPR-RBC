@@ -1,0 +1,6 @@
+Customer ID: 7372
+Name: Megan Collins
+National ID: 038-23-3094
+Bank: Austin Group Bank
+Account Number: 6754752152
+Consent Status: Granted

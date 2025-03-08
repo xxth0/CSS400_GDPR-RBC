@@ -1,0 +1,6 @@
+Customer ID: 8757
+Name: Jeremy Hicks
+National ID: 585-32-9565
+Bank: Washington and Sons Bank
+Account Number: 6119901925
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 27
+Name: Christopher Finley
+National ID: 884-44-1411
+Bank: Thomas-Hoover Bank
+Account Number: 3831217566
+Consent Status: Revoked

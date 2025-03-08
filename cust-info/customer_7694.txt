@@ -1,0 +1,6 @@
+Customer ID: 7694
+Name: Jennifer Nichols
+National ID: 574-33-6074
+Bank: Hanson, Harris and Smith Bank
+Account Number: 6738038049
+Consent Status: Revoked

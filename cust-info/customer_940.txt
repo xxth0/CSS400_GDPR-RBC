@@ -1,0 +1,6 @@
+Customer ID: 940
+Name: James White
+National ID: 577-97-9697
+Bank: Weber-Flowers Bank
+Account Number: 3693240556
+Consent Status: Revoked

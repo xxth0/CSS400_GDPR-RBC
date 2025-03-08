@@ -1,0 +1,6 @@
+Customer ID: 4722
+Name: Deborah Nichols
+National ID: 056-21-6136
+Bank: Wagner, York and Salinas Bank
+Account Number: 5475620924
+Consent Status: Granted

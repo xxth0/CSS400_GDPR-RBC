@@ -1,0 +1,6 @@
+Customer ID: 9718
+Name: Nathan Jones
+National ID: 779-36-1811
+Bank: Cabrera and Sons Bank
+Account Number: 4528023979
+Consent Status: Revoked

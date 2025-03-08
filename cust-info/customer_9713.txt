@@ -1,0 +1,6 @@
+Customer ID: 9713
+Name: Nicole Lozano
+National ID: 439-16-8752
+Bank: Reyes-Murillo Bank
+Account Number: 8400403594
+Consent Status: Revoked

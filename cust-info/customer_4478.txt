@@ -1,0 +1,6 @@
+Customer ID: 4478
+Name: William Cruz
+National ID: 701-57-5637
+Bank: Smith LLC Bank
+Account Number: 8022599142
+Consent Status: Granted

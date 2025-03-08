@@ -1,0 +1,6 @@
+Customer ID: 6009
+Name: Roy Madden
+National ID: 683-75-8416
+Bank: Stone Ltd Bank
+Account Number: 3080514589
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 680
+Name: Crystal Hunter
+National ID: 542-37-0161
+Bank: Martinez-Carey Bank
+Account Number: 6980143159
+Consent Status: Granted

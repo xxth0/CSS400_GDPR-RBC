@@ -1,0 +1,6 @@
+Customer ID: 2843
+Name: John Hernandez
+National ID: 668-70-3495
+Bank: Livingston PLC Bank
+Account Number: 3476638030
+Consent Status: Granted

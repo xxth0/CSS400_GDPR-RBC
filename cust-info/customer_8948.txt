@@ -1,0 +1,6 @@
+Customer ID: 8948
+Name: Jeffrey Obrien
+National ID: 715-82-4148
+Bank: Smith, Williams and Brown Bank
+Account Number: 5071773790
+Consent Status: Granted

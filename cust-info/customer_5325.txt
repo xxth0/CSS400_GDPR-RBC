@@ -1,0 +1,6 @@
+Customer ID: 5325
+Name: Christopher Bennett
+National ID: 598-89-6954
+Bank: Jensen PLC Bank
+Account Number: 9901417398
+Consent Status: Granted

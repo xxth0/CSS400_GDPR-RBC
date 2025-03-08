@@ -1,0 +1,6 @@
+Customer ID: 3113
+Name: Kevin Johnson
+National ID: 696-53-6466
+Bank: Duffy-Waters Bank
+Account Number: 3513318731
+Consent Status: Granted

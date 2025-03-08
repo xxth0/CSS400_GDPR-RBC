@@ -1,0 +1,6 @@
+Customer ID: 6025
+Name: Samuel Copeland
+National ID: 183-75-0715
+Bank: Shepard and Sons Bank
+Account Number: 2305218498
+Consent Status: Revoked

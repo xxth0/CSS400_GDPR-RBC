@@ -1,0 +1,6 @@
+Customer ID: 3697
+Name: Tami Campbell
+National ID: 552-97-4324
+Bank: Myers-Huynh Bank
+Account Number: 4767878841
+Consent Status: Granted

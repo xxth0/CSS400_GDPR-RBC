@@ -1,0 +1,6 @@
+Customer ID: 19
+Name: Robert Kennedy
+National ID: 798-38-0182
+Bank: Johnson-Paul Bank
+Account Number: 1195097707
+Consent Status: Granted

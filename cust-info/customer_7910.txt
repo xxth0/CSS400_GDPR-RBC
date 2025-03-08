@@ -1,0 +1,6 @@
+Customer ID: 7910
+Name: Amanda Garrison
+National ID: 132-39-0970
+Bank: Cobb, Yoder and Moreno Bank
+Account Number: 8380826545
+Consent Status: Revoked

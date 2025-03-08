@@ -1,0 +1,6 @@
+Customer ID: 6840
+Name: Kari Hall
+National ID: 829-30-5690
+Bank: Rice-Crawford Bank
+Account Number: 8032388503
+Consent Status: Revoked

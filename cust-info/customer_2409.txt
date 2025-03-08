@@ -1,0 +1,6 @@
+Customer ID: 2409
+Name: Ray Martinez
+National ID: 383-72-2052
+Bank: Watkins-Duran Bank
+Account Number: 8273697555
+Consent Status: Granted

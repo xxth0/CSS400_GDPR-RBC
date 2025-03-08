@@ -1,0 +1,6 @@
+Customer ID: 4380
+Name: David Smith
+National ID: 676-49-1656
+Bank: Thomas Group Bank
+Account Number: 4294073726
+Consent Status: Revoked

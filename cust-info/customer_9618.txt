@@ -1,0 +1,6 @@
+Customer ID: 9618
+Name: Mrs. Cheyenne Brown
+National ID: 294-64-7657
+Bank: Gregory LLC Bank
+Account Number: 4246785280
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6810
+Name: Tamara Johnson
+National ID: 534-58-9870
+Bank: Hart and Sons Bank
+Account Number: 5551587196
+Consent Status: Revoked

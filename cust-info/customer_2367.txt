@@ -1,0 +1,6 @@
+Customer ID: 2367
+Name: Desiree Jones
+National ID: 889-60-1587
+Bank: Scott, Dennis and Weaver Bank
+Account Number: 4194577643
+Consent Status: Revoked

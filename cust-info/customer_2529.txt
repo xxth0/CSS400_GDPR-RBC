@@ -1,0 +1,6 @@
+Customer ID: 2529
+Name: Darlene Atkins
+National ID: 453-06-0101
+Bank: Blair, Wallace and Martinez Bank
+Account Number: 2346326929
+Consent Status: Granted

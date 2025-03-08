@@ -1,0 +1,6 @@
+Customer ID: 8167
+Name: Andre Nichols
+National ID: 116-58-9612
+Bank: Allen, Gilbert and Kaufman Bank
+Account Number: 4083582970
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1709
+Name: Alexander Rodriguez
+National ID: 128-49-5371
+Bank: Young, Logan and Simmons Bank
+Account Number: 5794816229
+Consent Status: Granted

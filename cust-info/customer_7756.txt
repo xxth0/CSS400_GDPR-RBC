@@ -1,0 +1,6 @@
+Customer ID: 7756
+Name: Joseph Elliott
+National ID: 470-40-4822
+Bank: Kim and Sons Bank
+Account Number: 2196995385
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5631
+Name: Sarah Baker
+National ID: 149-75-6635
+Bank: Todd-Miller Bank
+Account Number: 3467932884
+Consent Status: Granted

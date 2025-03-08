@@ -1,0 +1,6 @@
+Customer ID: 1821
+Name: Kayla Rodriguez
+National ID: 654-99-1018
+Bank: Palmer, Jones and Rogers Bank
+Account Number: 4346864418
+Consent Status: Granted

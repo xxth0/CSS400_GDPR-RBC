@@ -1,0 +1,6 @@
+Customer ID: 203
+Name: Sarah Mcdonald
+National ID: 715-77-7605
+Bank: Myers PLC Bank
+Account Number: 3934172211
+Consent Status: Granted

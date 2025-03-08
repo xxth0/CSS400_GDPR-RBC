@@ -1,0 +1,6 @@
+Customer ID: 1472
+Name: Joseph Gilbert
+National ID: 863-45-3344
+Bank: Clark LLC Bank
+Account Number: 4942024971
+Consent Status: Revoked

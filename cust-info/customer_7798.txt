@@ -1,0 +1,6 @@
+Customer ID: 7798
+Name: Ryan Chambers
+National ID: 171-09-4068
+Bank: Juarez-Guerra Bank
+Account Number: 3193732053
+Consent Status: Granted

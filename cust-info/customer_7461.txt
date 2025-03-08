@@ -1,0 +1,6 @@
+Customer ID: 7461
+Name: Angela Clay
+National ID: 505-73-9976
+Bank: Hicks, Barajas and Miller Bank
+Account Number: 2626941407
+Consent Status: Revoked

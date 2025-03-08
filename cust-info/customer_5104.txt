@@ -1,0 +1,6 @@
+Customer ID: 5104
+Name: Andrea Flores
+National ID: 077-88-2058
+Bank: Lowe-Russo Bank
+Account Number: 7840806127
+Consent Status: Granted

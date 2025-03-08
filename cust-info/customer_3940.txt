@@ -1,0 +1,6 @@
+Customer ID: 3940
+Name: Katelyn Stafford
+National ID: 496-74-5034
+Bank: Shaw Group Bank
+Account Number: 8722832273
+Consent Status: Granted

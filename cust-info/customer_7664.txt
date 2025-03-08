@@ -1,0 +1,6 @@
+Customer ID: 7664
+Name: Oscar Shelton
+National ID: 440-71-0363
+Bank: Carr-Turner Bank
+Account Number: 4869059544
+Consent Status: Revoked

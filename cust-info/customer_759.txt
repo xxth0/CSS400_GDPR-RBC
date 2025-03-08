@@ -1,0 +1,6 @@
+Customer ID: 759
+Name: Tasha Johnson
+National ID: 624-95-6035
+Bank: Armstrong-Mendoza Bank
+Account Number: 1482975591
+Consent Status: Revoked

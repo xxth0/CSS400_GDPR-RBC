@@ -1,0 +1,6 @@
+Customer ID: 4464
+Name: Ruth West
+National ID: 624-40-1650
+Bank: Meza-Taylor Bank
+Account Number: 7180652817
+Consent Status: Revoked

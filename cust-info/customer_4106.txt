@@ -1,0 +1,6 @@
+Customer ID: 4106
+Name: Thomas Mendoza
+National ID: 056-95-4072
+Bank: Archer PLC Bank
+Account Number: 7564556368
+Consent Status: Revoked

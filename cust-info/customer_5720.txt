@@ -1,0 +1,6 @@
+Customer ID: 5720
+Name: Elizabeth Mcbride
+National ID: 731-35-2428
+Bank: Smith-Walsh Bank
+Account Number: 5128269719
+Consent Status: Granted

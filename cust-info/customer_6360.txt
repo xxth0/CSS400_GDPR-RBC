@@ -1,0 +1,6 @@
+Customer ID: 6360
+Name: Jose Bush
+National ID: 017-14-7059
+Bank: Ruiz, Clark and Nguyen Bank
+Account Number: 4981541363
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5486
+Name: Chris Walker
+National ID: 661-45-3675
+Bank: Hubbard, Jones and Padilla Bank
+Account Number: 8942660454
+Consent Status: Revoked

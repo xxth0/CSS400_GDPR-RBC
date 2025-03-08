@@ -1,0 +1,6 @@
+Customer ID: 5743
+Name: Brianna Richard
+National ID: 172-56-4594
+Bank: Henderson, Anderson and Frazier Bank
+Account Number: 1785416280
+Consent Status: Revoked

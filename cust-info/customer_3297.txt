@@ -1,0 +1,6 @@
+Customer ID: 3297
+Name: Brian Terry
+National ID: 566-79-8465
+Bank: Green, Bowen and Cardenas Bank
+Account Number: 5615382290
+Consent Status: Revoked

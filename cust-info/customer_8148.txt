@@ -1,0 +1,6 @@
+Customer ID: 8148
+Name: Steven Rodriguez
+National ID: 230-75-5344
+Bank: Daugherty, Ellison and Johnson Bank
+Account Number: 6195294054
+Consent Status: Granted

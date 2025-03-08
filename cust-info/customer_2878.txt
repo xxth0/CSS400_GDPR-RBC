@@ -1,0 +1,6 @@
+Customer ID: 2878
+Name: Margaret Brown
+National ID: 766-59-3883
+Bank: Alvarado, Walters and Jordan Bank
+Account Number: 1659763242
+Consent Status: Revoked

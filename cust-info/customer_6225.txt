@@ -1,0 +1,6 @@
+Customer ID: 6225
+Name: Ashley Bright
+National ID: 339-70-5223
+Bank: Richards-Mccarthy Bank
+Account Number: 7610541215
+Consent Status: Revoked

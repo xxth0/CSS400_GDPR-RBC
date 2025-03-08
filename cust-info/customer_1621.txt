@@ -1,0 +1,6 @@
+Customer ID: 1621
+Name: Christian Baker
+National ID: 662-77-8818
+Bank: Lowe Ltd Bank
+Account Number: 1065403240
+Consent Status: Granted

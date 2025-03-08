@@ -1,0 +1,6 @@
+Customer ID: 3248
+Name: Rebecca Murray
+National ID: 775-85-1888
+Bank: Tate Inc Bank
+Account Number: 6014596145
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3347
+Name: Amber Frey
+National ID: 717-03-1268
+Bank: Dixon PLC Bank
+Account Number: 8924386316
+Consent Status: Revoked

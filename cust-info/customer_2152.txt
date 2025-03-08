@@ -1,0 +1,6 @@
+Customer ID: 2152
+Name: Kimberly Cooper
+National ID: 691-61-9758
+Bank: Green and Sons Bank
+Account Number: 4165023105
+Consent Status: Revoked

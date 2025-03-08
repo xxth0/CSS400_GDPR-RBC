@@ -1,0 +1,6 @@
+Customer ID: 8743
+Name: Mrs. Brooke Ross
+National ID: 513-87-8241
+Bank: Hall Ltd Bank
+Account Number: 1686462072
+Consent Status: Revoked

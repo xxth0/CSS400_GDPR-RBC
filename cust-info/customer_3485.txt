@@ -1,0 +1,6 @@
+Customer ID: 3485
+Name: Brandon Lee
+National ID: 218-49-7565
+Bank: Palmer, Jones and Cox Bank
+Account Number: 1536831833
+Consent Status: Granted

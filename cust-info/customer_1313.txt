@@ -1,0 +1,6 @@
+Customer ID: 1313
+Name: Derek Gonzalez
+National ID: 631-75-2407
+Bank: Ruiz Group Bank
+Account Number: 8502279094
+Consent Status: Revoked

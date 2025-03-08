@@ -1,0 +1,6 @@
+Customer ID: 6086
+Name: Amber Ware
+National ID: 108-68-1111
+Bank: Gomez, Kirk and Mckenzie Bank
+Account Number: 5184054987
+Consent Status: Granted

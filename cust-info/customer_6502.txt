@@ -1,0 +1,6 @@
+Customer ID: 6502
+Name: Jesse Davis
+National ID: 559-47-4375
+Bank: Hudson, Santiago and Davenport Bank
+Account Number: 3967282857
+Consent Status: Revoked

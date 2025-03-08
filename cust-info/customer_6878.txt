@@ -1,0 +1,6 @@
+Customer ID: 6878
+Name: Stephanie Sullivan
+National ID: 118-36-0397
+Bank: Day Inc Bank
+Account Number: 6171209494
+Consent Status: Revoked

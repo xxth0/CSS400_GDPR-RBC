@@ -1,0 +1,6 @@
+Customer ID: 9351
+Name: Tracy Powell
+National ID: 790-58-0237
+Bank: Reid and Sons Bank
+Account Number: 9765600532
+Consent Status: Granted

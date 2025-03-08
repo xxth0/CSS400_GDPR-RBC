@@ -1,0 +1,6 @@
+Customer ID: 4130
+Name: Jo Ingram
+National ID: 576-31-1498
+Bank: Newton, Kelly and Jenkins Bank
+Account Number: 2778647539
+Consent Status: Revoked

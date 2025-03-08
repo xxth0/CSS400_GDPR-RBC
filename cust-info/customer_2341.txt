@@ -1,0 +1,6 @@
+Customer ID: 2341
+Name: Amber Rivera
+National ID: 419-82-9992
+Bank: Wong, Ferguson and Harris Bank
+Account Number: 4269279252
+Consent Status: Revoked

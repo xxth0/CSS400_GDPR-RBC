@@ -1,0 +1,6 @@
+Customer ID: 3717
+Name: Kristin Thompson
+National ID: 347-15-4120
+Bank: Green, Melton and Salazar Bank
+Account Number: 5459646536
+Consent Status: Granted

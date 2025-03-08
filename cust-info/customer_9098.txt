@@ -1,0 +1,6 @@
+Customer ID: 9098
+Name: Brian Benson
+National ID: 127-18-9347
+Bank: Park-Landry Bank
+Account Number: 6185677093
+Consent Status: Revoked

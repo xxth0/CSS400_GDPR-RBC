@@ -1,0 +1,6 @@
+Customer ID: 7305
+Name: Marie Cain
+National ID: 171-32-5122
+Bank: Rivera-Rodriguez Bank
+Account Number: 1156178725
+Consent Status: Revoked

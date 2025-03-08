@@ -1,0 +1,6 @@
+Customer ID: 901
+Name: Daniel Pearson
+National ID: 506-86-6524
+Bank: Johnson Inc Bank
+Account Number: 5392268966
+Consent Status: Revoked

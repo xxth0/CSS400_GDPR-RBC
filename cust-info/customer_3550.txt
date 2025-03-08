@@ -1,0 +1,6 @@
+Customer ID: 3550
+Name: Bradley Hart
+National ID: 533-11-0207
+Bank: Swanson PLC Bank
+Account Number: 6942901995
+Consent Status: Revoked

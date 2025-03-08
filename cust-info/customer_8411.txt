@@ -1,0 +1,6 @@
+Customer ID: 8411
+Name: Monica Bryan
+National ID: 893-56-0875
+Bank: Washington, Montes and Vincent Bank
+Account Number: 3548538281
+Consent Status: Revoked

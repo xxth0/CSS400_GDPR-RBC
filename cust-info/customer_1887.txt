@@ -1,0 +1,6 @@
+Customer ID: 1887
+Name: Richard Nelson
+National ID: 811-75-7745
+Bank: Rodriguez, Moody and Williams Bank
+Account Number: 3771490004
+Consent Status: Revoked

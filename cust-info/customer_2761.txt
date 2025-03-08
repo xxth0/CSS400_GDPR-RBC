@@ -1,0 +1,6 @@
+Customer ID: 2761
+Name: Danny Franklin
+National ID: 090-06-2300
+Bank: Rivers-King Bank
+Account Number: 2974389782
+Consent Status: Granted

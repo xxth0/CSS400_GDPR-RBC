@@ -1,0 +1,6 @@
+Customer ID: 3814
+Name: Nicole Wright
+National ID: 641-99-4459
+Bank: Haley-Fox Bank
+Account Number: 8293985358
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1494
+Name: Andrew Miller
+National ID: 232-28-7478
+Bank: White-Reed Bank
+Account Number: 4152147017
+Consent Status: Revoked

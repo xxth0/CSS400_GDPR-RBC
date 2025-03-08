@@ -1,0 +1,6 @@
+Customer ID: 7297
+Name: Danny Pace
+National ID: 872-63-5279
+Bank: Carpenter, Bowman and Soto Bank
+Account Number: 7150419970
+Consent Status: Revoked

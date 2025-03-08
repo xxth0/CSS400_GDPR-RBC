@@ -1,0 +1,6 @@
+Customer ID: 8155
+Name: Lisa Combs
+National ID: 524-86-8395
+Bank: Wright Group Bank
+Account Number: 8953573748
+Consent Status: Granted

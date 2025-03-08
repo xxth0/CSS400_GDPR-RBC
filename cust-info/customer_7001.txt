@@ -1,0 +1,6 @@
+Customer ID: 7001
+Name: Gabriel Lowe
+National ID: 876-08-0255
+Bank: Davis-Herman Bank
+Account Number: 9254508279
+Consent Status: Granted

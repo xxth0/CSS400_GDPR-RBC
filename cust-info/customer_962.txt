@@ -1,0 +1,6 @@
+Customer ID: 962
+Name: Valerie Lopez
+National ID: 107-16-5185
+Bank: Kline-Scott Bank
+Account Number: 9784770824
+Consent Status: Revoked

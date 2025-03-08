@@ -1,0 +1,6 @@
+Customer ID: 868
+Name: Heather Colon
+National ID: 678-95-6810
+Bank: Nichols, Taylor and Smith Bank
+Account Number: 5598132411
+Consent Status: Granted

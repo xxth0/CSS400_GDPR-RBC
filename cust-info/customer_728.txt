@@ -1,0 +1,6 @@
+Customer ID: 728
+Name: Nancy Burnett
+National ID: 880-80-5912
+Bank: Kramer-White Bank
+Account Number: 9386069666
+Consent Status: Revoked

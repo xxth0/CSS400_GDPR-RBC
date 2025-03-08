@@ -1,0 +1,6 @@
+Customer ID: 3693
+Name: Cindy Smith
+National ID: 759-97-4864
+Bank: Richards, Riley and Herrera Bank
+Account Number: 9919835532
+Consent Status: Revoked

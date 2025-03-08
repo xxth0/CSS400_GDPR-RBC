@@ -1,0 +1,6 @@
+Customer ID: 210
+Name: Christina Harris
+National ID: 662-80-5488
+Bank: Torres-Mclaughlin Bank
+Account Number: 7475777931
+Consent Status: Granted

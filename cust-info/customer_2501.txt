@@ -1,0 +1,6 @@
+Customer ID: 2501
+Name: Michael Martinez
+National ID: 189-34-8209
+Bank: Barrett LLC Bank
+Account Number: 1794498820
+Consent Status: Revoked

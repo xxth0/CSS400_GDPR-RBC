@@ -1,0 +1,6 @@
+Customer ID: 2622
+Name: Dominique Walker
+National ID: 797-13-9448
+Bank: Barrett, Oliver and Khan Bank
+Account Number: 7070619882
+Consent Status: Granted

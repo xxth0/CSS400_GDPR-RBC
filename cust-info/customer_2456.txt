@@ -1,0 +1,6 @@
+Customer ID: 2456
+Name: Priscilla Lane
+National ID: 781-09-9848
+Bank: King Group Bank
+Account Number: 6352960844
+Consent Status: Revoked

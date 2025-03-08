@@ -1,0 +1,6 @@
+Customer ID: 1488
+Name: Brittany Brown
+National ID: 254-94-4860
+Bank: Cox-Jones Bank
+Account Number: 1473781408
+Consent Status: Revoked

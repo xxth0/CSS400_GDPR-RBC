@@ -1,0 +1,6 @@
+Customer ID: 9134
+Name: Kim Johnson
+National ID: 501-56-1183
+Bank: Hall, Gomez and Wiley Bank
+Account Number: 1398854121
+Consent Status: Granted

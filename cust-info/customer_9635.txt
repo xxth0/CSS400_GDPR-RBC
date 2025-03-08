@@ -1,0 +1,6 @@
+Customer ID: 9635
+Name: Joann Evans
+National ID: 137-14-9155
+Bank: Mcfarland-Brown Bank
+Account Number: 1890245152
+Consent Status: Revoked

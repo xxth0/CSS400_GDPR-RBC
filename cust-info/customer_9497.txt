@@ -1,0 +1,6 @@
+Customer ID: 9497
+Name: Bradley Rose
+National ID: 107-79-1923
+Bank: Whitehead Ltd Bank
+Account Number: 4992542973
+Consent Status: Revoked

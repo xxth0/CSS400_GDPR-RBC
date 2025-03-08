@@ -1,0 +1,6 @@
+Customer ID: 6854
+Name: Robin Lewis
+National ID: 358-63-4195
+Bank: Diaz-Martinez Bank
+Account Number: 9215584137
+Consent Status: Revoked

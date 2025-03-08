@@ -1,0 +1,6 @@
+Customer ID: 4702
+Name: Ryan Zimmerman
+National ID: 499-83-4028
+Bank: Miller Ltd Bank
+Account Number: 4926457628
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2128
+Name: William Greene
+National ID: 458-79-7021
+Bank: Smith, Faulkner and Perez Bank
+Account Number: 9559347802
+Consent Status: Granted

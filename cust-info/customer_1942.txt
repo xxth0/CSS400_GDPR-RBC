@@ -1,0 +1,6 @@
+Customer ID: 1942
+Name: Joel Rice
+National ID: 428-09-8957
+Bank: Howard, Morrow and Reyes Bank
+Account Number: 5099215799
+Consent Status: Revoked

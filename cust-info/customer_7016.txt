@@ -1,0 +1,6 @@
+Customer ID: 7016
+Name: Anthony Roberts
+National ID: 044-69-8429
+Bank: Yates Group Bank
+Account Number: 1190340389
+Consent Status: Granted

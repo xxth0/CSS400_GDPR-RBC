@@ -1,0 +1,6 @@
+Customer ID: 7529
+Name: Krystal Garcia
+National ID: 465-43-5264
+Bank: Henderson-Whitehead Bank
+Account Number: 8062765012
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8556
+Name: Thomas Austin
+National ID: 775-28-4814
+Bank: Vaughn, Morris and Mercado Bank
+Account Number: 2849371507
+Consent Status: Revoked

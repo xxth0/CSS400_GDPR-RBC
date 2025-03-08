@@ -1,0 +1,6 @@
+Customer ID: 9566
+Name: Betty Chavez
+National ID: 196-89-8772
+Bank: Garcia PLC Bank
+Account Number: 9401073516
+Consent Status: Revoked

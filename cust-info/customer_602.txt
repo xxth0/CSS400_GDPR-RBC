@@ -1,0 +1,6 @@
+Customer ID: 602
+Name: Carol Peterson
+National ID: 037-38-5995
+Bank: Lamb and Sons Bank
+Account Number: 2465262115
+Consent Status: Revoked

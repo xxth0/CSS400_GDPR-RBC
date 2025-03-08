@@ -1,0 +1,6 @@
+Customer ID: 6722
+Name: Renee Colon
+National ID: 727-79-2511
+Bank: Mcclure-Johnson Bank
+Account Number: 2659237734
+Consent Status: Revoked

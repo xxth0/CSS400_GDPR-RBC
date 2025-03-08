@@ -1,0 +1,6 @@
+Customer ID: 6932
+Name: Joseph Davis
+National ID: 807-60-9130
+Bank: Wright-Howard Bank
+Account Number: 5963327890
+Consent Status: Revoked

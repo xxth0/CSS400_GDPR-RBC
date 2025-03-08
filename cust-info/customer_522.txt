@@ -1,0 +1,6 @@
+Customer ID: 522
+Name: Shawn Evans
+National ID: 472-26-7300
+Bank: Rodriguez, Gutierrez and Boone Bank
+Account Number: 5288767053
+Consent Status: Revoked

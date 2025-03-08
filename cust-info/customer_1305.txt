@@ -1,0 +1,6 @@
+Customer ID: 1305
+Name: Shelby Mcintyre
+National ID: 217-12-4190
+Bank: Brown, Stevens and Wyatt Bank
+Account Number: 4513818537
+Consent Status: Granted

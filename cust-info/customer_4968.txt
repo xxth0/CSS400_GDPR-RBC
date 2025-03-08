@@ -1,0 +1,6 @@
+Customer ID: 4968
+Name: Alex Pace
+National ID: 753-65-0412
+Bank: Calhoun LLC Bank
+Account Number: 8042954309
+Consent Status: Revoked

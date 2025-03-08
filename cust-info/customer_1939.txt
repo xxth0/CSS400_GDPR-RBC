@@ -1,0 +1,6 @@
+Customer ID: 1939
+Name: Patricia Lee
+National ID: 425-20-2621
+Bank: Chavez, Rodgers and Jackson Bank
+Account Number: 7549170914
+Consent Status: Revoked

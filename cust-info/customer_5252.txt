@@ -1,0 +1,6 @@
+Customer ID: 5252
+Name: Karen Harmon
+National ID: 035-10-8508
+Bank: Brown, Herrera and Martinez Bank
+Account Number: 7123932924
+Consent Status: Revoked

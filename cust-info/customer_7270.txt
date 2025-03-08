@@ -1,0 +1,6 @@
+Customer ID: 7270
+Name: Mary Evans
+National ID: 513-33-1721
+Bank: Hudson and Sons Bank
+Account Number: 9802021910
+Consent Status: Granted

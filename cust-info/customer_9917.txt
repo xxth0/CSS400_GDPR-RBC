@@ -1,0 +1,6 @@
+Customer ID: 9917
+Name: Dr. Gregory Johnston
+National ID: 395-01-7532
+Bank: Logan Ltd Bank
+Account Number: 9833556734
+Consent Status: Revoked

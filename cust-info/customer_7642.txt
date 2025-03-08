@@ -1,0 +1,6 @@
+Customer ID: 7642
+Name: James Davies
+National ID: 252-75-2849
+Bank: Lowery LLC Bank
+Account Number: 1153607401
+Consent Status: Granted

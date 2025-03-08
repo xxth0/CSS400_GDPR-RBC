@@ -1,0 +1,6 @@
+Customer ID: 5865
+Name: Jason Little
+National ID: 640-03-8786
+Bank: Morales and Sons Bank
+Account Number: 8691293950
+Consent Status: Revoked

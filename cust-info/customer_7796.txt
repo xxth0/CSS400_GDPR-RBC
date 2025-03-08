@@ -1,0 +1,6 @@
+Customer ID: 7796
+Name: Erica Santos
+National ID: 067-62-1010
+Bank: Clark, Gonzalez and Stevenson Bank
+Account Number: 9416904532
+Consent Status: Revoked

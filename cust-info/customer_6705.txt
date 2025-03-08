@@ -1,0 +1,6 @@
+Customer ID: 6705
+Name: Amber Wagner
+National ID: 489-59-5743
+Bank: Cardenas-Stark Bank
+Account Number: 2824758323
+Consent Status: Granted

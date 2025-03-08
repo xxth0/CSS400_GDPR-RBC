@@ -1,0 +1,6 @@
+Customer ID: 2450
+Name: Kaitlin Richmond
+National ID: 825-35-8885
+Bank: Fowler-Mcbride Bank
+Account Number: 6202365779
+Consent Status: Revoked

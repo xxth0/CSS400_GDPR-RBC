@@ -1,0 +1,6 @@
+Customer ID: 5677
+Name: Jennifer Green
+National ID: 293-31-9147
+Bank: Waters LLC Bank
+Account Number: 6833055442
+Consent Status: Granted

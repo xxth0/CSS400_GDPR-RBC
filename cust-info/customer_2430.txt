@@ -1,0 +1,6 @@
+Customer ID: 2430
+Name: Scott Simmons
+National ID: 755-79-4099
+Bank: Ortiz PLC Bank
+Account Number: 2628240220
+Consent Status: Revoked

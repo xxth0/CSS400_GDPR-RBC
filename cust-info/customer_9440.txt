@@ -1,0 +1,6 @@
+Customer ID: 9440
+Name: Lauren Donaldson
+National ID: 529-63-3975
+Bank: Osborne and Sons Bank
+Account Number: 1099174758
+Consent Status: Revoked

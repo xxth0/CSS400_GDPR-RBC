@@ -1,0 +1,6 @@
+Customer ID: 3694
+Name: Taylor Thomas
+National ID: 207-64-5748
+Bank: Barrett and Sons Bank
+Account Number: 6577390643
+Consent Status: Revoked

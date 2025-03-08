@@ -1,0 +1,6 @@
+Customer ID: 7992
+Name: Edward Wolfe
+National ID: 640-28-4389
+Bank: Griffin-Steele Bank
+Account Number: 9537566090
+Consent Status: Revoked

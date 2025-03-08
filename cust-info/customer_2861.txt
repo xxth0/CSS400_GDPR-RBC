@@ -1,0 +1,6 @@
+Customer ID: 2861
+Name: Nicholas Thomas
+National ID: 018-44-1864
+Bank: Williams-Hicks Bank
+Account Number: 9193073583
+Consent Status: Revoked

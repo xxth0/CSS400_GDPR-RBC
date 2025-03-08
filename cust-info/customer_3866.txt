@@ -1,0 +1,6 @@
+Customer ID: 3866
+Name: Samantha Pugh
+National ID: 784-06-8740
+Bank: Wilkinson-Perez Bank
+Account Number: 1851972688
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4733
+Name: Pamela Abbott
+National ID: 863-09-6719
+Bank: Maldonado-Brown Bank
+Account Number: 4050102178
+Consent Status: Granted

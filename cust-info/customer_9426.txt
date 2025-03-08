@@ -1,0 +1,6 @@
+Customer ID: 9426
+Name: Shane Figueroa
+National ID: 047-99-7148
+Bank: Allen, Smith and Wagner Bank
+Account Number: 1931169747
+Consent Status: Revoked

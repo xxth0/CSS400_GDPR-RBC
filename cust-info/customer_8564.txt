@@ -1,0 +1,6 @@
+Customer ID: 8564
+Name: Joshua Mendoza
+National ID: 042-56-1692
+Bank: Lewis, Wallace and Becker Bank
+Account Number: 8995138729
+Consent Status: Revoked

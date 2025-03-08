@@ -1,0 +1,6 @@
+Customer ID: 7100
+Name: Robin Villa
+National ID: 834-12-4722
+Bank: Rose-Rodriguez Bank
+Account Number: 9786469167
+Consent Status: Granted

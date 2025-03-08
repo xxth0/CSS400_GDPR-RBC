@@ -1,0 +1,6 @@
+Customer ID: 3063
+Name: Barbara Anderson
+National ID: 493-61-6219
+Bank: Morales LLC Bank
+Account Number: 5861286717
+Consent Status: Granted

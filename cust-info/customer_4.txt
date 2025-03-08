@@ -1,0 +1,6 @@
+Customer ID: 4
+Name: Teresa Thomas
+National ID: 835-24-6959
+Bank: Keller, Anderson and Robinson Bank
+Account Number: 5376872464
+Consent Status: Revoked

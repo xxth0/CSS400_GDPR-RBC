@@ -1,0 +1,6 @@
+Customer ID: 3611
+Name: Karen Ferguson
+National ID: 442-82-6290
+Bank: Wright Ltd Bank
+Account Number: 7014144272
+Consent Status: Granted

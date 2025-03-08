@@ -1,0 +1,6 @@
+Customer ID: 8427
+Name: Benjamin Anderson
+National ID: 732-84-5587
+Bank: Vincent LLC Bank
+Account Number: 1042830737
+Consent Status: Granted

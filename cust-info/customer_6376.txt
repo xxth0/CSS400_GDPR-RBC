@@ -1,0 +1,6 @@
+Customer ID: 6376
+Name: Kelly Mitchell
+National ID: 809-59-4785
+Bank: Miller-Mcdonald Bank
+Account Number: 8324010887
+Consent Status: Granted

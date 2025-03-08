@@ -1,0 +1,6 @@
+Customer ID: 3238
+Name: Jordan Hanson
+National ID: 661-42-1778
+Bank: Cross LLC Bank
+Account Number: 7625216320
+Consent Status: Revoked

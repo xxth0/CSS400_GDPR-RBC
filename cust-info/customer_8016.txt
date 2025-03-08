@@ -1,0 +1,6 @@
+Customer ID: 8016
+Name: Tyler Harvey
+National ID: 315-38-1210
+Bank: Goodwin, Stewart and Howard Bank
+Account Number: 4667116146
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 465
+Name: Melissa Moreno
+National ID: 776-65-6981
+Bank: Ramos-Murphy Bank
+Account Number: 1253393288
+Consent Status: Revoked

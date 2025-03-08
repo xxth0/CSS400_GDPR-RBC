@@ -1,0 +1,6 @@
+Customer ID: 8412
+Name: Kimberly Guzman
+National ID: 083-54-5184
+Bank: Maxwell-Bell Bank
+Account Number: 5504952970
+Consent Status: Revoked

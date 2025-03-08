@@ -1,0 +1,6 @@
+Customer ID: 2398
+Name: Danielle Mathews
+National ID: 731-54-3240
+Bank: Rose-Allen Bank
+Account Number: 1145744149
+Consent Status: Revoked

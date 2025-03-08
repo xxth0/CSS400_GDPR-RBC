@@ -1,0 +1,6 @@
+Customer ID: 3700
+Name: Cynthia White
+National ID: 702-38-5972
+Bank: Lopez-Miller Bank
+Account Number: 6897388546
+Consent Status: Revoked

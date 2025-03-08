@@ -1,0 +1,6 @@
+Customer ID: 1837
+Name: Danielle Barrett
+National ID: 861-16-4358
+Bank: Choi-Garcia Bank
+Account Number: 8437156564
+Consent Status: Granted

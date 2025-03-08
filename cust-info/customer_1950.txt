@@ -1,0 +1,6 @@
+Customer ID: 1950
+Name: Andrew Waller
+National ID: 479-37-8121
+Bank: Anderson-Bell Bank
+Account Number: 6562048958
+Consent Status: Revoked

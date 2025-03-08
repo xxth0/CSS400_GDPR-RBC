@@ -1,0 +1,6 @@
+Customer ID: 820
+Name: Jacob Carter
+National ID: 694-41-0208
+Bank: Morgan PLC Bank
+Account Number: 1422090304
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1338
+Name: Kristin Smith
+National ID: 129-23-3269
+Bank: James, Erickson and Nichols Bank
+Account Number: 3216029170
+Consent Status: Granted

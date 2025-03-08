@@ -1,0 +1,6 @@
+Customer ID: 4399
+Name: Dominic Stokes
+National ID: 597-36-9804
+Bank: Brooks, Combs and Dixon Bank
+Account Number: 8994984907
+Consent Status: Revoked

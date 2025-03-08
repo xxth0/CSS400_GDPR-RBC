@@ -1,0 +1,6 @@
+Customer ID: 2504
+Name: Hector Anderson
+National ID: 256-89-2222
+Bank: Collins-Zimmerman Bank
+Account Number: 1782557808
+Consent Status: Granted

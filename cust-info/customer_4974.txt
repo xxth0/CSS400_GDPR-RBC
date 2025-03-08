@@ -1,0 +1,6 @@
+Customer ID: 4974
+Name: Leslie Hernandez
+National ID: 050-55-2939
+Bank: Lucero-Guerra Bank
+Account Number: 1563948027
+Consent Status: Revoked

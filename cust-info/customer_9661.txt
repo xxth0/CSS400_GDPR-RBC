@@ -1,0 +1,6 @@
+Customer ID: 9661
+Name: Bradley Moon
+National ID: 186-16-7035
+Bank: Garcia and Sons Bank
+Account Number: 4119711977
+Consent Status: Granted

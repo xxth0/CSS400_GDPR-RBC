@@ -1,0 +1,6 @@
+Customer ID: 3413
+Name: Michael Cruz
+National ID: 550-17-4389
+Bank: Martin-Evans Bank
+Account Number: 9986179575
+Consent Status: Revoked

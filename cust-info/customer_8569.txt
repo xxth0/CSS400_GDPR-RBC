@@ -1,0 +1,6 @@
+Customer ID: 8569
+Name: Wendy Johnson
+National ID: 725-20-6966
+Bank: Cruz Inc Bank
+Account Number: 8349938657
+Consent Status: Revoked

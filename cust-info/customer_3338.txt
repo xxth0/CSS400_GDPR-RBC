@@ -1,0 +1,6 @@
+Customer ID: 3338
+Name: Carol Hinton
+National ID: 252-58-2015
+Bank: Briggs, Garcia and James Bank
+Account Number: 4506254728
+Consent Status: Revoked

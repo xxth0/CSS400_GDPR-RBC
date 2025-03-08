@@ -1,0 +1,6 @@
+Customer ID: 6210
+Name: Brent Cole
+National ID: 158-56-3642
+Bank: Copeland-Benson Bank
+Account Number: 4736136100
+Consent Status: Revoked

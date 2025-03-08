@@ -1,0 +1,6 @@
+Customer ID: 3596
+Name: Elizabeth Pineda
+National ID: 478-63-2891
+Bank: Jacobs-Heath Bank
+Account Number: 9315083395
+Consent Status: Revoked

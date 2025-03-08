@@ -1,0 +1,6 @@
+Customer ID: 4149
+Name: Audrey Young
+National ID: 366-53-6323
+Bank: Gray Inc Bank
+Account Number: 4568806361
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3033
+Name: Anthony Turner
+National ID: 216-92-3526
+Bank: Jones, Harris and Smith Bank
+Account Number: 5841962726
+Consent Status: Revoked

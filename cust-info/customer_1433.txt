@@ -1,0 +1,6 @@
+Customer ID: 1433
+Name: Brenda Brown
+National ID: 870-62-3928
+Bank: Reynolds and Sons Bank
+Account Number: 8739072404
+Consent Status: Granted

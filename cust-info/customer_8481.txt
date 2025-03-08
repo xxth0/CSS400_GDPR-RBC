@@ -1,0 +1,6 @@
+Customer ID: 8481
+Name: William Edwards
+National ID: 612-97-5691
+Bank: Brown-Davis Bank
+Account Number: 9079956814
+Consent Status: Granted

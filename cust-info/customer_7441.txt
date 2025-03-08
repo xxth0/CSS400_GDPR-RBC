@@ -1,0 +1,6 @@
+Customer ID: 7441
+Name: Monica Mitchell
+National ID: 397-21-7275
+Bank: Smith Ltd Bank
+Account Number: 4772882349
+Consent Status: Granted

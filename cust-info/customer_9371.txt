@@ -1,0 +1,6 @@
+Customer ID: 9371
+Name: Joshua Smith
+National ID: 641-68-3415
+Bank: Stevens-Fowler Bank
+Account Number: 9300217145
+Consent Status: Granted

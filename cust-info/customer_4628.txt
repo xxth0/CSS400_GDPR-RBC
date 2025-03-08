@@ -1,0 +1,6 @@
+Customer ID: 4628
+Name: Ruben Jacobs
+National ID: 532-94-6136
+Bank: Williamson, Rosario and Stephens Bank
+Account Number: 5191896899
+Consent Status: Revoked

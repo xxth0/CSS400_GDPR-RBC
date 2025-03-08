@@ -1,0 +1,6 @@
+Customer ID: 2767
+Name: Carla Martinez
+National ID: 654-26-7850
+Bank: Hawkins and Sons Bank
+Account Number: 3420335915
+Consent Status: Revoked

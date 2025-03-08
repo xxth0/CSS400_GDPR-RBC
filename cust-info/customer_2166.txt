@@ -1,0 +1,6 @@
+Customer ID: 2166
+Name: Jessica Garcia
+National ID: 778-75-8394
+Bank: Lozano, Jackson and Brown Bank
+Account Number: 1151958711
+Consent Status: Revoked

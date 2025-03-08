@@ -1,0 +1,6 @@
+Customer ID: 2747
+Name: Steven Phillips
+National ID: 315-58-3650
+Bank: Cross-Warren Bank
+Account Number: 8127912110
+Consent Status: Revoked

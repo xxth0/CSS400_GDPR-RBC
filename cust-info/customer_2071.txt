@@ -1,0 +1,6 @@
+Customer ID: 2071
+Name: Mr. Cameron Anderson
+National ID: 149-82-7766
+Bank: Kelly Group Bank
+Account Number: 8300485284
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 599
+Name: Darren Cardenas
+National ID: 450-85-5682
+Bank: Wright-Hart Bank
+Account Number: 7088527846
+Consent Status: Granted

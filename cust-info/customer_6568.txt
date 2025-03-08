@@ -1,0 +1,6 @@
+Customer ID: 6568
+Name: Dwayne Rogers
+National ID: 883-57-8304
+Bank: Romero-Johnson Bank
+Account Number: 5049250192
+Consent Status: Revoked

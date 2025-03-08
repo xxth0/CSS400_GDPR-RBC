@@ -1,0 +1,6 @@
+Customer ID: 5290
+Name: Taylor Murray
+National ID: 487-27-7900
+Bank: Wright, Gibson and Rivera Bank
+Account Number: 4901386166
+Consent Status: Revoked

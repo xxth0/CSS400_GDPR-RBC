@@ -1,0 +1,6 @@
+Customer ID: 7237
+Name: Andrew Curry
+National ID: 803-48-7706
+Bank: Sanchez, Oneill and Morales Bank
+Account Number: 6870444544
+Consent Status: Granted

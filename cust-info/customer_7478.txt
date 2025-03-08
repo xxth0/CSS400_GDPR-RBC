@@ -1,0 +1,6 @@
+Customer ID: 7478
+Name: Michael Chan
+National ID: 748-29-5441
+Bank: Skinner and Sons Bank
+Account Number: 2464645604
+Consent Status: Revoked

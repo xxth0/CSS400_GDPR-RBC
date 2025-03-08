@@ -1,0 +1,6 @@
+Customer ID: 6831
+Name: Amanda Moss
+National ID: 711-32-2828
+Bank: Howard-Reynolds Bank
+Account Number: 4967833719
+Consent Status: Revoked

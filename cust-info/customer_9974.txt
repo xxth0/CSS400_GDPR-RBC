@@ -1,0 +1,6 @@
+Customer ID: 9974
+Name: John Kennedy
+National ID: 444-46-9443
+Bank: Garcia Ltd Bank
+Account Number: 9968552837
+Consent Status: Revoked

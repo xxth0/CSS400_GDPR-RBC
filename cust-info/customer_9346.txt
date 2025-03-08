@@ -1,0 +1,6 @@
+Customer ID: 9346
+Name: Jason Cisneros
+National ID: 474-76-3878
+Bank: Burton-Bryant Bank
+Account Number: 5759352543
+Consent Status: Revoked

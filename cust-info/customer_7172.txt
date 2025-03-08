@@ -1,0 +1,6 @@
+Customer ID: 7172
+Name: Timothy Mills
+National ID: 594-67-4236
+Bank: Scott, Ruiz and Smith Bank
+Account Number: 3218400293
+Consent Status: Revoked

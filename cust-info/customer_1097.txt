@@ -1,0 +1,6 @@
+Customer ID: 1097
+Name: Savannah Johnson
+National ID: 432-41-4669
+Bank: Hall Ltd Bank
+Account Number: 6761806191
+Consent Status: Granted

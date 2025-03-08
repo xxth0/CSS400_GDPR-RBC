@@ -1,0 +1,6 @@
+Customer ID: 8259
+Name: Christopher Harvey
+National ID: 651-34-3444
+Bank: Garcia Ltd Bank
+Account Number: 8970419033
+Consent Status: Revoked

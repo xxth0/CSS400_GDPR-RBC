@@ -1,0 +1,6 @@
+Customer ID: 3842
+Name: Justin Morgan
+National ID: 127-42-8438
+Bank: Kelly-West Bank
+Account Number: 4160574215
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1114
+Name: Amy Patterson DDS
+National ID: 275-23-6062
+Bank: Sparks and Sons Bank
+Account Number: 4724782339
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 406
+Name: Andrew Freeman
+National ID: 063-89-1681
+Bank: Yang Ltd Bank
+Account Number: 3867354653
+Consent Status: Revoked

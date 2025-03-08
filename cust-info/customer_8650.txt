@@ -1,0 +1,6 @@
+Customer ID: 8650
+Name: Amy Mitchell
+National ID: 304-03-4125
+Bank: Hampton, Roberts and Henderson Bank
+Account Number: 1025701990
+Consent Status: Granted

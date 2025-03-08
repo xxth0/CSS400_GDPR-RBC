@@ -1,0 +1,6 @@
+Customer ID: 6284
+Name: Ryan Sweeney
+National ID: 845-20-9148
+Bank: Hawkins, Gould and Ford Bank
+Account Number: 4723483425
+Consent Status: Granted

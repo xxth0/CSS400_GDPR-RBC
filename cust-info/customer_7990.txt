@@ -1,0 +1,6 @@
+Customer ID: 7990
+Name: Natalie Hart
+National ID: 653-07-2556
+Bank: Hoover Group Bank
+Account Number: 1039633302
+Consent Status: Revoked

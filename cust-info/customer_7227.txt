@@ -1,0 +1,6 @@
+Customer ID: 7227
+Name: Wayne Thompson
+National ID: 515-83-7205
+Bank: Kim PLC Bank
+Account Number: 7644677540
+Consent Status: Granted

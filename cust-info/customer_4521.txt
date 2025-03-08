@@ -1,0 +1,6 @@
+Customer ID: 4521
+Name: Michael Gardner
+National ID: 809-05-3119
+Bank: Kim LLC Bank
+Account Number: 9642307573
+Consent Status: Granted

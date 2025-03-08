@@ -1,0 +1,6 @@
+Customer ID: 2417
+Name: Danielle Mata
+National ID: 853-24-9433
+Bank: Silva PLC Bank
+Account Number: 5556465698
+Consent Status: Granted

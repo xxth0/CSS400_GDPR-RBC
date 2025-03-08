@@ -1,0 +1,6 @@
+Customer ID: 9391
+Name: James Williams
+National ID: 619-82-2916
+Bank: Lam and Sons Bank
+Account Number: 8328874103
+Consent Status: Revoked

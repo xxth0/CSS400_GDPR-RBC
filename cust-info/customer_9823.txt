@@ -1,0 +1,6 @@
+Customer ID: 9823
+Name: Thomas Flores
+National ID: 148-57-6548
+Bank: Rivera-Jacobs Bank
+Account Number: 3923579821
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4905
+Name: Nathan Estes
+National ID: 339-18-3349
+Bank: Wong Ltd Bank
+Account Number: 6183584666
+Consent Status: Revoked

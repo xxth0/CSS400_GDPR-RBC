@@ -1,0 +1,6 @@
+Customer ID: 6574
+Name: Ronald Hayes
+National ID: 506-25-7577
+Bank: Carroll, Arnold and Walter Bank
+Account Number: 5291018584
+Consent Status: Revoked

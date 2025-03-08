@@ -1,0 +1,6 @@
+Customer ID: 3878
+Name: Diana Love
+National ID: 314-97-5900
+Bank: Vasquez, Johnson and Hicks Bank
+Account Number: 9474971343
+Consent Status: Revoked

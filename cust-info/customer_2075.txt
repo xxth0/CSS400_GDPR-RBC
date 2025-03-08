@@ -1,0 +1,6 @@
+Customer ID: 2075
+Name: Gregory Liu
+National ID: 531-65-8902
+Bank: Mcdonald-Ho Bank
+Account Number: 6284443013
+Consent Status: Granted

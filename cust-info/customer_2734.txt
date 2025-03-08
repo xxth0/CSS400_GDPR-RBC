@@ -1,0 +1,6 @@
+Customer ID: 2734
+Name: Elizabeth Wright
+National ID: 505-11-2320
+Bank: Wilson Ltd Bank
+Account Number: 4666991704
+Consent Status: Revoked

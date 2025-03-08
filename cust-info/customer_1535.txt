@@ -1,0 +1,6 @@
+Customer ID: 1535
+Name: Debbie Scott
+National ID: 398-78-1572
+Bank: Price, Vargas and Wright Bank
+Account Number: 2236636707
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7229
+Name: Eric Jones
+National ID: 391-22-0096
+Bank: Mckay, Peters and Trujillo Bank
+Account Number: 7309768868
+Consent Status: Granted

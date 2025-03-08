@@ -1,0 +1,6 @@
+Customer ID: 1768
+Name: Tony Flores
+National ID: 308-72-5100
+Bank: Wheeler-Marshall Bank
+Account Number: 8515267732
+Consent Status: Granted

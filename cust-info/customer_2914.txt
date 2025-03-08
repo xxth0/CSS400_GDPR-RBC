@@ -1,0 +1,6 @@
+Customer ID: 2914
+Name: Jason Mendez
+National ID: 572-11-4937
+Bank: Russell and Sons Bank
+Account Number: 4795036747
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6788
+Name: Manuel Perez
+National ID: 822-40-6285
+Bank: Vang, Rogers and Kidd Bank
+Account Number: 5235170066
+Consent Status: Revoked

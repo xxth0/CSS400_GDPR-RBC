@@ -1,0 +1,6 @@
+Customer ID: 3336
+Name: Nichole Henry
+National ID: 163-31-0977
+Bank: Barber-Sanders Bank
+Account Number: 3524398009
+Consent Status: Granted

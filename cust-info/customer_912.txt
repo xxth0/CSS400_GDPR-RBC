@@ -1,0 +1,6 @@
+Customer ID: 912
+Name: Mariah Gonzalez
+National ID: 080-21-8464
+Bank: Ryan, Elliott and Lang Bank
+Account Number: 2058458851
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 884
+Name: Lucas Gutierrez
+National ID: 580-92-4399
+Bank: Perez PLC Bank
+Account Number: 8859987976
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8742
+Name: Danielle Acosta
+National ID: 734-55-4759
+Bank: Murray LLC Bank
+Account Number: 1828839201
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 877
+Name: Barbara Jones
+National ID: 703-08-0454
+Bank: Griffin, Wright and Johnston Bank
+Account Number: 6007435045
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2617
+Name: Kevin Morris
+National ID: 632-24-8122
+Bank: Stein Group Bank
+Account Number: 9872164912
+Consent Status: Revoked

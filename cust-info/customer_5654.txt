@@ -1,0 +1,6 @@
+Customer ID: 5654
+Name: James Parks
+National ID: 415-32-7116
+Bank: Rivera and Sons Bank
+Account Number: 5580969514
+Consent Status: Granted

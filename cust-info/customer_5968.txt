@@ -1,0 +1,6 @@
+Customer ID: 5968
+Name: Deborah Richmond
+National ID: 608-63-3398
+Bank: Lester-Young Bank
+Account Number: 4504002285
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4874
+Name: Edward Miller
+National ID: 496-24-7116
+Bank: Pierce-Shepard Bank
+Account Number: 5305392140
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6838
+Name: Nicholas Bryan
+National ID: 803-14-9428
+Bank: Watkins, Flores and Cochran Bank
+Account Number: 8767699669
+Consent Status: Revoked

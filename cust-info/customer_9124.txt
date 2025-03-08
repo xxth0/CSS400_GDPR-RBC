@@ -1,0 +1,6 @@
+Customer ID: 9124
+Name: Crystal Hernandez
+National ID: 520-41-6040
+Bank: White-Miller Bank
+Account Number: 9195917034
+Consent Status: Granted

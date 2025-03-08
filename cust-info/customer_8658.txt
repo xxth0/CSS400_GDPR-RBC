@@ -1,0 +1,6 @@
+Customer ID: 8658
+Name: Sarah Cole
+National ID: 533-64-2636
+Bank: Price-Watkins Bank
+Account Number: 2660119097
+Consent Status: Revoked

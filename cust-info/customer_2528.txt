@@ -1,0 +1,6 @@
+Customer ID: 2528
+Name: Luis Sherman
+National ID: 378-35-7378
+Bank: Ramsey-Thompson Bank
+Account Number: 3807832074
+Consent Status: Granted

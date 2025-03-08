@@ -1,0 +1,6 @@
+Customer ID: 2345
+Name: Megan Stewart
+National ID: 161-38-7443
+Bank: Taylor-Smith Bank
+Account Number: 5477414430
+Consent Status: Granted

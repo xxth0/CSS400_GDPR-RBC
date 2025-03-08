@@ -1,0 +1,6 @@
+Customer ID: 7220
+Name: James Diaz
+National ID: 838-89-3381
+Bank: Crosby-Bell Bank
+Account Number: 8447346858
+Consent Status: Granted

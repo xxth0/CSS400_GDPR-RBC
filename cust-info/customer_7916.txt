@@ -1,0 +1,6 @@
+Customer ID: 7916
+Name: Vernon Baker
+National ID: 040-75-2890
+Bank: Miller and Sons Bank
+Account Number: 6556553095
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5038
+Name: James Clark
+National ID: 171-10-3300
+Bank: Rasmussen PLC Bank
+Account Number: 4372521387
+Consent Status: Granted

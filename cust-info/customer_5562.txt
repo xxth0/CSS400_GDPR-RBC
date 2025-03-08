@@ -1,0 +1,6 @@
+Customer ID: 5562
+Name: Bethany Jordan
+National ID: 271-87-3273
+Bank: Nelson, Ward and Ortiz Bank
+Account Number: 8399060541
+Consent Status: Revoked

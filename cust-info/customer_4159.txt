@@ -1,0 +1,6 @@
+Customer ID: 4159
+Name: Michael Thomas
+National ID: 096-26-7201
+Bank: Graham-Clark Bank
+Account Number: 6589554430
+Consent Status: Granted

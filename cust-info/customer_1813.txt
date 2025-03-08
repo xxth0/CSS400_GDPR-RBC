@@ -1,0 +1,6 @@
+Customer ID: 1813
+Name: Theresa Kennedy
+National ID: 258-67-2939
+Bank: Smith, Daniel and Wright Bank
+Account Number: 4572419826
+Consent Status: Revoked

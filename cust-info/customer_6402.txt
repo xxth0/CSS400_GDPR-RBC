@@ -1,0 +1,6 @@
+Customer ID: 6402
+Name: Brian Hale
+National ID: 218-57-4324
+Bank: Johnson-Harris Bank
+Account Number: 6143124664
+Consent Status: Granted

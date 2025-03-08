@@ -1,0 +1,6 @@
+Customer ID: 4705
+Name: Brian Dennis
+National ID: 319-91-8874
+Bank: Dyer-Taylor Bank
+Account Number: 6098450473
+Consent Status: Granted

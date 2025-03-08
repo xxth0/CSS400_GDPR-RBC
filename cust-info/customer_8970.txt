@@ -1,0 +1,6 @@
+Customer ID: 8970
+Name: Brett Cohen
+National ID: 657-92-7909
+Bank: King, Ruiz and Allen Bank
+Account Number: 2970387299
+Consent Status: Granted

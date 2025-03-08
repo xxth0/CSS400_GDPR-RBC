@@ -1,0 +1,6 @@
+Customer ID: 8943
+Name: Corey Neal
+National ID: 852-93-1204
+Bank: Cole PLC Bank
+Account Number: 8137087247
+Consent Status: Granted

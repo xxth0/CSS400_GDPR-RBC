@@ -1,0 +1,6 @@
+Customer ID: 8812
+Name: Michael Anderson
+National ID: 574-14-2922
+Bank: Hardy Ltd Bank
+Account Number: 8733597423
+Consent Status: Granted

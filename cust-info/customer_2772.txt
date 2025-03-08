@@ -1,0 +1,6 @@
+Customer ID: 2772
+Name: Charles Barajas
+National ID: 497-23-4760
+Bank: Green and Sons Bank
+Account Number: 6978257563
+Consent Status: Granted

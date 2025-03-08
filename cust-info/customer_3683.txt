@@ -1,0 +1,6 @@
+Customer ID: 3683
+Name: Mary Michael
+National ID: 034-59-6583
+Bank: Hale and Sons Bank
+Account Number: 4608610613
+Consent Status: Granted

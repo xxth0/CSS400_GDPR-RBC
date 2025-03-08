@@ -1,0 +1,6 @@
+Customer ID: 4832
+Name: Morgan Mercer
+National ID: 732-53-8128
+Bank: Gallagher-Gibbs Bank
+Account Number: 1227779584
+Consent Status: Revoked

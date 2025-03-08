@@ -1,0 +1,6 @@
+Customer ID: 9806
+Name: Kathryn Thompson
+National ID: 642-99-4476
+Bank: Taylor-Wilson Bank
+Account Number: 5019250718
+Consent Status: Granted

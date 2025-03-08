@@ -1,0 +1,6 @@
+Customer ID: 8926
+Name: George Kramer
+National ID: 182-94-7531
+Bank: Morris, Villegas and Bass Bank
+Account Number: 8624463376
+Consent Status: Granted

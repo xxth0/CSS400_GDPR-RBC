@@ -1,0 +1,6 @@
+Customer ID: 4404
+Name: Steven Weaver
+National ID: 627-74-5514
+Bank: Velasquez Group Bank
+Account Number: 4646102751
+Consent Status: Revoked

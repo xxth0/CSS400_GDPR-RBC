@@ -1,0 +1,6 @@
+Customer ID: 4413
+Name: Aimee Sandoval
+National ID: 179-78-1726
+Bank: Nolan and Sons Bank
+Account Number: 4755821741
+Consent Status: Granted

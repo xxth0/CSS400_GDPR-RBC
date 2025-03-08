@@ -1,0 +1,6 @@
+Customer ID: 2362
+Name: Bonnie Khan
+National ID: 667-27-0539
+Bank: Dalton LLC Bank
+Account Number: 6392643140
+Consent Status: Granted

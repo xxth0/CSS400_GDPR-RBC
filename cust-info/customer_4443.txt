@@ -1,0 +1,6 @@
+Customer ID: 4443
+Name: Tara Smith
+National ID: 395-11-4930
+Bank: Mora, Collins and Young Bank
+Account Number: 9352357130
+Consent Status: Revoked

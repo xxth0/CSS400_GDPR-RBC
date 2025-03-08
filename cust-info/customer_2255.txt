@@ -1,0 +1,6 @@
+Customer ID: 2255
+Name: Larry Phillips
+National ID: 512-86-1213
+Bank: Smith-Freeman Bank
+Account Number: 9936928232
+Consent Status: Granted

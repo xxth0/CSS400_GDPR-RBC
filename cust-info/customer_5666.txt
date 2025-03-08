@@ -1,0 +1,6 @@
+Customer ID: 5666
+Name: Anthony Welch
+National ID: 603-62-6270
+Bank: Cunningham-Caldwell Bank
+Account Number: 2221817020
+Consent Status: Revoked

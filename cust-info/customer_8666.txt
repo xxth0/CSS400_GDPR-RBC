@@ -1,0 +1,6 @@
+Customer ID: 8666
+Name: Christopher Walker
+National ID: 486-65-7418
+Bank: Jordan and Sons Bank
+Account Number: 1788001302
+Consent Status: Granted

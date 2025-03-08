@@ -1,0 +1,6 @@
+Customer ID: 3927
+Name: Brenda Warner
+National ID: 238-77-4895
+Bank: Rivera, Robbins and Perez Bank
+Account Number: 4182416973
+Consent Status: Revoked

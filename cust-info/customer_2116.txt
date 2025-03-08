@@ -1,0 +1,6 @@
+Customer ID: 2116
+Name: Sherry Ross
+National ID: 642-75-9862
+Bank: Scott Group Bank
+Account Number: 6842152307
+Consent Status: Revoked

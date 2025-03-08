@@ -1,0 +1,6 @@
+Customer ID: 9597
+Name: Sharon Bauer
+National ID: 299-60-2244
+Bank: Wilson, Johnson and Dennis Bank
+Account Number: 2841010078
+Consent Status: Revoked

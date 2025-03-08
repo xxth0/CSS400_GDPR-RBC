@@ -1,0 +1,6 @@
+Customer ID: 5444
+Name: Trevor Peterson
+National ID: 647-46-6501
+Bank: Sparks Ltd Bank
+Account Number: 3674182923
+Consent Status: Granted

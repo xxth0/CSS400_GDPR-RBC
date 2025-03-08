@@ -1,0 +1,6 @@
+Customer ID: 7575
+Name: Lori Benjamin
+National ID: 850-77-6316
+Bank: Thomas, Cameron and Reynolds Bank
+Account Number: 9484862147
+Consent Status: Granted

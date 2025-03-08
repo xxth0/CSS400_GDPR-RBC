@@ -1,0 +1,6 @@
+Customer ID: 6750
+Name: Anita Smith
+National ID: 810-99-4675
+Bank: Parker, Martinez and Calderon Bank
+Account Number: 4684329606
+Consent Status: Revoked

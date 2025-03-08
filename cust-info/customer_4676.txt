@@ -1,0 +1,6 @@
+Customer ID: 4676
+Name: Mary Smith
+National ID: 843-11-4283
+Bank: Padilla-Bush Bank
+Account Number: 4593637507
+Consent Status: Revoked

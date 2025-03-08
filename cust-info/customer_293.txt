@@ -1,0 +1,6 @@
+Customer ID: 293
+Name: Alan Tucker
+National ID: 420-48-4921
+Bank: Patrick Inc Bank
+Account Number: 1294011418
+Consent Status: Granted

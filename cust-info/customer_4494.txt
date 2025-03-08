@@ -1,0 +1,6 @@
+Customer ID: 4494
+Name: Tracy Flores
+National ID: 766-11-3560
+Bank: Lucero, Adams and Berry Bank
+Account Number: 3874352754
+Consent Status: Granted

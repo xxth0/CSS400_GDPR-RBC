@@ -1,0 +1,6 @@
+Customer ID: 3875
+Name: Jordan Peters
+National ID: 215-12-0602
+Bank: Rice, Morales and Clark Bank
+Account Number: 4841172760
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6509
+Name: Teresa Stevens
+National ID: 734-81-2999
+Bank: Wiggins Inc Bank
+Account Number: 9718664884
+Consent Status: Revoked

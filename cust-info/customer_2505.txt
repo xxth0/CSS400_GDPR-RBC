@@ -1,0 +1,6 @@
+Customer ID: 2505
+Name: Holly Johnson
+National ID: 823-94-7511
+Bank: Hayes-Lopez Bank
+Account Number: 3655223520
+Consent Status: Granted

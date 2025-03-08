@@ -1,0 +1,6 @@
+Customer ID: 907
+Name: Brian Hall
+National ID: 012-94-7763
+Bank: Hernandez Ltd Bank
+Account Number: 4248370278
+Consent Status: Revoked

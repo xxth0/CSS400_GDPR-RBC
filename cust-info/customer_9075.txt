@@ -1,0 +1,6 @@
+Customer ID: 9075
+Name: Maria Knox
+National ID: 609-70-5424
+Bank: Miller, Jensen and Chaney Bank
+Account Number: 6261293118
+Consent Status: Granted

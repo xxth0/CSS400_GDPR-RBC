@@ -1,0 +1,6 @@
+Customer ID: 8717
+Name: Kenneth Allen
+National ID: 065-05-0419
+Bank: Meyer, Higgins and Miller Bank
+Account Number: 6305140514
+Consent Status: Revoked

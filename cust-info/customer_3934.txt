@@ -1,0 +1,6 @@
+Customer ID: 3934
+Name: Jodi Garcia
+National ID: 202-55-6362
+Bank: Jenkins Inc Bank
+Account Number: 7945649281
+Consent Status: Revoked

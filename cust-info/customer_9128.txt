@@ -1,0 +1,6 @@
+Customer ID: 9128
+Name: Tina Reed
+National ID: 712-76-2740
+Bank: Neal, Bush and Stanton Bank
+Account Number: 2157949919
+Consent Status: Granted

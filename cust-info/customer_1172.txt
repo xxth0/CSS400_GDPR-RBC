@@ -1,0 +1,6 @@
+Customer ID: 1172
+Name: Joshua Cox
+National ID: 141-09-1419
+Bank: Wheeler, Collins and Pena Bank
+Account Number: 1543535839
+Consent Status: Revoked

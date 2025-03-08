@@ -1,0 +1,6 @@
+Customer ID: 3024
+Name: Jeff Smith
+National ID: 309-27-6466
+Bank: Adams, Peterson and Washington Bank
+Account Number: 5221504917
+Consent Status: Granted

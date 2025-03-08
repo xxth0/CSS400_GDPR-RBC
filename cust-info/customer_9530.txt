@@ -1,0 +1,6 @@
+Customer ID: 9530
+Name: Cassandra Gray
+National ID: 155-22-3907
+Bank: Nunez, Hull and Ray Bank
+Account Number: 8109585653
+Consent Status: Revoked

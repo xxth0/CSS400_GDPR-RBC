@@ -1,0 +1,6 @@
+Customer ID: 2458
+Name: Christopher Wood
+National ID: 383-81-9499
+Bank: Williams-Craig Bank
+Account Number: 4819746124
+Consent Status: Granted

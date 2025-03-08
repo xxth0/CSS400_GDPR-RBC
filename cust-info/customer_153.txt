@@ -1,0 +1,6 @@
+Customer ID: 153
+Name: Cassandra Lambert
+National ID: 707-54-2490
+Bank: Mueller, Lewis and Davis Bank
+Account Number: 4659312296
+Consent Status: Revoked

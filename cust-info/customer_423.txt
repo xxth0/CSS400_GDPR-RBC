@@ -1,0 +1,6 @@
+Customer ID: 423
+Name: Jose Brown
+National ID: 708-75-6572
+Bank: Scott, Harris and Miller Bank
+Account Number: 3249532335
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6347
+Name: Susan Hurst
+National ID: 862-38-4181
+Bank: Price and Sons Bank
+Account Number: 4377906558
+Consent Status: Granted

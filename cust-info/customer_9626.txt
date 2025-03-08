@@ -1,0 +1,6 @@
+Customer ID: 9626
+Name: Daniel Jackson
+National ID: 898-14-1530
+Bank: Shelton, Hurley and Arnold Bank
+Account Number: 8769197140
+Consent Status: Revoked

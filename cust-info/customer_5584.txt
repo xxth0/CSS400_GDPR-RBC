@@ -1,0 +1,6 @@
+Customer ID: 5584
+Name: Nathaniel Barton
+National ID: 011-51-2548
+Bank: Barker Group Bank
+Account Number: 9326392499
+Consent Status: Granted

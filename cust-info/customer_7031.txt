@@ -1,0 +1,6 @@
+Customer ID: 7031
+Name: Samantha Rowland
+National ID: 865-60-2056
+Bank: Aguilar, Gallagher and Acosta Bank
+Account Number: 5329045413
+Consent Status: Revoked

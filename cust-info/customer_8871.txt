@@ -1,0 +1,6 @@
+Customer ID: 8871
+Name: Samantha Villegas
+National ID: 703-68-5378
+Bank: Rogers-Carter Bank
+Account Number: 1642147658
+Consent Status: Granted

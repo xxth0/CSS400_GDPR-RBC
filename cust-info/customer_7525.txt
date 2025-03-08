@@ -1,0 +1,6 @@
+Customer ID: 7525
+Name: Michael Good
+National ID: 432-23-9557
+Bank: Mccall-Lynn Bank
+Account Number: 8199769185
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 580
+Name: Justin Simmons
+National ID: 588-88-5322
+Bank: Smith-Watkins Bank
+Account Number: 7526812120
+Consent Status: Granted

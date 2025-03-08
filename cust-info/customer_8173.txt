@@ -1,0 +1,6 @@
+Customer ID: 8173
+Name: Linda Cook
+National ID: 669-49-6058
+Bank: Willis-Orozco Bank
+Account Number: 3534473051
+Consent Status: Revoked

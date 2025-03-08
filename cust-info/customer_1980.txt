@@ -1,0 +1,6 @@
+Customer ID: 1980
+Name: Shawn Evans
+National ID: 375-81-5769
+Bank: Pierce PLC Bank
+Account Number: 2257592210
+Consent Status: Revoked

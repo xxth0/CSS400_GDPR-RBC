@@ -1,0 +1,6 @@
+Customer ID: 1058
+Name: Angel Wolf
+National ID: 573-70-3836
+Bank: Webster-Carter Bank
+Account Number: 2957634683
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4122
+Name: Michael Young
+National ID: 019-29-1344
+Bank: Allison-Thompson Bank
+Account Number: 4573617787
+Consent Status: Revoked

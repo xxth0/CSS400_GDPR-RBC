@@ -1,0 +1,6 @@
+Customer ID: 8962
+Name: Leslie Gonzales
+National ID: 672-69-9727
+Bank: Waller-Miller Bank
+Account Number: 7166891678
+Consent Status: Granted

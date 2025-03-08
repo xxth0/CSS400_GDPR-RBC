@@ -1,0 +1,6 @@
+Customer ID: 1418
+Name: Dwayne Simmons
+National ID: 161-48-8511
+Bank: Taylor-Peterson Bank
+Account Number: 3092264456
+Consent Status: Revoked

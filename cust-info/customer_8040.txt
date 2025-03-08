@@ -1,0 +1,6 @@
+Customer ID: 8040
+Name: Melanie Duke
+National ID: 676-10-5238
+Bank: Brown Inc Bank
+Account Number: 2890770531
+Consent Status: Granted

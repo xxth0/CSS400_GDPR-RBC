@@ -1,0 +1,6 @@
+Customer ID: 5973
+Name: David Lopez
+National ID: 837-81-8332
+Bank: Hansen Inc Bank
+Account Number: 5815508712
+Consent Status: Revoked

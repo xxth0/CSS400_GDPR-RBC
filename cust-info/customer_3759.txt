@@ -1,0 +1,6 @@
+Customer ID: 3759
+Name: Brian Brock
+National ID: 028-43-1125
+Bank: Wilkinson PLC Bank
+Account Number: 6953874915
+Consent Status: Granted

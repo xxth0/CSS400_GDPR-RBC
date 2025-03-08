@@ -1,0 +1,6 @@
+Customer ID: 5938
+Name: William Robinson
+National ID: 732-79-8941
+Bank: Wagner, Monroe and Leonard Bank
+Account Number: 3939879698
+Consent Status: Granted

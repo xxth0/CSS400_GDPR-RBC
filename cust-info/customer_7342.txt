@@ -1,0 +1,6 @@
+Customer ID: 7342
+Name: Elaine Morris
+National ID: 051-42-6171
+Bank: Rowland-Herrera Bank
+Account Number: 7690174681
+Consent Status: Revoked

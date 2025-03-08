@@ -1,0 +1,6 @@
+Customer ID: 8291
+Name: Janet Martinez
+National ID: 473-21-7103
+Bank: Johnson, Moore and Watson Bank
+Account Number: 9975871157
+Consent Status: Revoked

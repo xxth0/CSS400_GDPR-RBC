@@ -1,0 +1,6 @@
+Customer ID: 7140
+Name: Brooke Porter
+National ID: 439-16-7555
+Bank: Edwards-Ramsey Bank
+Account Number: 8934916914
+Consent Status: Granted

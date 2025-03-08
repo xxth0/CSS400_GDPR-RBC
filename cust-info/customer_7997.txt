@@ -1,0 +1,6 @@
+Customer ID: 7997
+Name: Allen Peters
+National ID: 843-86-4007
+Bank: Bates, Lozano and Berry Bank
+Account Number: 2303686697
+Consent Status: Revoked

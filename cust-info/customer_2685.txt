@@ -1,0 +1,6 @@
+Customer ID: 2685
+Name: Jennifer Tate
+National ID: 734-19-5853
+Bank: Mcdonald-Dickerson Bank
+Account Number: 9941348521
+Consent Status: Revoked

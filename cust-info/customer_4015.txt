@@ -1,0 +1,6 @@
+Customer ID: 4015
+Name: Ryan Adams
+National ID: 178-59-1519
+Bank: Ramirez-Mason Bank
+Account Number: 3663070634
+Consent Status: Revoked

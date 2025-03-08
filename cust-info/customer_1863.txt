@@ -1,0 +1,6 @@
+Customer ID: 1863
+Name: Donna Carter
+National ID: 445-67-8253
+Bank: Spears and Sons Bank
+Account Number: 9042808677
+Consent Status: Granted

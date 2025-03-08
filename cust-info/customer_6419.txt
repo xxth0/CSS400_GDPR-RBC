@@ -1,0 +1,6 @@
+Customer ID: 6419
+Name: Diamond Brown
+National ID: 878-79-3800
+Bank: Lopez, Dean and Morse Bank
+Account Number: 7847943461
+Consent Status: Granted

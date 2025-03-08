@@ -1,0 +1,6 @@
+Customer ID: 2905
+Name: Rachel Green
+National ID: 701-74-7501
+Bank: Anderson-Schmidt Bank
+Account Number: 8504532127
+Consent Status: Granted

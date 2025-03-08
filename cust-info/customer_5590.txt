@@ -1,0 +1,6 @@
+Customer ID: 5590
+Name: Richard Rodriguez
+National ID: 563-91-1807
+Bank: Mullen, Brown and Archer Bank
+Account Number: 6351681223
+Consent Status: Granted

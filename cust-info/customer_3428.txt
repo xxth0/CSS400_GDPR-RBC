@@ -1,0 +1,6 @@
+Customer ID: 3428
+Name: Kelly Bridges
+National ID: 738-09-3034
+Bank: Diaz, Moore and Vazquez Bank
+Account Number: 8552063937
+Consent Status: Revoked

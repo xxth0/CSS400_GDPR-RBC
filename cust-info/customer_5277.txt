@@ -1,0 +1,6 @@
+Customer ID: 5277
+Name: Dr. Lance Sloan
+National ID: 585-32-8464
+Bank: Thompson-Hudson Bank
+Account Number: 8482478350
+Consent Status: Granted

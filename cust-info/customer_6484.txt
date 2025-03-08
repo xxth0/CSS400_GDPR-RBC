@@ -1,0 +1,6 @@
+Customer ID: 6484
+Name: Lauren Cruz
+National ID: 243-04-6400
+Bank: Rangel, Clark and Brooks Bank
+Account Number: 4311305184
+Consent Status: Granted

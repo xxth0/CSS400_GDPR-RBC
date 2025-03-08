@@ -1,0 +1,6 @@
+Customer ID: 8080
+Name: Matthew Reyes
+National ID: 619-20-6441
+Bank: Grant-Bryant Bank
+Account Number: 5184138981
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 824
+Name: Cody Tran
+National ID: 045-64-0596
+Bank: Gould-Harris Bank
+Account Number: 5915654741
+Consent Status: Revoked

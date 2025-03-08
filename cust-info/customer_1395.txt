@@ -1,0 +1,6 @@
+Customer ID: 1395
+Name: Scott Harris
+National ID: 712-79-3348
+Bank: Ward Inc Bank
+Account Number: 7124184556
+Consent Status: Revoked

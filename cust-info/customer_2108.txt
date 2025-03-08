@@ -1,0 +1,6 @@
+Customer ID: 2108
+Name: Nicole Henry
+National ID: 621-86-0059
+Bank: Frederick-Jones Bank
+Account Number: 7386782346
+Consent Status: Revoked

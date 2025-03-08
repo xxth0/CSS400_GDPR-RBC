@@ -1,0 +1,6 @@
+Customer ID: 2791
+Name: Cody Ruiz
+National ID: 758-08-0660
+Bank: Warner-Anderson Bank
+Account Number: 4182242599
+Consent Status: Revoked

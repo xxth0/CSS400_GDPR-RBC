@@ -1,0 +1,6 @@
+Customer ID: 40
+Name: Linda Vazquez
+National ID: 569-08-1457
+Bank: Miller-Evans Bank
+Account Number: 9355216924
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9644
+Name: Caitlin Cowan
+National ID: 661-22-2856
+Bank: Carter PLC Bank
+Account Number: 9272579920
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9145
+Name: Christopher Oneill
+National ID: 279-37-8331
+Bank: Schaefer, Richardson and Jimenez Bank
+Account Number: 4343789871
+Consent Status: Granted

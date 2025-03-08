@@ -1,0 +1,6 @@
+Customer ID: 2271
+Name: Steven Williams
+National ID: 755-47-1930
+Bank: Duncan-Vargas Bank
+Account Number: 6618900290
+Consent Status: Granted

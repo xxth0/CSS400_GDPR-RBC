@@ -1,0 +1,6 @@
+Customer ID: 6034
+Name: Thomas Tucker
+National ID: 545-99-6842
+Bank: Brooks Inc Bank
+Account Number: 8454475183
+Consent Status: Granted

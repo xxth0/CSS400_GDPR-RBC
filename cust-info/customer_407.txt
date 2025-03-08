@@ -1,0 +1,6 @@
+Customer ID: 407
+Name: Carolyn Smith
+National ID: 327-35-9216
+Bank: Bailey Ltd Bank
+Account Number: 5351971454
+Consent Status: Granted

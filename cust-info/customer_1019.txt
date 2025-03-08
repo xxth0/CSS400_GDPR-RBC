@@ -1,0 +1,6 @@
+Customer ID: 1019
+Name: Melissa Wright
+National ID: 293-23-2165
+Bank: Jones, Jacobs and Dominguez Bank
+Account Number: 7748559585
+Consent Status: Revoked

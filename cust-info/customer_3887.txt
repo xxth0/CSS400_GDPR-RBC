@@ -1,0 +1,6 @@
+Customer ID: 3887
+Name: John Foster
+National ID: 884-05-0200
+Bank: Williams-Frazier Bank
+Account Number: 9001599369
+Consent Status: Granted

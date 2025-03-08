@@ -1,0 +1,6 @@
+Customer ID: 668
+Name: Anne Hendricks
+National ID: 557-60-2093
+Bank: Klein, Hill and Burton Bank
+Account Number: 4613497049
+Consent Status: Revoked

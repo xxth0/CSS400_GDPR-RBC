@@ -1,0 +1,6 @@
+Customer ID: 524
+Name: Kimberly Grant
+National ID: 394-16-3900
+Bank: Smith, Rosales and Miller Bank
+Account Number: 2070807739
+Consent Status: Revoked

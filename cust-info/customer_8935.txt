@@ -1,0 +1,6 @@
+Customer ID: 8935
+Name: Ana Jones
+National ID: 372-17-2497
+Bank: Alvarez-Johnson Bank
+Account Number: 6931253508
+Consent Status: Revoked

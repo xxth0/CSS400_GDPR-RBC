@@ -1,0 +1,6 @@
+Customer ID: 5744
+Name: Adrienne Patrick
+National ID: 833-46-0419
+Bank: Hernandez Ltd Bank
+Account Number: 9902799364
+Consent Status: Revoked

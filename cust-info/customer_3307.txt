@@ -1,0 +1,6 @@
+Customer ID: 3307
+Name: Lynn Christian
+National ID: 674-51-4264
+Bank: Green and Sons Bank
+Account Number: 7108929614
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5271
+Name: Lauren Rivera
+National ID: 355-86-5061
+Bank: Serrano Group Bank
+Account Number: 9403636076
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8429
+Name: Taylor Ware
+National ID: 897-17-6218
+Bank: Hall, Gibson and Zuniga Bank
+Account Number: 8598175028
+Consent Status: Revoked

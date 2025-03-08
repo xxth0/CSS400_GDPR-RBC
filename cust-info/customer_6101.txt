@@ -1,0 +1,6 @@
+Customer ID: 6101
+Name: Mathew Cook
+National ID: 469-43-7102
+Bank: Wilson, Nelson and Miller Bank
+Account Number: 1464145354
+Consent Status: Revoked

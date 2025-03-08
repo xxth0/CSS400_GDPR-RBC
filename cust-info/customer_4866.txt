@@ -1,0 +1,6 @@
+Customer ID: 4866
+Name: Christopher French
+National ID: 509-27-2972
+Bank: Duran LLC Bank
+Account Number: 1301928223
+Consent Status: Revoked

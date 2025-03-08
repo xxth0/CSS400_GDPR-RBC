@@ -1,0 +1,6 @@
+Customer ID: 8402
+Name: Heather Sullivan
+National ID: 778-06-6968
+Bank: Scott-Gilmore Bank
+Account Number: 6275106495
+Consent Status: Revoked

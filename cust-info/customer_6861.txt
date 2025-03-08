@@ -1,0 +1,6 @@
+Customer ID: 6861
+Name: Julia Torres
+National ID: 341-80-2470
+Bank: Price-Savage Bank
+Account Number: 7133146265
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3904
+Name: Thomas Morales
+National ID: 548-96-3772
+Bank: Rodgers, Randolph and Tanner Bank
+Account Number: 6650749794
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5800
+Name: Todd Gibson
+National ID: 271-55-3060
+Bank: Fox-Goodwin Bank
+Account Number: 7416070550
+Consent Status: Revoked

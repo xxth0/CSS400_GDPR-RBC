@@ -1,0 +1,6 @@
+Customer ID: 6480
+Name: Kevin Madden
+National ID: 358-10-2113
+Bank: Phillips-Gibbs Bank
+Account Number: 8073724400
+Consent Status: Revoked

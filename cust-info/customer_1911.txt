@@ -1,0 +1,6 @@
+Customer ID: 1911
+Name: Jennifer Browning
+National ID: 753-36-2818
+Bank: Olsen Ltd Bank
+Account Number: 3554992503
+Consent Status: Granted

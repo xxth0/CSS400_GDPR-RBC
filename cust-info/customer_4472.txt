@@ -1,0 +1,6 @@
+Customer ID: 4472
+Name: Michael Mcdonald
+National ID: 168-70-8024
+Bank: Williams Ltd Bank
+Account Number: 8391155459
+Consent Status: Granted

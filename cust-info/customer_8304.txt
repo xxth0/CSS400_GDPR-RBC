@@ -1,0 +1,6 @@
+Customer ID: 8304
+Name: Angela Patterson
+National ID: 456-91-7265
+Bank: Christensen and Sons Bank
+Account Number: 6311056061
+Consent Status: Granted

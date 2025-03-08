@@ -1,0 +1,6 @@
+Customer ID: 2222
+Name: Theresa Watkins
+National ID: 399-62-8934
+Bank: Taylor and Sons Bank
+Account Number: 8027974500
+Consent Status: Revoked

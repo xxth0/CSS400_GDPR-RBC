@@ -1,0 +1,6 @@
+Customer ID: 6877
+Name: Nicholas Johnson
+National ID: 164-30-2226
+Bank: Rosales-Green Bank
+Account Number: 8046108179
+Consent Status: Granted

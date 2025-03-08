@@ -1,0 +1,6 @@
+Customer ID: 5479
+Name: Mark Fischer
+National ID: 128-30-8701
+Bank: Roach-Miller Bank
+Account Number: 9853652412
+Consent Status: Revoked

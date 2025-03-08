@@ -1,0 +1,6 @@
+Customer ID: 9253
+Name: Christopher Roberson
+National ID: 382-28-0487
+Bank: Frost-Duffy Bank
+Account Number: 8899188576
+Consent Status: Revoked

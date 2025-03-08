@@ -1,0 +1,6 @@
+Customer ID: 8522
+Name: Tiffany Nelson
+National ID: 692-44-6054
+Bank: Delgado LLC Bank
+Account Number: 4084801705
+Consent Status: Revoked

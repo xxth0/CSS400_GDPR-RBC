@@ -1,0 +1,6 @@
+Customer ID: 2300
+Name: Emma Pineda
+National ID: 816-04-0538
+Bank: Figueroa, Lindsey and Montgomery Bank
+Account Number: 9781566430
+Consent Status: Revoked

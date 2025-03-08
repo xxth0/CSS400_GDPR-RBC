@@ -1,0 +1,6 @@
+Customer ID: 9388
+Name: Michael Ball
+National ID: 427-46-5826
+Bank: Williams, Orr and Johnson Bank
+Account Number: 8495042373
+Consent Status: Revoked

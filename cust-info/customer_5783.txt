@@ -1,0 +1,6 @@
+Customer ID: 5783
+Name: Michael Martin
+National ID: 595-57-4566
+Bank: Wright, Mills and Meyer Bank
+Account Number: 4545243511
+Consent Status: Revoked

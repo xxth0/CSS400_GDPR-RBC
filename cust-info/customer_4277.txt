@@ -1,0 +1,6 @@
+Customer ID: 4277
+Name: Raymond Kelly
+National ID: 821-06-7525
+Bank: Williams-Charles Bank
+Account Number: 3064674309
+Consent Status: Revoked

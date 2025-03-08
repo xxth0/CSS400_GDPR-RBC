@@ -1,0 +1,6 @@
+Customer ID: 1698
+Name: Shawn Martin
+National ID: 337-30-7914
+Bank: Shaffer, Moody and Smith Bank
+Account Number: 8818022818
+Consent Status: Revoked

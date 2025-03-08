@@ -1,0 +1,6 @@
+Customer ID: 9022
+Name: Amy Morgan
+National ID: 816-08-3846
+Bank: Sanchez, Griffin and Harrison Bank
+Account Number: 3076172072
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3302
+Name: Raymond Campbell
+National ID: 645-89-3437
+Bank: Thornton, Stone and Moreno Bank
+Account Number: 3176318988
+Consent Status: Revoked

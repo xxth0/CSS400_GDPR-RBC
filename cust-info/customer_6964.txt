@@ -1,0 +1,6 @@
+Customer ID: 6964
+Name: Sarah Ruiz
+National ID: 396-82-4574
+Bank: Evans-Sparks Bank
+Account Number: 8603841634
+Consent Status: Granted

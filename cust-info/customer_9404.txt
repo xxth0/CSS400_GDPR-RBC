@@ -1,0 +1,6 @@
+Customer ID: 9404
+Name: Kevin Beltran
+National ID: 493-96-7799
+Bank: Maldonado, Mullen and Carroll Bank
+Account Number: 9141455746
+Consent Status: Granted

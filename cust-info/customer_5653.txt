@@ -1,0 +1,6 @@
+Customer ID: 5653
+Name: Timothy Williamson
+National ID: 743-37-7973
+Bank: Ford Ltd Bank
+Account Number: 3713185489
+Consent Status: Revoked

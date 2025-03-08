@@ -1,0 +1,6 @@
+Customer ID: 2665
+Name: Shannon Smith
+National ID: 094-49-1034
+Bank: Adams PLC Bank
+Account Number: 1066388750
+Consent Status: Granted

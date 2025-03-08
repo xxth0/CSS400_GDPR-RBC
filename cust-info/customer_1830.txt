@@ -1,0 +1,6 @@
+Customer ID: 1830
+Name: Dr. Carlos Johnson Jr.
+National ID: 837-51-1803
+Bank: Duarte-Richardson Bank
+Account Number: 2809435101
+Consent Status: Granted

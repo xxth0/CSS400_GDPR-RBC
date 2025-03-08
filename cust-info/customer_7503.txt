@@ -1,0 +1,6 @@
+Customer ID: 7503
+Name: Brian Chavez
+National ID: 320-07-5438
+Bank: Pierce-Carroll Bank
+Account Number: 3193678107
+Consent Status: Granted

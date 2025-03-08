@@ -1,0 +1,6 @@
+Customer ID: 2558
+Name: Dr. Amber Johnson
+National ID: 085-38-2507
+Bank: Rice-Black Bank
+Account Number: 7422207786
+Consent Status: Revoked

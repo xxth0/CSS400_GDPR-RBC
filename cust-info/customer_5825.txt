@@ -1,0 +1,6 @@
+Customer ID: 5825
+Name: Cheryl Black
+National ID: 107-68-4821
+Bank: Martinez-Fowler Bank
+Account Number: 8950695626
+Consent Status: Granted

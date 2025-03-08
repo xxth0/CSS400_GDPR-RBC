@@ -1,0 +1,6 @@
+Customer ID: 960
+Name: Patty King
+National ID: 503-71-9532
+Bank: Crawford-Kelley Bank
+Account Number: 8659830250
+Consent Status: Granted

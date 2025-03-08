@@ -1,0 +1,6 @@
+Customer ID: 9639
+Name: Patricia Moyer
+National ID: 899-11-8115
+Bank: Decker-Scott Bank
+Account Number: 9538401822
+Consent Status: Revoked

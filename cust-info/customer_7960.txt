@@ -1,0 +1,6 @@
+Customer ID: 7960
+Name: Nicholas Jacobson
+National ID: 870-01-6900
+Bank: Hooper and Sons Bank
+Account Number: 9485959803
+Consent Status: Revoked

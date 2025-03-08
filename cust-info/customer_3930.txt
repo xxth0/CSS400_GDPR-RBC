@@ -1,0 +1,6 @@
+Customer ID: 3930
+Name: Emily Reed
+National ID: 111-84-0443
+Bank: Harris, Petersen and Montoya Bank
+Account Number: 6209340094
+Consent Status: Revoked

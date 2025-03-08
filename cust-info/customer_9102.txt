@@ -1,0 +1,6 @@
+Customer ID: 9102
+Name: John Johnson
+National ID: 101-64-7457
+Bank: Hernandez-Brooks Bank
+Account Number: 6296633007
+Consent Status: Granted

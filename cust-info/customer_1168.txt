@@ -1,0 +1,6 @@
+Customer ID: 1168
+Name: Debra Fowler
+National ID: 172-99-6766
+Bank: Garcia, Frye and Jones Bank
+Account Number: 6099504050
+Consent Status: Granted

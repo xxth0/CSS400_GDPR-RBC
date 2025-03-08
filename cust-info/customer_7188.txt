@@ -1,0 +1,6 @@
+Customer ID: 7188
+Name: Nichole Pearson
+National ID: 257-23-3325
+Bank: Bishop PLC Bank
+Account Number: 3101077597
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8509
+Name: Susan Bennett
+National ID: 431-25-4448
+Bank: Pena, Simon and Fernandez Bank
+Account Number: 7929143284
+Consent Status: Granted

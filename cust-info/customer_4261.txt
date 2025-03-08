@@ -1,0 +1,6 @@
+Customer ID: 4261
+Name: Tony Roach
+National ID: 458-61-0730
+Bank: Morales, Morris and King Bank
+Account Number: 6315989116
+Consent Status: Revoked

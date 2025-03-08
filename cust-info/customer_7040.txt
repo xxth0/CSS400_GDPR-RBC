@@ -1,0 +1,6 @@
+Customer ID: 7040
+Name: Carla Walker
+National ID: 059-07-8913
+Bank: Hernandez, Le and Robinson Bank
+Account Number: 7860147961
+Consent Status: Granted

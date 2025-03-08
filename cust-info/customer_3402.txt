@@ -1,0 +1,6 @@
+Customer ID: 3402
+Name: Eric Garza
+National ID: 492-07-6315
+Bank: Mcgee-Campbell Bank
+Account Number: 3656962769
+Consent Status: Granted

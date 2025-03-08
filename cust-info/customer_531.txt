@@ -1,0 +1,6 @@
+Customer ID: 531
+Name: Ronald Martin
+National ID: 831-21-6102
+Bank: Evans Group Bank
+Account Number: 6881674650
+Consent Status: Granted

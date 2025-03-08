@@ -1,0 +1,6 @@
+Customer ID: 5396
+Name: Frank Chen
+National ID: 357-28-0586
+Bank: Rosario-Robinson Bank
+Account Number: 5158310242
+Consent Status: Revoked

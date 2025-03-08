@@ -1,0 +1,6 @@
+Customer ID: 591
+Name: Curtis Juarez
+National ID: 619-29-1393
+Bank: Ewing and Sons Bank
+Account Number: 6772043721
+Consent Status: Granted

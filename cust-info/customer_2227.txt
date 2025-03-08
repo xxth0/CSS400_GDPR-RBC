@@ -1,0 +1,6 @@
+Customer ID: 2227
+Name: Aaron Nguyen
+National ID: 209-02-6742
+Bank: Washington-Howard Bank
+Account Number: 1548251854
+Consent Status: Granted

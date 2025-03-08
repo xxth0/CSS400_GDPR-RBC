@@ -1,0 +1,6 @@
+Customer ID: 3553
+Name: Brandon Norris
+National ID: 845-84-3340
+Bank: Armstrong, Andrews and Bray Bank
+Account Number: 9875830664
+Consent Status: Granted

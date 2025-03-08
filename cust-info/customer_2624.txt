@@ -1,0 +1,6 @@
+Customer ID: 2624
+Name: Crystal Jordan
+National ID: 104-03-7583
+Bank: Griffith Group Bank
+Account Number: 1775132683
+Consent Status: Revoked

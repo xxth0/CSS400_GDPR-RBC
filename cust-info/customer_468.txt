@@ -1,0 +1,6 @@
+Customer ID: 468
+Name: Lisa Carter
+National ID: 026-80-9546
+Bank: Dixon Ltd Bank
+Account Number: 8762878409
+Consent Status: Revoked

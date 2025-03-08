@@ -1,0 +1,6 @@
+Customer ID: 7222
+Name: Tamara Fowler
+National ID: 509-97-8694
+Bank: Davis and Sons Bank
+Account Number: 4545389391
+Consent Status: Revoked

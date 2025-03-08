@@ -1,0 +1,6 @@
+Customer ID: 6291
+Name: Jacob Mcdonald
+National ID: 748-15-5520
+Bank: Howard-Wilcox Bank
+Account Number: 1985803319
+Consent Status: Revoked

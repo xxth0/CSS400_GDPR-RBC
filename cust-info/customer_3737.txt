@@ -1,0 +1,6 @@
+Customer ID: 3737
+Name: Julie Leonard
+National ID: 733-93-8494
+Bank: Olson LLC Bank
+Account Number: 2357511766
+Consent Status: Granted

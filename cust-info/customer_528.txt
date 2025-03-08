@@ -1,0 +1,6 @@
+Customer ID: 528
+Name: Curtis Mcclain
+National ID: 279-71-0391
+Bank: Dean, Rivas and Young Bank
+Account Number: 6609320848
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2560
+Name: Katherine Atkinson
+National ID: 878-52-3395
+Bank: Randolph, Conway and Turner Bank
+Account Number: 6768754726
+Consent Status: Revoked

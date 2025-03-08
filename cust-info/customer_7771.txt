@@ -1,0 +1,6 @@
+Customer ID: 7771
+Name: Katherine Valdez
+National ID: 794-26-4129
+Bank: Branch Inc Bank
+Account Number: 9814110812
+Consent Status: Granted

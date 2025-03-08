@@ -1,0 +1,6 @@
+Customer ID: 9763
+Name: Joshua Webb
+National ID: 823-03-5353
+Bank: Knight, Wu and Valentine Bank
+Account Number: 6184405590
+Consent Status: Revoked

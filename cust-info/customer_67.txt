@@ -1,0 +1,6 @@
+Customer ID: 67
+Name: Jackson Hernandez
+National ID: 286-19-5328
+Bank: Kidd, Avila and Good Bank
+Account Number: 8689906857
+Consent Status: Granted

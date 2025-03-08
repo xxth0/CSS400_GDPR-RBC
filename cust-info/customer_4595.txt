@@ -1,0 +1,6 @@
+Customer ID: 4595
+Name: Robert Romero
+National ID: 703-30-2500
+Bank: Baird, Hunter and Phillips Bank
+Account Number: 4361620538
+Consent Status: Granted

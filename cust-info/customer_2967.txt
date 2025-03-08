@@ -1,0 +1,6 @@
+Customer ID: 2967
+Name: Jose Walker
+National ID: 746-85-1336
+Bank: Novak, Reynolds and Martinez Bank
+Account Number: 7986103255
+Consent Status: Revoked

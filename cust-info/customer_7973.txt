@@ -1,0 +1,6 @@
+Customer ID: 7973
+Name: Joshua Leblanc
+National ID: 374-75-0296
+Bank: Hawkins, Brown and Lee Bank
+Account Number: 9869333234
+Consent Status: Granted

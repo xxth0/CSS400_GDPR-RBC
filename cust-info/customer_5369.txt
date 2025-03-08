@@ -1,0 +1,6 @@
+Customer ID: 5369
+Name: Clayton Anderson
+National ID: 406-58-6888
+Bank: Parrish, Page and Smith Bank
+Account Number: 9778567459
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2229
+Name: Allison Bautista
+National ID: 792-35-3429
+Bank: Patel-Johnson Bank
+Account Number: 3130915238
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6773
+Name: Ashley Anderson
+National ID: 436-51-6647
+Bank: Thomas-Gilbert Bank
+Account Number: 8131931777
+Consent Status: Granted

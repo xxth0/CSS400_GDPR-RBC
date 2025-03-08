@@ -1,0 +1,6 @@
+Customer ID: 5250
+Name: Amanda Alvarado
+National ID: 444-19-7356
+Bank: Adams, Kelly and White Bank
+Account Number: 3539010246
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 946
+Name: Stephanie Sullivan
+National ID: 606-21-4770
+Bank: Perkins, Jones and Mercado Bank
+Account Number: 1869797526
+Consent Status: Revoked

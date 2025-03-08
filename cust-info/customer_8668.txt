@@ -1,0 +1,6 @@
+Customer ID: 8668
+Name: Melissa Cruz
+National ID: 200-31-9109
+Bank: Levy-Williams Bank
+Account Number: 2545438322
+Consent Status: Revoked

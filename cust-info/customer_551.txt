@@ -1,0 +1,6 @@
+Customer ID: 551
+Name: Roger Olson
+National ID: 203-63-7659
+Bank: Oliver Group Bank
+Account Number: 5828065901
+Consent Status: Granted

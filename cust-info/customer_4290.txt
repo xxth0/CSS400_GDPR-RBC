@@ -1,0 +1,6 @@
+Customer ID: 4290
+Name: Andrea Williams
+National ID: 184-64-9392
+Bank: Rojas-Mills Bank
+Account Number: 3452787539
+Consent Status: Revoked

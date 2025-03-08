@@ -1,0 +1,6 @@
+Customer ID: 2159
+Name: Alexander Anderson
+National ID: 264-53-0375
+Bank: Thompson PLC Bank
+Account Number: 9309288316
+Consent Status: Revoked

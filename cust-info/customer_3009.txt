@@ -1,0 +1,6 @@
+Customer ID: 3009
+Name: John Williams
+National ID: 077-67-3037
+Bank: Thornton-Merritt Bank
+Account Number: 3989227424
+Consent Status: Granted

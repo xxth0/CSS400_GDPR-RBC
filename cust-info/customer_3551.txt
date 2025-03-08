@@ -1,0 +1,6 @@
+Customer ID: 3551
+Name: Paula Williams
+National ID: 013-82-6626
+Bank: Gutierrez, Warren and Sawyer Bank
+Account Number: 7474632302
+Consent Status: Granted

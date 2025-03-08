@@ -1,0 +1,6 @@
+Customer ID: 372
+Name: Jeremy Cardenas
+National ID: 234-98-9603
+Bank: Hernandez, Collier and Hayes Bank
+Account Number: 3060456533
+Consent Status: Revoked

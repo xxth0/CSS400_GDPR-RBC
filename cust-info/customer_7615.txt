@@ -1,0 +1,6 @@
+Customer ID: 7615
+Name: Rachel Miller
+National ID: 532-25-8847
+Bank: Joseph-Stafford Bank
+Account Number: 9951994109
+Consent Status: Granted

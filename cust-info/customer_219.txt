@@ -1,0 +1,6 @@
+Customer ID: 219
+Name: Dennis Bates
+National ID: 013-94-5284
+Bank: Thomas-Edwards Bank
+Account Number: 2705102761
+Consent Status: Revoked

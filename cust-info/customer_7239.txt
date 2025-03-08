@@ -1,0 +1,6 @@
+Customer ID: 7239
+Name: Rebecca Hernandez
+National ID: 864-22-4792
+Bank: Fernandez-Jenkins Bank
+Account Number: 2941303632
+Consent Status: Revoked

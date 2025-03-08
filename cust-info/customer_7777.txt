@@ -1,0 +1,6 @@
+Customer ID: 7777
+Name: Kristi Benson
+National ID: 152-64-6578
+Bank: Rich and Sons Bank
+Account Number: 8552546605
+Consent Status: Granted

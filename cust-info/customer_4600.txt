@@ -1,0 +1,6 @@
+Customer ID: 4600
+Name: Rachel Pineda
+National ID: 228-86-9393
+Bank: Olson and Sons Bank
+Account Number: 7585646388
+Consent Status: Revoked

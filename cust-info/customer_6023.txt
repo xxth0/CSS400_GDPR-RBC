@@ -1,0 +1,6 @@
+Customer ID: 6023
+Name: Shane Brown
+National ID: 742-74-8337
+Bank: Lane-Lang Bank
+Account Number: 7085847542
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 271
+Name: John Sullivan
+National ID: 484-23-3486
+Bank: Gibbs, Swanson and Smith Bank
+Account Number: 3081397875
+Consent Status: Granted

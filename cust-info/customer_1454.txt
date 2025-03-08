@@ -1,0 +1,6 @@
+Customer ID: 1454
+Name: Madison Lewis
+National ID: 556-44-1946
+Bank: Richmond Inc Bank
+Account Number: 3790564461
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2608
+Name: Dylan Hamilton
+National ID: 894-66-2109
+Bank: Sampson, Marshall and Moore Bank
+Account Number: 5396254382
+Consent Status: Revoked

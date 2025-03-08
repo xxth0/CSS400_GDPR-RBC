@@ -1,0 +1,6 @@
+Customer ID: 6029
+Name: Mr. Michael Knapp Jr.
+National ID: 003-63-1328
+Bank: Young LLC Bank
+Account Number: 1744225568
+Consent Status: Revoked

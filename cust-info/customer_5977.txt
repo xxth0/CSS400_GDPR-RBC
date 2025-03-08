@@ -1,0 +1,6 @@
+Customer ID: 5977
+Name: Michael Pham
+National ID: 696-74-1824
+Bank: Mendoza-Hooper Bank
+Account Number: 8434567736
+Consent Status: Granted

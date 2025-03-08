@@ -1,0 +1,6 @@
+Customer ID: 1387
+Name: Joshua Lynch
+National ID: 660-55-9593
+Bank: Estrada-Mathews Bank
+Account Number: 8338537281
+Consent Status: Revoked

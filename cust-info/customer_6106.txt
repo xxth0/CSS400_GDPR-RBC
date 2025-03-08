@@ -1,0 +1,6 @@
+Customer ID: 6106
+Name: Daniel Cortez
+National ID: 699-95-6782
+Bank: Thomas LLC Bank
+Account Number: 7965191137
+Consent Status: Revoked

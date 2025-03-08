@@ -1,0 +1,6 @@
+Customer ID: 1604
+Name: Paul Smith
+National ID: 239-91-9543
+Bank: Jones Ltd Bank
+Account Number: 2858692685
+Consent Status: Revoked

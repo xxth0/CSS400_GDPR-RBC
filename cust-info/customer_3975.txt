@@ -1,0 +1,6 @@
+Customer ID: 3975
+Name: Patricia Baird
+National ID: 235-94-8323
+Bank: Gill-Winters Bank
+Account Number: 5971292162
+Consent Status: Granted

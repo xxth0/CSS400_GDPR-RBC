@@ -1,0 +1,6 @@
+Customer ID: 9694
+Name: Jeffery Lawrence
+National ID: 313-52-8456
+Bank: Flowers-Barker Bank
+Account Number: 4180423405
+Consent Status: Revoked

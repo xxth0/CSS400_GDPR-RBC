@@ -1,0 +1,6 @@
+Customer ID: 1976
+Name: Kenneth Cardenas
+National ID: 768-10-8653
+Bank: Moody PLC Bank
+Account Number: 2209422886
+Consent Status: Granted

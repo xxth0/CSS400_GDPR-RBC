@@ -1,0 +1,6 @@
+Customer ID: 7555
+Name: Sarah Dean
+National ID: 322-42-4304
+Bank: Randall-Hall Bank
+Account Number: 1237874812
+Consent Status: Revoked

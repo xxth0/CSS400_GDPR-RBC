@@ -1,0 +1,6 @@
+Customer ID: 8403
+Name: Alicia Rasmussen
+National ID: 495-11-2957
+Bank: Scott LLC Bank
+Account Number: 3828332041
+Consent Status: Granted

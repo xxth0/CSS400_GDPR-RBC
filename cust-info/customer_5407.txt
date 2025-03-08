@@ -1,0 +1,6 @@
+Customer ID: 5407
+Name: Cynthia Wright
+National ID: 713-73-3311
+Bank: Aguilar, Ramirez and Lara Bank
+Account Number: 7477673841
+Consent Status: Revoked

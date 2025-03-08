@@ -1,0 +1,6 @@
+Customer ID: 9398
+Name: Laurie Johnson MD
+National ID: 282-10-3734
+Bank: Bartlett, Lewis and Lane Bank
+Account Number: 2686104855
+Consent Status: Revoked

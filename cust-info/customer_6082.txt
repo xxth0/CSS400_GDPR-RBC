@@ -1,0 +1,6 @@
+Customer ID: 6082
+Name: David Robertson
+National ID: 429-63-7782
+Bank: Solomon, Martinez and Schmitt Bank
+Account Number: 9430071640
+Consent Status: Revoked

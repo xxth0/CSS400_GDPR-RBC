@@ -1,0 +1,6 @@
+Customer ID: 1150
+Name: David Cox
+National ID: 782-75-7427
+Bank: Bates, Perry and Goodwin Bank
+Account Number: 9020072861
+Consent Status: Revoked

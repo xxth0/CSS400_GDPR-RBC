@@ -1,0 +1,6 @@
+Customer ID: 1715
+Name: Teresa Maxwell
+National ID: 730-08-5674
+Bank: Camacho-Richardson Bank
+Account Number: 2935915625
+Consent Status: Granted

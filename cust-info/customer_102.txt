@@ -1,0 +1,6 @@
+Customer ID: 102
+Name: Meredith Williams
+National ID: 761-34-0110
+Bank: White-Gordon Bank
+Account Number: 1986820799
+Consent Status: Revoked

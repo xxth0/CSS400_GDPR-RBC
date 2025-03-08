@@ -1,0 +1,6 @@
+Customer ID: 3912
+Name: Lisa Johnson
+National ID: 723-41-5209
+Bank: Hurst Group Bank
+Account Number: 2881863025
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1886
+Name: Carrie Curry
+National ID: 820-98-1169
+Bank: Williamson-Johnson Bank
+Account Number: 4852861403
+Consent Status: Revoked

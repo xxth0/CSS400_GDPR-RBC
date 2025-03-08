@@ -1,0 +1,6 @@
+Customer ID: 6610
+Name: Duane Hall
+National ID: 101-49-9599
+Bank: Johnson, Robbins and Turner Bank
+Account Number: 2764621432
+Consent Status: Granted

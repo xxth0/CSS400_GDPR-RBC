@@ -1,0 +1,6 @@
+Customer ID: 9143
+Name: Patrick Gates
+National ID: 235-08-8736
+Bank: Miles PLC Bank
+Account Number: 1884452910
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3959
+Name: Kim Taylor
+National ID: 576-35-9308
+Bank: Murphy, Rodriguez and Fleming Bank
+Account Number: 9514588645
+Consent Status: Revoked

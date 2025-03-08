@@ -1,0 +1,6 @@
+Customer ID: 5342
+Name: Tommy Proctor
+National ID: 394-73-1139
+Bank: Andrews Ltd Bank
+Account Number: 2015553678
+Consent Status: Revoked

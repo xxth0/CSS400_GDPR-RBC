@@ -1,0 +1,6 @@
+Customer ID: 1242
+Name: Robert Moore
+National ID: 143-81-7172
+Bank: Lewis LLC Bank
+Account Number: 4520103526
+Consent Status: Revoked

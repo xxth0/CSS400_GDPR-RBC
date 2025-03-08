@@ -1,0 +1,6 @@
+Customer ID: 7865
+Name: Benjamin Vargas
+National ID: 031-33-3497
+Bank: Martin Inc Bank
+Account Number: 8529085878
+Consent Status: Revoked

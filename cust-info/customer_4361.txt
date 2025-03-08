@@ -1,0 +1,6 @@
+Customer ID: 4361
+Name: Kimberly Collins
+National ID: 609-12-9989
+Bank: Romero-Davis Bank
+Account Number: 1931437663
+Consent Status: Revoked

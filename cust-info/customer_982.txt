@@ -1,0 +1,6 @@
+Customer ID: 982
+Name: Tony Clark
+National ID: 089-96-9502
+Bank: Gray LLC Bank
+Account Number: 1871971059
+Consent Status: Granted

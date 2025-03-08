@@ -1,0 +1,6 @@
+Customer ID: 615
+Name: Nathan Franklin
+National ID: 280-39-9924
+Bank: Little-Butler Bank
+Account Number: 9824976422
+Consent Status: Revoked

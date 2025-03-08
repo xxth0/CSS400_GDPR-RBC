@@ -1,0 +1,6 @@
+Customer ID: 5206
+Name: Eddie Mayer
+National ID: 355-02-3259
+Bank: Mitchell, Rivers and Gardner Bank
+Account Number: 4048948993
+Consent Status: Revoked

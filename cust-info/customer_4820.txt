@@ -1,0 +1,6 @@
+Customer ID: 4820
+Name: Edward Pitts
+National ID: 826-62-1049
+Bank: Davis-Johnson Bank
+Account Number: 4598458078
+Consent Status: Granted

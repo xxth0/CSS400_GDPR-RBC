@@ -1,0 +1,6 @@
+Customer ID: 3966
+Name: Spencer Wheeler
+National ID: 023-34-0472
+Bank: Clements Ltd Bank
+Account Number: 9318035220
+Consent Status: Revoked

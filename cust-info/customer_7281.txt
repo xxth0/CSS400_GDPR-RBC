@@ -1,0 +1,6 @@
+Customer ID: 7281
+Name: Dustin Thornton
+National ID: 500-91-6246
+Bank: Morris, Walsh and Wagner Bank
+Account Number: 8241634067
+Consent Status: Granted

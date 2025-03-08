@@ -1,0 +1,6 @@
+Customer ID: 9094
+Name: Kristin Simmons
+National ID: 316-79-8467
+Bank: Johnson-Morgan Bank
+Account Number: 6652474793
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1184
+Name: Joshua Oneill
+National ID: 372-24-3339
+Bank: Patterson and Sons Bank
+Account Number: 7462197849
+Consent Status: Granted

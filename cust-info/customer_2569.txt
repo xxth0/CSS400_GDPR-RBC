@@ -1,0 +1,6 @@
+Customer ID: 2569
+Name: Anthony Schmidt
+National ID: 441-19-8943
+Bank: Adams, Morrison and Morgan Bank
+Account Number: 5676477034
+Consent Status: Granted

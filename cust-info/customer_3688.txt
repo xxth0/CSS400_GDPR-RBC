@@ -1,0 +1,6 @@
+Customer ID: 3688
+Name: Jennifer Caldwell
+National ID: 318-05-8080
+Bank: Brown, Thomas and May Bank
+Account Number: 1590719880
+Consent Status: Granted

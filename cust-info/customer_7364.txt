@@ -1,0 +1,6 @@
+Customer ID: 7364
+Name: Robert Schmidt
+National ID: 750-59-4114
+Bank: Johnson Group Bank
+Account Number: 7997331675
+Consent Status: Granted

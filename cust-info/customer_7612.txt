@@ -1,0 +1,6 @@
+Customer ID: 7612
+Name: Todd Martin
+National ID: 654-35-4138
+Bank: Hunter Ltd Bank
+Account Number: 8462852506
+Consent Status: Granted

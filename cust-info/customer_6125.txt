@@ -1,0 +1,6 @@
+Customer ID: 6125
+Name: Kevin Cain
+National ID: 356-23-0739
+Bank: Smith-Gray Bank
+Account Number: 2714228056
+Consent Status: Revoked

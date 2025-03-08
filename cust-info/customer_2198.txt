@@ -1,0 +1,6 @@
+Customer ID: 2198
+Name: Nicholas Cook
+National ID: 294-79-8586
+Bank: Kelley, Smith and Hood Bank
+Account Number: 4953819930
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3964
+Name: Jean Bell
+National ID: 205-13-3934
+Bank: Scott, Horn and Soto Bank
+Account Number: 2392025225
+Consent Status: Revoked

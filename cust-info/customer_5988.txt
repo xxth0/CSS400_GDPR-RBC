@@ -1,0 +1,6 @@
+Customer ID: 5988
+Name: Brandon Gonzales
+National ID: 017-34-1197
+Bank: Alvarez-Leonard Bank
+Account Number: 6768151383
+Consent Status: Granted

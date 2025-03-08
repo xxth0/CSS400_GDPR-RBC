@@ -1,0 +1,6 @@
+Customer ID: 949
+Name: Adam Myers
+National ID: 696-52-7418
+Bank: Macias Ltd Bank
+Account Number: 2700963724
+Consent Status: Granted

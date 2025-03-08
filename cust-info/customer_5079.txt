@@ -1,0 +1,6 @@
+Customer ID: 5079
+Name: Julia Fisher
+National ID: 741-47-7050
+Bank: Frank, Thomas and Dudley Bank
+Account Number: 3938460220
+Consent Status: Granted

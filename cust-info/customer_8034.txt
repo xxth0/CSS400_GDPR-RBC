@@ -1,0 +1,6 @@
+Customer ID: 8034
+Name: Sherri Lara
+National ID: 602-91-0817
+Bank: Gutierrez PLC Bank
+Account Number: 1900420410
+Consent Status: Revoked

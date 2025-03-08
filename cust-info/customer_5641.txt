@@ -1,0 +1,6 @@
+Customer ID: 5641
+Name: Jade Carpenter
+National ID: 428-48-5436
+Bank: Flores Inc Bank
+Account Number: 7126481064
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4157
+Name: Sarah Olson
+National ID: 370-73-3252
+Bank: Ramirez Ltd Bank
+Account Number: 3274630600
+Consent Status: Granted

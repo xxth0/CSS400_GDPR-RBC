@@ -1,0 +1,6 @@
+Customer ID: 4859
+Name: Cheyenne Jimenez
+National ID: 667-23-8223
+Bank: Martin-Barton Bank
+Account Number: 6411223270
+Consent Status: Revoked

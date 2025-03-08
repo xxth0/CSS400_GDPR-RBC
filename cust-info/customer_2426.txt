@@ -1,0 +1,6 @@
+Customer ID: 2426
+Name: Patrick Davis
+National ID: 337-69-8669
+Bank: Guerrero, Romero and Lewis Bank
+Account Number: 1283933850
+Consent Status: Granted

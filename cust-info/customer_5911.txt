@@ -1,0 +1,6 @@
+Customer ID: 5911
+Name: Tricia Jordan
+National ID: 608-15-8881
+Bank: Castaneda and Sons Bank
+Account Number: 5591295137
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4055
+Name: Joe Soto
+National ID: 002-03-3798
+Bank: Wiggins-Mitchell Bank
+Account Number: 8977008595
+Consent Status: Revoked

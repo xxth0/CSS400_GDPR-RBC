@@ -1,0 +1,6 @@
+Customer ID: 1354
+Name: Lori Sloan
+National ID: 463-11-2542
+Bank: Hawkins and Sons Bank
+Account Number: 1024168104
+Consent Status: Revoked

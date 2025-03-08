@@ -1,0 +1,6 @@
+Customer ID: 4602
+Name: Sarah Hale
+National ID: 070-50-2247
+Bank: Mccormick, Gillespie and Stone Bank
+Account Number: 7411432208
+Consent Status: Granted

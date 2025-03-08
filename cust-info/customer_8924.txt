@@ -1,0 +1,6 @@
+Customer ID: 8924
+Name: Hailey Jones
+National ID: 014-67-2631
+Bank: Rodriguez, Phillips and Lloyd Bank
+Account Number: 5203122726
+Consent Status: Granted

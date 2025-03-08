@@ -1,0 +1,6 @@
+Customer ID: 3418
+Name: Matthew Beasley
+National ID: 861-98-3257
+Bank: Valencia, Williams and Harrell Bank
+Account Number: 7539778051
+Consent Status: Granted

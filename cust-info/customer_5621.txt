@@ -1,0 +1,6 @@
+Customer ID: 5621
+Name: Audrey Young
+National ID: 125-93-6869
+Bank: James PLC Bank
+Account Number: 4061660340
+Consent Status: Revoked

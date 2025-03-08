@@ -1,0 +1,6 @@
+Customer ID: 3284
+Name: Christopher Thomas
+National ID: 505-02-1869
+Bank: Gamble-Clark Bank
+Account Number: 7112328419
+Consent Status: Revoked

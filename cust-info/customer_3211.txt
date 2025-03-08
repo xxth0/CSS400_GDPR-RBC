@@ -1,0 +1,6 @@
+Customer ID: 3211
+Name: Trevor Schmidt
+National ID: 753-81-8864
+Bank: Edwards-Martinez Bank
+Account Number: 4740382057
+Consent Status: Revoked

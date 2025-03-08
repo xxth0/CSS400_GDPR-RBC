@@ -1,0 +1,6 @@
+Customer ID: 1575
+Name: Ethan Clark
+National ID: 562-10-9127
+Bank: Flores-Freeman Bank
+Account Number: 7407906521
+Consent Status: Granted

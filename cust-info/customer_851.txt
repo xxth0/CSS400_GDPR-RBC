@@ -1,0 +1,6 @@
+Customer ID: 851
+Name: Craig Smith
+National ID: 738-68-1638
+Bank: Rodriguez, Cunningham and Anthony Bank
+Account Number: 5673340327
+Consent Status: Granted

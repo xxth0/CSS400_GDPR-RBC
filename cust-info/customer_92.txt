@@ -1,0 +1,6 @@
+Customer ID: 92
+Name: Joseph Carroll
+National ID: 633-75-1873
+Bank: Holland, Moore and Johnson Bank
+Account Number: 3611873977
+Consent Status: Revoked

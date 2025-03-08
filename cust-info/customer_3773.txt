@@ -1,0 +1,6 @@
+Customer ID: 3773
+Name: Jeffery Dennis
+National ID: 896-39-2217
+Bank: Newman-Burgess Bank
+Account Number: 6348832357
+Consent Status: Granted

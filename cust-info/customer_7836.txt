@@ -1,0 +1,6 @@
+Customer ID: 7836
+Name: Cindy Castro
+National ID: 593-74-4372
+Bank: Lynn LLC Bank
+Account Number: 1195671595
+Consent Status: Granted

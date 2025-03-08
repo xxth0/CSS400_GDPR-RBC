@@ -1,0 +1,6 @@
+Customer ID: 2756
+Name: Dennis Taylor
+National ID: 366-65-7792
+Bank: Hawkins, Cooke and Meyer Bank
+Account Number: 1744307816
+Consent Status: Revoked

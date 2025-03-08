@@ -1,0 +1,6 @@
+Customer ID: 1961
+Name: John Shea
+National ID: 032-07-8794
+Bank: Wood-Sawyer Bank
+Account Number: 8417479081
+Consent Status: Revoked

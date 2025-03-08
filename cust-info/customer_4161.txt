@@ -1,0 +1,6 @@
+Customer ID: 4161
+Name: Andrew Andrade
+National ID: 817-70-3588
+Bank: Price Inc Bank
+Account Number: 4453182348
+Consent Status: Granted

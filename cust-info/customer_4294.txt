@@ -1,0 +1,6 @@
+Customer ID: 4294
+Name: Brian Brown
+National ID: 128-69-0220
+Bank: Spencer-Marshall Bank
+Account Number: 6368520390
+Consent Status: Revoked

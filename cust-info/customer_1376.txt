@@ -1,0 +1,6 @@
+Customer ID: 1376
+Name: Michael Shepard
+National ID: 280-60-6551
+Bank: Cook, Gilmore and Johnson Bank
+Account Number: 1793011480
+Consent Status: Revoked

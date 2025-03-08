@@ -1,0 +1,6 @@
+Customer ID: 7743
+Name: Edward Sanchez
+National ID: 826-66-9046
+Bank: Ayers-White Bank
+Account Number: 2052631738
+Consent Status: Granted

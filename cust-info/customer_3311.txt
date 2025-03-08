@@ -1,0 +1,6 @@
+Customer ID: 3311
+Name: Victoria Dickerson
+National ID: 671-91-2871
+Bank: Christensen, Nelson and Lawson Bank
+Account Number: 4642963684
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7945
+Name: Carl Mendoza
+National ID: 546-54-8622
+Bank: Ryan and Sons Bank
+Account Number: 4658338531
+Consent Status: Granted

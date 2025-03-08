@@ -1,0 +1,6 @@
+Customer ID: 3704
+Name: Jordan Dudley
+National ID: 470-97-3778
+Bank: Hale Inc Bank
+Account Number: 6409854488
+Consent Status: Granted

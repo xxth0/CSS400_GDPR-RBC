@@ -1,0 +1,6 @@
+Customer ID: 835
+Name: Aaron Robinson
+National ID: 657-88-7076
+Bank: Dougherty, Gallagher and Beasley Bank
+Account Number: 7959409228
+Consent Status: Revoked

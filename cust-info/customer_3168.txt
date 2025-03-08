@@ -1,0 +1,6 @@
+Customer ID: 3168
+Name: Karl Barron
+National ID: 372-90-1678
+Bank: Pearson, Duncan and Lee Bank
+Account Number: 8328773885
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9975
+Name: Emily Scott
+National ID: 347-87-8441
+Bank: Stewart Ltd Bank
+Account Number: 2381306238
+Consent Status: Revoked

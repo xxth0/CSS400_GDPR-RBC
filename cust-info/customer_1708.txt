@@ -1,0 +1,6 @@
+Customer ID: 1708
+Name: Bob Sharp
+National ID: 890-27-5414
+Bank: Campbell LLC Bank
+Account Number: 7277228375
+Consent Status: Revoked

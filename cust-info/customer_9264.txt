@@ -1,0 +1,6 @@
+Customer ID: 9264
+Name: Jeremy Griffin
+National ID: 148-37-6937
+Bank: Collins and Sons Bank
+Account Number: 5925492649
+Consent Status: Granted

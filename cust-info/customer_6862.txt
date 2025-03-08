@@ -1,0 +1,6 @@
+Customer ID: 6862
+Name: Todd Johnson
+National ID: 147-24-6624
+Bank: Yates-Cole Bank
+Account Number: 7309116336
+Consent Status: Revoked

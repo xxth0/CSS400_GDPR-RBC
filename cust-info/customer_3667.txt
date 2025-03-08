@@ -1,0 +1,6 @@
+Customer ID: 3667
+Name: Amanda Travis
+National ID: 221-57-7936
+Bank: Lopez Ltd Bank
+Account Number: 4021365636
+Consent Status: Revoked

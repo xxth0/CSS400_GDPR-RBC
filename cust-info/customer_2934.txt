@@ -1,0 +1,6 @@
+Customer ID: 2934
+Name: Corey Jackson
+National ID: 730-88-5106
+Bank: Peterson Ltd Bank
+Account Number: 2734154012
+Consent Status: Revoked

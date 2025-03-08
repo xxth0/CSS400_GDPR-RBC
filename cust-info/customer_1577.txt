@@ -1,0 +1,6 @@
+Customer ID: 1577
+Name: Carlos Blair
+National ID: 050-06-2967
+Bank: Acevedo, Russell and Weaver Bank
+Account Number: 7996623911
+Consent Status: Granted

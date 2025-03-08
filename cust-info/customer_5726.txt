@@ -1,0 +1,6 @@
+Customer ID: 5726
+Name: Paul Reese
+National ID: 871-37-0637
+Bank: Conley-Jackson Bank
+Account Number: 2742469548
+Consent Status: Granted

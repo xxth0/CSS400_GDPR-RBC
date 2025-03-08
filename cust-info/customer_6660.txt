@@ -1,0 +1,6 @@
+Customer ID: 6660
+Name: Richard Herrera
+National ID: 024-12-0560
+Bank: Benjamin Ltd Bank
+Account Number: 9968353306
+Consent Status: Granted

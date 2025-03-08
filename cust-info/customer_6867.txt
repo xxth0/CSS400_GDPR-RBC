@@ -1,0 +1,6 @@
+Customer ID: 6867
+Name: Marie Young
+National ID: 844-83-2979
+Bank: Carter-Elliott Bank
+Account Number: 5340380301
+Consent Status: Revoked

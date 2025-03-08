@@ -1,0 +1,6 @@
+Customer ID: 9284
+Name: Denise Perez
+National ID: 352-04-9347
+Bank: Jones Ltd Bank
+Account Number: 6488428014
+Consent Status: Revoked

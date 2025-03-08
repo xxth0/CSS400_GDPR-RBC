@@ -1,0 +1,6 @@
+Customer ID: 3607
+Name: Daniel Chan
+National ID: 122-30-9691
+Bank: Davis PLC Bank
+Account Number: 8032706973
+Consent Status: Revoked

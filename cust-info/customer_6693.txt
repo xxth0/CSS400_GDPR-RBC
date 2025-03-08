@@ -1,0 +1,6 @@
+Customer ID: 6693
+Name: Curtis Ruiz
+National ID: 051-58-1367
+Bank: Lambert, Smith and Vasquez Bank
+Account Number: 1107946374
+Consent Status: Revoked

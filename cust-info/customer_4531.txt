@@ -1,0 +1,6 @@
+Customer ID: 4531
+Name: Aaron Shannon
+National ID: 796-76-6556
+Bank: Wells PLC Bank
+Account Number: 8587544491
+Consent Status: Granted

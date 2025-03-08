@@ -1,0 +1,6 @@
+Customer ID: 348
+Name: Barbara Nichols
+National ID: 656-99-9616
+Bank: Flynn and Sons Bank
+Account Number: 8842697958
+Consent Status: Granted

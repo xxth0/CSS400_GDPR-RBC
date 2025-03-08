@@ -1,0 +1,6 @@
+Customer ID: 3313
+Name: Jonathon Vargas
+National ID: 347-52-8576
+Bank: Armstrong, Baldwin and Lucas Bank
+Account Number: 5070737512
+Consent Status: Granted

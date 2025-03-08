@@ -1,0 +1,6 @@
+Customer ID: 8550
+Name: Benjamin Walker
+National ID: 520-79-2178
+Bank: Hart, Lewis and Wang Bank
+Account Number: 3489508141
+Consent Status: Revoked

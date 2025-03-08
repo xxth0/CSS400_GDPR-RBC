@@ -1,0 +1,6 @@
+Customer ID: 7119
+Name: Jared Jones
+National ID: 835-33-2904
+Bank: Benson Inc Bank
+Account Number: 4498694622
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 609
+Name: Anthony Richard
+National ID: 692-47-8701
+Bank: Foster, Meyers and Lucas Bank
+Account Number: 3379637239
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7592
+Name: Richard Jones
+National ID: 853-42-4694
+Bank: Vargas and Sons Bank
+Account Number: 9411850934
+Consent Status: Granted

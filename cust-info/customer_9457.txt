@@ -1,0 +1,6 @@
+Customer ID: 9457
+Name: Shannon Morales
+National ID: 054-29-5090
+Bank: Smith-Collins Bank
+Account Number: 5927852833
+Consent Status: Granted

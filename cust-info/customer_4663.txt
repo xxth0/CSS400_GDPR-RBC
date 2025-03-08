@@ -1,0 +1,6 @@
+Customer ID: 4663
+Name: Larry Cox
+National ID: 897-33-6495
+Bank: Ross and Sons Bank
+Account Number: 3055682261
+Consent Status: Revoked

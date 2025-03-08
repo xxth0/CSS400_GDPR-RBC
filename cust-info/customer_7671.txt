@@ -1,0 +1,6 @@
+Customer ID: 7671
+Name: Sara Lopez
+National ID: 011-38-9672
+Bank: Jenkins Group Bank
+Account Number: 2540163009
+Consent Status: Revoked

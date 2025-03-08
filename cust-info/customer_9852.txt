@@ -1,0 +1,6 @@
+Customer ID: 9852
+Name: Amy Cox
+National ID: 487-24-3991
+Bank: Howell Ltd Bank
+Account Number: 3848276027
+Consent Status: Revoked

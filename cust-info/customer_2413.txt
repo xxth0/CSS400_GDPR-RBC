@@ -1,0 +1,6 @@
+Customer ID: 2413
+Name: Madison Ward
+National ID: 436-65-8802
+Bank: Buchanan-Schaefer Bank
+Account Number: 8519648260
+Consent Status: Granted

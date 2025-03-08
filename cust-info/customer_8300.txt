@@ -1,0 +1,6 @@
+Customer ID: 8300
+Name: Nathan Todd
+National ID: 808-61-6047
+Bank: Rice, Hall and Coleman Bank
+Account Number: 9951468374
+Consent Status: Granted

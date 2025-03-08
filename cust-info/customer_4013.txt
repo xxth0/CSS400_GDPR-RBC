@@ -1,0 +1,6 @@
+Customer ID: 4013
+Name: Samantha Anderson
+National ID: 850-83-6688
+Bank: Martinez-Barr Bank
+Account Number: 2369890483
+Consent Status: Revoked

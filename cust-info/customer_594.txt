@@ -1,0 +1,6 @@
+Customer ID: 594
+Name: Ricky Lawson
+National ID: 875-14-3680
+Bank: Peterson-Kennedy Bank
+Account Number: 9646842562
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6995
+Name: Holly Summers
+National ID: 449-11-7608
+Bank: Lewis-Wilson Bank
+Account Number: 3777042359
+Consent Status: Revoked

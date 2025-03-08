@@ -1,0 +1,6 @@
+Customer ID: 6725
+Name: Billy Welch
+National ID: 473-49-5391
+Bank: Perez Group Bank
+Account Number: 2700419996
+Consent Status: Revoked

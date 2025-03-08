@@ -1,0 +1,6 @@
+Customer ID: 1975
+Name: Samantha Reyes
+National ID: 627-75-0550
+Bank: Cook LLC Bank
+Account Number: 8203557388
+Consent Status: Revoked

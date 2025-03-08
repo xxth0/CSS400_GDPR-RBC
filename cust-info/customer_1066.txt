@@ -1,0 +1,6 @@
+Customer ID: 1066
+Name: Leah Wallace
+National ID: 781-36-8479
+Bank: Gutierrez, Sutton and Buckley Bank
+Account Number: 4644600388
+Consent Status: Granted

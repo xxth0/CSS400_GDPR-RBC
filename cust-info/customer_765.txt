@@ -1,0 +1,6 @@
+Customer ID: 765
+Name: Shirley Lewis
+National ID: 400-85-4318
+Bank: Brandt Inc Bank
+Account Number: 8027308172
+Consent Status: Revoked

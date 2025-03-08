@@ -1,0 +1,6 @@
+Customer ID: 712
+Name: Robert Newman
+National ID: 185-48-7063
+Bank: Fisher PLC Bank
+Account Number: 3086348269
+Consent Status: Revoked

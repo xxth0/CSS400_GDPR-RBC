@@ -1,0 +1,6 @@
+Customer ID: 550
+Name: Yvette Cruz
+National ID: 122-45-4795
+Bank: Smith, Smith and Wilson Bank
+Account Number: 2630275801
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2496
+Name: Miranda Martinez
+National ID: 711-16-2273
+Bank: Jones, Rich and Wright Bank
+Account Number: 1066168002
+Consent Status: Revoked

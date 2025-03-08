@@ -1,0 +1,6 @@
+Customer ID: 7839
+Name: Nichole Bauer DDS
+National ID: 309-11-4851
+Bank: Hunter and Sons Bank
+Account Number: 1277263348
+Consent Status: Revoked

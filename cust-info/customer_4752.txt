@@ -1,0 +1,6 @@
+Customer ID: 4752
+Name: David Mccarthy
+National ID: 477-43-3823
+Bank: Hester-James Bank
+Account Number: 2049872933
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9795
+Name: Sean Holloway
+National ID: 697-50-2237
+Bank: Bowman-Mitchell Bank
+Account Number: 6658146077
+Consent Status: Revoked

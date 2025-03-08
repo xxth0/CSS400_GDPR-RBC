@@ -1,0 +1,6 @@
+Customer ID: 4878
+Name: Danielle Dyer
+National ID: 386-45-7720
+Bank: Vasquez PLC Bank
+Account Number: 5836549762
+Consent Status: Revoked

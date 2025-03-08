@@ -1,0 +1,6 @@
+Customer ID: 5548
+Name: Sarah Reynolds
+National ID: 686-78-5011
+Bank: Henderson, Grant and Hernandez Bank
+Account Number: 4880922262
+Consent Status: Revoked

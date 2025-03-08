@@ -1,0 +1,6 @@
+Customer ID: 1515
+Name: Michael Gonzales
+National ID: 572-47-2765
+Bank: Sanchez-Anderson Bank
+Account Number: 7348308550
+Consent Status: Revoked

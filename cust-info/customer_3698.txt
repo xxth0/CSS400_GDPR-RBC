@@ -1,0 +1,6 @@
+Customer ID: 3698
+Name: Tom Roberts
+National ID: 445-69-0120
+Bank: Jones, Jones and Jones Bank
+Account Number: 5244803590
+Consent Status: Revoked

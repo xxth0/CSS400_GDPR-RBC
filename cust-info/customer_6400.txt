@@ -1,0 +1,6 @@
+Customer ID: 6400
+Name: Jennifer White
+National ID: 600-67-4390
+Bank: Smith, Horton and Williams Bank
+Account Number: 4175148123
+Consent Status: Granted

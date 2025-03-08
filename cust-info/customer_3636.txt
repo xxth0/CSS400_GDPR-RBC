@@ -1,0 +1,6 @@
+Customer ID: 3636
+Name: Kimberly Salas
+National ID: 377-91-0184
+Bank: Henderson-Moore Bank
+Account Number: 1180691913
+Consent Status: Revoked

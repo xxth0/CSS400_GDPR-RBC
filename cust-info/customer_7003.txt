@@ -1,0 +1,6 @@
+Customer ID: 7003
+Name: Nathan Lopez
+National ID: 044-76-7696
+Bank: Davis and Sons Bank
+Account Number: 9271454829
+Consent Status: Granted

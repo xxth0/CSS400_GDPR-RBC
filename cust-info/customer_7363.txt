@@ -1,0 +1,6 @@
+Customer ID: 7363
+Name: Bryan Carter
+National ID: 330-49-4383
+Bank: Malone-Evans Bank
+Account Number: 8125521845
+Consent Status: Revoked

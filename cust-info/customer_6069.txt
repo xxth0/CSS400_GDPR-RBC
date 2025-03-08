@@ -1,0 +1,6 @@
+Customer ID: 6069
+Name: Michael Parsons
+National ID: 396-44-5708
+Bank: Brown, King and Lopez Bank
+Account Number: 8090324714
+Consent Status: Revoked

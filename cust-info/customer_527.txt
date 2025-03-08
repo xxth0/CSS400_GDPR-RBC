@@ -1,0 +1,6 @@
+Customer ID: 527
+Name: Jared Todd
+National ID: 311-63-2688
+Bank: Baldwin, Crosby and Peterson Bank
+Account Number: 9548408362
+Consent Status: Revoked

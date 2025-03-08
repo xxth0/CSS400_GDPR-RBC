@@ -1,0 +1,6 @@
+Customer ID: 9387
+Name: Alexandra Fowler
+National ID: 277-79-3273
+Bank: Mccarthy-Reyes Bank
+Account Number: 7337944532
+Consent Status: Granted

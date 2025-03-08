@@ -1,0 +1,6 @@
+Customer ID: 3426
+Name: Mitchell Ellis
+National ID: 552-70-2438
+Bank: Hernandez, Davies and Cooper Bank
+Account Number: 5423695279
+Consent Status: Granted

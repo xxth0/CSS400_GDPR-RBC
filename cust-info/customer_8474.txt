@@ -1,0 +1,6 @@
+Customer ID: 8474
+Name: Ashley Green
+National ID: 546-26-5091
+Bank: Heath, Ray and Jones Bank
+Account Number: 6730992799
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2508
+Name: Christina Parker
+National ID: 481-89-2681
+Bank: Nielsen Ltd Bank
+Account Number: 1174400599
+Consent Status: Revoked

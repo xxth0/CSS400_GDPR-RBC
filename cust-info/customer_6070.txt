@@ -1,0 +1,6 @@
+Customer ID: 6070
+Name: Mrs. Emma Robertson DDS
+National ID: 572-49-8647
+Bank: Bennett and Sons Bank
+Account Number: 5859793384
+Consent Status: Revoked

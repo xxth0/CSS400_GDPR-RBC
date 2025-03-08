@@ -1,0 +1,6 @@
+Customer ID: 1862
+Name: Thomas Scott
+National ID: 275-40-0812
+Bank: Taylor-Jackson Bank
+Account Number: 1827297673
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 842
+Name: Toni Burch
+National ID: 013-15-7402
+Bank: Hebert Inc Bank
+Account Number: 2025930614
+Consent Status: Granted

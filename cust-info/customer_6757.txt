@@ -1,0 +1,6 @@
+Customer ID: 6757
+Name: Shawn Fowler
+National ID: 398-69-6414
+Bank: Clay-Roberts Bank
+Account Number: 5498916813
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4084
+Name: Crystal Romero
+National ID: 331-03-1806
+Bank: Nichols and Sons Bank
+Account Number: 6177350943
+Consent Status: Revoked

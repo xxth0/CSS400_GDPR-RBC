@@ -1,0 +1,6 @@
+Customer ID: 5563
+Name: Amanda Wilson
+National ID: 071-88-2628
+Bank: Stuart, Bates and Webb Bank
+Account Number: 4101399125
+Consent Status: Revoked

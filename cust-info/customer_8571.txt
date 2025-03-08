@@ -1,0 +1,6 @@
+Customer ID: 8571
+Name: Taylor Gould
+National ID: 599-09-1799
+Bank: Fleming-Shaw Bank
+Account Number: 9707323101
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3130
+Name: Andrew King
+National ID: 574-39-9641
+Bank: Irwin, Johnson and Young Bank
+Account Number: 5931185462
+Consent Status: Revoked

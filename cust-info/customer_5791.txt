@@ -1,0 +1,6 @@
+Customer ID: 5791
+Name: Michael Fuller
+National ID: 476-36-4441
+Bank: Stewart Ltd Bank
+Account Number: 2104395691
+Consent Status: Granted

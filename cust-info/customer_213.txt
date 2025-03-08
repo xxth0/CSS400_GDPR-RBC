@@ -1,0 +1,6 @@
+Customer ID: 213
+Name: Michael Cook
+National ID: 158-82-2040
+Bank: Smith-Arnold Bank
+Account Number: 7917582653
+Consent Status: Granted

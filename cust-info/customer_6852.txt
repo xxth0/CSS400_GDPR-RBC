@@ -1,0 +1,6 @@
+Customer ID: 6852
+Name: Daniel Abbott
+National ID: 387-38-6686
+Bank: Shaffer, Silva and Williams Bank
+Account Number: 6558729377
+Consent Status: Revoked

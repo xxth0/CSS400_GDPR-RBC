@@ -1,0 +1,6 @@
+Customer ID: 7025
+Name: Robert Jackson
+National ID: 543-72-2527
+Bank: Frank-Strickland Bank
+Account Number: 5493163593
+Consent Status: Revoked

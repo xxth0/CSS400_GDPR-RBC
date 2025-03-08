@@ -1,0 +1,6 @@
+Customer ID: 2021
+Name: James Coleman
+National ID: 393-96-5481
+Bank: Underwood Inc Bank
+Account Number: 1584463747
+Consent Status: Granted

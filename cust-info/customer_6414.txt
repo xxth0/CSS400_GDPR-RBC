@@ -1,0 +1,6 @@
+Customer ID: 6414
+Name: Maria Williams
+National ID: 171-46-4842
+Bank: Chung Group Bank
+Account Number: 1776316748
+Consent Status: Revoked

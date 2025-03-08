@@ -1,0 +1,6 @@
+Customer ID: 9558
+Name: Theresa Cummings
+National ID: 369-10-5435
+Bank: Vargas Group Bank
+Account Number: 5028074341
+Consent Status: Revoked

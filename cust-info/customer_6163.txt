@@ -1,0 +1,6 @@
+Customer ID: 6163
+Name: Kathryn Sanchez
+National ID: 191-64-8104
+Bank: Howard-Ramsey Bank
+Account Number: 1596029217
+Consent Status: Granted

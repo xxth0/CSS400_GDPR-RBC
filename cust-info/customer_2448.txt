@@ -1,0 +1,6 @@
+Customer ID: 2448
+Name: Dustin Lee
+National ID: 094-44-7675
+Bank: Morgan, Reyes and Perez Bank
+Account Number: 2880122875
+Consent Status: Revoked

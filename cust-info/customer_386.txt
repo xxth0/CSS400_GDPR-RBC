@@ -1,0 +1,6 @@
+Customer ID: 386
+Name: Erin Clark
+National ID: 025-04-1416
+Bank: Lucas-Morgan Bank
+Account Number: 9487543625
+Consent Status: Granted

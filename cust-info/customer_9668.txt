@@ -1,0 +1,6 @@
+Customer ID: 9668
+Name: Joan Wilson
+National ID: 778-57-2672
+Bank: Jones-Mccoy Bank
+Account Number: 1280955575
+Consent Status: Granted

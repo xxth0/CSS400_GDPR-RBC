@@ -1,0 +1,6 @@
+Customer ID: 6279
+Name: Kelly Richards
+National ID: 228-82-0524
+Bank: Wallace and Sons Bank
+Account Number: 3531502275
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7333
+Name: Bryan Green
+National ID: 264-48-1267
+Bank: Stone and Sons Bank
+Account Number: 7602792854
+Consent Status: Granted

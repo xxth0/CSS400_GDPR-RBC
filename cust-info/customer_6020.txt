@@ -1,0 +1,6 @@
+Customer ID: 6020
+Name: Roger Schneider
+National ID: 660-49-8770
+Bank: Barber Group Bank
+Account Number: 6006420511
+Consent Status: Revoked

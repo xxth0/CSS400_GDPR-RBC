@@ -1,0 +1,6 @@
+Customer ID: 8395
+Name: Dean Moore
+National ID: 010-40-0126
+Bank: Smith, Rice and Goodman Bank
+Account Number: 2849331898
+Consent Status: Granted

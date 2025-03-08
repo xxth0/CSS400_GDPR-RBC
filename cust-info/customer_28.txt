@@ -1,0 +1,6 @@
+Customer ID: 28
+Name: Alexandra Tran
+National ID: 174-91-2408
+Bank: Campbell-Jackson Bank
+Account Number: 5819324625
+Consent Status: Granted

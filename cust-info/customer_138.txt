@@ -1,0 +1,6 @@
+Customer ID: 138
+Name: Alicia Gamble
+National ID: 219-59-1141
+Bank: Bailey-Alvarado Bank
+Account Number: 5846101895
+Consent Status: Granted

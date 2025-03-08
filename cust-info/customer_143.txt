@@ -1,0 +1,6 @@
+Customer ID: 143
+Name: Angela Rodriguez
+National ID: 047-78-2979
+Bank: Nunez-Evans Bank
+Account Number: 4788962386
+Consent Status: Revoked

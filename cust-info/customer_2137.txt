@@ -1,0 +1,6 @@
+Customer ID: 2137
+Name: Jasmine Black
+National ID: 511-90-2492
+Bank: Wong, Chavez and Blair Bank
+Account Number: 5088917235
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9758
+Name: Jeffrey Collins
+National ID: 292-27-9285
+Bank: Smith-Turner Bank
+Account Number: 9026845816
+Consent Status: Revoked

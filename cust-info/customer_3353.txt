@@ -1,0 +1,6 @@
+Customer ID: 3353
+Name: Nicholas Dennis
+National ID: 114-24-8443
+Bank: White-Cole Bank
+Account Number: 8182128179
+Consent Status: Revoked

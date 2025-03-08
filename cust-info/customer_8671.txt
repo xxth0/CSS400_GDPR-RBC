@@ -1,0 +1,6 @@
+Customer ID: 8671
+Name: Christian Walker
+National ID: 393-97-8000
+Bank: Jackson-Kelley Bank
+Account Number: 8079246141
+Consent Status: Revoked

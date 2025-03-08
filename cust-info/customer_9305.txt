@@ -1,0 +1,6 @@
+Customer ID: 9305
+Name: Sarah Wiley
+National ID: 579-76-6147
+Bank: Booth Inc Bank
+Account Number: 1949139392
+Consent Status: Revoked

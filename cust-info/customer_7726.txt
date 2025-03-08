@@ -1,0 +1,6 @@
+Customer ID: 7726
+Name: Samantha Bradley
+National ID: 706-14-2587
+Bank: Ramirez PLC Bank
+Account Number: 2279425860
+Consent Status: Revoked

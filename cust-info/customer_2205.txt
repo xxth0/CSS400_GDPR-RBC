@@ -1,0 +1,6 @@
+Customer ID: 2205
+Name: Christopher Williams
+National ID: 735-05-8401
+Bank: Marshall-Moore Bank
+Account Number: 4379458565
+Consent Status: Revoked

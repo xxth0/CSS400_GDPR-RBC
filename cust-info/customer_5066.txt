@@ -1,0 +1,6 @@
+Customer ID: 5066
+Name: Stephanie Browning
+National ID: 007-54-9016
+Bank: Snow LLC Bank
+Account Number: 8241518329
+Consent Status: Granted

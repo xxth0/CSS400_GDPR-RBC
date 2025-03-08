@@ -1,0 +1,6 @@
+Customer ID: 9505
+Name: Dawn Gutierrez
+National ID: 526-54-8447
+Bank: Fuller-Myers Bank
+Account Number: 6409156192
+Consent Status: Revoked

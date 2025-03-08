@@ -1,0 +1,6 @@
+Customer ID: 4920
+Name: Richard Mcguire
+National ID: 051-74-7024
+Bank: Page Group Bank
+Account Number: 3436327183
+Consent Status: Revoked

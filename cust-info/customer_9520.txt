@@ -1,0 +1,6 @@
+Customer ID: 9520
+Name: Chad Martin
+National ID: 178-23-6440
+Bank: Richardson and Sons Bank
+Account Number: 2125562971
+Consent Status: Revoked

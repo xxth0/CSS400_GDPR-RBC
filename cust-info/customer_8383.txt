@@ -1,0 +1,6 @@
+Customer ID: 8383
+Name: Michael King
+National ID: 005-24-0567
+Bank: Holloway-Blake Bank
+Account Number: 6056407299
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5343
+Name: Michael Dixon
+National ID: 840-64-9061
+Bank: Smith-Davis Bank
+Account Number: 3181179462
+Consent Status: Revoked

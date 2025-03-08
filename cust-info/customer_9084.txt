@@ -1,0 +1,6 @@
+Customer ID: 9084
+Name: Amber Rodgers
+National ID: 475-96-8517
+Bank: Price-Key Bank
+Account Number: 9987521051
+Consent Status: Revoked

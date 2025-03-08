@@ -1,0 +1,6 @@
+Customer ID: 5441
+Name: Shannon Oconnor
+National ID: 182-51-7696
+Bank: Wagner, Green and Terry Bank
+Account Number: 4544651484
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9032
+Name: Tiffany Green
+National ID: 279-64-3124
+Bank: French, Hale and Diaz Bank
+Account Number: 4556293975
+Consent Status: Granted

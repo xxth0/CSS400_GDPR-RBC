@@ -1,0 +1,6 @@
+Customer ID: 7966
+Name: Judy Green
+National ID: 886-17-6384
+Bank: Blevins PLC Bank
+Account Number: 9521427110
+Consent Status: Revoked

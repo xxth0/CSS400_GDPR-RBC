@@ -1,0 +1,6 @@
+Customer ID: 7982
+Name: Brandon Cooley
+National ID: 865-11-8115
+Bank: Schultz, Carney and Cruz Bank
+Account Number: 5948572738
+Consent Status: Granted

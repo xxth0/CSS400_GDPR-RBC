@@ -1,0 +1,6 @@
+Customer ID: 4414
+Name: Greg Bradley
+National ID: 686-35-0072
+Bank: Flowers-Carney Bank
+Account Number: 6286674891
+Consent Status: Granted

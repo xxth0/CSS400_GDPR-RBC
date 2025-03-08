@@ -1,0 +1,6 @@
+Customer ID: 2571
+Name: Travis Nguyen
+National ID: 459-73-1403
+Bank: Walker-Parker Bank
+Account Number: 8913633547
+Consent Status: Granted

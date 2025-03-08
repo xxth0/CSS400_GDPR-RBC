@@ -1,0 +1,6 @@
+Customer ID: 3948
+Name: Madison Lewis
+National ID: 850-25-2814
+Bank: King PLC Bank
+Account Number: 7102787084
+Consent Status: Granted

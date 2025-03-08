@@ -1,0 +1,6 @@
+Customer ID: 611
+Name: Michael Hill
+National ID: 266-71-6813
+Bank: Lyons, Lambert and Bass Bank
+Account Number: 2938916547
+Consent Status: Revoked

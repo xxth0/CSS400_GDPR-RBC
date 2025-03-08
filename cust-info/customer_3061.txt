@@ -1,0 +1,6 @@
+Customer ID: 3061
+Name: Tracy Estrada
+National ID: 006-06-1750
+Bank: Carroll-Yoder Bank
+Account Number: 9123181979
+Consent Status: Granted

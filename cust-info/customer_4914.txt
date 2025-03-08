@@ -1,0 +1,6 @@
+Customer ID: 4914
+Name: Frederick Reese
+National ID: 295-52-7697
+Bank: Hensley, Martin and Martinez Bank
+Account Number: 7415537929
+Consent Status: Granted

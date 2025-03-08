@@ -1,0 +1,6 @@
+Customer ID: 2835
+Name: Justin Holt
+National ID: 172-57-9110
+Bank: Nelson-Smith Bank
+Account Number: 1906460089
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8211
+Name: John Huerta
+National ID: 897-12-7250
+Bank: Rodriguez-Nelson Bank
+Account Number: 2794160999
+Consent Status: Revoked

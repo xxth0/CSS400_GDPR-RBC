@@ -1,0 +1,6 @@
+Customer ID: 2913
+Name: Victoria Ruiz
+National ID: 822-53-5554
+Bank: Williams, White and Jones Bank
+Account Number: 2459283614
+Consent Status: Revoked

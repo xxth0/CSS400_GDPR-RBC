@@ -1,0 +1,6 @@
+Customer ID: 6580
+Name: William Patterson
+National ID: 096-08-5434
+Bank: Gonzalez, Smith and Johnson Bank
+Account Number: 4124131095
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9760
+Name: James Cox
+National ID: 247-73-9304
+Bank: Mckenzie-Gonzalez Bank
+Account Number: 1537541427
+Consent Status: Revoked

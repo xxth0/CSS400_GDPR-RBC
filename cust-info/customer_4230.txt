@@ -1,0 +1,6 @@
+Customer ID: 4230
+Name: Mario Sanders
+National ID: 209-91-9400
+Bank: Hendrix-Moss Bank
+Account Number: 4304646652
+Consent Status: Granted

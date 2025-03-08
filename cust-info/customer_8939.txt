@@ -1,0 +1,6 @@
+Customer ID: 8939
+Name: Samantha Allen
+National ID: 168-01-8400
+Bank: Shaw, Jones and Young Bank
+Account Number: 2929109062
+Consent Status: Granted

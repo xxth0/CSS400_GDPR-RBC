@@ -1,0 +1,6 @@
+Customer ID: 8818
+Name: Amber Lamb
+National ID: 839-64-2525
+Bank: Jones, Brown and Berry Bank
+Account Number: 8647686690
+Consent Status: Revoked

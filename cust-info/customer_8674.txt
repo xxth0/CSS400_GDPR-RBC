@@ -1,0 +1,6 @@
+Customer ID: 8674
+Name: Elizabeth Joseph
+National ID: 711-32-5479
+Bank: Waters LLC Bank
+Account Number: 4650362756
+Consent Status: Revoked

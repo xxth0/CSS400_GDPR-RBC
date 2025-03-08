@@ -1,0 +1,6 @@
+Customer ID: 8513
+Name: Karen Cardenas
+National ID: 530-30-1265
+Bank: Pham, Henderson and Waller Bank
+Account Number: 4806833425
+Consent Status: Revoked

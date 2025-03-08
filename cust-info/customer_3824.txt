@@ -1,0 +1,6 @@
+Customer ID: 3824
+Name: Garrett Black
+National ID: 866-49-6971
+Bank: Lawson, Smith and Mcdonald Bank
+Account Number: 6170358301
+Consent Status: Granted

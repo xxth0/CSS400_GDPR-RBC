@@ -1,0 +1,6 @@
+Customer ID: 4842
+Name: Randall Bowman
+National ID: 533-49-9955
+Bank: Kemp-Anderson Bank
+Account Number: 1076432558
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7763
+Name: Matthew Jackson Jr.
+National ID: 756-07-2948
+Bank: Preston Ltd Bank
+Account Number: 3214690072
+Consent Status: Revoked

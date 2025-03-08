@@ -1,0 +1,6 @@
+Customer ID: 2922
+Name: Elizabeth Collins
+National ID: 591-56-3426
+Bank: Bolton, Barron and Holland Bank
+Account Number: 1639018542
+Consent Status: Revoked

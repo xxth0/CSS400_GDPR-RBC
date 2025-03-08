@@ -1,0 +1,6 @@
+Customer ID: 5588
+Name: Kevin Carson
+National ID: 767-36-6002
+Bank: Avery and Sons Bank
+Account Number: 9622644967
+Consent Status: Revoked

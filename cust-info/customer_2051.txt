@@ -1,0 +1,6 @@
+Customer ID: 2051
+Name: Kimberly Powers
+National ID: 708-95-4388
+Bank: Smith-Stuart Bank
+Account Number: 5670563241
+Consent Status: Granted

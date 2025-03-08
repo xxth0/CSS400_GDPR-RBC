@@ -1,0 +1,6 @@
+Customer ID: 3290
+Name: Nicole Levy
+National ID: 024-62-3116
+Bank: Jenkins-Peters Bank
+Account Number: 6873450857
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3368
+Name: Jill Dunn
+National ID: 435-74-6401
+Bank: Johnston-Sandoval Bank
+Account Number: 8545956203
+Consent Status: Granted

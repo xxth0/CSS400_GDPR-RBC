@@ -1,0 +1,6 @@
+Customer ID: 9451
+Name: Ashley Mcclain
+National ID: 841-51-5977
+Bank: Smith-Hall Bank
+Account Number: 5964335042
+Consent Status: Granted

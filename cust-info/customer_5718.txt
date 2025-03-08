@@ -1,0 +1,6 @@
+Customer ID: 5718
+Name: Anthony Olsen
+National ID: 419-68-9021
+Bank: Willis, Melendez and Reyes Bank
+Account Number: 2785858432
+Consent Status: Granted

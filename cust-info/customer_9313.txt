@@ -1,0 +1,6 @@
+Customer ID: 9313
+Name: Michael Lopez
+National ID: 774-60-5317
+Bank: Singleton Inc Bank
+Account Number: 8161341972
+Consent Status: Granted

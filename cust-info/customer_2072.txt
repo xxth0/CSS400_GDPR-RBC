@@ -1,0 +1,6 @@
+Customer ID: 2072
+Name: Cindy Collins
+National ID: 269-67-4709
+Bank: Reyes, Jones and Burgess Bank
+Account Number: 1110061972
+Consent Status: Revoked

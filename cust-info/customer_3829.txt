@@ -1,0 +1,6 @@
+Customer ID: 3829
+Name: Megan King
+National ID: 761-36-7504
+Bank: Gomez-Cooper Bank
+Account Number: 4197300859
+Consent Status: Revoked

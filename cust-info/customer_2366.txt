@@ -1,0 +1,6 @@
+Customer ID: 2366
+Name: Louis Bullock
+National ID: 647-20-9988
+Bank: Shah-Taylor Bank
+Account Number: 7126087329
+Consent Status: Granted

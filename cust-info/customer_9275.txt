@@ -1,0 +1,6 @@
+Customer ID: 9275
+Name: Dawn Dyer
+National ID: 748-93-6820
+Bank: Perez Group Bank
+Account Number: 4629872823
+Consent Status: Revoked

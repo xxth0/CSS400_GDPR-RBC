@@ -1,0 +1,6 @@
+Customer ID: 3874
+Name: Alexander Villarreal
+National ID: 166-51-5961
+Bank: Hernandez-Alvarado Bank
+Account Number: 7414099660
+Consent Status: Granted

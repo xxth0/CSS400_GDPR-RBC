@@ -1,0 +1,6 @@
+Customer ID: 945
+Name: Aaron Mullins
+National ID: 305-84-7623
+Bank: Gordon-Dixon Bank
+Account Number: 5132942222
+Consent Status: Granted

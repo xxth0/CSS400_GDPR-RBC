@@ -1,0 +1,6 @@
+Customer ID: 9256
+Name: Anthony Taylor
+National ID: 028-61-0700
+Bank: Burgess-Brock Bank
+Account Number: 3247153279
+Consent Status: Revoked

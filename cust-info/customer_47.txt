@@ -1,0 +1,6 @@
+Customer ID: 47
+Name: John Brooks
+National ID: 751-69-7648
+Bank: Charles-Hensley Bank
+Account Number: 4473711338
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8206
+Name: Shelby Martinez
+National ID: 800-11-8207
+Bank: Smith PLC Bank
+Account Number: 5219217204
+Consent Status: Revoked

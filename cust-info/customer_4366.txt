@@ -1,0 +1,6 @@
+Customer ID: 4366
+Name: Christopher Crosby
+National ID: 705-87-0144
+Bank: Richard-Burke Bank
+Account Number: 6144918044
+Consent Status: Granted

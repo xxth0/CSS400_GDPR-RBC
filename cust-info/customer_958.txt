@@ -1,0 +1,6 @@
+Customer ID: 958
+Name: James Jarvis
+National ID: 477-07-7140
+Bank: Soto-Martinez Bank
+Account Number: 5243455986
+Consent Status: Granted

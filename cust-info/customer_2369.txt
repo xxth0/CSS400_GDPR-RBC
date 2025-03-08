@@ -1,0 +1,6 @@
+Customer ID: 2369
+Name: Brad Berger
+National ID: 424-37-3999
+Bank: Ward-Long Bank
+Account Number: 2811375131
+Consent Status: Granted

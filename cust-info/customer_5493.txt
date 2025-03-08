@@ -1,0 +1,6 @@
+Customer ID: 5493
+Name: Kimberly Williams
+National ID: 751-56-3973
+Bank: Burton, Banks and Hinton Bank
+Account Number: 3367610452
+Consent Status: Granted

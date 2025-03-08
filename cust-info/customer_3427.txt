@@ -1,0 +1,6 @@
+Customer ID: 3427
+Name: Tammy Gibson
+National ID: 733-50-6965
+Bank: Wallace, Hensley and Brown Bank
+Account Number: 9152687598
+Consent Status: Revoked

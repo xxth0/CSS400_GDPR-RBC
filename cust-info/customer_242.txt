@@ -1,0 +1,6 @@
+Customer ID: 242
+Name: Scott Jenkins
+National ID: 267-39-5988
+Bank: Jones and Sons Bank
+Account Number: 3380466414
+Consent Status: Revoked

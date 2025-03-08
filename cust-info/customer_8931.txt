@@ -1,0 +1,6 @@
+Customer ID: 8931
+Name: Vincent Buckley
+National ID: 300-59-1769
+Bank: Jordan-Russell Bank
+Account Number: 9936522211
+Consent Status: Granted

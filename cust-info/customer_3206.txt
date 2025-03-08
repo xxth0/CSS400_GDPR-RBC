@@ -1,0 +1,6 @@
+Customer ID: 3206
+Name: Amanda Moore
+National ID: 095-79-7595
+Bank: Hawkins-Taylor Bank
+Account Number: 7141990946
+Consent Status: Granted

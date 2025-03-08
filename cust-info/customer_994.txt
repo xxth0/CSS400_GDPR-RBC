@@ -1,0 +1,6 @@
+Customer ID: 994
+Name: Joshua Nash
+National ID: 523-09-7507
+Bank: Johnston Group Bank
+Account Number: 6698105219
+Consent Status: Granted

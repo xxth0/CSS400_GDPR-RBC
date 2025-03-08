@@ -1,0 +1,6 @@
+Customer ID: 7859
+Name: Paul Ellis
+National ID: 862-31-5699
+Bank: Peterson and Sons Bank
+Account Number: 8774927846
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8949
+Name: Kathryn Ramos
+National ID: 719-47-7924
+Bank: Mckay Group Bank
+Account Number: 4872597276
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3588
+Name: Heidi Kent
+National ID: 306-72-1775
+Bank: Cook PLC Bank
+Account Number: 4929010445
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2484
+Name: Ryan Johnson
+National ID: 253-41-0861
+Bank: Brown-Morgan Bank
+Account Number: 5755711971
+Consent Status: Granted

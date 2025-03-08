@@ -1,0 +1,6 @@
+Customer ID: 3547
+Name: Robert Lee
+National ID: 031-68-4487
+Bank: Sweeney LLC Bank
+Account Number: 3241400316
+Consent Status: Revoked

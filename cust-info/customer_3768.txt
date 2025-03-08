@@ -1,0 +1,6 @@
+Customer ID: 3768
+Name: Christine Miller
+National ID: 784-90-7595
+Bank: Allen, Clark and Patrick Bank
+Account Number: 3451581987
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7883
+Name: Monica Clark
+National ID: 272-90-1037
+Bank: Evans, Smith and Adams Bank
+Account Number: 3252043230
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8940
+Name: Richard Livingston
+National ID: 398-64-2667
+Bank: Carter-Boyer Bank
+Account Number: 3742678677
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9377
+Name: Lisa Ray
+National ID: 135-41-8345
+Bank: Ramsey-Stein Bank
+Account Number: 2354658769
+Consent Status: Granted

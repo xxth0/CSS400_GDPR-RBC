@@ -1,0 +1,6 @@
+Customer ID: 299
+Name: Brittney Nelson
+National ID: 306-16-5751
+Bank: Palmer, Bell and Navarro Bank
+Account Number: 5812505427
+Consent Status: Granted

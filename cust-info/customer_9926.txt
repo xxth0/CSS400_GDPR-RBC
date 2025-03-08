@@ -1,0 +1,6 @@
+Customer ID: 9926
+Name: Elizabeth Hernandez
+National ID: 392-62-4991
+Bank: Lewis Inc Bank
+Account Number: 5215467391
+Consent Status: Revoked

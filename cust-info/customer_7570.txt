@@ -1,0 +1,6 @@
+Customer ID: 7570
+Name: Brittany Ryan
+National ID: 030-92-2656
+Bank: Caldwell-Fitzgerald Bank
+Account Number: 9865459299
+Consent Status: Granted

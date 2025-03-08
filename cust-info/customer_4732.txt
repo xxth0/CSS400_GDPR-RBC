@@ -1,0 +1,6 @@
+Customer ID: 4732
+Name: Jessica Summers
+National ID: 023-49-1075
+Bank: Hunt, Rich and Foley Bank
+Account Number: 2361098799
+Consent Status: Revoked

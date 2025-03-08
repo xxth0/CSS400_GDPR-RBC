@@ -1,0 +1,6 @@
+Customer ID: 5887
+Name: Christine Jones
+National ID: 756-38-5666
+Bank: Rasmussen Ltd Bank
+Account Number: 9057714752
+Consent Status: Revoked

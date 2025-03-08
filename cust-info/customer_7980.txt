@@ -1,0 +1,6 @@
+Customer ID: 7980
+Name: Tricia Potter
+National ID: 578-84-7274
+Bank: Gonzales Group Bank
+Account Number: 7046285808
+Consent Status: Granted

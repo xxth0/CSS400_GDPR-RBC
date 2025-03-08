@@ -1,0 +1,6 @@
+Customer ID: 8739
+Name: Natalie Simpson
+National ID: 467-31-7570
+Bank: Armstrong Ltd Bank
+Account Number: 3960849440
+Consent Status: Granted

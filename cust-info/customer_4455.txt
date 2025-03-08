@@ -1,0 +1,6 @@
+Customer ID: 4455
+Name: Matthew Green
+National ID: 314-13-6675
+Bank: White Group Bank
+Account Number: 2977975195
+Consent Status: Revoked

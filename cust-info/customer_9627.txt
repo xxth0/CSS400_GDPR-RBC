@@ -1,0 +1,6 @@
+Customer ID: 9627
+Name: Michael Zimmerman
+National ID: 426-33-6135
+Bank: Colon Group Bank
+Account Number: 4693900722
+Consent Status: Revoked

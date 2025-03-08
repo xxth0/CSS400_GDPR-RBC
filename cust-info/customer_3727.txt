@@ -1,0 +1,6 @@
+Customer ID: 3727
+Name: Maria George
+National ID: 037-24-1744
+Bank: Johnson Group Bank
+Account Number: 8433425683
+Consent Status: Revoked

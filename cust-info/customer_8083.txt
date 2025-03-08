@@ -1,0 +1,6 @@
+Customer ID: 8083
+Name: Patricia Rodgers
+National ID: 184-11-3076
+Bank: Torres-Farmer Bank
+Account Number: 6183367625
+Consent Status: Granted

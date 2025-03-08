@@ -1,0 +1,6 @@
+Customer ID: 5168
+Name: Dawn Clarke
+National ID: 539-33-8634
+Bank: Bell-Burke Bank
+Account Number: 9936048264
+Consent Status: Revoked

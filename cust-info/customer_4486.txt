@@ -1,0 +1,6 @@
+Customer ID: 4486
+Name: Justin Clay
+National ID: 423-74-9519
+Bank: Cruz LLC Bank
+Account Number: 1382973378
+Consent Status: Revoked

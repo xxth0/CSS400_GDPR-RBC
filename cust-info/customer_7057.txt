@@ -1,0 +1,6 @@
+Customer ID: 7057
+Name: Vicki Marks
+National ID: 737-90-9163
+Bank: Ramirez Ltd Bank
+Account Number: 1079604634
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4900
+Name: Michael Chen
+National ID: 795-40-3694
+Bank: Greer Group Bank
+Account Number: 4938187507
+Consent Status: Granted

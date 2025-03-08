@@ -1,0 +1,6 @@
+Customer ID: 1475
+Name: Lorraine Phillips
+National ID: 259-94-1536
+Bank: Bowman, Vargas and Torres Bank
+Account Number: 8345114658
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6556
+Name: Henry Coleman
+National ID: 562-01-1288
+Bank: Bauer-Murray Bank
+Account Number: 7878690339
+Consent Status: Granted

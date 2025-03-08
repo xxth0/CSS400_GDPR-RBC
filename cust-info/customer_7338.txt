@@ -1,0 +1,6 @@
+Customer ID: 7338
+Name: Thomas Alvarez
+National ID: 237-30-8228
+Bank: Gonzalez, Brooks and Rivera Bank
+Account Number: 5806755732
+Consent Status: Revoked

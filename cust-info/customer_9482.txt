@@ -1,0 +1,6 @@
+Customer ID: 9482
+Name: Chelsea Williams
+National ID: 503-88-0916
+Bank: Richardson-Juarez Bank
+Account Number: 2843400081
+Consent Status: Granted

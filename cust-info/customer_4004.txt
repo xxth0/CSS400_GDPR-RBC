@@ -1,0 +1,6 @@
+Customer ID: 4004
+Name: John Nixon
+National ID: 003-76-2804
+Bank: Williams, Flores and Roberts Bank
+Account Number: 2271537187
+Consent Status: Revoked

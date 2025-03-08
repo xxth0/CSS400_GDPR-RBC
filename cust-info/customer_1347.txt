@@ -1,0 +1,6 @@
+Customer ID: 1347
+Name: Amber Lopez
+National ID: 361-34-1187
+Bank: Henry Inc Bank
+Account Number: 4198933702
+Consent Status: Granted

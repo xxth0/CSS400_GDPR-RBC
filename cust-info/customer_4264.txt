@@ -1,0 +1,6 @@
+Customer ID: 4264
+Name: Tiffany Valdez
+National ID: 610-39-9554
+Bank: Freeman-Lang Bank
+Account Number: 8463619635
+Consent Status: Revoked

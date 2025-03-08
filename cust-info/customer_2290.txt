@@ -1,0 +1,6 @@
+Customer ID: 2290
+Name: Lisa Mitchell
+National ID: 631-53-8866
+Bank: Garcia Inc Bank
+Account Number: 5435146618
+Consent Status: Granted

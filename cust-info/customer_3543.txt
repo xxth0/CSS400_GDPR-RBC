@@ -1,0 +1,6 @@
+Customer ID: 3543
+Name: Eric Hall
+National ID: 480-67-2203
+Bank: Davis-Pierce Bank
+Account Number: 6024170413
+Consent Status: Revoked

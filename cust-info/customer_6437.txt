@@ -1,0 +1,6 @@
+Customer ID: 6437
+Name: Christopher Weaver
+National ID: 288-58-8463
+Bank: Diaz, Garrett and Sanchez Bank
+Account Number: 6429944092
+Consent Status: Revoked

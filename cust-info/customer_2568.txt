@@ -1,0 +1,6 @@
+Customer ID: 2568
+Name: Mr. Justin Baker
+National ID: 398-11-4199
+Bank: Rangel, Francis and Gibson Bank
+Account Number: 3715642640
+Consent Status: Revoked

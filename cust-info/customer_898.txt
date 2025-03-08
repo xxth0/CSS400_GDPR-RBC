@@ -1,0 +1,6 @@
+Customer ID: 898
+Name: Chelsea Olsen
+National ID: 796-81-2080
+Bank: Kim-Taylor Bank
+Account Number: 5073429623
+Consent Status: Revoked

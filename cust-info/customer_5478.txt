@@ -1,0 +1,6 @@
+Customer ID: 5478
+Name: Julie Jackson
+National ID: 569-77-1177
+Bank: Park, Lewis and Wyatt Bank
+Account Number: 3679887575
+Consent Status: Granted

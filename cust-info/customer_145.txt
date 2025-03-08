@@ -1,0 +1,6 @@
+Customer ID: 145
+Name: Dylan Allen
+National ID: 157-82-0313
+Bank: Fisher-Johnson Bank
+Account Number: 3859593753
+Consent Status: Revoked

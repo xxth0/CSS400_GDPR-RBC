@@ -1,0 +1,6 @@
+Customer ID: 8044
+Name: Sarah Austin
+National ID: 757-45-1493
+Bank: Jensen-Fletcher Bank
+Account Number: 3009349534
+Consent Status: Granted

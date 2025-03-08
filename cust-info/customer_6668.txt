@@ -1,0 +1,6 @@
+Customer ID: 6668
+Name: Erin Russell
+National ID: 495-43-0889
+Bank: Smith and Sons Bank
+Account Number: 7155445312
+Consent Status: Revoked

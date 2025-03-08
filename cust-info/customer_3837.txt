@@ -1,0 +1,6 @@
+Customer ID: 3837
+Name: Steven Stone
+National ID: 332-94-2430
+Bank: Brewer-Fleming Bank
+Account Number: 4111028948
+Consent Status: Granted

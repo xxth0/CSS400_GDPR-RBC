@@ -1,0 +1,6 @@
+Customer ID: 794
+Name: Johnny Montes
+National ID: 890-44-3380
+Bank: Vega Inc Bank
+Account Number: 2918024084
+Consent Status: Revoked

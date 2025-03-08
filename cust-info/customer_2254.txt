@@ -1,0 +1,6 @@
+Customer ID: 2254
+Name: Karen Mason
+National ID: 858-58-8660
+Bank: Powell, Smith and Hebert Bank
+Account Number: 7462283411
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7354
+Name: Daniel Dennis
+National ID: 680-57-9009
+Bank: Spencer, Hunter and Ramos Bank
+Account Number: 7640177186
+Consent Status: Granted

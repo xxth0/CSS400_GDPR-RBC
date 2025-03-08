@@ -1,0 +1,6 @@
+Customer ID: 9330
+Name: Anna Martin
+National ID: 833-96-0370
+Bank: Watts-Brock Bank
+Account Number: 2431173412
+Consent Status: Revoked

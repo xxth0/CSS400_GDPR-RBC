@@ -1,0 +1,6 @@
+Customer ID: 7767
+Name: Elizabeth Burke
+National ID: 137-86-4648
+Bank: Hartman-Jones Bank
+Account Number: 9769326608
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4025
+Name: Robert Torres
+National ID: 799-84-5095
+Bank: Johnson-Davis Bank
+Account Number: 3494523165
+Consent Status: Revoked

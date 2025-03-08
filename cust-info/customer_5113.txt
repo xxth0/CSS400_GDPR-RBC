@@ -1,0 +1,6 @@
+Customer ID: 5113
+Name: Chloe Bryant
+National ID: 029-94-4900
+Bank: Brown, Gill and Lawrence Bank
+Account Number: 5088066019
+Consent Status: Granted

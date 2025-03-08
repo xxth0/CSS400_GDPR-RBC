@@ -1,0 +1,6 @@
+Customer ID: 9965
+Name: Melissa Miller
+National ID: 079-78-3927
+Bank: Hughes, Ramirez and Deleon Bank
+Account Number: 1396367030
+Consent Status: Granted

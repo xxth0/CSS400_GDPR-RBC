@@ -1,0 +1,6 @@
+Customer ID: 7042
+Name: Linda Ramsey
+National ID: 836-74-3926
+Bank: Webb, Arnold and Gregory Bank
+Account Number: 5073332276
+Consent Status: Revoked

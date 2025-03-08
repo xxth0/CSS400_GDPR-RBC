@@ -1,0 +1,6 @@
+Customer ID: 2972
+Name: Sarah Brown
+National ID: 721-69-3634
+Bank: Jenkins, Bennett and Barnett Bank
+Account Number: 2614557540
+Consent Status: Revoked

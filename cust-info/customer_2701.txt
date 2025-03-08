@@ -1,0 +1,6 @@
+Customer ID: 2701
+Name: Carla Galloway
+National ID: 273-42-1393
+Bank: Ward-Anderson Bank
+Account Number: 1945973198
+Consent Status: Revoked

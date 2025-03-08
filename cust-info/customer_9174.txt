@@ -1,0 +1,6 @@
+Customer ID: 9174
+Name: John Thompson
+National ID: 522-26-8876
+Bank: Roberts PLC Bank
+Account Number: 1910937621
+Consent Status: Granted

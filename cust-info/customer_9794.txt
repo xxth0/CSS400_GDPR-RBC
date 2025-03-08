@@ -1,0 +1,6 @@
+Customer ID: 9794
+Name: Brenda Martinez PhD
+National ID: 360-57-5277
+Bank: Fernandez, Walker and Beltran Bank
+Account Number: 4232413021
+Consent Status: Revoked

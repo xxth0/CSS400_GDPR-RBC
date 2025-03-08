@@ -1,0 +1,6 @@
+Customer ID: 1360
+Name: Joan Zhang
+National ID: 093-04-1816
+Bank: Stevens-Pearson Bank
+Account Number: 8843892733
+Consent Status: Revoked

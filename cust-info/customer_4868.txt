@@ -1,0 +1,6 @@
+Customer ID: 4868
+Name: Melissa Smith
+National ID: 798-39-7201
+Bank: Mata-Flores Bank
+Account Number: 8147288298
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1917
+Name: Nina Flores
+National ID: 817-62-4717
+Bank: Kennedy LLC Bank
+Account Number: 9405928548
+Consent Status: Revoked

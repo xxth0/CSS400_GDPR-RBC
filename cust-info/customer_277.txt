@@ -1,0 +1,6 @@
+Customer ID: 277
+Name: Shawn Krause
+National ID: 018-35-6094
+Bank: Lozano LLC Bank
+Account Number: 6695201043
+Consent Status: Revoked

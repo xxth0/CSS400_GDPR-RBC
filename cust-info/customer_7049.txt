@@ -1,0 +1,6 @@
+Customer ID: 7049
+Name: Samuel Munoz
+National ID: 298-76-0666
+Bank: Roberson-Johnson Bank
+Account Number: 3112480652
+Consent Status: Revoked

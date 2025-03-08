@@ -1,0 +1,6 @@
+Customer ID: 3541
+Name: Kyle Li
+National ID: 445-98-9377
+Bank: Yang, Anderson and Rojas Bank
+Account Number: 4421993122
+Consent Status: Revoked

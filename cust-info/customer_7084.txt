@@ -1,0 +1,6 @@
+Customer ID: 7084
+Name: Jamie Hawkins
+National ID: 765-55-2905
+Bank: Dillon, Coleman and Rice Bank
+Account Number: 4856399520
+Consent Status: Granted

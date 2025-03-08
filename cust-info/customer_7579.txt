@@ -1,0 +1,6 @@
+Customer ID: 7579
+Name: Gary Hill
+National ID: 415-58-7004
+Bank: Walker, Trujillo and Ramsey Bank
+Account Number: 2813864375
+Consent Status: Granted

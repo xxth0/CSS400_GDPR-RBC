@@ -1,0 +1,6 @@
+Customer ID: 9686
+Name: Molly Velez
+National ID: 005-62-2376
+Bank: Rivera PLC Bank
+Account Number: 9283138976
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9645
+Name: Sheila Barrett
+National ID: 441-59-3383
+Bank: Reynolds-Parker Bank
+Account Number: 4454397865
+Consent Status: Granted

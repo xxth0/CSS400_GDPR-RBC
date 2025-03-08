@@ -1,0 +1,6 @@
+Customer ID: 9764
+Name: Chad Hancock
+National ID: 833-15-5780
+Bank: Hill, White and Gilmore Bank
+Account Number: 8673782987
+Consent Status: Revoked

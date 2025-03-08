@@ -1,0 +1,6 @@
+Customer ID: 4940
+Name: Robert Sheppard
+National ID: 032-12-6747
+Bank: Hernandez Ltd Bank
+Account Number: 7972968045
+Consent Status: Revoked

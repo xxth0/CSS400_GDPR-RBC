@@ -1,0 +1,6 @@
+Customer ID: 1528
+Name: Hunter Warner
+National ID: 703-14-6041
+Bank: Wood, Clark and Robinson Bank
+Account Number: 1937951245
+Consent Status: Granted

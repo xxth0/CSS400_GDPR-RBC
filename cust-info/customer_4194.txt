@@ -1,0 +1,6 @@
+Customer ID: 4194
+Name: Amanda Torres
+National ID: 718-95-1653
+Bank: Barrett-Day Bank
+Account Number: 9008389748
+Consent Status: Revoked

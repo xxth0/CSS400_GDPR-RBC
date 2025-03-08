@@ -1,0 +1,6 @@
+Customer ID: 8610
+Name: Carol Myers
+National ID: 119-50-8980
+Bank: Sweeney PLC Bank
+Account Number: 9323825863
+Consent Status: Revoked

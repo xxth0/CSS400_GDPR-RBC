@@ -1,0 +1,6 @@
+Customer ID: 7358
+Name: Caroline Nelson
+National ID: 350-45-9123
+Bank: Martin-Reynolds Bank
+Account Number: 5041035862
+Consent Status: Granted

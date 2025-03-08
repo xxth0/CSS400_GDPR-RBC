@@ -1,0 +1,6 @@
+Customer ID: 2047
+Name: Dominique Avila
+National ID: 098-36-1224
+Bank: Dixon, Howard and Woods Bank
+Account Number: 8128707883
+Consent Status: Revoked

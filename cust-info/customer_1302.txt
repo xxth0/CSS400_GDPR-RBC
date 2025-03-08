@@ -1,0 +1,6 @@
+Customer ID: 1302
+Name: Michael Lopez
+National ID: 410-72-5598
+Bank: Hill and Sons Bank
+Account Number: 7508024706
+Consent Status: Granted

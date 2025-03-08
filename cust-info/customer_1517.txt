@@ -1,0 +1,6 @@
+Customer ID: 1517
+Name: Stephanie Jones
+National ID: 862-09-3648
+Bank: Carrillo, Mccann and Kelly Bank
+Account Number: 8341070389
+Consent Status: Granted

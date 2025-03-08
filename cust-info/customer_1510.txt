@@ -1,0 +1,6 @@
+Customer ID: 1510
+Name: Jose Andrews
+National ID: 069-08-8708
+Bank: Stout-Martinez Bank
+Account Number: 8184901352
+Consent Status: Granted

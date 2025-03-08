@@ -1,0 +1,6 @@
+Customer ID: 3654
+Name: Marie Collins
+National ID: 424-71-7235
+Bank: Jones PLC Bank
+Account Number: 4574773123
+Consent Status: Granted

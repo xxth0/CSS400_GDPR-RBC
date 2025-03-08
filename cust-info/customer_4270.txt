@@ -1,0 +1,6 @@
+Customer ID: 4270
+Name: John Duncan
+National ID: 844-83-5909
+Bank: Johnson and Sons Bank
+Account Number: 1000738559
+Consent Status: Revoked

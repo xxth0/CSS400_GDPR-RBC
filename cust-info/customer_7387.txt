@@ -1,0 +1,6 @@
+Customer ID: 7387
+Name: James Carlson
+National ID: 033-33-6806
+Bank: Ferguson, Ruiz and Vasquez Bank
+Account Number: 5207622820
+Consent Status: Revoked

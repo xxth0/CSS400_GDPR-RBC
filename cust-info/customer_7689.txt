@@ -1,0 +1,6 @@
+Customer ID: 7689
+Name: Brooke Smith
+National ID: 232-07-9380
+Bank: Price-Graves Bank
+Account Number: 7441649553
+Consent Status: Granted

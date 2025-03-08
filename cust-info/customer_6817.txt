@@ -1,0 +1,6 @@
+Customer ID: 6817
+Name: Jose Phillips
+National ID: 774-31-0813
+Bank: Herrera LLC Bank
+Account Number: 1385456486
+Consent Status: Granted

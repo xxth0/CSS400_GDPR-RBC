@@ -1,0 +1,6 @@
+Customer ID: 967
+Name: Dylan Baker
+National ID: 727-22-7712
+Bank: Thompson-Nelson Bank
+Account Number: 9371928631
+Consent Status: Revoked

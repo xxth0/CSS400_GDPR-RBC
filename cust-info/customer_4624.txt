@@ -1,0 +1,6 @@
+Customer ID: 4624
+Name: Andrew Newton
+National ID: 110-22-2483
+Bank: Sims Ltd Bank
+Account Number: 8842826311
+Consent Status: Revoked

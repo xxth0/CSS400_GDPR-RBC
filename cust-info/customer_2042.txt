@@ -1,0 +1,6 @@
+Customer ID: 2042
+Name: Joel Malone
+National ID: 750-95-6766
+Bank: Cuevas, Johnson and Henderson Bank
+Account Number: 3612246484
+Consent Status: Granted

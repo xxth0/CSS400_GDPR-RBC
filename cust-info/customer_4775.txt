@@ -1,0 +1,6 @@
+Customer ID: 4775
+Name: Brett Stevens
+National ID: 335-10-9831
+Bank: Estes-Mcgee Bank
+Account Number: 7436675552
+Consent Status: Granted

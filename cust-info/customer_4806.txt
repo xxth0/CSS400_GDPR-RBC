@@ -1,0 +1,6 @@
+Customer ID: 4806
+Name: Laura Young
+National ID: 042-25-2299
+Bank: Campbell-Chase Bank
+Account Number: 9204205386
+Consent Status: Revoked

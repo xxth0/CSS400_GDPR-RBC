@@ -1,0 +1,6 @@
+Customer ID: 1384
+Name: Kimberly Snyder
+National ID: 841-83-1025
+Bank: Andrade-Allen Bank
+Account Number: 7893433222
+Consent Status: Granted

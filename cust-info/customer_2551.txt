@@ -1,0 +1,6 @@
+Customer ID: 2551
+Name: Curtis Silva
+National ID: 287-11-6166
+Bank: Hart, Bradshaw and Thompson Bank
+Account Number: 4335939122
+Consent Status: Revoked

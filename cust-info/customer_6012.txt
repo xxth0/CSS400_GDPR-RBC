@@ -1,0 +1,6 @@
+Customer ID: 6012
+Name: Shane Soto
+National ID: 316-13-0681
+Bank: Lynch LLC Bank
+Account Number: 3459315539
+Consent Status: Revoked

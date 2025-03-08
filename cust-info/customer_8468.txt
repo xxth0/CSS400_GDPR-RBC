@@ -1,0 +1,6 @@
+Customer ID: 8468
+Name: Luis Dickerson
+National ID: 739-43-9036
+Bank: Clark, Saunders and Mccoy Bank
+Account Number: 1427014847
+Consent Status: Granted

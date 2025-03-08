@@ -1,0 +1,6 @@
+Customer ID: 6374
+Name: Melody Anderson
+National ID: 808-94-7712
+Bank: Mcneil-Ramos Bank
+Account Number: 4265308281
+Consent Status: Granted

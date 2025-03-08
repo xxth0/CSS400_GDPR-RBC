@@ -1,0 +1,6 @@
+Customer ID: 78
+Name: Linda Contreras
+National ID: 122-96-2838
+Bank: Jones, Snyder and Adams Bank
+Account Number: 9157278633
+Consent Status: Granted

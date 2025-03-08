@@ -1,0 +1,6 @@
+Customer ID: 514
+Name: Nicole Powers
+National ID: 227-88-7107
+Bank: Williams Group Bank
+Account Number: 7353894419
+Consent Status: Revoked

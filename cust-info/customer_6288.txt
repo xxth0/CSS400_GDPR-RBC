@@ -1,0 +1,6 @@
+Customer ID: 6288
+Name: Cynthia Mason
+National ID: 069-44-6401
+Bank: Alexander, Rivera and Perkins Bank
+Account Number: 4553956716
+Consent Status: Granted

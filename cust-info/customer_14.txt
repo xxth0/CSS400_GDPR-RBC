@@ -1,0 +1,6 @@
+Customer ID: 14
+Name: Cynthia Johnson
+National ID: 268-90-4970
+Bank: Newman-Mcdonald Bank
+Account Number: 3034609016
+Consent Status: Revoked

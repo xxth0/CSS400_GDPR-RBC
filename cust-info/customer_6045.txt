@@ -1,0 +1,6 @@
+Customer ID: 6045
+Name: Jessica Smith
+National ID: 331-62-8624
+Bank: Park, Farley and Richards Bank
+Account Number: 6320327073
+Consent Status: Granted

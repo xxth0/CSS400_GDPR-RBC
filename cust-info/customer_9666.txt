@@ -1,0 +1,6 @@
+Customer ID: 9666
+Name: Jacqueline Williams
+National ID: 010-50-9853
+Bank: Alvarez Group Bank
+Account Number: 4919893731
+Consent Status: Revoked

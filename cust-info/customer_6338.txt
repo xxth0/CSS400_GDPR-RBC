@@ -1,0 +1,6 @@
+Customer ID: 6338
+Name: William Espinoza
+National ID: 052-74-3688
+Bank: Jones, Schultz and Garcia Bank
+Account Number: 7265344666
+Consent Status: Revoked

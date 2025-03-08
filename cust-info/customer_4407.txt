@@ -1,0 +1,6 @@
+Customer ID: 4407
+Name: Gregory Anderson
+National ID: 423-20-3020
+Bank: Suarez LLC Bank
+Account Number: 6050548598
+Consent Status: Granted

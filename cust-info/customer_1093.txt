@@ -1,0 +1,6 @@
+Customer ID: 1093
+Name: Natasha Myers
+National ID: 245-47-8831
+Bank: Smith LLC Bank
+Account Number: 1061407515
+Consent Status: Granted

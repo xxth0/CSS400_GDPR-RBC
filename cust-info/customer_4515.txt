@@ -1,0 +1,6 @@
+Customer ID: 4515
+Name: John George
+National ID: 021-30-1234
+Bank: Adams-Ross Bank
+Account Number: 2333288282
+Consent Status: Granted

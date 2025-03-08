@@ -1,0 +1,6 @@
+Customer ID: 803
+Name: Samuel Leonard
+National ID: 696-68-7275
+Bank: Lynch Ltd Bank
+Account Number: 3133103958
+Consent Status: Revoked

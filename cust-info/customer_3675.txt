@@ -1,0 +1,6 @@
+Customer ID: 3675
+Name: Randy Lambert
+National ID: 898-69-2036
+Bank: Newman, Hart and Harris Bank
+Account Number: 8035488931
+Consent Status: Revoked

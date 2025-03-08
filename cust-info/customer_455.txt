@@ -1,0 +1,6 @@
+Customer ID: 455
+Name: Lisa Mejia
+National ID: 088-34-5451
+Bank: Jackson LLC Bank
+Account Number: 3279666533
+Consent Status: Revoked

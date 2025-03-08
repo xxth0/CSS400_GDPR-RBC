@@ -1,0 +1,6 @@
+Customer ID: 1951
+Name: Jeffery Mccormick
+National ID: 567-25-3815
+Bank: Jensen, Santana and Ramos Bank
+Account Number: 9076774415
+Consent Status: Revoked

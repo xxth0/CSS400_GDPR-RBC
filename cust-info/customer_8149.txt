@@ -1,0 +1,6 @@
+Customer ID: 8149
+Name: Barbara Taylor
+National ID: 438-84-0182
+Bank: Cox-Black Bank
+Account Number: 5289846327
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7200
+Name: Robert Hall
+National ID: 175-35-4014
+Bank: Smith, Fernandez and Robinson Bank
+Account Number: 4164558250
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8269
+Name: Todd Martin
+National ID: 649-24-4376
+Bank: Cooper and Sons Bank
+Account Number: 3571539196
+Consent Status: Revoked

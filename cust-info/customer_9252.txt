@@ -1,0 +1,6 @@
+Customer ID: 9252
+Name: David Ramirez
+National ID: 229-20-9744
+Bank: Mathews PLC Bank
+Account Number: 7125463946
+Consent Status: Granted

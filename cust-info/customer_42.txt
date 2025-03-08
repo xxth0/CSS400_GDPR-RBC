@@ -1,0 +1,6 @@
+Customer ID: 42
+Name: Meagan Wright
+National ID: 559-44-5957
+Bank: Lopez-Caldwell Bank
+Account Number: 1222317486
+Consent Status: Granted

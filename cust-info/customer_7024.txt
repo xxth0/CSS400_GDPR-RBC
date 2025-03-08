@@ -1,0 +1,6 @@
+Customer ID: 7024
+Name: Cory Smith
+National ID: 293-56-4650
+Bank: Walters LLC Bank
+Account Number: 7531027983
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4873
+Name: Rachel Clark
+National ID: 118-15-3208
+Bank: Cortez Inc Bank
+Account Number: 8482731105
+Consent Status: Revoked

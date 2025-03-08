@@ -1,0 +1,6 @@
+Customer ID: 9886
+Name: Ryan Lee
+National ID: 646-20-8568
+Bank: Frank LLC Bank
+Account Number: 2870862839
+Consent Status: Revoked

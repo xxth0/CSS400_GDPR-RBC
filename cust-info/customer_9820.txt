@@ -1,0 +1,6 @@
+Customer ID: 9820
+Name: Andrew Jarvis
+National ID: 116-79-8614
+Bank: Wright-Chang Bank
+Account Number: 1654755661
+Consent Status: Granted

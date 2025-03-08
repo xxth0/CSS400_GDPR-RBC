@@ -1,0 +1,6 @@
+Customer ID: 5613
+Name: Christopher Watson
+National ID: 856-01-8822
+Bank: Burgess-Carter Bank
+Account Number: 6570557528
+Consent Status: Granted

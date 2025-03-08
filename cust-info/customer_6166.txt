@@ -1,0 +1,6 @@
+Customer ID: 6166
+Name: Kathleen Armstrong
+National ID: 672-46-8876
+Bank: Hayes, Carter and Estrada Bank
+Account Number: 1218226791
+Consent Status: Revoked

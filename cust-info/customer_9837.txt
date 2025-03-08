@@ -1,0 +1,6 @@
+Customer ID: 9837
+Name: Donald Martinez
+National ID: 815-77-2482
+Bank: Oconnor and Sons Bank
+Account Number: 1765986795
+Consent Status: Granted

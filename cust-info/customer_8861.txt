@@ -1,0 +1,6 @@
+Customer ID: 8861
+Name: Jean Crawford
+National ID: 333-24-3483
+Bank: Malone, Hernandez and Davis Bank
+Account Number: 1693395373
+Consent Status: Revoked

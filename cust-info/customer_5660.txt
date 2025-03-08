@@ -1,0 +1,6 @@
+Customer ID: 5660
+Name: Carrie Davis
+National ID: 347-14-6134
+Bank: Johns, Wheeler and Fernandez Bank
+Account Number: 3907781859
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7249
+Name: Scott Solis
+National ID: 894-77-9310
+Bank: Gregory and Sons Bank
+Account Number: 2364386758
+Consent Status: Granted

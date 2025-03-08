@@ -1,0 +1,6 @@
+Customer ID: 1676
+Name: Manuel Curry
+National ID: 043-05-4373
+Bank: Allen-Massey Bank
+Account Number: 4670043248
+Consent Status: Granted

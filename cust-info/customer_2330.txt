@@ -1,0 +1,6 @@
+Customer ID: 2330
+Name: Terri Miller
+National ID: 514-86-2269
+Bank: Burton-Lamb Bank
+Account Number: 9009187823
+Consent Status: Granted

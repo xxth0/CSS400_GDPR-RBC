@@ -1,0 +1,6 @@
+Customer ID: 4761
+Name: Courtney Peterson
+National ID: 072-59-5317
+Bank: Bradley-Moss Bank
+Account Number: 3006364517
+Consent Status: Granted

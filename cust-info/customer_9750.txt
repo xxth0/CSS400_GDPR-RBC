@@ -1,0 +1,6 @@
+Customer ID: 9750
+Name: Michael Rogers
+National ID: 627-15-5118
+Bank: Chavez Ltd Bank
+Account Number: 2580558142
+Consent Status: Revoked

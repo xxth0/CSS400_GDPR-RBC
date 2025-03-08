@@ -1,0 +1,6 @@
+Customer ID: 131
+Name: Courtney Fischer
+National ID: 418-06-5072
+Bank: Vaughn-Rasmussen Bank
+Account Number: 9942685539
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7326
+Name: Edward Lee
+National ID: 171-88-3081
+Bank: Stone-Hoffman Bank
+Account Number: 7238109368
+Consent Status: Revoked

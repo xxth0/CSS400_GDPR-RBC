@@ -1,0 +1,6 @@
+Customer ID: 1594
+Name: Cynthia Parker
+National ID: 851-99-4667
+Bank: Bender PLC Bank
+Account Number: 4726559208
+Consent Status: Granted

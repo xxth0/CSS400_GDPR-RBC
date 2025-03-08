@@ -1,0 +1,6 @@
+Customer ID: 2272
+Name: Jessica Rodriguez
+National ID: 016-09-3663
+Bank: Guerrero-Hensley Bank
+Account Number: 9955190473
+Consent Status: Granted

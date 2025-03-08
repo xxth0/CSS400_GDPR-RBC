@@ -1,0 +1,6 @@
+Customer ID: 4244
+Name: Christopher Andrews
+National ID: 848-66-5577
+Bank: Miller-Lowery Bank
+Account Number: 5382109726
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5120
+Name: Jennifer Vasquez
+National ID: 386-24-1885
+Bank: Garcia, Hernandez and Schultz Bank
+Account Number: 6962115077
+Consent Status: Granted

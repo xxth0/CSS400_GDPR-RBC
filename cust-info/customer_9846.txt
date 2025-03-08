@@ -1,0 +1,6 @@
+Customer ID: 9846
+Name: Travis Hernandez
+National ID: 861-19-2577
+Bank: Martinez PLC Bank
+Account Number: 6381761083
+Consent Status: Revoked

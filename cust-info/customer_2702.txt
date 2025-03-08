@@ -1,0 +1,6 @@
+Customer ID: 2702
+Name: Michelle Ramirez
+National ID: 432-65-2233
+Bank: Brown-Rice Bank
+Account Number: 8241845799
+Consent Status: Granted

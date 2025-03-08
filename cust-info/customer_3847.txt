@@ -1,0 +1,6 @@
+Customer ID: 3847
+Name: Beth Ingram
+National ID: 795-59-2713
+Bank: Ellis-Johnson Bank
+Account Number: 2659540510
+Consent Status: Revoked

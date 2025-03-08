@@ -1,0 +1,6 @@
+Customer ID: 6171
+Name: Kristen Rosario
+National ID: 312-45-9694
+Bank: Garcia-Bartlett Bank
+Account Number: 3486061890
+Consent Status: Granted

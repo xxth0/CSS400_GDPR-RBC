@@ -1,0 +1,6 @@
+Customer ID: 5346
+Name: Lauren Jackson
+National ID: 457-40-6528
+Bank: Le-Stark Bank
+Account Number: 1309230246
+Consent Status: Revoked

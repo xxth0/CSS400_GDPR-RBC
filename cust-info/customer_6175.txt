@@ -1,0 +1,6 @@
+Customer ID: 6175
+Name: Michael Ali
+National ID: 524-24-4229
+Bank: Barnes, Edwards and Phillips Bank
+Account Number: 3481149170
+Consent Status: Granted

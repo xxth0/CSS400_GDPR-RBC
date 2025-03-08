@@ -1,0 +1,6 @@
+Customer ID: 4093
+Name: Courtney Jordan
+National ID: 119-46-8227
+Bank: Wang-Mccall Bank
+Account Number: 1557213874
+Consent Status: Revoked

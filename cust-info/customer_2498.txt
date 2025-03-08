@@ -1,0 +1,6 @@
+Customer ID: 2498
+Name: Angela Love
+National ID: 149-94-6263
+Bank: Silva LLC Bank
+Account Number: 7226814479
+Consent Status: Revoked

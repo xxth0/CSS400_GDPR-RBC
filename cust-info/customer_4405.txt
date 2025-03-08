@@ -1,0 +1,6 @@
+Customer ID: 4405
+Name: Tina Jordan
+National ID: 618-02-0414
+Bank: Ortiz and Sons Bank
+Account Number: 2562458350
+Consent Status: Revoked

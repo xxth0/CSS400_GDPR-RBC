@@ -1,0 +1,6 @@
+Customer ID: 5064
+Name: Andres Jordan
+National ID: 075-45-0397
+Bank: Harding, Hartman and Johnson Bank
+Account Number: 9426049509
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9123
+Name: James Hernandez
+National ID: 750-51-1149
+Bank: Moore-Smith Bank
+Account Number: 7888455677
+Consent Status: Granted

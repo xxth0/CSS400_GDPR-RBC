@@ -1,0 +1,6 @@
+Customer ID: 4002
+Name: Bethany Hoffman
+National ID: 389-64-0245
+Bank: Gonzalez, Hernandez and Hawkins Bank
+Account Number: 2485999834
+Consent Status: Granted

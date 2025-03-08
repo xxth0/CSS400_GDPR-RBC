@@ -1,0 +1,6 @@
+Customer ID: 2969
+Name: Kelly Miller
+National ID: 196-34-5551
+Bank: Jackson, Vang and Stark Bank
+Account Number: 1191257626
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5858
+Name: Kristin Duran
+National ID: 132-55-2534
+Bank: Kennedy, Arias and Robinson Bank
+Account Number: 2149632070
+Consent Status: Granted

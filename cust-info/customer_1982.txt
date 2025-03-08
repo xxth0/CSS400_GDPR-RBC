@@ -1,0 +1,6 @@
+Customer ID: 1982
+Name: Ryan Thompson
+National ID: 172-64-9064
+Bank: White, Allen and Blake Bank
+Account Number: 7370886825
+Consent Status: Granted

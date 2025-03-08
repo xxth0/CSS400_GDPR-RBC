@@ -1,0 +1,6 @@
+Customer ID: 4810
+Name: John Sanchez
+National ID: 558-22-7250
+Bank: Black Ltd Bank
+Account Number: 7226068874
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8944
+Name: Jose Rodriguez
+National ID: 667-85-7867
+Bank: Black-Jacobson Bank
+Account Number: 6666720604
+Consent Status: Revoked

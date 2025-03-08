@@ -1,0 +1,6 @@
+Customer ID: 1309
+Name: Victoria Jones
+National ID: 116-61-9331
+Bank: Smith-Martin Bank
+Account Number: 7563210174
+Consent Status: Granted

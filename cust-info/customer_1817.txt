@@ -1,0 +1,6 @@
+Customer ID: 1817
+Name: Benjamin Kennedy
+National ID: 555-97-3553
+Bank: Gonzalez, Greene and Lester Bank
+Account Number: 6594507333
+Consent Status: Granted

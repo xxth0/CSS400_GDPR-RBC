@@ -1,0 +1,6 @@
+Customer ID: 8703
+Name: Brandon Wells
+National ID: 187-02-9443
+Bank: Warren, Morris and Brown Bank
+Account Number: 3133515016
+Consent Status: Granted

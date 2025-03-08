@@ -1,0 +1,6 @@
+Customer ID: 4051
+Name: Cody Dennis
+National ID: 616-94-6042
+Bank: Williams-Clark Bank
+Account Number: 1379185628
+Consent Status: Revoked

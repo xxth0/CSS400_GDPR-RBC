@@ -1,0 +1,6 @@
+Customer ID: 6042
+Name: Kathryn Scott
+National ID: 178-34-3028
+Bank: Davis-Deleon Bank
+Account Number: 7909245717
+Consent Status: Revoked

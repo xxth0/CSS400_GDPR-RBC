@@ -1,0 +1,6 @@
+Customer ID: 1789
+Name: Mitchell Herrera
+National ID: 752-91-2606
+Bank: Freeman, Pearson and Leblanc Bank
+Account Number: 6357101990
+Consent Status: Granted

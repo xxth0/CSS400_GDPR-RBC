@@ -1,0 +1,6 @@
+Customer ID: 7112
+Name: Sarah Gould
+National ID: 640-10-6905
+Bank: Wheeler-Moon Bank
+Account Number: 5670478921
+Consent Status: Revoked

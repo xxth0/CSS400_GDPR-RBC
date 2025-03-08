@@ -1,0 +1,6 @@
+Customer ID: 3701
+Name: Eric Carroll
+National ID: 472-77-8774
+Bank: Quinn and Sons Bank
+Account Number: 5445934652
+Consent Status: Granted

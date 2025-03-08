@@ -1,0 +1,6 @@
+Customer ID: 2519
+Name: Sabrina Thompson
+National ID: 811-94-6163
+Bank: Marquez and Sons Bank
+Account Number: 8154323755
+Consent Status: Revoked

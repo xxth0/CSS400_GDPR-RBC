@@ -1,0 +1,6 @@
+Customer ID: 9742
+Name: Peter Ortiz
+National ID: 481-73-3013
+Bank: White, Cooper and Rodriguez Bank
+Account Number: 6775032394
+Consent Status: Revoked

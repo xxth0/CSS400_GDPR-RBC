@@ -1,0 +1,6 @@
+Customer ID: 6864
+Name: Teresa Tran
+National ID: 033-90-2183
+Bank: Long-Thomas Bank
+Account Number: 6669266692
+Consent Status: Revoked

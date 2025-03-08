@@ -1,0 +1,6 @@
+Customer ID: 6218
+Name: Brent Mercer
+National ID: 221-55-5626
+Bank: White-Peck Bank
+Account Number: 6608189440
+Consent Status: Revoked

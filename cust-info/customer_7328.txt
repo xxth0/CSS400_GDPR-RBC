@@ -1,0 +1,6 @@
+Customer ID: 7328
+Name: Tracy Miller
+National ID: 451-31-5653
+Bank: Porter and Sons Bank
+Account Number: 6685745219
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1737
+Name: Benjamin Cannon
+National ID: 762-36-3146
+Bank: Watts PLC Bank
+Account Number: 2732753555
+Consent Status: Revoked

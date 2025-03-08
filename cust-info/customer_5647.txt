@@ -1,0 +1,6 @@
+Customer ID: 5647
+Name: Stephanie Vaughan
+National ID: 149-21-0706
+Bank: Rodriguez-Ryan Bank
+Account Number: 8600787735
+Consent Status: Revoked

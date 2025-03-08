@@ -1,0 +1,6 @@
+Customer ID: 2873
+Name: Gary Rodriguez
+National ID: 770-42-4640
+Bank: Oconnor and Sons Bank
+Account Number: 4872891341
+Consent Status: Granted

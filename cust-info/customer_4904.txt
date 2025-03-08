@@ -1,0 +1,6 @@
+Customer ID: 4904
+Name: Benjamin Butler
+National ID: 640-76-9683
+Bank: Sanchez, Perez and Phillips Bank
+Account Number: 8070267943
+Consent Status: Revoked

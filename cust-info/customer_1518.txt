@@ -1,0 +1,6 @@
+Customer ID: 1518
+Name: Gerald Lutz
+National ID: 074-40-7478
+Bank: Kelley, Grant and Jackson Bank
+Account Number: 9141102228
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2288
+Name: Steven Bruce
+National ID: 842-73-0290
+Bank: Davis-Hill Bank
+Account Number: 7744396377
+Consent Status: Revoked

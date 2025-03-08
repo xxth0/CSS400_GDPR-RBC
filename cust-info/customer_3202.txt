@@ -1,0 +1,6 @@
+Customer ID: 3202
+Name: Katherine Oliver
+National ID: 467-43-0260
+Bank: Carrillo Ltd Bank
+Account Number: 6198321965
+Consent Status: Revoked

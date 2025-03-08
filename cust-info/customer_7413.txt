@@ -1,0 +1,6 @@
+Customer ID: 7413
+Name: Amanda Williams
+National ID: 407-05-1214
+Bank: Richardson-Murray Bank
+Account Number: 7212949458
+Consent Status: Granted

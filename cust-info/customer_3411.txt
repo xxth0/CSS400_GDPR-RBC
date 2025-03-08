@@ -1,0 +1,6 @@
+Customer ID: 3411
+Name: Susan Johnson
+National ID: 330-17-0473
+Bank: Wyatt, Carrillo and Warren Bank
+Account Number: 7874963197
+Consent Status: Granted

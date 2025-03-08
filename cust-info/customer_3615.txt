@@ -1,0 +1,6 @@
+Customer ID: 3615
+Name: Christian Anderson
+National ID: 020-46-4773
+Bank: Shields, Miller and Mckee Bank
+Account Number: 9513124023
+Consent Status: Granted

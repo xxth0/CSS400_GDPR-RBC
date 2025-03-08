@@ -1,0 +1,6 @@
+Customer ID: 5
+Name: Kyle Clark
+National ID: 418-04-8946
+Bank: Snyder, Bennett and Bray Bank
+Account Number: 9458166409
+Consent Status: Granted

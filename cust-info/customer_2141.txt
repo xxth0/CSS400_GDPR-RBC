@@ -1,0 +1,6 @@
+Customer ID: 2141
+Name: Elaine Eaton
+National ID: 390-54-8451
+Bank: Kim-Castillo Bank
+Account Number: 9198080700
+Consent Status: Granted

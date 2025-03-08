@@ -1,0 +1,6 @@
+Customer ID: 275
+Name: Michelle Rodriguez
+National ID: 741-63-0494
+Bank: Williams, Clark and Anderson Bank
+Account Number: 3690565727
+Consent Status: Granted

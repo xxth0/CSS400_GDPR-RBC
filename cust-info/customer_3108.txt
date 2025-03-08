@@ -1,0 +1,6 @@
+Customer ID: 3108
+Name: Laurie Whitney
+National ID: 331-22-8863
+Bank: Armstrong-Diaz Bank
+Account Number: 9493483214
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8797
+Name: Savannah Allen
+National ID: 686-60-9262
+Bank: Garcia-Jackson Bank
+Account Number: 2195891028
+Consent Status: Granted

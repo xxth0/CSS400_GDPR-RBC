@@ -1,0 +1,6 @@
+Customer ID: 2402
+Name: Rhonda Lang
+National ID: 730-44-2127
+Bank: Matthews Ltd Bank
+Account Number: 6186654540
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8908
+Name: Adam Jones
+National ID: 078-10-4920
+Bank: Lara, James and Baker Bank
+Account Number: 5749288280
+Consent Status: Revoked

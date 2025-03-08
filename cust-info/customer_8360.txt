@@ -1,0 +1,6 @@
+Customer ID: 8360
+Name: Christopher Christian
+National ID: 384-60-8826
+Bank: Smith PLC Bank
+Account Number: 3181361612
+Consent Status: Granted

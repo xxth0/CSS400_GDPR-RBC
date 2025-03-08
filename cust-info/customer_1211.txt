@@ -1,0 +1,6 @@
+Customer ID: 1211
+Name: Ronald Miller
+National ID: 536-56-6844
+Bank: Herman, Gonzalez and Luna Bank
+Account Number: 2529427371
+Consent Status: Revoked

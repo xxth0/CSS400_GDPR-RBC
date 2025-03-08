@@ -1,0 +1,6 @@
+Customer ID: 8196
+Name: Seth Barajas
+National ID: 149-36-9809
+Bank: Williams-Moore Bank
+Account Number: 5559880411
+Consent Status: Revoked

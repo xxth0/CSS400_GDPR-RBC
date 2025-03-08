@@ -1,0 +1,6 @@
+Customer ID: 2806
+Name: Jessica Patterson
+National ID: 252-58-3754
+Bank: Nguyen-Olson Bank
+Account Number: 9855238563
+Consent Status: Revoked

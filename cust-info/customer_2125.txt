@@ -1,0 +1,6 @@
+Customer ID: 2125
+Name: Matthew Sims
+National ID: 337-67-0086
+Bank: Perez PLC Bank
+Account Number: 1708408098
+Consent Status: Revoked

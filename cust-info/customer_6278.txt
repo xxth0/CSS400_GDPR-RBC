@@ -1,0 +1,6 @@
+Customer ID: 6278
+Name: David Nguyen
+National ID: 621-51-9447
+Bank: Perez-Griffith Bank
+Account Number: 3871526425
+Consent Status: Revoked

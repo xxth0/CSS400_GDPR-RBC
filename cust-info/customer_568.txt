@@ -1,0 +1,6 @@
+Customer ID: 568
+Name: Kevin Banks
+National ID: 738-59-1065
+Bank: Wilson Ltd Bank
+Account Number: 4529067644
+Consent Status: Granted

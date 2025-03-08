@@ -1,0 +1,6 @@
+Customer ID: 2444
+Name: Ryan Ayers
+National ID: 289-77-2356
+Bank: Johnson LLC Bank
+Account Number: 1376748436
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 496
+Name: Ann Foster
+National ID: 102-17-1794
+Bank: Sharp-Hawkins Bank
+Account Number: 6671253013
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3508
+Name: John Carson
+National ID: 515-42-4878
+Bank: Mcdonald, Miller and Jordan Bank
+Account Number: 9816236863
+Consent Status: Revoked

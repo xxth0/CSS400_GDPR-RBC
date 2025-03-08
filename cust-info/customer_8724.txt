@@ -1,0 +1,6 @@
+Customer ID: 8724
+Name: Heather Miller
+National ID: 177-48-4693
+Bank: Hamilton-Gomez Bank
+Account Number: 3258581353
+Consent Status: Revoked

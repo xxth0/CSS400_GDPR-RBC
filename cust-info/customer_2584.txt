@@ -1,0 +1,6 @@
+Customer ID: 2584
+Name: Mr. James Chang
+National ID: 173-84-5999
+Bank: Wood, Sullivan and Duffy Bank
+Account Number: 5552268427
+Consent Status: Revoked

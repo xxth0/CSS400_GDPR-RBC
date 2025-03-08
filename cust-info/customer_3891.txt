@@ -1,0 +1,6 @@
+Customer ID: 3891
+Name: Mrs. Tiffany Ferguson
+National ID: 077-03-1514
+Bank: Hunter-Perez Bank
+Account Number: 1140943772
+Consent Status: Revoked

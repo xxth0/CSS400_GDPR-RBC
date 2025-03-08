@@ -1,0 +1,6 @@
+Customer ID: 4118
+Name: Charles Wright
+National ID: 409-52-0534
+Bank: Petersen, Chambers and Harris Bank
+Account Number: 9357222610
+Consent Status: Granted

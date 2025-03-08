@@ -1,0 +1,6 @@
+Customer ID: 404
+Name: Devin Li
+National ID: 616-94-4224
+Bank: Gutierrez, Johnson and Wood Bank
+Account Number: 1524875636
+Consent Status: Revoked

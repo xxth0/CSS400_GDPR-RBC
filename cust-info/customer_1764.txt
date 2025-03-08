@@ -1,0 +1,6 @@
+Customer ID: 1764
+Name: Michael Gomez
+National ID: 420-80-4046
+Bank: Mejia LLC Bank
+Account Number: 4016835574
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6300
+Name: Michael Williams
+National ID: 772-79-4526
+Bank: Brooks Inc Bank
+Account Number: 9862874877
+Consent Status: Revoked

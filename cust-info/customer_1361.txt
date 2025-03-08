@@ -1,0 +1,6 @@
+Customer ID: 1361
+Name: Kathy Robinson
+National ID: 597-75-3150
+Bank: Elliott-Garrett Bank
+Account Number: 9290197433
+Consent Status: Revoked

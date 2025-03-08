@@ -1,0 +1,6 @@
+Customer ID: 9035
+Name: Shannon Huffman
+National ID: 869-59-8855
+Bank: Dixon-Ortiz Bank
+Account Number: 5251743814
+Consent Status: Revoked

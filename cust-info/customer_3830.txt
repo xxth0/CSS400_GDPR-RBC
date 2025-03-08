@@ -1,0 +1,6 @@
+Customer ID: 3830
+Name: Steven Mcmahon
+National ID: 175-01-8734
+Bank: Green, Logan and Carter Bank
+Account Number: 1489658373
+Consent Status: Granted

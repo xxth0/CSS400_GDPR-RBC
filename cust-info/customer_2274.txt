@@ -1,0 +1,6 @@
+Customer ID: 2274
+Name: Randall Townsend
+National ID: 853-70-4302
+Bank: Gonzalez, Kim and Montoya Bank
+Account Number: 1201742449
+Consent Status: Revoked

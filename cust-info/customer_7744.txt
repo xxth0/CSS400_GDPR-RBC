@@ -1,0 +1,6 @@
+Customer ID: 7744
+Name: Daniel Bauer
+National ID: 724-49-2006
+Bank: Richardson Ltd Bank
+Account Number: 9461368228
+Consent Status: Granted

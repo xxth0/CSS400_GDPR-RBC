@@ -1,0 +1,6 @@
+Customer ID: 5699
+Name: Angel Robinson
+National ID: 460-37-5398
+Bank: Smith-Simon Bank
+Account Number: 7294423212
+Consent Status: Granted

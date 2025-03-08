@@ -1,0 +1,6 @@
+Customer ID: 190
+Name: James Gallegos
+National ID: 482-48-8362
+Bank: Allison-Nunez Bank
+Account Number: 8219875766
+Consent Status: Granted

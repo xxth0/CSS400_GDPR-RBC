@@ -1,0 +1,6 @@
+Customer ID: 61
+Name: Ryan Miller
+National ID: 840-80-5815
+Bank: Foster Group Bank
+Account Number: 5063936785
+Consent Status: Revoked

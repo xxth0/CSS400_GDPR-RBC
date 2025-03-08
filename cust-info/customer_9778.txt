@@ -1,0 +1,6 @@
+Customer ID: 9778
+Name: Paul Ferguson
+National ID: 652-20-8334
+Bank: Brown-Johnson Bank
+Account Number: 1266178013
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2648
+Name: Juan Odonnell
+National ID: 144-83-6780
+Bank: Parrish, Greene and Fritz Bank
+Account Number: 4261042944
+Consent Status: Granted

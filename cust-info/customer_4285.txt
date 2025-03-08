@@ -1,0 +1,6 @@
+Customer ID: 4285
+Name: Rodney Moore
+National ID: 347-58-1062
+Bank: Wagner-Schultz Bank
+Account Number: 1297286706
+Consent Status: Granted

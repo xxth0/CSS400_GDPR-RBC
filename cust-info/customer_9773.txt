@@ -1,0 +1,6 @@
+Customer ID: 9773
+Name: Dana Shaffer
+National ID: 810-13-9537
+Bank: Knight-Garcia Bank
+Account Number: 4430256329
+Consent Status: Granted

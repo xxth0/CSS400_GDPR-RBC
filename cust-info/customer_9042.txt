@@ -1,0 +1,6 @@
+Customer ID: 9042
+Name: Shannon Taylor
+National ID: 389-78-1940
+Bank: Garcia Group Bank
+Account Number: 9558139830
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5430
+Name: Donald Figueroa
+National ID: 684-53-8495
+Bank: Mann Group Bank
+Account Number: 1158491261
+Consent Status: Granted

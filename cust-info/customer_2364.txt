@@ -1,0 +1,6 @@
+Customer ID: 2364
+Name: Alexis Robinson
+National ID: 231-64-0455
+Bank: Norman-Arias Bank
+Account Number: 3545916255
+Consent Status: Granted

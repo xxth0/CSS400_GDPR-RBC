@@ -1,0 +1,6 @@
+Customer ID: 7454
+Name: Lawrence Frazier
+National ID: 687-08-3901
+Bank: King Ltd Bank
+Account Number: 1539408134
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9236
+Name: Aaron Stewart
+National ID: 403-56-1071
+Bank: Montes LLC Bank
+Account Number: 5635428744
+Consent Status: Granted

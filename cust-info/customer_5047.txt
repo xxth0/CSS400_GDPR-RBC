@@ -1,0 +1,6 @@
+Customer ID: 5047
+Name: Tracey Collins
+National ID: 224-56-3844
+Bank: Welch-Mcdonald Bank
+Account Number: 3418477820
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4296
+Name: John Berg
+National ID: 287-61-8017
+Bank: Miller, Miller and Gregory Bank
+Account Number: 3391788630
+Consent Status: Revoked

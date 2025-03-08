@@ -1,0 +1,6 @@
+Customer ID: 1767
+Name: Melissa Martinez
+National ID: 577-78-6876
+Bank: Anderson, Bentley and Wilcox Bank
+Account Number: 4310738503
+Consent Status: Revoked

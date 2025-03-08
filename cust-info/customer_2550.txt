@@ -1,0 +1,6 @@
+Customer ID: 2550
+Name: Tina Bush
+National ID: 620-27-8134
+Bank: Sanchez, Young and Brock Bank
+Account Number: 2294985607
+Consent Status: Revoked

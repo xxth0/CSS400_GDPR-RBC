@@ -1,0 +1,6 @@
+Customer ID: 9912
+Name: Kayla Travis
+National ID: 654-18-6918
+Bank: Love, Lawrence and Andrews Bank
+Account Number: 1732209305
+Consent Status: Revoked

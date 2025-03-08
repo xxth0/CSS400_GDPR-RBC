@@ -1,0 +1,6 @@
+Customer ID: 3630
+Name: Ronald Allison
+National ID: 270-69-2085
+Bank: Hendrix, Bradley and Roth Bank
+Account Number: 1153578087
+Consent Status: Granted

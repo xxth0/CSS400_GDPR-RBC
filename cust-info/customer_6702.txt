@@ -1,0 +1,6 @@
+Customer ID: 6702
+Name: Tanya Hawkins
+National ID: 808-02-6612
+Bank: Ellis-Jones Bank
+Account Number: 1877157092
+Consent Status: Granted

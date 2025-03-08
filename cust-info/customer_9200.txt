@@ -1,0 +1,6 @@
+Customer ID: 9200
+Name: Robin Jefferson
+National ID: 075-50-0643
+Bank: Gutierrez LLC Bank
+Account Number: 7868226176
+Consent Status: Granted

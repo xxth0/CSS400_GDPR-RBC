@@ -1,0 +1,6 @@
+Customer ID: 1999
+Name: Tammy Saunders
+National ID: 583-95-0504
+Bank: Bush and Sons Bank
+Account Number: 3956001180
+Consent Status: Revoked

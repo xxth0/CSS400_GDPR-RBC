@@ -1,0 +1,6 @@
+Customer ID: 4854
+Name: Frank Simpson
+National ID: 641-96-1334
+Bank: White-Brown Bank
+Account Number: 8464271830
+Consent Status: Revoked

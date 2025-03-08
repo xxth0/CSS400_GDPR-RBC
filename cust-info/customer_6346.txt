@@ -1,0 +1,6 @@
+Customer ID: 6346
+Name: Brandon Hendricks
+National ID: 625-50-7536
+Bank: Sanchez-Santos Bank
+Account Number: 1615514821
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9239
+Name: Blake Hayes
+National ID: 665-65-9349
+Bank: Foster-Wells Bank
+Account Number: 7981610898
+Consent Status: Granted

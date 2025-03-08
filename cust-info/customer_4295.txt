@@ -1,0 +1,6 @@
+Customer ID: 4295
+Name: Kimberly Todd
+National ID: 422-72-9503
+Bank: Jefferson-White Bank
+Account Number: 2407036423
+Consent Status: Granted

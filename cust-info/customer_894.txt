@@ -1,0 +1,6 @@
+Customer ID: 894
+Name: Cheryl Allen
+National ID: 313-20-2955
+Bank: Williams-Robinson Bank
+Account Number: 9599012044
+Consent Status: Revoked

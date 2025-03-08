@@ -1,0 +1,6 @@
+Customer ID: 2029
+Name: Debbie Randall
+National ID: 311-24-1997
+Bank: Mendez Inc Bank
+Account Number: 8660657355
+Consent Status: Revoked

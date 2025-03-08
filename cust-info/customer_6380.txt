@@ -1,0 +1,6 @@
+Customer ID: 6380
+Name: Tiffany Newman
+National ID: 396-43-7532
+Bank: Jones LLC Bank
+Account Number: 2385982509
+Consent Status: Revoked

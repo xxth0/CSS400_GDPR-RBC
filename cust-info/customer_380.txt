@@ -1,0 +1,6 @@
+Customer ID: 380
+Name: Charles Johnson
+National ID: 788-28-6997
+Bank: Long-Russell Bank
+Account Number: 4077485687
+Consent Status: Revoked

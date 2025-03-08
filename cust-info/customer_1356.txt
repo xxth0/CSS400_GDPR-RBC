@@ -1,0 +1,6 @@
+Customer ID: 1356
+Name: Jeff Wallace
+National ID: 132-41-9319
+Bank: Newman, Sanchez and Jordan Bank
+Account Number: 3236843625
+Consent Status: Revoked

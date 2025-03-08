@@ -1,0 +1,6 @@
+Customer ID: 6486
+Name: Eric Jackson
+National ID: 776-40-0665
+Bank: Aguilar, Kaiser and Petty Bank
+Account Number: 8611920635
+Consent Status: Revoked

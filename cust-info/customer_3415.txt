@@ -1,0 +1,6 @@
+Customer ID: 3415
+Name: Julia Ward
+National ID: 775-23-6583
+Bank: Burch and Sons Bank
+Account Number: 1249461909
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2223
+Name: Derrick Freeman
+National ID: 159-47-9368
+Bank: Richmond Group Bank
+Account Number: 8949852998
+Consent Status: Revoked

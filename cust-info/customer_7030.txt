@@ -1,0 +1,6 @@
+Customer ID: 7030
+Name: Ashley Wood
+National ID: 374-90-9904
+Bank: Hamilton Group Bank
+Account Number: 8921941897
+Consent Status: Granted

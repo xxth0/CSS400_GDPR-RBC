@@ -1,0 +1,6 @@
+Customer ID: 6119
+Name: Deborah Williams
+National ID: 378-35-5547
+Bank: Larson PLC Bank
+Account Number: 9509521245
+Consent Status: Granted

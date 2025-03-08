@@ -1,0 +1,6 @@
+Customer ID: 6032
+Name: Sarah Jackson
+National ID: 871-77-2400
+Bank: Jones and Sons Bank
+Account Number: 1193456100
+Consent Status: Granted

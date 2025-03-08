@@ -1,0 +1,6 @@
+Customer ID: 9119
+Name: Justin Roberts
+National ID: 568-21-4447
+Bank: Bowman, Snow and Clark Bank
+Account Number: 7626531509
+Consent Status: Revoked

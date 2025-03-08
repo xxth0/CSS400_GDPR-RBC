@@ -1,0 +1,6 @@
+Customer ID: 3818
+Name: Margaret White
+National ID: 297-43-6555
+Bank: Gardner, Evans and Fitzgerald Bank
+Account Number: 4324474753
+Consent Status: Granted

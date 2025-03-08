@@ -1,0 +1,6 @@
+Customer ID: 9030
+Name: John Pineda
+National ID: 753-95-7319
+Bank: Bass, Miller and Barnes Bank
+Account Number: 5652647987
+Consent Status: Granted

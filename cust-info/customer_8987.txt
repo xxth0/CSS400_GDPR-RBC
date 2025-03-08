@@ -1,0 +1,6 @@
+Customer ID: 8987
+Name: Jason Peters
+National ID: 855-43-9997
+Bank: Barrett Group Bank
+Account Number: 8250326783
+Consent Status: Revoked

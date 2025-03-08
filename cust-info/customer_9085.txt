@@ -1,0 +1,6 @@
+Customer ID: 9085
+Name: Christopher Rodriguez
+National ID: 234-06-8890
+Bank: Jacobs, Kelly and Cole Bank
+Account Number: 9065571033
+Consent Status: Granted

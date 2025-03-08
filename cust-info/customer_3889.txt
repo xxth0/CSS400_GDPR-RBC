@@ -1,0 +1,6 @@
+Customer ID: 3889
+Name: Ms. Kelly White MD
+National ID: 393-84-7933
+Bank: Cowan-Williams Bank
+Account Number: 3005696775
+Consent Status: Revoked

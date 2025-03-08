@@ -1,0 +1,6 @@
+Customer ID: 764
+Name: Reginald Kim
+National ID: 345-42-4859
+Bank: Kim, Walker and Parker Bank
+Account Number: 7665371092
+Consent Status: Granted

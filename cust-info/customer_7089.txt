@@ -1,0 +1,6 @@
+Customer ID: 7089
+Name: Karen Paul
+National ID: 144-79-1608
+Bank: Taylor PLC Bank
+Account Number: 5602079023
+Consent Status: Revoked

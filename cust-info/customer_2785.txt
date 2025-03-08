@@ -1,0 +1,6 @@
+Customer ID: 2785
+Name: Victoria Richmond
+National ID: 622-64-9066
+Bank: Lopez-Fischer Bank
+Account Number: 7909202793
+Consent Status: Revoked

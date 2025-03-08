@@ -1,0 +1,6 @@
+Customer ID: 5335
+Name: Lauren Young
+National ID: 290-55-6848
+Bank: Haas, Parker and Morris Bank
+Account Number: 5502712730
+Consent Status: Revoked

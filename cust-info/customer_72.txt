@@ -1,0 +1,6 @@
+Customer ID: 72
+Name: Valerie Woodward
+National ID: 719-59-4920
+Bank: Avila-Byrd Bank
+Account Number: 4327587227
+Consent Status: Granted

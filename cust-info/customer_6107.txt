@@ -1,0 +1,6 @@
+Customer ID: 6107
+Name: Trevor Fowler
+National ID: 219-43-8260
+Bank: Smith and Sons Bank
+Account Number: 6152783274
+Consent Status: Granted

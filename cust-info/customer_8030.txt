@@ -1,0 +1,6 @@
+Customer ID: 8030
+Name: Troy Gonzalez
+National ID: 066-53-7360
+Bank: Anderson Group Bank
+Account Number: 2829309330
+Consent Status: Revoked

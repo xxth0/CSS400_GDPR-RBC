@@ -1,0 +1,6 @@
+Customer ID: 666
+Name: Donald Davila
+National ID: 782-36-6794
+Bank: Christensen-Rodriguez Bank
+Account Number: 9440532683
+Consent Status: Revoked

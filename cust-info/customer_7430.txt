@@ -1,0 +1,6 @@
+Customer ID: 7430
+Name: Michelle Price
+National ID: 534-86-7209
+Bank: Wilson, Wright and Bender Bank
+Account Number: 6488217238
+Consent Status: Revoked

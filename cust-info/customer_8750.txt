@@ -1,0 +1,6 @@
+Customer ID: 8750
+Name: Steven Kelly
+National ID: 466-38-0302
+Bank: Hinton, Klein and Clark Bank
+Account Number: 2819062827
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5183
+Name: Thomas Miller
+National ID: 667-11-0965
+Bank: Walker-Bell Bank
+Account Number: 7564214341
+Consent Status: Revoked

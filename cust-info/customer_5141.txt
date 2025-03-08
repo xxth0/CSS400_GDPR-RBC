@@ -1,0 +1,6 @@
+Customer ID: 5141
+Name: Donald Acosta
+National ID: 576-22-5907
+Bank: Booth and Sons Bank
+Account Number: 1812247823
+Consent Status: Granted

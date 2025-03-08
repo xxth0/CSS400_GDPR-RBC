@@ -1,0 +1,6 @@
+Customer ID: 2232
+Name: Jillian Bryant
+National ID: 169-25-6043
+Bank: Thompson Inc Bank
+Account Number: 6490285798
+Consent Status: Granted

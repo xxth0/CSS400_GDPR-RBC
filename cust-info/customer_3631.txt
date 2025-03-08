@@ -1,0 +1,6 @@
+Customer ID: 3631
+Name: Gregg Bradley
+National ID: 805-98-7027
+Bank: Ferguson-Park Bank
+Account Number: 6952352850
+Consent Status: Revoked

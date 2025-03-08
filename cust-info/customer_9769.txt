@@ -1,0 +1,6 @@
+Customer ID: 9769
+Name: Michael King
+National ID: 853-27-6517
+Bank: Miller-Phillips Bank
+Account Number: 9061467758
+Consent Status: Revoked

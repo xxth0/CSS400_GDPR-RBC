@@ -1,0 +1,6 @@
+Customer ID: 3764
+Name: Michelle Clark
+National ID: 812-04-9619
+Bank: Booth, Fernandez and Larson Bank
+Account Number: 9688961159
+Consent Status: Granted

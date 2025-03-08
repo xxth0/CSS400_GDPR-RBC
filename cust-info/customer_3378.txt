@@ -1,0 +1,6 @@
+Customer ID: 3378
+Name: Justin Hughes
+National ID: 688-62-9220
+Bank: Wallace, Bass and Robertson Bank
+Account Number: 5732934959
+Consent Status: Granted

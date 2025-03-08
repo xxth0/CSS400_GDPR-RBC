@@ -1,0 +1,6 @@
+Customer ID: 6308
+Name: Taylor Oconnor
+National ID: 028-06-5214
+Bank: Anderson, Terrell and Patterson Bank
+Account Number: 1273807534
+Consent Status: Granted

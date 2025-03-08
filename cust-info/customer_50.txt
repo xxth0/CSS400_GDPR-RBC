@@ -1,0 +1,6 @@
+Customer ID: 50
+Name: Kimberly White
+National ID: 836-88-6873
+Bank: Weber, Lopez and Castillo Bank
+Account Number: 1749850528
+Consent Status: Granted

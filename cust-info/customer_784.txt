@@ -1,0 +1,6 @@
+Customer ID: 784
+Name: Michael Parks
+National ID: 026-13-0189
+Bank: English, Hernandez and Jones Bank
+Account Number: 2068143987
+Consent Status: Granted

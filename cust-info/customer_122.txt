@@ -1,0 +1,6 @@
+Customer ID: 122
+Name: Susan Haynes
+National ID: 675-87-2946
+Bank: Scott-Miller Bank
+Account Number: 4462868153
+Consent Status: Granted

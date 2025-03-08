@@ -1,0 +1,6 @@
+Customer ID: 1460
+Name: Andrea Holloway
+National ID: 894-48-2968
+Bank: Barker Group Bank
+Account Number: 3222588456
+Consent Status: Revoked

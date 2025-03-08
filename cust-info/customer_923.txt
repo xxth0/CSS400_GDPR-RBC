@@ -1,0 +1,6 @@
+Customer ID: 923
+Name: Christina Huff
+National ID: 072-17-1619
+Bank: Jones-Harris Bank
+Account Number: 4680968505
+Consent Status: Granted

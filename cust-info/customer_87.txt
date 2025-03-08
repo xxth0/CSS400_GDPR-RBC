@@ -1,0 +1,6 @@
+Customer ID: 87
+Name: Kristina Atkinson
+National ID: 776-19-8500
+Bank: Harmon, Smith and Huynh Bank
+Account Number: 9436422855
+Consent Status: Granted

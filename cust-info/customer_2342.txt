@@ -1,0 +1,6 @@
+Customer ID: 2342
+Name: Jennifer Berger
+National ID: 385-81-5274
+Bank: Norman, Jordan and Gutierrez Bank
+Account Number: 3051487312
+Consent Status: Granted

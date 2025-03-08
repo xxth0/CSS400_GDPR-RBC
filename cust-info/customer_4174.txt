@@ -1,0 +1,6 @@
+Customer ID: 4174
+Name: Elizabeth Hamilton
+National ID: 499-33-1551
+Bank: Vance, Hinton and Moore Bank
+Account Number: 9256830304
+Consent Status: Revoked

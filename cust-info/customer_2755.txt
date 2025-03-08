@@ -1,0 +1,6 @@
+Customer ID: 2755
+Name: Christina Moody
+National ID: 758-45-6583
+Bank: Mercer-Jones Bank
+Account Number: 2672617541
+Consent Status: Granted

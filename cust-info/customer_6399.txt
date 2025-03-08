@@ -1,0 +1,6 @@
+Customer ID: 6399
+Name: Autumn Roberts
+National ID: 510-71-8065
+Bank: Jackson Group Bank
+Account Number: 5886101080
+Consent Status: Revoked

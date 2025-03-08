@@ -1,0 +1,6 @@
+Customer ID: 4397
+Name: Erik Nash
+National ID: 362-66-1819
+Bank: Mcdonald LLC Bank
+Account Number: 8520839727
+Consent Status: Revoked

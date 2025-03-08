@@ -1,0 +1,6 @@
+Customer ID: 4425
+Name: Teresa Gutierrez
+National ID: 426-41-5541
+Bank: Nelson Group Bank
+Account Number: 1347391617
+Consent Status: Revoked

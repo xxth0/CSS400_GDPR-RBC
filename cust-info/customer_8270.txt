@@ -1,0 +1,6 @@
+Customer ID: 8270
+Name: Hunter Velazquez
+National ID: 352-90-3698
+Bank: Ibarra, Hartman and Mendez Bank
+Account Number: 5717524163
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5179
+Name: Christopher Allen
+National ID: 397-50-5920
+Bank: Ramos-Carroll Bank
+Account Number: 4997231521
+Consent Status: Revoked

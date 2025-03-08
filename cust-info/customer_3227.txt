@@ -1,0 +1,6 @@
+Customer ID: 3227
+Name: Kevin Hodges
+National ID: 100-94-8721
+Bank: Patterson, Gonzales and Gates Bank
+Account Number: 8738964856
+Consent Status: Granted

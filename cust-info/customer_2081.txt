@@ -1,0 +1,6 @@
+Customer ID: 2081
+Name: Todd Smith
+National ID: 662-48-1630
+Bank: Peterson PLC Bank
+Account Number: 7863218478
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9601
+Name: John Ross
+National ID: 292-31-6212
+Bank: Green LLC Bank
+Account Number: 7783454431
+Consent Status: Revoked

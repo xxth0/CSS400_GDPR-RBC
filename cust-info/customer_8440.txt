@@ -1,0 +1,6 @@
+Customer ID: 8440
+Name: Sergio Riley
+National ID: 848-78-7258
+Bank: Sherman Inc Bank
+Account Number: 3549492948
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2818
+Name: John Wilson
+National ID: 813-88-8116
+Bank: Evans-Smith Bank
+Account Number: 2742316132
+Consent Status: Revoked

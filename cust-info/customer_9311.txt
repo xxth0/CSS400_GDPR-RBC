@@ -1,0 +1,6 @@
+Customer ID: 9311
+Name: Christine Peters
+National ID: 456-34-5842
+Bank: Nguyen and Sons Bank
+Account Number: 3996944023
+Consent Status: Revoked

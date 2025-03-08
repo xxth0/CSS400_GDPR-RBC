@@ -1,0 +1,6 @@
+Customer ID: 2082
+Name: Mr. Taylor Hernandez
+National ID: 238-70-7558
+Bank: Kim, Young and Schaefer Bank
+Account Number: 3966182232
+Consent Status: Revoked

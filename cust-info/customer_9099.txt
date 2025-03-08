@@ -1,0 +1,6 @@
+Customer ID: 9099
+Name: Kimberly Ward
+National ID: 629-33-0529
+Bank: Ruiz PLC Bank
+Account Number: 4488654435
+Consent Status: Granted

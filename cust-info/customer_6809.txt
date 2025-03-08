@@ -1,0 +1,6 @@
+Customer ID: 6809
+Name: Mrs. Rebecca Garcia
+National ID: 491-39-0825
+Bank: Myers LLC Bank
+Account Number: 6654008104
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3566
+Name: Jennifer Miller
+National ID: 477-07-2665
+Bank: Price Inc Bank
+Account Number: 3886553370
+Consent Status: Granted

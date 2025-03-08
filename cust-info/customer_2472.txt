@@ -1,0 +1,6 @@
+Customer ID: 2472
+Name: Thomas Wilson
+National ID: 235-88-3562
+Bank: Taylor LLC Bank
+Account Number: 3396595440
+Consent Status: Granted

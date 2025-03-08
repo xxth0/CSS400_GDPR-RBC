@@ -1,0 +1,6 @@
+Customer ID: 7273
+Name: Brian Dominguez
+National ID: 597-97-0908
+Bank: Lynn, Patel and Grant Bank
+Account Number: 5191124699
+Consent Status: Revoked

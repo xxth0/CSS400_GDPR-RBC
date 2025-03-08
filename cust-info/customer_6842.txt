@@ -1,0 +1,6 @@
+Customer ID: 6842
+Name: Sharon Lindsey
+National ID: 214-47-4817
+Bank: Gilbert-Miller Bank
+Account Number: 2467560825
+Consent Status: Granted

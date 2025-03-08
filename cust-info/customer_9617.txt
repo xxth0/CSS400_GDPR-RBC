@@ -1,0 +1,6 @@
+Customer ID: 9617
+Name: Christopher Lynch
+National ID: 077-16-3706
+Bank: Pope PLC Bank
+Account Number: 5092533239
+Consent Status: Granted

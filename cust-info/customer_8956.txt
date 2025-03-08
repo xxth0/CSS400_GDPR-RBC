@@ -1,0 +1,6 @@
+Customer ID: 8956
+Name: Jon Johnson
+National ID: 224-30-8645
+Bank: Martinez, Walker and Rodriguez Bank
+Account Number: 4784245268
+Consent Status: Revoked

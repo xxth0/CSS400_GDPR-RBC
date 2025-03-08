@@ -1,0 +1,6 @@
+Customer ID: 2782
+Name: Traci Wood MD
+National ID: 338-07-4841
+Bank: Cooper and Sons Bank
+Account Number: 5194425121
+Consent Status: Revoked

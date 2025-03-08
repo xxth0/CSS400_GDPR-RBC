@@ -1,0 +1,6 @@
+Customer ID: 622
+Name: Teresa Carrillo
+National ID: 264-87-2315
+Bank: Jones, Haney and Hancock Bank
+Account Number: 8373343326
+Consent Status: Granted

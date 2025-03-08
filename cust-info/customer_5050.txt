@@ -1,0 +1,6 @@
+Customer ID: 5050
+Name: Linda Parker
+National ID: 851-54-4697
+Bank: Shaw Group Bank
+Account Number: 6636327276
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1257
+Name: Timothy Ramirez
+National ID: 017-04-3594
+Bank: Walters-Crawford Bank
+Account Number: 4109411233
+Consent Status: Revoked

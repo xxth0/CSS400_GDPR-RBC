@@ -1,0 +1,6 @@
+Customer ID: 2245
+Name: Victoria Rice
+National ID: 265-50-7528
+Bank: Marks-Smith Bank
+Account Number: 9886231945
+Consent Status: Granted

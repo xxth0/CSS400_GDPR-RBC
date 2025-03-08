@@ -1,0 +1,6 @@
+Customer ID: 4065
+Name: Regina Weber
+National ID: 235-86-3608
+Bank: Nichols-Spencer Bank
+Account Number: 6974672179
+Consent Status: Granted

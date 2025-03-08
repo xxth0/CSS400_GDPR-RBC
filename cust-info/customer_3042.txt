@@ -1,0 +1,6 @@
+Customer ID: 3042
+Name: Scott Ball
+National ID: 751-96-5913
+Bank: Merritt and Sons Bank
+Account Number: 3916249064
+Consent Status: Granted

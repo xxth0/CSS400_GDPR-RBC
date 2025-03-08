@@ -1,0 +1,6 @@
+Customer ID: 1401
+Name: Nancy Armstrong
+National ID: 432-50-5131
+Bank: Morris-Leach Bank
+Account Number: 6425163548
+Consent Status: Granted

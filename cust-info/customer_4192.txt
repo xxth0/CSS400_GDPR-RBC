@@ -1,0 +1,6 @@
+Customer ID: 4192
+Name: Jennifer Vargas
+National ID: 257-73-7940
+Bank: Nicholson and Sons Bank
+Account Number: 3105436937
+Consent Status: Revoked

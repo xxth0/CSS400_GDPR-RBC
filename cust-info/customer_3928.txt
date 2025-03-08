@@ -1,0 +1,6 @@
+Customer ID: 3928
+Name: Derek Atkins
+National ID: 137-67-6578
+Bank: Robertson Inc Bank
+Account Number: 7723695388
+Consent Status: Granted

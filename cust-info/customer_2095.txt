@@ -1,0 +1,6 @@
+Customer ID: 2095
+Name: Stuart Ho
+National ID: 422-46-0988
+Bank: Brooks-Hooper Bank
+Account Number: 9575274468
+Consent Status: Granted

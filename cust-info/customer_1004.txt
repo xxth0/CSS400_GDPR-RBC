@@ -1,0 +1,6 @@
+Customer ID: 1004
+Name: Elizabeth Ruiz
+National ID: 829-07-9574
+Bank: Joseph, Wheeler and Miller Bank
+Account Number: 5538247362
+Consent Status: Granted

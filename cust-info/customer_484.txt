@@ -1,0 +1,6 @@
+Customer ID: 484
+Name: Michelle Cook
+National ID: 386-20-2422
+Bank: Gilbert, Jones and Foster Bank
+Account Number: 3445742338
+Consent Status: Revoked

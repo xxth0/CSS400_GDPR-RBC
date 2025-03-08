@@ -1,0 +1,6 @@
+Customer ID: 2520
+Name: Laura Davis
+National ID: 655-98-1177
+Bank: Edwards-Esparza Bank
+Account Number: 2935023303
+Consent Status: Revoked

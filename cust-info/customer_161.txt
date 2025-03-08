@@ -1,0 +1,6 @@
+Customer ID: 161
+Name: Spencer Kelly
+National ID: 296-88-5919
+Bank: Russell, Lindsey and Johnston Bank
+Account Number: 9204208959
+Consent Status: Granted

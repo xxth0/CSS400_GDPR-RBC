@@ -1,0 +1,6 @@
+Customer ID: 316
+Name: Alexander Oliver
+National ID: 836-03-1123
+Bank: Gaines and Sons Bank
+Account Number: 6723941004
+Consent Status: Granted

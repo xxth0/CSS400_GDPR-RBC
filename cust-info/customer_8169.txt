@@ -1,0 +1,6 @@
+Customer ID: 8169
+Name: Donald Johnson
+National ID: 155-98-2136
+Bank: Ross, Johnson and Contreras Bank
+Account Number: 3238555694
+Consent Status: Revoked

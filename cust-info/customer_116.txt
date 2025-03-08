@@ -1,0 +1,6 @@
+Customer ID: 116
+Name: John Ray
+National ID: 801-11-1268
+Bank: Arellano, Humphrey and Townsend Bank
+Account Number: 1830644462
+Consent Status: Granted

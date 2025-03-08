@@ -1,0 +1,6 @@
+Customer ID: 1167
+Name: Erica Daniel
+National ID: 599-11-6813
+Bank: Taylor, Pitts and Ross Bank
+Account Number: 3273357671
+Consent Status: Revoked

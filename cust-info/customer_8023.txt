@@ -1,0 +1,6 @@
+Customer ID: 8023
+Name: Jamie Soto
+National ID: 384-40-8759
+Bank: Yoder Group Bank
+Account Number: 8152685279
+Consent Status: Revoked

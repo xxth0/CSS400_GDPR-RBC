@@ -1,0 +1,6 @@
+Customer ID: 682
+Name: Brian Wright
+National ID: 735-72-8583
+Bank: Mitchell, James and Berry Bank
+Account Number: 5215584125
+Consent Status: Granted

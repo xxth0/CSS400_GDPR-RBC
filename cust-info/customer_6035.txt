@@ -1,0 +1,6 @@
+Customer ID: 6035
+Name: Daniel Holder
+National ID: 381-01-6419
+Bank: Reed-Tran Bank
+Account Number: 2251859731
+Consent Status: Granted

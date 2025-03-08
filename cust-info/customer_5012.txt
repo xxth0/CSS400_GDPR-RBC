@@ -1,0 +1,6 @@
+Customer ID: 5012
+Name: Zachary Quinn
+National ID: 091-85-3393
+Bank: Watts, Cameron and Mccall Bank
+Account Number: 9788410947
+Consent Status: Granted

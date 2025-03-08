@@ -1,0 +1,6 @@
+Customer ID: 1949
+Name: Courtney Stewart
+National ID: 117-39-9135
+Bank: Weaver-Jones Bank
+Account Number: 9921847336
+Consent Status: Revoked

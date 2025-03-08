@@ -1,0 +1,6 @@
+Customer ID: 2789
+Name: Renee Bernard
+National ID: 225-26-1897
+Bank: Brown-Rogers Bank
+Account Number: 7888438186
+Consent Status: Granted

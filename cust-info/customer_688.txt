@@ -1,0 +1,6 @@
+Customer ID: 688
+Name: Troy Howell
+National ID: 472-91-9732
+Bank: Dickerson-Williams Bank
+Account Number: 9551228621
+Consent Status: Granted

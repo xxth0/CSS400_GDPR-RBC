@@ -1,0 +1,6 @@
+Customer ID: 8745
+Name: Rebecca Cunningham
+National ID: 847-12-1439
+Bank: Burgess PLC Bank
+Account Number: 8259928780
+Consent Status: Revoked

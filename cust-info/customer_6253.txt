@@ -1,0 +1,6 @@
+Customer ID: 6253
+Name: Robert Price
+National ID: 663-61-9112
+Bank: Day-Smith Bank
+Account Number: 2214102623
+Consent Status: Granted

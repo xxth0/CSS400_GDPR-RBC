@@ -1,0 +1,6 @@
+Customer ID: 8117
+Name: Shelly Owens
+National ID: 426-98-5381
+Bank: Miller-Bender Bank
+Account Number: 5196322830
+Consent Status: Revoked

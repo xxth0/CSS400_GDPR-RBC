@@ -1,0 +1,6 @@
+Customer ID: 13
+Name: Matthew Delgado
+National ID: 064-79-6567
+Bank: Rose-Davis Bank
+Account Number: 4606983605
+Consent Status: Revoked

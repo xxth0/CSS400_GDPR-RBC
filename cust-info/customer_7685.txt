@@ -1,0 +1,6 @@
+Customer ID: 7685
+Name: Kevin Padilla
+National ID: 764-29-0846
+Bank: Martinez, Whitehead and Carter Bank
+Account Number: 5650758903
+Consent Status: Revoked

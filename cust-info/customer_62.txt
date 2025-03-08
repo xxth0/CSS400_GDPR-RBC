@@ -1,0 +1,6 @@
+Customer ID: 62
+Name: Steven Smith
+National ID: 185-05-7200
+Bank: Hubbard-Lewis Bank
+Account Number: 2178056033
+Consent Status: Granted

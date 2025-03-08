@@ -1,0 +1,6 @@
+Customer ID: 9501
+Name: William Zhang
+National ID: 754-54-7474
+Bank: Salas, Mathews and Tucker Bank
+Account Number: 9548603542
+Consent Status: Revoked

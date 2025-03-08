@@ -1,0 +1,6 @@
+Customer ID: 2474
+Name: Jamie Hall
+National ID: 402-51-9255
+Bank: Mcgee, Hughes and Farmer Bank
+Account Number: 5254175152
+Consent Status: Revoked

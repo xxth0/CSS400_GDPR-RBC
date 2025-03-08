@@ -1,0 +1,6 @@
+Customer ID: 8594
+Name: Erica Sherman
+National ID: 073-98-3255
+Bank: Brown-Miller Bank
+Account Number: 2584857238
+Consent Status: Granted

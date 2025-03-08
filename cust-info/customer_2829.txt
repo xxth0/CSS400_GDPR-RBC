@@ -1,0 +1,6 @@
+Customer ID: 2829
+Name: Jason Collier
+National ID: 626-52-3586
+Bank: Byrd, Rhodes and Cooley Bank
+Account Number: 4153558677
+Consent Status: Granted

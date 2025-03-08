@@ -1,0 +1,6 @@
+Customer ID: 5619
+Name: Jessica White
+National ID: 572-79-6703
+Bank: Burton and Sons Bank
+Account Number: 3935486947
+Consent Status: Granted

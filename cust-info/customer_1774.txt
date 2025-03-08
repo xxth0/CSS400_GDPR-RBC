@@ -1,0 +1,6 @@
+Customer ID: 1774
+Name: Mary Henderson
+National ID: 003-36-2211
+Bank: Mckay-Smith Bank
+Account Number: 8536957479
+Consent Status: Granted

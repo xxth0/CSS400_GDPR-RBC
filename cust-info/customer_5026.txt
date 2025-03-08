@@ -1,0 +1,6 @@
+Customer ID: 5026
+Name: Marcus Escobar
+National ID: 832-05-9382
+Bank: Morris Ltd Bank
+Account Number: 5287727337
+Consent Status: Revoked

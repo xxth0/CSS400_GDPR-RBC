@@ -1,0 +1,6 @@
+Customer ID: 2491
+Name: Joshua Smith
+National ID: 422-40-4271
+Bank: Martin, Webster and Gomez Bank
+Account Number: 8193518264
+Consent Status: Granted

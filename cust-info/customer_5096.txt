@@ -1,0 +1,6 @@
+Customer ID: 5096
+Name: Michael Colon
+National ID: 713-74-8871
+Bank: Tucker, Hanson and Howard Bank
+Account Number: 1551425815
+Consent Status: Revoked

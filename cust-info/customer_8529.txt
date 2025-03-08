@@ -1,0 +1,6 @@
+Customer ID: 8529
+Name: Erica Alvarado
+National ID: 728-56-3496
+Bank: Thomas, Webb and Foley Bank
+Account Number: 6420788306
+Consent Status: Revoked

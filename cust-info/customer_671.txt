@@ -1,0 +1,6 @@
+Customer ID: 671
+Name: Julia Martin
+National ID: 495-30-3734
+Bank: Buchanan, Figueroa and Ramirez Bank
+Account Number: 2725652372
+Consent Status: Revoked

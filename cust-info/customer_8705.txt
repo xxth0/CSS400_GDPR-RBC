@@ -1,0 +1,6 @@
+Customer ID: 8705
+Name: Karen Garcia
+National ID: 315-28-4069
+Bank: Castro Group Bank
+Account Number: 2317612217
+Consent Status: Revoked

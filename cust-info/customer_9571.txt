@@ -1,0 +1,6 @@
+Customer ID: 9571
+Name: Michael Cooper
+National ID: 129-13-4143
+Bank: Flores and Sons Bank
+Account Number: 6971472057
+Consent Status: Revoked

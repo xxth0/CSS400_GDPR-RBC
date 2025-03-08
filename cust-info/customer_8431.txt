@@ -1,0 +1,6 @@
+Customer ID: 8431
+Name: Guy Phillips
+National ID: 700-74-6335
+Bank: Rios, Green and Bautista Bank
+Account Number: 5545899682
+Consent Status: Granted

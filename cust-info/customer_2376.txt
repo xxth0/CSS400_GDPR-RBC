@@ -1,0 +1,6 @@
+Customer ID: 2376
+Name: Anthony Jimenez
+National ID: 527-53-9756
+Bank: Macdonald Inc Bank
+Account Number: 2013279535
+Consent Status: Granted

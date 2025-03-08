@@ -1,0 +1,6 @@
+Customer ID: 6269
+Name: Rhonda Murphy
+National ID: 296-54-9017
+Bank: Thomas-Matthews Bank
+Account Number: 5692852147
+Consent Status: Granted

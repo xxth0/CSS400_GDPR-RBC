@@ -1,0 +1,6 @@
+Customer ID: 4475
+Name: Ann Brown
+National ID: 025-92-4190
+Bank: Rodriguez LLC Bank
+Account Number: 4712412732
+Consent Status: Granted

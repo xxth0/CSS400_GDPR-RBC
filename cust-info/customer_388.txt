@@ -1,0 +1,6 @@
+Customer ID: 388
+Name: Dustin Richardson
+National ID: 479-85-0986
+Bank: Mcguire-Benitez Bank
+Account Number: 8421698756
+Consent Status: Granted

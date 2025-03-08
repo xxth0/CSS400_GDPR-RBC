@@ -1,0 +1,6 @@
+Customer ID: 2180
+Name: Michael Adams
+National ID: 155-30-3290
+Bank: Ray, Jenkins and Glass Bank
+Account Number: 6008124379
+Consent Status: Revoked

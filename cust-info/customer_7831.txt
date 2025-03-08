@@ -1,0 +1,6 @@
+Customer ID: 7831
+Name: Michael Cooper
+National ID: 658-30-6662
+Bank: Brown, Smith and Butler Bank
+Account Number: 7155536213
+Consent Status: Revoked

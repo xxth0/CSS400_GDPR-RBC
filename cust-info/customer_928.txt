@@ -1,0 +1,6 @@
+Customer ID: 928
+Name: Mary Ingram
+National ID: 550-70-9672
+Bank: Avila-Nguyen Bank
+Account Number: 5421832248
+Consent Status: Granted

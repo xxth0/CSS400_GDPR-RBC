@@ -1,0 +1,6 @@
+Customer ID: 8389
+Name: Howard Gray
+National ID: 871-24-0527
+Bank: Gonzales, Smith and Brown Bank
+Account Number: 9369721084
+Consent Status: Revoked

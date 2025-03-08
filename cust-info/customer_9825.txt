@@ -1,0 +1,6 @@
+Customer ID: 9825
+Name: Matthew Brewer
+National ID: 767-77-3321
+Bank: Hartman-Clark Bank
+Account Number: 8510106082
+Consent Status: Granted

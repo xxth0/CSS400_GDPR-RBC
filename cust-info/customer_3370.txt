@@ -1,0 +1,6 @@
+Customer ID: 3370
+Name: Angel Anderson
+National ID: 753-51-4703
+Bank: Lee, Washington and Johnson Bank
+Account Number: 6982507748
+Consent Status: Revoked

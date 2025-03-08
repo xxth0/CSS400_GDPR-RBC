@@ -1,0 +1,6 @@
+Customer ID: 246
+Name: Keith Hayes
+National ID: 664-04-1505
+Bank: Mendoza, Arellano and Roberson Bank
+Account Number: 2304554167
+Consent Status: Granted

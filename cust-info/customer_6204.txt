@@ -1,0 +1,6 @@
+Customer ID: 6204
+Name: Brooke Hall
+National ID: 174-63-6790
+Bank: Turner, Gordon and Stanley Bank
+Account Number: 6609581530
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4943
+Name: Martha Welch
+National ID: 394-64-0527
+Bank: Stein-Adams Bank
+Account Number: 8383373502
+Consent Status: Revoked

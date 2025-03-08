@@ -1,0 +1,6 @@
+Customer ID: 1455
+Name: Brenda Rodriguez
+National ID: 535-18-1378
+Bank: English Group Bank
+Account Number: 7456682020
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3497
+Name: Curtis Carter
+National ID: 858-96-5655
+Bank: Shaffer and Sons Bank
+Account Number: 2946788392
+Consent Status: Granted

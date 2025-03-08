@@ -1,0 +1,6 @@
+Customer ID: 1139
+Name: Gary Lawrence
+National ID: 800-19-2389
+Bank: Hawkins Inc Bank
+Account Number: 1741443776
+Consent Status: Revoked

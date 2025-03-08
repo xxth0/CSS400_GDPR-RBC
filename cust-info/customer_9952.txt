@@ -1,0 +1,6 @@
+Customer ID: 9952
+Name: Deanna Bowen
+National ID: 729-15-4820
+Bank: Howard, Jones and Thomas Bank
+Account Number: 8087709192
+Consent Status: Granted

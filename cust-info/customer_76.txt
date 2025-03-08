@@ -1,0 +1,6 @@
+Customer ID: 76
+Name: Melissa Davis
+National ID: 809-11-6845
+Bank: Garcia, Rodriguez and Griffin Bank
+Account Number: 2619361233
+Consent Status: Granted

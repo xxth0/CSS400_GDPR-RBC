@@ -1,0 +1,6 @@
+Customer ID: 9827
+Name: John Andrews
+National ID: 863-59-5843
+Bank: Gonzalez, Mann and Martin Bank
+Account Number: 8246788194
+Consent Status: Revoked

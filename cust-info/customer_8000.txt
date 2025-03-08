@@ -1,0 +1,6 @@
+Customer ID: 8000
+Name: Victor Johnson
+National ID: 100-88-5751
+Bank: Lin and Sons Bank
+Account Number: 6189882128
+Consent Status: Granted

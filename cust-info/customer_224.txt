@@ -1,0 +1,6 @@
+Customer ID: 224
+Name: Erica Welch
+National ID: 059-71-3241
+Bank: Schneider-Harris Bank
+Account Number: 7539166494
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 41
+Name: Samantha Blankenship
+National ID: 659-13-0832
+Bank: Phillips Group Bank
+Account Number: 8951055354
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7276
+Name: Miss Hannah Schwartz
+National ID: 098-66-0542
+Bank: Vang Ltd Bank
+Account Number: 7225546924
+Consent Status: Revoked

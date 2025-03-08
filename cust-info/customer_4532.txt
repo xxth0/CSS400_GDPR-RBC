@@ -1,0 +1,6 @@
+Customer ID: 4532
+Name: Adrian Ingram
+National ID: 065-06-9155
+Bank: Dickson, Hayes and Rodriguez Bank
+Account Number: 6429279561
+Consent Status: Revoked

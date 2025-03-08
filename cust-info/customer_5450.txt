@@ -1,0 +1,6 @@
+Customer ID: 5450
+Name: Connor Kelly
+National ID: 405-92-2406
+Bank: Stanley LLC Bank
+Account Number: 8694683801
+Consent Status: Revoked

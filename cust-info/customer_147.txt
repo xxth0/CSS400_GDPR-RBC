@@ -1,0 +1,6 @@
+Customer ID: 147
+Name: Eric Howard
+National ID: 695-74-8827
+Bank: Griffith-Franco Bank
+Account Number: 8540251418
+Consent Status: Granted

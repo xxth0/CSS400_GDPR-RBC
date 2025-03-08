@@ -1,0 +1,6 @@
+Customer ID: 9306
+Name: Cassandra Smith
+National ID: 443-87-4710
+Bank: Valenzuela, Haynes and Combs Bank
+Account Number: 3434735636
+Consent Status: Revoked

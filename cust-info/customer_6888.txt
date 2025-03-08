@@ -1,0 +1,6 @@
+Customer ID: 6888
+Name: Jeffrey Lang
+National ID: 893-98-8159
+Bank: Oliver Inc Bank
+Account Number: 2951098413
+Consent Status: Granted

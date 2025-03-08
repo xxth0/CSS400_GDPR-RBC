@@ -1,0 +1,6 @@
+Customer ID: 4500
+Name: Gordon Martinez
+National ID: 133-06-8447
+Bank: Clark-Cantu Bank
+Account Number: 1937547546
+Consent Status: Revoked

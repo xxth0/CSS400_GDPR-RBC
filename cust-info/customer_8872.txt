@@ -1,0 +1,6 @@
+Customer ID: 8872
+Name: Matthew Johnson
+National ID: 733-41-4093
+Bank: Reynolds PLC Bank
+Account Number: 8077279293
+Consent Status: Granted

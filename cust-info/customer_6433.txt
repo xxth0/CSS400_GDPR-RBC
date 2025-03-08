@@ -1,0 +1,6 @@
+Customer ID: 6433
+Name: Catherine Collins
+National ID: 494-43-8206
+Bank: Scott LLC Bank
+Account Number: 9416109479
+Consent Status: Granted

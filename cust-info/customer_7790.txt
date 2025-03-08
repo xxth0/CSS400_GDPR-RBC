@@ -1,0 +1,6 @@
+Customer ID: 7790
+Name: Luis James
+National ID: 788-56-9246
+Bank: Price, Harris and Rivera Bank
+Account Number: 5334550718
+Consent Status: Revoked

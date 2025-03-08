@@ -1,0 +1,6 @@
+Customer ID: 1267
+Name: George Romero Jr.
+National ID: 879-35-2418
+Bank: Rodriguez-Harmon Bank
+Account Number: 3803739834
+Consent Status: Revoked

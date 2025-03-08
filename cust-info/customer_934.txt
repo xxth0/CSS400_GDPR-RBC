@@ -1,0 +1,6 @@
+Customer ID: 934
+Name: Valerie Acosta
+National ID: 047-47-4948
+Bank: Khan LLC Bank
+Account Number: 2576515223
+Consent Status: Granted

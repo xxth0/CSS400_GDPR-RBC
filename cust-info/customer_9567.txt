@@ -1,0 +1,6 @@
+Customer ID: 9567
+Name: Karen Smith
+National ID: 406-76-2392
+Bank: Berry-Baker Bank
+Account Number: 9793370365
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6955
+Name: Kelly Benton
+National ID: 276-36-8884
+Bank: Walker-Trujillo Bank
+Account Number: 4559184527
+Consent Status: Granted

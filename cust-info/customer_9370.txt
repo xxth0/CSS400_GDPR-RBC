@@ -1,0 +1,6 @@
+Customer ID: 9370
+Name: Mary Griffin
+National ID: 817-73-5222
+Bank: Duncan LLC Bank
+Account Number: 7766151040
+Consent Status: Revoked

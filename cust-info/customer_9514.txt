@@ -1,0 +1,6 @@
+Customer ID: 9514
+Name: Paul Love
+National ID: 887-99-9711
+Bank: Wilson-Banks Bank
+Account Number: 1782662973
+Consent Status: Revoked

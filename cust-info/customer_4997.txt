@@ -1,0 +1,6 @@
+Customer ID: 4997
+Name: Zachary Barnes
+National ID: 724-36-5369
+Bank: Walker, Armstrong and White Bank
+Account Number: 3301334183
+Consent Status: Granted

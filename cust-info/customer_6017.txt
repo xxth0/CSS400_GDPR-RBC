@@ -1,0 +1,6 @@
+Customer ID: 6017
+Name: Kevin Hernandez
+National ID: 037-32-6195
+Bank: Thompson LLC Bank
+Account Number: 6640833479
+Consent Status: Granted

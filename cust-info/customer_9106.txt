@@ -1,0 +1,6 @@
+Customer ID: 9106
+Name: Manuel Hess
+National ID: 885-87-8085
+Bank: Allen, Hernandez and Powell Bank
+Account Number: 8827792088
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5834
+Name: Mr. Brian Campbell Jr.
+National ID: 153-72-7906
+Bank: Leon, Smith and Le Bank
+Account Number: 5197599717
+Consent Status: Revoked

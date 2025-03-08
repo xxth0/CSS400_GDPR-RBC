@@ -1,0 +1,6 @@
+Customer ID: 6078
+Name: Cheryl Jackson
+National ID: 080-88-1422
+Bank: Ho Inc Bank
+Account Number: 2920246288
+Consent Status: Granted

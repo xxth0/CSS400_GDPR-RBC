@@ -1,0 +1,6 @@
+Customer ID: 4162
+Name: Willie Chandler
+National ID: 185-43-9228
+Bank: Wright-Mayo Bank
+Account Number: 6812184301
+Consent Status: Revoked

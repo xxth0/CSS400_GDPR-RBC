@@ -1,0 +1,6 @@
+Customer ID: 4553
+Name: Karen Wright
+National ID: 253-11-1331
+Bank: Harmon-Lucero Bank
+Account Number: 2272461185
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2860
+Name: William Underwood
+National ID: 795-40-1233
+Bank: Blanchard and Sons Bank
+Account Number: 3181468323
+Consent Status: Revoked

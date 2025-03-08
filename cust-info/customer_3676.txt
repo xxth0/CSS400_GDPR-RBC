@@ -1,0 +1,6 @@
+Customer ID: 3676
+Name: Mike Frye
+National ID: 488-66-8132
+Bank: Bishop, Collins and Rodgers Bank
+Account Number: 5665899483
+Consent Status: Granted

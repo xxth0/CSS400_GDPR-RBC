@@ -1,0 +1,6 @@
+Customer ID: 9384
+Name: Amanda Diaz
+National ID: 576-50-9082
+Bank: Simmons PLC Bank
+Account Number: 5527008702
+Consent Status: Granted

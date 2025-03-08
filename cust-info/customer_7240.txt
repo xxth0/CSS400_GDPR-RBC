@@ -1,0 +1,6 @@
+Customer ID: 7240
+Name: Frank Barnes
+National ID: 647-94-5743
+Bank: Keller, Santana and Sparks Bank
+Account Number: 1967238227
+Consent Status: Granted

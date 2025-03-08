@@ -1,0 +1,6 @@
+Customer ID: 8004
+Name: Tamara Rogers
+National ID: 775-20-4692
+Bank: Hall Group Bank
+Account Number: 6667601493
+Consent Status: Revoked

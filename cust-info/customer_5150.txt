@@ -1,0 +1,6 @@
+Customer ID: 5150
+Name: Andrew Aguilar
+National ID: 269-80-1940
+Bank: Mcfarland-Buchanan Bank
+Account Number: 5375686170
+Consent Status: Granted

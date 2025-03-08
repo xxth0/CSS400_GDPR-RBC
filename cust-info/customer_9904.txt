@@ -1,0 +1,6 @@
+Customer ID: 9904
+Name: Shannon Medina
+National ID: 898-49-3415
+Bank: Gilmore Group Bank
+Account Number: 9261463128
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9545
+Name: Denise Guerrero
+National ID: 017-20-9592
+Bank: Hamilton-Hansen Bank
+Account Number: 1287867676
+Consent Status: Granted

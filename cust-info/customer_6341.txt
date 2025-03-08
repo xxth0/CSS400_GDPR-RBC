@@ -1,0 +1,6 @@
+Customer ID: 6341
+Name: Joanna Williams
+National ID: 686-89-9762
+Bank: Mitchell, Leonard and Fischer Bank
+Account Number: 8036699787
+Consent Status: Revoked

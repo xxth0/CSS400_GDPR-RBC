@@ -1,0 +1,6 @@
+Customer ID: 4028
+Name: Ellen Mcdowell
+National ID: 536-31-9695
+Bank: Lawrence-Ross Bank
+Account Number: 7270668787
+Consent Status: Granted

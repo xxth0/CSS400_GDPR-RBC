@@ -1,0 +1,6 @@
+Customer ID: 1478
+Name: Paul Harmon
+National ID: 049-10-0006
+Bank: Chung PLC Bank
+Account Number: 2826109562
+Consent Status: Granted

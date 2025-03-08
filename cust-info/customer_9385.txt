@@ -1,0 +1,6 @@
+Customer ID: 9385
+Name: Tracey Reynolds
+National ID: 871-17-0141
+Bank: Valdez-Ware Bank
+Account Number: 1191919022
+Consent Status: Granted

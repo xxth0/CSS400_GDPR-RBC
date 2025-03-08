@@ -1,0 +1,6 @@
+Customer ID: 7370
+Name: Brittany Morgan
+National ID: 632-19-4463
+Bank: Ramirez, White and Anderson Bank
+Account Number: 7010192043
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1929
+Name: Michael Martinez
+National ID: 488-12-4515
+Bank: Munoz, Henderson and Decker Bank
+Account Number: 6260910676
+Consent Status: Revoked

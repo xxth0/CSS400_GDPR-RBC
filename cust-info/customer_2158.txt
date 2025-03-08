@@ -1,0 +1,6 @@
+Customer ID: 2158
+Name: Thomas Mendoza
+National ID: 083-71-6582
+Bank: Mcmahon-Reed Bank
+Account Number: 7855617552
+Consent Status: Granted

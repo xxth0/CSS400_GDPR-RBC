@@ -1,0 +1,6 @@
+Customer ID: 7000
+Name: Nathaniel Keller
+National ID: 475-76-3807
+Bank: Brooks Ltd Bank
+Account Number: 7461182482
+Consent Status: Granted

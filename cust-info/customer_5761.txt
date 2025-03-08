@@ -1,0 +1,6 @@
+Customer ID: 5761
+Name: Jennifer Green
+National ID: 626-77-8749
+Bank: Rogers-Turner Bank
+Account Number: 8395468926
+Consent Status: Revoked

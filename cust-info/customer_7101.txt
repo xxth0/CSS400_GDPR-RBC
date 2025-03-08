@@ -1,0 +1,6 @@
+Customer ID: 7101
+Name: Evan Stewart
+National ID: 471-08-0496
+Bank: Gordon-Clark Bank
+Account Number: 9007520689
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3484
+Name: Michael Hartman
+National ID: 149-84-4589
+Bank: Roy, Durham and Miller Bank
+Account Number: 8627779204
+Consent Status: Revoked

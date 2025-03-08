@@ -1,0 +1,6 @@
+Customer ID: 1516
+Name: Emily Johnson
+National ID: 763-91-7168
+Bank: Brown, Brown and Davies Bank
+Account Number: 3460430070
+Consent Status: Granted

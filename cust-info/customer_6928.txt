@@ -1,0 +1,6 @@
+Customer ID: 6928
+Name: Christina Ortiz
+National ID: 437-40-8335
+Bank: Perkins-West Bank
+Account Number: 1127970435
+Consent Status: Granted

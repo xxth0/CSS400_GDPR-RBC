@@ -1,0 +1,6 @@
+Customer ID: 6729
+Name: Julie Johnston
+National ID: 272-35-1978
+Bank: Clarke and Sons Bank
+Account Number: 8967245199
+Consent Status: Granted

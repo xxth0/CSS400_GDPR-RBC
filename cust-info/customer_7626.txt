@@ -1,0 +1,6 @@
+Customer ID: 7626
+Name: Sarah Harris
+National ID: 452-51-9157
+Bank: Davis-Owen Bank
+Account Number: 4384893439
+Consent Status: Revoked

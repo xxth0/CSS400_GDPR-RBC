@@ -1,0 +1,6 @@
+Customer ID: 7766
+Name: Cynthia Mcdonald
+National ID: 033-65-3114
+Bank: Singh-Williams Bank
+Account Number: 7254235017
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 198
+Name: Adam Torres
+National ID: 804-07-1306
+Bank: Owens-Moore Bank
+Account Number: 3968516171
+Consent Status: Revoked

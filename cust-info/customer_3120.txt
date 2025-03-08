@@ -1,0 +1,6 @@
+Customer ID: 3120
+Name: Sandra Mora
+National ID: 308-29-5730
+Bank: Anderson, Reyes and Parsons Bank
+Account Number: 4449756080
+Consent Status: Revoked

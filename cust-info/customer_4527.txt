@@ -1,0 +1,6 @@
+Customer ID: 4527
+Name: Jennifer Choi
+National ID: 362-66-6505
+Bank: Ayers-Carr Bank
+Account Number: 5393106103
+Consent Status: Revoked

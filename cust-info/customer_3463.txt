@@ -1,0 +1,6 @@
+Customer ID: 3463
+Name: Daniel Fletcher
+National ID: 553-61-5432
+Bank: Murphy Group Bank
+Account Number: 4137631167
+Consent Status: Revoked

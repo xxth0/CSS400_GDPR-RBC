@@ -1,0 +1,6 @@
+Customer ID: 7595
+Name: James Taylor
+National ID: 168-01-7985
+Bank: Contreras-Coleman Bank
+Account Number: 3154796289
+Consent Status: Revoked

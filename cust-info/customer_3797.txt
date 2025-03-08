@@ -1,0 +1,6 @@
+Customer ID: 3797
+Name: Carrie Welch
+National ID: 788-06-1421
+Bank: Hanson-Ramirez Bank
+Account Number: 4365574230
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8263
+Name: Katie Deleon
+National ID: 097-47-6833
+Bank: Lewis, Allen and Snyder Bank
+Account Number: 2624084499
+Consent Status: Granted

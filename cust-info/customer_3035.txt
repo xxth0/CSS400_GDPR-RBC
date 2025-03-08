@@ -1,0 +1,6 @@
+Customer ID: 3035
+Name: David Roberts
+National ID: 047-69-1378
+Bank: Rush, Miller and Robinson Bank
+Account Number: 2891250274
+Consent Status: Revoked

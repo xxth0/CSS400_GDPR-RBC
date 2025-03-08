@@ -1,0 +1,6 @@
+Customer ID: 3870
+Name: Judith Rodriguez
+National ID: 117-18-9185
+Bank: Brown Group Bank
+Account Number: 2115329558
+Consent Status: Granted

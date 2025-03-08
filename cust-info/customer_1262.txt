@@ -1,0 +1,6 @@
+Customer ID: 1262
+Name: Cassandra Long
+National ID: 466-18-4935
+Bank: Cross Ltd Bank
+Account Number: 5505715593
+Consent Status: Revoked

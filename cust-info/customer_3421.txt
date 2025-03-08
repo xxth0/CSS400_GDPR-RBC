@@ -1,0 +1,6 @@
+Customer ID: 3421
+Name: Miss Ana Johnson MD
+National ID: 443-68-3558
+Bank: Ritter-Scott Bank
+Account Number: 5800236692
+Consent Status: Revoked

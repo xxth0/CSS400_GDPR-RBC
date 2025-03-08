@@ -1,0 +1,6 @@
+Customer ID: 144
+Name: Marissa Barber MD
+National ID: 577-93-6497
+Bank: Stokes-Garcia Bank
+Account Number: 7021568674
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 189
+Name: Jerry Ellis
+National ID: 222-40-2036
+Bank: Kent, Vasquez and Melendez Bank
+Account Number: 6845478406
+Consent Status: Revoked

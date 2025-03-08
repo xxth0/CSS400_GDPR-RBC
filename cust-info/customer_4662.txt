@@ -1,0 +1,6 @@
+Customer ID: 4662
+Name: Joseph Bridges
+National ID: 432-28-2981
+Bank: Castro, Gonzales and Tucker Bank
+Account Number: 4453136559
+Consent Status: Revoked

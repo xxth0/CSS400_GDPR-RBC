@@ -1,0 +1,6 @@
+Customer ID: 5186
+Name: Susan Pierce
+National ID: 309-22-1989
+Bank: Lester-Smith Bank
+Account Number: 5904233807
+Consent Status: Granted

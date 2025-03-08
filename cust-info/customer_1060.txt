@@ -1,0 +1,6 @@
+Customer ID: 1060
+Name: Yesenia Anderson
+National ID: 079-37-1410
+Bank: Fisher-Hughes Bank
+Account Number: 1375215273
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6018
+Name: Tina Davis
+National ID: 242-86-2915
+Bank: Cunningham Inc Bank
+Account Number: 8521536974
+Consent Status: Revoked

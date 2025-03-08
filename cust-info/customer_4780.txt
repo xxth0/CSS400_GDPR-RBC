@@ -1,0 +1,6 @@
+Customer ID: 4780
+Name: Tanya Ortiz
+National ID: 249-05-3979
+Bank: Gonzalez and Sons Bank
+Account Number: 5371613434
+Consent Status: Granted

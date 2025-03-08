@@ -1,0 +1,6 @@
+Customer ID: 2079
+Name: Eric Alvarez
+National ID: 322-82-6329
+Bank: Brown-Carson Bank
+Account Number: 1900876060
+Consent Status: Granted

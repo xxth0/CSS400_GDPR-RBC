@@ -1,0 +1,6 @@
+Customer ID: 6870
+Name: Sarah Hanna
+National ID: 555-87-6996
+Bank: Smith-Martinez Bank
+Account Number: 4258245064
+Consent Status: Revoked

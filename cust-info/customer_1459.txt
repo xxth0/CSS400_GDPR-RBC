@@ -1,0 +1,6 @@
+Customer ID: 1459
+Name: Benjamin Daugherty
+National ID: 237-79-0967
+Bank: Nguyen and Sons Bank
+Account Number: 5913316464
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5028
+Name: Kevin Lee
+National ID: 245-68-5888
+Bank: Cole, Hobbs and Atkins Bank
+Account Number: 9020987653
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8823
+Name: Amanda Horn
+National ID: 845-49-6175
+Bank: Molina-Martinez Bank
+Account Number: 5033955835
+Consent Status: Revoked

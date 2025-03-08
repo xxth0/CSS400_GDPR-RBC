@@ -1,0 +1,6 @@
+Customer ID: 322
+Name: Ana Hampton
+National ID: 834-37-0182
+Bank: Miller, Zhang and Bond Bank
+Account Number: 4769709274
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8059
+Name: Tanya Benson
+National ID: 438-99-1437
+Bank: Figueroa LLC Bank
+Account Number: 6194689600
+Consent Status: Granted

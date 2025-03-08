@@ -1,0 +1,6 @@
+Customer ID: 6803
+Name: Thomas Hooper
+National ID: 841-74-6258
+Bank: Richardson-Lane Bank
+Account Number: 4823640251
+Consent Status: Granted

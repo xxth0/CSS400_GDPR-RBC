@@ -1,0 +1,6 @@
+Customer ID: 3430
+Name: Michael Hernandez
+National ID: 438-02-2111
+Bank: Jones-Barton Bank
+Account Number: 9274789798
+Consent Status: Revoked

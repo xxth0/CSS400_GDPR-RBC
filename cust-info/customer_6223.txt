@@ -1,0 +1,6 @@
+Customer ID: 6223
+Name: Michelle Perkins
+National ID: 741-99-7526
+Bank: Rodriguez Inc Bank
+Account Number: 5342958012
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1405
+Name: Deborah Dillon
+National ID: 114-77-1284
+Bank: Miller-Wolf Bank
+Account Number: 3677037594
+Consent Status: Granted

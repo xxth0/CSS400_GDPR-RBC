@@ -1,0 +1,6 @@
+Customer ID: 297
+Name: Natalie Fisher
+National ID: 514-43-8038
+Bank: Valdez and Sons Bank
+Account Number: 8258444447
+Consent Status: Granted

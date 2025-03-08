@@ -1,0 +1,6 @@
+Customer ID: 9792
+Name: Randall Guzman
+National ID: 190-21-0153
+Bank: Hayes PLC Bank
+Account Number: 6619002977
+Consent Status: Revoked

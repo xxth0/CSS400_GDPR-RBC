@@ -1,0 +1,6 @@
+Customer ID: 7438
+Name: John Moreno
+National ID: 622-10-8616
+Bank: West, Perez and Powell Bank
+Account Number: 1909704311
+Consent Status: Revoked

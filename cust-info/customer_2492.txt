@@ -1,0 +1,6 @@
+Customer ID: 2492
+Name: Bill Gonzalez
+National ID: 157-37-1362
+Bank: Wells, Williams and Valencia Bank
+Account Number: 3508027131
+Consent Status: Granted

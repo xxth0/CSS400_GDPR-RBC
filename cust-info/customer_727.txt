@@ -1,0 +1,6 @@
+Customer ID: 727
+Name: Erin Murphy
+National ID: 323-41-0623
+Bank: Booth-Elliott Bank
+Account Number: 6475499186
+Consent Status: Revoked

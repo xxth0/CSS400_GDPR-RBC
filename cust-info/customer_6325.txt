@@ -1,0 +1,6 @@
+Customer ID: 6325
+Name: Gabriella Jimenez
+National ID: 592-46-7372
+Bank: Bass-Rodriguez Bank
+Account Number: 3765605318
+Consent Status: Granted

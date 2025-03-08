@@ -1,0 +1,6 @@
+Customer ID: 3241
+Name: Sheila Snyder
+National ID: 142-86-0400
+Bank: Johnson and Sons Bank
+Account Number: 9191128134
+Consent Status: Granted

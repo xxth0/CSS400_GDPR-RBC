@@ -1,0 +1,6 @@
+Customer ID: 3184
+Name: Charlotte Ramirez
+National ID: 573-01-3640
+Bank: Martinez, Cordova and Ramirez Bank
+Account Number: 6045873514
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3018
+Name: Shannon Richards
+National ID: 071-46-0044
+Bank: Byrd PLC Bank
+Account Number: 6450518921
+Consent Status: Revoked

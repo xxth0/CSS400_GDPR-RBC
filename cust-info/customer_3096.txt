@@ -1,0 +1,6 @@
+Customer ID: 3096
+Name: Trevor Yates
+National ID: 505-62-0932
+Bank: Morris-Ramirez Bank
+Account Number: 6175306503
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8625
+Name: Jennifer Bruce
+National ID: 506-73-0897
+Bank: Johnson and Sons Bank
+Account Number: 6488422402
+Consent Status: Revoked

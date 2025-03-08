@@ -1,0 +1,6 @@
+Customer ID: 5991
+Name: Michael Miller
+National ID: 796-61-6041
+Bank: Powers PLC Bank
+Account Number: 6075791749
+Consent Status: Granted

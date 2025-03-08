@@ -1,0 +1,6 @@
+Customer ID: 6061
+Name: Justin Sheppard
+National ID: 197-68-7905
+Bank: Nguyen, Brown and Cox Bank
+Account Number: 9030353736
+Consent Status: Revoked

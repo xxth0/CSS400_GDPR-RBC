@@ -1,0 +1,6 @@
+Customer ID: 9130
+Name: Michael James
+National ID: 373-05-9197
+Bank: Nelson LLC Bank
+Account Number: 1046988829
+Consent Status: Granted

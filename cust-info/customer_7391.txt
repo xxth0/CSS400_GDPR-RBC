@@ -1,0 +1,6 @@
+Customer ID: 7391
+Name: Gloria Smith
+National ID: 175-53-4528
+Bank: Ho-Robinson Bank
+Account Number: 1587848961
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8693
+Name: Edward Farmer
+National ID: 283-74-7021
+Bank: Owens-Martin Bank
+Account Number: 2825569572
+Consent Status: Granted

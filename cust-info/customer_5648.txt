@@ -1,0 +1,6 @@
+Customer ID: 5648
+Name: Rita Carroll
+National ID: 348-51-9608
+Bank: Barron-Fischer Bank
+Account Number: 7916848016
+Consent Status: Revoked

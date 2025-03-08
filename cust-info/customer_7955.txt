@@ -1,0 +1,6 @@
+Customer ID: 7955
+Name: Tiffany Jimenez
+National ID: 660-55-9048
+Bank: Stein and Sons Bank
+Account Number: 1801417716
+Consent Status: Granted

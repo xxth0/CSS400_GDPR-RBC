@@ -1,0 +1,6 @@
+Customer ID: 4958
+Name: David Johnston
+National ID: 457-41-9108
+Bank: Torres, Tapia and Robinson Bank
+Account Number: 2547354268
+Consent Status: Granted

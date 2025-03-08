@@ -1,0 +1,6 @@
+Customer ID: 6561
+Name: Taylor Huffman
+National ID: 644-72-3332
+Bank: Hodges-Parrish Bank
+Account Number: 4551439054
+Consent Status: Revoked

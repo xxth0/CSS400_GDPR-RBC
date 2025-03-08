@@ -1,0 +1,6 @@
+Customer ID: 367
+Name: Elizabeth Carroll
+National ID: 424-94-9567
+Bank: Davis-Walker Bank
+Account Number: 4185060769
+Consent Status: Granted

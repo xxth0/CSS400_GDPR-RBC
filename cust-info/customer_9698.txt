@@ -1,0 +1,6 @@
+Customer ID: 9698
+Name: Randall Moore
+National ID: 592-82-7939
+Bank: Collins-Hubbard Bank
+Account Number: 4675279846
+Consent Status: Granted

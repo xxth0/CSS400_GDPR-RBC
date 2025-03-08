@@ -1,0 +1,6 @@
+Customer ID: 8622
+Name: Mr. Paul Price
+National ID: 531-41-8791
+Bank: Young, Parsons and Galloway Bank
+Account Number: 3828183308
+Consent Status: Revoked

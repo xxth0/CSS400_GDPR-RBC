@@ -1,0 +1,6 @@
+Customer ID: 2966
+Name: Laura Lewis
+National ID: 163-53-3164
+Bank: Serrano-Goodman Bank
+Account Number: 7281974379
+Consent Status: Granted

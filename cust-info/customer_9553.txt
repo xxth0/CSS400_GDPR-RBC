@@ -1,0 +1,6 @@
+Customer ID: 9553
+Name: Joseph Peterson
+National ID: 539-47-0543
+Bank: Davis LLC Bank
+Account Number: 3836243011
+Consent Status: Revoked

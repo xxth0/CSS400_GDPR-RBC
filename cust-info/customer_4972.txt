@@ -1,0 +1,6 @@
+Customer ID: 4972
+Name: Thomas Hicks
+National ID: 294-58-7978
+Bank: Fisher-Fox Bank
+Account Number: 7962770635
+Consent Status: Granted

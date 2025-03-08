@@ -1,0 +1,6 @@
+Customer ID: 1345
+Name: Mark Sandoval
+National ID: 235-10-8283
+Bank: Michael PLC Bank
+Account Number: 3671966062
+Consent Status: Revoked

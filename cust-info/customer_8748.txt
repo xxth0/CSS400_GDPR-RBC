@@ -1,0 +1,6 @@
+Customer ID: 8748
+Name: Angel Riggs
+National ID: 693-15-5037
+Bank: Davis and Sons Bank
+Account Number: 9337571594
+Consent Status: Granted

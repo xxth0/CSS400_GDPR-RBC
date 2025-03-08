@@ -1,0 +1,6 @@
+Customer ID: 4365
+Name: Jo Roberts
+National ID: 873-52-4606
+Bank: Lawson-Jones Bank
+Account Number: 5147799279
+Consent Status: Revoked

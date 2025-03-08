@@ -1,0 +1,6 @@
+Customer ID: 5857
+Name: William Brennan
+National ID: 499-23-2909
+Bank: Maldonado-Reese Bank
+Account Number: 4710320564
+Consent Status: Granted

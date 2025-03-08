@@ -1,0 +1,6 @@
+Customer ID: 8936
+Name: Tracey Baker
+National ID: 437-41-7236
+Bank: Reed, Bowman and Strickland Bank
+Account Number: 3297153125
+Consent Status: Revoked

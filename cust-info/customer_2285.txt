@@ -1,0 +1,6 @@
+Customer ID: 2285
+Name: Jared Medina
+National ID: 749-69-9667
+Bank: Gonzalez Ltd Bank
+Account Number: 6960232787
+Consent Status: Granted

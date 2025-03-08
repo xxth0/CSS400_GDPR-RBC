@@ -1,0 +1,6 @@
+Customer ID: 2827
+Name: Julia Neal
+National ID: 349-87-1999
+Bank: Jackson-Anderson Bank
+Account Number: 8756422224
+Consent Status: Granted

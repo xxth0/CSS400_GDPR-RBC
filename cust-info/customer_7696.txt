@@ -1,0 +1,6 @@
+Customer ID: 7696
+Name: Stephen Torres
+National ID: 764-68-4626
+Bank: Graham Inc Bank
+Account Number: 8642339305
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3894
+Name: Matthew Contreras
+National ID: 427-76-9359
+Bank: Hicks Ltd Bank
+Account Number: 3099869151
+Consent Status: Revoked

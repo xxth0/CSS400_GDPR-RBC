@@ -1,0 +1,6 @@
+Customer ID: 273
+Name: Seth Webb
+National ID: 006-87-9002
+Bank: Burgess PLC Bank
+Account Number: 2994047554
+Consent Status: Granted

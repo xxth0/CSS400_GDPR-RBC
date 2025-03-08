@@ -1,0 +1,6 @@
+Customer ID: 5322
+Name: Jared Perez
+National ID: 210-44-6223
+Bank: Adams Group Bank
+Account Number: 4757580161
+Consent Status: Granted

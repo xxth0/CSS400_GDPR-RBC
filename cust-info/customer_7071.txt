@@ -1,0 +1,6 @@
+Customer ID: 7071
+Name: Fred Maldonado
+National ID: 472-32-4130
+Bank: Smith-Blackwell Bank
+Account Number: 1018003697
+Consent Status: Revoked

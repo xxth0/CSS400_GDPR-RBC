@@ -1,0 +1,6 @@
+Customer ID: 1437
+Name: Francisco Duncan
+National ID: 860-68-6865
+Bank: Maldonado LLC Bank
+Account Number: 5658298683
+Consent Status: Revoked

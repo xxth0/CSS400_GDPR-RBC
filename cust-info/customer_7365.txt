@@ -1,0 +1,6 @@
+Customer ID: 7365
+Name: Robert Keller
+National ID: 217-83-6049
+Bank: Nguyen Inc Bank
+Account Number: 7037593520
+Consent Status: Revoked

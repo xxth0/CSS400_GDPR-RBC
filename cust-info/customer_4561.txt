@@ -1,0 +1,6 @@
+Customer ID: 4561
+Name: Colleen Reese
+National ID: 638-69-4462
+Bank: Goodwin and Sons Bank
+Account Number: 3915287169
+Consent Status: Revoked

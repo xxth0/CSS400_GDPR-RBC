@@ -1,0 +1,6 @@
+Customer ID: 8822
+Name: Omar Sullivan
+National ID: 183-76-3778
+Bank: Rogers PLC Bank
+Account Number: 8467341952
+Consent Status: Granted

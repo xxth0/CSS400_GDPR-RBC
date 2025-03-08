@@ -1,0 +1,6 @@
+Customer ID: 587
+Name: Cameron Johnson
+National ID: 336-90-6543
+Bank: Garcia, Hernandez and Harvey Bank
+Account Number: 2020217297
+Consent Status: Revoked

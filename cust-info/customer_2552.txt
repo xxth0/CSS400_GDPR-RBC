@@ -1,0 +1,6 @@
+Customer ID: 2552
+Name: Stephanie Jenkins
+National ID: 366-99-4884
+Bank: Buckley, Norton and Carpenter Bank
+Account Number: 2186728486
+Consent Status: Granted

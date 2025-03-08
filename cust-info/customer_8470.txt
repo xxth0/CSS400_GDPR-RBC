@@ -1,0 +1,6 @@
+Customer ID: 8470
+Name: Matthew Williamson
+National ID: 223-77-4247
+Bank: Compton-Watson Bank
+Account Number: 1831466839
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 570
+Name: Crystal Warren
+National ID: 350-24-6859
+Bank: Torres Group Bank
+Account Number: 6674078571
+Consent Status: Revoked

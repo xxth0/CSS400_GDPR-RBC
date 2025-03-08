@@ -1,0 +1,6 @@
+Customer ID: 8782
+Name: Thomas Scott
+National ID: 489-14-6761
+Bank: Kirby, Ramos and Wilson Bank
+Account Number: 8628522972
+Consent Status: Revoked

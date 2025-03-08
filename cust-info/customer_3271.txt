@@ -1,0 +1,6 @@
+Customer ID: 3271
+Name: Laura Weber
+National ID: 116-67-4787
+Bank: Mcdonald-Edwards Bank
+Account Number: 6579076308
+Consent Status: Granted

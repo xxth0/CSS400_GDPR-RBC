@@ -1,0 +1,6 @@
+Customer ID: 1487
+Name: John Cox
+National ID: 543-99-1933
+Bank: Cherry, Roberts and Rice Bank
+Account Number: 6008428474
+Consent Status: Revoked

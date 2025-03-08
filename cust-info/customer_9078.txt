@@ -1,0 +1,6 @@
+Customer ID: 9078
+Name: Susan Gonzalez
+National ID: 095-70-0151
+Bank: Peterson-Stevens Bank
+Account Number: 9759574533
+Consent Status: Revoked

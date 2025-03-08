@@ -1,0 +1,6 @@
+Customer ID: 977
+Name: Robert Vincent
+National ID: 805-82-4616
+Bank: Lang Ltd Bank
+Account Number: 7410515165
+Consent Status: Revoked

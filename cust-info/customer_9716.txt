@@ -1,0 +1,6 @@
+Customer ID: 9716
+Name: Oscar Jones
+National ID: 733-61-8386
+Bank: Montes-Joyce Bank
+Account Number: 3607837258
+Consent Status: Revoked

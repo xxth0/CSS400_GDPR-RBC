@@ -1,0 +1,6 @@
+Customer ID: 8596
+Name: Justin Walker
+National ID: 148-66-3171
+Bank: Moore-Rios Bank
+Account Number: 7710565745
+Consent Status: Granted

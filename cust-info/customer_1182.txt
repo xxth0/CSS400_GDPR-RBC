@@ -1,0 +1,6 @@
+Customer ID: 1182
+Name: Anthony Reeves
+National ID: 242-51-0242
+Bank: Duncan PLC Bank
+Account Number: 6612250867
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4777
+Name: Janet Salas
+National ID: 099-53-7868
+Bank: Foster, Haley and Donovan Bank
+Account Number: 3435784040
+Consent Status: Granted

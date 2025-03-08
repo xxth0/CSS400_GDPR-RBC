@@ -1,0 +1,6 @@
+Customer ID: 3246
+Name: Jeffery Kramer
+National ID: 025-62-9832
+Bank: Horne Inc Bank
+Account Number: 3870360734
+Consent Status: Revoked

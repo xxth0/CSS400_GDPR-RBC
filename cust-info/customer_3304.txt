@@ -1,0 +1,6 @@
+Customer ID: 3304
+Name: Christine Thomas
+National ID: 446-01-5615
+Bank: Hart, Farrell and Dean Bank
+Account Number: 2651558978
+Consent Status: Revoked

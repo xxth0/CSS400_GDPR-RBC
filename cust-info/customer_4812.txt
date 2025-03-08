@@ -1,0 +1,6 @@
+Customer ID: 4812
+Name: Rebecca Bell
+National ID: 660-47-0614
+Bank: Peterson, Meyers and Graham Bank
+Account Number: 1479662233
+Consent Status: Revoked

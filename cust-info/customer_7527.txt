@@ -1,0 +1,6 @@
+Customer ID: 7527
+Name: Mr. Joshua Williams
+National ID: 029-11-8513
+Bank: Garner, Burton and Sims Bank
+Account Number: 8287915043
+Consent Status: Revoked

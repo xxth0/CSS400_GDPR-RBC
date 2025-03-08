@@ -1,0 +1,6 @@
+Customer ID: 3924
+Name: Jeremy Salinas
+National ID: 802-99-5007
+Bank: Meyer, Barry and Mclean Bank
+Account Number: 3112766470
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2489
+Name: Troy Rice
+National ID: 216-11-0350
+Bank: Maxwell Ltd Bank
+Account Number: 6412294520
+Consent Status: Granted

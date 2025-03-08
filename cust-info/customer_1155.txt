@@ -1,0 +1,6 @@
+Customer ID: 1155
+Name: Anthony Johnson
+National ID: 578-71-1544
+Bank: Turner-Tucker Bank
+Account Number: 2047371992
+Consent Status: Granted

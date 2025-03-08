@@ -1,0 +1,6 @@
+Customer ID: 5676
+Name: Kyle Diaz
+National ID: 812-69-0948
+Bank: Kelly-Nelson Bank
+Account Number: 5386505441
+Consent Status: Granted

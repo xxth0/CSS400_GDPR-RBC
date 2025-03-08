@@ -1,0 +1,6 @@
+Customer ID: 5068
+Name: Robert Harrison
+National ID: 403-59-6212
+Bank: Garcia-Spencer Bank
+Account Number: 3625063248
+Consent Status: Granted

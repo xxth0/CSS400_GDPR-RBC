@@ -1,0 +1,6 @@
+Customer ID: 9220
+Name: Maria Hayes
+National ID: 326-80-8010
+Bank: Zimmerman PLC Bank
+Account Number: 5189964660
+Consent Status: Revoked

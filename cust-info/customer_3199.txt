@@ -1,0 +1,6 @@
+Customer ID: 3199
+Name: Crystal Campbell
+National ID: 454-30-5575
+Bank: White-Simmons Bank
+Account Number: 3372987997
+Consent Status: Revoked

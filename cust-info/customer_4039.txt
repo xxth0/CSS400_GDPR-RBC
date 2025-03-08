@@ -1,0 +1,6 @@
+Customer ID: 4039
+Name: Nathan Olson
+National ID: 813-71-8795
+Bank: Gutierrez PLC Bank
+Account Number: 3198322268
+Consent Status: Revoked

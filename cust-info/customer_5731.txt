@@ -1,0 +1,6 @@
+Customer ID: 5731
+Name: Christine Brooks
+National ID: 641-10-9636
+Bank: Chavez-Young Bank
+Account Number: 6183806368
+Consent Status: Revoked

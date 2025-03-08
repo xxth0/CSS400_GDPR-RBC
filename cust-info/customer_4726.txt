@@ -1,0 +1,6 @@
+Customer ID: 4726
+Name: Angela Long
+National ID: 678-44-6597
+Bank: Silva and Sons Bank
+Account Number: 6608522628
+Consent Status: Revoked

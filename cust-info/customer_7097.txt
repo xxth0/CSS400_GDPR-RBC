@@ -1,0 +1,6 @@
+Customer ID: 7097
+Name: David Thompson
+National ID: 096-54-9615
+Bank: Johnson-Galvan Bank
+Account Number: 1770062399
+Consent Status: Revoked

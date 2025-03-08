@@ -1,0 +1,6 @@
+Customer ID: 4640
+Name: Daniel Diaz
+National ID: 774-30-9761
+Bank: Mcdonald LLC Bank
+Account Number: 8282827761
+Consent Status: Revoked

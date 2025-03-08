@@ -1,0 +1,6 @@
+Customer ID: 6970
+Name: Curtis Lopez
+National ID: 181-57-1318
+Bank: Reed PLC Bank
+Account Number: 9746217313
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9725
+Name: Christina Long
+National ID: 720-42-6409
+Bank: Russell, Rivera and Watson Bank
+Account Number: 7146608184
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5270
+Name: Susan Summers
+National ID: 686-10-4085
+Bank: Mata LLC Bank
+Account Number: 8168873575
+Consent Status: Revoked

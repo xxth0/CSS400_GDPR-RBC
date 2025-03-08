@@ -1,0 +1,6 @@
+Customer ID: 7393
+Name: April Mitchell
+National ID: 278-22-4416
+Bank: Garcia, Gonzalez and West Bank
+Account Number: 9534738397
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9809
+Name: Travis Cobb
+National ID: 531-20-0175
+Bank: Riddle PLC Bank
+Account Number: 5253096120
+Consent Status: Revoked

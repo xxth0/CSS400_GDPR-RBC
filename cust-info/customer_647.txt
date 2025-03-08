@@ -1,0 +1,6 @@
+Customer ID: 647
+Name: Kenneth Riley
+National ID: 521-52-9922
+Bank: Robertson-Davidson Bank
+Account Number: 7736349106
+Consent Status: Granted

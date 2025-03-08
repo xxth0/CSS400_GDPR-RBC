@@ -1,0 +1,6 @@
+Customer ID: 1865
+Name: Brian Perez
+National ID: 787-48-3002
+Bank: Williams Group Bank
+Account Number: 1096707116
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6301
+Name: Hannah Blake
+National ID: 348-12-8673
+Bank: Smith-Jackson Bank
+Account Number: 8307891759
+Consent Status: Revoked

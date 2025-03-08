@@ -1,0 +1,6 @@
+Customer ID: 519
+Name: Maria Sanchez
+National ID: 258-74-6189
+Bank: Odonnell, Jones and Smith Bank
+Account Number: 8053521278
+Consent Status: Granted

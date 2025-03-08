@@ -1,0 +1,6 @@
+Customer ID: 510
+Name: Doris Mcknight
+National ID: 355-84-8252
+Bank: Stuart LLC Bank
+Account Number: 4273964349
+Consent Status: Revoked

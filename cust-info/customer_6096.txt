@@ -1,0 +1,6 @@
+Customer ID: 6096
+Name: Michael Herring
+National ID: 741-02-2749
+Bank: Griffin-Bright Bank
+Account Number: 6610754152
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4846
+Name: David Cox
+National ID: 057-54-6359
+Bank: Zimmerman, Cooper and Le Bank
+Account Number: 6689722575
+Consent Status: Granted

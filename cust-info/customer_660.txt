@@ -1,0 +1,6 @@
+Customer ID: 660
+Name: Joseph Martin
+National ID: 822-56-1901
+Bank: Miles-Bright Bank
+Account Number: 1124400072
+Consent Status: Revoked

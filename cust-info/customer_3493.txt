@@ -1,0 +1,6 @@
+Customer ID: 3493
+Name: Lisa Campbell
+National ID: 480-73-6590
+Bank: Young, Johnson and Smith Bank
+Account Number: 2067081383
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 675
+Name: Antonio Hudson
+National ID: 176-40-2147
+Bank: Wagner-Dickson Bank
+Account Number: 2669310635
+Consent Status: Revoked

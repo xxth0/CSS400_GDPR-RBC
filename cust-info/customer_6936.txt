@@ -1,0 +1,6 @@
+Customer ID: 6936
+Name: Justin Oneill
+National ID: 219-15-3337
+Bank: Barry LLC Bank
+Account Number: 7809762852
+Consent Status: Granted

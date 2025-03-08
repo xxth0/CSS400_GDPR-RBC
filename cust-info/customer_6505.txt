@@ -1,0 +1,6 @@
+Customer ID: 6505
+Name: Kimberly Jackson
+National ID: 851-51-2717
+Bank: Prince Inc Bank
+Account Number: 5627057486
+Consent Status: Revoked

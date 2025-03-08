@@ -1,0 +1,6 @@
+Customer ID: 9282
+Name: Fernando Rasmussen
+National ID: 812-49-3262
+Bank: Young Inc Bank
+Account Number: 5807896381
+Consent Status: Granted

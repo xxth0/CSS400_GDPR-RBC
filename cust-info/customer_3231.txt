@@ -1,0 +1,6 @@
+Customer ID: 3231
+Name: Matthew Perry
+National ID: 136-04-0084
+Bank: Doyle Group Bank
+Account Number: 3701301811
+Consent Status: Revoked

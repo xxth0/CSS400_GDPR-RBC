@@ -1,0 +1,6 @@
+Customer ID: 7015
+Name: Matthew Martinez
+National ID: 882-83-7652
+Bank: Torres-Johnson Bank
+Account Number: 1626584823
+Consent Status: Revoked

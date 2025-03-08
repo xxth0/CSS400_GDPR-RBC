@@ -1,0 +1,6 @@
+Customer ID: 1346
+Name: Charles Wilson
+National ID: 172-69-8509
+Bank: Anderson LLC Bank
+Account Number: 9876662056
+Consent Status: Granted

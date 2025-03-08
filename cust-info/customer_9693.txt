@@ -1,0 +1,6 @@
+Customer ID: 9693
+Name: Christopher Allen
+National ID: 828-84-5879
+Bank: Finley Inc Bank
+Account Number: 6548169966
+Consent Status: Revoked

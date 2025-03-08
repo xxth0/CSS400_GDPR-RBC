@@ -1,0 +1,6 @@
+Customer ID: 5499
+Name: James Reed
+National ID: 003-09-1182
+Bank: Evans and Sons Bank
+Account Number: 1933314492
+Consent Status: Revoked

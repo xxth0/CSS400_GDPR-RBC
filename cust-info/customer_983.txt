@@ -1,0 +1,6 @@
+Customer ID: 983
+Name: Catherine Jacobson
+National ID: 668-84-3897
+Bank: Byrd-Williamson Bank
+Account Number: 9940818685
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3125
+Name: Michelle Smith
+National ID: 156-87-7642
+Bank: Reed, Morgan and Mejia Bank
+Account Number: 3531350158
+Consent Status: Revoked

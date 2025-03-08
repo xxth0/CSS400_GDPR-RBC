@@ -1,0 +1,6 @@
+Customer ID: 1385
+Name: Tina Smith
+National ID: 540-67-0608
+Bank: Watson-Johnson Bank
+Account Number: 4562220567
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7788
+Name: William Koch
+National ID: 172-42-5829
+Bank: Abbott PLC Bank
+Account Number: 2807368945
+Consent Status: Granted

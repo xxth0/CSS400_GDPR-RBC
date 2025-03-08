@@ -1,0 +1,6 @@
+Customer ID: 965
+Name: Lisa Terrell
+National ID: 716-31-6844
+Bank: Johnson Ltd Bank
+Account Number: 6228762016
+Consent Status: Revoked

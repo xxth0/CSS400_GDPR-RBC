@@ -1,0 +1,6 @@
+Customer ID: 315
+Name: Daniel Lawson
+National ID: 238-92-8373
+Bank: Roberson LLC Bank
+Account Number: 6606295432
+Consent Status: Revoked

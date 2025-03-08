@@ -1,0 +1,6 @@
+Customer ID: 4010
+Name: Sarah Gibson
+National ID: 811-53-9404
+Bank: Ross, Ramos and Johnson Bank
+Account Number: 3475223533
+Consent Status: Granted

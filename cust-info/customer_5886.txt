@@ -1,0 +1,6 @@
+Customer ID: 5886
+Name: Michelle Zavala
+National ID: 425-66-5355
+Bank: Garcia-Stephenson Bank
+Account Number: 7316156152
+Consent Status: Granted

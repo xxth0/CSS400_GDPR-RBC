@@ -1,0 +1,6 @@
+Customer ID: 8609
+Name: Phillip Copeland
+National ID: 454-62-5688
+Bank: Avila, Phillips and Larson Bank
+Account Number: 1475514410
+Consent Status: Revoked

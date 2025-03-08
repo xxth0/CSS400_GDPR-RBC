@@ -1,0 +1,6 @@
+Customer ID: 2952
+Name: Sean Walker
+National ID: 226-86-0870
+Bank: Sims Group Bank
+Account Number: 4098065093
+Consent Status: Granted

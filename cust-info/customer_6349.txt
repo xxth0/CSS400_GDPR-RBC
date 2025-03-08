@@ -1,0 +1,6 @@
+Customer ID: 6349
+Name: Michael Macdonald MD
+National ID: 387-88-5312
+Bank: Perkins LLC Bank
+Account Number: 1384490922
+Consent Status: Granted

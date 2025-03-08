@@ -1,0 +1,6 @@
+Customer ID: 8547
+Name: James Lambert
+National ID: 742-17-7661
+Bank: Hill-Higgins Bank
+Account Number: 9552183364
+Consent Status: Granted

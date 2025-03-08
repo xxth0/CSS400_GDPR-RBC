@@ -1,0 +1,6 @@
+Customer ID: 4586
+Name: Chad Walker
+National ID: 508-91-9337
+Bank: Wade, Poole and Casey Bank
+Account Number: 3522780732
+Consent Status: Granted

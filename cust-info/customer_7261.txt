@@ -1,0 +1,6 @@
+Customer ID: 7261
+Name: Sara Williams
+National ID: 220-83-2228
+Bank: Williams-Lewis Bank
+Account Number: 1812036825
+Consent Status: Revoked

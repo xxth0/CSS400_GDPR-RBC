@@ -1,0 +1,6 @@
+Customer ID: 8184
+Name: Brooke Watson
+National ID: 450-22-9339
+Bank: Ward PLC Bank
+Account Number: 5368615895
+Consent Status: Granted

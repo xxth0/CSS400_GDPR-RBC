@@ -1,0 +1,6 @@
+Customer ID: 9244
+Name: Taylor Gross
+National ID: 799-72-3640
+Bank: Chandler, Acevedo and Payne Bank
+Account Number: 2664228285
+Consent Status: Revoked

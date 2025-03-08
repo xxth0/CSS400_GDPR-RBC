@@ -1,0 +1,6 @@
+Customer ID: 1502
+Name: Julie Ryan
+National ID: 487-10-6669
+Bank: Knapp Inc Bank
+Account Number: 5017175185
+Consent Status: Granted

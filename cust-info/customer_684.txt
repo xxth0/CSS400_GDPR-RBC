@@ -1,0 +1,6 @@
+Customer ID: 684
+Name: Ethan Smith
+National ID: 356-81-9560
+Bank: Hobbs, Young and Schmitt Bank
+Account Number: 2287843807
+Consent Status: Granted

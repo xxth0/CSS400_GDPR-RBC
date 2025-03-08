@@ -1,0 +1,6 @@
+Customer ID: 8036
+Name: Victoria Diaz
+National ID: 066-78-8820
+Bank: Zimmerman, Crawford and Page Bank
+Account Number: 8210591406
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1716
+Name: Charles Davis
+National ID: 841-05-4331
+Bank: Dominguez-Thomas Bank
+Account Number: 4029059114
+Consent Status: Revoked

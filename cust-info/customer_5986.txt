@@ -1,0 +1,6 @@
+Customer ID: 5986
+Name: Elizabeth Jones
+National ID: 853-48-0556
+Bank: Grimes-Peterson Bank
+Account Number: 8129243557
+Consent Status: Granted

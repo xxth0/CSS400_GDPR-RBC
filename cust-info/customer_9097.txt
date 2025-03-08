@@ -1,0 +1,6 @@
+Customer ID: 9097
+Name: Lisa Schmidt
+National ID: 271-91-7515
+Bank: Gamble Group Bank
+Account Number: 5650135106
+Consent Status: Revoked

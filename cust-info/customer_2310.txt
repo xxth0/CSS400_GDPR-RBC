@@ -1,0 +1,6 @@
+Customer ID: 2310
+Name: Benjamin Carter
+National ID: 498-09-5792
+Bank: Mcgrath Inc Bank
+Account Number: 5722857378
+Consent Status: Granted

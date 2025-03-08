@@ -1,0 +1,6 @@
+Customer ID: 4544
+Name: Donald Shepard
+National ID: 521-88-4953
+Bank: Burke-Thompson Bank
+Account Number: 7495257945
+Consent Status: Granted

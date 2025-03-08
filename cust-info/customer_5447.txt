@@ -1,0 +1,6 @@
+Customer ID: 5447
+Name: Meredith Schultz
+National ID: 571-56-9864
+Bank: Hendrix, Carroll and Franco Bank
+Account Number: 7208883210
+Consent Status: Granted

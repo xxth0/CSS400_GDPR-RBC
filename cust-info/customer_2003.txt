@@ -1,0 +1,6 @@
+Customer ID: 2003
+Name: Jean Ramirez
+National ID: 341-35-4768
+Bank: Rowe PLC Bank
+Account Number: 7306968619
+Consent Status: Granted

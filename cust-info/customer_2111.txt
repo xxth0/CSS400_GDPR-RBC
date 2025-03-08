@@ -1,0 +1,6 @@
+Customer ID: 2111
+Name: Heather Vaughan
+National ID: 569-64-9459
+Bank: Mann-Perry Bank
+Account Number: 5591893122
+Consent Status: Revoked

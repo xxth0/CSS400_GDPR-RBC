@@ -1,0 +1,6 @@
+Customer ID: 1682
+Name: Kara Rogers
+National ID: 193-76-1915
+Bank: Anderson, Clayton and Walker Bank
+Account Number: 8160966404
+Consent Status: Granted

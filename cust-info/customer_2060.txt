@@ -1,0 +1,6 @@
+Customer ID: 2060
+Name: Kenneth Francis
+National ID: 156-74-4061
+Bank: Davis, Roy and Kaiser Bank
+Account Number: 3242003165
+Consent Status: Revoked

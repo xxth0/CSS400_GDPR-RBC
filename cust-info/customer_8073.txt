@@ -1,0 +1,6 @@
+Customer ID: 8073
+Name: Daniel Villanueva
+National ID: 157-14-5493
+Bank: Dorsey and Sons Bank
+Account Number: 7272950679
+Consent Status: Granted

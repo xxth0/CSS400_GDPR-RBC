@@ -1,0 +1,6 @@
+Customer ID: 4445
+Name: Emily Sanders
+National ID: 280-04-0199
+Bank: Ross Group Bank
+Account Number: 1088173107
+Consent Status: Revoked

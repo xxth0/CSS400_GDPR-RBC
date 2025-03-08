@@ -1,0 +1,6 @@
+Customer ID: 1277
+Name: Joshua Williams
+National ID: 669-56-2851
+Bank: Wagner-Nelson Bank
+Account Number: 6953660366
+Consent Status: Granted

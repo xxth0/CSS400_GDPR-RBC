@@ -1,0 +1,6 @@
+Customer ID: 9659
+Name: Michael Johnson
+National ID: 044-70-3378
+Bank: Lee, Cole and Ingram Bank
+Account Number: 9592064820
+Consent Status: Granted

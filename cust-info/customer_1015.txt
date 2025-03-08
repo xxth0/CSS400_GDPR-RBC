@@ -1,0 +1,6 @@
+Customer ID: 1015
+Name: Dr. Gerald Wiggins
+National ID: 052-99-0392
+Bank: Valenzuela, Marquez and Park Bank
+Account Number: 4159895953
+Consent Status: Revoked

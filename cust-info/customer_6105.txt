@@ -1,0 +1,6 @@
+Customer ID: 6105
+Name: Dr. Gregory Solis IV
+National ID: 512-56-6503
+Bank: Cervantes, Rivera and Macias Bank
+Account Number: 1488416687
+Consent Status: Granted

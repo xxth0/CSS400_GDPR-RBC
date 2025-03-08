@@ -1,0 +1,6 @@
+Customer ID: 381
+Name: Margaret Rivera
+National ID: 197-02-3244
+Bank: Jackson-Brewer Bank
+Account Number: 6133091690
+Consent Status: Granted

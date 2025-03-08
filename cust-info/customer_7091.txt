@@ -1,0 +1,6 @@
+Customer ID: 7091
+Name: Joseph Kramer
+National ID: 054-86-3628
+Bank: Pearson, Harper and Davis Bank
+Account Number: 2336321598
+Consent Status: Granted

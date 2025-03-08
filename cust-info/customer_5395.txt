@@ -1,0 +1,6 @@
+Customer ID: 5395
+Name: Robert Wood
+National ID: 473-50-7571
+Bank: Burns Group Bank
+Account Number: 8229601313
+Consent Status: Revoked

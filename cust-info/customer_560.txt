@@ -1,0 +1,6 @@
+Customer ID: 560
+Name: Jesse Banks
+National ID: 258-13-9725
+Bank: Mcdonald, Hawkins and Dixon Bank
+Account Number: 3794313856
+Consent Status: Granted

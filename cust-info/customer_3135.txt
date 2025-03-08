@@ -1,0 +1,6 @@
+Customer ID: 3135
+Name: Beth Collins
+National ID: 893-63-4238
+Bank: Stokes-Davenport Bank
+Account Number: 8803822194
+Consent Status: Revoked

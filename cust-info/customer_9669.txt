@@ -1,0 +1,6 @@
+Customer ID: 9669
+Name: Kara Lane
+National ID: 790-34-9228
+Bank: Williams-Coleman Bank
+Account Number: 2078814873
+Consent Status: Revoked

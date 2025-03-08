@@ -1,0 +1,6 @@
+Customer ID: 2824
+Name: Carl Smith
+National ID: 461-30-3534
+Bank: Serrano and Sons Bank
+Account Number: 4909377126
+Consent Status: Granted

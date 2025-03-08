@@ -1,0 +1,6 @@
+Customer ID: 2420
+Name: Robert Preston
+National ID: 799-31-4472
+Bank: Salas Ltd Bank
+Account Number: 2235750441
+Consent Status: Revoked

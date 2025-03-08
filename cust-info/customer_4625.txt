@@ -1,0 +1,6 @@
+Customer ID: 4625
+Name: Robin Stafford
+National ID: 678-33-5058
+Bank: Griffin Inc Bank
+Account Number: 7668111155
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4659
+Name: Rachael Gibson
+National ID: 638-64-1100
+Bank: Jenkins and Sons Bank
+Account Number: 7858589721
+Consent Status: Granted

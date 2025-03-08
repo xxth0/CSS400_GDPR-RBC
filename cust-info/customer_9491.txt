@@ -1,0 +1,6 @@
+Customer ID: 9491
+Name: Taylor Raymond
+National ID: 429-60-4879
+Bank: Hunt-Patel Bank
+Account Number: 2898898325
+Consent Status: Granted

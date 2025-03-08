@@ -1,0 +1,6 @@
+Customer ID: 9504
+Name: Audrey Jensen
+National ID: 365-03-5150
+Bank: Robinson, Riley and Williams Bank
+Account Number: 3243750048
+Consent Status: Granted

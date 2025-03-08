@@ -1,0 +1,6 @@
+Customer ID: 2268
+Name: April Wiley
+National ID: 750-86-1993
+Bank: Maldonado, Watson and Nelson Bank
+Account Number: 7778754638
+Consent Status: Granted

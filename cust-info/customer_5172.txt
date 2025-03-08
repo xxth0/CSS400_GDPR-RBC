@@ -1,0 +1,6 @@
+Customer ID: 5172
+Name: Justin Hughes
+National ID: 777-70-0804
+Bank: Herrera-Stewart Bank
+Account Number: 1588179236
+Consent Status: Revoked

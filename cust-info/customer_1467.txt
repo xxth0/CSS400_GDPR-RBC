@@ -1,0 +1,6 @@
+Customer ID: 1467
+Name: Marissa Maynard
+National ID: 596-08-0262
+Bank: Black-Jefferson Bank
+Account Number: 7917007637
+Consent Status: Revoked

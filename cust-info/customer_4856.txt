@@ -1,0 +1,6 @@
+Customer ID: 4856
+Name: James Barnes
+National ID: 575-95-7362
+Bank: Ramirez Group Bank
+Account Number: 4793421783
+Consent Status: Revoked

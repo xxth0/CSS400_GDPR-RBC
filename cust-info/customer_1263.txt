@@ -1,0 +1,6 @@
+Customer ID: 1263
+Name: Jonathan Garcia
+National ID: 244-66-9090
+Bank: Green Inc Bank
+Account Number: 5103363428
+Consent Status: Revoked

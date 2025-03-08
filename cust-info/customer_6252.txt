@@ -1,0 +1,6 @@
+Customer ID: 6252
+Name: Craig Jenkins
+National ID: 874-57-9452
+Bank: Thomas, Holloway and Jennings Bank
+Account Number: 6150084210
+Consent Status: Granted

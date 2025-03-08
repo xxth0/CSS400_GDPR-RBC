@@ -1,0 +1,6 @@
+Customer ID: 7482
+Name: Timothy Reed
+National ID: 203-52-4220
+Bank: Johnson, Knight and Hernandez Bank
+Account Number: 8222338872
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8320
+Name: Anthony Barnett
+National ID: 630-06-4517
+Bank: Roberts-Ingram Bank
+Account Number: 8258162847
+Consent Status: Revoked

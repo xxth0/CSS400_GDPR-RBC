@@ -1,0 +1,6 @@
+Customer ID: 9736
+Name: Summer Chen
+National ID: 034-33-6713
+Bank: Jones, Fleming and Gibson Bank
+Account Number: 2877099769
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1312
+Name: Jennifer Howell
+National ID: 665-19-4028
+Bank: King Ltd Bank
+Account Number: 4576468558
+Consent Status: Granted

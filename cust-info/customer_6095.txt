@@ -1,0 +1,6 @@
+Customer ID: 6095
+Name: Tracy Hernandez
+National ID: 297-49-2622
+Bank: Sullivan, Barrera and Contreras Bank
+Account Number: 1692544431
+Consent Status: Revoked

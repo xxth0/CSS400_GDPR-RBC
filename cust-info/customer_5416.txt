@@ -1,0 +1,6 @@
+Customer ID: 5416
+Name: Barbara Ball
+National ID: 851-40-9934
+Bank: Irwin Group Bank
+Account Number: 4790078295
+Consent Status: Revoked

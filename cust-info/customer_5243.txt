@@ -1,0 +1,6 @@
+Customer ID: 5243
+Name: Amber Brown
+National ID: 363-49-3277
+Bank: Rowland-Jones Bank
+Account Number: 6746722824
+Consent Status: Granted

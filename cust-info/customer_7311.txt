@@ -1,0 +1,6 @@
+Customer ID: 7311
+Name: Tyler Harding
+National ID: 205-57-2387
+Bank: Duncan-Holloway Bank
+Account Number: 4824550857
+Consent Status: Revoked

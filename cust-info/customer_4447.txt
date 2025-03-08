@@ -1,0 +1,6 @@
+Customer ID: 4447
+Name: Shawn Harper
+National ID: 808-10-8141
+Bank: Walker-Baldwin Bank
+Account Number: 9891474741
+Consent Status: Revoked

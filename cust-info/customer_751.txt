@@ -1,0 +1,6 @@
+Customer ID: 751
+Name: Robert Roy
+National ID: 307-88-7574
+Bank: Fuentes Ltd Bank
+Account Number: 6365057379
+Consent Status: Revoked

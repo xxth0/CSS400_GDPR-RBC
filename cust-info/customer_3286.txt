@@ -1,0 +1,6 @@
+Customer ID: 3286
+Name: Tammy Andersen
+National ID: 060-28-0331
+Bank: Thomas-Hammond Bank
+Account Number: 7170945589
+Consent Status: Granted

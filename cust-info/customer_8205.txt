@@ -1,0 +1,6 @@
+Customer ID: 8205
+Name: Andrea Compton
+National ID: 199-01-5094
+Bank: Ferguson-Everett Bank
+Account Number: 1314173685
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7201
+Name: David Guzman
+National ID: 561-83-3235
+Bank: Miller-Andrews Bank
+Account Number: 8898084121
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8051
+Name: Jeremy Hall
+National ID: 565-66-9590
+Bank: Clark-Lane Bank
+Account Number: 8870286090
+Consent Status: Granted

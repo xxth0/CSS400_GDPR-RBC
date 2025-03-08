@@ -1,0 +1,6 @@
+Customer ID: 792
+Name: Valerie James
+National ID: 663-38-9882
+Bank: Wells, Aguilar and Bell Bank
+Account Number: 4301766938
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1420
+Name: Mary Mendoza
+National ID: 775-54-0418
+Bank: Lopez, Wilkins and Miller Bank
+Account Number: 8533653942
+Consent Status: Granted

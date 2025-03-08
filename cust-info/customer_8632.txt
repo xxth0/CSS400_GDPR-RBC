@@ -1,0 +1,6 @@
+Customer ID: 8632
+Name: Joel Smith
+National ID: 423-93-0631
+Bank: Hartman-Perez Bank
+Account Number: 9859213466
+Consent Status: Granted

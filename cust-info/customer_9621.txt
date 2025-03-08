@@ -1,0 +1,6 @@
+Customer ID: 9621
+Name: Wayne Ramos
+National ID: 166-99-8553
+Bank: Bell, Gomez and Herring Bank
+Account Number: 3763410709
+Consent Status: Revoked

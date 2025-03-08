@@ -1,0 +1,6 @@
+Customer ID: 411
+Name: Robert Garcia
+National ID: 213-47-9933
+Bank: Wilson-Perez Bank
+Account Number: 6229118392
+Consent Status: Revoked

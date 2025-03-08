@@ -1,0 +1,6 @@
+Customer ID: 9705
+Name: Joseph Kramer
+National ID: 302-48-0018
+Bank: Perez Ltd Bank
+Account Number: 4961858215
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2890
+Name: Marie Armstrong
+National ID: 159-28-0654
+Bank: Huynh and Sons Bank
+Account Number: 7901572510
+Consent Status: Revoked

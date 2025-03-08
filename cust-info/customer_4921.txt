@@ -1,0 +1,6 @@
+Customer ID: 4921
+Name: John Le
+National ID: 554-90-9688
+Bank: Walls Group Bank
+Account Number: 9763146550
+Consent Status: Granted

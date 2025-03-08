@@ -1,0 +1,6 @@
+Customer ID: 775
+Name: Michael Douglas
+National ID: 769-75-3210
+Bank: Perry PLC Bank
+Account Number: 4910630796
+Consent Status: Granted

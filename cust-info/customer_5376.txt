@@ -1,0 +1,6 @@
+Customer ID: 5376
+Name: Jack Ruiz
+National ID: 207-54-2192
+Bank: Vasquez-Rivers Bank
+Account Number: 1864777309
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9492
+Name: Ricky Reyes
+National ID: 456-93-6018
+Bank: King-Thornton Bank
+Account Number: 2013058294
+Consent Status: Revoked

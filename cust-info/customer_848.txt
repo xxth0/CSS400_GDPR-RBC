@@ -1,0 +1,6 @@
+Customer ID: 848
+Name: Natasha Guerrero
+National ID: 789-77-0197
+Bank: Carrillo, Curtis and Kennedy Bank
+Account Number: 7875697331
+Consent Status: Revoked

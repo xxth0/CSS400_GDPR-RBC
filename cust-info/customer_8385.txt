@@ -1,0 +1,6 @@
+Customer ID: 8385
+Name: Glen Lopez
+National ID: 117-88-1899
+Bank: Williams, Dudley and Garcia Bank
+Account Number: 1332719131
+Consent Status: Granted

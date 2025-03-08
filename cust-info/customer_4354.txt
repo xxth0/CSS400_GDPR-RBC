@@ -1,0 +1,6 @@
+Customer ID: 4354
+Name: Ashlee Ross
+National ID: 878-20-9727
+Bank: Murphy-Miller Bank
+Account Number: 3401817063
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3770
+Name: Elizabeth Smith
+National ID: 559-47-1833
+Bank: Martinez LLC Bank
+Account Number: 9250963600
+Consent Status: Granted

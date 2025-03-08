@@ -1,0 +1,6 @@
+Customer ID: 1222
+Name: Chelsea Gonzalez
+National ID: 852-17-6609
+Bank: Hall-White Bank
+Account Number: 9497016238
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8038
+Name: Steven Fowler
+National ID: 385-54-4610
+Bank: Acevedo PLC Bank
+Account Number: 6893944854
+Consent Status: Granted

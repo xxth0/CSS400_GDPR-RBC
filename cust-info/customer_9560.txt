@@ -1,0 +1,6 @@
+Customer ID: 9560
+Name: Wendy Garcia
+National ID: 640-43-4147
+Bank: Delgado-Kelley Bank
+Account Number: 6001389590
+Consent Status: Granted

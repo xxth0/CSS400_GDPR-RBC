@@ -1,0 +1,6 @@
+Customer ID: 1068
+Name: Peter Cole
+National ID: 716-08-1431
+Bank: Williams, Pace and Davidson Bank
+Account Number: 7768661944
+Consent Status: Granted

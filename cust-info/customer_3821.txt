@@ -1,0 +1,6 @@
+Customer ID: 3821
+Name: Todd Lara
+National ID: 018-65-7217
+Bank: Jackson, Fisher and Mcdonald Bank
+Account Number: 3782847802
+Consent Status: Granted

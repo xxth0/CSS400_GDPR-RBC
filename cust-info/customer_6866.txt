@@ -1,0 +1,6 @@
+Customer ID: 6866
+Name: Miguel Crawford
+National ID: 577-88-6056
+Bank: Fitzpatrick, Taylor and Kirby Bank
+Account Number: 4538241030
+Consent Status: Granted

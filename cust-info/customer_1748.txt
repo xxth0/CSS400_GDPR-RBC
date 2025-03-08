@@ -1,0 +1,6 @@
+Customer ID: 1748
+Name: Brenda Hayes
+National ID: 720-21-8320
+Bank: Pierce-Richard Bank
+Account Number: 4368404987
+Consent Status: Granted

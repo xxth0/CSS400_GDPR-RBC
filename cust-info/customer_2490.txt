@@ -1,0 +1,6 @@
+Customer ID: 2490
+Name: Robert Harris
+National ID: 878-88-0184
+Bank: Ali and Sons Bank
+Account Number: 3363776183
+Consent Status: Revoked

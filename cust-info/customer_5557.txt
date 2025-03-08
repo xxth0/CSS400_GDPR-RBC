@@ -1,0 +1,6 @@
+Customer ID: 5557
+Name: Justin Rogers
+National ID: 105-86-3197
+Bank: Powell-Gill Bank
+Account Number: 9382540359
+Consent Status: Revoked

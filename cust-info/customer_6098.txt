@@ -1,0 +1,6 @@
+Customer ID: 6098
+Name: Desiree Khan
+National ID: 701-87-5134
+Bank: Paul Ltd Bank
+Account Number: 6433497588
+Consent Status: Granted

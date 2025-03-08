@@ -1,0 +1,6 @@
+Customer ID: 7132
+Name: Eric Ortiz
+National ID: 889-13-1290
+Bank: Graham-Cantu Bank
+Account Number: 6787083495
+Consent Status: Revoked

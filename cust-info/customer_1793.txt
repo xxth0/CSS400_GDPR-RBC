@@ -1,0 +1,6 @@
+Customer ID: 1793
+Name: Benjamin Smith
+National ID: 672-02-4559
+Bank: Molina and Sons Bank
+Account Number: 2514722686
+Consent Status: Granted

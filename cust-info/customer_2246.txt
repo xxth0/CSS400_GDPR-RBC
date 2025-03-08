@@ -1,0 +1,6 @@
+Customer ID: 2246
+Name: Morgan Brown
+National ID: 476-10-1521
+Bank: Richards-Gray Bank
+Account Number: 7241372298
+Consent Status: Granted

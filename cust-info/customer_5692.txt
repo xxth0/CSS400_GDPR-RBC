@@ -1,0 +1,6 @@
+Customer ID: 5692
+Name: Lori Green
+National ID: 148-49-7177
+Bank: Griffin, Lewis and Taylor Bank
+Account Number: 3851917787
+Consent Status: Revoked

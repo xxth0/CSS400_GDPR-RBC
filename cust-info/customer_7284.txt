@@ -1,0 +1,6 @@
+Customer ID: 7284
+Name: Ashley Cox
+National ID: 452-76-8706
+Bank: Rodriguez-Gould Bank
+Account Number: 8961330166
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6181
+Name: Heather Wells
+National ID: 723-76-5439
+Bank: Garcia-Morgan Bank
+Account Number: 1386987590
+Consent Status: Granted

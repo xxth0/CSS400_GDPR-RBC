@@ -1,0 +1,6 @@
+Customer ID: 8725
+Name: Jennifer Goodman
+National ID: 468-34-2253
+Bank: Wolfe-Johnson Bank
+Account Number: 9052313938
+Consent Status: Revoked

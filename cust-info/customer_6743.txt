@@ -1,0 +1,6 @@
+Customer ID: 6743
+Name: Darius Martinez Jr.
+National ID: 307-05-9594
+Bank: Huffman and Sons Bank
+Account Number: 3839326579
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 366
+Name: Michael Martinez
+National ID: 124-49-7232
+Bank: Grimes-Zuniga Bank
+Account Number: 3392482022
+Consent Status: Granted

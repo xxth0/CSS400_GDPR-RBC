@@ -1,0 +1,6 @@
+Customer ID: 7242
+Name: Claire Montoya
+National ID: 150-43-0637
+Bank: Johns Group Bank
+Account Number: 1942211746
+Consent Status: Granted

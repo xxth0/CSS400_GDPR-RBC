@@ -1,0 +1,6 @@
+Customer ID: 2602
+Name: Richard Curry
+National ID: 344-75-4826
+Bank: Nelson Ltd Bank
+Account Number: 2509843325
+Consent Status: Revoked

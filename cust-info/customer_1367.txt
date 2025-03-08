@@ -1,0 +1,6 @@
+Customer ID: 1367
+Name: Craig Gonzalez
+National ID: 394-71-1239
+Bank: Dennis, Nelson and Collins Bank
+Account Number: 7173989565
+Consent Status: Granted

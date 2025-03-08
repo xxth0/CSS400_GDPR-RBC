@@ -1,0 +1,6 @@
+Customer ID: 3862
+Name: Collin Roth
+National ID: 895-08-8043
+Bank: Gilbert-Richardson Bank
+Account Number: 1013921212
+Consent Status: Granted

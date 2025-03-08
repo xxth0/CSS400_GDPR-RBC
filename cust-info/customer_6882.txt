@@ -1,0 +1,6 @@
+Customer ID: 6882
+Name: Brian Barnes
+National ID: 576-54-8004
+Bank: Flores-Howe Bank
+Account Number: 7632167418
+Consent Status: Granted

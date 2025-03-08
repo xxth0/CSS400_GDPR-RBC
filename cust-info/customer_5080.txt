@@ -1,0 +1,6 @@
+Customer ID: 5080
+Name: Bryan Leonard
+National ID: 675-64-3107
+Bank: Murillo, Wright and Floyd Bank
+Account Number: 1464300419
+Consent Status: Granted

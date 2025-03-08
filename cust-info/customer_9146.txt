@@ -1,0 +1,6 @@
+Customer ID: 9146
+Name: Christopher Price
+National ID: 248-76-8403
+Bank: Campos, Estes and Jones Bank
+Account Number: 7707244800
+Consent Status: Revoked

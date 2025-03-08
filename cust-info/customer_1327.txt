@@ -1,0 +1,6 @@
+Customer ID: 1327
+Name: Hunter Hendricks
+National ID: 352-10-8827
+Bank: Navarro-Williams Bank
+Account Number: 1292226918
+Consent Status: Revoked

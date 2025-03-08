@@ -1,0 +1,6 @@
+Customer ID: 9611
+Name: Lindsey Mcbride
+National ID: 010-29-5034
+Bank: Christensen-Conrad Bank
+Account Number: 6200288356
+Consent Status: Granted

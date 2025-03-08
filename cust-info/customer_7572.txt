@@ -1,0 +1,6 @@
+Customer ID: 7572
+Name: James Williams
+National ID: 029-66-1748
+Bank: Ellis PLC Bank
+Account Number: 5307205610
+Consent Status: Granted

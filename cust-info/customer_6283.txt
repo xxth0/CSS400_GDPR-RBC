@@ -1,0 +1,6 @@
+Customer ID: 6283
+Name: Laura Garcia
+National ID: 459-20-6003
+Bank: Marshall, Herrera and Ferguson Bank
+Account Number: 8364261763
+Consent Status: Revoked

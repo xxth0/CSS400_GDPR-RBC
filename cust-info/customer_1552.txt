@@ -1,0 +1,6 @@
+Customer ID: 1552
+Name: William Gonzales
+National ID: 557-55-2671
+Bank: Cooper-Smith Bank
+Account Number: 8450326331
+Consent Status: Revoked

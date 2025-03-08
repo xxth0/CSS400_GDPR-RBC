@@ -1,0 +1,6 @@
+Customer ID: 7844
+Name: Bill Mejia
+National ID: 091-13-4586
+Bank: Perry Group Bank
+Account Number: 3313897429
+Consent Status: Granted

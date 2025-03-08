@@ -1,0 +1,6 @@
+Customer ID: 9133
+Name: David Castro DDS
+National ID: 874-49-3753
+Bank: Lee and Sons Bank
+Account Number: 9400911850
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6395
+Name: Jamie Lopez
+National ID: 846-18-6979
+Bank: Simmons Ltd Bank
+Account Number: 2739232693
+Consent Status: Granted

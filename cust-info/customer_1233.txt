@@ -1,0 +1,6 @@
+Customer ID: 1233
+Name: Mrs. Patricia Arias DDS
+National ID: 859-73-5589
+Bank: Smith and Sons Bank
+Account Number: 9882063742
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1913
+Name: Brianna May
+National ID: 870-81-4396
+Bank: Gray-White Bank
+Account Number: 4045903777
+Consent Status: Granted

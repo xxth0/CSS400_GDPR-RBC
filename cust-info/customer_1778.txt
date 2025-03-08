@@ -1,0 +1,6 @@
+Customer ID: 1778
+Name: Amy Blackwell
+National ID: 813-46-1988
+Bank: Wood-Simpson Bank
+Account Number: 3481516500
+Consent Status: Revoked

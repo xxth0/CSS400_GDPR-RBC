@@ -1,0 +1,6 @@
+Customer ID: 7010
+Name: James Baker
+National ID: 035-72-3573
+Bank: Coleman, Arnold and Sanders Bank
+Account Number: 4280863722
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9307
+Name: Theresa Alvarez
+National ID: 820-07-3241
+Bank: Jones-West Bank
+Account Number: 7467074777
+Consent Status: Revoked

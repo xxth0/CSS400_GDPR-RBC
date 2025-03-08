@@ -1,0 +1,6 @@
+Customer ID: 8182
+Name: Kelly Mccarthy
+National ID: 363-11-5749
+Bank: Strickland Inc Bank
+Account Number: 4055555807
+Consent Status: Revoked

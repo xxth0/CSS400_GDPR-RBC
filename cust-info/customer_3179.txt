@@ -1,0 +1,6 @@
+Customer ID: 3179
+Name: Stuart Beck
+National ID: 776-33-2105
+Bank: Rubio, Rodriguez and Myers Bank
+Account Number: 8922911794
+Consent Status: Revoked

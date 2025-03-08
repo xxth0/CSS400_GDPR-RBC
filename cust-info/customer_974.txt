@@ -1,0 +1,6 @@
+Customer ID: 974
+Name: Dr. Roy Adams
+National ID: 749-67-6587
+Bank: Bishop Group Bank
+Account Number: 4635470756
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 841
+Name: Rachel Rush
+National ID: 169-80-9057
+Bank: Chase Group Bank
+Account Number: 2050385814
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7492
+Name: Jason Rice
+National ID: 305-37-2999
+Bank: Winters-Ramirez Bank
+Account Number: 5945777477
+Consent Status: Revoked

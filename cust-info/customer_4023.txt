@@ -1,0 +1,6 @@
+Customer ID: 4023
+Name: Danielle Bailey
+National ID: 121-21-8232
+Bank: Ortiz, White and Mccormick Bank
+Account Number: 5509624078
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5216
+Name: Kevin Griffith
+National ID: 581-77-8661
+Bank: Bolton-May Bank
+Account Number: 9585369671
+Consent Status: Revoked

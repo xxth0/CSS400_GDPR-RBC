@@ -1,0 +1,6 @@
+Customer ID: 5082
+Name: Catherine Rivera
+National ID: 578-10-4854
+Bank: Alvarez-Adkins Bank
+Account Number: 7910541453
+Consent Status: Revoked

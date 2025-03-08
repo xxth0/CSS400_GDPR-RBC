@@ -1,0 +1,6 @@
+Customer ID: 4938
+Name: Angela Baker
+National ID: 238-58-2401
+Bank: Pham, Gordon and Ortiz Bank
+Account Number: 5397545400
+Consent Status: Revoked

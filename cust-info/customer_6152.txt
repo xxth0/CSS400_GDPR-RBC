@@ -1,0 +1,6 @@
+Customer ID: 6152
+Name: Frederick Sheppard
+National ID: 601-12-5209
+Bank: Rodgers, Casey and Cooper Bank
+Account Number: 1699046182
+Consent Status: Revoked

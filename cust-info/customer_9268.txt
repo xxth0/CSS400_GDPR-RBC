@@ -1,0 +1,6 @@
+Customer ID: 9268
+Name: Erin Walker
+National ID: 054-07-7995
+Bank: Stewart-Smith Bank
+Account Number: 2339048765
+Consent Status: Granted

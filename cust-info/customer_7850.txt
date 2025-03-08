@@ -1,0 +1,6 @@
+Customer ID: 7850
+Name: Ryan Porter
+National ID: 219-13-4269
+Bank: Weeks, Holt and Brewer Bank
+Account Number: 8261731129
+Consent Status: Granted

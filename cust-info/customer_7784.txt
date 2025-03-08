@@ -1,0 +1,6 @@
+Customer ID: 7784
+Name: Jonathan Thomas
+National ID: 126-69-6300
+Bank: Green-Schultz Bank
+Account Number: 3079339529
+Consent Status: Granted

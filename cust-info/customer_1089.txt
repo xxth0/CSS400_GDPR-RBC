@@ -1,0 +1,6 @@
+Customer ID: 1089
+Name: Joseph Liu
+National ID: 360-12-4421
+Bank: Adams Ltd Bank
+Account Number: 7815730838
+Consent Status: Granted

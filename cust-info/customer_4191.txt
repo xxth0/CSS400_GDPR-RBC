@@ -1,0 +1,6 @@
+Customer ID: 4191
+Name: Jennifer Smith
+National ID: 837-29-7718
+Bank: Brown LLC Bank
+Account Number: 6181530594
+Consent Status: Revoked

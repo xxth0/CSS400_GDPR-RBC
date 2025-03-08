@@ -1,0 +1,6 @@
+Customer ID: 7443
+Name: Katherine Dillon
+National ID: 647-76-0855
+Bank: Flores and Sons Bank
+Account Number: 3977715224
+Consent Status: Revoked

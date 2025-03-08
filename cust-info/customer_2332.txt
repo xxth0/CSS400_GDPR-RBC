@@ -1,0 +1,6 @@
+Customer ID: 2332
+Name: Amanda Moyer
+National ID: 863-66-4542
+Bank: Silva, Hayes and Hansen Bank
+Account Number: 4783792500
+Consent Status: Revoked

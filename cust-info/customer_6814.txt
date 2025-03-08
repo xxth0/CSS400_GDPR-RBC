@@ -1,0 +1,6 @@
+Customer ID: 6814
+Name: Ashley Buckley
+National ID: 389-49-6094
+Bank: Smith, Lopez and Walsh Bank
+Account Number: 7818018680
+Consent Status: Revoked

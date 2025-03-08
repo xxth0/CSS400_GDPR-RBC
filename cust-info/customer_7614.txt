@@ -1,0 +1,6 @@
+Customer ID: 7614
+Name: Andrew Adams
+National ID: 455-16-8197
+Bank: Griffin Ltd Bank
+Account Number: 6157639528
+Consent Status: Revoked

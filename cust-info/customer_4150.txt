@@ -1,0 +1,6 @@
+Customer ID: 4150
+Name: Robert Maxwell
+National ID: 589-06-8871
+Bank: Daniel LLC Bank
+Account Number: 8661195604
+Consent Status: Revoked

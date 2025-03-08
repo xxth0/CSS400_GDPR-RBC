@@ -1,0 +1,6 @@
+Customer ID: 7562
+Name: Bradley Roberts
+National ID: 373-76-3273
+Bank: Frank, Shaw and Miller Bank
+Account Number: 1245096200
+Consent Status: Granted

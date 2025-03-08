@@ -1,0 +1,6 @@
+Customer ID: 6945
+Name: Kathy Burns
+National ID: 770-02-1896
+Bank: Burke Group Bank
+Account Number: 5063695035
+Consent Status: Granted

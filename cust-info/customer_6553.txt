@@ -1,0 +1,6 @@
+Customer ID: 6553
+Name: Jennifer Russo
+National ID: 735-24-6822
+Bank: Smith and Sons Bank
+Account Number: 6549224275
+Consent Status: Granted

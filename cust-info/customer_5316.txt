@@ -1,0 +1,6 @@
+Customer ID: 5316
+Name: William White
+National ID: 262-77-8942
+Bank: Davis-Stout Bank
+Account Number: 2761658112
+Consent Status: Granted

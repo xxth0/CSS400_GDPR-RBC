@@ -1,0 +1,6 @@
+Customer ID: 6350
+Name: William Burke
+National ID: 740-33-3864
+Bank: Bowers Group Bank
+Account Number: 1145173315
+Consent Status: Revoked

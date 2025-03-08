@@ -1,0 +1,6 @@
+Customer ID: 709
+Name: Trevor Kelly
+National ID: 518-85-0275
+Bank: Cobb, Wood and Daniels Bank
+Account Number: 5592210493
+Consent Status: Granted

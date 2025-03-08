@@ -1,0 +1,6 @@
+Customer ID: 7023
+Name: Kevin Conway
+National ID: 438-52-1607
+Bank: Gibson and Sons Bank
+Account Number: 9145505697
+Consent Status: Granted

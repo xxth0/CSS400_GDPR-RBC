@@ -1,0 +1,6 @@
+Customer ID: 377
+Name: Deborah Walker
+National ID: 576-15-9365
+Bank: Parker-Nelson Bank
+Account Number: 8224784086
+Consent Status: Revoked

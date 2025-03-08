@@ -1,0 +1,6 @@
+Customer ID: 466
+Name: Travis Vargas
+National ID: 348-34-6983
+Bank: Mathews-Fleming Bank
+Account Number: 1634486202
+Consent Status: Granted

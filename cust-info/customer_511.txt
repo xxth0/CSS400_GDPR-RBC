@@ -1,0 +1,6 @@
+Customer ID: 511
+Name: Robert Molina
+National ID: 018-18-7880
+Bank: Romero-Andrade Bank
+Account Number: 1177493611
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 492
+Name: Samantha Thompson
+National ID: 564-05-8595
+Bank: Smith-Jenkins Bank
+Account Number: 5238675996
+Consent Status: Granted

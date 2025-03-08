@@ -1,0 +1,6 @@
+Customer ID: 80
+Name: Todd Alexander
+National ID: 383-48-0126
+Bank: Cuevas-Figueroa Bank
+Account Number: 9991778818
+Consent Status: Granted

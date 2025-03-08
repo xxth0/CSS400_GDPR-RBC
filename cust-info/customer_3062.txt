@@ -1,0 +1,6 @@
+Customer ID: 3062
+Name: Walter Walters
+National ID: 520-34-7595
+Bank: Morales Group Bank
+Account Number: 7536778481
+Consent Status: Revoked

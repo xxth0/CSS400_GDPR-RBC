@@ -1,0 +1,6 @@
+Customer ID: 4223
+Name: Angela Davis
+National ID: 284-99-9704
+Bank: Sanchez, Miller and Zamora Bank
+Account Number: 2097531047
+Consent Status: Granted

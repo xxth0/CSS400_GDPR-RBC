@@ -1,0 +1,6 @@
+Customer ID: 853
+Name: Tammy Santiago
+National ID: 566-65-3989
+Bank: Mcdonald, Schneider and Brooks Bank
+Account Number: 3145404635
+Consent Status: Revoked

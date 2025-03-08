@@ -1,0 +1,6 @@
+Customer ID: 4980
+Name: Ethan Patel
+National ID: 450-62-9082
+Bank: Lewis Group Bank
+Account Number: 9278278953
+Consent Status: Granted

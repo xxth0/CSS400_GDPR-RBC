@@ -1,0 +1,6 @@
+Customer ID: 7712
+Name: Jason Floyd
+National ID: 110-54-8613
+Bank: Oliver, Johnson and Fuller Bank
+Account Number: 6706313327
+Consent Status: Revoked

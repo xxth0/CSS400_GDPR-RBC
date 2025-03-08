@@ -1,0 +1,6 @@
+Customer ID: 3037
+Name: Michael Brown
+National ID: 645-64-4468
+Bank: Hernandez-Garcia Bank
+Account Number: 8221739669
+Consent Status: Granted

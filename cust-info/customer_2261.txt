@@ -1,0 +1,6 @@
+Customer ID: 2261
+Name: Kim Lamb
+National ID: 358-20-3347
+Bank: Todd-Terry Bank
+Account Number: 2920407805
+Consent Status: Granted

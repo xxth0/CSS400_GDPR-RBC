@@ -1,0 +1,6 @@
+Customer ID: 9881
+Name: Jordan Glass
+National ID: 466-19-0128
+Bank: Diaz, Hall and Barajas Bank
+Account Number: 9143142989
+Consent Status: Revoked

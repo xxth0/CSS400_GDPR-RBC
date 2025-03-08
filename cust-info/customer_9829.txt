@@ -1,0 +1,6 @@
+Customer ID: 9829
+Name: Sandra Anderson
+National ID: 787-62-3897
+Bank: Reed-Herrera Bank
+Account Number: 8494768180
+Consent Status: Revoked

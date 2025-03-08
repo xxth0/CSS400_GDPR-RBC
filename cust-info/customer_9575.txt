@@ -1,0 +1,6 @@
+Customer ID: 9575
+Name: Nathan Willis
+National ID: 196-66-6819
+Bank: Wright, Green and Bradshaw Bank
+Account Number: 6563002689
+Consent Status: Revoked

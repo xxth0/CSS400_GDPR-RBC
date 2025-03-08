@@ -1,0 +1,6 @@
+Customer ID: 3556
+Name: Sharon Smith
+National ID: 863-83-4394
+Bank: Romero, Yu and Miles Bank
+Account Number: 9979289857
+Consent Status: Granted

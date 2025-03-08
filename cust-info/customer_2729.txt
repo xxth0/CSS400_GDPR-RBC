@@ -1,0 +1,6 @@
+Customer ID: 2729
+Name: Bradley Bell
+National ID: 342-35-9287
+Bank: Nelson Inc Bank
+Account Number: 7571987952
+Consent Status: Revoked

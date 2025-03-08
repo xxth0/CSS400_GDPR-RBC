@@ -1,0 +1,6 @@
+Customer ID: 8325
+Name: Cynthia Avery
+National ID: 103-06-0646
+Bank: Gordon, Vega and Greene Bank
+Account Number: 8927557120
+Consent Status: Revoked

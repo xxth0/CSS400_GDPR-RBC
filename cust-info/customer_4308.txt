@@ -1,0 +1,6 @@
+Customer ID: 4308
+Name: Cindy Berry
+National ID: 425-30-1727
+Bank: Neal-Russell Bank
+Account Number: 1024755595
+Consent Status: Revoked

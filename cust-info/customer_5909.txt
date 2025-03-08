@@ -1,0 +1,6 @@
+Customer ID: 5909
+Name: Kenneth Beck
+National ID: 408-71-2249
+Bank: Delgado, Jackson and Holden Bank
+Account Number: 4601370867
+Consent Status: Granted

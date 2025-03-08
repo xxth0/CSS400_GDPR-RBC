@@ -1,0 +1,6 @@
+Customer ID: 306
+Name: Kaitlyn Juarez
+National ID: 811-52-5789
+Bank: Wheeler, Clark and Dominguez Bank
+Account Number: 4785799381
+Consent Status: Revoked

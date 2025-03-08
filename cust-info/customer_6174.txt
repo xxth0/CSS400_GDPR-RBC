@@ -1,0 +1,6 @@
+Customer ID: 6174
+Name: Benjamin Mcintyre
+National ID: 785-32-9658
+Bank: Schmitt-Lynn Bank
+Account Number: 4634725567
+Consent Status: Revoked

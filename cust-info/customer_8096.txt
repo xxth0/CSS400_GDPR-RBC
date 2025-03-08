@@ -1,0 +1,6 @@
+Customer ID: 8096
+Name: William Crane
+National ID: 529-26-5640
+Bank: Raymond LLC Bank
+Account Number: 9829410870
+Consent Status: Revoked

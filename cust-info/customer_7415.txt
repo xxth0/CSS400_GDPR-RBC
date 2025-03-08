@@ -1,0 +1,6 @@
+Customer ID: 7415
+Name: William Burke
+National ID: 536-31-8689
+Bank: Hogan Ltd Bank
+Account Number: 5188616206
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5974
+Name: Mr. Albert Brown
+National ID: 694-41-8439
+Bank: Zavala Ltd Bank
+Account Number: 7153442260
+Consent Status: Granted

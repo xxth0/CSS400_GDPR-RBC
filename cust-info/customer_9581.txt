@@ -1,0 +1,6 @@
+Customer ID: 9581
+Name: Samantha Davis
+National ID: 586-26-9146
+Bank: Brown and Sons Bank
+Account Number: 5355849592
+Consent Status: Granted

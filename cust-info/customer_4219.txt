@@ -1,0 +1,6 @@
+Customer ID: 4219
+Name: Tasha Ortiz
+National ID: 890-99-1427
+Bank: Mccann Group Bank
+Account Number: 5351381060
+Consent Status: Revoked

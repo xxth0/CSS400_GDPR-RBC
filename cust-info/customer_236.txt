@@ -1,0 +1,6 @@
+Customer ID: 236
+Name: Cody Martin
+National ID: 097-29-4941
+Bank: Everett, Howell and Thompson Bank
+Account Number: 6259611228
+Consent Status: Revoked

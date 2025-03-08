@@ -1,0 +1,6 @@
+Customer ID: 8615
+Name: Curtis Fields
+National ID: 885-54-3529
+Bank: Reynolds Ltd Bank
+Account Number: 4098685228
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2762
+Name: Valerie Leonard
+National ID: 594-78-8750
+Bank: Cox, Byrd and Cruz Bank
+Account Number: 8133983537
+Consent Status: Granted

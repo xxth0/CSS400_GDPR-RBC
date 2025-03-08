@@ -1,0 +1,6 @@
+Customer ID: 9776
+Name: Natasha Rodriguez
+National ID: 443-97-9993
+Bank: Horton, Miller and Carter Bank
+Account Number: 7413616571
+Consent Status: Granted

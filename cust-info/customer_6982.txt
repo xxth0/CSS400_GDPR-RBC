@@ -1,0 +1,6 @@
+Customer ID: 6982
+Name: Christopher Figueroa
+National ID: 063-05-9847
+Bank: Young, Carey and Johnson Bank
+Account Number: 9488947524
+Consent Status: Revoked

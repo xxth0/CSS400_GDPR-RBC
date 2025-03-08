@@ -1,0 +1,6 @@
+Customer ID: 8649
+Name: Vincent Wallace
+National ID: 592-67-3743
+Bank: Barker-Baird Bank
+Account Number: 4324462027
+Consent Status: Granted

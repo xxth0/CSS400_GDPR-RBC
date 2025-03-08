@@ -1,0 +1,6 @@
+Customer ID: 8071
+Name: Jose Mccullough
+National ID: 512-32-2884
+Bank: Harris, Kent and Hall Bank
+Account Number: 3608893645
+Consent Status: Revoked

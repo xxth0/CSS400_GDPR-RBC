@@ -1,0 +1,6 @@
+Customer ID: 4144
+Name: Erica Huber
+National ID: 402-27-0506
+Bank: Sandoval, Stokes and Nicholson Bank
+Account Number: 2714716403
+Consent Status: Revoked

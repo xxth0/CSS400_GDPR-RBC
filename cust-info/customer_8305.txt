@@ -1,0 +1,6 @@
+Customer ID: 8305
+Name: Joseph Gross
+National ID: 672-22-5267
+Bank: Cabrera Ltd Bank
+Account Number: 5661340809
+Consent Status: Granted

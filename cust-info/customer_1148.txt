@@ -1,0 +1,6 @@
+Customer ID: 1148
+Name: Victor Johnson
+National ID: 321-62-0213
+Bank: Johnson, Joyce and Bernard Bank
+Account Number: 5003287252
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8318
+Name: Kristen Phillips
+National ID: 746-22-6423
+Bank: Church, Beck and Campos Bank
+Account Number: 2844365145
+Consent Status: Revoked

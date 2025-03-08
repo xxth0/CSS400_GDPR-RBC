@@ -1,0 +1,6 @@
+Customer ID: 4985
+Name: James Shepard
+National ID: 570-05-7669
+Bank: Jenkins, Valdez and Taylor Bank
+Account Number: 7463210633
+Consent Status: Revoked

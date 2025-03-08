@@ -1,0 +1,6 @@
+Customer ID: 7226
+Name: Stacey Perez
+National ID: 594-08-6865
+Bank: Riley, Coleman and Fowler Bank
+Account Number: 5393524834
+Consent Status: Revoked

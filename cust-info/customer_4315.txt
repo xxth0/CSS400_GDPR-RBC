@@ -1,0 +1,6 @@
+Customer ID: 4315
+Name: Krista Wise
+National ID: 341-08-0845
+Bank: Kane Ltd Bank
+Account Number: 5586689926
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4927
+Name: David Marks
+National ID: 473-64-6812
+Bank: Davenport PLC Bank
+Account Number: 4378526876
+Consent Status: Granted

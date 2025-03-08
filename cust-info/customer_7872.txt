@@ -1,0 +1,6 @@
+Customer ID: 7872
+Name: Matthew Roberts
+National ID: 337-94-9784
+Bank: Merritt Group Bank
+Account Number: 8456422175
+Consent Status: Granted

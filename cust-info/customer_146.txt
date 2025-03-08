@@ -1,0 +1,6 @@
+Customer ID: 146
+Name: Ruth Graham
+National ID: 647-53-2822
+Bank: Sanford-Solis Bank
+Account Number: 1306015771
+Consent Status: Revoked

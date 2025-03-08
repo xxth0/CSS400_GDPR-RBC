@@ -1,0 +1,6 @@
+Customer ID: 1027
+Name: Joseph Mcknight
+National ID: 367-91-1104
+Bank: Williams-Perry Bank
+Account Number: 2684622478
+Consent Status: Granted

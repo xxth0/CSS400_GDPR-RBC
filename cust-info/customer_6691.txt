@@ -1,0 +1,6 @@
+Customer ID: 6691
+Name: John Barnes
+National ID: 288-15-6175
+Bank: Gibbs-Frazier Bank
+Account Number: 6797733210
+Consent Status: Granted

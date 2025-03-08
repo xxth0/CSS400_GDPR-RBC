@@ -1,0 +1,6 @@
+Customer ID: 5850
+Name: Christopher Butler
+National ID: 664-78-9999
+Bank: Harrison, Reed and Andrews Bank
+Account Number: 5541166546
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7168
+Name: Jose Clark
+National ID: 094-64-0160
+Bank: Collins-Carter Bank
+Account Number: 3485037438
+Consent Status: Granted

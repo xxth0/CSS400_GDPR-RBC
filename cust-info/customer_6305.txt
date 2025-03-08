@@ -1,0 +1,6 @@
+Customer ID: 6305
+Name: Jennifer Duncan
+National ID: 154-58-0873
+Bank: Bowman-Montgomery Bank
+Account Number: 9431363292
+Consent Status: Revoked

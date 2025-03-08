@@ -1,0 +1,6 @@
+Customer ID: 5674
+Name: Eric Braun
+National ID: 200-01-2148
+Bank: Perkins-Watson Bank
+Account Number: 2453931739
+Consent Status: Revoked

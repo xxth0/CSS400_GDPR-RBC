@@ -1,0 +1,6 @@
+Customer ID: 2236
+Name: Johnny Reese
+National ID: 500-83-7215
+Bank: Bauer, Fernandez and Stephenson Bank
+Account Number: 4385387843
+Consent Status: Revoked

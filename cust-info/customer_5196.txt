@@ -1,0 +1,6 @@
+Customer ID: 5196
+Name: Christopher Campos
+National ID: 182-56-4915
+Bank: Collins Ltd Bank
+Account Number: 3178250675
+Consent Status: Granted

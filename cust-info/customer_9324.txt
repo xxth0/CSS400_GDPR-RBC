@@ -1,0 +1,6 @@
+Customer ID: 9324
+Name: Teresa Norton
+National ID: 785-95-2209
+Bank: Brown Group Bank
+Account Number: 7580373221
+Consent Status: Revoked

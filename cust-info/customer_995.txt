@@ -1,0 +1,6 @@
+Customer ID: 995
+Name: Crystal Brown
+National ID: 109-45-9965
+Bank: Powers, Oconnor and Lawson Bank
+Account Number: 1817540842
+Consent Status: Granted

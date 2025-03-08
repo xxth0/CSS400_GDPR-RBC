@@ -1,0 +1,6 @@
+Customer ID: 7622
+Name: Christopher Maddox
+National ID: 342-11-3975
+Bank: Perez, Farmer and Stewart Bank
+Account Number: 3445608524
+Consent Status: Revoked

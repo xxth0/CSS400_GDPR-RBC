@@ -1,0 +1,6 @@
+Customer ID: 5801
+Name: Diana Castro
+National ID: 885-65-3041
+Bank: Nash, Brooks and Coleman Bank
+Account Number: 4252819854
+Consent Status: Revoked

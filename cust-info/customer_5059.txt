@@ -1,0 +1,6 @@
+Customer ID: 5059
+Name: Nicholas Patterson
+National ID: 432-35-6578
+Bank: Anderson-Smith Bank
+Account Number: 6443352855
+Consent Status: Granted

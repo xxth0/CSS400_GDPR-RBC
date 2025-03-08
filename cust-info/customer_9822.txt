@@ -1,0 +1,6 @@
+Customer ID: 9822
+Name: Laura Rojas
+National ID: 663-11-5042
+Bank: Mckinney, Montgomery and Atkinson Bank
+Account Number: 7764770615
+Consent Status: Granted

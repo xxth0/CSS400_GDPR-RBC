@@ -1,0 +1,6 @@
+Customer ID: 4062
+Name: Mary Mckay
+National ID: 710-59-8515
+Bank: Lewis-Riddle Bank
+Account Number: 2544677816
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9535
+Name: Eric Rice
+National ID: 404-85-2093
+Bank: Reyes, Orr and Hall Bank
+Account Number: 3219327771
+Consent Status: Granted

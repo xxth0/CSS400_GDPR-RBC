@@ -1,0 +1,6 @@
+Customer ID: 559
+Name: Kiara Tran
+National ID: 199-14-6220
+Bank: Garrett and Sons Bank
+Account Number: 7787395789
+Consent Status: Granted

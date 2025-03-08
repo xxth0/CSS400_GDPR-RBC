@@ -1,0 +1,6 @@
+Customer ID: 557
+Name: Linda Galloway
+National ID: 238-77-3422
+Bank: Johnson PLC Bank
+Account Number: 6181669370
+Consent Status: Granted

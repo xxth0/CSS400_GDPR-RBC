@@ -1,0 +1,6 @@
+Customer ID: 4837
+Name: James Yang
+National ID: 774-47-0228
+Bank: Moore-Browning Bank
+Account Number: 3462648568
+Consent Status: Granted

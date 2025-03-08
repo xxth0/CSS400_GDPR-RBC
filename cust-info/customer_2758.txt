@@ -1,0 +1,6 @@
+Customer ID: 2758
+Name: Vincent Horton
+National ID: 102-07-6693
+Bank: Duarte LLC Bank
+Account Number: 6693711465
+Consent Status: Revoked

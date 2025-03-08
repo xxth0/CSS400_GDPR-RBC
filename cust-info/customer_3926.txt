@@ -1,0 +1,6 @@
+Customer ID: 3926
+Name: Dr. Brian Munoz
+National ID: 397-74-5217
+Bank: Acosta, Foster and Williams Bank
+Account Number: 2704216783
+Consent Status: Granted

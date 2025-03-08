@@ -1,0 +1,6 @@
+Customer ID: 222
+Name: James Gonzalez
+National ID: 366-95-2522
+Bank: Wagner, Townsend and Landry Bank
+Account Number: 1066055507
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3175
+Name: Ronald Russell
+National ID: 161-05-5832
+Bank: George, Richardson and Osborne Bank
+Account Number: 9176961798
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9006
+Name: Donald Nguyen
+National ID: 063-05-3956
+Bank: Strickland, Cunningham and Wu Bank
+Account Number: 5546021782
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8469
+Name: Stephanie Hawkins
+National ID: 529-74-5650
+Bank: Carlson-Hickman Bank
+Account Number: 1953675652
+Consent Status: Revoked

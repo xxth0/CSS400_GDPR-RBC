@@ -1,0 +1,6 @@
+Customer ID: 365
+Name: Renee West
+National ID: 745-26-7611
+Bank: King, Rivera and Lopez Bank
+Account Number: 4466190042
+Consent Status: Granted

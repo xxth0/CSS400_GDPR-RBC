@@ -1,0 +1,6 @@
+Customer ID: 1655
+Name: James Munoz
+National ID: 095-78-7735
+Bank: Allison-Archer Bank
+Account Number: 1724438755
+Consent Status: Granted

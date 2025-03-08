@@ -1,0 +1,6 @@
+Customer ID: 5170
+Name: Erica Johnston
+National ID: 645-28-8942
+Bank: Ferguson, Erickson and Landry Bank
+Account Number: 6712949523
+Consent Status: Granted

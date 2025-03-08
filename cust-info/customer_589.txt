@@ -1,0 +1,6 @@
+Customer ID: 589
+Name: Carrie Dillon
+National ID: 169-71-0963
+Bank: Kennedy-Valentine Bank
+Account Number: 5894932923
+Consent Status: Revoked

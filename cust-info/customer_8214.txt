@@ -1,0 +1,6 @@
+Customer ID: 8214
+Name: Christopher Porter
+National ID: 238-81-1535
+Bank: Garcia-Buckley Bank
+Account Number: 5488213693
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6021
+Name: Jessica Jackson
+National ID: 659-88-4963
+Bank: Howard, Flores and Castaneda Bank
+Account Number: 2352858571
+Consent Status: Revoked

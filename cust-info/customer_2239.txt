@@ -1,0 +1,6 @@
+Customer ID: 2239
+Name: Rebecca Salazar
+National ID: 114-57-6569
+Bank: Smith Inc Bank
+Account Number: 3057146883
+Consent Status: Granted

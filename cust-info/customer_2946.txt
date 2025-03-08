@@ -1,0 +1,6 @@
+Customer ID: 2946
+Name: Misty Lawrence
+National ID: 258-03-1795
+Bank: Duran-Brooks Bank
+Account Number: 1980138117
+Consent Status: Granted

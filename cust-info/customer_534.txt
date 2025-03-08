@@ -1,0 +1,6 @@
+Customer ID: 534
+Name: Mrs. Christina King
+National ID: 220-04-9639
+Bank: Jones, West and Morse Bank
+Account Number: 2119621507
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7747
+Name: Cindy Miller
+National ID: 568-29-4582
+Bank: Carter Group Bank
+Account Number: 3452464672
+Consent Status: Granted

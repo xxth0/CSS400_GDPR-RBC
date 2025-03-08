@@ -1,0 +1,6 @@
+Customer ID: 1712
+Name: Gabriel Edwards
+National ID: 021-95-1588
+Bank: Ball, Mitchell and Wilson Bank
+Account Number: 5626309016
+Consent Status: Granted

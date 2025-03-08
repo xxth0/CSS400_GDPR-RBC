@@ -1,0 +1,6 @@
+Customer ID: 1555
+Name: Brandon Hernandez
+National ID: 510-38-9337
+Bank: Jimenez PLC Bank
+Account Number: 4485123033
+Consent Status: Revoked

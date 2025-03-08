@@ -1,0 +1,6 @@
+Customer ID: 9903
+Name: Howard Patel
+National ID: 160-10-2465
+Bank: Phillips, Lopez and Phillips Bank
+Account Number: 6749047346
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9062
+Name: Thomas Hogan
+National ID: 701-63-2656
+Bank: Garcia, Nichols and Fox Bank
+Account Number: 5637908897
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 749
+Name: Gregory Chandler
+National ID: 407-81-2551
+Bank: Sanchez, Parsons and Fowler Bank
+Account Number: 1980709706
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8108
+Name: Samantha Brown
+National ID: 747-35-1428
+Bank: Gates-Erickson Bank
+Account Number: 3220725514
+Consent Status: Granted

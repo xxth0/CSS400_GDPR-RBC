@@ -1,0 +1,6 @@
+Customer ID: 3
+Name: Amanda Wang
+National ID: 403-86-1534
+Bank: Parker-Miller Bank
+Account Number: 7475998473
+Consent Status: Revoked

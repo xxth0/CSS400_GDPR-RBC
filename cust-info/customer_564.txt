@@ -1,0 +1,6 @@
+Customer ID: 564
+Name: Victoria Morris
+National ID: 711-98-7272
+Bank: Tran, Olsen and Diaz Bank
+Account Number: 8837880503
+Consent Status: Granted

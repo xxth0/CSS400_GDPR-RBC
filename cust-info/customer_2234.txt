@@ -1,0 +1,6 @@
+Customer ID: 2234
+Name: Deborah Collins
+National ID: 556-93-6065
+Bank: Ware Inc Bank
+Account Number: 1022422055
+Consent Status: Granted

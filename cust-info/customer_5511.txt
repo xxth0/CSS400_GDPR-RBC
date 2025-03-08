@@ -1,0 +1,6 @@
+Customer ID: 5511
+Name: Tamara Brown
+National ID: 317-28-8424
+Bank: Russell Group Bank
+Account Number: 1083218008
+Consent Status: Granted

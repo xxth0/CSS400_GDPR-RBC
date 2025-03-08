@@ -1,0 +1,6 @@
+Customer ID: 6183
+Name: James Walton
+National ID: 496-05-2971
+Bank: Willis-Nguyen Bank
+Account Number: 1078785317
+Consent Status: Granted

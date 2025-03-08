@@ -1,0 +1,6 @@
+Customer ID: 6373
+Name: Jasmine Fowler
+National ID: 873-91-1047
+Bank: Anderson-Carpenter Bank
+Account Number: 8070303143
+Consent Status: Revoked

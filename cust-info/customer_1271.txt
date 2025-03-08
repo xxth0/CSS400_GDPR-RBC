@@ -1,0 +1,6 @@
+Customer ID: 1271
+Name: Timothy Allen
+National ID: 569-32-1608
+Bank: Jones-Miller Bank
+Account Number: 4286567355
+Consent Status: Revoked

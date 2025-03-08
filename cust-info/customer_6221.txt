@@ -1,0 +1,6 @@
+Customer ID: 6221
+Name: Andrew Obrien
+National ID: 827-98-7422
+Bank: Nguyen-Kemp Bank
+Account Number: 4310767142
+Consent Status: Granted

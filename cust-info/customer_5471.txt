@@ -1,0 +1,6 @@
+Customer ID: 5471
+Name: Christian Fernandez
+National ID: 206-69-9706
+Bank: Garcia Ltd Bank
+Account Number: 7643589274
+Consent Status: Revoked

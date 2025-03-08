@@ -1,0 +1,6 @@
+Customer ID: 6775
+Name: Darrell Williams
+National ID: 206-85-4133
+Bank: Williamson, Roach and Mooney Bank
+Account Number: 8880214949
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3274
+Name: Emily Hernandez
+National ID: 396-87-2353
+Bank: Miller, Morales and Le Bank
+Account Number: 1225312200
+Consent Status: Granted

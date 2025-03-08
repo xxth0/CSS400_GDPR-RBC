@@ -1,0 +1,6 @@
+Customer ID: 5062
+Name: Megan Edwards
+National ID: 586-86-9704
+Bank: Davis, Williamson and Stevenson Bank
+Account Number: 8022821691
+Consent Status: Revoked

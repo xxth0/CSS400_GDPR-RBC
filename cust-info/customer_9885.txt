@@ -1,0 +1,6 @@
+Customer ID: 9885
+Name: Dr. Annette Tran
+National ID: 491-12-5532
+Bank: Wilson-Stewart Bank
+Account Number: 8394992333
+Consent Status: Granted

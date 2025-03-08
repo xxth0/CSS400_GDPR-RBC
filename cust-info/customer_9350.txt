@@ -1,0 +1,6 @@
+Customer ID: 9350
+Name: Marisa Wilson
+National ID: 851-80-2521
+Bank: Peterson Group Bank
+Account Number: 3846804667
+Consent Status: Granted

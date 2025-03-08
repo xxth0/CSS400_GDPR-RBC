@@ -1,0 +1,6 @@
+Customer ID: 1427
+Name: Katherine Scott
+National ID: 860-42-7612
+Bank: Harrison PLC Bank
+Account Number: 6737805941
+Consent Status: Revoked

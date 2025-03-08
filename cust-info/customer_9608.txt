@@ -1,0 +1,6 @@
+Customer ID: 9608
+Name: Sydney Thompson
+National ID: 279-86-9604
+Bank: Cunningham-Simmons Bank
+Account Number: 7312606284
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1087
+Name: Amy Ellis
+National ID: 263-87-0173
+Bank: Taylor, Medina and Rios Bank
+Account Number: 4198748915
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9435
+Name: Jamie Meyer
+National ID: 149-79-5199
+Bank: Howard Inc Bank
+Account Number: 7351140541
+Consent Status: Revoked

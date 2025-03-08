@@ -1,0 +1,6 @@
+Customer ID: 9433
+Name: Gloria Whitehead
+National ID: 570-70-7114
+Bank: Cunningham, Barnes and Ruiz Bank
+Account Number: 5342788164
+Consent Status: Revoked

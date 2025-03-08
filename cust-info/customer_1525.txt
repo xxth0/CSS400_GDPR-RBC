@@ -1,0 +1,6 @@
+Customer ID: 1525
+Name: Jack Baker
+National ID: 156-42-5556
+Bank: Diaz, Joyce and Atkinson Bank
+Account Number: 4051124113
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1485
+Name: Gabriel Galvan
+National ID: 843-55-7056
+Bank: Williams, Anderson and Williams Bank
+Account Number: 5991254710
+Consent Status: Granted

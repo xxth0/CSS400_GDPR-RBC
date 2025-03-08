@@ -1,0 +1,6 @@
+Customer ID: 4571
+Name: Kevin Brown
+National ID: 812-20-4676
+Bank: Parsons-Andersen Bank
+Account Number: 2673513375
+Consent Status: Granted

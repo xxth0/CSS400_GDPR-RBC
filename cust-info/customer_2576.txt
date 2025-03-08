@@ -1,0 +1,6 @@
+Customer ID: 2576
+Name: Zoe Yoder
+National ID: 261-15-4454
+Bank: Werner, Mendez and Scott Bank
+Account Number: 9072590192
+Consent Status: Granted

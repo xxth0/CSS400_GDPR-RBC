@@ -1,0 +1,6 @@
+Customer ID: 2387
+Name: John Fernandez
+National ID: 373-65-3558
+Bank: Petty Inc Bank
+Account Number: 3335485372
+Consent Status: Granted

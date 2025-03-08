@@ -1,0 +1,6 @@
+Customer ID: 2393
+Name: Lisa Rivera
+National ID: 300-92-7399
+Bank: Pratt, Keller and Frey Bank
+Account Number: 9244698636
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3146
+Name: Lindsey Anderson
+National ID: 702-88-3643
+Bank: Griffin Ltd Bank
+Account Number: 9680114877
+Consent Status: Revoked

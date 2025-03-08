@@ -1,0 +1,6 @@
+Customer ID: 8988
+Name: Valerie Pierce
+National ID: 894-99-8462
+Bank: Wells, Garcia and Parrish Bank
+Account Number: 7811956517
+Consent Status: Granted

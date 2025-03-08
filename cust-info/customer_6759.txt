@@ -1,0 +1,6 @@
+Customer ID: 6759
+Name: Terry Davis
+National ID: 296-40-5240
+Bank: Spears Group Bank
+Account Number: 1401955321
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1203
+Name: Jamie Waller
+National ID: 409-62-4034
+Bank: Acevedo-Coleman Bank
+Account Number: 5296124449
+Consent Status: Granted

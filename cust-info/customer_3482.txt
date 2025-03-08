@@ -1,0 +1,6 @@
+Customer ID: 3482
+Name: Aaron Smith
+National ID: 838-39-1727
+Bank: Hobbs, Turner and Fitzgerald Bank
+Account Number: 5750735567
+Consent Status: Revoked

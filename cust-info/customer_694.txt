@@ -1,0 +1,6 @@
+Customer ID: 694
+Name: Linda Sawyer
+National ID: 262-46-4712
+Bank: Robertson-Nunez Bank
+Account Number: 3464282996
+Consent Status: Granted

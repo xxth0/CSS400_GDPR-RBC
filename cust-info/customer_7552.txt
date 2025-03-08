@@ -1,0 +1,6 @@
+Customer ID: 7552
+Name: Patricia Valenzuela
+National ID: 189-30-0400
+Bank: Jackson Ltd Bank
+Account Number: 5766551923
+Consent Status: Revoked

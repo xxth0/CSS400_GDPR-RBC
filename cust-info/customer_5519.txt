@@ -1,0 +1,6 @@
+Customer ID: 5519
+Name: Michelle Alvarado
+National ID: 480-04-4363
+Bank: Hull-Hawkins Bank
+Account Number: 3474462839
+Consent Status: Revoked

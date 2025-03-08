@@ -1,0 +1,6 @@
+Customer ID: 873
+Name: Tamara Williams
+National ID: 100-93-9974
+Bank: Johnson, Lopez and Baker Bank
+Account Number: 5622698118
+Consent Status: Revoked

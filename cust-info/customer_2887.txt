@@ -1,0 +1,6 @@
+Customer ID: 2887
+Name: Teresa White
+National ID: 110-21-1038
+Bank: Golden Inc Bank
+Account Number: 8861081913
+Consent Status: Granted

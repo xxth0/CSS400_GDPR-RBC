@@ -1,0 +1,6 @@
+Customer ID: 7604
+Name: Susan Horne
+National ID: 359-40-7865
+Bank: Hicks-Perez Bank
+Account Number: 8204592965
+Consent Status: Granted

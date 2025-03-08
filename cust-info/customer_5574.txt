@@ -1,0 +1,6 @@
+Customer ID: 5574
+Name: Tammy Alexander
+National ID: 394-04-1367
+Bank: Lewis, Nelson and Tucker Bank
+Account Number: 9026341427
+Consent Status: Granted

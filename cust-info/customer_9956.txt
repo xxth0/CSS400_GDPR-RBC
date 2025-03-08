@@ -1,0 +1,6 @@
+Customer ID: 9956
+Name: Peggy Ellison
+National ID: 020-35-3553
+Bank: Lopez, Aguirre and Rosario Bank
+Account Number: 6397084723
+Consent Status: Revoked

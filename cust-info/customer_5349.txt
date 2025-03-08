@@ -1,0 +1,6 @@
+Customer ID: 5349
+Name: Marc Estrada
+National ID: 831-83-1741
+Bank: Vasquez-Smith Bank
+Account Number: 5501882699
+Consent Status: Revoked

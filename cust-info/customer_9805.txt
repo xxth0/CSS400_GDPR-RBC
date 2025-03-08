@@ -1,0 +1,6 @@
+Customer ID: 9805
+Name: Eric Barr
+National ID: 532-60-9646
+Bank: Garcia and Sons Bank
+Account Number: 1083060432
+Consent Status: Revoked

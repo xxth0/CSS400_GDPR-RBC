@@ -1,0 +1,6 @@
+Customer ID: 639
+Name: Samantha Fitzgerald
+National ID: 157-31-4892
+Bank: Glover-Chan Bank
+Account Number: 4048640478
+Consent Status: Revoked

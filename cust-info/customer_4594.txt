@@ -1,0 +1,6 @@
+Customer ID: 4594
+Name: Michael Brown
+National ID: 057-60-0420
+Bank: Smith Group Bank
+Account Number: 3946851187
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2723
+Name: Megan Miller
+National ID: 134-52-8767
+Bank: Simpson Group Bank
+Account Number: 1348153839
+Consent Status: Revoked

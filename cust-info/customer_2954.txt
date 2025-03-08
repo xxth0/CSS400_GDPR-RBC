@@ -1,0 +1,6 @@
+Customer ID: 2954
+Name: Kayla Newton
+National ID: 079-27-2186
+Bank: Mcknight-Davidson Bank
+Account Number: 1602813686
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3601
+Name: Nicolas Graham
+National ID: 078-15-2393
+Bank: Li Inc Bank
+Account Number: 2795360656
+Consent Status: Granted

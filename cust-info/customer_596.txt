@@ -1,0 +1,6 @@
+Customer ID: 596
+Name: Jonathan Lutz
+National ID: 100-07-1694
+Bank: Caldwell, Mcgee and Padilla Bank
+Account Number: 1806826130
+Consent Status: Granted

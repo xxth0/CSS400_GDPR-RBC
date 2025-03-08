@@ -1,0 +1,6 @@
+Customer ID: 1003
+Name: Debra Martin
+National ID: 803-07-0712
+Bank: Collins, Lin and Walker Bank
+Account Number: 9766290200
+Consent Status: Revoked

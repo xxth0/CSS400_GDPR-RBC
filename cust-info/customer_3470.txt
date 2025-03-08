@@ -1,0 +1,6 @@
+Customer ID: 3470
+Name: Gabriel Smith
+National ID: 337-09-4635
+Bank: Knight, Martin and Contreras Bank
+Account Number: 3814613288
+Consent Status: Revoked

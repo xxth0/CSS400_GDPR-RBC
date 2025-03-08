@@ -1,0 +1,6 @@
+Customer ID: 5115
+Name: Ryan Garcia
+National ID: 851-83-4163
+Bank: Benson PLC Bank
+Account Number: 8368561626
+Consent Status: Revoked

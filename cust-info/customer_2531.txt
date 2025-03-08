@@ -1,0 +1,6 @@
+Customer ID: 2531
+Name: Mathew Ali
+National ID: 623-84-2757
+Bank: Watson-Green Bank
+Account Number: 2443219991
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1683
+Name: Cheryl Smith
+National ID: 377-50-6548
+Bank: Ramirez, Cole and Boyd Bank
+Account Number: 7520589896
+Consent Status: Granted

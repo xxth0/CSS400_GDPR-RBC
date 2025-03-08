@@ -1,0 +1,6 @@
+Customer ID: 3235
+Name: Christopher Walker
+National ID: 568-74-0636
+Bank: Mendez Inc Bank
+Account Number: 8904793800
+Consent Status: Granted

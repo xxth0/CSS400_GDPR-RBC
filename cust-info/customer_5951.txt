@@ -1,0 +1,6 @@
+Customer ID: 5951
+Name: Matthew Mccarthy
+National ID: 202-57-0256
+Bank: Moran Group Bank
+Account Number: 5117403616
+Consent Status: Revoked

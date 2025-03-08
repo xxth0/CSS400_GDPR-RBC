@@ -1,0 +1,6 @@
+Customer ID: 7203
+Name: David Gilbert
+National ID: 237-53-7066
+Bank: Duncan, Parrish and Valdez Bank
+Account Number: 6188094839
+Consent Status: Granted

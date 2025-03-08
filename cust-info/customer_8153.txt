@@ -1,0 +1,6 @@
+Customer ID: 8153
+Name: Laura Dougherty
+National ID: 443-48-2640
+Bank: Becker, Austin and Jimenez Bank
+Account Number: 3677387048
+Consent Status: Granted

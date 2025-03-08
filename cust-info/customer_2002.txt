@@ -1,0 +1,6 @@
+Customer ID: 2002
+Name: Joshua Mckee
+National ID: 307-49-0108
+Bank: Medina, Valencia and Salazar Bank
+Account Number: 6171837125
+Consent Status: Revoked

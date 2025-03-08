@@ -1,0 +1,6 @@
+Customer ID: 340
+Name: Hannah Marshall
+National ID: 260-95-9308
+Bank: Meyers-Blackwell Bank
+Account Number: 4245329693
+Consent Status: Revoked

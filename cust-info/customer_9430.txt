@@ -1,0 +1,6 @@
+Customer ID: 9430
+Name: Karen Ruiz
+National ID: 635-26-6512
+Bank: Ross-Obrien Bank
+Account Number: 1434308441
+Consent Status: Revoked

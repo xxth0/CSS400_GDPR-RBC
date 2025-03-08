@@ -1,0 +1,6 @@
+Customer ID: 3752
+Name: Terri Johnson
+National ID: 886-41-1568
+Bank: Montgomery-Bray Bank
+Account Number: 5584019754
+Consent Status: Revoked

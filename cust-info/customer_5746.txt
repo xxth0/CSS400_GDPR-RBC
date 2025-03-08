@@ -1,0 +1,6 @@
+Customer ID: 5746
+Name: Jay Snyder
+National ID: 186-59-6314
+Bank: Robinson-Carter Bank
+Account Number: 9974313451
+Consent Status: Revoked

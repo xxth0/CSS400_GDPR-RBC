@@ -1,0 +1,6 @@
+Customer ID: 9539
+Name: Mr. Michael Jackson
+National ID: 558-76-1741
+Bank: Shaw-Ferguson Bank
+Account Number: 8385869623
+Consent Status: Revoked

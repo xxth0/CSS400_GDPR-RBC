@@ -1,0 +1,6 @@
+Customer ID: 2726
+Name: Janet Reynolds
+National ID: 320-65-9705
+Bank: Leonard Ltd Bank
+Account Number: 7616998344
+Consent Status: Revoked

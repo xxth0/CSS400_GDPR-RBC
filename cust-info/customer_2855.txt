@@ -1,0 +1,6 @@
+Customer ID: 2855
+Name: Brian Mcgrath
+National ID: 762-64-8725
+Bank: Aguirre-Green Bank
+Account Number: 5252657266
+Consent Status: Revoked

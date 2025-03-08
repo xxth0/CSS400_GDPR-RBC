@@ -1,0 +1,6 @@
+Customer ID: 8771
+Name: Courtney Reyes
+National ID: 121-94-3761
+Bank: Knight Inc Bank
+Account Number: 7091244693
+Consent Status: Revoked

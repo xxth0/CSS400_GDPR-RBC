@@ -1,0 +1,6 @@
+Customer ID: 327
+Name: Michelle Brown
+National ID: 638-02-7199
+Bank: Martin-Hendricks Bank
+Account Number: 4743172899
+Consent Status: Granted

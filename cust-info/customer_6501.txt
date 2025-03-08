@@ -1,0 +1,6 @@
+Customer ID: 6501
+Name: Ricky Clay
+National ID: 861-90-9322
+Bank: Ross PLC Bank
+Account Number: 9394228794
+Consent Status: Revoked

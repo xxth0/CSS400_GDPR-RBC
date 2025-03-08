@@ -1,0 +1,6 @@
+Customer ID: 6662
+Name: Jordan Moses
+National ID: 444-44-0335
+Bank: Yates, Stephens and Tucker Bank
+Account Number: 1732523429
+Consent Status: Revoked

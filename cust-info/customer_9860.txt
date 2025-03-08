@@ -1,0 +1,6 @@
+Customer ID: 9860
+Name: Stephanie Perkins
+National ID: 709-84-1022
+Bank: Torres-Gray Bank
+Account Number: 9078458066
+Consent Status: Revoked

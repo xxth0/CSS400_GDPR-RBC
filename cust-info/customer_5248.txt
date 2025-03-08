@@ -1,0 +1,6 @@
+Customer ID: 5248
+Name: Julian Anderson
+National ID: 858-43-4245
+Bank: Lester-Gonzalez Bank
+Account Number: 5416543277
+Consent Status: Granted

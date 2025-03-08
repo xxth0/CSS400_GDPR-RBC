@@ -1,0 +1,6 @@
+Customer ID: 5156
+Name: Elizabeth Briggs
+National ID: 605-44-3694
+Bank: Esparza Ltd Bank
+Account Number: 4262868801
+Consent Status: Revoked

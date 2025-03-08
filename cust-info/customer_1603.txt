@@ -1,0 +1,6 @@
+Customer ID: 1603
+Name: Abigail Jimenez
+National ID: 765-75-1252
+Bank: Anderson, Hall and West Bank
+Account Number: 1640324385
+Consent Status: Granted

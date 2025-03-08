@@ -1,0 +1,6 @@
+Customer ID: 8946
+Name: Paula Butler
+National ID: 384-69-9605
+Bank: Fowler-Newton Bank
+Account Number: 5218066706
+Consent Status: Granted

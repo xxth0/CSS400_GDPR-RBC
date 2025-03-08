@@ -1,0 +1,6 @@
+Customer ID: 3867
+Name: Anthony King
+National ID: 426-29-2948
+Bank: Duarte, Elliott and Edwards Bank
+Account Number: 3743094428
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9011
+Name: Eric Parker
+National ID: 220-97-6842
+Bank: Allen, Lam and Wilkins Bank
+Account Number: 4863395202
+Consent Status: Revoked

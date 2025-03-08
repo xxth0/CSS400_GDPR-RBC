@@ -1,0 +1,6 @@
+Customer ID: 1998
+Name: Luis Archer
+National ID: 840-21-5622
+Bank: Howard and Sons Bank
+Account Number: 9045375513
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1438
+Name: Richard Cook
+National ID: 658-52-5665
+Bank: Chandler LLC Bank
+Account Number: 5890354010
+Consent Status: Revoked

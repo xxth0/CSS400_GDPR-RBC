@@ -1,0 +1,6 @@
+Customer ID: 8457
+Name: Dana Elliott
+National ID: 628-54-5338
+Bank: Massey-Farmer Bank
+Account Number: 7419360017
+Consent Status: Granted

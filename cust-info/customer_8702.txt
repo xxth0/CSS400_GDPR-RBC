@@ -1,0 +1,6 @@
+Customer ID: 8702
+Name: Nicole Hoffman PhD
+National ID: 468-18-9980
+Bank: Bryant and Sons Bank
+Account Number: 6830157816
+Consent Status: Revoked

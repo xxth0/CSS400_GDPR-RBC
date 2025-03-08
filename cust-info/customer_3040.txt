@@ -1,0 +1,6 @@
+Customer ID: 3040
+Name: David Hardy
+National ID: 325-69-7349
+Bank: Johnson, Ballard and James Bank
+Account Number: 4649719122
+Consent Status: Revoked

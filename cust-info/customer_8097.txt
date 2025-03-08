@@ -1,0 +1,6 @@
+Customer ID: 8097
+Name: Nicholas Bond
+National ID: 689-48-4144
+Bank: Mann Group Bank
+Account Number: 4401983325
+Consent Status: Revoked

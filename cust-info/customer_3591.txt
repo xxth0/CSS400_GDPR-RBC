@@ -1,0 +1,6 @@
+Customer ID: 3591
+Name: Bobby Riggs
+National ID: 559-61-6806
+Bank: Perry-Sanders Bank
+Account Number: 4774566483
+Consent Status: Revoked

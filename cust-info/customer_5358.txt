@@ -1,0 +1,6 @@
+Customer ID: 5358
+Name: Angela Ryan
+National ID: 761-27-2921
+Bank: Velez Inc Bank
+Account Number: 2441052185
+Consent Status: Revoked

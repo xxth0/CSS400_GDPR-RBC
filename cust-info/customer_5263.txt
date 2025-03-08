@@ -1,0 +1,6 @@
+Customer ID: 5263
+Name: Andrew Robinson
+National ID: 699-37-4719
+Bank: Johnson, Gray and Franklin Bank
+Account Number: 1995796254
+Consent Status: Granted

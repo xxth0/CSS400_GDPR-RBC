@@ -1,0 +1,6 @@
+Customer ID: 4335
+Name: Michelle Harper
+National ID: 456-78-3741
+Bank: Stevenson and Sons Bank
+Account Number: 4212767879
+Consent Status: Granted

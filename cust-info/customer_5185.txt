@@ -1,0 +1,6 @@
+Customer ID: 5185
+Name: Jose Castro
+National ID: 125-02-8527
+Bank: Berger Ltd Bank
+Account Number: 6594624338
+Consent Status: Revoked

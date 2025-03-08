@@ -1,0 +1,6 @@
+Customer ID: 5102
+Name: Kimberly Diaz
+National ID: 483-77-5968
+Bank: Joyce, Hickman and Odom Bank
+Account Number: 4000074831
+Consent Status: Revoked

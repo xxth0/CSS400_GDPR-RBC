@@ -1,0 +1,6 @@
+Customer ID: 4623
+Name: Nicholas Wilson
+National ID: 809-68-7405
+Bank: Burnett-Newman Bank
+Account Number: 6786115272
+Consent Status: Granted

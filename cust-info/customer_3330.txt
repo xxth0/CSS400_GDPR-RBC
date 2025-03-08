@@ -1,0 +1,6 @@
+Customer ID: 3330
+Name: Kim Williams
+National ID: 058-42-6429
+Bank: Adams-Cabrera Bank
+Account Number: 7076409565
+Consent Status: Revoked

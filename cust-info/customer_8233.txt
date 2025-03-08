@@ -1,0 +1,6 @@
+Customer ID: 8233
+Name: Morgan Zamora
+National ID: 726-13-7983
+Bank: Hardin Group Bank
+Account Number: 7951166050
+Consent Status: Granted

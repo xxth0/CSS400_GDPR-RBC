@@ -1,0 +1,6 @@
+Customer ID: 7426
+Name: Blake Spencer
+National ID: 682-91-3150
+Bank: Long-Atkinson Bank
+Account Number: 3128926000
+Consent Status: Revoked

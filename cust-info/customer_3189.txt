@@ -1,0 +1,6 @@
+Customer ID: 3189
+Name: Amanda Snow
+National ID: 445-24-6705
+Bank: Boyer-Phillips Bank
+Account Number: 2533864227
+Consent Status: Revoked

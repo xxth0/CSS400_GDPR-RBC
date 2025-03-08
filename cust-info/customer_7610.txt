@@ -1,0 +1,6 @@
+Customer ID: 7610
+Name: Kimberly Singleton
+National ID: 723-56-2472
+Bank: Johnson-Blair Bank
+Account Number: 7727263669
+Consent Status: Granted

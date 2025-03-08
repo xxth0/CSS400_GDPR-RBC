@@ -1,0 +1,6 @@
+Customer ID: 3960
+Name: Thomas Hansen
+National ID: 377-80-2570
+Bank: Jarvis and Sons Bank
+Account Number: 5092181673
+Consent Status: Granted

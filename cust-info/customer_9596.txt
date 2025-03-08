@@ -1,0 +1,6 @@
+Customer ID: 9596
+Name: Dylan Landry
+National ID: 206-17-1802
+Bank: Jones and Sons Bank
+Account Number: 8889426957
+Consent Status: Revoked

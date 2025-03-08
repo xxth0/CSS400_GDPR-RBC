@@ -1,0 +1,6 @@
+Customer ID: 7807
+Name: Gregory Bryant
+National ID: 721-67-0963
+Bank: Whitehead LLC Bank
+Account Number: 7540235321
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3661
+Name: Wesley Cook
+National ID: 613-76-9526
+Bank: Marsh, Santos and Gordon Bank
+Account Number: 5910769120
+Consent Status: Granted

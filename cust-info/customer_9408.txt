@@ -1,0 +1,6 @@
+Customer ID: 9408
+Name: Tony Smith
+National ID: 740-55-0725
+Bank: Hart, Cole and Fisher Bank
+Account Number: 4814734988
+Consent Status: Granted

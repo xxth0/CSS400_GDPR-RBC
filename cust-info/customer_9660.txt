@@ -1,0 +1,6 @@
+Customer ID: 9660
+Name: Ashlee Martin
+National ID: 187-70-0686
+Bank: Buchanan-Hodge Bank
+Account Number: 3088778345
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3745
+Name: Jennifer Johnson
+National ID: 382-47-7577
+Bank: Mendoza-Copeland Bank
+Account Number: 2789900164
+Consent Status: Revoked

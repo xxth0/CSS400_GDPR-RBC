@@ -1,0 +1,6 @@
+Customer ID: 157
+Name: Christine Massey
+National ID: 055-08-5063
+Bank: Castro Ltd Bank
+Account Number: 4160215172
+Consent Status: Revoked

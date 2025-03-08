@@ -1,0 +1,6 @@
+Customer ID: 8159
+Name: Dawn Stevens
+National ID: 758-96-0981
+Bank: Bauer Inc Bank
+Account Number: 7094806270
+Consent Status: Revoked

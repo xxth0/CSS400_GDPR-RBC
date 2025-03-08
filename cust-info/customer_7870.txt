@@ -1,0 +1,6 @@
+Customer ID: 7870
+Name: Melissa Ford
+National ID: 359-63-3320
+Bank: Harvey, Contreras and Sanchez Bank
+Account Number: 9435364889
+Consent Status: Granted

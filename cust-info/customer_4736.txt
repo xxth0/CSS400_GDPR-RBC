@@ -1,0 +1,6 @@
+Customer ID: 4736
+Name: Charlene Smith
+National ID: 110-22-2367
+Bank: Williams, Compton and Young Bank
+Account Number: 6445589755
+Consent Status: Granted

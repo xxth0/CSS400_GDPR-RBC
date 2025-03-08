@@ -1,0 +1,6 @@
+Customer ID: 4137
+Name: Andre David
+National ID: 287-81-2228
+Bank: May-Green Bank
+Account Number: 5854851254
+Consent Status: Revoked

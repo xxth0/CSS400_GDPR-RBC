@@ -1,0 +1,6 @@
+Customer ID: 3650
+Name: Paige Jackson
+National ID: 102-33-0298
+Bank: Thompson-Grant Bank
+Account Number: 8299271482
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3689
+Name: Dave Cowan
+National ID: 627-36-6492
+Bank: Rojas, Alvarado and Brown Bank
+Account Number: 6760668172
+Consent Status: Revoked

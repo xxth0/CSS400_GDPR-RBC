@@ -1,0 +1,6 @@
+Customer ID: 4000
+Name: Ray Collins
+National ID: 164-69-6072
+Bank: Mendoza Group Bank
+Account Number: 2213722056
+Consent Status: Revoked

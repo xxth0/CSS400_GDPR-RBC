@@ -1,0 +1,6 @@
+Customer ID: 4169
+Name: Lori Thompson
+National ID: 128-33-9468
+Bank: Hanson, Montgomery and Richards Bank
+Account Number: 7163699524
+Consent Status: Granted

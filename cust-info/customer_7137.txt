@@ -1,0 +1,6 @@
+Customer ID: 7137
+Name: Ralph Parsons
+National ID: 508-24-5797
+Bank: Thompson and Sons Bank
+Account Number: 8995473487
+Consent Status: Revoked

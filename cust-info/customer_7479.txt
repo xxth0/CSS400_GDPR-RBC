@@ -1,0 +1,6 @@
+Customer ID: 7479
+Name: Andrew Lowe
+National ID: 018-29-5813
+Bank: Potter and Sons Bank
+Account Number: 1536632454
+Consent Status: Granted

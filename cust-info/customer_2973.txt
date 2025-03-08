@@ -1,0 +1,6 @@
+Customer ID: 2973
+Name: Megan Adams
+National ID: 623-15-9084
+Bank: Tate-Scott Bank
+Account Number: 5727745949
+Consent Status: Revoked

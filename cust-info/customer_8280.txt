@@ -1,0 +1,6 @@
+Customer ID: 8280
+Name: Sherry Parks
+National ID: 382-02-9701
+Bank: Webb, Morrison and Brown Bank
+Account Number: 6309313052
+Consent Status: Granted

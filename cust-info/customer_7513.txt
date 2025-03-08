@@ -1,0 +1,6 @@
+Customer ID: 7513
+Name: Margaret Sanchez
+National ID: 679-45-8923
+Bank: Fitzpatrick LLC Bank
+Account Number: 4040882740
+Consent Status: Revoked

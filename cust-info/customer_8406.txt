@@ -1,0 +1,6 @@
+Customer ID: 8406
+Name: Bradley Williams
+National ID: 578-82-3532
+Bank: Cox, Thornton and Travis Bank
+Account Number: 4570578828
+Consent Status: Revoked

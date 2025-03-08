@@ -1,0 +1,6 @@
+Customer ID: 2960
+Name: Garrett Willis
+National ID: 831-34-7928
+Bank: Rush and Sons Bank
+Account Number: 3304350699
+Consent Status: Revoked

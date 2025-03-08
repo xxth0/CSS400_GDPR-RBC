@@ -1,0 +1,6 @@
+Customer ID: 6465
+Name: John French
+National ID: 495-31-3734
+Bank: Lawrence Group Bank
+Account Number: 6701153284
+Consent Status: Revoked

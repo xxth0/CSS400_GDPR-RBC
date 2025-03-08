@@ -1,0 +1,6 @@
+Customer ID: 4487
+Name: Anne Hawkins
+National ID: 448-11-0836
+Bank: Mcknight-Olson Bank
+Account Number: 1947306191
+Consent Status: Granted

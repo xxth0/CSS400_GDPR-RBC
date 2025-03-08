@@ -1,0 +1,6 @@
+Customer ID: 8404
+Name: Melanie Thompson
+National ID: 782-32-8680
+Bank: Guerra, Davis and Martinez Bank
+Account Number: 7819074530
+Consent Status: Revoked

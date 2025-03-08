@@ -1,0 +1,6 @@
+Customer ID: 4565
+Name: Penny Anderson
+National ID: 164-63-4778
+Bank: Clayton, Hendrix and Garcia Bank
+Account Number: 1726006575
+Consent Status: Granted

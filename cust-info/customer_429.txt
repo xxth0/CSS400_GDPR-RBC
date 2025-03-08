@@ -1,0 +1,6 @@
+Customer ID: 429
+Name: Desiree Wells
+National ID: 146-68-8315
+Bank: Lopez, Thomas and Vega Bank
+Account Number: 8519876441
+Consent Status: Revoked

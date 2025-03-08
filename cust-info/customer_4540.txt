@@ -1,0 +1,6 @@
+Customer ID: 4540
+Name: Samuel Jones
+National ID: 763-87-5282
+Bank: Harmon, Fischer and Pace Bank
+Account Number: 2384420787
+Consent Status: Revoked

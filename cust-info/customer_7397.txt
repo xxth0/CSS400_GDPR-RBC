@@ -1,0 +1,6 @@
+Customer ID: 7397
+Name: Richard Townsend
+National ID: 748-04-4137
+Bank: Andersen Ltd Bank
+Account Number: 2007309024
+Consent Status: Revoked

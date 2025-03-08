@@ -1,0 +1,6 @@
+Customer ID: 3597
+Name: Mark Henderson
+National ID: 106-97-9388
+Bank: Mendoza-Howard Bank
+Account Number: 9752918214
+Consent Status: Revoked

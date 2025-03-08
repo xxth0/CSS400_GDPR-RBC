@@ -1,0 +1,6 @@
+Customer ID: 7348
+Name: Karen Lambert
+National ID: 659-90-6125
+Bank: Diaz Group Bank
+Account Number: 9156635036
+Consent Status: Revoked

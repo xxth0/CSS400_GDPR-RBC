@@ -1,0 +1,6 @@
+Customer ID: 1632
+Name: Rachel Jones
+National ID: 430-03-5902
+Bank: Watson LLC Bank
+Account Number: 3554409163
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6891
+Name: Seth Kline
+National ID: 293-52-4292
+Bank: Pierce, Vasquez and Burton Bank
+Account Number: 6009287095
+Consent Status: Revoked

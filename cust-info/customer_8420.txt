@@ -1,0 +1,6 @@
+Customer ID: 8420
+Name: James Cook
+National ID: 205-94-3910
+Bank: Cox, Jimenez and Cox Bank
+Account Number: 9688692415
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6754
+Name: Susan Bowers
+National ID: 484-78-9454
+Bank: Rodriguez-Wilson Bank
+Account Number: 5137312240
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1044
+Name: Dorothy Hernandez
+National ID: 433-25-9313
+Bank: Ellison-Harper Bank
+Account Number: 3623972447
+Consent Status: Revoked

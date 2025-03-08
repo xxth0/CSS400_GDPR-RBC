@@ -1,0 +1,6 @@
+Customer ID: 5545
+Name: Jonathan Washington
+National ID: 300-84-3489
+Bank: Ortiz Group Bank
+Account Number: 3684104610
+Consent Status: Revoked

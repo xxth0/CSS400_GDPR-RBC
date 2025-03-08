@@ -1,0 +1,6 @@
+Customer ID: 9290
+Name: Julia Edwards
+National ID: 302-47-3367
+Bank: Blevins Ltd Bank
+Account Number: 7644564327
+Consent Status: Granted

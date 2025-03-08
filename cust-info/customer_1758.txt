@@ -1,0 +1,6 @@
+Customer ID: 1758
+Name: Carlos Mcmahon
+National ID: 804-91-4900
+Bank: Spencer-Brown Bank
+Account Number: 3793705058
+Consent Status: Revoked

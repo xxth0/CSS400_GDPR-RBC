@@ -1,0 +1,6 @@
+Customer ID: 592
+Name: Sherri Sims
+National ID: 443-04-8300
+Bank: Johnson and Sons Bank
+Account Number: 8898892580
+Consent Status: Revoked

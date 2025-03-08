@@ -1,0 +1,6 @@
+Customer ID: 6368
+Name: Timothy Barnett
+National ID: 443-45-4288
+Bank: Hoffman Group Bank
+Account Number: 7321755282
+Consent Status: Granted

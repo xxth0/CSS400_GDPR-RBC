@@ -1,0 +1,6 @@
+Customer ID: 8394
+Name: Peter Schultz
+National ID: 004-28-6874
+Bank: Moyer, Moore and Johnston Bank
+Account Number: 9073691099
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6905
+Name: Ian Lee
+National ID: 697-90-8721
+Bank: Tran, Anderson and Martin Bank
+Account Number: 9740961444
+Consent Status: Granted

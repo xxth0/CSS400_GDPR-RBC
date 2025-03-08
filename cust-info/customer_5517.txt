@@ -1,0 +1,6 @@
+Customer ID: 5517
+Name: David Cooper
+National ID: 363-67-3261
+Bank: Preston Inc Bank
+Account Number: 6807673460
+Consent Status: Granted

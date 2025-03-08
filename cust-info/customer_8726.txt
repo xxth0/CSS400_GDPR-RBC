@@ -1,0 +1,6 @@
+Customer ID: 8726
+Name: Elizabeth Espinoza
+National ID: 740-45-0338
+Bank: Navarro, Rodriguez and Adkins Bank
+Account Number: 7543015843
+Consent Status: Granted

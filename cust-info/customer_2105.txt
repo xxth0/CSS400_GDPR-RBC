@@ -1,0 +1,6 @@
+Customer ID: 2105
+Name: Gabrielle Turner
+National ID: 012-17-8184
+Bank: Burns, Aguirre and Booth Bank
+Account Number: 1265770626
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4757
+Name: Kyle Olson
+National ID: 676-53-3537
+Bank: Bauer-Snyder Bank
+Account Number: 1553633054
+Consent Status: Revoked

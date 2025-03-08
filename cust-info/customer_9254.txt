@@ -1,0 +1,6 @@
+Customer ID: 9254
+Name: Robert Medina
+National ID: 581-65-7084
+Bank: Ross-King Bank
+Account Number: 7516410843
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5235
+Name: David Jones
+National ID: 853-65-1280
+Bank: Flores, Wilson and Scott Bank
+Account Number: 8287555929
+Consent Status: Granted

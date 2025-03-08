@@ -1,0 +1,6 @@
+Customer ID: 383
+Name: Megan Anderson
+National ID: 828-10-7065
+Bank: Meyers Group Bank
+Account Number: 4191490210
+Consent Status: Revoked

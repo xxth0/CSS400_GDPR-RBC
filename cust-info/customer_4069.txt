@@ -1,0 +1,6 @@
+Customer ID: 4069
+Name: Charles Morris
+National ID: 750-18-9674
+Bank: Woods-Parker Bank
+Account Number: 8760345098
+Consent Status: Revoked

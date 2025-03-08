@@ -1,0 +1,6 @@
+Customer ID: 6123
+Name: Steven Madden
+National ID: 196-83-7458
+Bank: Sandoval PLC Bank
+Account Number: 3080880399
+Consent Status: Granted

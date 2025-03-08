@@ -1,0 +1,6 @@
+Customer ID: 2775
+Name: Samantha Warner
+National ID: 707-29-6053
+Bank: Anderson, Lewis and Black Bank
+Account Number: 1568833784
+Consent Status: Granted

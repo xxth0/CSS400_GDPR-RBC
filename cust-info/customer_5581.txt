@@ -1,0 +1,6 @@
+Customer ID: 5581
+Name: Nicole Beltran
+National ID: 524-97-8632
+Bank: Gonzalez Group Bank
+Account Number: 7401334346
+Consent Status: Revoked

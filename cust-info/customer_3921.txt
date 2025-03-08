@@ -1,0 +1,6 @@
+Customer ID: 3921
+Name: Teresa Manning
+National ID: 867-06-8512
+Bank: Holden-Hernandez Bank
+Account Number: 8697318855
+Consent Status: Revoked

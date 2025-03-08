@@ -1,0 +1,6 @@
+Customer ID: 369
+Name: Brett Sullivan
+National ID: 417-39-9343
+Bank: Butler, Wood and Hill Bank
+Account Number: 9695462203
+Consent Status: Revoked

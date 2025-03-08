@@ -1,0 +1,6 @@
+Customer ID: 7880
+Name: Katherine Burton
+National ID: 111-02-7114
+Bank: Mcclure LLC Bank
+Account Number: 1672160883
+Consent Status: Granted

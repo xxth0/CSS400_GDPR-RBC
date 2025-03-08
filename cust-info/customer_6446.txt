@@ -1,0 +1,6 @@
+Customer ID: 6446
+Name: Nathan Stewart
+National ID: 306-94-1207
+Bank: Lewis LLC Bank
+Account Number: 2504285628
+Consent Status: Revoked

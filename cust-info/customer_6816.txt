@@ -1,0 +1,6 @@
+Customer ID: 6816
+Name: Ian Baker
+National ID: 795-72-0450
+Bank: Mitchell-Patel Bank
+Account Number: 4425903117
+Consent Status: Granted

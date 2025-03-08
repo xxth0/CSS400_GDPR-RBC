@@ -1,0 +1,6 @@
+Customer ID: 8783
+Name: Ernest Ray
+National ID: 210-39-2219
+Bank: Warren PLC Bank
+Account Number: 5477011808
+Consent Status: Granted

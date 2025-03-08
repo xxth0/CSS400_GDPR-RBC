@@ -1,0 +1,6 @@
+Customer ID: 8875
+Name: Brad Mclaughlin
+National ID: 744-23-4790
+Bank: Adams, Walters and Peterson Bank
+Account Number: 3491279413
+Consent Status: Granted

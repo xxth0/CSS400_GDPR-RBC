@@ -1,0 +1,6 @@
+Customer ID: 3419
+Name: Alexa Delacruz
+National ID: 092-49-6288
+Bank: Vargas, Mcbride and Hester Bank
+Account Number: 5634301931
+Consent Status: Revoked

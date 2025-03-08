@@ -1,0 +1,6 @@
+Customer ID: 9872
+Name: Nicholas Leblanc
+National ID: 695-97-1276
+Bank: Carpenter-Reed Bank
+Account Number: 5858113501
+Consent Status: Revoked

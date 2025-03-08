@@ -1,0 +1,6 @@
+Customer ID: 2379
+Name: Benjamin Mosley
+National ID: 068-24-9130
+Bank: Morrison LLC Bank
+Account Number: 8288905413
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5620
+Name: Jennifer Church
+National ID: 496-57-6599
+Bank: White-Garcia Bank
+Account Number: 6162927347
+Consent Status: Revoked

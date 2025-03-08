@@ -1,0 +1,6 @@
+Customer ID: 9953
+Name: Charles Rose
+National ID: 600-48-3842
+Bank: Bailey, Collins and Flores Bank
+Account Number: 2539992887
+Consent Status: Granted

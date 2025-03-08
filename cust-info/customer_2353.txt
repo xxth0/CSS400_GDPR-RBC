@@ -1,0 +1,6 @@
+Customer ID: 2353
+Name: Noah Delacruz
+National ID: 497-04-1695
+Bank: Thompson, Roman and Smith Bank
+Account Number: 1681003935
+Consent Status: Revoked

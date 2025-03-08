@@ -1,0 +1,6 @@
+Customer ID: 4763
+Name: Julia Robinson
+National ID: 270-37-4630
+Bank: Moore, Campbell and Ford Bank
+Account Number: 4021202837
+Consent Status: Granted

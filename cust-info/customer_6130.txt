@@ -1,0 +1,6 @@
+Customer ID: 6130
+Name: Erica Clark
+National ID: 372-79-2486
+Bank: Ryan-Rivers Bank
+Account Number: 7132952495
+Consent Status: Revoked

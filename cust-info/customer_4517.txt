@@ -1,0 +1,6 @@
+Customer ID: 4517
+Name: Alicia Long
+National ID: 256-55-5597
+Bank: Becker, Burns and Andrews Bank
+Account Number: 1274751765
+Consent Status: Revoked

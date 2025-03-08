@@ -1,0 +1,6 @@
+Customer ID: 8489
+Name: Steven English
+National ID: 458-83-4132
+Bank: Shaw Inc Bank
+Account Number: 6645767911
+Consent Status: Revoked

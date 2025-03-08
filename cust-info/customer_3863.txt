@@ -1,0 +1,6 @@
+Customer ID: 3863
+Name: Nicholas Cole
+National ID: 855-75-1920
+Bank: Watts LLC Bank
+Account Number: 5690377984
+Consent Status: Granted

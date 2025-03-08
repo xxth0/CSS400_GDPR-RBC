@@ -1,0 +1,6 @@
+Customer ID: 1984
+Name: April Murphy
+National ID: 622-17-2421
+Bank: Allen, Decker and Adams Bank
+Account Number: 5273149651
+Consent Status: Revoked

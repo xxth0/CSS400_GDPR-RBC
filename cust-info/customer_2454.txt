@@ -1,0 +1,6 @@
+Customer ID: 2454
+Name: Robert George
+National ID: 259-01-6481
+Bank: Shields-Spence Bank
+Account Number: 4301703400
+Consent Status: Revoked

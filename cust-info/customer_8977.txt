@@ -1,0 +1,6 @@
+Customer ID: 8977
+Name: Michael Turner
+National ID: 180-11-4966
+Bank: Brown-Jones Bank
+Account Number: 6081820832
+Consent Status: Revoked

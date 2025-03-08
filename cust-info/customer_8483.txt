@@ -1,0 +1,6 @@
+Customer ID: 8483
+Name: Michael James
+National ID: 709-50-5877
+Bank: Gonzalez, Morrison and Floyd Bank
+Account Number: 4428953226
+Consent Status: Revoked

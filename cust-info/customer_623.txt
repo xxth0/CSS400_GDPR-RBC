@@ -1,0 +1,6 @@
+Customer ID: 623
+Name: Jesus Palmer
+National ID: 392-14-8291
+Bank: Woodard, Wilson and Johnson Bank
+Account Number: 4498774418
+Consent Status: Revoked

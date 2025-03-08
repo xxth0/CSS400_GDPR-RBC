@@ -1,0 +1,6 @@
+Customer ID: 2384
+Name: Carrie Ayala
+National ID: 554-59-1785
+Bank: Ford-Mullins Bank
+Account Number: 5059951490
+Consent Status: Granted

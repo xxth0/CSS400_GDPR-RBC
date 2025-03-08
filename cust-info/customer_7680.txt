@@ -1,0 +1,6 @@
+Customer ID: 7680
+Name: Lisa Mcclain
+National ID: 176-60-7591
+Bank: Smith-Jones Bank
+Account Number: 7969344150
+Consent Status: Revoked

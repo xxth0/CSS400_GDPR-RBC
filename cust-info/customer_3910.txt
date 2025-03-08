@@ -1,0 +1,6 @@
+Customer ID: 3910
+Name: James Hickman
+National ID: 130-21-6079
+Bank: Case-Blanchard Bank
+Account Number: 9220033926
+Consent Status: Granted

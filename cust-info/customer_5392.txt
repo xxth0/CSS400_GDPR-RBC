@@ -1,0 +1,6 @@
+Customer ID: 5392
+Name: John Fitzgerald
+National ID: 459-85-9617
+Bank: Pennington Group Bank
+Account Number: 2983519187
+Consent Status: Revoked

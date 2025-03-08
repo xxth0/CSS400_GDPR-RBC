@@ -1,0 +1,6 @@
+Customer ID: 4570
+Name: Brandy Palmer
+National ID: 392-91-8263
+Bank: Carr-Sanchez Bank
+Account Number: 5648191188
+Consent Status: Revoked

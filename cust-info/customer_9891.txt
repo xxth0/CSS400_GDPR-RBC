@@ -1,0 +1,6 @@
+Customer ID: 9891
+Name: Stephanie Mercado
+National ID: 559-65-6084
+Bank: Page-Wilkins Bank
+Account Number: 8969459519
+Consent Status: Revoked

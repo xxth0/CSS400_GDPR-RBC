@@ -1,0 +1,6 @@
+Customer ID: 1156
+Name: David Roth
+National ID: 030-02-0263
+Bank: Martin-Jackson Bank
+Account Number: 2637302002
+Consent Status: Revoked

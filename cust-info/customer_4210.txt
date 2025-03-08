@@ -1,0 +1,6 @@
+Customer ID: 4210
+Name: Melissa Thompson
+National ID: 798-68-3121
+Bank: Sellers Inc Bank
+Account Number: 7814882371
+Consent Status: Revoked

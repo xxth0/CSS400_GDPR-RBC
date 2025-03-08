@@ -1,0 +1,6 @@
+Customer ID: 4385
+Name: Jesus Esparza
+National ID: 810-01-3285
+Bank: Benson, Mcdonald and Armstrong Bank
+Account Number: 2596661105
+Consent Status: Revoked

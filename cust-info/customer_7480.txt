@@ -1,0 +1,6 @@
+Customer ID: 7480
+Name: Andrew Clark
+National ID: 290-36-3878
+Bank: Walker LLC Bank
+Account Number: 9202745090
+Consent Status: Granted

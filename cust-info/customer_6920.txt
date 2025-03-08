@@ -1,0 +1,6 @@
+Customer ID: 6920
+Name: Jared Norris
+National ID: 105-36-7615
+Bank: Harris-Smith Bank
+Account Number: 4164763798
+Consent Status: Revoked

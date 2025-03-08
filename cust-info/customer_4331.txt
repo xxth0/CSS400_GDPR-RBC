@@ -1,0 +1,6 @@
+Customer ID: 4331
+Name: Joseph Young
+National ID: 685-32-3975
+Bank: Woods-Wilkinson Bank
+Account Number: 6999603196
+Consent Status: Revoked

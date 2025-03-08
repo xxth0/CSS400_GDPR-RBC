@@ -1,0 +1,6 @@
+Customer ID: 3068
+Name: Connie Warren
+National ID: 816-44-5984
+Bank: Black, Ross and Oliver Bank
+Account Number: 9111025255
+Consent Status: Revoked

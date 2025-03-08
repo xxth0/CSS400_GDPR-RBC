@@ -1,0 +1,6 @@
+Customer ID: 3029
+Name: Nicholas Long
+National ID: 844-64-8924
+Bank: Rivera-Estrada Bank
+Account Number: 2489390454
+Consent Status: Granted

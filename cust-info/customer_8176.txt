@@ -1,0 +1,6 @@
+Customer ID: 8176
+Name: Nicholas Griffin
+National ID: 601-90-6580
+Bank: Johnson Inc Bank
+Account Number: 2852767802
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5917
+Name: Mr. Daniel Nguyen II
+National ID: 070-60-7164
+Bank: Erickson-Strickland Bank
+Account Number: 8388880697
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5510
+Name: Gina Mendoza
+National ID: 525-81-8598
+Bank: King-King Bank
+Account Number: 3251539472
+Consent Status: Granted

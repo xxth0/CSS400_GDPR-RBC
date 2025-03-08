@@ -1,0 +1,6 @@
+Customer ID: 5967
+Name: Leonard Smith
+National ID: 182-25-1083
+Bank: Shaw-Smith Bank
+Account Number: 1340990221
+Consent Status: Granted

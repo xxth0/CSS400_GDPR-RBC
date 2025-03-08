@@ -1,0 +1,6 @@
+Customer ID: 4234
+Name: Jason Jackson
+National ID: 048-51-2304
+Bank: Hodge, Perkins and Lopez Bank
+Account Number: 6458492150
+Consent Status: Granted

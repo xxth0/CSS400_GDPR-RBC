@@ -1,0 +1,6 @@
+Customer ID: 2555
+Name: Cynthia Gross
+National ID: 121-84-2300
+Bank: Gomez Ltd Bank
+Account Number: 2715189468
+Consent Status: Granted

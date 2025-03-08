@@ -1,0 +1,6 @@
+Customer ID: 1166
+Name: Joseph Soto
+National ID: 837-92-8472
+Bank: Floyd, Hernandez and Powers Bank
+Account Number: 7183598967
+Consent Status: Revoked

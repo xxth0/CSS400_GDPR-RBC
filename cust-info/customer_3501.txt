@@ -1,0 +1,6 @@
+Customer ID: 3501
+Name: Frederick Young
+National ID: 134-61-2604
+Bank: White Ltd Bank
+Account Number: 2757637712
+Consent Status: Revoked

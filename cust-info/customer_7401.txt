@@ -1,0 +1,6 @@
+Customer ID: 7401
+Name: Ryan Cantu
+National ID: 896-68-7538
+Bank: Petersen-King Bank
+Account Number: 9419106803
+Consent Status: Revoked

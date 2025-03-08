@@ -1,0 +1,6 @@
+Customer ID: 2410
+Name: Joel Rodriguez
+National ID: 533-61-6155
+Bank: Gregory, Walker and Foley Bank
+Account Number: 4665243624
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3643
+Name: Elizabeth Martin
+National ID: 120-87-2790
+Bank: Walter-Avery Bank
+Account Number: 1575449717
+Consent Status: Revoked

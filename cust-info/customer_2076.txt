@@ -1,0 +1,6 @@
+Customer ID: 2076
+Name: Ricky Richmond
+National ID: 785-46-9837
+Bank: Gregory, West and Kemp Bank
+Account Number: 4372067194
+Consent Status: Granted

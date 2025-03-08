@@ -1,0 +1,6 @@
+Customer ID: 6673
+Name: Jennifer Frye
+National ID: 645-09-6067
+Bank: Dominguez, Shelton and Montoya Bank
+Account Number: 1867458867
+Consent Status: Granted

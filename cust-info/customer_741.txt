@@ -1,0 +1,6 @@
+Customer ID: 741
+Name: Mary Adams
+National ID: 594-31-0344
+Bank: Russell, Cardenas and Green Bank
+Account Number: 4898524157
+Consent Status: Granted

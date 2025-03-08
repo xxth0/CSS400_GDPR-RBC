@@ -1,0 +1,6 @@
+Customer ID: 635
+Name: Joann Miller
+National ID: 551-69-7039
+Bank: Lee-Young Bank
+Account Number: 4380657323
+Consent Status: Granted

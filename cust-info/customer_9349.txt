@@ -1,0 +1,6 @@
+Customer ID: 9349
+Name: John Clark
+National ID: 064-51-1204
+Bank: Phillips, Smith and Washington Bank
+Account Number: 7747129990
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7353
+Name: John Phillips
+National ID: 194-40-1397
+Bank: Trujillo, Dillon and Williams Bank
+Account Number: 4264359527
+Consent Status: Granted

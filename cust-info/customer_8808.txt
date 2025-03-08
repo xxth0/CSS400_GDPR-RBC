@@ -1,0 +1,6 @@
+Customer ID: 8808
+Name: Maria Barr
+National ID: 864-44-1810
+Bank: Gonzalez-Benitez Bank
+Account Number: 6742703716
+Consent Status: Granted

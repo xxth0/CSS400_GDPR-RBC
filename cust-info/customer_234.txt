@@ -1,0 +1,6 @@
+Customer ID: 234
+Name: Jonathan Bishop
+National ID: 271-50-4373
+Bank: Cook, Pugh and Garcia Bank
+Account Number: 4901697818
+Consent Status: Granted

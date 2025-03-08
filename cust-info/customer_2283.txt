@@ -1,0 +1,6 @@
+Customer ID: 2283
+Name: Wendy Williamson
+National ID: 212-48-4978
+Bank: Pennington, Tyler and Valencia Bank
+Account Number: 3316294875
+Consent Status: Revoked

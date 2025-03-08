@@ -1,0 +1,6 @@
+Customer ID: 2280
+Name: Alicia Clay DDS
+National ID: 120-64-8126
+Bank: Gonzales-Cabrera Bank
+Account Number: 5477248533
+Consent Status: Granted

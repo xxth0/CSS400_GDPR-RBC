@@ -1,0 +1,6 @@
+Customer ID: 2744
+Name: Randy Smith
+National ID: 347-58-0120
+Bank: Carlson PLC Bank
+Account Number: 8143847922
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6543
+Name: Bailey Medina
+National ID: 413-08-7183
+Bank: Davenport, Farmer and Scott Bank
+Account Number: 3846355549
+Consent Status: Revoked

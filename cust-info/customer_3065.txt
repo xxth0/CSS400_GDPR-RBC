@@ -1,0 +1,6 @@
+Customer ID: 3065
+Name: Keith Ellison
+National ID: 512-65-7806
+Bank: Mosley Ltd Bank
+Account Number: 4512422967
+Consent Status: Revoked

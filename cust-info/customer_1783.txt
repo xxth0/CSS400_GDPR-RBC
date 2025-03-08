@@ -1,0 +1,6 @@
+Customer ID: 1783
+Name: Sharon Bentley
+National ID: 672-45-3207
+Bank: Benson and Sons Bank
+Account Number: 7894975833
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 328
+Name: Amy Lawrence
+National ID: 101-94-2772
+Bank: Dunn Ltd Bank
+Account Number: 2264106703
+Consent Status: Revoked

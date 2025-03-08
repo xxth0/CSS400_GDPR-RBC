@@ -1,0 +1,6 @@
+Customer ID: 8444
+Name: Malik Randall
+National ID: 877-03-5151
+Bank: Garza-Hayden Bank
+Account Number: 8492047392
+Consent Status: Revoked

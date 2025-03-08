@@ -1,0 +1,6 @@
+Customer ID: 5844
+Name: Veronica Green
+National ID: 325-74-2264
+Bank: Brown, Thompson and Miller Bank
+Account Number: 1633014105
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8644
+Name: Veronica Snow
+National ID: 044-40-9709
+Bank: Baker-Singleton Bank
+Account Number: 8349511569
+Consent Status: Revoked

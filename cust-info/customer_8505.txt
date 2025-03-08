@@ -1,0 +1,6 @@
+Customer ID: 8505
+Name: Valerie Nelson
+National ID: 758-31-8415
+Bank: Gonzalez-Harris Bank
+Account Number: 4266355692
+Consent Status: Granted

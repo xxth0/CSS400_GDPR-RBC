@@ -1,0 +1,6 @@
+Customer ID: 22
+Name: Anna Bradley
+National ID: 152-30-7108
+Bank: Mejia, Kim and Sosa Bank
+Account Number: 3810817468
+Consent Status: Granted

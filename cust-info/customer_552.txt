@@ -1,0 +1,6 @@
+Customer ID: 552
+Name: Eric Middleton
+National ID: 230-10-6879
+Bank: Nichols-Miranda Bank
+Account Number: 5431341810
+Consent Status: Granted

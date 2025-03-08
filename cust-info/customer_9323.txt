@@ -1,0 +1,6 @@
+Customer ID: 9323
+Name: Jasmine Jensen
+National ID: 876-62-8932
+Bank: Cohen Ltd Bank
+Account Number: 8931988269
+Consent Status: Revoked

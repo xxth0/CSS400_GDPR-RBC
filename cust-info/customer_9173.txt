@@ -1,0 +1,6 @@
+Customer ID: 9173
+Name: Christopher Trevino
+National ID: 619-22-5078
+Bank: Hernandez, Nelson and Cook Bank
+Account Number: 6916487367
+Consent Status: Granted

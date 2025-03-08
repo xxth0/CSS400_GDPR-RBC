@@ -1,0 +1,6 @@
+Customer ID: 2912
+Name: Kimberly Matthews
+National ID: 374-20-8790
+Bank: Hughes PLC Bank
+Account Number: 7740692950
+Consent Status: Revoked

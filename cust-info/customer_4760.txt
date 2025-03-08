@@ -1,0 +1,6 @@
+Customer ID: 4760
+Name: Tracy Deleon
+National ID: 510-69-8166
+Bank: King PLC Bank
+Account Number: 4163912118
+Consent Status: Revoked

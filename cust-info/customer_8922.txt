@@ -1,0 +1,6 @@
+Customer ID: 8922
+Name: Mary Duncan
+National ID: 837-91-1706
+Bank: Morgan LLC Bank
+Account Number: 6441020393
+Consent Status: Revoked

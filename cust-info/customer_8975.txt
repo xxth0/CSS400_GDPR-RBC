@@ -1,0 +1,6 @@
+Customer ID: 8975
+Name: Tonya Fuentes
+National ID: 743-83-5667
+Bank: Jimenez-Barber Bank
+Account Number: 5516691282
+Consent Status: Granted

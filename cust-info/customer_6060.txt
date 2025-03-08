@@ -1,0 +1,6 @@
+Customer ID: 6060
+Name: Judith Oneal
+National ID: 419-87-9874
+Bank: Wade, Washington and Palmer Bank
+Account Number: 6421570865
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2725
+Name: Nancy Mcdonald
+National ID: 658-87-9996
+Bank: Bernard Ltd Bank
+Account Number: 2486467082
+Consent Status: Revoked

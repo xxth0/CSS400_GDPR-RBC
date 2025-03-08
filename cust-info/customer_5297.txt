@@ -1,0 +1,6 @@
+Customer ID: 5297
+Name: Karen Williams
+National ID: 836-06-8535
+Bank: Benitez Inc Bank
+Account Number: 3293249253
+Consent Status: Revoked

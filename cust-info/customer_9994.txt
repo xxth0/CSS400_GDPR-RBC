@@ -1,0 +1,6 @@
+Customer ID: 9994
+Name: John Watson
+National ID: 639-79-9463
+Bank: Barton-Clarke Bank
+Account Number: 1034382109
+Consent Status: Granted

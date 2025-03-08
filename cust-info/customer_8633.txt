@@ -1,0 +1,6 @@
+Customer ID: 8633
+Name: Matthew Rodriguez
+National ID: 614-76-7640
+Bank: Prince-Martin Bank
+Account Number: 2264984744
+Consent Status: Revoked

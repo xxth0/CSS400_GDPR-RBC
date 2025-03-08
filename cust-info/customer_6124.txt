@@ -1,0 +1,6 @@
+Customer ID: 6124
+Name: Julie Brown
+National ID: 692-75-5919
+Bank: Morrison, Thompson and Good Bank
+Account Number: 2374702232
+Consent Status: Revoked

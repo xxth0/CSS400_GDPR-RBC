@@ -1,0 +1,6 @@
+Customer ID: 2704
+Name: Anthony Greer
+National ID: 888-23-2036
+Bank: Frederick-Lewis Bank
+Account Number: 5251020933
+Consent Status: Revoked

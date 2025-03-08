@@ -1,0 +1,6 @@
+Customer ID: 1733
+Name: Elizabeth Le
+National ID: 168-20-2765
+Bank: Williamson, West and Phillips Bank
+Account Number: 3957390717
+Consent Status: Revoked

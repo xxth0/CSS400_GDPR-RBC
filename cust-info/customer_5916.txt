@@ -1,0 +1,6 @@
+Customer ID: 5916
+Name: Eric Fuentes
+National ID: 090-51-7730
+Bank: Pollard-Morris Bank
+Account Number: 2838641852
+Consent Status: Revoked

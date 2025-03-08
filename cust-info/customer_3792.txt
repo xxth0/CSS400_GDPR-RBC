@@ -1,0 +1,6 @@
+Customer ID: 3792
+Name: Kevin Smith DDS
+National ID: 709-42-5341
+Bank: Boyd, Jackson and Lewis Bank
+Account Number: 5861720970
+Consent Status: Granted

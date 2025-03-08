@@ -1,0 +1,6 @@
+Customer ID: 7351
+Name: Lisa Martinez
+National ID: 425-99-1305
+Bank: Mann, Richardson and Moore Bank
+Account Number: 2684655268
+Consent Status: Granted

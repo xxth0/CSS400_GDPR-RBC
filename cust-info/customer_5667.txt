@@ -1,0 +1,6 @@
+Customer ID: 5667
+Name: Randy Ramsey
+National ID: 140-90-1580
+Bank: Bauer, Mcdonald and Hughes Bank
+Account Number: 5504577072
+Consent Status: Granted

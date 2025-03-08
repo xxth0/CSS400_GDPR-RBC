@@ -1,0 +1,6 @@
+Customer ID: 1801
+Name: Christopher Garcia
+National ID: 140-09-6144
+Bank: Skinner and Sons Bank
+Account Number: 3452996663
+Consent Status: Revoked

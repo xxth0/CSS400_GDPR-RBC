@@ -1,0 +1,6 @@
+Customer ID: 6742
+Name: Erin Murray
+National ID: 662-97-3245
+Bank: Simmons, Wilson and Dixon Bank
+Account Number: 4827517176
+Consent Status: Revoked

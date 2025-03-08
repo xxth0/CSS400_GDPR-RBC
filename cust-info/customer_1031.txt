@@ -1,0 +1,6 @@
+Customer ID: 1031
+Name: Robert Acevedo
+National ID: 021-31-6475
+Bank: Patel, Black and Erickson Bank
+Account Number: 1216578604
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 88
+Name: Jaime Kim
+National ID: 652-10-0321
+Bank: King LLC Bank
+Account Number: 9632520746
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6661
+Name: Rebecca Price
+National ID: 314-68-9449
+Bank: Ray, Choi and Mccoy Bank
+Account Number: 3955466477
+Consent Status: Granted

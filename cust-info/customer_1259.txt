@@ -1,0 +1,6 @@
+Customer ID: 1259
+Name: Barbara Holmes
+National ID: 490-13-5308
+Bank: Pineda-Cruz Bank
+Account Number: 6845096429
+Consent Status: Revoked

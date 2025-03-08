@@ -1,0 +1,6 @@
+Customer ID: 90
+Name: Mark Hernandez
+National ID: 445-10-8956
+Bank: Berry-Todd Bank
+Account Number: 7387085285
+Consent Status: Granted

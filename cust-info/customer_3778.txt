@@ -1,0 +1,6 @@
+Customer ID: 3778
+Name: Jordan Huerta
+National ID: 678-52-0463
+Bank: Williams, White and Bruce Bank
+Account Number: 6696553811
+Consent Status: Revoked

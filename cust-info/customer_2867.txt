@@ -1,0 +1,6 @@
+Customer ID: 2867
+Name: Melanie Stephens
+National ID: 831-46-5706
+Bank: Robles-Warren Bank
+Account Number: 4290250765
+Consent Status: Revoked

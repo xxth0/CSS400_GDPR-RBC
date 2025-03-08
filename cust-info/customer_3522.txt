@@ -1,0 +1,6 @@
+Customer ID: 3522
+Name: Leah Glover DVM
+National ID: 559-32-2361
+Bank: Mclaughlin PLC Bank
+Account Number: 1029566902
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9610
+Name: Cynthia Gray
+National ID: 635-83-4065
+Bank: Peterson, Peterson and Orr Bank
+Account Number: 7455970159
+Consent Status: Revoked

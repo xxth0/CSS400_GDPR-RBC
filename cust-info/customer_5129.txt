@@ -1,0 +1,6 @@
+Customer ID: 5129
+Name: Wendy Cooper
+National ID: 199-88-6378
+Bank: Armstrong and Sons Bank
+Account Number: 6839505144
+Consent Status: Revoked

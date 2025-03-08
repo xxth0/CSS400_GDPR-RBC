@@ -1,0 +1,6 @@
+Customer ID: 1710
+Name: Scott Hernandez
+National ID: 259-98-3453
+Bank: Martin, Rose and Clayton Bank
+Account Number: 2127161042
+Consent Status: Revoked

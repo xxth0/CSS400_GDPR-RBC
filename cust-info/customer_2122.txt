@@ -1,0 +1,6 @@
+Customer ID: 2122
+Name: Douglas Schneider
+National ID: 665-06-8457
+Bank: Harvey, Palmer and Waters Bank
+Account Number: 7414509335
+Consent Status: Revoked

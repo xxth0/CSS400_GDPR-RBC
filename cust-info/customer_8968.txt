@@ -1,0 +1,6 @@
+Customer ID: 8968
+Name: Travis Hughes
+National ID: 629-30-5576
+Bank: Simon PLC Bank
+Account Number: 2848770844
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2107
+Name: Antonio Clark
+National ID: 801-59-0470
+Bank: Alexander, Davis and Curry Bank
+Account Number: 9909383751
+Consent Status: Granted

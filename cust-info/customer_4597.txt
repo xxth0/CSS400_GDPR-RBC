@@ -1,0 +1,6 @@
+Customer ID: 4597
+Name: Jeremy Miller
+National ID: 272-47-7070
+Bank: Brown-Smith Bank
+Account Number: 9731985022
+Consent Status: Revoked

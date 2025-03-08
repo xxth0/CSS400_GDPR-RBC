@@ -1,0 +1,6 @@
+Customer ID: 9527
+Name: Sarah Miller
+National ID: 715-15-5090
+Bank: Porter-Perez Bank
+Account Number: 1106748002
+Consent Status: Revoked

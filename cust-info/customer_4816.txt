@@ -1,0 +1,6 @@
+Customer ID: 4816
+Name: Charles Anderson
+National ID: 212-90-3119
+Bank: Gillespie, Rocha and Anderson Bank
+Account Number: 3136311091
+Consent Status: Granted

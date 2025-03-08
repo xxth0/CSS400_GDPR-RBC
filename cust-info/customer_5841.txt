@@ -1,0 +1,6 @@
+Customer ID: 5841
+Name: Jacqueline White
+National ID: 593-78-0020
+Bank: Moore-Harris Bank
+Account Number: 3738093504
+Consent Status: Revoked

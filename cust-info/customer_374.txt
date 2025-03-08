@@ -1,0 +1,6 @@
+Customer ID: 374
+Name: Cynthia Smith
+National ID: 150-84-1042
+Bank: Cunningham Inc Bank
+Account Number: 9755791041
+Consent Status: Revoked

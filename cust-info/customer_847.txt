@@ -1,0 +1,6 @@
+Customer ID: 847
+Name: Linda Miller
+National ID: 365-06-9610
+Bank: Hebert-Wilson Bank
+Account Number: 4012592797
+Consent Status: Revoked

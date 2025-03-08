@@ -1,0 +1,6 @@
+Customer ID: 9046
+Name: Danny Bright
+National ID: 787-35-7052
+Bank: Carter Group Bank
+Account Number: 9090743142
+Consent Status: Revoked

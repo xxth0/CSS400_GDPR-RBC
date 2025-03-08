@@ -1,0 +1,6 @@
+Customer ID: 7911
+Name: Michael Smith
+National ID: 489-74-6133
+Bank: York-Mckee Bank
+Account Number: 8530395590
+Consent Status: Granted

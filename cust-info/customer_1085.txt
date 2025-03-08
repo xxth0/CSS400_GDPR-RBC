@@ -1,0 +1,6 @@
+Customer ID: 1085
+Name: Nicholas Scott
+National ID: 033-87-7175
+Bank: Horton-Young Bank
+Account Number: 9579409704
+Consent Status: Revoked

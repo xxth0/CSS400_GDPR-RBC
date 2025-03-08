@@ -1,0 +1,6 @@
+Customer ID: 4855
+Name: Mitchell Mckinney
+National ID: 802-61-9100
+Bank: Miller, Dixon and Stewart Bank
+Account Number: 6280235541
+Consent Status: Granted

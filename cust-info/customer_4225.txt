@@ -1,0 +1,6 @@
+Customer ID: 4225
+Name: Elizabeth Hall MD
+National ID: 009-47-3840
+Bank: Duncan Inc Bank
+Account Number: 7323833806
+Consent Status: Revoked

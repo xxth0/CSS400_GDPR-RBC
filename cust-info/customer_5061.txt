@@ -1,0 +1,6 @@
+Customer ID: 5061
+Name: David Ferguson
+National ID: 881-08-5113
+Bank: Gomez Inc Bank
+Account Number: 1946827351
+Consent Status: Revoked

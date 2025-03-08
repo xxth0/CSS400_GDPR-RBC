@@ -1,0 +1,6 @@
+Customer ID: 2487
+Name: Luke Fuller
+National ID: 324-84-6763
+Bank: Allen-Conner Bank
+Account Number: 3336275586
+Consent Status: Revoked

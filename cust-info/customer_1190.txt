@@ -1,0 +1,6 @@
+Customer ID: 1190
+Name: David Carter
+National ID: 124-38-3086
+Bank: Henson, Blackburn and Gonzalez Bank
+Account Number: 9706356381
+Consent Status: Revoked

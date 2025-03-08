@@ -1,0 +1,6 @@
+Customer ID: 8436
+Name: Scott Tran
+National ID: 096-59-3114
+Bank: Daniels, Williams and Maldonado Bank
+Account Number: 9734173037
+Consent Status: Granted

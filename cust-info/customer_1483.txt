@@ -1,0 +1,6 @@
+Customer ID: 1483
+Name: Donald Hicks
+National ID: 410-46-4890
+Bank: Hernandez Group Bank
+Account Number: 4652454336
+Consent Status: Granted

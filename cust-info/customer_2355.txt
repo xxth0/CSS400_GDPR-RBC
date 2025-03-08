@@ -1,0 +1,6 @@
+Customer ID: 2355
+Name: Elizabeth Howe
+National ID: 775-99-9970
+Bank: Hernandez and Sons Bank
+Account Number: 2703791610
+Consent Status: Granted

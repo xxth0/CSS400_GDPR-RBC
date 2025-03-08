@@ -1,0 +1,6 @@
+Customer ID: 2144
+Name: Allison Collins
+National ID: 509-41-6340
+Bank: Sullivan, Willis and Golden Bank
+Account Number: 6914451923
+Consent Status: Granted

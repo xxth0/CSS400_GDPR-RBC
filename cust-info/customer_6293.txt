@@ -1,0 +1,6 @@
+Customer ID: 6293
+Name: Leslie Fernandez
+National ID: 099-81-4293
+Bank: Guzman PLC Bank
+Account Number: 6192779771
+Consent Status: Revoked

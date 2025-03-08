@@ -1,0 +1,6 @@
+Customer ID: 9709
+Name: Deborah Campbell
+National ID: 417-98-7480
+Bank: Lee Ltd Bank
+Account Number: 6981972721
+Consent Status: Granted

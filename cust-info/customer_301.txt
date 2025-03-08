@@ -1,0 +1,6 @@
+Customer ID: 301
+Name: Rebecca Cooper
+National ID: 303-02-9321
+Bank: Brown, King and Brown Bank
+Account Number: 8848386803
+Consent Status: Granted

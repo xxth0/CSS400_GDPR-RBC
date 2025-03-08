@@ -1,0 +1,6 @@
+Customer ID: 652
+Name: Susan Cisneros
+National ID: 669-60-5381
+Bank: Cook, Chandler and Martinez Bank
+Account Number: 9896671302
+Consent Status: Granted

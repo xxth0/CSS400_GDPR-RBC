@@ -1,0 +1,6 @@
+Customer ID: 4033
+Name: Michael Wilkerson
+National ID: 467-42-7847
+Bank: Sanchez Group Bank
+Account Number: 1959847782
+Consent Status: Revoked

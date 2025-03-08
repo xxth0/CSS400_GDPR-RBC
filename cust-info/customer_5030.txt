@@ -1,0 +1,6 @@
+Customer ID: 5030
+Name: John Lee
+National ID: 684-71-0386
+Bank: Ball Inc Bank
+Account Number: 7876627721
+Consent Status: Revoked

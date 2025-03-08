@@ -1,0 +1,6 @@
+Customer ID: 3970
+Name: Ariel Ewing
+National ID: 898-38-6714
+Bank: Gray, Clark and Moyer Bank
+Account Number: 2553041591
+Consent Status: Revoked

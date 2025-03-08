@@ -1,0 +1,6 @@
+Customer ID: 3477
+Name: Darin Moran
+National ID: 545-24-5492
+Bank: King Ltd Bank
+Account Number: 3173056321
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9688
+Name: Ms. Amy Skinner
+National ID: 870-34-9601
+Bank: Carroll, Melton and White Bank
+Account Number: 6191085828
+Consent Status: Granted

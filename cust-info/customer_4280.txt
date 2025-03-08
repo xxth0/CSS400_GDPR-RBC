@@ -1,0 +1,6 @@
+Customer ID: 4280
+Name: Victoria Robertson
+National ID: 749-75-9087
+Bank: Juarez-Lee Bank
+Account Number: 4807180710
+Consent Status: Revoked

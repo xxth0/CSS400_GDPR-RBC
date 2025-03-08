@@ -1,0 +1,6 @@
+Customer ID: 7274
+Name: Amber Rodriguez
+National ID: 102-81-2700
+Bank: Hayes, Washington and Owens Bank
+Account Number: 9274443984
+Consent Status: Revoked

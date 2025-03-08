@@ -1,0 +1,6 @@
+Customer ID: 8597
+Name: Amanda Torres
+National ID: 471-91-7658
+Bank: Mcbride, Yu and Davis Bank
+Account Number: 2712545306
+Consent Status: Granted

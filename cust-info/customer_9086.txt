@@ -1,0 +1,6 @@
+Customer ID: 9086
+Name: Carol Macdonald
+National ID: 706-51-6744
+Bank: Wilson, Davis and Delgado Bank
+Account Number: 9382624231
+Consent Status: Granted

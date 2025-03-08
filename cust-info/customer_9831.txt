@@ -1,0 +1,6 @@
+Customer ID: 9831
+Name: Danielle Lee
+National ID: 582-75-2099
+Bank: Greene, Thompson and Walker Bank
+Account Number: 1351530077
+Consent Status: Granted

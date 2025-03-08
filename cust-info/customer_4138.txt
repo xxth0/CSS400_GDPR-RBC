@@ -1,0 +1,6 @@
+Customer ID: 4138
+Name: Nicholas Duffy
+National ID: 810-36-8871
+Bank: Acosta-Baker Bank
+Account Number: 5122205847
+Consent Status: Revoked

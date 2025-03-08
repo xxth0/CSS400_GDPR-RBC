@@ -1,0 +1,6 @@
+Customer ID: 3483
+Name: John Kim
+National ID: 813-88-5274
+Bank: Mathis, Payne and Johnson Bank
+Account Number: 2163694852
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1616
+Name: Jimmy Williams
+National ID: 519-72-6120
+Bank: Hernandez-Duffy Bank
+Account Number: 7235617859
+Consent Status: Granted

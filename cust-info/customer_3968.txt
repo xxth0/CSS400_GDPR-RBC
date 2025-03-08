@@ -1,0 +1,6 @@
+Customer ID: 3968
+Name: Kimberly Burnett
+National ID: 569-43-5557
+Bank: Carter and Sons Bank
+Account Number: 1164904976
+Consent Status: Revoked

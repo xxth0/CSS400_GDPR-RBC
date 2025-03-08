@@ -1,0 +1,6 @@
+Customer ID: 6650
+Name: Maria Wagner
+National ID: 053-29-8620
+Bank: Wilson Ltd Bank
+Account Number: 3752858018
+Consent Status: Granted

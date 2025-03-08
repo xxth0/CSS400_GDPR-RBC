@@ -1,0 +1,6 @@
+Customer ID: 8507
+Name: Andrew White
+National ID: 318-92-7476
+Bank: Irwin-Oliver Bank
+Account Number: 2870169818
+Consent Status: Revoked

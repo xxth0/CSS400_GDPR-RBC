@@ -1,0 +1,6 @@
+Customer ID: 2360
+Name: Laura Montgomery
+National ID: 105-70-5441
+Bank: Lewis PLC Bank
+Account Number: 7881207924
+Consent Status: Revoked

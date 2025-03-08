@@ -1,0 +1,6 @@
+Customer ID: 9352
+Name: Susan Harvey
+National ID: 672-99-1733
+Bank: Alvarado-Griffith Bank
+Account Number: 1283161300
+Consent Status: Granted

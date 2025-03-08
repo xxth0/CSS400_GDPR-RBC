@@ -1,0 +1,6 @@
+Customer ID: 2235
+Name: Ryan Lewis
+National ID: 849-37-3785
+Bank: Hayes and Sons Bank
+Account Number: 4004455073
+Consent Status: Revoked

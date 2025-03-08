@@ -1,0 +1,6 @@
+Customer ID: 4870
+Name: Gabriella Le
+National ID: 836-48-1203
+Bank: Jones-Nelson Bank
+Account Number: 1929344840
+Consent Status: Granted

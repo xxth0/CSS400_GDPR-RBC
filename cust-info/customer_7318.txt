@@ -1,0 +1,6 @@
+Customer ID: 7318
+Name: Diana Thomas
+National ID: 423-64-5204
+Bank: Martin, Castro and Jimenez Bank
+Account Number: 9299489041
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2397
+Name: Molly Doyle
+National ID: 654-66-9582
+Bank: Walter, Cherry and Gonzalez Bank
+Account Number: 6490524216
+Consent Status: Revoked

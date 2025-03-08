@@ -1,0 +1,6 @@
+Customer ID: 1377
+Name: Martha Barker
+National ID: 492-81-1242
+Bank: Fuentes, Christian and Andrews Bank
+Account Number: 5263390080
+Consent Status: Granted

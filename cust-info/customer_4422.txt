@@ -1,0 +1,6 @@
+Customer ID: 4422
+Name: Lisa Lowe
+National ID: 030-54-0235
+Bank: Adams Group Bank
+Account Number: 3039193889
+Consent Status: Granted

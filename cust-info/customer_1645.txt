@@ -1,0 +1,6 @@
+Customer ID: 1645
+Name: Joseph Stokes
+National ID: 715-49-1734
+Bank: Kelly, Atkinson and Mcneil Bank
+Account Number: 6105985260
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6024
+Name: Robert Hernandez
+National ID: 115-49-0831
+Bank: Turner, Castro and Jackson Bank
+Account Number: 7754116917
+Consent Status: Revoked

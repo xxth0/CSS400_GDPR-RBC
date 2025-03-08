@@ -1,0 +1,6 @@
+Customer ID: 4056
+Name: Mr. Sean Roman Jr.
+National ID: 094-37-5898
+Bank: Tyler, Hayes and Curry Bank
+Account Number: 2835100830
+Consent Status: Granted

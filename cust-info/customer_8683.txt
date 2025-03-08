@@ -1,0 +1,6 @@
+Customer ID: 8683
+Name: Madison Gonzalez
+National ID: 843-65-2681
+Bank: Cruz, Mcbride and Holt Bank
+Account Number: 2865703293
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7933
+Name: Donald Barber
+National ID: 408-17-0469
+Bank: Wilkins PLC Bank
+Account Number: 9572551760
+Consent Status: Granted

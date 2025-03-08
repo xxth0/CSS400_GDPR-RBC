@@ -1,0 +1,6 @@
+Customer ID: 9923
+Name: James Flores
+National ID: 832-08-8322
+Bank: House-Andrews Bank
+Account Number: 7458334356
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 761
+Name: Tyler Alexander
+National ID: 389-07-6908
+Bank: Rowe, Clark and Parks Bank
+Account Number: 2684666181
+Consent Status: Granted

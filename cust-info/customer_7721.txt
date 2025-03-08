@@ -1,0 +1,6 @@
+Customer ID: 7721
+Name: Michelle Duran
+National ID: 286-48-4706
+Bank: Willis Ltd Bank
+Account Number: 9916557805
+Consent Status: Revoked

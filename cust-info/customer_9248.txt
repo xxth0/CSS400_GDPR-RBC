@@ -1,0 +1,6 @@
+Customer ID: 9248
+Name: Jenna Acevedo
+National ID: 072-97-4637
+Bank: Snyder LLC Bank
+Account Number: 7101310049
+Consent Status: Revoked

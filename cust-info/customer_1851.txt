@@ -1,0 +1,6 @@
+Customer ID: 1851
+Name: Nicole Cox
+National ID: 815-72-7778
+Bank: Murray, Hines and Brock Bank
+Account Number: 7634366906
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6594
+Name: Gary Davis
+National ID: 664-75-6044
+Bank: Farmer Group Bank
+Account Number: 1971583276
+Consent Status: Revoked

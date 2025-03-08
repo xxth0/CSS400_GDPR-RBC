@@ -1,0 +1,6 @@
+Customer ID: 9531
+Name: Lynn Thomas
+National ID: 729-01-3387
+Bank: Williams Ltd Bank
+Account Number: 2527844752
+Consent Status: Granted

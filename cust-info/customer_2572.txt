@@ -1,0 +1,6 @@
+Customer ID: 2572
+Name: Steven Jefferson
+National ID: 799-54-7871
+Bank: Hardy-Wells Bank
+Account Number: 5403171831
+Consent Status: Granted

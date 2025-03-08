@@ -1,0 +1,6 @@
+Customer ID: 8326
+Name: Wendy Russell
+National ID: 411-68-6618
+Bank: Jones-Johnson Bank
+Account Number: 4952723422
+Consent Status: Granted

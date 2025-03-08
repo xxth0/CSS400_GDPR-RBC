@@ -1,0 +1,6 @@
+Customer ID: 8472
+Name: Brandon Frazier
+National ID: 776-81-4122
+Bank: Ward, Simmons and Green Bank
+Account Number: 4131612768
+Consent Status: Revoked

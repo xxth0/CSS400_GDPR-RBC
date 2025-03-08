@@ -1,0 +1,6 @@
+Customer ID: 4393
+Name: Vickie Smith
+National ID: 811-57-3157
+Bank: Collins, Bolton and Dunn Bank
+Account Number: 4528165491
+Consent Status: Revoked

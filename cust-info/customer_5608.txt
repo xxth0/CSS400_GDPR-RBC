@@ -1,0 +1,6 @@
+Customer ID: 5608
+Name: Jasmine Montes
+National ID: 593-17-0402
+Bank: Ruiz LLC Bank
+Account Number: 9067796639
+Consent Status: Granted

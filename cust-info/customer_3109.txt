@@ -1,0 +1,6 @@
+Customer ID: 3109
+Name: Steven Reed
+National ID: 013-37-9257
+Bank: Lopez-Holmes Bank
+Account Number: 5271355792
+Consent Status: Revoked

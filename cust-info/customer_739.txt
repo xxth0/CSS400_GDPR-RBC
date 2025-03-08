@@ -1,0 +1,6 @@
+Customer ID: 739
+Name: Michael Kent
+National ID: 083-37-4281
+Bank: Holden Group Bank
+Account Number: 6194875118
+Consent Status: Granted

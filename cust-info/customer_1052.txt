@@ -1,0 +1,6 @@
+Customer ID: 1052
+Name: Mr. Alexander Smith
+National ID: 471-88-2842
+Bank: Thompson and Sons Bank
+Account Number: 8834327866
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3167
+Name: Nicholas Nguyen
+National ID: 823-09-7908
+Bank: Flynn-Marks Bank
+Account Number: 6682595666
+Consent Status: Revoked

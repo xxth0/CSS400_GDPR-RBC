@@ -1,0 +1,6 @@
+Customer ID: 5472
+Name: Luis Lam
+National ID: 541-96-8986
+Bank: Warren-Rogers Bank
+Account Number: 5124467176
+Consent Status: Revoked

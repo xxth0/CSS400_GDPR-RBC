@@ -1,0 +1,6 @@
+Customer ID: 6506
+Name: Kelly Thompson
+National ID: 356-22-4101
+Bank: Fitzgerald, Compton and Pena Bank
+Account Number: 4300331895
+Consent Status: Revoked

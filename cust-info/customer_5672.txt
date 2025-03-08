@@ -1,0 +1,6 @@
+Customer ID: 5672
+Name: Nathan Morton
+National ID: 113-80-2120
+Bank: Jarvis, Ferguson and White Bank
+Account Number: 3682908127
+Consent Status: Granted

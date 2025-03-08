@@ -1,0 +1,6 @@
+Customer ID: 9761
+Name: Rachael Davis
+National ID: 411-85-5339
+Bank: Best-Bailey Bank
+Account Number: 8500492844
+Consent Status: Revoked

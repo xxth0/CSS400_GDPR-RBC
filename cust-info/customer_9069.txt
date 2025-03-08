@@ -1,0 +1,6 @@
+Customer ID: 9069
+Name: Amanda Hodges
+National ID: 329-96-4864
+Bank: Wolfe-Williams Bank
+Account Number: 5075299915
+Consent Status: Granted

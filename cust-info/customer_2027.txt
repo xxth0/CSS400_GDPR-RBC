@@ -1,0 +1,6 @@
+Customer ID: 2027
+Name: Ashley Diaz
+National ID: 855-96-2573
+Bank: Monroe, Nelson and Williams Bank
+Account Number: 9697015676
+Consent Status: Granted

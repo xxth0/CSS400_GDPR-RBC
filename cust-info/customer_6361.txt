@@ -1,0 +1,6 @@
+Customer ID: 6361
+Name: Kelly Chandler
+National ID: 889-02-5238
+Bank: Gonzalez-Graham Bank
+Account Number: 6208467682
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4786
+Name: Kenneth Dyer
+National ID: 302-94-6037
+Bank: Lane Group Bank
+Account Number: 9191313977
+Consent Status: Revoked

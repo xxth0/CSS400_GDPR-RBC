@@ -1,0 +1,6 @@
+Customer ID: 2971
+Name: David Harvey
+National ID: 652-35-4357
+Bank: Mcdaniel Inc Bank
+Account Number: 5424714460
+Consent Status: Revoked

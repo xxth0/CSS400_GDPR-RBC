@@ -1,0 +1,6 @@
+Customer ID: 8837
+Name: Mark Copeland
+National ID: 808-31-6005
+Bank: Wood PLC Bank
+Account Number: 7956921625
+Consent Status: Granted

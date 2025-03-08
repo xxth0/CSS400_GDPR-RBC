@@ -1,0 +1,6 @@
+Customer ID: 6151
+Name: Tyler Todd
+National ID: 496-89-3742
+Bank: Diaz PLC Bank
+Account Number: 7866740238
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3992
+Name: Krista Brown
+National ID: 048-66-9091
+Bank: Thornton and Sons Bank
+Account Number: 9551652913
+Consent Status: Revoked

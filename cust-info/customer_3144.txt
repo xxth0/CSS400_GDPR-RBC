@@ -1,0 +1,6 @@
+Customer ID: 3144
+Name: Douglas Ross
+National ID: 277-69-5537
+Bank: Grimes-Morris Bank
+Account Number: 8359347838
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6764
+Name: Brian Gonzales
+National ID: 784-62-4387
+Bank: Rhodes-Collier Bank
+Account Number: 6944094586
+Consent Status: Granted

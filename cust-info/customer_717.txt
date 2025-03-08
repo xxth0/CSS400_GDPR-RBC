@@ -1,0 +1,6 @@
+Customer ID: 717
+Name: Alexander Riggs
+National ID: 644-05-6108
+Bank: Anderson and Sons Bank
+Account Number: 1454725222
+Consent Status: Revoked

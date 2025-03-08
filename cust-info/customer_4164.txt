@@ -1,0 +1,6 @@
+Customer ID: 4164
+Name: Michael Diaz
+National ID: 042-91-4531
+Bank: Santiago, Burns and Hernandez Bank
+Account Number: 2847604309
+Consent Status: Granted

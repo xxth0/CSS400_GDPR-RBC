@@ -1,0 +1,6 @@
+Customer ID: 7672
+Name: Molly Bishop MD
+National ID: 370-08-8085
+Bank: Andrade PLC Bank
+Account Number: 5583525218
+Consent Status: Revoked

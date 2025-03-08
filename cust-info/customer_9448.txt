@@ -1,0 +1,6 @@
+Customer ID: 9448
+Name: Kimberly Moss
+National ID: 179-80-9370
+Bank: Meza and Sons Bank
+Account Number: 4966306505
+Consent Status: Revoked

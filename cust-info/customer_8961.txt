@@ -1,0 +1,6 @@
+Customer ID: 8961
+Name: Kenneth Sanchez
+National ID: 424-87-1649
+Bank: Phillips, Haas and Cardenas Bank
+Account Number: 6868221892
+Consent Status: Revoked

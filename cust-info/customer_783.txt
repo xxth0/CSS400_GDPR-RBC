@@ -1,0 +1,6 @@
+Customer ID: 783
+Name: Christina Jimenez
+National ID: 252-04-6673
+Bank: King, Chavez and Lambert Bank
+Account Number: 2225561680
+Consent Status: Revoked

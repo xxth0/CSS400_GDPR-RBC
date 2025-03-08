@@ -1,0 +1,6 @@
+Customer ID: 4664
+Name: Ashley Potter
+National ID: 892-26-0355
+Bank: Paul, Olson and Moody Bank
+Account Number: 8570673671
+Consent Status: Revoked

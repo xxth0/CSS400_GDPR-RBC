@@ -1,0 +1,6 @@
+Customer ID: 7904
+Name: Jose Leonard
+National ID: 573-75-2527
+Bank: Jackson-Long Bank
+Account Number: 4225528776
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5598
+Name: Mr. Thomas Bell
+National ID: 353-38-3620
+Bank: Leon, Myers and Scott Bank
+Account Number: 4209187531
+Consent Status: Revoked

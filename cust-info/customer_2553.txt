@@ -1,0 +1,6 @@
+Customer ID: 2553
+Name: Emily Allen
+National ID: 337-09-8302
+Bank: Gray-Kaiser Bank
+Account Number: 7638046615
+Consent Status: Granted

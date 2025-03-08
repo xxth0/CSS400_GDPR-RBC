@@ -1,0 +1,6 @@
+Customer ID: 9622
+Name: Amy Berg
+National ID: 401-28-0375
+Bank: Stewart-Lewis Bank
+Account Number: 9793802693
+Consent Status: Granted

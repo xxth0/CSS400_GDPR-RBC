@@ -1,0 +1,6 @@
+Customer ID: 2953
+Name: Kathryn Miller
+National ID: 513-28-6545
+Bank: Hicks and Sons Bank
+Account Number: 7594505859
+Consent Status: Revoked

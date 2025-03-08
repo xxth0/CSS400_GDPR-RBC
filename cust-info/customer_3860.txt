@@ -1,0 +1,6 @@
+Customer ID: 3860
+Name: Margaret Ross
+National ID: 409-67-4046
+Bank: Foster-Harrison Bank
+Account Number: 6128438964
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7860
+Name: Diane White
+National ID: 641-73-5240
+Bank: Perez-Huff Bank
+Account Number: 3758891738
+Consent Status: Revoked

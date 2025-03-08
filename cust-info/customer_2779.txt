@@ -1,0 +1,6 @@
+Customer ID: 2779
+Name: Stacy Edwards
+National ID: 387-80-7780
+Bank: Jones LLC Bank
+Account Number: 9169608461
+Consent Status: Granted

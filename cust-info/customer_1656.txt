@@ -1,0 +1,6 @@
+Customer ID: 1656
+Name: Jorge Harris
+National ID: 831-04-9749
+Bank: Lucero, Cross and Meadows Bank
+Account Number: 1225711150
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2281
+Name: Laura Lopez
+National ID: 621-27-1814
+Bank: Harris Ltd Bank
+Account Number: 9202920152
+Consent Status: Granted

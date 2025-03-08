@@ -1,0 +1,6 @@
+Customer ID: 1782
+Name: Aaron Nelson
+National ID: 453-27-2656
+Bank: Anderson LLC Bank
+Account Number: 9513027294
+Consent Status: Granted

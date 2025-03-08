@@ -1,0 +1,6 @@
+Customer ID: 9843
+Name: Kimberly Garcia
+National ID: 484-92-2844
+Bank: Nash and Sons Bank
+Account Number: 9544909233
+Consent Status: Granted

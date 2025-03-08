@@ -1,0 +1,6 @@
+Customer ID: 2599
+Name: Raymond Wagner
+National ID: 384-29-6107
+Bank: Davidson-Yang Bank
+Account Number: 2153046017
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8244
+Name: Jonathan Smith
+National ID: 303-28-9678
+Bank: Mccall and Sons Bank
+Account Number: 4846906442
+Consent Status: Revoked

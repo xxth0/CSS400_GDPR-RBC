@@ -1,0 +1,6 @@
+Customer ID: 2078
+Name: Fernando Davis
+National ID: 279-29-1507
+Bank: Jones Inc Bank
+Account Number: 7014484851
+Consent Status: Revoked

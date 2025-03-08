@@ -1,0 +1,6 @@
+Customer ID: 6973
+Name: Caitlin Miller
+National ID: 051-18-2496
+Bank: Peters PLC Bank
+Account Number: 6071848505
+Consent Status: Revoked

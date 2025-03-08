@@ -1,0 +1,6 @@
+Customer ID: 1654
+Name: Oscar Garrett
+National ID: 166-31-0886
+Bank: Hines, Neal and Martin Bank
+Account Number: 2606019127
+Consent Status: Granted

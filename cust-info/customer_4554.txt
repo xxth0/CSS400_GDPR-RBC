@@ -1,0 +1,6 @@
+Customer ID: 4554
+Name: Elizabeth Wilson
+National ID: 898-33-0694
+Bank: Douglas, Rodriguez and Thomas Bank
+Account Number: 7410481392
+Consent Status: Granted

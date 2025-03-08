@@ -1,0 +1,6 @@
+Customer ID: 9662
+Name: Jennifer Green
+National ID: 494-30-3669
+Bank: Ruiz-Mitchell Bank
+Account Number: 1157383844
+Consent Status: Granted

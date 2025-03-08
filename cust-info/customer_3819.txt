@@ -1,0 +1,6 @@
+Customer ID: 3819
+Name: Shane Ryan
+National ID: 256-02-3171
+Bank: Ferguson-Sanchez Bank
+Account Number: 8168331864
+Consent Status: Granted

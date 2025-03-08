@@ -1,0 +1,6 @@
+Customer ID: 3432
+Name: Joan Mack
+National ID: 375-09-7345
+Bank: Conway PLC Bank
+Account Number: 9743230130
+Consent Status: Granted

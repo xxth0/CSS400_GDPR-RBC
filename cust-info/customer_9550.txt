@@ -1,0 +1,6 @@
+Customer ID: 9550
+Name: Angel Jordan
+National ID: 701-85-9904
+Bank: Alvarado-Wood Bank
+Account Number: 3771062936
+Consent Status: Granted

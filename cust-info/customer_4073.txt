@@ -1,0 +1,6 @@
+Customer ID: 4073
+Name: William Woods
+National ID: 523-35-3515
+Bank: Lam-Combs Bank
+Account Number: 2011560449
+Consent Status: Granted

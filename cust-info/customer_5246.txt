@@ -1,0 +1,6 @@
+Customer ID: 5246
+Name: Cody Mueller
+National ID: 053-82-6582
+Bank: Obrien-Howard Bank
+Account Number: 5545661283
+Consent Status: Revoked

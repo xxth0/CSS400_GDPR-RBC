@@ -1,0 +1,6 @@
+Customer ID: 9511
+Name: Raymond Anderson
+National ID: 385-08-9394
+Bank: Werner-Barnett Bank
+Account Number: 4586227090
+Consent Status: Revoked

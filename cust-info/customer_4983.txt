@@ -1,0 +1,6 @@
+Customer ID: 4983
+Name: Carl Mann
+National ID: 659-24-9084
+Bank: Morales Ltd Bank
+Account Number: 6177410001
+Consent Status: Revoked

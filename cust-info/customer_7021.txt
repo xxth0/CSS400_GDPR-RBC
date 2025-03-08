@@ -1,0 +1,6 @@
+Customer ID: 7021
+Name: Christian Wright
+National ID: 170-73-7266
+Bank: Rivers-Cooke Bank
+Account Number: 7190763826
+Consent Status: Granted

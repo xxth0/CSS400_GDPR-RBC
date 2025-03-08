@@ -1,0 +1,6 @@
+Customer ID: 215
+Name: Stephanie Soto
+National ID: 209-73-5899
+Bank: Evans Group Bank
+Account Number: 8004459664
+Consent Status: Revoked

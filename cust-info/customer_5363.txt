@@ -1,0 +1,6 @@
+Customer ID: 5363
+Name: Grace West
+National ID: 510-14-0047
+Bank: Reynolds-Smith Bank
+Account Number: 4573949791
+Consent Status: Revoked

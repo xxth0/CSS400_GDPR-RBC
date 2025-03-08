@@ -1,0 +1,6 @@
+Customer ID: 7991
+Name: Amanda Jenkins
+National ID: 333-65-9172
+Bank: Rojas Ltd Bank
+Account Number: 5901286015
+Consent Status: Revoked

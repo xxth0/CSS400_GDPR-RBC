@@ -1,0 +1,6 @@
+Customer ID: 3105
+Name: Robert Hendrix
+National ID: 883-83-9166
+Bank: Navarro Ltd Bank
+Account Number: 3059438246
+Consent Status: Revoked

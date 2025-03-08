@@ -1,0 +1,6 @@
+Customer ID: 4713
+Name: Tiffany Alexander
+National ID: 756-79-6374
+Bank: Leon Group Bank
+Account Number: 1049407994
+Consent Status: Granted

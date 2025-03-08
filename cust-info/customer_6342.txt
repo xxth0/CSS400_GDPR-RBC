@@ -1,0 +1,6 @@
+Customer ID: 6342
+Name: Jacob Powell DDS
+National ID: 341-94-0310
+Bank: Murray-Austin Bank
+Account Number: 8718440498
+Consent Status: Revoked

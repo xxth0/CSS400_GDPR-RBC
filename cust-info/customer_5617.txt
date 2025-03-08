@@ -1,0 +1,6 @@
+Customer ID: 5617
+Name: Angela Olsen
+National ID: 544-62-5834
+Bank: Dennis-Hernandez Bank
+Account Number: 7354204909
+Consent Status: Revoked

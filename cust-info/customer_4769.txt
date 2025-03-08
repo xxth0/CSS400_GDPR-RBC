@@ -1,0 +1,6 @@
+Customer ID: 4769
+Name: Jennifer Owen
+National ID: 308-50-1455
+Bank: Hartman Ltd Bank
+Account Number: 5497402560
+Consent Status: Revoked

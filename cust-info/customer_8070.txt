@@ -1,0 +1,6 @@
+Customer ID: 8070
+Name: John Foster
+National ID: 109-11-3273
+Bank: Cunningham Group Bank
+Account Number: 6974011281
+Consent Status: Granted

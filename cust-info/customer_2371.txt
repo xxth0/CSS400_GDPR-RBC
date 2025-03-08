@@ -1,0 +1,6 @@
+Customer ID: 2371
+Name: Amber Whitaker
+National ID: 178-61-1572
+Bank: Trevino, Figueroa and Scott Bank
+Account Number: 7853711137
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4080
+Name: Christine Hernandez
+National ID: 654-41-9658
+Bank: Smith-Thompson Bank
+Account Number: 1780306194
+Consent Status: Revoked

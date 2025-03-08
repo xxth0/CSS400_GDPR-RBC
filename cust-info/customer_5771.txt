@@ -1,0 +1,6 @@
+Customer ID: 5771
+Name: Beth Jones
+National ID: 137-21-7016
+Bank: Brown-Paul Bank
+Account Number: 9459514330
+Consent Status: Granted

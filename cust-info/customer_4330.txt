@@ -1,0 +1,6 @@
+Customer ID: 4330
+Name: Mary Curtis
+National ID: 478-28-6381
+Bank: Williams and Sons Bank
+Account Number: 8923424997
+Consent Status: Revoked

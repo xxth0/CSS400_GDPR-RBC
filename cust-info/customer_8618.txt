@@ -1,0 +1,6 @@
+Customer ID: 8618
+Name: Miranda Keller
+National ID: 043-66-7844
+Bank: Haynes-Sanchez Bank
+Account Number: 9059762131
+Consent Status: Revoked

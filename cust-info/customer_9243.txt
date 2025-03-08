@@ -1,0 +1,6 @@
+Customer ID: 9243
+Name: Kenneth Robinson
+National ID: 732-14-8042
+Bank: Mcknight Inc Bank
+Account Number: 9703418791
+Consent Status: Granted

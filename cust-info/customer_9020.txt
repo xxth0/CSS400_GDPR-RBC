@@ -1,0 +1,6 @@
+Customer ID: 9020
+Name: John Davis
+National ID: 401-76-0916
+Bank: Lopez-Powers Bank
+Account Number: 7714925992
+Consent Status: Revoked

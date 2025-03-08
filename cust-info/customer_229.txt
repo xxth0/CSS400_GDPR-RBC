@@ -1,0 +1,6 @@
+Customer ID: 229
+Name: Jennifer Smith
+National ID: 308-77-1178
+Bank: Phillips-Wood Bank
+Account Number: 2851300768
+Consent Status: Revoked

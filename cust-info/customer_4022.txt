@@ -1,0 +1,6 @@
+Customer ID: 4022
+Name: Amy Wallace
+National ID: 785-24-7336
+Bank: Walker-Carson Bank
+Account Number: 6287539811
+Consent Status: Granted

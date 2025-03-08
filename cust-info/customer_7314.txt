@@ -1,0 +1,6 @@
+Customer ID: 7314
+Name: Calvin Vaughan
+National ID: 592-96-8424
+Bank: Holland Group Bank
+Account Number: 7379039956
+Consent Status: Revoked

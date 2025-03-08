@@ -1,0 +1,6 @@
+Customer ID: 9262
+Name: Sara Rich
+National ID: 683-13-8058
+Bank: Kirk-Holt Bank
+Account Number: 9009253914
+Consent Status: Revoked

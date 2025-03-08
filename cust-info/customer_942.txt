@@ -1,0 +1,6 @@
+Customer ID: 942
+Name: Joseph Tyler
+National ID: 131-43-8261
+Bank: Miranda-Tucker Bank
+Account Number: 9530898976
+Consent Status: Revoked

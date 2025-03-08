@@ -1,0 +1,6 @@
+Customer ID: 9441
+Name: Margaret Hodge
+National ID: 108-48-1733
+Bank: Collins-Delgado Bank
+Account Number: 3626172842
+Consent Status: Revoked

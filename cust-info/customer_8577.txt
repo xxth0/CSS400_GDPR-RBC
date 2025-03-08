@@ -1,0 +1,6 @@
+Customer ID: 8577
+Name: Brian Lopez
+National ID: 235-90-6701
+Bank: Kennedy and Sons Bank
+Account Number: 3196706398
+Consent Status: Revoked

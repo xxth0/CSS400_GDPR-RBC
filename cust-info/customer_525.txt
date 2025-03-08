@@ -1,0 +1,6 @@
+Customer ID: 525
+Name: Steven Thompson
+National ID: 797-56-8105
+Bank: Porter-Butler Bank
+Account Number: 8122566537
+Consent Status: Granted

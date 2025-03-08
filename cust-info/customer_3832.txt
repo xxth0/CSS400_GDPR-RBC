@@ -1,0 +1,6 @@
+Customer ID: 3832
+Name: Thomas Waters
+National ID: 096-54-3641
+Bank: Potter-Osborn Bank
+Account Number: 4179201095
+Consent Status: Revoked

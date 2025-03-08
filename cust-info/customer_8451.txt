@@ -1,0 +1,6 @@
+Customer ID: 8451
+Name: Jeffery Tran
+National ID: 451-44-3377
+Bank: Simon, Ferguson and Davis Bank
+Account Number: 4096323061
+Consent Status: Revoked

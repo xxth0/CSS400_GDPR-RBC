@@ -1,0 +1,6 @@
+Customer ID: 9279
+Name: Matthew Lowe
+National ID: 713-78-6388
+Bank: Miranda, Roberts and Sullivan Bank
+Account Number: 2322259474
+Consent Status: Revoked

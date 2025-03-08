@@ -1,0 +1,6 @@
+Customer ID: 4741
+Name: Scott Ruiz
+National ID: 274-86-4961
+Bank: Bell, Gonzales and Williams Bank
+Account Number: 2109595061
+Consent Status: Granted

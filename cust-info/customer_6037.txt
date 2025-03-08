@@ -1,0 +1,6 @@
+Customer ID: 6037
+Name: Lorraine Flores
+National ID: 054-30-1507
+Bank: Reyes-Martinez Bank
+Account Number: 2653071707
+Consent Status: Revoked

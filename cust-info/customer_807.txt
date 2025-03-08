@@ -1,0 +1,6 @@
+Customer ID: 807
+Name: Benjamin Sweeney
+National ID: 842-53-8712
+Bank: Perez-Nelson Bank
+Account Number: 7907649262
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1925
+Name: Carrie Marshall
+National ID: 192-57-6372
+Bank: Burton, Ward and Curtis Bank
+Account Number: 4584571218
+Consent Status: Granted

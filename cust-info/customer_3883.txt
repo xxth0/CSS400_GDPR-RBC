@@ -1,0 +1,6 @@
+Customer ID: 3883
+Name: Scott Kelly
+National ID: 112-95-7367
+Bank: Campbell-Peters Bank
+Account Number: 3530957332
+Consent Status: Revoked

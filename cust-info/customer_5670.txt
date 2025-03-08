@@ -1,0 +1,6 @@
+Customer ID: 5670
+Name: Anthony Cabrera
+National ID: 047-60-6139
+Bank: Fox, Lopez and Gibson Bank
+Account Number: 5701172118
+Consent Status: Revoked

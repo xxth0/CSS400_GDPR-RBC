@@ -1,0 +1,6 @@
+Customer ID: 5769
+Name: Peter Phillips
+National ID: 693-11-3699
+Bank: Hernandez, Lynch and Clark Bank
+Account Number: 1108257342
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8788
+Name: Linda Hardy
+National ID: 032-89-6558
+Bank: Hodges Group Bank
+Account Number: 3766359862
+Consent Status: Revoked

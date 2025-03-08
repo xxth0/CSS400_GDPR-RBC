@@ -1,0 +1,6 @@
+Customer ID: 4947
+Name: Rebecca Jones
+National ID: 894-25-6128
+Bank: Cunningham, Evans and Frye Bank
+Account Number: 4990295066
+Consent Status: Revoked

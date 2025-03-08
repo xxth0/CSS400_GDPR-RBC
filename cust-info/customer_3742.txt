@@ -1,0 +1,6 @@
+Customer ID: 3742
+Name: David Russell
+National ID: 066-28-7830
+Bank: Mendez-Osborne Bank
+Account Number: 9118593318
+Consent Status: Granted

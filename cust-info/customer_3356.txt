@@ -1,0 +1,6 @@
+Customer ID: 3356
+Name: Ethan Roberts
+National ID: 575-66-6983
+Bank: Young Inc Bank
+Account Number: 8124894252
+Consent Status: Granted

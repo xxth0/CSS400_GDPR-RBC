@@ -1,0 +1,6 @@
+Customer ID: 910
+Name: Amanda Torres DDS
+National ID: 622-10-7048
+Bank: Allen, Herman and Brown Bank
+Account Number: 6545412569
+Consent Status: Granted

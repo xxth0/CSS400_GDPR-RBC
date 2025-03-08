@@ -1,0 +1,6 @@
+Customer ID: 1668
+Name: William George
+National ID: 354-33-2610
+Bank: Walter, Sanders and Mckenzie Bank
+Account Number: 4768842728
+Consent Status: Revoked

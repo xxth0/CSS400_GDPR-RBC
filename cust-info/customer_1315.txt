@@ -1,0 +1,6 @@
+Customer ID: 1315
+Name: Richard Benjamin
+National ID: 059-04-9780
+Bank: Adams, Gallagher and Gibson Bank
+Account Number: 4305065302
+Consent Status: Revoked

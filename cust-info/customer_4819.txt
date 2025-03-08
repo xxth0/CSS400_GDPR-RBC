@@ -1,0 +1,6 @@
+Customer ID: 4819
+Name: Ronald Sweeney
+National ID: 398-60-0508
+Bank: Silva-Mcmillan Bank
+Account Number: 7722142811
+Consent Status: Revoked

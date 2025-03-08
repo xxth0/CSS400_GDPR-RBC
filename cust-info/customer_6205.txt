@@ -1,0 +1,6 @@
+Customer ID: 6205
+Name: Samantha Morris
+National ID: 039-75-1999
+Bank: Knapp, Cox and Joseph Bank
+Account Number: 4041117972
+Consent Status: Revoked

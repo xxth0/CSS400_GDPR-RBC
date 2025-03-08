@@ -1,0 +1,6 @@
+Customer ID: 7768
+Name: Nicole Jackson
+National ID: 504-89-4811
+Bank: Matthews-Lambert Bank
+Account Number: 8721345573
+Consent Status: Revoked

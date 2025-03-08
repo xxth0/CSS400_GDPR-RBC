@@ -1,0 +1,6 @@
+Customer ID: 8877
+Name: Timothy Weeks
+National ID: 353-06-4522
+Bank: Nunez, Flowers and Jenkins Bank
+Account Number: 1737305981
+Consent Status: Granted

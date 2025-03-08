@@ -1,0 +1,6 @@
+Customer ID: 3326
+Name: Kyle Jones
+National ID: 304-03-2269
+Bank: Lindsey, Boone and Brown Bank
+Account Number: 8359103701
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6652
+Name: Bryan Evans
+National ID: 606-98-4543
+Bank: Smith PLC Bank
+Account Number: 7842927475
+Consent Status: Granted

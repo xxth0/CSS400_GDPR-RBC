@@ -1,0 +1,6 @@
+Customer ID: 2386
+Name: Megan Morris
+National ID: 816-43-9411
+Bank: Murphy, Patterson and Cook Bank
+Account Number: 5506948896
+Consent Status: Revoked

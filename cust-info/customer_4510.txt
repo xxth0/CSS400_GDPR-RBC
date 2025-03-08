@@ -1,0 +1,6 @@
+Customer ID: 4510
+Name: David Randall
+National ID: 534-92-4780
+Bank: Gutierrez PLC Bank
+Account Number: 3507142918
+Consent Status: Granted

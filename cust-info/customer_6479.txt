@@ -1,0 +1,6 @@
+Customer ID: 6479
+Name: Robin Paul
+National ID: 721-73-5463
+Bank: Clark LLC Bank
+Account Number: 7522400446
+Consent Status: Revoked

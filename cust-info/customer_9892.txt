@@ -1,0 +1,6 @@
+Customer ID: 9892
+Name: Melinda Jackson
+National ID: 355-70-7135
+Bank: Williams-Johnson Bank
+Account Number: 9699435805
+Consent Status: Granted

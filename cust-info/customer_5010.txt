@@ -1,0 +1,6 @@
+Customer ID: 5010
+Name: Rachel Johnson
+National ID: 729-39-8660
+Bank: Smith, Jacobs and Brooks Bank
+Account Number: 4114334170
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6362
+Name: Janet Wong
+National ID: 307-17-9837
+Bank: Richard-Harris Bank
+Account Number: 6424125307
+Consent Status: Revoked

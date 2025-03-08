@@ -1,0 +1,6 @@
+Customer ID: 9186
+Name: Douglas Brown
+National ID: 016-73-1839
+Bank: Smith Group Bank
+Account Number: 4784203589
+Consent Status: Granted

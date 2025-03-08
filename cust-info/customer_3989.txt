@@ -1,0 +1,6 @@
+Customer ID: 3989
+Name: Jodi Garcia
+National ID: 348-65-8597
+Bank: Holt-Stephens Bank
+Account Number: 7518281585
+Consent Status: Revoked

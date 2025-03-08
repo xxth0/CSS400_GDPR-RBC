@@ -1,0 +1,6 @@
+Customer ID: 4259
+Name: Linda Rojas
+National ID: 212-72-3293
+Bank: Hopkins, Parker and Daniel Bank
+Account Number: 2000195051
+Consent Status: Granted

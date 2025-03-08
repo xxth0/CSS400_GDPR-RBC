@@ -1,0 +1,6 @@
+Customer ID: 1333
+Name: Joe Evans
+National ID: 384-92-0123
+Bank: Davis-Scott Bank
+Account Number: 4588845337
+Consent Status: Granted

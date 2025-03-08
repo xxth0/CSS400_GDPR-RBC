@@ -1,0 +1,6 @@
+Customer ID: 5709
+Name: Terri Pittman
+National ID: 570-02-5823
+Bank: Mcdowell, Perez and Estrada Bank
+Account Number: 7828952317
+Consent Status: Granted

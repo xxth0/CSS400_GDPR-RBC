@@ -1,0 +1,6 @@
+Customer ID: 650
+Name: Kurt Smith
+National ID: 354-74-7159
+Bank: Richmond LLC Bank
+Account Number: 5819473836
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 896
+Name: Jeffrey Ellison
+National ID: 445-94-9986
+Bank: Francis-Berry Bank
+Account Number: 5062095212
+Consent Status: Granted

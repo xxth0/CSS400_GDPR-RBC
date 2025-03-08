@@ -1,0 +1,6 @@
+Customer ID: 9722
+Name: Daniel Brown
+National ID: 011-52-4060
+Bank: Johnson-Adams Bank
+Account Number: 7435404530
+Consent Status: Revoked

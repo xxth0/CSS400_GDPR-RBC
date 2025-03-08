@@ -1,0 +1,6 @@
+Customer ID: 5283
+Name: Richard Newman
+National ID: 501-22-2427
+Bank: Santos, Mccarthy and Patterson Bank
+Account Number: 4053611272
+Consent Status: Granted

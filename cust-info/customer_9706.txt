@@ -1,0 +1,6 @@
+Customer ID: 9706
+Name: Ernest Meyer
+National ID: 776-10-2482
+Bank: West-Pearson Bank
+Account Number: 8544338700
+Consent Status: Revoked

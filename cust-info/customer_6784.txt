@@ -1,0 +1,6 @@
+Customer ID: 6784
+Name: Marie Morris
+National ID: 546-01-3973
+Bank: Bennett, Combs and Little Bank
+Account Number: 8974628824
+Consent Status: Granted

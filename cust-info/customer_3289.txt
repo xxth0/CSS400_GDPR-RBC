@@ -1,0 +1,6 @@
+Customer ID: 3289
+Name: Gina Collins DDS
+National ID: 221-57-9042
+Bank: Hall, Smith and Garcia Bank
+Account Number: 5848346849
+Consent Status: Granted

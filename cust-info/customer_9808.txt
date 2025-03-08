@@ -1,0 +1,6 @@
+Customer ID: 9808
+Name: Jessica Frazier
+National ID: 551-70-1087
+Bank: Beck-Robinson Bank
+Account Number: 6292841841
+Consent Status: Granted

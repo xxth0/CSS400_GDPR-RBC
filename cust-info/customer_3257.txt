@@ -1,0 +1,6 @@
+Customer ID: 3257
+Name: Isaac Mitchell
+National ID: 646-01-1207
+Bank: Tate and Sons Bank
+Account Number: 1714553871
+Consent Status: Granted

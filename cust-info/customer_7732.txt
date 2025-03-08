@@ -1,0 +1,6 @@
+Customer ID: 7732
+Name: Sharon Hall
+National ID: 885-51-0093
+Bank: Clayton, Rodriguez and Wong Bank
+Account Number: 5323088446
+Consent Status: Revoked

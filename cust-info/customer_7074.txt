@@ -1,0 +1,6 @@
+Customer ID: 7074
+Name: Stephanie Klein
+National ID: 440-61-0860
+Bank: Cooper PLC Bank
+Account Number: 3371565021
+Consent Status: Revoked

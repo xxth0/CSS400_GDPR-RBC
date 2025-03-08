@@ -1,0 +1,6 @@
+Customer ID: 6001
+Name: Robert Reid
+National ID: 090-63-8977
+Bank: Wells, Johnson and Todd Bank
+Account Number: 1256033210
+Consent Status: Granted

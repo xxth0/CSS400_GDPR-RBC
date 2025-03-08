@@ -1,0 +1,6 @@
+Customer ID: 6930
+Name: Albert Russell
+National ID: 763-17-5446
+Bank: Thomas Group Bank
+Account Number: 1788131038
+Consent Status: Revoked

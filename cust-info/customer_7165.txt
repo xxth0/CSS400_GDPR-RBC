@@ -1,0 +1,6 @@
+Customer ID: 7165
+Name: Brandon Miller
+National ID: 115-61-8750
+Bank: Flores, Clark and Mitchell Bank
+Account Number: 2244864995
+Consent Status: Granted

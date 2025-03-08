@@ -1,0 +1,6 @@
+Customer ID: 7705
+Name: Rebecca Hurley
+National ID: 266-06-7394
+Bank: Martin, Higgins and Hernandez Bank
+Account Number: 3580748201
+Consent Status: Granted

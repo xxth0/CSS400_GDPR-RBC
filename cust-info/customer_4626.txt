@@ -1,0 +1,6 @@
+Customer ID: 4626
+Name: Juan Washington
+National ID: 524-11-1508
+Bank: Nelson, Beck and Brandt Bank
+Account Number: 8697189932
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3902
+Name: Stephanie Carter
+National ID: 376-17-8493
+Bank: Winters PLC Bank
+Account Number: 9151663514
+Consent Status: Revoked

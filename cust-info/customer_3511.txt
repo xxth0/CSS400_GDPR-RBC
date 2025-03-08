@@ -1,0 +1,6 @@
+Customer ID: 3511
+Name: Elizabeth Palmer
+National ID: 739-85-2457
+Bank: Marshall-Smith Bank
+Account Number: 7969847667
+Consent Status: Revoked

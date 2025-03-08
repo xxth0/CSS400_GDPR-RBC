@@ -1,0 +1,6 @@
+Customer ID: 1499
+Name: Timothy Coleman
+National ID: 798-73-7300
+Bank: Mcdaniel, Smith and Dunn Bank
+Account Number: 7701646219
+Consent Status: Granted

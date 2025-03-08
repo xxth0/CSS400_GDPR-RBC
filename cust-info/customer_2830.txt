@@ -1,0 +1,6 @@
+Customer ID: 2830
+Name: Samantha Robles
+National ID: 836-36-8061
+Bank: James LLC Bank
+Account Number: 4549933620
+Consent Status: Revoked

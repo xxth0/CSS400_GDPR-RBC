@@ -1,0 +1,6 @@
+Customer ID: 2414
+Name: Joshua Porter
+National ID: 626-26-5133
+Bank: Ryan and Sons Bank
+Account Number: 5104506645
+Consent Status: Revoked

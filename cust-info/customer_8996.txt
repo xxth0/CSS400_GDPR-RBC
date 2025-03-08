@@ -1,0 +1,6 @@
+Customer ID: 8996
+Name: Sherry Arias
+National ID: 870-92-5813
+Bank: Smith and Sons Bank
+Account Number: 1202234502
+Consent Status: Granted

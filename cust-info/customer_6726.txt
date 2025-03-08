@@ -1,0 +1,6 @@
+Customer ID: 6726
+Name: Bobby Mcbride
+National ID: 803-88-3673
+Bank: Berry Inc Bank
+Account Number: 6803439740
+Consent Status: Granted

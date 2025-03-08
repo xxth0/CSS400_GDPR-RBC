@@ -1,0 +1,6 @@
+Customer ID: 7618
+Name: Jacqueline Cardenas
+National ID: 306-43-6230
+Bank: Williams-Mack Bank
+Account Number: 5483812518
+Consent Status: Granted

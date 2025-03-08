@@ -1,0 +1,6 @@
+Customer ID: 1602
+Name: Mark Miles
+National ID: 185-39-0910
+Bank: Harper Group Bank
+Account Number: 7849726424
+Consent Status: Revoked

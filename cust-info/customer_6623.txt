@@ -1,0 +1,6 @@
+Customer ID: 6623
+Name: Maxwell Scott
+National ID: 891-92-8534
+Bank: Murray-Terrell Bank
+Account Number: 4243368641
+Consent Status: Granted

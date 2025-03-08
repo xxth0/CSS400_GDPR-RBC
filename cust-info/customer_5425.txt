@@ -1,0 +1,6 @@
+Customer ID: 5425
+Name: Kevin Weber
+National ID: 174-22-5674
+Bank: Reyes LLC Bank
+Account Number: 6012096851
+Consent Status: Granted

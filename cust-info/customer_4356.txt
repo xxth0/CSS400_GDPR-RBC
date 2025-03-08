@@ -1,0 +1,6 @@
+Customer ID: 4356
+Name: David Diaz
+National ID: 428-82-8242
+Bank: Smith and Sons Bank
+Account Number: 9949781739
+Consent Status: Revoked

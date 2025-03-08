@@ -1,0 +1,6 @@
+Customer ID: 1038
+Name: John Chavez
+National ID: 655-49-3887
+Bank: Watts Group Bank
+Account Number: 5514201814
+Consent Status: Granted

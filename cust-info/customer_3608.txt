@@ -1,0 +1,6 @@
+Customer ID: 3608
+Name: Maria Burnett
+National ID: 456-75-0169
+Bank: Schwartz-Butler Bank
+Account Number: 2226697604
+Consent Status: Granted

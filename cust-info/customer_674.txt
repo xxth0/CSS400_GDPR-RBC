@@ -1,0 +1,6 @@
+Customer ID: 674
+Name: Ashley Tucker
+National ID: 044-86-7654
+Bank: Ball-Medina Bank
+Account Number: 6940145643
+Consent Status: Revoked

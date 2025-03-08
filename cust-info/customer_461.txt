@@ -1,0 +1,6 @@
+Customer ID: 461
+Name: Mrs. Shannon Ramsey
+National ID: 301-46-3198
+Bank: Hernandez-Little Bank
+Account Number: 5171726078
+Consent Status: Revoked

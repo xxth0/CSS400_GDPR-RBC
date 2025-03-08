@@ -1,0 +1,6 @@
+Customer ID: 8212
+Name: Diana Christian
+National ID: 242-27-9689
+Bank: Phillips PLC Bank
+Account Number: 3859309352
+Consent Status: Granted

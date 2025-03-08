@@ -1,0 +1,6 @@
+Customer ID: 9251
+Name: Mitchell Rivera
+National ID: 580-38-2513
+Bank: Vega Ltd Bank
+Account Number: 1586741343
+Consent Status: Granted

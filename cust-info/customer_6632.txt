@@ -1,0 +1,6 @@
+Customer ID: 6632
+Name: Joseph Barr
+National ID: 862-97-4248
+Bank: Jenkins, Rodgers and Williams Bank
+Account Number: 5556896442
+Consent Status: Revoked

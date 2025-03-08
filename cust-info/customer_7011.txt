@@ -1,0 +1,6 @@
+Customer ID: 7011
+Name: Pamela Williams
+National ID: 172-05-8672
+Bank: Lopez-Johnston Bank
+Account Number: 2628044869
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4617
+Name: Scott Shaffer
+National ID: 043-63-3626
+Bank: Charles, Ruiz and George Bank
+Account Number: 5995729272
+Consent Status: Granted

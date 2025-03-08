@@ -1,0 +1,6 @@
+Customer ID: 4930
+Name: Jason Berry
+National ID: 174-65-2891
+Bank: Duran-Smith Bank
+Account Number: 8684487941
+Consent Status: Granted

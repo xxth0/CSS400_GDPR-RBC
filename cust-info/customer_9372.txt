@@ -1,0 +1,6 @@
+Customer ID: 9372
+Name: Sara Peterson
+National ID: 223-90-9132
+Bank: Peterson PLC Bank
+Account Number: 7091024472
+Consent Status: Revoked

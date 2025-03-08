@@ -1,0 +1,6 @@
+Customer ID: 1008
+Name: Kelly Taylor
+National ID: 067-13-8568
+Bank: Watkins Inc Bank
+Account Number: 6099455261
+Consent Status: Granted

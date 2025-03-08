@@ -1,0 +1,6 @@
+Customer ID: 4698
+Name: Sarah Cannon
+National ID: 214-33-7626
+Bank: Arnold-Baker Bank
+Account Number: 3171563037
+Consent Status: Granted

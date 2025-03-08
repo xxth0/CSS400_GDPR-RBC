@@ -1,0 +1,6 @@
+Customer ID: 6405
+Name: Monica Warner
+National ID: 222-34-0240
+Bank: Coleman, Stokes and Harmon Bank
+Account Number: 6574827079
+Consent Status: Granted

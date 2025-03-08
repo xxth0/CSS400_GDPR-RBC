@@ -1,0 +1,6 @@
+Customer ID: 2964
+Name: Frederick May
+National ID: 072-83-5060
+Bank: Roberts-Phillips Bank
+Account Number: 5951476502
+Consent Status: Revoked

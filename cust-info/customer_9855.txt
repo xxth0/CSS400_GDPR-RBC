@@ -1,0 +1,6 @@
+Customer ID: 9855
+Name: Kathleen Silva
+National ID: 122-10-0836
+Bank: Campbell Group Bank
+Account Number: 7294781459
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2220
+Name: David Burnett
+National ID: 559-33-9343
+Bank: Buck, Bailey and Perez Bank
+Account Number: 1005411188
+Consent Status: Revoked

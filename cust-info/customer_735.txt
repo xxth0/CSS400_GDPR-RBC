@@ -1,0 +1,6 @@
+Customer ID: 735
+Name: Vicki Kline
+National ID: 117-82-5095
+Bank: Torres-Carter Bank
+Account Number: 4321394789
+Consent Status: Granted

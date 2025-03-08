@@ -1,0 +1,6 @@
+Customer ID: 9851
+Name: Monique French
+National ID: 842-20-0645
+Bank: Lara LLC Bank
+Account Number: 1053018899
+Consent Status: Granted

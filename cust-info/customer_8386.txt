@@ -1,0 +1,6 @@
+Customer ID: 8386
+Name: Chase Hart
+National ID: 311-23-4204
+Bank: Wright Inc Bank
+Account Number: 2763965136
+Consent Status: Granted

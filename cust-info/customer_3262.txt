@@ -1,0 +1,6 @@
+Customer ID: 3262
+Name: Ryan Davis
+National ID: 667-17-9220
+Bank: Bryant, Mcdonald and Moore Bank
+Account Number: 4907892907
+Consent Status: Granted

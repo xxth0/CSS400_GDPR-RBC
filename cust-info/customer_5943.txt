@@ -1,0 +1,6 @@
+Customer ID: 5943
+Name: Donald Myers
+National ID: 484-58-2382
+Bank: Hurley Inc Bank
+Account Number: 8462391507
+Consent Status: Revoked

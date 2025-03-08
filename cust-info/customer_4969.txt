@@ -1,0 +1,6 @@
+Customer ID: 4969
+Name: Jordan Vasquez
+National ID: 839-15-0583
+Bank: Chavez Inc Bank
+Account Number: 5293847928
+Consent Status: Revoked

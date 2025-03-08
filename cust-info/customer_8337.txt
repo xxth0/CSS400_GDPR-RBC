@@ -1,0 +1,6 @@
+Customer ID: 8337
+Name: Jonathan Roman
+National ID: 882-44-4124
+Bank: Costa Inc Bank
+Account Number: 4924184577
+Consent Status: Granted

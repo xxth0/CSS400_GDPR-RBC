@@ -1,0 +1,6 @@
+Customer ID: 5738
+Name: Mr. Michael Kennedy
+National ID: 560-40-5311
+Bank: White-Collier Bank
+Account Number: 9056835191
+Consent Status: Granted

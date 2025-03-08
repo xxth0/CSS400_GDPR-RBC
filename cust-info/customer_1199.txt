@@ -1,0 +1,6 @@
+Customer ID: 1199
+Name: Thomas Branch
+National ID: 379-36-9667
+Bank: Chapman PLC Bank
+Account Number: 8757399967
+Consent Status: Granted

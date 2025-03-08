@@ -1,0 +1,6 @@
+Customer ID: 6685
+Name: Elizabeth Johnston
+National ID: 623-94-0990
+Bank: Cuevas Inc Bank
+Account Number: 7390618469
+Consent Status: Revoked

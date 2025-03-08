@@ -1,0 +1,6 @@
+Customer ID: 1268
+Name: Tanner Wagner
+National ID: 770-48-6394
+Bank: Waters-Davis Bank
+Account Number: 2350678545
+Consent Status: Granted

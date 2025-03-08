@@ -1,0 +1,6 @@
+Customer ID: 6907
+Name: Jason Bowman
+National ID: 187-08-0374
+Bank: Hahn-Miller Bank
+Account Number: 1714652083
+Consent Status: Granted

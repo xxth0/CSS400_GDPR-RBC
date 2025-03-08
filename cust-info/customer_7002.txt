@@ -1,0 +1,6 @@
+Customer ID: 7002
+Name: Joseph Velazquez
+National ID: 652-15-6041
+Bank: Sanchez-Waters Bank
+Account Number: 4091746892
+Consent Status: Revoked

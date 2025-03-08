@@ -1,0 +1,6 @@
+Customer ID: 3711
+Name: Wayne Simmons
+National ID: 576-37-3414
+Bank: Perry, Miles and Parks Bank
+Account Number: 1794530454
+Consent Status: Revoked

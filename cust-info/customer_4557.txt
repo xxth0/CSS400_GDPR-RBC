@@ -1,0 +1,6 @@
+Customer ID: 4557
+Name: Cody Olson
+National ID: 013-25-7290
+Bank: Hamilton, Cox and Bradley Bank
+Account Number: 5327000451
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3417
+Name: Amber Higgins
+National ID: 094-70-8125
+Bank: Hall PLC Bank
+Account Number: 7924030083
+Consent Status: Granted

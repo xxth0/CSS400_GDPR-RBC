@@ -1,0 +1,6 @@
+Customer ID: 6055
+Name: Calvin Moore
+National ID: 163-05-3352
+Bank: Smith PLC Bank
+Account Number: 3108216507
+Consent Status: Revoked

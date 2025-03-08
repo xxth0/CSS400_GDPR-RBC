@@ -1,0 +1,6 @@
+Customer ID: 3552
+Name: Caleb Jones
+National ID: 653-49-7704
+Bank: Phillips Group Bank
+Account Number: 7422800987
+Consent Status: Granted

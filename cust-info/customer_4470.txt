@@ -1,0 +1,6 @@
+Customer ID: 4470
+Name: Courtney Rogers
+National ID: 764-68-0748
+Bank: Miller and Sons Bank
+Account Number: 9049668967
+Consent Status: Revoked

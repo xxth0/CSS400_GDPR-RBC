@@ -1,0 +1,6 @@
+Customer ID: 5180
+Name: Theresa James
+National ID: 570-51-6829
+Bank: Allen, Garcia and Mcpherson Bank
+Account Number: 2765354120
+Consent Status: Revoked

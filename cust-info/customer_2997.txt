@@ -1,0 +1,6 @@
+Customer ID: 2997
+Name: Amy Reynolds
+National ID: 869-22-7815
+Bank: Allen, Cooper and Brooks Bank
+Account Number: 2527227670
+Consent Status: Granted

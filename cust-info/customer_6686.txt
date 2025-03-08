@@ -1,0 +1,6 @@
+Customer ID: 6686
+Name: Phillip Haynes
+National ID: 608-78-3850
+Bank: Roberts-Nguyen Bank
+Account Number: 6759135007
+Consent Status: Granted

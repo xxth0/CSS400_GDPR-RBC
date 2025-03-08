@@ -1,0 +1,6 @@
+Customer ID: 692
+Name: Jose Walker
+National ID: 636-51-3224
+Bank: Garcia-Manning Bank
+Account Number: 6372906661
+Consent Status: Granted

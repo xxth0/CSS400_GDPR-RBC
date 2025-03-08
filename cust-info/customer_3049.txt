@@ -1,0 +1,6 @@
+Customer ID: 3049
+Name: Cody Fernandez
+National ID: 186-13-8907
+Bank: Roberts Inc Bank
+Account Number: 8166481935
+Consent Status: Revoked

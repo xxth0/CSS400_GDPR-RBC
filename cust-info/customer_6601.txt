@@ -1,0 +1,6 @@
+Customer ID: 6601
+Name: Sheila Romero
+National ID: 656-70-9521
+Bank: Washington-Nelson Bank
+Account Number: 5660736547
+Consent Status: Revoked

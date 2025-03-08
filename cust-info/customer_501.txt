@@ -1,0 +1,6 @@
+Customer ID: 501
+Name: Bernard Farmer
+National ID: 687-82-7952
+Bank: Carson, Skinner and Wright Bank
+Account Number: 2837990740
+Consent Status: Granted

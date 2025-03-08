@@ -1,0 +1,6 @@
+Customer ID: 8079
+Name: Sara Patel
+National ID: 858-99-5831
+Bank: Cherry, Frank and Lee Bank
+Account Number: 2606387193
+Consent Status: Granted

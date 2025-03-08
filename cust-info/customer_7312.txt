@@ -1,0 +1,6 @@
+Customer ID: 7312
+Name: Blake Higgins
+National ID: 454-36-5713
+Bank: Rodriguez, Summers and Bruce Bank
+Account Number: 7228947521
+Consent Status: Granted

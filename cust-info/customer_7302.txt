@@ -1,0 +1,6 @@
+Customer ID: 7302
+Name: Howard Mann
+National ID: 353-93-7662
+Bank: Adams-Myers Bank
+Account Number: 6680358474
+Consent Status: Revoked

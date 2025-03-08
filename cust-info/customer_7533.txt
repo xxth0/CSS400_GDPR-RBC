@@ -1,0 +1,6 @@
+Customer ID: 7533
+Name: Mr. Troy Lee
+National ID: 309-36-0103
+Bank: Harrison, May and Spears Bank
+Account Number: 2896096350
+Consent Status: Granted

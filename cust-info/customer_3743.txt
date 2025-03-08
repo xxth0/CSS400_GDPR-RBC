@@ -1,0 +1,6 @@
+Customer ID: 3743
+Name: Eileen Daniels
+National ID: 682-08-5145
+Bank: Campos LLC Bank
+Account Number: 8131347282
+Consent Status: Revoked

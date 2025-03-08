@@ -1,0 +1,6 @@
+Customer ID: 52
+Name: Nancy Haney
+National ID: 490-07-7424
+Bank: Chapman, Carter and Nolan Bank
+Account Number: 2513413745
+Consent Status: Granted

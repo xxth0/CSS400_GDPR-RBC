@@ -1,0 +1,6 @@
+Customer ID: 8243
+Name: Micheal Ware
+National ID: 689-36-4517
+Bank: Garrison and Sons Bank
+Account Number: 2172152661
+Consent Status: Granted

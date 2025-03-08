@@ -1,0 +1,6 @@
+Customer ID: 4349
+Name: Darlene Brown
+National ID: 282-74-4586
+Bank: Munoz Group Bank
+Account Number: 3487292588
+Consent Status: Revoked

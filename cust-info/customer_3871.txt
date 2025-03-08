@@ -1,0 +1,6 @@
+Customer ID: 3871
+Name: Amanda Leonard
+National ID: 698-50-6396
+Bank: Morales, Smith and Warren Bank
+Account Number: 2072788124
+Consent Status: Granted

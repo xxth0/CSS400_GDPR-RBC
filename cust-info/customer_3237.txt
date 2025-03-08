@@ -1,0 +1,6 @@
+Customer ID: 3237
+Name: Cheryl Marquez
+National ID: 570-19-7681
+Bank: Hernandez LLC Bank
+Account Number: 6515092952
+Consent Status: Revoked

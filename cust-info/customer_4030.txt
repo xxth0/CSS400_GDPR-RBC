@@ -1,0 +1,6 @@
+Customer ID: 4030
+Name: Crystal Lopez
+National ID: 719-15-9775
+Bank: Walton PLC Bank
+Account Number: 5086556799
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4925
+Name: Christopher Kelly
+National ID: 028-92-8300
+Bank: Smith, Johnson and Robinson Bank
+Account Number: 9567294908
+Consent Status: Granted

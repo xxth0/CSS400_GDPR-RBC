@@ -1,0 +1,6 @@
+Customer ID: 7842
+Name: Monica Garcia
+National ID: 382-98-4140
+Bank: Cowan Inc Bank
+Account Number: 8331937672
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1809
+Name: Nina Jordan
+National ID: 867-08-7181
+Bank: Dean, Watson and Mahoney Bank
+Account Number: 1953649514
+Consent Status: Revoked

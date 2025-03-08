@@ -1,0 +1,6 @@
+Customer ID: 9800
+Name: Renee Dalton
+National ID: 046-46-9393
+Bank: Brown Ltd Bank
+Account Number: 1200607915
+Consent Status: Granted

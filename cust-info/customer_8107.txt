@@ -1,0 +1,6 @@
+Customer ID: 8107
+Name: Tina Clark
+National ID: 653-04-8602
+Bank: Brooks LLC Bank
+Account Number: 3310105974
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5914
+Name: Sarah Ramirez
+National ID: 718-07-2731
+Bank: Clements, Garcia and Davis Bank
+Account Number: 5978150938
+Consent Status: Granted

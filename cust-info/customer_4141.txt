@@ -1,0 +1,6 @@
+Customer ID: 4141
+Name: Kimberly Hall
+National ID: 510-95-8664
+Bank: Warren-Brennan Bank
+Account Number: 5706678065
+Consent Status: Granted

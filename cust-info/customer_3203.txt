@@ -1,0 +1,6 @@
+Customer ID: 3203
+Name: Sherri Hoover
+National ID: 319-49-3835
+Bank: Torres-Smith Bank
+Account Number: 1937382944
+Consent Status: Revoked

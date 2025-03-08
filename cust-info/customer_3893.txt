@@ -1,0 +1,6 @@
+Customer ID: 3893
+Name: Jeffrey Chambers
+National ID: 290-81-3037
+Bank: Johnson Group Bank
+Account Number: 1309678168
+Consent Status: Revoked

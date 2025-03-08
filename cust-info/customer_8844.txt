@@ -1,0 +1,6 @@
+Customer ID: 8844
+Name: Blake Elliott
+National ID: 507-99-0198
+Bank: Beasley, Hall and Ray Bank
+Account Number: 9016490579
+Consent Status: Revoked

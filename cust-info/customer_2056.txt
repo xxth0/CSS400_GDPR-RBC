@@ -1,0 +1,6 @@
+Customer ID: 2056
+Name: Jeffrey Sanders
+National ID: 895-18-2455
+Bank: Smith, Holland and Smith Bank
+Account Number: 4619084552
+Consent Status: Granted

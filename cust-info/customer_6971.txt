@@ -1,0 +1,6 @@
+Customer ID: 6971
+Name: Edward Hall
+National ID: 309-93-1842
+Bank: Mitchell, Smith and York Bank
+Account Number: 4331856027
+Consent Status: Granted

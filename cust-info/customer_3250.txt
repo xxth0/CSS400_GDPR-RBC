@@ -1,0 +1,6 @@
+Customer ID: 3250
+Name: Dakota Flores
+National ID: 691-08-6883
+Bank: Wilkerson, Munoz and Jones Bank
+Account Number: 9810079082
+Consent Status: Granted

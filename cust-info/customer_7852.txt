@@ -1,0 +1,6 @@
+Customer ID: 7852
+Name: Jennifer Turner
+National ID: 798-89-4985
+Bank: Mora LLC Bank
+Account Number: 9894377249
+Consent Status: Revoked

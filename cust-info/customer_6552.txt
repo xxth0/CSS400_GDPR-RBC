@@ -1,0 +1,6 @@
+Customer ID: 6552
+Name: Shelby Freeman
+National ID: 506-64-5712
+Bank: Williams-Murphy Bank
+Account Number: 7924252048
+Consent Status: Granted

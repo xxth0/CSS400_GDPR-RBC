@@ -1,0 +1,6 @@
+Customer ID: 3923
+Name: Courtney Spencer
+National ID: 614-58-9636
+Bank: Carlson, Johnson and Graham Bank
+Account Number: 7374444198
+Consent Status: Revoked

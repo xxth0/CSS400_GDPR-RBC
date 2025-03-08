@@ -1,0 +1,6 @@
+Customer ID: 3441
+Name: Cody Romero
+National ID: 239-96-9627
+Bank: Smith, Brown and Chapman Bank
+Account Number: 1976121327
+Consent Status: Granted

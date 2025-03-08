@@ -1,0 +1,6 @@
+Customer ID: 3971
+Name: Justin Hays
+National ID: 541-02-5901
+Bank: Morton, Cox and Green Bank
+Account Number: 3001383348
+Consent Status: Granted

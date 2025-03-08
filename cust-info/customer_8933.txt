@@ -1,0 +1,6 @@
+Customer ID: 8933
+Name: John Manning
+National ID: 804-82-3712
+Bank: Johnson, Garcia and Phillips Bank
+Account Number: 9576608286
+Consent Status: Granted

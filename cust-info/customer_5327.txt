@@ -1,0 +1,6 @@
+Customer ID: 5327
+Name: Jared Howe
+National ID: 718-52-7865
+Bank: King and Sons Bank
+Account Number: 3343293870
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4246
+Name: Angela Galvan
+National ID: 509-42-2631
+Bank: Davis, Robbins and Miller Bank
+Account Number: 3753496633
+Consent Status: Revoked

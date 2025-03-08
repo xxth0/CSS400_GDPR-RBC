@@ -1,0 +1,6 @@
+Customer ID: 8639
+Name: Robert Smith
+National ID: 619-01-5416
+Bank: Chapman, Parker and Butler Bank
+Account Number: 8816964275
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7299
+Name: Jeffrey Peters
+National ID: 777-13-5227
+Bank: Hartman, Daugherty and Barrett Bank
+Account Number: 9286326861
+Consent Status: Granted

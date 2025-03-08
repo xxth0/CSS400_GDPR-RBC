@@ -1,0 +1,6 @@
+Customer ID: 2316
+Name: Thomas Hicks
+National ID: 792-67-7279
+Bank: Harris-Bautista Bank
+Account Number: 4154354149
+Consent Status: Granted

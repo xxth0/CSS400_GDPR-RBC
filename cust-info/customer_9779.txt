@@ -1,0 +1,6 @@
+Customer ID: 9779
+Name: Bryan Holland
+National ID: 748-83-8927
+Bank: Love, Wilson and Nguyen Bank
+Account Number: 7811382894
+Consent Status: Granted

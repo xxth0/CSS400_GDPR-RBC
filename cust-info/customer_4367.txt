@@ -1,0 +1,6 @@
+Customer ID: 4367
+Name: William Lewis
+National ID: 750-19-3247
+Bank: Lambert Group Bank
+Account Number: 2070394680
+Consent Status: Granted

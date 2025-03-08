@@ -1,0 +1,6 @@
+Customer ID: 3684
+Name: Brett Stone
+National ID: 298-31-3970
+Bank: Franco, Hartman and Knight Bank
+Account Number: 3389002856
+Consent Status: Granted

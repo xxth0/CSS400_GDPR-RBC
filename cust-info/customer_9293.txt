@@ -1,0 +1,6 @@
+Customer ID: 9293
+Name: Melissa Cole
+National ID: 787-78-4499
+Bank: Parks Ltd Bank
+Account Number: 4285842702
+Consent Status: Revoked

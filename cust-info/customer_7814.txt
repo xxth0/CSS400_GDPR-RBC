@@ -1,0 +1,6 @@
+Customer ID: 7814
+Name: Michael Thomas
+National ID: 183-78-6451
+Bank: Simpson-Chang Bank
+Account Number: 2068743971
+Consent Status: Granted

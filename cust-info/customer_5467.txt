@@ -1,0 +1,6 @@
+Customer ID: 5467
+Name: Laura Eaton
+National ID: 639-53-9189
+Bank: Cox-Arnold Bank
+Account Number: 2589711704
+Consent Status: Granted

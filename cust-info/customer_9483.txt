@@ -1,0 +1,6 @@
+Customer ID: 9483
+Name: Ronald Choi
+National ID: 672-90-6517
+Bank: Jensen PLC Bank
+Account Number: 8472256444
+Consent Status: Revoked

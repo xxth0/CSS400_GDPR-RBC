@@ -1,0 +1,6 @@
+Customer ID: 3884
+Name: Mia Garza
+National ID: 097-17-8615
+Bank: Nelson-Campos Bank
+Account Number: 9936257695
+Consent Status: Revoked

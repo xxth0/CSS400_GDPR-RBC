@@ -1,0 +1,6 @@
+Customer ID: 5756
+Name: Anthony Johnson
+National ID: 552-73-5245
+Bank: Maxwell LLC Bank
+Account Number: 4650899832
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6141
+Name: Joshua Weber
+National ID: 881-50-1038
+Bank: Castro-Murray Bank
+Account Number: 8467960941
+Consent Status: Granted

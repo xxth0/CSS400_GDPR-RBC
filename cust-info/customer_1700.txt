@@ -1,0 +1,6 @@
+Customer ID: 1700
+Name: Kathleen Boyd
+National ID: 041-69-2521
+Bank: Mercado Inc Bank
+Account Number: 1913382076
+Consent Status: Granted

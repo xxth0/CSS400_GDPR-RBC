@@ -1,0 +1,6 @@
+Customer ID: 5591
+Name: Emma Gonzalez
+National ID: 576-71-0989
+Bank: Jones-Taylor Bank
+Account Number: 5593613134
+Consent Status: Granted

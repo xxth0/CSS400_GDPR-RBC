@@ -1,0 +1,6 @@
+Customer ID: 6243
+Name: Tyler Pittman
+National ID: 715-31-2067
+Bank: Patterson-Barker Bank
+Account Number: 2609138019
+Consent Status: Granted

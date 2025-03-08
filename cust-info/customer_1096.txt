@@ -1,0 +1,6 @@
+Customer ID: 1096
+Name: Jennifer Williamson
+National ID: 299-29-8059
+Bank: Bentley-Lyons Bank
+Account Number: 1958444976
+Consent Status: Granted

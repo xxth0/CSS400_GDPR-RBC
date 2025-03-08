@@ -1,0 +1,6 @@
+Customer ID: 8039
+Name: Shawn Hubbard
+National ID: 360-96-9931
+Bank: Brown LLC Bank
+Account Number: 7904252819
+Consent Status: Granted

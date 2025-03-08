@@ -1,0 +1,6 @@
+Customer ID: 48
+Name: Megan Brooks
+National ID: 387-89-5450
+Bank: Bruce LLC Bank
+Account Number: 1299725153
+Consent Status: Granted

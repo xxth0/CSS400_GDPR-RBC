@@ -1,0 +1,6 @@
+Customer ID: 6672
+Name: Jennifer Owens
+National ID: 882-80-0663
+Bank: Howard-Green Bank
+Account Number: 6082946739
+Consent Status: Revoked

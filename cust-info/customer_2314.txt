@@ -1,0 +1,6 @@
+Customer ID: 2314
+Name: Anthony Davis
+National ID: 708-46-8914
+Bank: Campbell Inc Bank
+Account Number: 9961995160
+Consent Status: Revoked

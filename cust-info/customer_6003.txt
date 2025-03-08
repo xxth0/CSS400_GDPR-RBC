@@ -1,0 +1,6 @@
+Customer ID: 6003
+Name: Nathan Duran
+National ID: 708-38-0279
+Bank: Mccoy, Mendez and May Bank
+Account Number: 3515555861
+Consent Status: Granted

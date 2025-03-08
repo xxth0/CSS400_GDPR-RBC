@@ -1,0 +1,6 @@
+Customer ID: 5039
+Name: Melissa Joseph
+National ID: 737-13-0242
+Bank: Hurst-Murray Bank
+Account Number: 7276307750
+Consent Status: Revoked

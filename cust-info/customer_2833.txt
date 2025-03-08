@@ -1,0 +1,6 @@
+Customer ID: 2833
+Name: Willie Ellis
+National ID: 550-70-5084
+Bank: Burke-Bailey Bank
+Account Number: 9523183267
+Consent Status: Granted

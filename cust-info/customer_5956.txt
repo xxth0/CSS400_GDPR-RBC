@@ -1,0 +1,6 @@
+Customer ID: 5956
+Name: Jordan West
+National ID: 775-88-1910
+Bank: Padilla LLC Bank
+Account Number: 8889975357
+Consent Status: Granted

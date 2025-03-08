@@ -1,0 +1,6 @@
+Customer ID: 6745
+Name: Emma Turner
+National ID: 793-62-8532
+Bank: Taylor Ltd Bank
+Account Number: 6691411085
+Consent Status: Granted

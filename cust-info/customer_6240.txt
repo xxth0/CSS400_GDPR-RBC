@@ -1,0 +1,6 @@
+Customer ID: 6240
+Name: James Reynolds
+National ID: 223-65-8107
+Bank: Parks, Phelps and Harper Bank
+Account Number: 9427974759
+Consent Status: Granted

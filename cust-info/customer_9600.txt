@@ -1,0 +1,6 @@
+Customer ID: 9600
+Name: Philip Jenkins
+National ID: 698-81-6087
+Bank: Sanchez LLC Bank
+Account Number: 4878985408
+Consent Status: Granted

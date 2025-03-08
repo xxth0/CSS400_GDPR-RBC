@@ -1,0 +1,6 @@
+Customer ID: 6977
+Name: Bianca Owens
+National ID: 762-76-6923
+Bank: Patel LLC Bank
+Account Number: 9453920204
+Consent Status: Revoked

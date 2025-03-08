@@ -1,0 +1,6 @@
+Customer ID: 6049
+Name: Robert Ramirez DDS
+National ID: 125-68-9640
+Bank: Schaefer, Perez and Jordan Bank
+Account Number: 4862131685
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4996
+Name: Christine Cooper
+National ID: 489-33-3028
+Bank: Gonzalez PLC Bank
+Account Number: 4426506831
+Consent Status: Revoked

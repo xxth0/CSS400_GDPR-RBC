@@ -1,0 +1,6 @@
+Customer ID: 7171
+Name: Ricardo Sanchez
+National ID: 697-96-7305
+Bank: Powell-Newton Bank
+Account Number: 2800728736
+Consent Status: Revoked

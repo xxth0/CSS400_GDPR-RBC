@@ -1,0 +1,6 @@
+Customer ID: 8755
+Name: Ricky Adams
+National ID: 272-40-7373
+Bank: Thomas and Sons Bank
+Account Number: 2211861177
+Consent Status: Revoked

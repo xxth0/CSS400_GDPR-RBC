@@ -1,0 +1,6 @@
+Customer ID: 985
+Name: Eric Powell
+National ID: 191-06-5317
+Bank: Wallace PLC Bank
+Account Number: 1848471816
+Consent Status: Granted

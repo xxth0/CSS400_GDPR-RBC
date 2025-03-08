@@ -1,0 +1,6 @@
+Customer ID: 1330
+Name: Michelle Peters
+National ID: 127-98-2902
+Bank: Haney-Alexander Bank
+Account Number: 5612342436
+Consent Status: Revoked

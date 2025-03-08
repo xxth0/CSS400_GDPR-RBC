@@ -1,0 +1,6 @@
+Customer ID: 6856
+Name: Angela Gibson
+National ID: 746-12-0061
+Bank: Curry-Davis Bank
+Account Number: 8206285522
+Consent Status: Granted

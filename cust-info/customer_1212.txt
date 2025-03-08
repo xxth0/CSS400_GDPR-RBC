@@ -1,0 +1,6 @@
+Customer ID: 1212
+Name: Shannon Kelley
+National ID: 787-12-2676
+Bank: Mooney-Nichols Bank
+Account Number: 9613428763
+Consent Status: Granted

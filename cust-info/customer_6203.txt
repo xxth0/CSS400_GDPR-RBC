@@ -1,0 +1,6 @@
+Customer ID: 6203
+Name: Rebecca Skinner
+National ID: 387-20-7931
+Bank: Smith Inc Bank
+Account Number: 5655573099
+Consent Status: Revoked

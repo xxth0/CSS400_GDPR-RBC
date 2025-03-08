@@ -1,0 +1,6 @@
+Customer ID: 8437
+Name: Christina Johnson
+National ID: 462-39-2779
+Bank: Gilbert Inc Bank
+Account Number: 3471610592
+Consent Status: Revoked

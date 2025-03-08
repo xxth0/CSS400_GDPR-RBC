@@ -1,0 +1,6 @@
+Customer ID: 218
+Name: Angela Miller MD
+National ID: 230-63-6718
+Bank: Bailey, Ramos and Lopez Bank
+Account Number: 6441187347
+Consent Status: Granted

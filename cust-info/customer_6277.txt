@@ -1,0 +1,6 @@
+Customer ID: 6277
+Name: Lauren Allen
+National ID: 330-43-9062
+Bank: Suarez-Bird Bank
+Account Number: 9803197717
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 317
+Name: Ian Sanchez
+National ID: 110-25-8455
+Bank: Haynes, Krause and Mueller Bank
+Account Number: 7321470309
+Consent Status: Revoked

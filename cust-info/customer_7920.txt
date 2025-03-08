@@ -1,0 +1,6 @@
+Customer ID: 7920
+Name: Eric Graham
+National ID: 813-58-8324
+Bank: Kim and Sons Bank
+Account Number: 5775335346
+Consent Status: Granted

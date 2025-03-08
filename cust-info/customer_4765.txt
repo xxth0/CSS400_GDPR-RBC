@@ -1,0 +1,6 @@
+Customer ID: 4765
+Name: Shelley Burton
+National ID: 579-67-8490
+Bank: Trujillo, Taylor and Rodriguez Bank
+Account Number: 2136940319
+Consent Status: Granted

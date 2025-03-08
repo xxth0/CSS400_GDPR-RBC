@@ -1,0 +1,6 @@
+Customer ID: 4388
+Name: William Ortega
+National ID: 103-96-2370
+Bank: Collins-Shea Bank
+Account Number: 2129564770
+Consent Status: Granted

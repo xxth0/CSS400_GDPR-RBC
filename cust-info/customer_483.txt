@@ -1,0 +1,6 @@
+Customer ID: 483
+Name: Cesar Brown
+National ID: 315-52-7253
+Bank: Bowman-Lindsey Bank
+Account Number: 2540203462
+Consent Status: Granted

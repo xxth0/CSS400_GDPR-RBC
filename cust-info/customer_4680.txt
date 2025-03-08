@@ -1,0 +1,6 @@
+Customer ID: 4680
+Name: Adam Pierce
+National ID: 670-82-6199
+Bank: May, Morales and Taylor Bank
+Account Number: 1722443670
+Consent Status: Granted

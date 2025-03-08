@@ -1,0 +1,6 @@
+Customer ID: 871
+Name: Crystal Ruiz
+National ID: 522-44-4138
+Bank: Hansen-Steele Bank
+Account Number: 9267203045
+Consent Status: Granted

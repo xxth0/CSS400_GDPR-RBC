@@ -1,0 +1,6 @@
+Customer ID: 1183
+Name: Amanda Baker
+National ID: 599-07-5254
+Bank: Hogan-Rojas Bank
+Account Number: 8637179589
+Consent Status: Revoked

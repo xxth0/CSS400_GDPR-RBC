@@ -1,0 +1,6 @@
+Customer ID: 5874
+Name: Joseph Landry
+National ID: 065-52-0978
+Bank: Miles PLC Bank
+Account Number: 7363397364
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3104
+Name: Rebecca Stephenson
+National ID: 139-15-3689
+Bank: Strong LLC Bank
+Account Number: 2240892806
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8422
+Name: William Barnes
+National ID: 346-15-2585
+Bank: Hammond Ltd Bank
+Account Number: 5996393317
+Consent Status: Revoked

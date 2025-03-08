@@ -1,0 +1,6 @@
+Customer ID: 9963
+Name: Maria Thompson
+National ID: 345-25-0153
+Bank: Williams-Matthews Bank
+Account Number: 9308879195
+Consent Status: Granted

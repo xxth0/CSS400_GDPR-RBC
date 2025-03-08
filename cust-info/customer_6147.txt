@@ -1,0 +1,6 @@
+Customer ID: 6147
+Name: Laura Murray
+National ID: 538-08-4820
+Bank: Vazquez-Love Bank
+Account Number: 9869663780
+Consent Status: Revoked

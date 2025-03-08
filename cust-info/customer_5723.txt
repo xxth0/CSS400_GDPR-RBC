@@ -1,0 +1,6 @@
+Customer ID: 5723
+Name: Charles George
+National ID: 660-92-8023
+Bank: Ward PLC Bank
+Account Number: 4789913084
+Consent Status: Granted

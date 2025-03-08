@@ -1,0 +1,6 @@
+Customer ID: 3779
+Name: Johnny Moore
+National ID: 699-51-4303
+Bank: Moore, Flores and Ortega Bank
+Account Number: 6603614177
+Consent Status: Granted

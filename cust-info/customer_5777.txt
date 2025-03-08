@@ -1,0 +1,6 @@
+Customer ID: 5777
+Name: Daniel Clark
+National ID: 538-86-0446
+Bank: Holland-Parker Bank
+Account Number: 3245522017
+Consent Status: Revoked

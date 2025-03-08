@@ -1,0 +1,6 @@
+Customer ID: 8057
+Name: Seth Patel
+National ID: 019-61-9251
+Bank: Williams LLC Bank
+Account Number: 7600390846
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5000
+Name: Brittany Ball
+National ID: 899-90-5101
+Bank: Brown, Michael and Yoder Bank
+Account Number: 6315163443
+Consent Status: Granted

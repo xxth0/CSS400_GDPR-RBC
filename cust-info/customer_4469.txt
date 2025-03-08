@@ -1,0 +1,6 @@
+Customer ID: 4469
+Name: Charles Brown
+National ID: 241-57-4041
+Bank: Perry-Johnson Bank
+Account Number: 3755681670
+Consent Status: Granted

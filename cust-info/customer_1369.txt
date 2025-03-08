@@ -1,0 +1,6 @@
+Customer ID: 1369
+Name: Sandy Rodriguez
+National ID: 683-15-2546
+Bank: Rogers, Dennis and Williams Bank
+Account Number: 4873719504
+Consent Status: Granted

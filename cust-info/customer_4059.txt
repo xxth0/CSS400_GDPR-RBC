@@ -1,0 +1,6 @@
+Customer ID: 4059
+Name: Roberto Carter
+National ID: 463-55-9496
+Bank: Vincent, Young and Hunt Bank
+Account Number: 9074712342
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6270
+Name: Melanie Miles
+National ID: 383-80-2733
+Bank: Owens-Lewis Bank
+Account Number: 1065674167
+Consent Status: Granted

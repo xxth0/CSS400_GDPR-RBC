@@ -1,0 +1,6 @@
+Customer ID: 4962
+Name: Angela Rodriguez
+National ID: 273-94-3987
+Bank: May-Foster Bank
+Account Number: 9984906981
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1545
+Name: Johnny Hernandez
+National ID: 818-65-8751
+Bank: Smith-Allen Bank
+Account Number: 7648736187
+Consent Status: Revoked

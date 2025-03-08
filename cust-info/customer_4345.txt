@@ -1,0 +1,6 @@
+Customer ID: 4345
+Name: James Cantrell
+National ID: 557-87-7541
+Bank: Smith-Romero Bank
+Account Number: 3416353853
+Consent Status: Revoked

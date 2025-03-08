@@ -1,0 +1,6 @@
+Customer ID: 7635
+Name: Alexander Turner
+National ID: 282-75-0260
+Bank: Anderson-Higgins Bank
+Account Number: 2765542450
+Consent Status: Revoked

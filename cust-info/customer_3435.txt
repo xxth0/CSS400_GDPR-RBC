@@ -1,0 +1,6 @@
+Customer ID: 3435
+Name: Wayne Singh
+National ID: 153-90-8291
+Bank: Taylor LLC Bank
+Account Number: 5182304937
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5888
+Name: Monica Torres
+National ID: 591-70-1202
+Bank: Nguyen Ltd Bank
+Account Number: 6389585908
+Consent Status: Revoked

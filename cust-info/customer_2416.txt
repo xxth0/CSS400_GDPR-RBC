@@ -1,0 +1,6 @@
+Customer ID: 2416
+Name: Mitchell Ramirez
+National ID: 526-58-4478
+Bank: Arias PLC Bank
+Account Number: 1890583343
+Consent Status: Revoked

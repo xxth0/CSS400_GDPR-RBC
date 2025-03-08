@@ -1,0 +1,6 @@
+Customer ID: 156
+Name: David Tran
+National ID: 265-88-8594
+Bank: Reed and Sons Bank
+Account Number: 5634197068
+Consent Status: Granted

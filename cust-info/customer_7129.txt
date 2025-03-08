@@ -1,0 +1,6 @@
+Customer ID: 7129
+Name: Daniel Kim
+National ID: 624-14-0317
+Bank: Ross-Cordova Bank
+Account Number: 9345107260
+Consent Status: Granted

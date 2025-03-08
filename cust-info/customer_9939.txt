@@ -1,0 +1,6 @@
+Customer ID: 9939
+Name: Rachel Figueroa
+National ID: 719-07-8011
+Bank: Smith, Bradley and Johnson Bank
+Account Number: 9408920808
+Consent Status: Revoked

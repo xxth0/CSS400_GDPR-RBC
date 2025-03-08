@@ -1,0 +1,6 @@
+Customer ID: 1598
+Name: Timothy Donovan
+National ID: 667-39-2484
+Bank: Pennington Group Bank
+Account Number: 7724835769
+Consent Status: Revoked

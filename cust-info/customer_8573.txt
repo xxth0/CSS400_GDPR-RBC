@@ -1,0 +1,6 @@
+Customer ID: 8573
+Name: Amber Brown
+National ID: 282-50-1563
+Bank: Moreno PLC Bank
+Account Number: 5764500828
+Consent Status: Granted

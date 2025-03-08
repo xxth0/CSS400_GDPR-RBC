@@ -1,0 +1,6 @@
+Customer ID: 9585
+Name: Matthew Rojas
+National ID: 167-16-0383
+Bank: Walsh, Kelly and Mcdonald Bank
+Account Number: 9256338766
+Consent Status: Revoked

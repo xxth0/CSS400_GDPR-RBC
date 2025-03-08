@@ -1,0 +1,6 @@
+Customer ID: 1077
+Name: Mr. Cory Smith
+National ID: 505-07-2423
+Bank: Davis-Craig Bank
+Account Number: 3573945007
+Consent Status: Revoked

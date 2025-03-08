@@ -1,0 +1,6 @@
+Customer ID: 8215
+Name: Chase Myers
+National ID: 689-72-8756
+Bank: Brown, Dominguez and Holden Bank
+Account Number: 8231121149
+Consent Status: Revoked

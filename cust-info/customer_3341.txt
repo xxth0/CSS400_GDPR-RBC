@@ -1,0 +1,6 @@
+Customer ID: 3341
+Name: Samantha Young
+National ID: 731-14-3405
+Bank: Thomas, Mccoy and Rangel Bank
+Account Number: 8877966279
+Consent Status: Granted

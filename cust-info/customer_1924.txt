@@ -1,0 +1,6 @@
+Customer ID: 1924
+Name: Megan Mason
+National ID: 806-67-0484
+Bank: Johnson Group Bank
+Account Number: 4634512039
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7346
+Name: Destiny Tucker
+National ID: 292-78-1947
+Bank: Diaz Ltd Bank
+Account Number: 9150393821
+Consent Status: Granted

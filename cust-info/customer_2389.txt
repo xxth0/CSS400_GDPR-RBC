@@ -1,0 +1,6 @@
+Customer ID: 2389
+Name: Brandon Stone
+National ID: 794-45-2884
+Bank: Johnson Inc Bank
+Account Number: 7372016841
+Consent Status: Revoked

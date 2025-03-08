@@ -1,0 +1,6 @@
+Customer ID: 5862
+Name: Michele Moore
+National ID: 626-69-9172
+Bank: Smith Ltd Bank
+Account Number: 5529442371
+Consent Status: Granted

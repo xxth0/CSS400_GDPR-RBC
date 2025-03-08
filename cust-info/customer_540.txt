@@ -1,0 +1,6 @@
+Customer ID: 540
+Name: Carrie Lawson
+National ID: 724-51-2849
+Bank: Fowler LLC Bank
+Account Number: 9955498574
+Consent Status: Revoked

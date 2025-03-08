@@ -1,0 +1,6 @@
+Customer ID: 3264
+Name: Robert Fitzpatrick
+National ID: 341-03-8204
+Bank: Lane, Rogers and Hood Bank
+Account Number: 7030387853
+Consent Status: Granted

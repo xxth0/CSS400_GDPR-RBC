@@ -1,0 +1,6 @@
+Customer ID: 5594
+Name: Evan Thomas
+National ID: 729-20-3745
+Bank: Berry-Casey Bank
+Account Number: 3059784581
+Consent Status: Revoked

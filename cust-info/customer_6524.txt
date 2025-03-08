@@ -1,0 +1,6 @@
+Customer ID: 6524
+Name: Christina Hurst
+National ID: 636-18-9886
+Bank: Mullins LLC Bank
+Account Number: 8018753427
+Consent Status: Granted

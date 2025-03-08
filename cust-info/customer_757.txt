@@ -1,0 +1,6 @@
+Customer ID: 757
+Name: Lori Bishop
+National ID: 554-47-7698
+Bank: Garcia-Williams Bank
+Account Number: 8312835920
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3122
+Name: Tara Horn
+National ID: 584-68-1771
+Bank: Garcia-Smith Bank
+Account Number: 8562746656
+Consent Status: Granted

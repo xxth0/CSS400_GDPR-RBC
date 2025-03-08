@@ -1,0 +1,6 @@
+Customer ID: 7385
+Name: Sean Garrett
+National ID: 550-33-2226
+Bank: Chandler Ltd Bank
+Account Number: 6256984748
+Consent Status: Granted

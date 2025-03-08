@@ -1,0 +1,6 @@
+Customer ID: 521
+Name: Sandra Ryan
+National ID: 779-40-6799
+Bank: Bennett, Tyler and Johnson Bank
+Account Number: 9783830828
+Consent Status: Granted

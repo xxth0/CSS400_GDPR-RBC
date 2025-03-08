@@ -1,0 +1,6 @@
+Customer ID: 9816
+Name: David Duarte
+National ID: 192-05-8373
+Bank: Mitchell-Sanchez Bank
+Account Number: 6983109639
+Consent Status: Granted

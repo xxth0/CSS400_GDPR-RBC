@@ -1,0 +1,6 @@
+Customer ID: 4979
+Name: Mrs. Meghan Marshall
+National ID: 081-67-9400
+Bank: Murray, Gibbs and Bates Bank
+Account Number: 5704297616
+Consent Status: Revoked

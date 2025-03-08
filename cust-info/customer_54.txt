@@ -1,0 +1,6 @@
+Customer ID: 54
+Name: Virginia Bryant
+National ID: 647-43-3437
+Bank: Casey Group Bank
+Account Number: 9516939032
+Consent Status: Revoked

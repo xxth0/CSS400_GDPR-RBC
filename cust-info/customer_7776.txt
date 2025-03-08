@@ -1,0 +1,6 @@
+Customer ID: 7776
+Name: Rebecca Wilkins
+National ID: 761-81-9912
+Bank: Lucas and Sons Bank
+Account Number: 3496739465
+Consent Status: Revoked

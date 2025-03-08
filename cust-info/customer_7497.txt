@@ -1,0 +1,6 @@
+Customer ID: 7497
+Name: Daryl Jones
+National ID: 824-66-2992
+Bank: Mccarthy Inc Bank
+Account Number: 3595409725
+Consent Status: Granted

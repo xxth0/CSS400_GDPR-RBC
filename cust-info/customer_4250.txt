@@ -1,0 +1,6 @@
+Customer ID: 4250
+Name: David Fischer
+National ID: 879-18-9651
+Bank: Calhoun, Bright and Moreno Bank
+Account Number: 7593609635
+Consent Status: Granted

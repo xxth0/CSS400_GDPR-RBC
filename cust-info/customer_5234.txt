@@ -1,0 +1,6 @@
+Customer ID: 5234
+Name: Samuel Wade
+National ID: 687-48-4997
+Bank: Ferguson-Owen Bank
+Account Number: 5596027983
+Consent Status: Revoked

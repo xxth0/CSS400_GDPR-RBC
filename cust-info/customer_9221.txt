@@ -1,0 +1,6 @@
+Customer ID: 9221
+Name: Laura Thomas
+National ID: 227-76-0955
+Bank: Good-Hurley Bank
+Account Number: 2170674288
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4400
+Name: David Bailey
+National ID: 342-43-0521
+Bank: Gilmore-Morgan Bank
+Account Number: 7975843779
+Consent Status: Granted

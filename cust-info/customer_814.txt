@@ -1,0 +1,6 @@
+Customer ID: 814
+Name: James Lee
+National ID: 110-40-9086
+Bank: Flynn, Watson and Crawford Bank
+Account Number: 7467940232
+Consent Status: Granted

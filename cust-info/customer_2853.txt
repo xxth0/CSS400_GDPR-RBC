@@ -1,0 +1,6 @@
+Customer ID: 2853
+Name: Edward Good
+National ID: 595-23-8879
+Bank: Green-Park Bank
+Account Number: 4303568777
+Consent Status: Granted

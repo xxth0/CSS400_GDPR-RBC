@@ -1,0 +1,6 @@
+Customer ID: 5433
+Name: Stephanie Pratt
+National ID: 158-87-0994
+Bank: Mcclure-Lopez Bank
+Account Number: 4401041505
+Consent Status: Revoked

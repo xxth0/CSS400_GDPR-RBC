@@ -1,0 +1,6 @@
+Customer ID: 2999
+Name: Daniel Austin
+National ID: 701-49-0592
+Bank: Lester Inc Bank
+Account Number: 9290599634
+Consent Status: Granted

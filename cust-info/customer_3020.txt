@@ -1,0 +1,6 @@
+Customer ID: 3020
+Name: Mr. Michael Goodwin
+National ID: 624-72-2015
+Bank: Jones-Juarez Bank
+Account Number: 8736595099
+Consent Status: Granted

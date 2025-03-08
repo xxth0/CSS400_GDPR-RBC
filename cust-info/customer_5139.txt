@@ -1,0 +1,6 @@
+Customer ID: 5139
+Name: Amber Jackson
+National ID: 704-68-9457
+Bank: Mayer-Robbins Bank
+Account Number: 4385045492
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3577
+Name: Justin Glenn
+National ID: 516-45-2036
+Bank: Moss LLC Bank
+Account Number: 8232881239
+Consent Status: Revoked

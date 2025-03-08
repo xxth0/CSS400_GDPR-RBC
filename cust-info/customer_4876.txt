@@ -1,0 +1,6 @@
+Customer ID: 4876
+Name: Jordan Williams
+National ID: 612-10-7570
+Bank: Mcgee, Lambert and Chang Bank
+Account Number: 5311378717
+Consent Status: Revoked

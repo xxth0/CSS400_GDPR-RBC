@@ -1,0 +1,6 @@
+Customer ID: 2760
+Name: Dustin Anderson
+National ID: 582-18-3171
+Bank: Williams PLC Bank
+Account Number: 9602073589
+Consent Status: Revoked

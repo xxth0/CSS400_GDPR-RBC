@@ -1,0 +1,6 @@
+Customer ID: 9785
+Name: Julie Walker
+National ID: 183-09-6546
+Bank: Johnson Group Bank
+Account Number: 4395256778
+Consent Status: Granted

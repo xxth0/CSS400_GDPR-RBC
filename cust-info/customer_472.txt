@@ -1,0 +1,6 @@
+Customer ID: 472
+Name: Elizabeth Lara
+National ID: 764-12-9235
+Bank: Williams, Jones and Irwin Bank
+Account Number: 1955918017
+Consent Status: Granted

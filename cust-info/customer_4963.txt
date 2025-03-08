@@ -1,0 +1,6 @@
+Customer ID: 4963
+Name: Daniel Preston
+National ID: 564-40-3076
+Bank: Kennedy Group Bank
+Account Number: 3419261965
+Consent Status: Granted

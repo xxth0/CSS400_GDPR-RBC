@@ -1,0 +1,6 @@
+Customer ID: 9278
+Name: Karen Hopkins
+National ID: 737-39-0841
+Bank: Brooks Group Bank
+Account Number: 5742477960
+Consent Status: Granted

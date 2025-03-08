@@ -1,0 +1,6 @@
+Customer ID: 7392
+Name: Amanda Thompson
+National ID: 235-69-1248
+Bank: Underwood and Sons Bank
+Account Number: 4176663179
+Consent Status: Granted

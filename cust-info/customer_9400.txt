@@ -1,0 +1,6 @@
+Customer ID: 9400
+Name: Julie Winters
+National ID: 045-92-9643
+Bank: Mckinney-Turner Bank
+Account Number: 6996958034
+Consent Status: Granted

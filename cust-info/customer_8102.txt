@@ -1,0 +1,6 @@
+Customer ID: 8102
+Name: Amanda Graham
+National ID: 391-95-6947
+Bank: Bailey, Moon and Hammond Bank
+Account Number: 5382535673
+Consent Status: Granted

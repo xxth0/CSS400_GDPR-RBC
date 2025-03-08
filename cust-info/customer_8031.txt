@@ -1,0 +1,6 @@
+Customer ID: 8031
+Name: Alan Dominguez
+National ID: 329-23-8330
+Bank: Love, Osborn and Mckenzie Bank
+Account Number: 6476279353
+Consent Status: Revoked

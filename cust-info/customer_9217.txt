@@ -1,0 +1,6 @@
+Customer ID: 9217
+Name: Aaron Jenkins
+National ID: 092-32-4638
+Bank: Coleman Inc Bank
+Account Number: 2287113141
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9109
+Name: Stephanie Hoffman
+National ID: 044-11-6071
+Bank: Berry PLC Bank
+Account Number: 6699401766
+Consent Status: Granted

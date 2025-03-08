@@ -1,0 +1,6 @@
+Customer ID: 8101
+Name: Nicholas Murray MD
+National ID: 735-24-4571
+Bank: French, Johns and Conley Bank
+Account Number: 2375346052
+Consent Status: Granted

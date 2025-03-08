@@ -1,0 +1,6 @@
+Customer ID: 5925
+Name: Melissa Butler
+National ID: 827-56-8824
+Bank: Yoder, Vargas and Harris Bank
+Account Number: 1291711718
+Consent Status: Revoked

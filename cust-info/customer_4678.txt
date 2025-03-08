@@ -1,0 +1,6 @@
+Customer ID: 4678
+Name: Erin Ramirez
+National ID: 642-76-9893
+Bank: Yates Inc Bank
+Account Number: 2939675546
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7444
+Name: Jose Davis
+National ID: 520-35-5791
+Bank: Howard, Delacruz and Franklin Bank
+Account Number: 5121969968
+Consent Status: Revoked

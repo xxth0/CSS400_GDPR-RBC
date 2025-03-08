@@ -1,0 +1,6 @@
+Customer ID: 7146
+Name: Brian Sloan
+National ID: 479-59-0953
+Bank: Walter-Bolton Bank
+Account Number: 7098592522
+Consent Status: Revoked

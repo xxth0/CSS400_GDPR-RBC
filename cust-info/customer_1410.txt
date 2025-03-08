@@ -1,0 +1,6 @@
+Customer ID: 1410
+Name: Harold Burke
+National ID: 296-51-2243
+Bank: Jones, Johnson and Hoover Bank
+Account Number: 6554776673
+Consent Status: Revoked

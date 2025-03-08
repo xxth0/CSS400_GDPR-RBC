@@ -1,0 +1,6 @@
+Customer ID: 1816
+Name: Troy Porter
+National ID: 254-41-2536
+Bank: Hall-Webster Bank
+Account Number: 4855644286
+Consent Status: Revoked

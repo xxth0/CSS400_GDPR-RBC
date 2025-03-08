@@ -1,0 +1,6 @@
+Customer ID: 1822
+Name: Laura Suarez
+National ID: 637-09-2480
+Bank: Garcia, Carroll and Bailey Bank
+Account Number: 9602845579
+Consent Status: Granted

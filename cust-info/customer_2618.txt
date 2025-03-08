@@ -1,0 +1,6 @@
+Customer ID: 2618
+Name: Jose Weber
+National ID: 677-94-6902
+Bank: Tucker, Warren and Silva Bank
+Account Number: 4621035143
+Consent Status: Granted

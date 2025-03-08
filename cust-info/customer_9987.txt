@@ -1,0 +1,6 @@
+Customer ID: 9987
+Name: Olivia Chavez
+National ID: 818-35-5418
+Bank: Padilla, Kent and Phillips Bank
+Account Number: 4575580936
+Consent Status: Revoked

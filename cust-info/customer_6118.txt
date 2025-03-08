@@ -1,0 +1,6 @@
+Customer ID: 6118
+Name: Lisa Galloway
+National ID: 127-40-5466
+Bank: Hubbard-Rodriguez Bank
+Account Number: 2557243596
+Consent Status: Revoked

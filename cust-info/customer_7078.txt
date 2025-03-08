@@ -1,0 +1,6 @@
+Customer ID: 7078
+Name: Raymond Reed
+National ID: 677-55-4166
+Bank: Bennett-Patterson Bank
+Account Number: 3465385223
+Consent Status: Revoked

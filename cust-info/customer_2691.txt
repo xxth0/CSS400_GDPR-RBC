@@ -1,0 +1,6 @@
+Customer ID: 2691
+Name: Erik Burns
+National ID: 847-42-0511
+Bank: Thomas, Kim and Ortiz Bank
+Account Number: 6104542503
+Consent Status: Revoked

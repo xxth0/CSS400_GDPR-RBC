@@ -1,0 +1,6 @@
+Customer ID: 3365
+Name: Denise Mccarty
+National ID: 515-07-5134
+Bank: Cruz, Knapp and Lam Bank
+Account Number: 9019007301
+Consent Status: Revoked

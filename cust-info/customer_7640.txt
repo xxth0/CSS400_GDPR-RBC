@@ -1,0 +1,6 @@
+Customer ID: 7640
+Name: Stephanie Atkinson
+National ID: 772-67-7101
+Bank: Williams-Moore Bank
+Account Number: 7520231092
+Consent Status: Revoked

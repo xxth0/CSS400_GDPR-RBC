@@ -1,0 +1,6 @@
+Customer ID: 7828
+Name: Corey Fowler
+National ID: 312-44-0795
+Bank: Flowers, Black and Harrell Bank
+Account Number: 3926563400
+Consent Status: Revoked

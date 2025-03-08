@@ -1,0 +1,6 @@
+Customer ID: 1906
+Name: Daniel Lopez
+National ID: 800-45-5382
+Bank: Cochran, Russell and Arnold Bank
+Account Number: 2722949626
+Consent Status: Granted

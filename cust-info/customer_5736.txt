@@ -1,0 +1,6 @@
+Customer ID: 5736
+Name: Jasmine Brown
+National ID: 576-99-4542
+Bank: Lopez, Gibson and Anderson Bank
+Account Number: 7964080868
+Consent Status: Granted

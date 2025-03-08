@@ -1,0 +1,6 @@
+Customer ID: 8230
+Name: Lance Hall
+National ID: 507-48-5568
+Bank: Henry-Johnson Bank
+Account Number: 7539715221
+Consent Status: Revoked

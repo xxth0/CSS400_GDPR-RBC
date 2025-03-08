@@ -1,0 +1,6 @@
+Customer ID: 5630
+Name: Jacob Salazar
+National ID: 758-94-0108
+Bank: Taylor-Morton Bank
+Account Number: 5698955633
+Consent Status: Revoked

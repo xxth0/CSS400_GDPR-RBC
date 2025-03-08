@@ -1,0 +1,6 @@
+Customer ID: 1808
+Name: Carl Nicholson
+National ID: 459-09-2369
+Bank: Davis LLC Bank
+Account Number: 7711176081
+Consent Status: Granted

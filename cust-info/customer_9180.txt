@@ -1,0 +1,6 @@
+Customer ID: 9180
+Name: Heather Le
+National ID: 635-64-9800
+Bank: Cummings, Carlson and Fritz Bank
+Account Number: 7737759446
+Consent Status: Revoked

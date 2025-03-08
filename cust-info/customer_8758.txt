@@ -1,0 +1,6 @@
+Customer ID: 8758
+Name: Brandon Elliott
+National ID: 302-66-8444
+Bank: Lawson, Lambert and Keith Bank
+Account Number: 9827016713
+Consent Status: Revoked

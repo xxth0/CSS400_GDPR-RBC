@@ -1,0 +1,6 @@
+Customer ID: 4248
+Name: Denise Chan
+National ID: 093-32-6167
+Bank: Stephens, Wilson and Dalton Bank
+Account Number: 2756455524
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 368
+Name: Andrew Freeman
+National ID: 778-15-7882
+Bank: Holmes PLC Bank
+Account Number: 5197866095
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9604
+Name: James Murphy
+National ID: 609-10-9832
+Bank: Mueller, Johnson and Kaiser Bank
+Account Number: 7283362108
+Consent Status: Revoked

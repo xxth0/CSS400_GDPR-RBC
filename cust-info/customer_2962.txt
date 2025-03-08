@@ -1,0 +1,6 @@
+Customer ID: 2962
+Name: William Bailey
+National ID: 111-04-7403
+Bank: Jacobs, Wilson and Salazar Bank
+Account Number: 7514938446
+Consent Status: Revoked

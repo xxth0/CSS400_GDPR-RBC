@@ -1,0 +1,6 @@
+Customer ID: 6961
+Name: Jacqueline Watts
+National ID: 634-33-8398
+Bank: Roberts, Klein and Greene Bank
+Account Number: 9934572577
+Consent Status: Revoked

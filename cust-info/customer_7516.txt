@@ -1,0 +1,6 @@
+Customer ID: 7516
+Name: Brittney Long
+National ID: 143-18-8517
+Bank: Martin, Scott and Smith Bank
+Account Number: 9621583819
+Consent Status: Revoked

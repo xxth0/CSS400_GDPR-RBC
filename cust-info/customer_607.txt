@@ -1,0 +1,6 @@
+Customer ID: 607
+Name: Jorge Shields
+National ID: 292-80-2577
+Bank: Thomas, Church and Miller Bank
+Account Number: 4759409858
+Consent Status: Granted

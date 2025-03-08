@@ -1,0 +1,6 @@
+Customer ID: 4791
+Name: Sharon Alexander
+National ID: 095-25-4719
+Bank: Mccoy, Lee and Good Bank
+Account Number: 8905389286
+Consent Status: Revoked

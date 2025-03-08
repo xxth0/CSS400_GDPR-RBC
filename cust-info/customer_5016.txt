@@ -1,0 +1,6 @@
+Customer ID: 5016
+Name: Allen Torres
+National ID: 698-28-6915
+Bank: Smith-Mendez Bank
+Account Number: 4659960697
+Consent Status: Revoked

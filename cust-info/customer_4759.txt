@@ -1,0 +1,6 @@
+Customer ID: 4759
+Name: Tammy Gonzales
+National ID: 653-31-1989
+Bank: Smith Group Bank
+Account Number: 5500581336
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6539
+Name: Gary Jones
+National ID: 696-58-5690
+Bank: Burton, Powell and Harrell Bank
+Account Number: 8798155724
+Consent Status: Revoked

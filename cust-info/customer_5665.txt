@@ -1,0 +1,6 @@
+Customer ID: 5665
+Name: Misty Brown
+National ID: 025-70-6994
+Bank: Rogers PLC Bank
+Account Number: 4567510736
+Consent Status: Revoked

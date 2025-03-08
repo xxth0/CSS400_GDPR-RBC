@@ -1,0 +1,6 @@
+Customer ID: 8223
+Name: Alicia Barr
+National ID: 572-09-2192
+Bank: Farrell, Mercado and Marshall Bank
+Account Number: 5873042737
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9561
+Name: Carl Gay
+National ID: 233-63-2764
+Bank: Gomez PLC Bank
+Account Number: 7489733123
+Consent Status: Revoked

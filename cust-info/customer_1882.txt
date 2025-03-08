@@ -1,0 +1,6 @@
+Customer ID: 1882
+Name: Amy Smith
+National ID: 069-94-6318
+Bank: Peters-Fisher Bank
+Account Number: 2380363180
+Consent Status: Revoked

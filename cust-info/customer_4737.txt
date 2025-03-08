@@ -1,0 +1,6 @@
+Customer ID: 4737
+Name: Linda Carey
+National ID: 346-79-2587
+Bank: Bryant LLC Bank
+Account Number: 5025190602
+Consent Status: Revoked

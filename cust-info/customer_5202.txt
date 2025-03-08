@@ -1,0 +1,6 @@
+Customer ID: 5202
+Name: Tracy Johnson
+National ID: 815-13-5917
+Bank: Sandoval-Gonzalez Bank
+Account Number: 6908883495
+Consent Status: Granted

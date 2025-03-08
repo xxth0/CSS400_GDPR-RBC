@@ -1,0 +1,6 @@
+Customer ID: 480
+Name: Paul Lee
+National ID: 440-25-8805
+Bank: Ballard LLC Bank
+Account Number: 7927668922
+Consent Status: Revoked

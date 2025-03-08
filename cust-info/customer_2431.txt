@@ -1,0 +1,6 @@
+Customer ID: 2431
+Name: Paula Austin
+National ID: 554-41-4813
+Bank: Flynn-Garcia Bank
+Account Number: 8526735200
+Consent Status: Granted

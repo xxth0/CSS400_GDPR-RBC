@@ -1,0 +1,6 @@
+Customer ID: 8334
+Name: Zachary Ruiz
+National ID: 391-08-7713
+Bank: Martin, Lindsey and Shaffer Bank
+Account Number: 9257199816
+Consent Status: Granted

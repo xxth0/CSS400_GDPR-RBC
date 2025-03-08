@@ -1,0 +1,6 @@
+Customer ID: 8653
+Name: Susan Clark
+National ID: 273-88-4312
+Bank: Cisneros-Walker Bank
+Account Number: 4941385510
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 939
+Name: Matthew Jones
+National ID: 392-60-5626
+Bank: Foley, Roberts and James Bank
+Account Number: 4693762508
+Consent Status: Revoked

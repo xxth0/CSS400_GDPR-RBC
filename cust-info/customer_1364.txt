@@ -1,0 +1,6 @@
+Customer ID: 1364
+Name: David Miller
+National ID: 480-26-2899
+Bank: Harris Inc Bank
+Account Number: 1176000577
+Consent Status: Revoked

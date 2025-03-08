@@ -1,0 +1,6 @@
+Customer ID: 1606
+Name: Teresa Avila
+National ID: 092-55-6687
+Bank: Brown-Doyle Bank
+Account Number: 9816825671
+Consent Status: Revoked

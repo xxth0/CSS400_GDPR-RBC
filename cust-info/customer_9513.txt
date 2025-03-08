@@ -1,0 +1,6 @@
+Customer ID: 9513
+Name: Michael Sullivan
+National ID: 180-35-3203
+Bank: Moon Group Bank
+Account Number: 8943000377
+Consent Status: Granted

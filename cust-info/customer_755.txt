@@ -1,0 +1,6 @@
+Customer ID: 755
+Name: Ryan Garcia
+National ID: 681-19-2939
+Bank: Gregory, Chambers and Compton Bank
+Account Number: 7603345793
+Consent Status: Granted

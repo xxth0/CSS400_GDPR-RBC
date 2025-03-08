@@ -1,0 +1,6 @@
+Customer ID: 3285
+Name: Kenneth Alexander
+National ID: 470-49-7391
+Bank: Gentry, Valdez and Lopez Bank
+Account Number: 1832618385
+Consent Status: Granted

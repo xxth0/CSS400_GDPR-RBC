@@ -1,0 +1,6 @@
+Customer ID: 5530
+Name: Connie Stanley
+National ID: 624-06-8630
+Bank: Bell Inc Bank
+Account Number: 8206900372
+Consent Status: Granted

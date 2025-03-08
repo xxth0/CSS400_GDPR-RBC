@@ -1,0 +1,6 @@
+Customer ID: 6680
+Name: Kristopher Delacruz
+National ID: 039-44-3772
+Bank: Larsen-Tucker Bank
+Account Number: 6331296901
+Consent Status: Granted

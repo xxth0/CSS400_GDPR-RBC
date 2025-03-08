@@ -1,0 +1,6 @@
+Customer ID: 5286
+Name: Elizabeth Gonzalez
+National ID: 725-61-9234
+Bank: Lopez, Miller and Farmer Bank
+Account Number: 6792316068
+Consent Status: Revoked

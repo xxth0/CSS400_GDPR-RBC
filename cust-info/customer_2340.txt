@@ -1,0 +1,6 @@
+Customer ID: 2340
+Name: Garrett Byrd
+National ID: 615-91-4480
+Bank: Nelson, Porter and Valencia Bank
+Account Number: 7898315581
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3825
+Name: Sarah Johnson
+National ID: 700-84-7446
+Bank: Nichols, Harper and Brown Bank
+Account Number: 6237120966
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2251
+Name: Jeffrey Diaz
+National ID: 343-07-0204
+Bank: Ramirez Group Bank
+Account Number: 6638268750
+Consent Status: Revoked

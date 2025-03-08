@@ -1,0 +1,6 @@
+Customer ID: 693
+Name: Eric Wright
+National ID: 182-13-1500
+Bank: Bean Inc Bank
+Account Number: 9200134799
+Consent Status: Granted

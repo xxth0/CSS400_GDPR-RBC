@@ -1,0 +1,6 @@
+Customer ID: 8853
+Name: Jamie Barnett
+National ID: 624-24-5079
+Bank: Morris and Sons Bank
+Account Number: 7827463563
+Consent Status: Granted

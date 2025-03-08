@@ -1,0 +1,6 @@
+Customer ID: 6085
+Name: Joseph Hernandez
+National ID: 338-22-2488
+Bank: Hardin, Morales and Chase Bank
+Account Number: 9415565187
+Consent Status: Revoked

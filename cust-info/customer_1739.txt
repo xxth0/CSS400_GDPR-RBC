@@ -1,0 +1,6 @@
+Customer ID: 1739
+Name: Julie Alexander PhD
+National ID: 207-09-2036
+Bank: Hamilton and Sons Bank
+Account Number: 4866644382
+Consent Status: Revoked

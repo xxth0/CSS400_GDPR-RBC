@@ -1,0 +1,6 @@
+Customer ID: 2923
+Name: Teresa Price
+National ID: 594-62-5784
+Bank: Crawford, Fisher and Mitchell Bank
+Account Number: 7006744461
+Consent Status: Granted

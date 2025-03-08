@@ -1,0 +1,6 @@
+Customer ID: 4684
+Name: Matthew Hill
+National ID: 418-86-8960
+Bank: Lara-Shepherd Bank
+Account Number: 9358956835
+Consent Status: Revoked

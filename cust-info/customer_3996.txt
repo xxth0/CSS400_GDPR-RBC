@@ -1,0 +1,6 @@
+Customer ID: 3996
+Name: Anthony Peterson
+National ID: 892-72-5878
+Bank: Ross Inc Bank
+Account Number: 6222164443
+Consent Status: Granted

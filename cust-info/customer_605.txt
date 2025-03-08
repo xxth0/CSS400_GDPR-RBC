@@ -1,0 +1,6 @@
+Customer ID: 605
+Name: Kyle Cortez
+National ID: 239-84-2958
+Bank: Cooper-Ramirez Bank
+Account Number: 8722695557
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 249
+Name: Katrina Wallace
+National ID: 425-67-2144
+Bank: Adams and Sons Bank
+Account Number: 6375838188
+Consent Status: Revoked

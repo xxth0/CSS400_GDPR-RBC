@@ -1,0 +1,6 @@
+Customer ID: 6128
+Name: Jacqueline Mcgee
+National ID: 309-10-0586
+Bank: Smith, Preston and Klein Bank
+Account Number: 4653788730
+Consent Status: Granted

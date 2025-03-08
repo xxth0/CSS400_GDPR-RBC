@@ -1,0 +1,6 @@
+Customer ID: 4325
+Name: Cameron Stevenson
+National ID: 044-47-9484
+Bank: Smith-Miller Bank
+Account Number: 3229617333
+Consent Status: Granted

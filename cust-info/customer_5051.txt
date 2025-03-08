@@ -1,0 +1,6 @@
+Customer ID: 5051
+Name: Joy Brown
+National ID: 180-06-7383
+Bank: Morgan-Roberts Bank
+Account Number: 8312242197
+Consent Status: Granted

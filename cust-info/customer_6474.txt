@@ -1,0 +1,6 @@
+Customer ID: 6474
+Name: Melissa Ramirez
+National ID: 479-93-8227
+Bank: West and Sons Bank
+Account Number: 7347223079
+Consent Status: Granted

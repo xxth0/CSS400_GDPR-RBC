@@ -1,0 +1,6 @@
+Customer ID: 9871
+Name: Jason Hall
+National ID: 569-56-1629
+Bank: Johnson Group Bank
+Account Number: 6014425839
+Consent Status: Revoked

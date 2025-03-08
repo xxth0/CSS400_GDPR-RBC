@@ -1,0 +1,6 @@
+Customer ID: 5757
+Name: Anna Smith
+National ID: 184-23-5937
+Bank: Stark-Collins Bank
+Account Number: 7155755971
+Consent Status: Revoked

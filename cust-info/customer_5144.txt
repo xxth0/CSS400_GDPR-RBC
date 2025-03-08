@@ -1,0 +1,6 @@
+Customer ID: 5144
+Name: Kelly Beard
+National ID: 424-18-2639
+Bank: Lee-Rodriguez Bank
+Account Number: 7199555690
+Consent Status: Granted

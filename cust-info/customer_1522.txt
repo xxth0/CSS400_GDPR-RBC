@@ -1,0 +1,6 @@
+Customer ID: 1522
+Name: Jacob Little
+National ID: 779-40-3479
+Bank: Jones, Reyes and Chavez Bank
+Account Number: 3688730522
+Consent Status: Revoked

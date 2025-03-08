@@ -1,0 +1,6 @@
+Customer ID: 2690
+Name: Joseph Brennan
+National ID: 035-20-1773
+Bank: Graves PLC Bank
+Account Number: 6228167089
+Consent Status: Revoked

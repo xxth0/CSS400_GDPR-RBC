@@ -1,0 +1,6 @@
+Customer ID: 6511
+Name: Tara Cruz
+National ID: 889-50-8393
+Bank: Collins, Williams and Stevens Bank
+Account Number: 2852823174
+Consent Status: Granted

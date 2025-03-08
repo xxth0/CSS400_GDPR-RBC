@@ -1,0 +1,6 @@
+Customer ID: 6209
+Name: Ashley Rodriguez
+National ID: 643-85-3412
+Bank: Malone, Erickson and Smith Bank
+Account Number: 3388773558
+Consent Status: Granted

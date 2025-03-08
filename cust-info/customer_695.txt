@@ -1,0 +1,6 @@
+Customer ID: 695
+Name: Roger Miller
+National ID: 327-29-3554
+Bank: Christensen, Murphy and Wallace Bank
+Account Number: 9010606726
+Consent Status: Revoked

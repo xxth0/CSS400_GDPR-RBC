@@ -1,0 +1,6 @@
+Customer ID: 2877
+Name: Gregory Turner
+National ID: 115-42-9620
+Bank: Moore, Wade and Stevenson Bank
+Account Number: 9605337959
+Consent Status: Revoked

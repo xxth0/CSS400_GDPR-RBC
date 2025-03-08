@@ -1,0 +1,6 @@
+Customer ID: 6738
+Name: Tanya Moore
+National ID: 477-30-0025
+Bank: Peterson Inc Bank
+Account Number: 7935566444
+Consent Status: Granted

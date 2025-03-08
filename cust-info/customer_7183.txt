@@ -1,0 +1,6 @@
+Customer ID: 7183
+Name: Jamie Williams
+National ID: 278-86-3476
+Bank: Cole-Burns Bank
+Account Number: 5622507529
+Consent Status: Revoked

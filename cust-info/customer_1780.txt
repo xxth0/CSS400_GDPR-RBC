@@ -1,0 +1,6 @@
+Customer ID: 1780
+Name: Larry Ashley
+National ID: 267-56-3704
+Bank: Perez-Miller Bank
+Account Number: 3044114205
+Consent Status: Revoked

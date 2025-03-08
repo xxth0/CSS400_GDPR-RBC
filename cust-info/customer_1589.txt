@@ -1,0 +1,6 @@
+Customer ID: 1589
+Name: Mario Jensen
+National ID: 016-05-7086
+Bank: Martin, Perez and Cunningham Bank
+Account Number: 3751595162
+Consent Status: Revoked

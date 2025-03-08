@@ -1,0 +1,6 @@
+Customer ID: 9682
+Name: Ryan Martin
+National ID: 558-20-5291
+Bank: Smith, White and Hernandez Bank
+Account Number: 9452891822
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7662
+Name: Matthew Williams
+National ID: 256-62-7168
+Bank: Washington-Martinez Bank
+Account Number: 3711224211
+Consent Status: Granted

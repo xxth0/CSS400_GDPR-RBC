@@ -1,0 +1,6 @@
+Customer ID: 6089
+Name: Jason Cardenas
+National ID: 442-39-3210
+Bank: Price Ltd Bank
+Account Number: 6939733417
+Consent Status: Granted

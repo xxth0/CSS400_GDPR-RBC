@@ -1,0 +1,6 @@
+Customer ID: 9658
+Name: Mrs. Gina Garcia
+National ID: 047-30-1604
+Bank: Wilcox, Murphy and Thompson Bank
+Account Number: 1204633125
+Consent Status: Revoked

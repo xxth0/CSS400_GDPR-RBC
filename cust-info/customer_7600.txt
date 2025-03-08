@@ -1,0 +1,6 @@
+Customer ID: 7600
+Name: Tracy Klein
+National ID: 034-71-4258
+Bank: Fischer, Mckenzie and Stone Bank
+Account Number: 8873726662
+Consent Status: Revoked

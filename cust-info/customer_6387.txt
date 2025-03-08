@@ -1,0 +1,6 @@
+Customer ID: 6387
+Name: Kathleen Hill
+National ID: 885-35-4687
+Bank: Snow Inc Bank
+Account Number: 7685972040
+Consent Status: Granted

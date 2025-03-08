@@ -1,0 +1,6 @@
+Customer ID: 9402
+Name: Nathan Miller
+National ID: 339-37-1581
+Bank: Doyle, Stuart and Villa Bank
+Account Number: 3410792805
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2759
+Name: Mary Munoz
+National ID: 095-30-0596
+Bank: Harris, Miller and Hamilton Bank
+Account Number: 5516490021
+Consent Status: Revoked

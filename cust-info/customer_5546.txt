@@ -1,0 +1,6 @@
+Customer ID: 5546
+Name: Ms. Stephanie Stevens DVM
+National ID: 807-32-5211
+Bank: Mathews, Patterson and Elliott Bank
+Account Number: 3105785662
+Consent Status: Revoked

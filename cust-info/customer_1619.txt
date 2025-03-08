@@ -1,0 +1,6 @@
+Customer ID: 1619
+Name: Michael Cohen
+National ID: 872-85-1876
+Bank: Rocha-Rodriguez Bank
+Account Number: 5033695599
+Consent Status: Granted

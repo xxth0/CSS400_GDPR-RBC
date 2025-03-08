@@ -1,0 +1,6 @@
+Customer ID: 1393
+Name: Amanda Garner
+National ID: 032-45-4851
+Bank: Knapp and Sons Bank
+Account Number: 1576680651
+Consent Status: Revoked

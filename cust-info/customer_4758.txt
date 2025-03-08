@@ -1,0 +1,6 @@
+Customer ID: 4758
+Name: Mary Allen
+National ID: 827-91-9057
+Bank: Scott Inc Bank
+Account Number: 3512739589
+Consent Status: Revoked

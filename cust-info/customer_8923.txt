@@ -1,0 +1,6 @@
+Customer ID: 8923
+Name: Michelle Weiss
+National ID: 075-31-8152
+Bank: Miller, Garcia and Reynolds Bank
+Account Number: 7158850718
+Consent Status: Granted

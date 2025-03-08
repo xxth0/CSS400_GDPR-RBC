@@ -1,0 +1,6 @@
+Customer ID: 705
+Name: Alan Smith
+National ID: 096-56-0542
+Bank: Stevens, Smith and Rose Bank
+Account Number: 8362379307
+Consent Status: Granted

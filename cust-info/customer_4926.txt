@@ -1,0 +1,6 @@
+Customer ID: 4926
+Name: John Howard
+National ID: 258-15-8928
+Bank: Stephens, Chavez and Solis Bank
+Account Number: 8253644040
+Consent Status: Revoked

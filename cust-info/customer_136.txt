@@ -1,0 +1,6 @@
+Customer ID: 136
+Name: Timothy Gray
+National ID: 802-99-6962
+Bank: Rios-Wagner Bank
+Account Number: 2470820210
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5559
+Name: Karen Jensen
+National ID: 353-27-7986
+Bank: Wiley-Rowe Bank
+Account Number: 7828815557
+Consent Status: Granted

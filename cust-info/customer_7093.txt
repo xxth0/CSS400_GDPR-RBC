@@ -1,0 +1,6 @@
+Customer ID: 7093
+Name: Mike Walsh
+National ID: 280-41-9328
+Bank: Waters PLC Bank
+Account Number: 9243851800
+Consent Status: Granted

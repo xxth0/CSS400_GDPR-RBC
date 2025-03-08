@@ -1,0 +1,6 @@
+Customer ID: 6682
+Name: Susan Matthews
+National ID: 236-57-6755
+Bank: Johnston-Thompson Bank
+Account Number: 9338465826
+Consent Status: Revoked

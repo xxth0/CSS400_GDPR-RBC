@@ -1,0 +1,6 @@
+Customer ID: 1526
+Name: Heather Lopez
+National ID: 004-99-3134
+Bank: Hester-Archer Bank
+Account Number: 3728124835
+Consent Status: Revoked

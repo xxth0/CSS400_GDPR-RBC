@@ -1,0 +1,6 @@
+Customer ID: 1325
+Name: Mrs. Janet Gonzalez
+National ID: 322-99-9036
+Bank: James-Hicks Bank
+Account Number: 6849976561
+Consent Status: Revoked

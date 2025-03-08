@@ -1,0 +1,6 @@
+Customer ID: 3008
+Name: John Adkins
+National ID: 384-26-2640
+Bank: Mccoy LLC Bank
+Account Number: 4675905215
+Consent Status: Granted

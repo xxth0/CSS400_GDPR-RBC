@@ -1,0 +1,6 @@
+Customer ID: 8830
+Name: Jamie Gonzales
+National ID: 392-14-9747
+Bank: Dean, Stout and James Bank
+Account Number: 5528741929
+Consent Status: Granted

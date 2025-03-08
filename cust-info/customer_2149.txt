@@ -1,0 +1,6 @@
+Customer ID: 2149
+Name: Julie Aguilar
+National ID: 307-34-9579
+Bank: Dillon Inc Bank
+Account Number: 9915288424
+Consent Status: Revoked

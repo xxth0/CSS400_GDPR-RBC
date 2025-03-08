@@ -1,0 +1,6 @@
+Customer ID: 6874
+Name: Tammy Brennan
+National ID: 117-97-3706
+Bank: Parker-Arellano Bank
+Account Number: 9579511533
+Consent Status: Revoked

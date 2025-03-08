@@ -1,0 +1,6 @@
+Customer ID: 4607
+Name: Elizabeth Swanson
+National ID: 363-01-2305
+Bank: Johnson, Collins and Holt Bank
+Account Number: 7790343250
+Consent Status: Granted

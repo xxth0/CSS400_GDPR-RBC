@@ -1,0 +1,6 @@
+Customer ID: 3177
+Name: Jamie Collins
+National ID: 208-14-1004
+Bank: Howe-Hernandez Bank
+Account Number: 1444842065
+Consent Status: Granted

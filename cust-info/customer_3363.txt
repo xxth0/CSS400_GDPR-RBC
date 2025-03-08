@@ -1,0 +1,6 @@
+Customer ID: 3363
+Name: Hayden Peterson
+National ID: 862-17-4674
+Bank: Chavez-Townsend Bank
+Account Number: 9687745590
+Consent Status: Granted

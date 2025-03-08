@@ -1,0 +1,6 @@
+Customer ID: 7568
+Name: Stephanie Drake
+National ID: 086-52-9994
+Bank: Anderson-Holloway Bank
+Account Number: 1325104500
+Consent Status: Revoked

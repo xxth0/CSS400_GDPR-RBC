@@ -1,0 +1,6 @@
+Customer ID: 2625
+Name: Carrie Allen
+National ID: 431-16-6353
+Bank: Garcia, Anderson and Brandt Bank
+Account Number: 1720963489
+Consent Status: Revoked

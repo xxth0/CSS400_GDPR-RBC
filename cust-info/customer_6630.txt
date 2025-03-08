@@ -1,0 +1,6 @@
+Customer ID: 6630
+Name: Andrea Mcdowell
+National ID: 640-63-1379
+Bank: Vazquez Group Bank
+Account Number: 8616140082
+Consent Status: Revoked

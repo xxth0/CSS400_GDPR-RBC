@@ -1,0 +1,6 @@
+Customer ID: 7500
+Name: James Patterson
+National ID: 458-33-5994
+Bank: Hughes-Martinez Bank
+Account Number: 9486085899
+Consent Status: Granted

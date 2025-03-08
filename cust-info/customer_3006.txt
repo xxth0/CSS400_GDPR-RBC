@@ -1,0 +1,6 @@
+Customer ID: 3006
+Name: Lisa Booth
+National ID: 020-88-6043
+Bank: Adams, Farmer and Smith Bank
+Account Number: 7285272265
+Consent Status: Revoked

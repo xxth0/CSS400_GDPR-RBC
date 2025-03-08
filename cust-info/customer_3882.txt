@@ -1,0 +1,6 @@
+Customer ID: 3882
+Name: Bryan Buck
+National ID: 639-61-2540
+Bank: Valenzuela-Kramer Bank
+Account Number: 3869898012
+Consent Status: Revoked

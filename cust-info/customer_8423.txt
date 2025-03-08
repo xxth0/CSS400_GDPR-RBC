@@ -1,0 +1,6 @@
+Customer ID: 8423
+Name: Joseph Roth
+National ID: 061-93-4450
+Bank: Branch-Hart Bank
+Account Number: 2746224626
+Consent Status: Granted

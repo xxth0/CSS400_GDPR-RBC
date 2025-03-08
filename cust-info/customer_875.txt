@@ -1,0 +1,6 @@
+Customer ID: 875
+Name: Brendan Walker
+National ID: 453-81-3861
+Bank: Williams, Thomas and Allen Bank
+Account Number: 6885571808
+Consent Status: Revoked

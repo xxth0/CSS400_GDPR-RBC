@@ -1,0 +1,6 @@
+Customer ID: 9971
+Name: Megan Ingram
+National ID: 174-92-2407
+Bank: Johnson, Young and Morris Bank
+Account Number: 3039167296
+Consent Status: Revoked

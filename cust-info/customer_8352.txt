@@ -1,0 +1,6 @@
+Customer ID: 8352
+Name: Sabrina Green
+National ID: 607-06-6777
+Bank: Ryan-Jones Bank
+Account Number: 9876735251
+Consent Status: Revoked

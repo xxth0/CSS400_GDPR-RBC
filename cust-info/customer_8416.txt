@@ -1,0 +1,6 @@
+Customer ID: 8416
+Name: Michael Waters
+National ID: 330-79-5871
+Bank: Tyler-Brown Bank
+Account Number: 7090049398
+Consent Status: Revoked

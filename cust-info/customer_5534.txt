@@ -1,0 +1,6 @@
+Customer ID: 5534
+Name: Pamela Evans
+National ID: 134-20-7368
+Bank: Bowman-Garza Bank
+Account Number: 6427212321
+Consent Status: Revoked

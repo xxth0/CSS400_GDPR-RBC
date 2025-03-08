@@ -1,0 +1,6 @@
+Customer ID: 3520
+Name: Edward Campbell
+National ID: 796-69-6098
+Bank: Castaneda and Sons Bank
+Account Number: 1617447197
+Consent Status: Granted

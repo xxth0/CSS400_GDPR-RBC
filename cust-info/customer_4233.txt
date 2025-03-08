@@ -1,0 +1,6 @@
+Customer ID: 4233
+Name: Ivan Bentley
+National ID: 801-23-5755
+Bank: Christian, Clark and Hahn Bank
+Account Number: 4528735603
+Consent Status: Revoked

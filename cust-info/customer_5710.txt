@@ -1,0 +1,6 @@
+Customer ID: 5710
+Name: Fernando Robinson
+National ID: 659-25-7735
+Bank: Galloway-Foster Bank
+Account Number: 6075844087
+Consent Status: Granted

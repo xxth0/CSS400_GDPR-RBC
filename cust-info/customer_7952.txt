@@ -1,0 +1,6 @@
+Customer ID: 7952
+Name: Caitlyn Stafford
+National ID: 863-68-5894
+Bank: Mcintosh-Williams Bank
+Account Number: 1087749184
+Consent Status: Revoked

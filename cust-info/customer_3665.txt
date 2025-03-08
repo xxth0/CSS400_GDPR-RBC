@@ -1,0 +1,6 @@
+Customer ID: 3665
+Name: Eric Johnson
+National ID: 839-75-2699
+Bank: Wilson, Pena and Hebert Bank
+Account Number: 7111487263
+Consent Status: Granted

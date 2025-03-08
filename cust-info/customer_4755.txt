@@ -1,0 +1,6 @@
+Customer ID: 4755
+Name: Lance Lam
+National ID: 814-46-8339
+Bank: Jackson-West Bank
+Account Number: 5703761138
+Consent Status: Revoked

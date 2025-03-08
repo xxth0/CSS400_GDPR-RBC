@@ -1,0 +1,6 @@
+Customer ID: 3998
+Name: Karen Franklin
+National ID: 797-48-2039
+Bank: Rivera-Fitzgerald Bank
+Account Number: 1208975632
+Consent Status: Revoked

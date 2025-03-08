@@ -1,0 +1,6 @@
+Customer ID: 7241
+Name: Jennifer Lopez
+National ID: 540-66-4283
+Bank: Hall and Sons Bank
+Account Number: 4961137475
+Consent Status: Revoked

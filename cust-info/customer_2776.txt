@@ -1,0 +1,6 @@
+Customer ID: 2776
+Name: Edward Meyer
+National ID: 263-73-9851
+Bank: Austin PLC Bank
+Account Number: 3374137447
+Consent Status: Granted

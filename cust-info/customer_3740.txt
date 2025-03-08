@@ -1,0 +1,6 @@
+Customer ID: 3740
+Name: Tony Smith
+National ID: 696-11-8578
+Bank: Shields Group Bank
+Account Number: 9810701899
+Consent Status: Revoked

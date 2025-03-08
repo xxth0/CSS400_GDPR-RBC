@@ -1,0 +1,6 @@
+Customer ID: 5972
+Name: Tammy Phillips MD
+National ID: 892-60-1410
+Bank: Brown, Lester and Rojas Bank
+Account Number: 1070656892
+Consent Status: Granted

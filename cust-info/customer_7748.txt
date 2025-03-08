@@ -1,0 +1,6 @@
+Customer ID: 7748
+Name: Stephanie Patterson
+National ID: 217-16-2985
+Bank: Sutton Ltd Bank
+Account Number: 6237139235
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2787
+Name: Amanda Jackson
+National ID: 175-26-3619
+Bank: Murray, Pham and Olson Bank
+Account Number: 8594598174
+Consent Status: Revoked

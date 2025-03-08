@@ -1,0 +1,6 @@
+Customer ID: 6036
+Name: Katherine Russo
+National ID: 139-02-5512
+Bank: Lopez-Vaughn Bank
+Account Number: 6328016160
+Consent Status: Granted

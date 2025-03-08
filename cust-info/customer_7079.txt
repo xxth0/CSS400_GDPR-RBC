@@ -1,0 +1,6 @@
+Customer ID: 7079
+Name: Joseph Johnson
+National ID: 383-79-8088
+Bank: Brewer-Johnson Bank
+Account Number: 9259718301
+Consent Status: Revoked

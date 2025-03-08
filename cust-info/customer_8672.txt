@@ -1,0 +1,6 @@
+Customer ID: 8672
+Name: Edwin Shaw
+National ID: 243-60-4005
+Bank: Norton-Smith Bank
+Account Number: 5402539442
+Consent Status: Granted

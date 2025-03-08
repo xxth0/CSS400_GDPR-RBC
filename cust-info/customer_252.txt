@@ -1,0 +1,6 @@
+Customer ID: 252
+Name: Breanna Ryan
+National ID: 610-25-5180
+Bank: Lucas, Arias and Watson Bank
+Account Number: 7659786515
+Consent Status: Revoked

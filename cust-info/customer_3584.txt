@@ -1,0 +1,6 @@
+Customer ID: 3584
+Name: Samantha Turner
+National ID: 306-33-4583
+Bank: Hall, Johnson and Mathews Bank
+Account Number: 9934386362
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1651
+Name: Sandra Lawson
+National ID: 039-55-1352
+Bank: Richardson Inc Bank
+Account Number: 6517740847
+Consent Status: Revoked

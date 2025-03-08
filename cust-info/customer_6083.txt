@@ -1,0 +1,6 @@
+Customer ID: 6083
+Name: Melissa Gonzalez
+National ID: 226-22-6221
+Bank: Green Inc Bank
+Account Number: 9996317232
+Consent Status: Granted

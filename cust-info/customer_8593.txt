@@ -1,0 +1,6 @@
+Customer ID: 8593
+Name: Mary Evans
+National ID: 655-71-0641
+Bank: Osborne PLC Bank
+Account Number: 5061533560
+Consent Status: Revoked

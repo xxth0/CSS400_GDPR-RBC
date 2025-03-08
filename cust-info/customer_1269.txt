@@ -1,0 +1,6 @@
+Customer ID: 1269
+Name: Darrell Taylor
+National ID: 226-17-1847
+Bank: Hardy Ltd Bank
+Account Number: 6136798225
+Consent Status: Revoked

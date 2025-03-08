@@ -1,0 +1,6 @@
+Customer ID: 3045
+Name: Tracy Scott
+National ID: 707-25-9445
+Bank: Reyes-Alvarez Bank
+Account Number: 9913933190
+Consent Status: Granted

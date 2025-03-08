@@ -1,0 +1,6 @@
+Customer ID: 5097
+Name: William Ross
+National ID: 520-59-9372
+Bank: Sosa, Smith and Turner Bank
+Account Number: 9441188097
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6170
+Name: Dakota Meyers
+National ID: 674-52-2212
+Bank: Sanchez LLC Bank
+Account Number: 7638617031
+Consent Status: Granted

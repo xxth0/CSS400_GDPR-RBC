@@ -1,0 +1,6 @@
+Customer ID: 458
+Name: Kimberly Lawson
+National ID: 195-36-5818
+Bank: Chavez, Mcgee and Stein Bank
+Account Number: 8191322942
+Consent Status: Revoked

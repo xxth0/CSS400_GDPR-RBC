@@ -1,0 +1,6 @@
+Customer ID: 3873
+Name: David Warren
+National ID: 420-91-3063
+Bank: Savage and Sons Bank
+Account Number: 9846884190
+Consent Status: Granted

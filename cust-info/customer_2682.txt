@@ -1,0 +1,6 @@
+Customer ID: 2682
+Name: Lisa Griffin
+National ID: 752-82-7713
+Bank: Johnson, Love and Pacheco Bank
+Account Number: 9220507824
+Consent Status: Granted

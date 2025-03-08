@@ -1,0 +1,6 @@
+Customer ID: 1960
+Name: Charlene Stein
+National ID: 682-17-1908
+Bank: Estrada Ltd Bank
+Account Number: 3208592402
+Consent Status: Revoked

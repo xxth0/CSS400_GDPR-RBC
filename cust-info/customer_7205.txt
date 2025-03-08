@@ -1,0 +1,6 @@
+Customer ID: 7205
+Name: Charles Vance
+National ID: 488-59-5160
+Bank: Choi and Sons Bank
+Account Number: 1554498368
+Consent Status: Granted

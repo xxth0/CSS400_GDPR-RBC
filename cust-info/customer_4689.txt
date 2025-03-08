@@ -1,0 +1,6 @@
+Customer ID: 4689
+Name: William Jacobs
+National ID: 378-35-9928
+Bank: Malone-Smith Bank
+Account Number: 8527076400
+Consent Status: Granted

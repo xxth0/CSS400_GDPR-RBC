@@ -1,0 +1,6 @@
+Customer ID: 1229
+Name: Shane Hale
+National ID: 226-02-1981
+Bank: Green Ltd Bank
+Account Number: 5705039058
+Consent Status: Revoked

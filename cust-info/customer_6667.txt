@@ -1,0 +1,6 @@
+Customer ID: 6667
+Name: Ashley Jones
+National ID: 193-07-9303
+Bank: Gomez and Sons Bank
+Account Number: 7752550609
+Consent Status: Revoked

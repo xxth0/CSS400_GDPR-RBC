@@ -1,0 +1,6 @@
+Customer ID: 490
+Name: Daniel Fisher
+National ID: 542-59-9289
+Bank: Bell Inc Bank
+Account Number: 4123785920
+Consent Status: Granted

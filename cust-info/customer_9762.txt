@@ -1,0 +1,6 @@
+Customer ID: 9762
+Name: Chris Wilson
+National ID: 298-67-9351
+Bank: Miller and Sons Bank
+Account Number: 7450676411
+Consent Status: Revoked

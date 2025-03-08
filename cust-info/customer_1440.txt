@@ -1,0 +1,6 @@
+Customer ID: 1440
+Name: Walter Washington
+National ID: 859-79-0092
+Bank: Davis-Wong Bank
+Account Number: 3572868879
+Consent Status: Granted

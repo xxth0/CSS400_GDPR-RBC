@@ -1,0 +1,6 @@
+Customer ID: 3901
+Name: Danielle Weiss
+National ID: 396-33-8818
+Bank: Lopez Group Bank
+Account Number: 9718588094
+Consent Status: Revoked

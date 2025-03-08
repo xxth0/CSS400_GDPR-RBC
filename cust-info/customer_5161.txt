@@ -1,0 +1,6 @@
+Customer ID: 5161
+Name: Christopher Long
+National ID: 771-02-1828
+Bank: Rocha, Rivera and Townsend Bank
+Account Number: 9338520878
+Consent Status: Granted

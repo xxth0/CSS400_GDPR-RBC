@@ -1,0 +1,6 @@
+Customer ID: 7464
+Name: Kim Walker
+National ID: 504-57-3315
+Bank: Huerta-Buck Bank
+Account Number: 8054287583
+Consent Status: Revoked

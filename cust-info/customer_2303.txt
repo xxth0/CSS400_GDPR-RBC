@@ -1,0 +1,6 @@
+Customer ID: 2303
+Name: Nicole White
+National ID: 098-29-2532
+Bank: Robertson-Duncan Bank
+Account Number: 1827563680
+Consent Status: Granted

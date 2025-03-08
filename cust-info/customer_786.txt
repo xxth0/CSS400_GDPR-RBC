@@ -1,0 +1,6 @@
+Customer ID: 786
+Name: Amy Bird
+National ID: 253-01-2358
+Bank: White Ltd Bank
+Account Number: 4714291802
+Consent Status: Revoked

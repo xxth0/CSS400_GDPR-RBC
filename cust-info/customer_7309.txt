@@ -1,0 +1,6 @@
+Customer ID: 7309
+Name: Mrs. Amy Anderson
+National ID: 558-19-0367
+Bank: Moore Group Bank
+Account Number: 6202220840
+Consent Status: Revoked

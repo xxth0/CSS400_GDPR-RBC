@@ -1,0 +1,6 @@
+Customer ID: 397
+Name: Andrew Baker
+National ID: 024-11-8767
+Bank: Cox, Johnson and Russell Bank
+Account Number: 1641994108
+Consent Status: Granted

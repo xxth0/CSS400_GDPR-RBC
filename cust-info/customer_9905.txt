@@ -1,0 +1,6 @@
+Customer ID: 9905
+Name: Robert Taylor
+National ID: 378-95-3950
+Bank: Barker Ltd Bank
+Account Number: 5146342326
+Consent Status: Revoked

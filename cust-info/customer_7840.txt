@@ -1,0 +1,6 @@
+Customer ID: 7840
+Name: Anna Smith
+National ID: 168-13-5835
+Bank: Charles, Torres and Chambers Bank
+Account Number: 3673379353
+Consent Status: Revoked

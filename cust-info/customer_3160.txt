@@ -1,0 +1,6 @@
+Customer ID: 3160
+Name: Daniel Williams
+National ID: 631-67-1609
+Bank: Erickson, Davidson and Ayala Bank
+Account Number: 7253782252
+Consent Status: Revoked

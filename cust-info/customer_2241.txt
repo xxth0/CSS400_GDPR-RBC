@@ -1,0 +1,6 @@
+Customer ID: 2241
+Name: Ronald Fletcher
+National ID: 690-51-7829
+Bank: Hawkins Inc Bank
+Account Number: 7428936829
+Consent Status: Revoked

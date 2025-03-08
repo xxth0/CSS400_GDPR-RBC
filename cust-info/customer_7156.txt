@@ -1,0 +1,6 @@
+Customer ID: 7156
+Name: Tammy Gross
+National ID: 549-23-7589
+Bank: Simmons-Cox Bank
+Account Number: 3117183183
+Consent Status: Revoked

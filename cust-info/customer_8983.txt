@@ -1,0 +1,6 @@
+Customer ID: 8983
+Name: Ricky Smith
+National ID: 417-99-2768
+Bank: Hill-Rodriguez Bank
+Account Number: 5552468749
+Consent Status: Granted

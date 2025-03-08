@@ -1,0 +1,6 @@
+Customer ID: 9270
+Name: Gregg Williams
+National ID: 292-89-1965
+Bank: Morris, Perez and Green Bank
+Account Number: 6051643760
+Consent Status: Granted

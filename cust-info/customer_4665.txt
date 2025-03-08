@@ -1,0 +1,6 @@
+Customer ID: 4665
+Name: Karen Norris
+National ID: 049-56-2002
+Bank: Parker, Dixon and Schneider Bank
+Account Number: 6156517954
+Consent Status: Granted

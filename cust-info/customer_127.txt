@@ -1,0 +1,6 @@
+Customer ID: 127
+Name: Robert Cohen
+National ID: 249-75-1107
+Bank: Stephens-Parker Bank
+Account Number: 8869439515
+Consent Status: Granted

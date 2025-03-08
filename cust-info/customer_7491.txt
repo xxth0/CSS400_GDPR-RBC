@@ -1,0 +1,6 @@
+Customer ID: 7491
+Name: Taylor Anderson
+National ID: 172-86-9480
+Bank: Harris-Rivera Bank
+Account Number: 9690159883
+Consent Status: Revoked

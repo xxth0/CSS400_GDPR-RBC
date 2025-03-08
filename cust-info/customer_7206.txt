@@ -1,0 +1,6 @@
+Customer ID: 7206
+Name: Mr. Jacob Rogers Jr.
+National ID: 261-63-0430
+Bank: Perez-Turner Bank
+Account Number: 1120241032
+Consent Status: Revoked

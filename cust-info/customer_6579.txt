@@ -1,0 +1,6 @@
+Customer ID: 6579
+Name: Emily Bradford
+National ID: 691-52-2521
+Bank: Carpenter, Molina and Miller Bank
+Account Number: 5901929125
+Consent Status: Granted

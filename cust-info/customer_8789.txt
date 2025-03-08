@@ -1,0 +1,6 @@
+Customer ID: 8789
+Name: Michele West
+National ID: 524-79-5071
+Bank: Davis, Contreras and Salas Bank
+Account Number: 6207446557
+Consent Status: Revoked

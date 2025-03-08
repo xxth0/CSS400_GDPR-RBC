@@ -1,0 +1,6 @@
+Customer ID: 3719
+Name: David Herrera
+National ID: 643-47-7767
+Bank: Bell Inc Bank
+Account Number: 2335998922
+Consent Status: Revoked

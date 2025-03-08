@@ -1,0 +1,6 @@
+Customer ID: 4815
+Name: John Miller
+National ID: 856-68-2777
+Bank: Brown, Peterson and Whitehead Bank
+Account Number: 8239068747
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3505
+Name: Ryan Hatfield
+National ID: 475-48-0271
+Bank: Bryant Group Bank
+Account Number: 2317852750
+Consent Status: Revoked

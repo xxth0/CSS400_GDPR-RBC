@@ -1,0 +1,6 @@
+Customer ID: 7374
+Name: Debra Wise
+National ID: 414-63-6465
+Bank: Smith-Wood Bank
+Account Number: 8818118741
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7429
+Name: Holly Rodriguez
+National ID: 259-97-3208
+Bank: Hunt Group Bank
+Account Number: 7384155579
+Consent Status: Granted

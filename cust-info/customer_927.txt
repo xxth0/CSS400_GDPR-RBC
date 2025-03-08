@@ -1,0 +1,6 @@
+Customer ID: 927
+Name: Yvonne Garza
+National ID: 456-12-2728
+Bank: Mccoy-Thompson Bank
+Account Number: 5502299529
+Consent Status: Granted

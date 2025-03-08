@@ -1,0 +1,6 @@
+Customer ID: 2358
+Name: Jeffrey Campbell
+National ID: 620-97-7485
+Bank: Collins-Gross Bank
+Account Number: 3007473730
+Consent Status: Granted

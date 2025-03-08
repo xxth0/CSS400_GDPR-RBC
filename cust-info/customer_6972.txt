@@ -1,0 +1,6 @@
+Customer ID: 6972
+Name: Andre Hernandez
+National ID: 143-41-0151
+Bank: Gibson, Ellis and Ware Bank
+Account Number: 7793674472
+Consent Status: Granted

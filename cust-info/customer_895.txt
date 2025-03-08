@@ -1,0 +1,6 @@
+Customer ID: 895
+Name: Alexandra Nichols
+National ID: 275-64-2983
+Bank: Williams-Jenkins Bank
+Account Number: 3946355213
+Consent Status: Revoked

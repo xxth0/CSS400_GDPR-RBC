@@ -1,0 +1,6 @@
+Customer ID: 4706
+Name: Barbara Adams
+National ID: 701-61-1385
+Bank: Harris LLC Bank
+Account Number: 2971603804
+Consent Status: Revoked

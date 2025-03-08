@@ -1,0 +1,6 @@
+Customer ID: 8504
+Name: Kimberly Mendoza
+National ID: 443-74-3253
+Bank: Williams-Robinson Bank
+Account Number: 2696383705
+Consent Status: Revoked

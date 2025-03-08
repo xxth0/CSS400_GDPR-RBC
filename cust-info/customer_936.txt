@@ -1,0 +1,6 @@
+Customer ID: 936
+Name: Michael Jenkins
+National ID: 220-23-7473
+Bank: Mendez, Martin and Miller Bank
+Account Number: 1891335978
+Consent Status: Revoked

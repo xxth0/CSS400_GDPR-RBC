@@ -1,0 +1,6 @@
+Customer ID: 8525
+Name: Donna Ryan
+National ID: 316-38-0598
+Bank: Thomas, Duran and Roberts Bank
+Account Number: 4039785934
+Consent Status: Revoked

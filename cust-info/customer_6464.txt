@@ -1,0 +1,6 @@
+Customer ID: 6464
+Name: Jessica Hernandez
+National ID: 173-67-9455
+Bank: Smith-Fernandez Bank
+Account Number: 6562849768
+Consent Status: Granted

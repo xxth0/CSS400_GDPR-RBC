@@ -1,0 +1,6 @@
+Customer ID: 9061
+Name: Jack Merritt
+National ID: 664-62-1630
+Bank: Tyler-Owens Bank
+Account Number: 7477721985
+Consent Status: Granted

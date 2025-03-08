@@ -1,0 +1,6 @@
+Customer ID: 7004
+Name: Michael Paul
+National ID: 467-04-5671
+Bank: Williamson, Montgomery and Gomez Bank
+Account Number: 9331014861
+Consent Status: Revoked

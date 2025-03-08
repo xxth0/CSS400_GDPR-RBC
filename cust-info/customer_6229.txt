@@ -1,0 +1,6 @@
+Customer ID: 6229
+Name: Dr. Angelica Jacobson
+National ID: 167-50-4327
+Bank: Rivera-Taylor Bank
+Account Number: 1878080586
+Consent Status: Revoked

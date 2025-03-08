@@ -1,0 +1,6 @@
+Customer ID: 6657
+Name: Roy Edwards
+National ID: 308-03-2069
+Bank: Sullivan-Gonzalez Bank
+Account Number: 7692112309
+Consent Status: Granted

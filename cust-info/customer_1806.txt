@@ -1,0 +1,6 @@
+Customer ID: 1806
+Name: Carlos Daniels
+National ID: 793-67-8815
+Bank: Nguyen-Davis Bank
+Account Number: 7534543172
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3623
+Name: Gina Walker
+National ID: 114-63-4529
+Bank: Cannon-Medina Bank
+Account Number: 3534893278
+Consent Status: Revoked

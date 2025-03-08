@@ -1,0 +1,6 @@
+Customer ID: 9192
+Name: Jessica Garcia
+National ID: 165-64-3699
+Bank: Taylor-Williamson Bank
+Account Number: 3451032995
+Consent Status: Revoked

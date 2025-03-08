@@ -1,0 +1,6 @@
+Customer ID: 3115
+Name: John Pollard
+National ID: 471-34-7316
+Bank: Lopez-Larson Bank
+Account Number: 2037386656
+Consent Status: Revoked

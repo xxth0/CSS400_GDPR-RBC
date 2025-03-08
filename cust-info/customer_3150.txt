@@ -1,0 +1,6 @@
+Customer ID: 3150
+Name: Lucas Garner
+National ID: 171-43-9611
+Bank: Kemp-Anderson Bank
+Account Number: 9722911795
+Consent Status: Granted

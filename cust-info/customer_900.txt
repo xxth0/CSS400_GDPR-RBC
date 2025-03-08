@@ -1,0 +1,6 @@
+Customer ID: 900
+Name: Jessica Nelson
+National ID: 604-94-9620
+Bank: Mayer, Ramirez and Cole Bank
+Account Number: 7791934328
+Consent Status: Revoked

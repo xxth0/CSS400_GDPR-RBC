@@ -1,0 +1,6 @@
+Customer ID: 2707
+Name: Kelly Allen
+National ID: 545-72-3834
+Bank: Brooks-Harrington Bank
+Account Number: 8492152509
+Consent Status: Granted

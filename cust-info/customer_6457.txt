@@ -1,0 +1,6 @@
+Customer ID: 6457
+Name: William Johnson
+National ID: 066-72-4628
+Bank: Haynes-Buckley Bank
+Account Number: 3428343528
+Consent Status: Revoked

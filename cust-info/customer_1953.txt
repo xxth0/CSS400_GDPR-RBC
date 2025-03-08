@@ -1,0 +1,6 @@
+Customer ID: 1953
+Name: Samantha Watson
+National ID: 458-02-4079
+Bank: Roberts Group Bank
+Account Number: 6510702911
+Consent Status: Revoked

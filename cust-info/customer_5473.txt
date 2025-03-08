@@ -1,0 +1,6 @@
+Customer ID: 5473
+Name: Willie Marshall
+National ID: 793-16-6675
+Bank: Williams, Turner and Owens Bank
+Account Number: 3444237666
+Consent Status: Granted

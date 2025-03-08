@@ -1,0 +1,6 @@
+Customer ID: 4951
+Name: Tara Miller
+National ID: 808-50-3011
+Bank: Burnett PLC Bank
+Account Number: 4175505736
+Consent Status: Granted

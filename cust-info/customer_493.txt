@@ -1,0 +1,6 @@
+Customer ID: 493
+Name: Marvin Mendoza
+National ID: 126-06-8425
+Bank: Vega-Miller Bank
+Account Number: 7653528792
+Consent Status: Granted

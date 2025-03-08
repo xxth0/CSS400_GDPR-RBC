@@ -1,0 +1,6 @@
+Customer ID: 1291
+Name: Mary Robinson
+National ID: 447-06-6923
+Bank: Paul, Vazquez and Gordon Bank
+Account Number: 5570161055
+Consent Status: Revoked

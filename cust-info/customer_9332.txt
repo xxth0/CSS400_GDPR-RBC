@@ -1,0 +1,6 @@
+Customer ID: 9332
+Name: Emily Solomon
+National ID: 001-22-1213
+Bank: Miller, Hamilton and Peters Bank
+Account Number: 4816685285
+Consent Status: Granted

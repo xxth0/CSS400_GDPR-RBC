@@ -1,0 +1,6 @@
+Customer ID: 6768
+Name: Heather Huffman
+National ID: 510-01-3303
+Bank: Brown Inc Bank
+Account Number: 6495678338
+Consent Status: Granted

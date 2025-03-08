@@ -1,0 +1,6 @@
+Customer ID: 3808
+Name: Craig Edwards
+National ID: 334-38-0983
+Bank: Harris Ltd Bank
+Account Number: 8060161989
+Consent Status: Granted

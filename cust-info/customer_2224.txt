@@ -1,0 +1,6 @@
+Customer ID: 2224
+Name: William Bean
+National ID: 713-27-6156
+Bank: Hughes-Thomas Bank
+Account Number: 8581250158
+Consent Status: Granted

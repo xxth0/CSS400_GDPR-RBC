@@ -1,0 +1,6 @@
+Customer ID: 9775
+Name: Miranda West
+National ID: 586-54-4930
+Bank: Perez-Jones Bank
+Account Number: 4979385375
+Consent Status: Revoked

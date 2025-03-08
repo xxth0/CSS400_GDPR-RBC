@@ -1,0 +1,6 @@
+Customer ID: 4913
+Name: Vernon Garcia
+National ID: 044-91-2045
+Bank: Kelly Group Bank
+Account Number: 2605278201
+Consent Status: Granted

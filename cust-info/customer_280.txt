@@ -1,0 +1,6 @@
+Customer ID: 280
+Name: Amanda Ross
+National ID: 041-63-4071
+Bank: Santiago LLC Bank
+Account Number: 5344396178
+Consent Status: Revoked

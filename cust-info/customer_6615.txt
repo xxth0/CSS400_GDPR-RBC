@@ -1,0 +1,6 @@
+Customer ID: 6615
+Name: Erica Lynn
+National ID: 343-80-7820
+Bank: Vaughn and Sons Bank
+Account Number: 9830598081
+Consent Status: Revoked

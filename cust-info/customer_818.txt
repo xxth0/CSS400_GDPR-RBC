@@ -1,0 +1,6 @@
+Customer ID: 818
+Name: Barry Stephenson
+National ID: 435-92-9538
+Bank: Fitzgerald, Gomez and Newton Bank
+Account Number: 7662385487
+Consent Status: Revoked

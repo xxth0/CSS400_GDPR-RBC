@@ -1,0 +1,6 @@
+Customer ID: 155
+Name: James Boyd
+National ID: 222-60-6089
+Bank: Hernandez LLC Bank
+Account Number: 4616066011
+Consent Status: Revoked

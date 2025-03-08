@@ -1,0 +1,6 @@
+Customer ID: 7152
+Name: Priscilla Moss
+National ID: 862-46-7767
+Bank: Nelson-Russell Bank
+Account Number: 2860997283
+Consent Status: Granted

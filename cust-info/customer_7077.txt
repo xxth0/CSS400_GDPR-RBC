@@ -1,0 +1,6 @@
+Customer ID: 7077
+Name: Lauren Johnson
+National ID: 496-29-0148
+Bank: Cervantes-Brewer Bank
+Account Number: 8806586943
+Consent Status: Granted

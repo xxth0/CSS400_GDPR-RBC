@@ -1,0 +1,6 @@
+Customer ID: 625
+Name: Brian Johnson
+National ID: 062-11-5033
+Bank: Bailey, Taylor and Hunter Bank
+Account Number: 5778417507
+Consent Status: Granted

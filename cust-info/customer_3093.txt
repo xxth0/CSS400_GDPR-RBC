@@ -1,0 +1,6 @@
+Customer ID: 3093
+Name: Olivia Herrera
+National ID: 223-17-3462
+Bank: Burgess, Tran and Mahoney Bank
+Account Number: 1750890412
+Consent Status: Revoked

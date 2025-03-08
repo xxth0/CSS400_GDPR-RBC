@@ -1,0 +1,6 @@
+Customer ID: 2525
+Name: Aaron Faulkner
+National ID: 581-90-6259
+Bank: Lawrence, Kim and Atkins Bank
+Account Number: 1057995167
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 703
+Name: Melissa Vazquez
+National ID: 560-28-7354
+Bank: Long Group Bank
+Account Number: 9321550823
+Consent Status: Granted

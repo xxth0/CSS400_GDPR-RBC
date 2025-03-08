@@ -1,0 +1,6 @@
+Customer ID: 8682
+Name: Cindy Thompson
+National ID: 892-42-8166
+Bank: Rich-Reed Bank
+Account Number: 5912465612
+Consent Status: Granted

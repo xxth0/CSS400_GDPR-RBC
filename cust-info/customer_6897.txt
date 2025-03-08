@@ -1,0 +1,6 @@
+Customer ID: 6897
+Name: Michael Sanchez
+National ID: 188-92-1172
+Bank: Wilson-Harris Bank
+Account Number: 4952203477
+Consent Status: Granted

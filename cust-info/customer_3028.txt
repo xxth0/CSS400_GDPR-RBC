@@ -1,0 +1,6 @@
+Customer ID: 3028
+Name: Debbie Sellers
+National ID: 354-90-1232
+Bank: Henderson, Roberts and Mcdonald Bank
+Account Number: 2736437726
+Consent Status: Revoked

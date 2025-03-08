@@ -1,0 +1,6 @@
+Customer ID: 3858
+Name: Beverly Peterson
+National ID: 215-41-8167
+Bank: Dawson-Thomas Bank
+Account Number: 1423814277
+Consent Status: Revoked

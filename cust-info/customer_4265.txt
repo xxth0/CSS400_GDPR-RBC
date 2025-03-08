@@ -1,0 +1,6 @@
+Customer ID: 4265
+Name: Karina Olson
+National ID: 728-16-2266
+Bank: Wheeler-Olson Bank
+Account Number: 2931540994
+Consent Status: Revoked

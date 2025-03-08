@@ -1,0 +1,6 @@
+Customer ID: 8796
+Name: Jerry Roach
+National ID: 724-09-2712
+Bank: Ryan, Bradley and Gonzalez Bank
+Account Number: 9355140016
+Consent Status: Granted

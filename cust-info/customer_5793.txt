@@ -1,0 +1,6 @@
+Customer ID: 5793
+Name: Bryan White
+National ID: 867-22-2052
+Bank: Jacobs, Brooks and Price Bank
+Account Number: 7349713291
+Consent Status: Revoked

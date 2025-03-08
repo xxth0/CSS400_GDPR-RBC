@@ -1,0 +1,6 @@
+Customer ID: 8441
+Name: Tamara Duran
+National ID: 739-47-7574
+Bank: Russell, Benton and Travis Bank
+Account Number: 9669632549
+Consent Status: Revoked

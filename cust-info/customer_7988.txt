@@ -1,0 +1,6 @@
+Customer ID: 7988
+Name: Tara Adams
+National ID: 641-26-8108
+Bank: Chapman, Santos and Avery Bank
+Account Number: 4051817122
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9111
+Name: Nicholas Matthews
+National ID: 233-95-6727
+Bank: Mckinney-Miller Bank
+Account Number: 8891730950
+Consent Status: Revoked

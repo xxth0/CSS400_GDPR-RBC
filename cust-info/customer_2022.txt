@@ -1,0 +1,6 @@
+Customer ID: 2022
+Name: Katherine Osborne
+National ID: 379-15-4912
+Bank: Clark-Walker Bank
+Account Number: 6921863079
+Consent Status: Revoked

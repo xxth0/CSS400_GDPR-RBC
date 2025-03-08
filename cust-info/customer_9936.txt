@@ -1,0 +1,6 @@
+Customer ID: 9936
+Name: Ryan Schultz
+National ID: 447-79-3023
+Bank: Ayers LLC Bank
+Account Number: 5346154015
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 874
+Name: Christopher Nelson
+National ID: 335-77-5756
+Bank: Simmons, Morse and Davis Bank
+Account Number: 3245529132
+Consent Status: Revoked

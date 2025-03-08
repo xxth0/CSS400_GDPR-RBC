@@ -1,0 +1,6 @@
+Customer ID: 165
+Name: Jennifer Barnett
+National ID: 362-30-2126
+Bank: Hernandez-Nguyen Bank
+Account Number: 8263090232
+Consent Status: Granted

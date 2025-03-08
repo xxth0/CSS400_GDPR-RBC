@@ -1,0 +1,6 @@
+Customer ID: 2654
+Name: Brian Downs
+National ID: 312-82-4706
+Bank: Montes-Obrien Bank
+Account Number: 5306614093
+Consent Status: Revoked

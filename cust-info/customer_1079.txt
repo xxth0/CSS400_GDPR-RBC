@@ -1,0 +1,6 @@
+Customer ID: 1079
+Name: Jacqueline Barker
+National ID: 833-11-7573
+Bank: Wells PLC Bank
+Account Number: 4130458525
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8669
+Name: James Flores
+National ID: 797-64-7391
+Bank: Bradley-Saunders Bank
+Account Number: 5425688705
+Consent Status: Revoked

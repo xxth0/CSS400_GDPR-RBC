@@ -1,0 +1,6 @@
+Customer ID: 6207
+Name: Brian Juarez
+National ID: 777-47-2432
+Bank: Fleming-Stafford Bank
+Account Number: 5386461645
+Consent Status: Revoked

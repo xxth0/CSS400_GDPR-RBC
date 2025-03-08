@@ -1,0 +1,6 @@
+Customer ID: 7566
+Name: Billy Bond
+National ID: 787-51-2616
+Bank: Garcia Ltd Bank
+Account Number: 5374847861
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 716
+Name: Diana Duncan
+National ID: 701-94-5988
+Bank: Cain, Neal and Castillo Bank
+Account Number: 2305922368
+Consent Status: Revoked

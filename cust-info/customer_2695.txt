@@ -1,0 +1,6 @@
+Customer ID: 2695
+Name: Ashley Hughes
+National ID: 436-76-6397
+Bank: Miller, Robbins and Garcia Bank
+Account Number: 5704346046
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5307
+Name: Omar Blevins
+National ID: 235-49-6206
+Bank: Velez-Alvarez Bank
+Account Number: 4808238192
+Consent Status: Granted

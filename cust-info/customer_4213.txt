@@ -1,0 +1,6 @@
+Customer ID: 4213
+Name: Linda Dickerson
+National ID: 336-29-8405
+Bank: Green-Brandt Bank
+Account Number: 1289074796
+Consent Status: Revoked

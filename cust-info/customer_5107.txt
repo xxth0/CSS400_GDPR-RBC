@@ -1,0 +1,6 @@
+Customer ID: 5107
+Name: Margaret King
+National ID: 589-97-3272
+Bank: Moran-Hubbard Bank
+Account Number: 8667572102
+Consent Status: Revoked

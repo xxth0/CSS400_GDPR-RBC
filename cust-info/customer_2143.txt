@@ -1,0 +1,6 @@
+Customer ID: 2143
+Name: Valerie Dougherty
+National ID: 122-06-5285
+Bank: Davis Group Bank
+Account Number: 1824462322
+Consent Status: Revoked

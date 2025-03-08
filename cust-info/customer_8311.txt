@@ -1,0 +1,6 @@
+Customer ID: 8311
+Name: Beth Young
+National ID: 058-65-8306
+Bank: Archer Group Bank
+Account Number: 7561589250
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6609
+Name: Lauren Peters
+National ID: 853-76-5520
+Bank: Martinez-Cruz Bank
+Account Number: 6984165802
+Consent Status: Revoked

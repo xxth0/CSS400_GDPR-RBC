@@ -1,0 +1,6 @@
+Customer ID: 1318
+Name: Shelby Martin
+National ID: 164-60-6516
+Bank: Stewart and Sons Bank
+Account Number: 6591797764
+Consent Status: Revoked

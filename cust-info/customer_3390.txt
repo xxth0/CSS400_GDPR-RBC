@@ -1,0 +1,6 @@
+Customer ID: 3390
+Name: Pamela Bauer
+National ID: 393-70-2304
+Bank: Ramirez-Perez Bank
+Account Number: 5643986627
+Consent Status: Revoked

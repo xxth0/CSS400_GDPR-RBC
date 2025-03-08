@@ -1,0 +1,6 @@
+Customer ID: 2987
+Name: Bryan Fox
+National ID: 588-61-8661
+Bank: Gonzalez-Garcia Bank
+Account Number: 6069735828
+Consent Status: Granted

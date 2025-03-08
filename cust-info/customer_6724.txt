@@ -1,0 +1,6 @@
+Customer ID: 6724
+Name: Kevin Ramos
+National ID: 134-60-5127
+Bank: Cooper Inc Bank
+Account Number: 3622770557
+Consent Status: Granted

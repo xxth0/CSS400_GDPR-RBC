@@ -1,0 +1,6 @@
+Customer ID: 8967
+Name: Joshua Hanson Jr.
+National ID: 667-60-5770
+Bank: Maxwell, Berg and Webb Bank
+Account Number: 8887417166
+Consent Status: Granted

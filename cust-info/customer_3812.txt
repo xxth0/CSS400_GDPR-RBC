@@ -1,0 +1,6 @@
+Customer ID: 3812
+Name: Joseph Campbell
+National ID: 370-82-9863
+Bank: Howell Inc Bank
+Account Number: 6637360041
+Consent Status: Revoked

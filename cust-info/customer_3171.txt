@@ -1,0 +1,6 @@
+Customer ID: 3171
+Name: Kelly Tate
+National ID: 785-69-1125
+Bank: Jenkins-Valencia Bank
+Account Number: 2221288604
+Consent Status: Revoked

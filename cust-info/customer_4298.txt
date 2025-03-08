@@ -1,0 +1,6 @@
+Customer ID: 4298
+Name: Mrs. Michele Brewer
+National ID: 727-03-5091
+Bank: Davis, Lucero and Hoffman Bank
+Account Number: 9703512234
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8346
+Name: Jamie Turner
+National ID: 441-32-0043
+Bank: King, Williams and Shannon Bank
+Account Number: 1752650822
+Consent Status: Revoked

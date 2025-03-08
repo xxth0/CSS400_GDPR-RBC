@@ -1,0 +1,6 @@
+Customer ID: 1118
+Name: Becky Nguyen
+National ID: 232-94-8794
+Bank: Brooks PLC Bank
+Account Number: 7226589641
+Consent Status: Revoked

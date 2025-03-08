@@ -1,0 +1,6 @@
+Customer ID: 4516
+Name: Emily Duncan
+National ID: 741-47-4857
+Bank: Austin, Hammond and Hunt Bank
+Account Number: 1039820508
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5403
+Name: Jade Velasquez
+National ID: 217-24-0163
+Bank: Williamson and Sons Bank
+Account Number: 6285922566
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1900
+Name: Anna Kim
+National ID: 265-78-9287
+Bank: Villanueva Group Bank
+Account Number: 2481122365
+Consent Status: Granted

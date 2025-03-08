@@ -1,0 +1,6 @@
+Customer ID: 2933
+Name: Phillip Bryant
+National ID: 741-41-2824
+Bank: Brooks, Burnett and Ryan Bank
+Account Number: 3497149522
+Consent Status: Revoked

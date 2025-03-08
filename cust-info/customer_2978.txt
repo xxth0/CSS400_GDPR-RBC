@@ -1,0 +1,6 @@
+Customer ID: 2978
+Name: Tasha Edwards
+National ID: 704-07-6258
+Bank: Black Group Bank
+Account Number: 5993674545
+Consent Status: Revoked

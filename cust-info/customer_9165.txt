@@ -1,0 +1,6 @@
+Customer ID: 9165
+Name: Cassandra Douglas
+National ID: 174-69-2384
+Bank: Clark-Hall Bank
+Account Number: 5287797811
+Consent Status: Revoked

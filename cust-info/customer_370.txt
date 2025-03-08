@@ -1,0 +1,6 @@
+Customer ID: 370
+Name: Nicholas Griffin
+National ID: 486-81-1504
+Bank: Costa-Baker Bank
+Account Number: 9863935637
+Consent Status: Revoked

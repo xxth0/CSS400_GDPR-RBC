@@ -1,0 +1,6 @@
+Customer ID: 3102
+Name: Sean Michael
+National ID: 111-06-7804
+Bank: Smith-Jackson Bank
+Account Number: 4539712039
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8790
+Name: Brian Dunn
+National ID: 867-20-5169
+Bank: Lowe, George and Morgan Bank
+Account Number: 2526383801
+Consent Status: Granted

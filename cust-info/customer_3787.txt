@@ -1,0 +1,6 @@
+Customer ID: 3787
+Name: Anne Reyes
+National ID: 786-60-6724
+Bank: Gonzalez, Stewart and Gamble Bank
+Account Number: 3433201894
+Consent Status: Granted

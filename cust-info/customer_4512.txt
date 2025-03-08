@@ -1,0 +1,6 @@
+Customer ID: 4512
+Name: David Strickland
+National ID: 532-25-2639
+Bank: Collins PLC Bank
+Account Number: 4885803915
+Consent Status: Granted

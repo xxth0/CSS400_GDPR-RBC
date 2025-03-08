@@ -1,0 +1,6 @@
+Customer ID: 3490
+Name: Todd Mcintyre
+National ID: 437-99-7542
+Bank: Briggs, Foster and Campbell Bank
+Account Number: 4226811078
+Consent Status: Granted

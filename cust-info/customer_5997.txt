@@ -1,0 +1,6 @@
+Customer ID: 5997
+Name: Andrew Bryant
+National ID: 459-11-1079
+Bank: Hamilton-Jones Bank
+Account Number: 3474373794
+Consent Status: Revoked

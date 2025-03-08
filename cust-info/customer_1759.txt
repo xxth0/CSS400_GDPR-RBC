@@ -1,0 +1,6 @@
+Customer ID: 1759
+Name: Scott Gallagher
+National ID: 093-79-8123
+Bank: Jimenez, Acosta and Todd Bank
+Account Number: 3938169791
+Consent Status: Revoked

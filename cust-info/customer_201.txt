@@ -1,0 +1,6 @@
+Customer ID: 201
+Name: Bradley Howard
+National ID: 069-49-7527
+Bank: Donovan, Rollins and Johnson Bank
+Account Number: 9039191033
+Consent Status: Revoked

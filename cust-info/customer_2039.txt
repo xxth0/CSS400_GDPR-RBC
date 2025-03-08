@@ -1,0 +1,6 @@
+Customer ID: 2039
+Name: Sandy Shelton
+National ID: 277-19-6693
+Bank: Harris-Walters Bank
+Account Number: 4153113488
+Consent Status: Revoked

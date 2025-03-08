@@ -1,0 +1,6 @@
+Customer ID: 4847
+Name: Sarah Davis
+National ID: 319-53-2652
+Bank: Johnson, Alexander and Yates Bank
+Account Number: 6096521117
+Consent Status: Granted

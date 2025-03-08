@@ -1,0 +1,6 @@
+Customer ID: 5626
+Name: Randy Hines DVM
+National ID: 108-14-3920
+Bank: Huff Inc Bank
+Account Number: 3718025275
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4459
+Name: Nathaniel Burns
+National ID: 508-99-6165
+Bank: Green, Meyers and Garcia Bank
+Account Number: 1373691249
+Consent Status: Granted

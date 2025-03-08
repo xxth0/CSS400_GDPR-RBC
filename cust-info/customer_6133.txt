@@ -1,0 +1,6 @@
+Customer ID: 6133
+Name: Erica Campbell
+National ID: 511-54-2798
+Bank: Welch Ltd Bank
+Account Number: 3361282432
+Consent Status: Revoked

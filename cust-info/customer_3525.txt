@@ -1,0 +1,6 @@
+Customer ID: 3525
+Name: Richard Mcdonald
+National ID: 490-10-3352
+Bank: Smith-Turner Bank
+Account Number: 1746108993
+Consent Status: Revoked

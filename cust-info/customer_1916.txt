@@ -1,0 +1,6 @@
+Customer ID: 1916
+Name: Marcus Jackson
+National ID: 306-01-2009
+Bank: Joseph and Sons Bank
+Account Number: 6690102220
+Consent Status: Revoked

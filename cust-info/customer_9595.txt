@@ -1,0 +1,6 @@
+Customer ID: 9595
+Name: Sandra Luna
+National ID: 887-17-5871
+Bank: Miller-Harrison Bank
+Account Number: 8786581882
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8017
+Name: Nathan Anderson
+National ID: 238-35-2851
+Bank: Lang Group Bank
+Account Number: 2876646019
+Consent Status: Revoked

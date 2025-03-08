@@ -1,0 +1,6 @@
+Customer ID: 8110
+Name: Steven Johnson
+National ID: 832-87-8750
+Bank: Durham-Khan Bank
+Account Number: 6189229367
+Consent Status: Revoked

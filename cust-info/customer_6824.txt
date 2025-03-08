@@ -1,0 +1,6 @@
+Customer ID: 6824
+Name: Joseph Esparza
+National ID: 134-78-2917
+Bank: Burgess, Jones and Shaw Bank
+Account Number: 8429423525
+Consent Status: Granted

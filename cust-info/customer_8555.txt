@@ -1,0 +1,6 @@
+Customer ID: 8555
+Name: David Ramirez
+National ID: 140-91-1365
+Bank: Villa-Jennings Bank
+Account Number: 7351634310
+Consent Status: Revoked

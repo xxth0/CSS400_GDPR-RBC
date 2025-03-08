@@ -1,0 +1,6 @@
+Customer ID: 6987
+Name: Jessica Parker
+National ID: 538-35-4368
+Bank: Vang, Goodman and Smith Bank
+Account Number: 9024114527
+Consent Status: Revoked

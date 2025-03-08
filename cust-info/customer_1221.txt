@@ -1,0 +1,6 @@
+Customer ID: 1221
+Name: Susan Garcia
+National ID: 814-21-2113
+Bank: Jones Group Bank
+Account Number: 5518427803
+Consent Status: Revoked

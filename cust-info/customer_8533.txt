@@ -1,0 +1,6 @@
+Customer ID: 8533
+Name: Greg Austin
+National ID: 105-35-3534
+Bank: Braun, Garcia and Tucker Bank
+Account Number: 2365315124
+Consent Status: Revoked

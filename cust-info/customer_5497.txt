@@ -1,0 +1,6 @@
+Customer ID: 5497
+Name: James Mccullough
+National ID: 836-57-5364
+Bank: Robinson-Hall Bank
+Account Number: 4080271667
+Consent Status: Revoked

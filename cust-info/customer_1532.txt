@@ -1,0 +1,6 @@
+Customer ID: 1532
+Name: Joseph Sherman
+National ID: 572-50-6546
+Bank: Sanchez-Lopez Bank
+Account Number: 5017837490
+Consent Status: Revoked

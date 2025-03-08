@@ -1,0 +1,6 @@
+Customer ID: 7283
+Name: Patrick Green
+National ID: 336-98-7036
+Bank: Cohen-White Bank
+Account Number: 1795446803
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 613
+Name: Jacqueline Mcfarland
+National ID: 347-29-1854
+Bank: Wright-Rivera Bank
+Account Number: 8841758230
+Consent Status: Revoked

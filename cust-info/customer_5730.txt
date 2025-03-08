@@ -1,0 +1,6 @@
+Customer ID: 5730
+Name: Amanda Armstrong
+National ID: 523-51-5388
+Bank: Davis-Hughes Bank
+Account Number: 2610609090
+Consent Status: Revoked

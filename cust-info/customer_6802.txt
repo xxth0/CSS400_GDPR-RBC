@@ -1,0 +1,6 @@
+Customer ID: 6802
+Name: Nancy Bernard
+National ID: 535-12-0182
+Bank: Davis LLC Bank
+Account Number: 1027663146
+Consent Status: Granted

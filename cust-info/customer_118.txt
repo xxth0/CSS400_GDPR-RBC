@@ -1,0 +1,6 @@
+Customer ID: 118
+Name: Joseph Johnson
+National ID: 383-38-8275
+Bank: Hansen PLC Bank
+Account Number: 8829955723
+Consent Status: Granted

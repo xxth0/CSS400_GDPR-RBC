@@ -1,0 +1,6 @@
+Customer ID: 1891
+Name: Taylor Garcia
+National ID: 219-94-4026
+Bank: Gamble and Sons Bank
+Account Number: 9883307699
+Consent Status: Granted

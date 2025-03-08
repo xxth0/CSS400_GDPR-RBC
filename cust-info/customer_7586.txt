@@ -1,0 +1,6 @@
+Customer ID: 7586
+Name: Sharon Jacobs
+National ID: 880-30-7608
+Bank: Alvarado, Chandler and Jackson Bank
+Account Number: 2596333150
+Consent Status: Revoked

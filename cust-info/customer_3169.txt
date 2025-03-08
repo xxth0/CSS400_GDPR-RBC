@@ -1,0 +1,6 @@
+Customer ID: 3169
+Name: Sarah Hutchinson
+National ID: 892-49-0957
+Bank: Miller, Smith and Greene Bank
+Account Number: 3830339990
+Consent Status: Revoked

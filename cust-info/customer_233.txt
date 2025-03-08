@@ -1,0 +1,6 @@
+Customer ID: 233
+Name: Donna Malone
+National ID: 491-97-1017
+Bank: Martinez PLC Bank
+Account Number: 7570526909
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6309
+Name: Erika Roberts
+National ID: 718-77-2625
+Bank: Mclean, Hernandez and Brown Bank
+Account Number: 4593136085
+Consent Status: Granted

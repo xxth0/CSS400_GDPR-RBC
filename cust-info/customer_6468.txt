@@ -1,0 +1,6 @@
+Customer ID: 6468
+Name: Eduardo Hall
+National ID: 039-85-7307
+Bank: Romero, Curtis and Burke Bank
+Account Number: 7194607727
+Consent Status: Granted

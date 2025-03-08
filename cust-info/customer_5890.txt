@@ -1,0 +1,6 @@
+Customer ID: 5890
+Name: Joshua Cruz
+National ID: 775-07-6010
+Bank: Christian, Bates and Macdonald Bank
+Account Number: 3173167146
+Consent Status: Granted

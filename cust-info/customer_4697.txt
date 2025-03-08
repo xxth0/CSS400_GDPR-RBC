@@ -1,0 +1,6 @@
+Customer ID: 4697
+Name: Amy Jensen
+National ID: 782-87-8069
+Bank: Santana, Palmer and Brown Bank
+Account Number: 9960555184
+Consent Status: Revoked

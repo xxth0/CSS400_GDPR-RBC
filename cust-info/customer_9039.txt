@@ -1,0 +1,6 @@
+Customer ID: 9039
+Name: Warren Williams
+National ID: 603-84-7235
+Bank: Mccullough, Carey and Fowler Bank
+Account Number: 1368562904
+Consent Status: Granted

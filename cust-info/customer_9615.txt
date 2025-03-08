@@ -1,0 +1,6 @@
+Customer ID: 9615
+Name: Jessica Owen
+National ID: 483-62-3175
+Bank: Pena, Hughes and Pitts Bank
+Account Number: 3283367964
+Consent Status: Revoked

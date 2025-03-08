@@ -1,0 +1,6 @@
+Customer ID: 8986
+Name: Joe Smith
+National ID: 481-67-3968
+Bank: Wright-Morris Bank
+Account Number: 2670560591
+Consent Status: Revoked

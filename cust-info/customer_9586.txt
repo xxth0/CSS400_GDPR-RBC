@@ -1,0 +1,6 @@
+Customer ID: 9586
+Name: Justin Ryan
+National ID: 067-01-6114
+Bank: Roberts LLC Bank
+Account Number: 7658146063
+Consent Status: Granted

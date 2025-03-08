@@ -1,0 +1,6 @@
+Customer ID: 1336
+Name: Richard Hall
+National ID: 190-56-9944
+Bank: Brown-Shaw Bank
+Account Number: 7490397423
+Consent Status: Granted

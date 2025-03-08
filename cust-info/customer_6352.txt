@@ -1,0 +1,6 @@
+Customer ID: 6352
+Name: Brian White
+National ID: 640-75-6189
+Bank: Estrada, King and Higgins Bank
+Account Number: 6874341329
+Consent Status: Granted

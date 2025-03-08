@@ -1,0 +1,6 @@
+Customer ID: 2139
+Name: Erika Howard
+National ID: 054-78-4113
+Bank: Howe-Barnes Bank
+Account Number: 1551278947
+Consent Status: Granted

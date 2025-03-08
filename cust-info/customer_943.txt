@@ -1,0 +1,6 @@
+Customer ID: 943
+Name: Ana King
+National ID: 182-21-4042
+Bank: Warren PLC Bank
+Account Number: 7921140904
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1824
+Name: John Adams
+National ID: 005-49-1599
+Bank: Gordon Inc Bank
+Account Number: 8294142303
+Consent Status: Revoked

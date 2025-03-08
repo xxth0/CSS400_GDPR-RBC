@@ -1,0 +1,6 @@
+Customer ID: 4045
+Name: Erica Sampson
+National ID: 590-46-2195
+Bank: Salazar, Wang and Ellison Bank
+Account Number: 1364163358
+Consent Status: Granted

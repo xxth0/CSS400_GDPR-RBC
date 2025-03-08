@@ -1,0 +1,6 @@
+Customer ID: 8536
+Name: Christopher Walker
+National ID: 886-97-1316
+Bank: Lawson-Ellis Bank
+Account Number: 1935439096
+Consent Status: Revoked

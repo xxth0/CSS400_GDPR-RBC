@@ -1,0 +1,6 @@
+Customer ID: 721
+Name: April Daniel
+National ID: 338-72-2626
+Bank: Coleman, Snyder and Sanchez Bank
+Account Number: 9625478177
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2469
+Name: Noah Diaz
+National ID: 014-29-5251
+Bank: Rodriguez and Sons Bank
+Account Number: 9009117857
+Consent Status: Revoked

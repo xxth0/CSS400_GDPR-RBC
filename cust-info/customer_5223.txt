@@ -1,0 +1,6 @@
+Customer ID: 5223
+Name: Meghan Nguyen
+National ID: 559-51-7215
+Bank: Young, Morales and Alexander Bank
+Account Number: 7578736256
+Consent Status: Revoked

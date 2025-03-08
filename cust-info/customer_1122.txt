@@ -1,0 +1,6 @@
+Customer ID: 1122
+Name: Andrew Martin
+National ID: 328-12-8438
+Bank: Crawford-Ramos Bank
+Account Number: 4064360927
+Consent Status: Granted

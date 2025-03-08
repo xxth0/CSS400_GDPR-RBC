@@ -1,0 +1,6 @@
+Customer ID: 1129
+Name: Kristen Mendez
+National ID: 252-21-1978
+Bank: Hall-Watson Bank
+Account Number: 7141348845
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6478
+Name: Darius Torres
+National ID: 454-91-7179
+Bank: Jackson Group Bank
+Account Number: 8978403435
+Consent Status: Revoked

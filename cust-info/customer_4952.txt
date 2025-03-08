@@ -1,0 +1,6 @@
+Customer ID: 4952
+Name: Cody Hobbs
+National ID: 728-62-7208
+Bank: Foster-Sanchez Bank
+Account Number: 6794546243
+Consent Status: Revoked

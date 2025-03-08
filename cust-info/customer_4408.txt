@@ -1,0 +1,6 @@
+Customer ID: 4408
+Name: Willie Carney
+National ID: 537-28-2476
+Bank: Lawson Inc Bank
+Account Number: 6791059366
+Consent Status: Revoked

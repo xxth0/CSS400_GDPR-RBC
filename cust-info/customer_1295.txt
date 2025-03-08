@@ -1,0 +1,6 @@
+Customer ID: 1295
+Name: Joseph Smith
+National ID: 456-04-6865
+Bank: Rice Group Bank
+Account Number: 9635280969
+Consent Status: Granted

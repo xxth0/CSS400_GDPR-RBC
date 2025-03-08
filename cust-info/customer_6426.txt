@@ -1,0 +1,6 @@
+Customer ID: 6426
+Name: Leah Aguilar
+National ID: 086-20-4196
+Bank: Black-Gomez Bank
+Account Number: 4690453117
+Consent Status: Revoked

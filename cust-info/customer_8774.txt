@@ -1,0 +1,6 @@
+Customer ID: 8774
+Name: Shannon Baker
+National ID: 834-49-4272
+Bank: James Group Bank
+Account Number: 2386416163
+Consent Status: Revoked

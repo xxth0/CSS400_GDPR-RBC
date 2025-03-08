@@ -1,0 +1,6 @@
+Customer ID: 338
+Name: Darren Juarez
+National ID: 021-95-1573
+Bank: Chavez PLC Bank
+Account Number: 6434013501
+Consent Status: Revoked

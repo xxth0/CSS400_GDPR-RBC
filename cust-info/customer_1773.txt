@@ -1,0 +1,6 @@
+Customer ID: 1773
+Name: Michael Sanchez
+National ID: 487-58-3906
+Bank: Sutton-Vang Bank
+Account Number: 4339785811
+Consent Status: Granted

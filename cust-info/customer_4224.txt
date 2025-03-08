@@ -1,0 +1,6 @@
+Customer ID: 4224
+Name: April Pierce
+National ID: 676-69-2827
+Bank: Garrett, Turner and Green Bank
+Account Number: 8098768110
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7720
+Name: Adam Sullivan
+National ID: 034-82-5292
+Bank: Hodge, Graham and Delgado Bank
+Account Number: 3611413647
+Consent Status: Revoked

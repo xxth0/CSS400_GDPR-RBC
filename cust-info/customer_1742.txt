@@ -1,0 +1,6 @@
+Customer ID: 1742
+Name: Theodore Perry
+National ID: 132-29-4705
+Bank: Yates-Tran Bank
+Account Number: 4148460853
+Consent Status: Granted

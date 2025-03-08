@@ -1,0 +1,6 @@
+Customer ID: 8646
+Name: Bobby Richardson
+National ID: 790-26-3111
+Bank: Williams Inc Bank
+Account Number: 4403203811
+Consent Status: Granted

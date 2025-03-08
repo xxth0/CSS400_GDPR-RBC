@@ -1,0 +1,6 @@
+Customer ID: 678
+Name: Autumn Ramos
+National ID: 729-85-1713
+Bank: Jordan, Wilson and Wilson Bank
+Account Number: 2445065888
+Consent Status: Granted

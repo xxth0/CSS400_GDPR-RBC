@@ -1,0 +1,6 @@
+Customer ID: 1582
+Name: Olivia Waters
+National ID: 782-99-0875
+Bank: Ball Group Bank
+Account Number: 4153937640
+Consent Status: Revoked

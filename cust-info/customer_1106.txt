@@ -1,0 +1,6 @@
+Customer ID: 1106
+Name: Tiffany Ortiz
+National ID: 727-25-1244
+Bank: Long-Johnson Bank
+Account Number: 4575346726
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 499
+Name: John Castro
+National ID: 479-95-7583
+Bank: Massey Group Bank
+Account Number: 5530389351
+Consent Status: Revoked

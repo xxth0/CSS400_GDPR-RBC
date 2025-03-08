@@ -1,0 +1,6 @@
+Customer ID: 3628
+Name: James Nolan
+National ID: 492-99-6430
+Bank: Edwards, Burgess and Sandoval Bank
+Account Number: 8315687011
+Consent Status: Granted

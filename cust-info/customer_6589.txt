@@ -1,0 +1,6 @@
+Customer ID: 6589
+Name: Samantha King
+National ID: 004-47-4927
+Bank: Lee LLC Bank
+Account Number: 6789901244
+Consent Status: Granted

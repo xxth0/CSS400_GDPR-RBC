@@ -1,0 +1,6 @@
+Customer ID: 4852
+Name: Dawn Lester
+National ID: 310-56-0030
+Bank: Wilson-Flores Bank
+Account Number: 3056263036
+Consent Status: Revoked

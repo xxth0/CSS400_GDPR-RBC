@@ -1,0 +1,6 @@
+Customer ID: 462
+Name: Emily Smith
+National ID: 663-82-2931
+Bank: Manning-Morris Bank
+Account Number: 3059685030
+Consent Status: Revoked

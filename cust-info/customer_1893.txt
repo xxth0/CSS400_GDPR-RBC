@@ -1,0 +1,6 @@
+Customer ID: 1893
+Name: Michael Conley
+National ID: 679-98-5079
+Bank: Martin, Smith and Newton Bank
+Account Number: 7759826178
+Consent Status: Granted

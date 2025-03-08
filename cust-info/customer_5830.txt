@@ -1,0 +1,6 @@
+Customer ID: 5830
+Name: Samantha Burton
+National ID: 053-80-7857
+Bank: Gregory, Tate and Harris Bank
+Account Number: 1598871203
+Consent Status: Granted

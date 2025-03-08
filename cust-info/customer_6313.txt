@@ -1,0 +1,6 @@
+Customer ID: 6313
+Name: Heather Rasmussen
+National ID: 781-45-0616
+Bank: Mcdonald PLC Bank
+Account Number: 8756248886
+Consent Status: Granted

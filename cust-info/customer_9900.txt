@@ -1,0 +1,6 @@
+Customer ID: 9900
+Name: Ronnie Orozco
+National ID: 487-19-4966
+Bank: Garrison PLC Bank
+Account Number: 3379504899
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4658
+Name: John Johnson
+National ID: 839-58-0185
+Bank: Chan, Armstrong and Cardenas Bank
+Account Number: 1770014655
+Consent Status: Granted

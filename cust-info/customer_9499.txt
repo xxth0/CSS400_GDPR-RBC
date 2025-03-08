@@ -1,0 +1,6 @@
+Customer ID: 9499
+Name: Karen Ware
+National ID: 816-13-8361
+Bank: Hicks, Lloyd and Bradley Bank
+Account Number: 8483306150
+Consent Status: Granted

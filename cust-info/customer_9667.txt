@@ -1,0 +1,6 @@
+Customer ID: 9667
+Name: Stephanie Bruce
+National ID: 567-26-9708
+Bank: Leon Group Bank
+Account Number: 9296242456
+Consent Status: Granted

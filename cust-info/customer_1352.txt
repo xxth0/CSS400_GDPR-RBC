@@ -1,0 +1,6 @@
+Customer ID: 1352
+Name: Mark Garcia
+National ID: 016-11-5199
+Bank: Perez-Campbell Bank
+Account Number: 3286131783
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3974
+Name: Jeremy Arnold
+National ID: 887-23-9458
+Bank: Fisher PLC Bank
+Account Number: 9175023025
+Consent Status: Granted

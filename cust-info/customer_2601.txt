@@ -1,0 +1,6 @@
+Customer ID: 2601
+Name: Joshua Parker
+National ID: 251-18-0812
+Bank: Garcia-Rodriguez Bank
+Account Number: 9142440919
+Consent Status: Revoked

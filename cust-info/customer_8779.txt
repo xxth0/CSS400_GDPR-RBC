@@ -1,0 +1,6 @@
+Customer ID: 8779
+Name: Laura Gomez
+National ID: 461-55-2666
+Bank: Koch and Sons Bank
+Account Number: 5347298488
+Consent Status: Revoked

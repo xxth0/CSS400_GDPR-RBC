@@ -1,0 +1,6 @@
+Customer ID: 2598
+Name: Chris Gardner
+National ID: 383-57-0456
+Bank: Friedman Ltd Bank
+Account Number: 2744200006
+Consent Status: Granted

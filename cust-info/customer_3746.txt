@@ -1,0 +1,6 @@
+Customer ID: 3746
+Name: Zachary Jones
+National ID: 895-24-5807
+Bank: Smith LLC Bank
+Account Number: 5146977723
+Consent Status: Revoked

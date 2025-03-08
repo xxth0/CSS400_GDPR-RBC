@@ -1,0 +1,6 @@
+Customer ID: 6149
+Name: Debra Randolph
+National ID: 583-43-2579
+Bank: Sanford-Cuevas Bank
+Account Number: 9696513761
+Consent Status: Revoked

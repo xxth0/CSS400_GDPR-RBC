@@ -1,0 +1,6 @@
+Customer ID: 8864
+Name: Danielle Duncan
+National ID: 082-32-1904
+Bank: Clayton PLC Bank
+Account Number: 5887909174
+Consent Status: Granted

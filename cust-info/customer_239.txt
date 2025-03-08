@@ -1,0 +1,6 @@
+Customer ID: 239
+Name: Terry Martin
+National ID: 459-18-3488
+Bank: Kennedy, Wilkinson and Cunningham Bank
+Account Number: 6938281227
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 770
+Name: Eric Schmidt
+National ID: 242-42-8016
+Bank: Lee Group Bank
+Account Number: 1495057696
+Consent Status: Revoked

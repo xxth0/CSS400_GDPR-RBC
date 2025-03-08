@@ -1,0 +1,6 @@
+Customer ID: 1006
+Name: Kelly Moyer
+National ID: 365-93-2547
+Bank: Mccarthy, Flores and Grant Bank
+Account Number: 5010772132
+Consent Status: Granted

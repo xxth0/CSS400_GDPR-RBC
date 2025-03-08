@@ -1,0 +1,6 @@
+Customer ID: 6933
+Name: Megan Romero
+National ID: 359-68-1850
+Bank: Rodriguez, Reed and Burton Bank
+Account Number: 6039040037
+Consent Status: Granted

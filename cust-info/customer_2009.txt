@@ -1,0 +1,6 @@
+Customer ID: 2009
+Name: Benjamin Rocha
+National ID: 561-96-0444
+Bank: Molina, Wright and Bennett Bank
+Account Number: 4574838379
+Consent Status: Granted

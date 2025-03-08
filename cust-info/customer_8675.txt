@@ -1,0 +1,6 @@
+Customer ID: 8675
+Name: Holly Garcia
+National ID: 403-06-6787
+Bank: Reed-Howell Bank
+Account Number: 5370436008
+Consent Status: Granted

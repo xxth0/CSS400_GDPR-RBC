@@ -1,0 +1,6 @@
+Customer ID: 996
+Name: Daisy Moran MD
+National ID: 796-43-3199
+Bank: Matthews LLC Bank
+Account Number: 1513797760
+Consent Status: Revoked

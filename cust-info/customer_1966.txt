@@ -1,0 +1,6 @@
+Customer ID: 1966
+Name: Kenneth Collins
+National ID: 018-71-9241
+Bank: Mathis, Smith and Lane Bank
+Account Number: 4510731881
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2062
+Name: Elizabeth Lambert
+National ID: 791-14-1503
+Bank: Evans-Santiago Bank
+Account Number: 4453616466
+Consent Status: Revoked

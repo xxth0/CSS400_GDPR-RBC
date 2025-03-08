@@ -1,0 +1,6 @@
+Customer ID: 9067
+Name: Jennifer Day
+National ID: 861-07-5763
+Bank: Robinson-Key Bank
+Account Number: 4518958343
+Consent Status: Granted

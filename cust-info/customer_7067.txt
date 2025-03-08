@@ -1,0 +1,6 @@
+Customer ID: 7067
+Name: Jonathan Rosario
+National ID: 361-79-2124
+Bank: Franklin LLC Bank
+Account Number: 8189716960
+Consent Status: Granted

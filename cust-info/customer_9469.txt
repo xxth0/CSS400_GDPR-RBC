@@ -1,0 +1,6 @@
+Customer ID: 9469
+Name: Jill Gonzalez
+National ID: 184-83-7069
+Bank: White-Spears Bank
+Account Number: 1033776233
+Consent Status: Revoked

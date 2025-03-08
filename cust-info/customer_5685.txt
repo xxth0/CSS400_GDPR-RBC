@@ -1,0 +1,6 @@
+Customer ID: 5685
+Name: Christine Malone
+National ID: 841-84-0939
+Bank: Duncan, Johnson and Camacho Bank
+Account Number: 3078710527
+Consent Status: Granted

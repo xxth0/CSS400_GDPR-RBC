@@ -1,0 +1,6 @@
+Customer ID: 8341
+Name: Steven Sanford
+National ID: 208-97-3603
+Bank: Shannon, Rose and Coleman Bank
+Account Number: 2630509872
+Consent Status: Granted

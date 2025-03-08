@@ -1,0 +1,6 @@
+Customer ID: 7319
+Name: Judith Mclaughlin
+National ID: 579-75-5420
+Bank: Mccullough Group Bank
+Account Number: 7830491890
+Consent Status: Revoked

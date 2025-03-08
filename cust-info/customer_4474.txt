@@ -1,0 +1,6 @@
+Customer ID: 4474
+Name: Marissa Cruz
+National ID: 862-84-5801
+Bank: Lewis-Clark Bank
+Account Number: 3078096362
+Consent Status: Revoked

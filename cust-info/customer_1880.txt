@@ -1,0 +1,6 @@
+Customer ID: 1880
+Name: Stephanie Cochran
+National ID: 274-44-6624
+Bank: Peterson, Guzman and Shepard Bank
+Account Number: 5403270094
+Consent Status: Revoked

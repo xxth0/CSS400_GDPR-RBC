@@ -1,0 +1,6 @@
+Customer ID: 6
+Name: Linda Leonard
+National ID: 020-60-6510
+Bank: Morgan Group Bank
+Account Number: 3168080548
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 887
+Name: Edward Lewis
+National ID: 162-03-5807
+Bank: Krueger LLC Bank
+Account Number: 7620179460
+Consent Status: Granted

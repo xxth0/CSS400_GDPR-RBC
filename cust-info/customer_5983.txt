@@ -1,0 +1,6 @@
+Customer ID: 5983
+Name: Karen Wong
+National ID: 276-62-5828
+Bank: Barton Ltd Bank
+Account Number: 3214321592
+Consent Status: Granted

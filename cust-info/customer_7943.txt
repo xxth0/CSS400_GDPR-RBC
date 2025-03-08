@@ -1,0 +1,6 @@
+Customer ID: 7943
+Name: Daniel Tucker
+National ID: 446-90-7780
+Bank: Graham-Gonzalez Bank
+Account Number: 7097806001
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6200
+Name: Kevin Burke
+National ID: 147-36-3071
+Bank: Allen PLC Bank
+Account Number: 7216925897
+Consent Status: Granted

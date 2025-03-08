@@ -1,0 +1,6 @@
+Customer ID: 3269
+Name: Dominique Michael
+National ID: 046-35-2652
+Bank: Woods-Thompson Bank
+Account Number: 3206470260
+Consent Status: Granted

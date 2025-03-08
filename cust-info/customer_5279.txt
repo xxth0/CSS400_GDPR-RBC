@@ -1,0 +1,6 @@
+Customer ID: 5279
+Name: Tiffany Shaw
+National ID: 757-73-9785
+Bank: Knight PLC Bank
+Account Number: 8698323196
+Consent Status: Revoked

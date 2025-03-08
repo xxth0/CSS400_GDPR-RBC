@@ -1,0 +1,6 @@
+Customer ID: 5961
+Name: Patricia Ward
+National ID: 532-15-7096
+Bank: Miller Inc Bank
+Account Number: 9227846099
+Consent Status: Revoked

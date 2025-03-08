@@ -1,0 +1,6 @@
+Customer ID: 5981
+Name: Julie Sanchez
+National ID: 140-38-2727
+Bank: Hoffman, Green and Shaw Bank
+Account Number: 2834468461
+Consent Status: Revoked

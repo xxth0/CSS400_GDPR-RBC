@@ -1,0 +1,6 @@
+Customer ID: 371
+Name: Tammy Nguyen
+National ID: 555-56-4503
+Bank: Wang, Montgomery and Lane Bank
+Account Number: 8266182862
+Consent Status: Granted

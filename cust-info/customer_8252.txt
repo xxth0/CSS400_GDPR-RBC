@@ -1,0 +1,6 @@
+Customer ID: 8252
+Name: John Cooper
+National ID: 723-02-3933
+Bank: Davis-Miles Bank
+Account Number: 2657392090
+Consent Status: Revoked

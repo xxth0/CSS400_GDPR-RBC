@@ -1,0 +1,6 @@
+Customer ID: 1255
+Name: Robert Olson
+National ID: 435-07-3390
+Bank: Mitchell and Sons Bank
+Account Number: 8970841576
+Consent Status: Revoked

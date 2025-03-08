@@ -1,0 +1,6 @@
+Customer ID: 8989
+Name: Kimberly Walker
+National ID: 433-39-1584
+Bank: Hernandez, Combs and Clements Bank
+Account Number: 2904989056
+Consent Status: Revoked

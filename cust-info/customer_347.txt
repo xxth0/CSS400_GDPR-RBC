@@ -1,0 +1,6 @@
+Customer ID: 347
+Name: Janet Thompson
+National ID: 175-19-1315
+Bank: Mercer, Smith and Reed Bank
+Account Number: 8618013117
+Consent Status: Revoked

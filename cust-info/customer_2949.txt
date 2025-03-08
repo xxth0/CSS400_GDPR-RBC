@@ -1,0 +1,6 @@
+Customer ID: 2949
+Name: Aaron Chaney
+National ID: 640-78-0115
+Bank: Mcdonald-Walker Bank
+Account Number: 3252630629
+Consent Status: Revoked

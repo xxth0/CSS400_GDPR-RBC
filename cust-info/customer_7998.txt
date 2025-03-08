@@ -1,0 +1,6 @@
+Customer ID: 7998
+Name: Amy Simmons
+National ID: 664-41-4970
+Bank: Perez, Mcbride and Horn Bank
+Account Number: 3877442400
+Consent Status: Granted

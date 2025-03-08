@@ -1,0 +1,6 @@
+Customer ID: 2556
+Name: Amy Howard
+National ID: 541-69-5790
+Bank: Small, Harris and Garcia Bank
+Account Number: 4812740204
+Consent Status: Granted

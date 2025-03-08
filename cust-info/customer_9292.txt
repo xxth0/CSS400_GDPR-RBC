@@ -1,0 +1,6 @@
+Customer ID: 9292
+Name: Luke Barry
+National ID: 182-03-5101
+Bank: Hartman Ltd Bank
+Account Number: 7038446184
+Consent Status: Granted

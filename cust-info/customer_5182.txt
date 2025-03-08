@@ -1,0 +1,6 @@
+Customer ID: 5182
+Name: John Mcguire
+National ID: 623-22-5071
+Bank: May, Rojas and Rice Bank
+Account Number: 4289209320
+Consent Status: Revoked

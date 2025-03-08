@@ -1,0 +1,6 @@
+Customer ID: 4204
+Name: Julie Kim
+National ID: 843-64-1715
+Bank: Smith, Kelley and Wright Bank
+Account Number: 1408548992
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4473
+Name: Lisa Berry
+National ID: 007-07-1229
+Bank: Martin, Johns and Garcia Bank
+Account Number: 6621699415
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9360
+Name: Jeffery Perez
+National ID: 128-80-6175
+Bank: Gillespie PLC Bank
+Account Number: 6513051104
+Consent Status: Granted

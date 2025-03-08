@@ -1,0 +1,6 @@
+Customer ID: 8430
+Name: Erica Sutton
+National ID: 006-36-5409
+Bank: Lewis, Martinez and Parsons Bank
+Account Number: 3864379421
+Consent Status: Revoked

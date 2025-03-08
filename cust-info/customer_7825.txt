@@ -1,0 +1,6 @@
+Customer ID: 7825
+Name: Kathleen Tyler
+National ID: 217-41-5855
+Bank: Moreno Ltd Bank
+Account Number: 8248604139
+Consent Status: Granted

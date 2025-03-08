@@ -1,0 +1,6 @@
+Customer ID: 3771
+Name: Kathryn Berry
+National ID: 323-13-4768
+Bank: Stout Ltd Bank
+Account Number: 4967926842
+Consent Status: Granted

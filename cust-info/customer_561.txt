@@ -1,0 +1,6 @@
+Customer ID: 561
+Name: Samantha Haynes
+National ID: 366-35-0200
+Bank: Duncan PLC Bank
+Account Number: 2316127089
+Consent Status: Revoked

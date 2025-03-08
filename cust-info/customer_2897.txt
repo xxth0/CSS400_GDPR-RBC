@@ -1,0 +1,6 @@
+Customer ID: 2897
+Name: Dave Lambert
+National ID: 486-15-4232
+Bank: Barnes PLC Bank
+Account Number: 5858007399
+Consent Status: Revoked

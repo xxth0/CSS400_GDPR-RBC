@@ -1,0 +1,6 @@
+Customer ID: 8069
+Name: Brianna Chapman
+National ID: 520-81-9399
+Bank: Murray-Kline Bank
+Account Number: 4155220670
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2123
+Name: Anthony Warner
+National ID: 584-54-8443
+Bank: Oconnor Group Bank
+Account Number: 5065052468
+Consent Status: Revoked

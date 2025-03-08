@@ -1,0 +1,6 @@
+Customer ID: 9368
+Name: Wendy Mcgee
+National ID: 858-16-1914
+Bank: Vasquez, Brown and Clay Bank
+Account Number: 6867237096
+Consent Status: Revoked

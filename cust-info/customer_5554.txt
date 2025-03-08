@@ -1,0 +1,6 @@
+Customer ID: 5554
+Name: Timothy Hernandez
+National ID: 569-29-5534
+Bank: Brennan-Green Bank
+Account Number: 1678939367
+Consent Status: Revoked

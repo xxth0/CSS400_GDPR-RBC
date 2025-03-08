@@ -1,0 +1,6 @@
+Customer ID: 8627
+Name: Sara Perez
+National ID: 310-65-3234
+Bank: Moore-Hess Bank
+Account Number: 3749335996
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3549
+Name: Jacqueline Williams
+National ID: 095-62-5412
+Bank: Foley-Frost Bank
+Account Number: 3653604515
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9005
+Name: Penny Stevens
+National ID: 626-39-0325
+Bank: Campos, Jensen and Perry Bank
+Account Number: 7849541864
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3846
+Name: Patrick Walls
+National ID: 039-10-5289
+Bank: Johnson and Sons Bank
+Account Number: 7949399962
+Consent Status: Revoked

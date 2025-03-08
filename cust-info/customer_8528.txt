@@ -1,0 +1,6 @@
+Customer ID: 8528
+Name: Andrew Davis
+National ID: 238-07-4774
+Bank: Combs, Edwards and Lara Bank
+Account Number: 8139388132
+Consent Status: Revoked

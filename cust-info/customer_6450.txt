@@ -1,0 +1,6 @@
+Customer ID: 6450
+Name: Morgan Curry
+National ID: 535-69-0040
+Bank: Castro-Becker Bank
+Account Number: 5987401663
+Consent Status: Granted

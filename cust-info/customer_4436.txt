@@ -1,0 +1,6 @@
+Customer ID: 4436
+Name: Angel Lopez
+National ID: 019-45-8725
+Bank: Buck, Bates and Olson Bank
+Account Number: 4101040051
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1894
+Name: Curtis Guerrero
+National ID: 570-61-0463
+Bank: Sanchez, Rodriguez and Suarez Bank
+Account Number: 1375616236
+Consent Status: Granted

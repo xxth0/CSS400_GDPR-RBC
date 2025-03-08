@@ -1,0 +1,6 @@
+Customer ID: 6765
+Name: Melvin Tran
+National ID: 125-24-6887
+Bank: Woods-Brown Bank
+Account Number: 5352291252
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3436
+Name: Lindsay Jones
+National ID: 205-94-0209
+Bank: Ortega, Barnes and Patterson Bank
+Account Number: 3543543690
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5165
+Name: Cody Chavez
+National ID: 879-25-4064
+Bank: Myers-Snyder Bank
+Account Number: 4373543216
+Consent Status: Revoked

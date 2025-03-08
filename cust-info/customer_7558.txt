@@ -1,0 +1,6 @@
+Customer ID: 7558
+Name: David Branch
+National ID: 142-02-9335
+Bank: Hayes, Ruiz and Brooks Bank
+Account Number: 3215948044
+Consent Status: Granted

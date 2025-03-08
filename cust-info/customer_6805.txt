@@ -1,0 +1,6 @@
+Customer ID: 6805
+Name: Jeanette Cole
+National ID: 181-64-0034
+Bank: Clay-Martinez Bank
+Account Number: 4802943952
+Consent Status: Revoked

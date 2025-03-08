@@ -1,0 +1,6 @@
+Customer ID: 3973
+Name: Alec Castaneda
+National ID: 606-47-4268
+Bank: West LLC Bank
+Account Number: 4771795775
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 766
+Name: Brian Sims
+National ID: 052-19-3421
+Bank: Alexander, Smith and Smith Bank
+Account Number: 2338712650
+Consent Status: Revoked

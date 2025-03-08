@@ -1,0 +1,6 @@
+Customer ID: 6879
+Name: Daniel Bartlett
+National ID: 729-33-7659
+Bank: Parker, House and Bailey Bank
+Account Number: 6210167763
+Consent Status: Revoked

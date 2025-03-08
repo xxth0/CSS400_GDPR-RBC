@@ -1,0 +1,6 @@
+Customer ID: 1490
+Name: Andrew Sanchez
+National ID: 834-02-0688
+Bank: Smith-Vasquez Bank
+Account Number: 1145346067
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4021
+Name: Kaitlin Jackson
+National ID: 627-38-1591
+Bank: Harris-Chavez Bank
+Account Number: 6134928178
+Consent Status: Revoked

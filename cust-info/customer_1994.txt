@@ -1,0 +1,6 @@
+Customer ID: 1994
+Name: Ariel Hall
+National ID: 691-09-1353
+Bank: Harrison Inc Bank
+Account Number: 2150805618
+Consent Status: Revoked

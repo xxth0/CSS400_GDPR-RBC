@@ -1,0 +1,6 @@
+Customer ID: 9859
+Name: Jeffery Campbell
+National ID: 398-90-8176
+Bank: Jones and Sons Bank
+Account Number: 3108961207
+Consent Status: Granted

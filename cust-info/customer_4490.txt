@@ -1,0 +1,6 @@
+Customer ID: 4490
+Name: Michael Downs
+National ID: 070-30-1739
+Bank: Alexander, Harper and Blankenship Bank
+Account Number: 4177602576
+Consent Status: Revoked

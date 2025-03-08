@@ -1,0 +1,6 @@
+Customer ID: 2186
+Name: Joshua Rivas
+National ID: 178-76-0922
+Bank: Young LLC Bank
+Account Number: 8088122214
+Consent Status: Granted

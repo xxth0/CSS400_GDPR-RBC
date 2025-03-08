@@ -1,0 +1,6 @@
+Customer ID: 3118
+Name: Nicole Alvarez
+National ID: 782-04-3998
+Bank: Wright Inc Bank
+Account Number: 6666652366
+Consent Status: Granted

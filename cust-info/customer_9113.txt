@@ -1,0 +1,6 @@
+Customer ID: 9113
+Name: Vanessa Petersen
+National ID: 113-79-1784
+Bank: Espinoza-Gonzales Bank
+Account Number: 9653653138
+Consent Status: Revoked

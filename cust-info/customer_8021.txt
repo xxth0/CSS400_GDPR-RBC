@@ -1,0 +1,6 @@
+Customer ID: 8021
+Name: Angela Wells
+National ID: 268-98-0408
+Bank: Casey PLC Bank
+Account Number: 5912618743
+Consent Status: Granted

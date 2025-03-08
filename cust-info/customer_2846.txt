@@ -1,0 +1,6 @@
+Customer ID: 2846
+Name: Valerie Obrien
+National ID: 635-61-3990
+Bank: Williams-Cardenas Bank
+Account Number: 2857192223
+Consent Status: Revoked

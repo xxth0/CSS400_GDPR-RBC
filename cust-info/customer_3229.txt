@@ -1,0 +1,6 @@
+Customer ID: 3229
+Name: Antonio Freeman
+National ID: 602-02-4579
+Bank: Moore-Campos Bank
+Account Number: 3744374887
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5615
+Name: Michael Cobb
+National ID: 051-94-4505
+Bank: Rich Group Bank
+Account Number: 1164849657
+Consent Status: Revoked

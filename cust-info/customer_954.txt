@@ -1,0 +1,6 @@
+Customer ID: 954
+Name: Courtney Perez
+National ID: 574-89-1767
+Bank: Young Inc Bank
+Account Number: 3067638197
+Consent Status: Revoked

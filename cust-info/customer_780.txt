@@ -1,0 +1,6 @@
+Customer ID: 780
+Name: Ryan Bird
+National ID: 066-55-1368
+Bank: Wood-Mata Bank
+Account Number: 1028656907
+Consent Status: Revoked

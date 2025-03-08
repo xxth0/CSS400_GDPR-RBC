@@ -1,0 +1,6 @@
+Customer ID: 6454
+Name: Mr. Brian Harris PhD
+National ID: 279-48-6469
+Bank: Soto-Anderson Bank
+Account Number: 4470097833
+Consent Status: Granted

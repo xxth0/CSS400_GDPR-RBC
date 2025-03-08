@@ -1,0 +1,6 @@
+Customer ID: 1076
+Name: Michael Brown
+National ID: 348-01-4856
+Bank: Norton, Baker and House Bank
+Account Number: 2733374950
+Consent Status: Revoked

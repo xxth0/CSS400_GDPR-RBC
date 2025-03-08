@@ -1,0 +1,6 @@
+Customer ID: 4433
+Name: William Munoz
+National ID: 759-74-8172
+Bank: Patel-Taylor Bank
+Account Number: 2566740630
+Consent Status: Revoked

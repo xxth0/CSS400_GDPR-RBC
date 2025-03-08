@@ -1,0 +1,6 @@
+Customer ID: 5585
+Name: Daniel Shaffer
+National ID: 531-90-7465
+Bank: Bray Inc Bank
+Account Number: 2522370712
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2790
+Name: Gina Mason
+National ID: 090-17-1938
+Bank: Sparks-Young Bank
+Account Number: 9450124074
+Consent Status: Granted

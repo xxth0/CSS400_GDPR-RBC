@@ -1,0 +1,6 @@
+Customer ID: 2921
+Name: Thomas Rivas
+National ID: 167-49-4129
+Bank: Estrada and Sons Bank
+Account Number: 9789981497
+Consent Status: Revoked

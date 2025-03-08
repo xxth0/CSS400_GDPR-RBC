@@ -1,0 +1,6 @@
+Customer ID: 4911
+Name: Justin Ingram
+National ID: 770-66-4307
+Bank: Cox PLC Bank
+Account Number: 7147080632
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4568
+Name: Samantha Gomez
+National ID: 811-01-7069
+Bank: Davis-Matthews Bank
+Account Number: 4621117937
+Consent Status: Revoked

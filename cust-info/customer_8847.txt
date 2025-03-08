@@ -1,0 +1,6 @@
+Customer ID: 8847
+Name: Ryan Robbins
+National ID: 679-24-6008
+Bank: Myers-Nichols Bank
+Account Number: 7002235843
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1833
+Name: Kevin Johnson
+National ID: 063-90-6295
+Bank: Williams-Hughes Bank
+Account Number: 6421989209
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6900
+Name: Jennifer Taylor
+National ID: 815-56-4711
+Bank: Edwards, Mcdonald and Shaw Bank
+Account Number: 8613434656
+Consent Status: Revoked

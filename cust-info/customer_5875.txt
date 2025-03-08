@@ -1,0 +1,6 @@
+Customer ID: 5875
+Name: Tracy Hampton
+National ID: 054-40-4871
+Bank: Brown-Lambert Bank
+Account Number: 2203145778
+Consent Status: Granted

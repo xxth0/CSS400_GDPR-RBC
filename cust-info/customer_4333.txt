@@ -1,0 +1,6 @@
+Customer ID: 4333
+Name: Lori Owen
+National ID: 117-15-4107
+Bank: Brown Group Bank
+Account Number: 5543319257
+Consent Status: Granted

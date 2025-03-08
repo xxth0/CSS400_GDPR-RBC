@@ -1,0 +1,6 @@
+Customer ID: 8480
+Name: Joseph Martin PhD
+National ID: 236-89-3384
+Bank: Gilbert-Suarez Bank
+Account Number: 6200511256
+Consent Status: Granted

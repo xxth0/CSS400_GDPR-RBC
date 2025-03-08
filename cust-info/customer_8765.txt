@@ -1,0 +1,6 @@
+Customer ID: 8765
+Name: Paula Anthony
+National ID: 687-50-9226
+Bank: Gonzales-Brown Bank
+Account Number: 7016524843
+Consent Status: Revoked

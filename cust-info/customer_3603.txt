@@ -1,0 +1,6 @@
+Customer ID: 3603
+Name: Kimberly Edwards
+National ID: 536-17-1891
+Bank: Brown PLC Bank
+Account Number: 5855704087
+Consent Status: Revoked

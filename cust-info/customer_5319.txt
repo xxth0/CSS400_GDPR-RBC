@@ -1,0 +1,6 @@
+Customer ID: 5319
+Name: Joanna Watson
+National ID: 735-48-8174
+Bank: Rojas, Brown and Dorsey Bank
+Account Number: 7333142051
+Consent Status: Revoked

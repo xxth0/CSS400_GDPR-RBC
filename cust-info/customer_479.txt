@@ -1,0 +1,6 @@
+Customer ID: 479
+Name: Adrienne Heath
+National ID: 363-69-6539
+Bank: Burton Inc Bank
+Account Number: 3247080822
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4673
+Name: Stephanie Hanson
+National ID: 049-42-4210
+Bank: Guerrero, Little and Austin Bank
+Account Number: 3396217034
+Consent Status: Granted

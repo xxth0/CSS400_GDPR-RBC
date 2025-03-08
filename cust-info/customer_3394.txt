@@ -1,0 +1,6 @@
+Customer ID: 3394
+Name: Deborah Fowler
+National ID: 358-48-5469
+Bank: Mendoza LLC Bank
+Account Number: 4733645486
+Consent Status: Granted

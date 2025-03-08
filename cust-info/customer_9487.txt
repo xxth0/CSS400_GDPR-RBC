@@ -1,0 +1,6 @@
+Customer ID: 9487
+Name: Anthony Macias
+National ID: 269-61-7317
+Bank: Haas, Ortega and Thompson Bank
+Account Number: 4190492370
+Consent Status: Revoked

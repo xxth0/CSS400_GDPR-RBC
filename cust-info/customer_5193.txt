@@ -1,0 +1,6 @@
+Customer ID: 5193
+Name: Jessica Joyce
+National ID: 440-06-8929
+Bank: Wright LLC Bank
+Account Number: 1967458373
+Consent Status: Granted

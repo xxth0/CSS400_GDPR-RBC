@@ -1,0 +1,6 @@
+Customer ID: 7631
+Name: Jessica Liu
+National ID: 183-84-9120
+Bank: Rogers-Lewis Bank
+Account Number: 7720038853
+Consent Status: Granted

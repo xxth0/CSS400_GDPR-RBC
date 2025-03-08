@@ -1,0 +1,6 @@
+Customer ID: 9826
+Name: Brandon Jones
+National ID: 176-99-1322
+Bank: Mathis, Freeman and Henderson Bank
+Account Number: 7717440622
+Consent Status: Granted

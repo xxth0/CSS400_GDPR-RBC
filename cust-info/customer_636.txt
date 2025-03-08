@@ -1,0 +1,6 @@
+Customer ID: 636
+Name: Alejandro Rivera
+National ID: 455-83-4077
+Bank: Alvarado, Bond and Moreno Bank
+Account Number: 9344146226
+Consent Status: Granted

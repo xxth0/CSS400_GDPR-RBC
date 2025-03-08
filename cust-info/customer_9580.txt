@@ -1,0 +1,6 @@
+Customer ID: 9580
+Name: Sonya Tate
+National ID: 642-86-2401
+Bank: Stark-Mitchell Bank
+Account Number: 5212790100
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1497
+Name: Antonio Sutton
+National ID: 082-53-5400
+Bank: White Inc Bank
+Account Number: 5835137069
+Consent Status: Revoked

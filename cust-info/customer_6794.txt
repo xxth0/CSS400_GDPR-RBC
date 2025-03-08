@@ -1,0 +1,6 @@
+Customer ID: 6794
+Name: Timothy Dennis
+National ID: 486-80-4189
+Bank: Acosta-Knapp Bank
+Account Number: 3890961096
+Consent Status: Revoked

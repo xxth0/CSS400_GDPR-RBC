@@ -1,0 +1,6 @@
+Customer ID: 7641
+Name: Renee Ellis
+National ID: 338-57-4853
+Bank: Gutierrez-Gonzales Bank
+Account Number: 1487183994
+Consent Status: Revoked

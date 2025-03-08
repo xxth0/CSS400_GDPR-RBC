@@ -1,0 +1,6 @@
+Customer ID: 5859
+Name: Stephanie Lee
+National ID: 330-39-9929
+Bank: Warner Ltd Bank
+Account Number: 7931259043
+Consent Status: Revoked

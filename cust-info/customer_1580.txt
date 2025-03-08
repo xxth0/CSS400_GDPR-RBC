@@ -1,0 +1,6 @@
+Customer ID: 1580
+Name: John Vasquez
+National ID: 543-27-2930
+Bank: Osborne Inc Bank
+Account Number: 1455788501
+Consent Status: Granted

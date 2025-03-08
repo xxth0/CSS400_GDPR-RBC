@@ -1,0 +1,6 @@
+Customer ID: 7056
+Name: Andrea Williams
+National ID: 183-90-4264
+Bank: Campbell-Baker Bank
+Account Number: 7374015942
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1815
+Name: Lindsey Collier
+National ID: 658-52-2389
+Bank: Hogan-Powell Bank
+Account Number: 6835494532
+Consent Status: Granted

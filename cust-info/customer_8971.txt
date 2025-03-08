@@ -1,0 +1,6 @@
+Customer ID: 8971
+Name: Victoria Johnson
+National ID: 124-84-3491
+Bank: Dalton Inc Bank
+Account Number: 9379730796
+Consent Status: Granted

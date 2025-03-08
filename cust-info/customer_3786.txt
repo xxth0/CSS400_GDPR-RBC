@@ -1,0 +1,6 @@
+Customer ID: 3786
+Name: Rachel Clark
+National ID: 391-55-7335
+Bank: Alexander-Martin Bank
+Account Number: 4060810257
+Consent Status: Revoked

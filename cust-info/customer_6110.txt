@@ -1,0 +1,6 @@
+Customer ID: 6110
+Name: Anthony Coleman
+National ID: 318-30-0088
+Bank: Evans-Rodriguez Bank
+Account Number: 3859888592
+Consent Status: Revoked

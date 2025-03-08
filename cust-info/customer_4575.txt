@@ -1,0 +1,6 @@
+Customer ID: 4575
+Name: Richard Greene
+National ID: 622-12-5005
+Bank: Smith, Shaffer and Bishop Bank
+Account Number: 2305853650
+Consent Status: Revoked

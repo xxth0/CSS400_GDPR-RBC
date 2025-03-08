@@ -1,0 +1,6 @@
+Customer ID: 6918
+Name: Makayla Johnson
+National ID: 064-97-0733
+Bank: Moss, Bright and Smith Bank
+Account Number: 6016026806
+Consent Status: Revoked

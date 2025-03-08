@@ -1,0 +1,6 @@
+Customer ID: 7742
+Name: Gail Watson
+National ID: 583-58-2217
+Bank: Davis-Bowers Bank
+Account Number: 1299016830
+Consent Status: Granted

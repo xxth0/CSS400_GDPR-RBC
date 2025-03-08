@@ -1,0 +1,6 @@
+Customer ID: 6002
+Name: Anna Lawrence
+National ID: 085-77-0584
+Bank: Cox-Smith Bank
+Account Number: 4000078172
+Consent Status: Revoked

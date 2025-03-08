@@ -1,0 +1,6 @@
+Customer ID: 3621
+Name: Diane Lewis
+National ID: 360-65-1204
+Bank: Herrera LLC Bank
+Account Number: 8666818348
+Consent Status: Revoked

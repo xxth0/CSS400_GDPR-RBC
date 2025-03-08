@@ -1,0 +1,6 @@
+Customer ID: 7303
+Name: Nancy Meyer
+National ID: 513-77-7551
+Bank: Frank Inc Bank
+Account Number: 2373594620
+Consent Status: Revoked

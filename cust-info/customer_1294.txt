@@ -1,0 +1,6 @@
+Customer ID: 1294
+Name: Tiffany Ballard
+National ID: 319-21-4522
+Bank: Bennett, Johnson and Harvey Bank
+Account Number: 5653187730
+Consent Status: Revoked

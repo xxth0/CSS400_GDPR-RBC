@@ -1,0 +1,6 @@
+Customer ID: 5394
+Name: Yvette Young
+National ID: 299-23-0875
+Bank: Peterson, Garcia and Simmons Bank
+Account Number: 9927553744
+Consent Status: Revoked

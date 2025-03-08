@@ -1,0 +1,6 @@
+Customer ID: 2666
+Name: Gary Lee
+National ID: 425-79-9949
+Bank: Pennington-Turner Bank
+Account Number: 7820083358
+Consent Status: Revoked

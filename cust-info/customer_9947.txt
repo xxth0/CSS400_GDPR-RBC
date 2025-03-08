@@ -1,0 +1,6 @@
+Customer ID: 9947
+Name: Tina Harrington
+National ID: 325-70-4995
+Bank: Hamilton, Stone and Morris Bank
+Account Number: 8177733585
+Consent Status: Revoked

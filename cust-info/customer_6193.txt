@@ -1,0 +1,6 @@
+Customer ID: 6193
+Name: Daniel Bartlett PhD
+National ID: 737-19-0522
+Bank: Anderson PLC Bank
+Account Number: 3183049516
+Consent Status: Granted

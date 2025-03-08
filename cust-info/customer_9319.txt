@@ -1,0 +1,6 @@
+Customer ID: 9319
+Name: Mr. Zachary Torres
+National ID: 371-42-8176
+Bank: Taylor Ltd Bank
+Account Number: 1840170411
+Consent Status: Revoked

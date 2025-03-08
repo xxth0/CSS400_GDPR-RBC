@@ -1,0 +1,6 @@
+Customer ID: 6237
+Name: Ricky Chang
+National ID: 290-42-3642
+Bank: Figueroa Ltd Bank
+Account Number: 5178722471
+Consent Status: Revoked

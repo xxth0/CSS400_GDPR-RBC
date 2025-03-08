@@ -1,0 +1,6 @@
+Customer ID: 3699
+Name: Michael Wilson
+National ID: 240-54-1702
+Bank: Bentley-Bennett Bank
+Account Number: 3523159102
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4877
+Name: Tasha Rodriguez
+National ID: 844-32-7019
+Bank: Powell, Johnson and Dunn Bank
+Account Number: 5789863894
+Consent Status: Granted

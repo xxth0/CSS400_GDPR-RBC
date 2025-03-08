@@ -1,0 +1,6 @@
+Customer ID: 6112
+Name: Carmen Jackson
+National ID: 105-26-5362
+Bank: Caldwell-Adams Bank
+Account Number: 4038545526
+Consent Status: Granted

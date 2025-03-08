@@ -1,0 +1,6 @@
+Customer ID: 2763
+Name: Judy Hoover
+National ID: 075-17-7926
+Bank: Garrett PLC Bank
+Account Number: 8936661016
+Consent Status: Revoked

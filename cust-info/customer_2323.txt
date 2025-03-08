@@ -1,0 +1,6 @@
+Customer ID: 2323
+Name: Mackenzie Wright
+National ID: 664-84-2816
+Bank: Chavez-Sullivan Bank
+Account Number: 9562403257
+Consent Status: Revoked

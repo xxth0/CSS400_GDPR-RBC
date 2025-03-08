@@ -1,0 +1,6 @@
+Customer ID: 9833
+Name: Molly Griffith
+National ID: 896-12-1844
+Bank: Fletcher-Ramirez Bank
+Account Number: 5719745834
+Consent Status: Granted

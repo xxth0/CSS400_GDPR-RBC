@@ -1,0 +1,6 @@
+Customer ID: 6244
+Name: Erika Conrad
+National ID: 109-81-5227
+Bank: Farley Ltd Bank
+Account Number: 6021101221
+Consent Status: Revoked

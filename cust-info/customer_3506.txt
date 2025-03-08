@@ -1,0 +1,6 @@
+Customer ID: 3506
+Name: Christopher Lopez
+National ID: 795-01-8228
+Bank: Richardson PLC Bank
+Account Number: 4098464051
+Consent Status: Granted

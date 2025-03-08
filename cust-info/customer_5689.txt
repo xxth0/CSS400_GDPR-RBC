@@ -1,0 +1,6 @@
+Customer ID: 5689
+Name: Arthur King
+National ID: 896-94-1208
+Bank: Andersen Group Bank
+Account Number: 8913016508
+Consent Status: Granted

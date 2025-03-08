@@ -1,0 +1,6 @@
+Customer ID: 20
+Name: April Haley
+National ID: 789-30-9215
+Bank: Cole Group Bank
+Account Number: 2011143573
+Consent Status: Granted

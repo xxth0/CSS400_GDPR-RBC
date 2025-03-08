@@ -1,0 +1,6 @@
+Customer ID: 134
+Name: Diane Walker
+National ID: 512-59-0494
+Bank: Johnson PLC Bank
+Account Number: 9087340292
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3735
+Name: Nicole Frank
+National ID: 485-20-2928
+Bank: Cruz Inc Bank
+Account Number: 9059617862
+Consent Status: Revoked

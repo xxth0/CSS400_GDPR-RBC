@@ -1,0 +1,6 @@
+Customer ID: 6548
+Name: Thomas Sanchez
+National ID: 765-05-3225
+Bank: Hicks Inc Bank
+Account Number: 5714875371
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7670
+Name: Ashley Wiley
+National ID: 506-65-5364
+Bank: Flores-Crane Bank
+Account Number: 4935076958
+Consent Status: Granted

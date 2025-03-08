@@ -1,0 +1,6 @@
+Customer ID: 5409
+Name: Anthony Freeman
+National ID: 505-41-0979
+Bank: Hogan-Sweeney Bank
+Account Number: 8569627798
+Consent Status: Granted

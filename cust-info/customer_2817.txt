@@ -1,0 +1,6 @@
+Customer ID: 2817
+Name: Amber Cook
+National ID: 174-05-5849
+Bank: Williams, Cordova and Miller Bank
+Account Number: 4785898725
+Consent Status: Revoked

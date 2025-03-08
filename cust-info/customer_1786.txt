@@ -1,0 +1,6 @@
+Customer ID: 1786
+Name: Tyler Hendrix
+National ID: 131-19-6823
+Bank: Sanchez LLC Bank
+Account Number: 9857337509
+Consent Status: Revoked

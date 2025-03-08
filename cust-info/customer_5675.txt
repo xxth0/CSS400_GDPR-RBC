@@ -1,0 +1,6 @@
+Customer ID: 5675
+Name: Jeffrey George
+National ID: 265-77-1614
+Bank: Phillips, Park and Mccarty Bank
+Account Number: 9765802470
+Consent Status: Granted

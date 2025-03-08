@@ -1,0 +1,6 @@
+Customer ID: 8095
+Name: Paul Campbell
+National ID: 521-98-2752
+Bank: Colon Ltd Bank
+Account Number: 1384286885
+Consent Status: Revoked

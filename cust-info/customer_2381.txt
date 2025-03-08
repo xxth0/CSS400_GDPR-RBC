@@ -1,0 +1,6 @@
+Customer ID: 2381
+Name: Susan Gutierrez
+National ID: 327-37-6105
+Bank: White Inc Bank
+Account Number: 7328547336
+Consent Status: Granted

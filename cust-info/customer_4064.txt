@@ -1,0 +1,6 @@
+Customer ID: 4064
+Name: Joseph Wright
+National ID: 498-78-4754
+Bank: Goodman Ltd Bank
+Account Number: 1591991787
+Consent Status: Granted

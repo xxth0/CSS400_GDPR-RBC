@@ -1,0 +1,6 @@
+Customer ID: 4800
+Name: Wayne Stewart
+National ID: 481-70-1099
+Bank: Ross-Walker Bank
+Account Number: 3099619510
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6026
+Name: Darlene Williams
+National ID: 701-16-6109
+Bank: Cook-Krueger Bank
+Account Number: 2367355968
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2372
+Name: Travis Schroeder
+National ID: 192-78-7980
+Bank: Mitchell LLC Bank
+Account Number: 2047235643
+Consent Status: Granted

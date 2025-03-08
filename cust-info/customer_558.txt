@@ -1,0 +1,6 @@
+Customer ID: 558
+Name: William Estrada
+National ID: 340-77-0344
+Bank: Martin Ltd Bank
+Account Number: 7152634279
+Consent Status: Granted

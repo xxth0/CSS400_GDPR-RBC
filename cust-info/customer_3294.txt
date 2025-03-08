@@ -1,0 +1,6 @@
+Customer ID: 3294
+Name: Rodney Munoz
+National ID: 216-17-0564
+Bank: Chan-Lambert Bank
+Account Number: 6738249274
+Consent Status: Granted

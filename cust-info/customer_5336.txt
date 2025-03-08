@@ -1,0 +1,6 @@
+Customer ID: 5336
+Name: Catherine Moore
+National ID: 839-39-3938
+Bank: Sweeney-Smith Bank
+Account Number: 6280628693
+Consent Status: Granted

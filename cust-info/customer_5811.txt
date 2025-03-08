@@ -1,0 +1,6 @@
+Customer ID: 5811
+Name: Audrey Williams
+National ID: 498-07-6642
+Bank: Pope PLC Bank
+Account Number: 1454361148
+Consent Status: Revoked

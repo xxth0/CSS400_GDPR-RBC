@@ -1,0 +1,6 @@
+Customer ID: 2218
+Name: Scott Burch
+National ID: 864-34-7943
+Bank: Atkins Ltd Bank
+Account Number: 5529797395
+Consent Status: Revoked

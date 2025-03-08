@@ -1,0 +1,6 @@
+Customer ID: 7707
+Name: Thomas Rios
+National ID: 294-94-9642
+Bank: Meyer-Stanton Bank
+Account Number: 1868785268
+Consent Status: Revoked

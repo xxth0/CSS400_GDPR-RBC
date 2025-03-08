@@ -1,0 +1,6 @@
+Customer ID: 5390
+Name: Thomas Haley
+National ID: 367-32-2651
+Bank: Mcgee-Jacobson Bank
+Account Number: 6565909070
+Consent Status: Revoked

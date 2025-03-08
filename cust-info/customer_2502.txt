@@ -1,0 +1,6 @@
+Customer ID: 2502
+Name: Michael Mayo
+National ID: 066-01-9510
+Bank: Salazar, Smith and Diaz Bank
+Account Number: 2644333679
+Consent Status: Granted

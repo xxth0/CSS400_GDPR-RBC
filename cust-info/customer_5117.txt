@@ -1,0 +1,6 @@
+Customer ID: 5117
+Name: Edgar Carlson
+National ID: 079-52-3838
+Bank: Stein, Stafford and Smith Bank
+Account Number: 4894818705
+Consent Status: Granted

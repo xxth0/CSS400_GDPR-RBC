@@ -1,0 +1,6 @@
+Customer ID: 7332
+Name: Janice Ramirez DDS
+National ID: 211-91-7943
+Bank: Holt-Scott Bank
+Account Number: 5140835111
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9721
+Name: Rebecca Winters
+National ID: 189-20-2946
+Bank: Landry, Richard and Pitts Bank
+Account Number: 9570165296
+Consent Status: Granted

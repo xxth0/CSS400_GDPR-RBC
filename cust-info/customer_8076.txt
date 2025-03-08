@@ -1,0 +1,6 @@
+Customer ID: 8076
+Name: Keith Smith
+National ID: 398-79-2483
+Bank: Lee PLC Bank
+Account Number: 8539300827
+Consent Status: Granted

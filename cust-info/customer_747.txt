@@ -1,0 +1,6 @@
+Customer ID: 747
+Name: Robin Roberts
+National ID: 521-10-5594
+Bank: Martin PLC Bank
+Account Number: 8235708362
+Consent Status: Revoked

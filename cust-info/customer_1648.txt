@@ -1,0 +1,6 @@
+Customer ID: 1648
+Name: Brandon Pierce
+National ID: 375-59-6472
+Bank: Brown Inc Bank
+Account Number: 7877365696
+Consent Status: Granted

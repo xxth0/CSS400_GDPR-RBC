@@ -1,0 +1,6 @@
+Customer ID: 4730
+Name: Brandon Mejia
+National ID: 391-82-5578
+Bank: Ritter, Allen and Sanchez Bank
+Account Number: 6963369729
+Consent Status: Granted

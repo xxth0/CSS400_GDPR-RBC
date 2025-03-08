@@ -1,0 +1,6 @@
+Customer ID: 3230
+Name: Sarah Rogers
+National ID: 583-62-2557
+Bank: Espinoza-Barton Bank
+Account Number: 1270236521
+Consent Status: Granted

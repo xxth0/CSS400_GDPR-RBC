@@ -1,0 +1,6 @@
+Customer ID: 902
+Name: Frank Tanner
+National ID: 319-78-3524
+Bank: Hammond and Sons Bank
+Account Number: 4044322099
+Consent Status: Revoked

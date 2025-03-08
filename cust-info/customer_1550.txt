@@ -1,0 +1,6 @@
+Customer ID: 1550
+Name: John Moore
+National ID: 591-66-2521
+Bank: Reed and Sons Bank
+Account Number: 7627478405
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1839
+Name: Nicole Gibson
+National ID: 041-62-7474
+Bank: Mitchell, Stone and Murray Bank
+Account Number: 7387039496
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9498
+Name: Andrew Hill
+National ID: 053-85-1649
+Bank: Kaiser, Martin and Barnes Bank
+Account Number: 9735576287
+Consent Status: Revoked

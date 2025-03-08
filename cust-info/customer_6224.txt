@@ -1,0 +1,6 @@
+Customer ID: 6224
+Name: Charles Black
+National ID: 067-67-3374
+Bank: Meyer, Davis and Rice Bank
+Account Number: 5687085945
+Consent Status: Granted

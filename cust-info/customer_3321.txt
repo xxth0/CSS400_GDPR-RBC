@@ -1,0 +1,6 @@
+Customer ID: 3321
+Name: Amy Pierce
+National ID: 180-13-8545
+Bank: Robinson-Thomas Bank
+Account Number: 3021651553
+Consent Status: Revoked

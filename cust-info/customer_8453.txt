@@ -1,0 +1,6 @@
+Customer ID: 8453
+Name: Trevor Baker
+National ID: 680-11-7025
+Bank: Lamb Group Bank
+Account Number: 3221792880
+Consent Status: Revoked

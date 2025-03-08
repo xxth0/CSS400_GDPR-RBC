@@ -1,0 +1,6 @@
+Customer ID: 8282
+Name: Leslie Lee
+National ID: 845-06-6164
+Bank: Burns, Powell and Flores Bank
+Account Number: 3812954993
+Consent Status: Revoked

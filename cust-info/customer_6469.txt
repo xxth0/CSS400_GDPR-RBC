@@ -1,0 +1,6 @@
+Customer ID: 6469
+Name: George Stephens
+National ID: 141-77-3629
+Bank: Martin, Hawkins and Hernandez Bank
+Account Number: 3993755106
+Consent Status: Revoked

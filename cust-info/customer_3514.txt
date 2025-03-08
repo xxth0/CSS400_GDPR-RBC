@@ -1,0 +1,6 @@
+Customer ID: 3514
+Name: Kristen Romero
+National ID: 818-36-9209
+Bank: Holden Group Bank
+Account Number: 8014275513
+Consent Status: Granted

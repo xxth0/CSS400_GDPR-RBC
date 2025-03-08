@@ -1,0 +1,6 @@
+Customer ID: 4807
+Name: Alex Jordan
+National ID: 493-62-7662
+Bank: Adkins-Henderson Bank
+Account Number: 9948251975
+Consent Status: Granted

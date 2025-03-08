@@ -1,0 +1,6 @@
+Customer ID: 111
+Name: Angelica Newman
+National ID: 784-17-5051
+Bank: Rodriguez, Ho and Bell Bank
+Account Number: 1315013901
+Consent Status: Granted

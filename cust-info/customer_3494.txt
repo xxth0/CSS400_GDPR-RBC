@@ -1,0 +1,6 @@
+Customer ID: 3494
+Name: Julie Castaneda
+National ID: 623-56-5522
+Bank: Brown Inc Bank
+Account Number: 7669771075
+Consent Status: Granted

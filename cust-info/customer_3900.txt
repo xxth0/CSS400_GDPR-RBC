@@ -1,0 +1,6 @@
+Customer ID: 3900
+Name: Tara Hurley
+National ID: 763-96-2377
+Bank: Carson LLC Bank
+Account Number: 9785044359
+Consent Status: Revoked

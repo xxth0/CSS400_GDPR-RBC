@@ -1,0 +1,6 @@
+Customer ID: 128
+Name: Thomas Hudson
+National ID: 133-39-6236
+Bank: Moore and Sons Bank
+Account Number: 9607786479
+Consent Status: Revoked

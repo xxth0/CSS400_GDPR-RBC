@@ -1,0 +1,6 @@
+Customer ID: 5114
+Name: Timothy Smith
+National ID: 383-46-3435
+Bank: Cummings, Becker and Tucker Bank
+Account Number: 8229011038
+Consent Status: Revoked

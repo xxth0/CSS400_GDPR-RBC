@@ -1,0 +1,6 @@
+Customer ID: 4746
+Name: Elizabeth Morgan
+National ID: 488-98-5032
+Bank: Ellis PLC Bank
+Account Number: 2619688374
+Consent Status: Revoked

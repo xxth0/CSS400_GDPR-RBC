@@ -1,0 +1,6 @@
+Customer ID: 7946
+Name: Mary Wheeler
+National ID: 535-52-7456
+Bank: Shaffer, Walker and Downs Bank
+Account Number: 6924863519
+Consent Status: Revoked

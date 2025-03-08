@@ -1,0 +1,6 @@
+Customer ID: 3662
+Name: Edward Fleming
+National ID: 147-89-8043
+Bank: Gilbert-Miller Bank
+Account Number: 2162377831
+Consent Status: Revoked

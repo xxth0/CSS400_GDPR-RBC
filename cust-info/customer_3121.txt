@@ -1,0 +1,6 @@
+Customer ID: 3121
+Name: Marie Johnson
+National ID: 860-10-3516
+Bank: Wilson, Dodson and Crawford Bank
+Account Number: 6853072445
+Consent Status: Granted

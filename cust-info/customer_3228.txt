@@ -1,0 +1,6 @@
+Customer ID: 3228
+Name: Stephanie Rodriguez
+National ID: 333-35-3768
+Bank: Riley, Hart and Key Bank
+Account Number: 9581249069
+Consent Status: Granted

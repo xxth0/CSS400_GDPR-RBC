@@ -1,0 +1,6 @@
+Customer ID: 7195
+Name: David Montoya
+National ID: 466-91-1840
+Bank: Walters-Gonzales Bank
+Account Number: 4635164866
+Consent Status: Revoked

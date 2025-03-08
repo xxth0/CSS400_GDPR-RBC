@@ -1,0 +1,6 @@
+Customer ID: 2711
+Name: Sherri Santana
+National ID: 331-99-9168
+Bank: Vasquez-Nguyen Bank
+Account Number: 2825337411
+Consent Status: Revoked

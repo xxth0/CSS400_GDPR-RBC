@@ -1,0 +1,6 @@
+Customer ID: 7118
+Name: Shannon Green
+National ID: 241-75-8324
+Bank: Mason-Snow Bank
+Account Number: 8664966160
+Consent Status: Granted

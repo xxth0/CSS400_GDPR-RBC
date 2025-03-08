@@ -1,0 +1,6 @@
+Customer ID: 2740
+Name: Lauren Diaz
+National ID: 420-86-8688
+Bank: Cantu-Henderson Bank
+Account Number: 7542261192
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7502
+Name: Shannon Tucker
+National ID: 733-23-4566
+Bank: Davis PLC Bank
+Account Number: 7612069173
+Consent Status: Granted

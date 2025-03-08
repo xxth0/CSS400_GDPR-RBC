@@ -1,0 +1,6 @@
+Customer ID: 1989
+Name: Christian Kaiser
+National ID: 894-04-8717
+Bank: Gill-Wu Bank
+Account Number: 8849527279
+Consent Status: Granted

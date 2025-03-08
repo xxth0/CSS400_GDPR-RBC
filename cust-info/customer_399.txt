@@ -1,0 +1,6 @@
+Customer ID: 399
+Name: Kristen Rivera
+National ID: 067-42-1608
+Bank: Avila and Sons Bank
+Account Number: 6222151275
+Consent Status: Granted

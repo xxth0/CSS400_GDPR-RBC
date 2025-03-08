@@ -1,0 +1,6 @@
+Customer ID: 6084
+Name: Dorothy Bradshaw
+National ID: 373-99-7306
+Bank: Taylor-Cunningham Bank
+Account Number: 3233894668
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1835
+Name: Catherine Koch
+National ID: 671-61-7614
+Bank: Irwin, Reyes and Smith Bank
+Account Number: 6819414607
+Consent Status: Revoked

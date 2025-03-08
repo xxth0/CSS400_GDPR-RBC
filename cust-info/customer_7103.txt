@@ -1,0 +1,6 @@
+Customer ID: 7103
+Name: Barbara Johnson
+National ID: 322-76-8888
+Bank: Kelly-Cox Bank
+Account Number: 8254484178
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7345
+Name: Aaron Miller
+National ID: 699-55-7846
+Bank: Blankenship Group Bank
+Account Number: 2824350782
+Consent Status: Granted

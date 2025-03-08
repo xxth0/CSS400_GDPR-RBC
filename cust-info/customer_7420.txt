@@ -1,0 +1,6 @@
+Customer ID: 7420
+Name: Tony Taylor
+National ID: 258-93-2157
+Bank: West-Jackson Bank
+Account Number: 1170614478
+Consent Status: Revoked

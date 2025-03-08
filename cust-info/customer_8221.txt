@@ -1,0 +1,6 @@
+Customer ID: 8221
+Name: David Howard
+National ID: 140-52-0741
+Bank: Allen Inc Bank
+Account Number: 6133511061
+Consent Status: Revoked

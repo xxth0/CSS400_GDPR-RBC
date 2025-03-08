@@ -1,0 +1,6 @@
+Customer ID: 4321
+Name: Emily Molina
+National ID: 513-63-7718
+Bank: Brown, Jones and Williams Bank
+Account Number: 4143194029
+Consent Status: Granted

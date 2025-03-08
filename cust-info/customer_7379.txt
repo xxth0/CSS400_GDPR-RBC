@@ -1,0 +1,6 @@
+Customer ID: 7379
+Name: Paula Johnson
+National ID: 112-27-6400
+Bank: Carpenter PLC Bank
+Account Number: 6955201691
+Consent Status: Revoked

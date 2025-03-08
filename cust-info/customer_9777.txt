@@ -1,0 +1,6 @@
+Customer ID: 9777
+Name: Johnathan Vasquez
+National ID: 013-78-3264
+Bank: Davis LLC Bank
+Account Number: 4800390361
+Consent Status: Revoked

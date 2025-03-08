@@ -1,0 +1,6 @@
+Customer ID: 2995
+Name: Kathleen Li
+National ID: 791-70-1490
+Bank: Vaughan, Rodriguez and Ayers Bank
+Account Number: 4311682228
+Consent Status: Revoked

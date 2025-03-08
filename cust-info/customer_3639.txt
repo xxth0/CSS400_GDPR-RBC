@@ -1,0 +1,6 @@
+Customer ID: 3639
+Name: David Nicholson
+National ID: 508-72-7650
+Bank: Martin Inc Bank
+Account Number: 8106732731
+Consent Status: Revoked

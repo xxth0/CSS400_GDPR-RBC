@@ -1,0 +1,6 @@
+Customer ID: 9126
+Name: Jennifer James
+National ID: 731-22-1932
+Bank: Brown and Sons Bank
+Account Number: 6060735271
+Consent Status: Granted

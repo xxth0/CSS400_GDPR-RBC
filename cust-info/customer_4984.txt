@@ -1,0 +1,6 @@
+Customer ID: 4984
+Name: Jeffery Sellers
+National ID: 871-52-7828
+Bank: Williams-Waters Bank
+Account Number: 3289011211
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7875
+Name: Gary Davis
+National ID: 890-16-6128
+Bank: Phelps Group Bank
+Account Number: 2302256509
+Consent Status: Granted

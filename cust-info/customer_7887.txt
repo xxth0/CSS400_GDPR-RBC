@@ -1,0 +1,6 @@
+Customer ID: 7887
+Name: Vincent West
+National ID: 047-12-5588
+Bank: Long Inc Bank
+Account Number: 8062766317
+Consent Status: Revoked

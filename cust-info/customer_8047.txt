@@ -1,0 +1,6 @@
+Customer ID: 8047
+Name: Jordan Frost
+National ID: 808-59-3499
+Bank: Miller, Richardson and Garcia Bank
+Account Number: 3163346501
+Consent Status: Granted

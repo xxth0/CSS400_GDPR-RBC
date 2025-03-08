@@ -1,0 +1,6 @@
+Customer ID: 8997
+Name: Edward Boyle
+National ID: 493-18-1932
+Bank: Williams-Alexander Bank
+Account Number: 7882871487
+Consent Status: Granted

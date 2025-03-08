@@ -1,0 +1,6 @@
+Customer ID: 860
+Name: Carol Goodman
+National ID: 059-16-3430
+Bank: Olson, Schwartz and Weber Bank
+Account Number: 4151318854
+Consent Status: Revoked

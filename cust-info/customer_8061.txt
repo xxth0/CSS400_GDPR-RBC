@@ -1,0 +1,6 @@
+Customer ID: 8061
+Name: Mrs. Pamela Beck
+National ID: 704-78-8025
+Bank: Romero-Saunders Bank
+Account Number: 7551687664
+Consent Status: Revoked

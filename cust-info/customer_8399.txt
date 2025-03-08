@@ -1,0 +1,6 @@
+Customer ID: 8399
+Name: Michael Herrera
+National ID: 532-95-0015
+Bank: Clark, Page and Pearson Bank
+Account Number: 6253896031
+Consent Status: Revoked

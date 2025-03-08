@@ -1,0 +1,6 @@
+Customer ID: 8673
+Name: Melissa Quinn
+National ID: 601-67-6939
+Bank: Banks, Williams and Barajas Bank
+Account Number: 2881792417
+Consent Status: Granted

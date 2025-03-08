@@ -1,0 +1,6 @@
+Customer ID: 8631
+Name: Edward Keith
+National ID: 457-74-4747
+Bank: Rose, Cole and Hester Bank
+Account Number: 6887861011
+Consent Status: Granted

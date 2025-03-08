@@ -1,0 +1,6 @@
+Customer ID: 3443
+Name: Benjamin Maddox
+National ID: 424-35-2197
+Bank: Larsen Inc Bank
+Account Number: 3285592461
+Consent Status: Granted

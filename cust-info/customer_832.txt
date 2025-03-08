@@ -1,0 +1,6 @@
+Customer ID: 832
+Name: Timothy Adams
+National ID: 062-57-4852
+Bank: Goodman-Caldwell Bank
+Account Number: 1761857234
+Consent Status: Revoked

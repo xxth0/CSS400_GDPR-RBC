@@ -1,0 +1,6 @@
+Customer ID: 6931
+Name: Troy Allen
+National ID: 815-55-4504
+Bank: White, Jennings and Hanson Bank
+Account Number: 8496008203
+Consent Status: Revoked

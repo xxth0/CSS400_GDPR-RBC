@@ -1,0 +1,6 @@
+Customer ID: 23
+Name: Anthony Barrera
+National ID: 684-19-2555
+Bank: Davidson Group Bank
+Account Number: 9076374701
+Consent Status: Granted

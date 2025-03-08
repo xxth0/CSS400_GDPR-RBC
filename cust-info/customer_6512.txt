@@ -1,0 +1,6 @@
+Customer ID: 6512
+Name: Thomas Fisher
+National ID: 788-60-0306
+Bank: Smith, Hall and Santana Bank
+Account Number: 3667739579
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4143
+Name: James Wyatt
+National ID: 747-22-9166
+Bank: Porter, Simpson and Fuentes Bank
+Account Number: 1898354329
+Consent Status: Revoked

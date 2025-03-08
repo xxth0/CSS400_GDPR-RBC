@@ -1,0 +1,6 @@
+Customer ID: 9421
+Name: Juan Browning MD
+National ID: 248-28-7086
+Bank: Chandler, Simon and Shah Bank
+Account Number: 5800987818
+Consent Status: Granted

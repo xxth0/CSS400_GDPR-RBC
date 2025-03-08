@@ -1,0 +1,6 @@
+Customer ID: 3478
+Name: Colleen Davis
+National ID: 671-86-4319
+Bank: Lambert PLC Bank
+Account Number: 7905387495
+Consent Status: Granted

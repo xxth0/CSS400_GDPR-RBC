@@ -1,0 +1,6 @@
+Customer ID: 8188
+Name: Anthony Lowe
+National ID: 285-94-1401
+Bank: May-Watson Bank
+Account Number: 8451439828
+Consent Status: Revoked

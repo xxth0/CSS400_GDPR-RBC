@@ -1,0 +1,6 @@
+Customer ID: 4915
+Name: Karen Dennis
+National ID: 889-48-5363
+Bank: Smith, Walker and Burgess Bank
+Account Number: 6048078396
+Consent Status: Revoked

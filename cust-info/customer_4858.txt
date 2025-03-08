@@ -1,0 +1,6 @@
+Customer ID: 4858
+Name: James Sellers
+National ID: 383-37-6648
+Bank: Douglas-Rodriguez Bank
+Account Number: 6548492447
+Consent Status: Revoked

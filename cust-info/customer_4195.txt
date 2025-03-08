@@ -1,0 +1,6 @@
+Customer ID: 4195
+Name: Kimberly Taylor
+National ID: 189-53-8693
+Bank: Vaughn-Mills Bank
+Account Number: 7219220004
+Consent Status: Revoked

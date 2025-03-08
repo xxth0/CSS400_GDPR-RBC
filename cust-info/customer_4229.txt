@@ -1,0 +1,6 @@
+Customer ID: 4229
+Name: Jason Murphy
+National ID: 450-76-2346
+Bank: Thompson, Watts and Boone Bank
+Account Number: 6720152206
+Consent Status: Revoked

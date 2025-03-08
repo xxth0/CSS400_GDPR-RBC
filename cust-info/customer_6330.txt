@@ -1,0 +1,6 @@
+Customer ID: 6330
+Name: Billy Yates
+National ID: 803-25-2436
+Bank: Watson PLC Bank
+Account Number: 4653728754
+Consent Status: Revoked

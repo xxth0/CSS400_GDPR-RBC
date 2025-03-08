@@ -1,0 +1,6 @@
+Customer ID: 1687
+Name: Dr. Brian Ramirez MD
+National ID: 162-55-2309
+Bank: Wade PLC Bank
+Account Number: 2379988985
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1971
+Name: Mary Jones
+National ID: 644-98-9992
+Bank: Williams-Miller Bank
+Account Number: 9734322641
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5446
+Name: Amber Jimenez
+National ID: 257-22-0019
+Bank: Moreno PLC Bank
+Account Number: 1007771338
+Consent Status: Revoked

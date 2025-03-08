@@ -1,0 +1,6 @@
+Customer ID: 7135
+Name: Rose Cannon
+National ID: 557-16-8874
+Bank: Hardin, Cruz and Farley Bank
+Account Number: 2435122139
+Consent Status: Granted

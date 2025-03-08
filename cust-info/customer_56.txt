@@ -1,0 +1,6 @@
+Customer ID: 56
+Name: Wanda Gates
+National ID: 642-17-9286
+Bank: Coleman PLC Bank
+Account Number: 8801613426
+Consent Status: Granted

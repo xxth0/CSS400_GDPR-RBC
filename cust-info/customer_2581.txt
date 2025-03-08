@@ -1,0 +1,6 @@
+Customer ID: 2581
+Name: David Smith
+National ID: 120-65-6000
+Bank: Finley-Sanders Bank
+Account Number: 3006510108
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8787
+Name: Jacqueline Best
+National ID: 647-69-6783
+Bank: Johnson-Decker Bank
+Account Number: 1230525857
+Consent Status: Revoked

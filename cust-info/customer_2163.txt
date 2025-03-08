@@ -1,0 +1,6 @@
+Customer ID: 2163
+Name: Marcus Avery
+National ID: 048-85-1325
+Bank: Hanson Inc Bank
+Account Number: 1803713754
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2545
+Name: John Chandler
+National ID: 495-14-5091
+Bank: Coleman Group Bank
+Account Number: 7744679753
+Consent Status: Granted

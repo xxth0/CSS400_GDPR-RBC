@@ -1,0 +1,6 @@
+Customer ID: 2049
+Name: Ryan Mendoza
+National ID: 229-36-7229
+Bank: Butler, Davis and Wright Bank
+Account Number: 9300854785
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7244
+Name: Christie Lopez
+National ID: 115-19-3739
+Bank: Jarvis and Sons Bank
+Account Number: 7221509837
+Consent Status: Revoked

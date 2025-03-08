@@ -1,0 +1,6 @@
+Customer ID: 8162
+Name: Michael Campbell
+National ID: 270-03-8414
+Bank: Smith, Choi and Anderson Bank
+Account Number: 7101377356
+Consent Status: Revoked

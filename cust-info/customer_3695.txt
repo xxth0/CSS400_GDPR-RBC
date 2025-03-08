@@ -1,0 +1,6 @@
+Customer ID: 3695
+Name: Stephanie Smith
+National ID: 887-41-5319
+Bank: Campbell-Williams Bank
+Account Number: 3208884748
+Consent Status: Revoked

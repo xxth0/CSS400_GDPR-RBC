@@ -1,0 +1,6 @@
+Customer ID: 4966
+Name: Ryan Gates
+National ID: 251-88-2972
+Bank: Davidson LLC Bank
+Account Number: 7290434515
+Consent Status: Granted

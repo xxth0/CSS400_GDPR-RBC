@@ -1,0 +1,6 @@
+Customer ID: 2869
+Name: Charles Peterson
+National ID: 522-41-2887
+Bank: Dudley Inc Bank
+Account Number: 6618543421
+Consent Status: Revoked

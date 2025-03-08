@@ -1,0 +1,6 @@
+Customer ID: 1707
+Name: Troy Taylor
+National ID: 680-68-5146
+Bank: Villegas and Sons Bank
+Account Number: 9335479667
+Consent Status: Granted

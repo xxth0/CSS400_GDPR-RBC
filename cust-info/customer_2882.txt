@@ -1,0 +1,6 @@
+Customer ID: 2882
+Name: Shannon Lawrence
+National ID: 367-64-0093
+Bank: Rivera, Anderson and Kennedy Bank
+Account Number: 6684826237
+Consent Status: Revoked

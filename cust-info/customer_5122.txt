@@ -1,0 +1,6 @@
+Customer ID: 5122
+Name: Lori Morgan
+National ID: 895-63-7985
+Bank: Carroll Inc Bank
+Account Number: 2824400869
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5257
+Name: Meagan Reynolds
+National ID: 685-25-3208
+Bank: Bennett LLC Bank
+Account Number: 3515581400
+Consent Status: Granted

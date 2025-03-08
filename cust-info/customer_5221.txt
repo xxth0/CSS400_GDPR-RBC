@@ -1,0 +1,6 @@
+Customer ID: 5221
+Name: Leroy Fuller
+National ID: 596-49-0968
+Bank: Smith-Clay Bank
+Account Number: 3927699893
+Consent Status: Granted

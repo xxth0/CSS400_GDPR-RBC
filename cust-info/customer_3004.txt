@@ -1,0 +1,6 @@
+Customer ID: 3004
+Name: James Jones
+National ID: 682-43-0212
+Bank: Boyd-Soto Bank
+Account Number: 7240736139
+Consent Status: Revoked

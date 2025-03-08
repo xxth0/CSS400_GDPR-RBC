@@ -1,0 +1,6 @@
+Customer ID: 8194
+Name: Selena Johnson
+National ID: 457-08-4577
+Bank: Roberts Group Bank
+Account Number: 6403341459
+Consent Status: Revoked

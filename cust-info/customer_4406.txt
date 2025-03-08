@@ -1,0 +1,6 @@
+Customer ID: 4406
+Name: Pamela Stewart
+National ID: 059-94-4140
+Bank: Cochran, Murphy and Peterson Bank
+Account Number: 8485375115
+Consent Status: Revoked

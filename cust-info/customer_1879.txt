@@ -1,0 +1,6 @@
+Customer ID: 1879
+Name: Elizabeth Garcia
+National ID: 319-52-7556
+Bank: Hernandez-Avila Bank
+Account Number: 1636788235
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7800
+Name: Robert Gibson
+National ID: 047-57-9438
+Bank: Sanders-Gray Bank
+Account Number: 5331502445
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9740
+Name: Carl Stevens
+National ID: 306-65-3279
+Bank: Martinez, Kerr and Rollins Bank
+Account Number: 5853625705
+Consent Status: Granted

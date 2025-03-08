@@ -1,0 +1,6 @@
+Customer ID: 3519
+Name: William Ayers
+National ID: 634-89-8057
+Bank: Thomas and Sons Bank
+Account Number: 8471481965
+Consent Status: Granted

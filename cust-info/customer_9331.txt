@@ -1,0 +1,6 @@
+Customer ID: 9331
+Name: Toni Allen
+National ID: 259-14-1061
+Bank: Clark PLC Bank
+Account Number: 3706794024
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5188
+Name: Robert Werner
+National ID: 367-35-4570
+Bank: Ryan-Norris Bank
+Account Number: 9206924527
+Consent Status: Granted

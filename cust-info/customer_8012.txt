@@ -1,0 +1,6 @@
+Customer ID: 8012
+Name: Anthony Thomas Jr.
+National ID: 477-42-7291
+Bank: Bentley-Guerra Bank
+Account Number: 5465054997
+Consent Status: Granted

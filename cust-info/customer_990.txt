@@ -1,0 +1,6 @@
+Customer ID: 990
+Name: William Wells
+National ID: 887-38-7470
+Bank: Carey, Luna and Walton Bank
+Account Number: 6426005080
+Consent Status: Granted

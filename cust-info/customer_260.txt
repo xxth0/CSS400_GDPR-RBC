@@ -1,0 +1,6 @@
+Customer ID: 260
+Name: William Johnson
+National ID: 306-35-1314
+Bank: Thomas Ltd Bank
+Account Number: 1757976936
+Consent Status: Granted

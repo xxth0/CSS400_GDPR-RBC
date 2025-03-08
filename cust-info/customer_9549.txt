@@ -1,0 +1,6 @@
+Customer ID: 9549
+Name: Brian Jenkins
+National ID: 019-60-7142
+Bank: York-Castro Bank
+Account Number: 6266616711
+Consent Status: Granted

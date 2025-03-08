@@ -1,0 +1,6 @@
+Customer ID: 5531
+Name: Veronica Rodriguez
+National ID: 208-42-5158
+Bank: Black LLC Bank
+Account Number: 5098096311
+Consent Status: Granted

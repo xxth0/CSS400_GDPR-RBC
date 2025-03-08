@@ -1,0 +1,6 @@
+Customer ID: 9001
+Name: Natasha Zimmerman
+National ID: 720-97-2518
+Bank: Randolph-Olson Bank
+Account Number: 3743453505
+Consent Status: Revoked

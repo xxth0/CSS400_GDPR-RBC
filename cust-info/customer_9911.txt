@@ -1,0 +1,6 @@
+Customer ID: 9911
+Name: Elizabeth Christensen
+National ID: 816-87-8229
+Bank: Vasquez, Galloway and Carlson Bank
+Account Number: 5787485275
+Consent Status: Granted

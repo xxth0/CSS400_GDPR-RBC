@@ -1,0 +1,6 @@
+Customer ID: 2228
+Name: Sean Hernandez
+National ID: 896-21-2208
+Bank: Harris PLC Bank
+Account Number: 7706130382
+Consent Status: Granted

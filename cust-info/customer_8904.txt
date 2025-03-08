@@ -1,0 +1,6 @@
+Customer ID: 8904
+Name: Sharon Lee
+National ID: 335-56-2046
+Bank: Mccoy LLC Bank
+Account Number: 9038560799
+Consent Status: Revoked

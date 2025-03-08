@@ -1,0 +1,6 @@
+Customer ID: 2244
+Name: Deborah Carr
+National ID: 035-06-2262
+Bank: Little-Juarez Bank
+Account Number: 4927323981
+Consent Status: Revoked

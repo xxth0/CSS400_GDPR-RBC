@@ -1,0 +1,6 @@
+Customer ID: 8093
+Name: Brandon Jones
+National ID: 737-12-7753
+Bank: Collins-Lindsey Bank
+Account Number: 4152700632
+Consent Status: Granted

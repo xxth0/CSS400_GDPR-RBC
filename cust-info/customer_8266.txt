@@ -1,0 +1,6 @@
+Customer ID: 8266
+Name: Joseph Stephenson
+National ID: 063-13-1916
+Bank: Haynes LLC Bank
+Account Number: 1315750095
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1740
+Name: Crystal Lopez
+National ID: 356-44-8495
+Bank: Jenkins, Martin and Jones Bank
+Account Number: 1203723756
+Consent Status: Revoked

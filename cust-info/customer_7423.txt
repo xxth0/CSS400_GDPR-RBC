@@ -1,0 +1,6 @@
+Customer ID: 7423
+Name: Nathan Brown
+National ID: 084-61-2878
+Bank: Avila, Lane and Lewis Bank
+Account Number: 9171582923
+Consent Status: Granted

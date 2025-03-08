@@ -1,0 +1,6 @@
+Customer ID: 6139
+Name: Evan Hernandez
+National ID: 392-12-6717
+Bank: Clayton, Leonard and Mullen Bank
+Account Number: 3981089403
+Consent Status: Revoked

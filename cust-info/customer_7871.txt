@@ -1,0 +1,6 @@
+Customer ID: 7871
+Name: Crystal Smith
+National ID: 822-43-4300
+Bank: Hahn-Curtis Bank
+Account Number: 6185836675
+Consent Status: Granted

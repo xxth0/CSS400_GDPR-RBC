@@ -1,0 +1,6 @@
+Customer ID: 6636
+Name: Daniel Reed
+National ID: 461-52-3520
+Bank: Costa, Salazar and Tate Bank
+Account Number: 2525663776
+Consent Status: Granted

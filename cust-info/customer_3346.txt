@@ -1,0 +1,6 @@
+Customer ID: 3346
+Name: Rachel Chambers
+National ID: 661-67-5960
+Bank: Price, Kennedy and Sutton Bank
+Account Number: 8346093939
+Consent Status: Revoked

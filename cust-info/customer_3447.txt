@@ -1,0 +1,6 @@
+Customer ID: 3447
+Name: Robin Wright
+National ID: 617-18-3042
+Bank: Trujillo-Cunningham Bank
+Account Number: 8601505412
+Consent Status: Granted

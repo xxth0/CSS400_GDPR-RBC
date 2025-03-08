@@ -1,0 +1,6 @@
+Customer ID: 8691
+Name: Stephen Weber
+National ID: 206-47-6701
+Bank: Shields, Horton and Ward Bank
+Account Number: 7790245813
+Consent Status: Granted

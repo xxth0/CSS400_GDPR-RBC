@@ -1,0 +1,6 @@
+Customer ID: 3344
+Name: Sean Nelson
+National ID: 705-03-1071
+Bank: Pierce Inc Bank
+Account Number: 1445753813
+Consent Status: Granted

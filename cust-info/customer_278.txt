@@ -1,0 +1,6 @@
+Customer ID: 278
+Name: Shelia Anderson
+National ID: 262-60-3511
+Bank: Vargas, Rhodes and Reynolds Bank
+Account Number: 5072682359
+Consent Status: Revoked

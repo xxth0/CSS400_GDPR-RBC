@@ -1,0 +1,6 @@
+Customer ID: 7186
+Name: Eric Johnson
+National ID: 696-09-6239
+Bank: Mcmillan Inc Bank
+Account Number: 9325045981
+Consent Status: Revoked

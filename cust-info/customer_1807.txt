@@ -1,0 +1,6 @@
+Customer ID: 1807
+Name: Wanda Palmer
+National ID: 499-97-4105
+Bank: Bell and Sons Bank
+Account Number: 4985861540
+Consent Status: Granted

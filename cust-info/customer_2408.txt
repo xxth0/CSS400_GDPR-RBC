@@ -1,0 +1,6 @@
+Customer ID: 2408
+Name: Teresa Maldonado
+National ID: 866-51-0182
+Bank: Merritt Inc Bank
+Account Number: 7516353492
+Consent Status: Granted

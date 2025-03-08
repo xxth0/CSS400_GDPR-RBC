@@ -1,0 +1,6 @@
+Customer ID: 248
+Name: Kenneth Robbins
+National ID: 106-97-2296
+Bank: Harper, Avila and Jimenez Bank
+Account Number: 6010483775
+Consent Status: Granted

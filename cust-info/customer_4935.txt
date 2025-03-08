@@ -1,0 +1,6 @@
+Customer ID: 4935
+Name: Alicia Davis
+National ID: 325-56-1097
+Bank: Nelson Inc Bank
+Account Number: 6679073804
+Consent Status: Revoked

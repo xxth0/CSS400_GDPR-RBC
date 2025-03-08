@@ -1,0 +1,6 @@
+Customer ID: 5871
+Name: Adam Mcdonald
+National ID: 516-05-7176
+Bank: Walsh-Smith Bank
+Account Number: 9763417084
+Consent Status: Revoked

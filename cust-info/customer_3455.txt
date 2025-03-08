@@ -1,0 +1,6 @@
+Customer ID: 3455
+Name: Sarah Allen
+National ID: 393-07-0251
+Bank: Short and Sons Bank
+Account Number: 9454457491
+Consent Status: Revoked

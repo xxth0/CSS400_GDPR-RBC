@@ -1,0 +1,6 @@
+Customer ID: 9916
+Name: Jon Hines
+National ID: 016-47-1026
+Bank: Peterson, Martinez and Reed Bank
+Account Number: 2156697880
+Consent Status: Granted

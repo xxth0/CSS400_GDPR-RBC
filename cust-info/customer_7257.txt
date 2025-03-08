@@ -1,0 +1,6 @@
+Customer ID: 7257
+Name: Scott Patterson
+National ID: 433-39-6096
+Bank: Rhodes-Jackson Bank
+Account Number: 1580372543
+Consent Status: Revoked

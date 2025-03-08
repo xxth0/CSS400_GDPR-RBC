@@ -1,0 +1,6 @@
+Customer ID: 3595
+Name: Laura Fitzgerald
+National ID: 018-46-1187
+Bank: Carney Group Bank
+Account Number: 8408443285
+Consent Status: Granted

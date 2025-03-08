@@ -1,0 +1,6 @@
+Customer ID: 9049
+Name: Christina Hamilton
+National ID: 852-44-6045
+Bank: Haas-Horn Bank
+Account Number: 8166536340
+Consent Status: Granted

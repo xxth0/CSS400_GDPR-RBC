@@ -1,0 +1,6 @@
+Customer ID: 8776
+Name: Benjamin Massey
+National ID: 288-38-3354
+Bank: Reeves, Stark and Hubbard Bank
+Account Number: 8207059912
+Consent Status: Granted

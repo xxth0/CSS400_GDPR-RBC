@@ -1,0 +1,6 @@
+Customer ID: 7198
+Name: Rita Matthews
+National ID: 606-85-2223
+Bank: Rush, Vega and Leach Bank
+Account Number: 3217255604
+Consent Status: Granted

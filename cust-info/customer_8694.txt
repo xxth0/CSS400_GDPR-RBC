@@ -1,0 +1,6 @@
+Customer ID: 8694
+Name: Ryan Edwards
+National ID: 055-40-9553
+Bank: Patterson Group Bank
+Account Number: 5997646577
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5920
+Name: Edwin Young
+National ID: 892-75-1033
+Bank: Rivera, Smith and Krueger Bank
+Account Number: 1405197498
+Consent Status: Granted

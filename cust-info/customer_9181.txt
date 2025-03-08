@@ -1,0 +1,6 @@
+Customer ID: 9181
+Name: Debra Wise
+National ID: 510-95-1805
+Bank: Brooks-Brown Bank
+Account Number: 9311507762
+Consent Status: Granted

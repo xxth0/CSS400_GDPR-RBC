@@ -1,0 +1,6 @@
+Customer ID: 1331
+Name: Jason Camacho
+National ID: 317-12-4475
+Bank: Bowers PLC Bank
+Account Number: 7281663549
+Consent Status: Granted

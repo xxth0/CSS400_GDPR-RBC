@@ -1,0 +1,6 @@
+Customer ID: 8608
+Name: Victoria Brock
+National ID: 487-36-3195
+Bank: Bishop Inc Bank
+Account Number: 6560686106
+Consent Status: Revoked

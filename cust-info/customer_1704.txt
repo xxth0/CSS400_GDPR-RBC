@@ -1,0 +1,6 @@
+Customer ID: 1704
+Name: Thomas Lewis
+National ID: 070-05-9476
+Bank: Newton, Wiggins and Fisher Bank
+Account Number: 1522994690
+Consent Status: Granted

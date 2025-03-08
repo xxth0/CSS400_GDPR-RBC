@@ -1,0 +1,6 @@
+Customer ID: 2273
+Name: Catherine Walker
+National ID: 712-71-0434
+Bank: Ferguson-Huang Bank
+Account Number: 1697617115
+Consent Status: Revoked

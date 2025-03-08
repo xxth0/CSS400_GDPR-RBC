@@ -1,0 +1,6 @@
+Customer ID: 4068
+Name: Lisa Barker
+National ID: 037-22-5483
+Bank: Summers-Jimenez Bank
+Account Number: 5842778487
+Consent Status: Revoked

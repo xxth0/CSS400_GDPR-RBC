@@ -1,0 +1,6 @@
+Customer ID: 4954
+Name: Teresa Gomez
+National ID: 162-15-5314
+Bank: Nelson, Burton and Jones Bank
+Account Number: 5029943301
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6299
+Name: Kimberly Black
+National ID: 667-86-4099
+Bank: Morton-Nguyen Bank
+Account Number: 6979014387
+Consent Status: Revoked

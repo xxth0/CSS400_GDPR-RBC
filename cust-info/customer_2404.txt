@@ -1,0 +1,6 @@
+Customer ID: 2404
+Name: Antonio Kennedy
+National ID: 781-90-8945
+Bank: Murphy PLC Bank
+Account Number: 5840098477
+Consent Status: Granted

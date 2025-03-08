@@ -1,0 +1,6 @@
+Customer ID: 68
+Name: Daniel Vazquez
+National ID: 264-98-8832
+Bank: Kerr PLC Bank
+Account Number: 6908107703
+Consent Status: Granted

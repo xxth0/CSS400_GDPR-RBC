@@ -1,0 +1,6 @@
+Customer ID: 1246
+Name: Michael Flowers
+National ID: 247-27-9036
+Bank: Anderson Group Bank
+Account Number: 7125162909
+Consent Status: Revoked

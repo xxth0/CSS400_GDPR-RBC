@@ -1,0 +1,6 @@
+Customer ID: 4176
+Name: Matthew Rose
+National ID: 761-63-0648
+Bank: Sanders-Hensley Bank
+Account Number: 7507752884
+Consent Status: Granted

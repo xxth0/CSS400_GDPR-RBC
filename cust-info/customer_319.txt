@@ -1,0 +1,6 @@
+Customer ID: 319
+Name: Courtney Smith
+National ID: 351-75-6085
+Bank: Keith-Smith Bank
+Account Number: 8917089582
+Consent Status: Revoked

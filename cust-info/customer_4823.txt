@@ -1,0 +1,6 @@
+Customer ID: 4823
+Name: Chad Meyer
+National ID: 306-54-3365
+Bank: Aguirre, Watts and Clay Bank
+Account Number: 6394814140
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9988
+Name: Darren Barnes
+National ID: 596-40-6579
+Bank: Carrillo-Small Bank
+Account Number: 4479672258
+Consent Status: Revoked

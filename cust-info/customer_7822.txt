@@ -1,0 +1,6 @@
+Customer ID: 7822
+Name: Angel Jenkins
+National ID: 354-64-5633
+Bank: Norman, West and Wilson Bank
+Account Number: 5944054556
+Consent Status: Granted

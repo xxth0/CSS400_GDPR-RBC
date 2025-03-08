@@ -1,0 +1,6 @@
+Customer ID: 502
+Name: Helen Short
+National ID: 076-37-5514
+Bank: Palmer, Ho and Taylor Bank
+Account Number: 4484365349
+Consent Status: Revoked

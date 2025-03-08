@@ -1,0 +1,6 @@
+Customer ID: 4712
+Name: Danielle Lewis
+National ID: 820-94-4275
+Bank: Klein, Robinson and Newman Bank
+Account Number: 1248964477
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6915
+Name: Jason Cooper
+National ID: 431-77-5703
+Bank: Rodriguez-Francis Bank
+Account Number: 7501114227
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9699
+Name: Nicole Lucero
+National ID: 806-64-2021
+Bank: Parrish-Meyer Bank
+Account Number: 3654282505
+Consent Status: Revoked

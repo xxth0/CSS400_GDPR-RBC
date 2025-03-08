@@ -1,0 +1,6 @@
+Customer ID: 1430
+Name: Oscar Harrington
+National ID: 282-05-6513
+Bank: Banks-Peters Bank
+Account Number: 3100694091
+Consent Status: Revoked

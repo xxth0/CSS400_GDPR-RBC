@@ -1,0 +1,6 @@
+Customer ID: 5712
+Name: Dominique Harris
+National ID: 604-33-1338
+Bank: Holt, Taylor and Lynch Bank
+Account Number: 9528175096
+Consent Status: Granted

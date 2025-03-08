@@ -1,0 +1,6 @@
+Customer ID: 4215
+Name: Abigail Patrick
+National ID: 648-89-8715
+Bank: Quinn-Hill Bank
+Account Number: 1016974134
+Consent Status: Granted

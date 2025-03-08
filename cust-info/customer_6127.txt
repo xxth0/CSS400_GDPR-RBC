@@ -1,0 +1,6 @@
+Customer ID: 6127
+Name: Reginald Sanchez
+National ID: 469-36-9749
+Bank: Newman-Jackson Bank
+Account Number: 6216224644
+Consent Status: Revoked

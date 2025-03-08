@@ -1,0 +1,6 @@
+Customer ID: 7724
+Name: John Miller
+National ID: 006-73-6243
+Bank: Vargas, Andrade and Davis Bank
+Account Number: 9181869281
+Consent Status: Revoked

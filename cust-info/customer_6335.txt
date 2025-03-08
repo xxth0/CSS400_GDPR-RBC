@@ -1,0 +1,6 @@
+Customer ID: 6335
+Name: Derek Glass
+National ID: 447-83-9092
+Bank: Gonzalez, Gibson and Garcia Bank
+Account Number: 3466763478
+Consent Status: Granted

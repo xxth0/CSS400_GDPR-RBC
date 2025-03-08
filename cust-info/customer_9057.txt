@@ -1,0 +1,6 @@
+Customer ID: 9057
+Name: Mary Hamilton
+National ID: 746-63-7269
+Bank: Barnett PLC Bank
+Account Number: 6527610685
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9160
+Name: Michelle Adams
+National ID: 133-23-5128
+Bank: Wilkinson, Owen and Berger Bank
+Account Number: 7781317090
+Consent Status: Granted

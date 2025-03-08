@@ -1,0 +1,6 @@
+Customer ID: 7411
+Name: Leroy White
+National ID: 025-70-6149
+Bank: Miller LLC Bank
+Account Number: 1885162563
+Consent Status: Revoked

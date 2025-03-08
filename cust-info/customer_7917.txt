@@ -1,0 +1,6 @@
+Customer ID: 7917
+Name: Kristen Farley
+National ID: 772-96-0319
+Bank: Olson, Long and Mercer Bank
+Account Number: 9522608047
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3387
+Name: Tyler Hart
+National ID: 056-12-8734
+Bank: Spencer-Moore Bank
+Account Number: 3451859425
+Consent Status: Revoked

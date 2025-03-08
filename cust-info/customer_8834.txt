@@ -1,0 +1,6 @@
+Customer ID: 8834
+Name: Sean Faulkner
+National ID: 427-11-2402
+Bank: Brady-Greer Bank
+Account Number: 7158611236
+Consent Status: Revoked

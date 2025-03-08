@@ -1,0 +1,6 @@
+Customer ID: 5824
+Name: Kevin Johnson
+National ID: 564-71-5656
+Bank: Brown, Jimenez and Howard Bank
+Account Number: 4759021317
+Consent Status: Revoked

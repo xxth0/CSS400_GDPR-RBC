@@ -1,0 +1,6 @@
+Customer ID: 3801
+Name: Cory Thompson
+National ID: 526-10-3122
+Bank: Berg, Briggs and Williams Bank
+Account Number: 3667495355
+Consent Status: Revoked

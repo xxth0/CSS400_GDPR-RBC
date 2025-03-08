@@ -1,0 +1,6 @@
+Customer ID: 8905
+Name: James Vasquez
+National ID: 045-08-8952
+Bank: Hardy and Sons Bank
+Account Number: 2155121069
+Consent Status: Revoked

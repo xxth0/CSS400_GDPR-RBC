@@ -1,0 +1,6 @@
+Customer ID: 9494
+Name: Joseph Stone
+National ID: 655-45-0540
+Bank: Cruz Ltd Bank
+Account Number: 3320414808
+Consent Status: Revoked

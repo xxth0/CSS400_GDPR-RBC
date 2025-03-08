@@ -1,0 +1,6 @@
+Customer ID: 9493
+Name: Joshua Perry
+National ID: 525-59-9591
+Bank: Haley-Mason Bank
+Account Number: 6529664317
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3646
+Name: Karen Atkinson
+National ID: 527-47-6259
+Bank: Foster and Sons Bank
+Account Number: 3509446770
+Consent Status: Granted

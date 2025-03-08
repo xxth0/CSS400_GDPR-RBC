@@ -1,0 +1,6 @@
+Customer ID: 7882
+Name: Kathryn Ellison
+National ID: 207-68-2605
+Bank: Williams, Smith and Johnson Bank
+Account Number: 1439893292
+Consent Status: Revoked

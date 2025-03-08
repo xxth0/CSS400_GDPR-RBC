@@ -1,0 +1,6 @@
+Customer ID: 283
+Name: Jeffery Vazquez
+National ID: 349-11-3422
+Bank: Navarro, Harris and Humphrey Bank
+Account Number: 8571883919
+Consent Status: Revoked

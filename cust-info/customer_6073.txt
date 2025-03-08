@@ -1,0 +1,6 @@
+Customer ID: 6073
+Name: Joseph Gomez
+National ID: 482-34-6114
+Bank: Horton, Jones and Swanson Bank
+Account Number: 1840295076
+Consent Status: Revoked

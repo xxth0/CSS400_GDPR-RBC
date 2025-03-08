@@ -1,0 +1,6 @@
+Customer ID: 1415
+Name: Mike Hartman
+National ID: 132-82-0176
+Bank: Franklin-Miller Bank
+Account Number: 1903557705
+Consent Status: Granted

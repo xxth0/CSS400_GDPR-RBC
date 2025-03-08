@@ -1,0 +1,6 @@
+Customer ID: 7924
+Name: Richard Bailey
+National ID: 625-48-2749
+Bank: Wells-Anderson Bank
+Account Number: 9802121311
+Consent Status: Revoked

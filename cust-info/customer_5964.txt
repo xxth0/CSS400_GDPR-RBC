@@ -1,0 +1,6 @@
+Customer ID: 5964
+Name: Antonio Scott
+National ID: 365-73-8251
+Bank: Blake Ltd Bank
+Account Number: 5990715118
+Consent Status: Revoked

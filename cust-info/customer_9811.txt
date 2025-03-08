@@ -1,0 +1,6 @@
+Customer ID: 9811
+Name: Melissa Petersen
+National ID: 236-18-2557
+Bank: Garza, Good and Mitchell Bank
+Account Number: 1761974460
+Consent Status: Revoked

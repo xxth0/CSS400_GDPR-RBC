@@ -1,0 +1,6 @@
+Customer ID: 8242
+Name: Julian Ali
+National ID: 140-97-3894
+Bank: Pierce-Johnson Bank
+Account Number: 3297228488
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5323
+Name: James Price
+National ID: 896-15-5235
+Bank: Morales-Moreno Bank
+Account Number: 6340060736
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3143
+Name: Toni Clements
+National ID: 213-73-3573
+Bank: Hogan, Olson and Reynolds Bank
+Account Number: 5914615109
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6268
+Name: Justin Ayala
+National ID: 395-34-2608
+Bank: Villarreal Ltd Bank
+Account Number: 4569406101
+Consent Status: Granted

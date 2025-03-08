@@ -1,0 +1,6 @@
+Customer ID: 6624
+Name: Gregory Welch
+National ID: 035-77-7106
+Bank: Henderson and Sons Bank
+Account Number: 4825463859
+Consent Status: Granted

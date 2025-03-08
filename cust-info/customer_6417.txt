@@ -1,0 +1,6 @@
+Customer ID: 6417
+Name: Russell Lynch
+National ID: 371-79-2928
+Bank: Brewer-Moreno Bank
+Account Number: 8711744216
+Consent Status: Revoked

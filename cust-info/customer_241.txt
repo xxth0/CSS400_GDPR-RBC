@@ -1,0 +1,6 @@
+Customer ID: 241
+Name: Veronica Diaz
+National ID: 776-92-4155
+Bank: Haley and Sons Bank
+Account Number: 1880698705
+Consent Status: Granted

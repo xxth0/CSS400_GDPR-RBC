@@ -1,0 +1,6 @@
+Customer ID: 2524
+Name: Kathy Rogers
+National ID: 028-71-3834
+Bank: Campbell-Johnson Bank
+Account Number: 1619917732
+Consent Status: Granted

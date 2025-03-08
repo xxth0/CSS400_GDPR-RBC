@@ -1,0 +1,6 @@
+Customer ID: 5611
+Name: Craig Rasmussen
+National ID: 623-85-4521
+Bank: Johnson Ltd Bank
+Account Number: 7440270061
+Consent Status: Revoked

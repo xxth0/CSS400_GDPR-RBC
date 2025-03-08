@@ -1,0 +1,6 @@
+Customer ID: 9749
+Name: Michael Clark
+National ID: 019-89-7127
+Bank: Delgado, Ochoa and Robertson Bank
+Account Number: 1947321910
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9271
+Name: Holly Parker
+National ID: 512-67-6657
+Bank: Knight LLC Bank
+Account Number: 8851467710
+Consent Status: Revoked

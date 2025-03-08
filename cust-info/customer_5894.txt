@@ -1,0 +1,6 @@
+Customer ID: 5894
+Name: Tyrone Cross
+National ID: 080-75-5150
+Bank: Henry, Cameron and Lee Bank
+Account Number: 5770953226
+Consent Status: Revoked

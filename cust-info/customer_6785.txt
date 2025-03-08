@@ -1,0 +1,6 @@
+Customer ID: 6785
+Name: Mark Freeman
+National ID: 603-02-1416
+Bank: Clark, Medina and Hansen Bank
+Account Number: 2535159459
+Consent Status: Granted

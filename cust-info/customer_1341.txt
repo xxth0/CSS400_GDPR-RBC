@@ -1,0 +1,6 @@
+Customer ID: 1341
+Name: Sally Fischer
+National ID: 672-50-6068
+Bank: Watson-Walters Bank
+Account Number: 3632807926
+Consent Status: Revoked

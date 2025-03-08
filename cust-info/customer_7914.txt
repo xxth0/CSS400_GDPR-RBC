@@ -1,0 +1,6 @@
+Customer ID: 7914
+Name: Christopher Ramirez
+National ID: 747-55-8889
+Bank: Jenkins Inc Bank
+Account Number: 9281895068
+Consent Status: Revoked

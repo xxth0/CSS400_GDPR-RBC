@@ -1,0 +1,6 @@
+Customer ID: 1673
+Name: Shane Poole
+National ID: 239-89-3782
+Bank: Lloyd-Smith Bank
+Account Number: 8224979181
+Consent Status: Granted

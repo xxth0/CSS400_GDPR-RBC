@@ -1,0 +1,6 @@
+Customer ID: 6760
+Name: Nathan Thompson
+National ID: 864-32-7469
+Bank: Clark, Simon and Harrison Bank
+Account Number: 4619721361
+Consent Status: Granted

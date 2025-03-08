@@ -1,0 +1,6 @@
+Customer ID: 4703
+Name: Daniel Joseph
+National ID: 825-46-3582
+Bank: Sanders, Irwin and Johnson Bank
+Account Number: 4645148690
+Consent Status: Granted

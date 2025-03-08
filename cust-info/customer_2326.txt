@@ -1,0 +1,6 @@
+Customer ID: 2326
+Name: Jeffrey Coleman
+National ID: 393-31-2923
+Bank: Howard, Ayala and Arnold Bank
+Account Number: 1143337164
+Consent Status: Revoked

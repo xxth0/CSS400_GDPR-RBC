@@ -1,0 +1,6 @@
+Customer ID: 7816
+Name: Bradley Leonard
+National ID: 839-11-4183
+Bank: Bush, Johnson and Collier Bank
+Account Number: 6500075467
+Consent Status: Revoked

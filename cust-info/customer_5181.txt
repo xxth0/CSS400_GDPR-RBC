@@ -1,0 +1,6 @@
+Customer ID: 5181
+Name: Frank Tucker
+National ID: 847-59-7279
+Bank: Jones-Green Bank
+Account Number: 9647233743
+Consent Status: Granted

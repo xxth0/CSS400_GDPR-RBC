@@ -1,0 +1,6 @@
+Customer ID: 778
+Name: Randy Eaton
+National ID: 530-31-5902
+Bank: Thompson-Chambers Bank
+Account Number: 7459313336
+Consent Status: Revoked

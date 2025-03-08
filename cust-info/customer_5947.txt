@@ -1,0 +1,6 @@
+Customer ID: 5947
+Name: Misty Conway
+National ID: 463-70-6945
+Bank: Martin, Mendoza and Martin Bank
+Account Number: 9892766886
+Consent Status: Revoked

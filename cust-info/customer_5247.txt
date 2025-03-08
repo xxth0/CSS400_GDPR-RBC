@@ -1,0 +1,6 @@
+Customer ID: 5247
+Name: Valerie Mendez
+National ID: 881-43-9509
+Bank: Marshall-Carter Bank
+Account Number: 8401909706
+Consent Status: Revoked

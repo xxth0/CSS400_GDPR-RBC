@@ -1,0 +1,6 @@
+Customer ID: 7969
+Name: Chase Potts
+National ID: 764-36-8116
+Bank: Alvarado, Carr and Hawkins Bank
+Account Number: 5928723893
+Consent Status: Granted

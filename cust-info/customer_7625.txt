@@ -1,0 +1,6 @@
+Customer ID: 7625
+Name: Scott Cook
+National ID: 485-48-9226
+Bank: Valentine PLC Bank
+Account Number: 6885260477
+Consent Status: Granted

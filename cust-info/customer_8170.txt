@@ -1,0 +1,6 @@
+Customer ID: 8170
+Name: William Hernandez
+National ID: 709-94-3411
+Bank: Perez Inc Bank
+Account Number: 8146701969
+Consent Status: Granted

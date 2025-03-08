@@ -1,0 +1,6 @@
+Customer ID: 2884
+Name: Michael Steele
+National ID: 790-71-4600
+Bank: Joyce Ltd Bank
+Account Number: 9510702118
+Consent Status: Revoked

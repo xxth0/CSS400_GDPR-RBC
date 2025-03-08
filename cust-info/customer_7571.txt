@@ -1,0 +1,6 @@
+Customer ID: 7571
+Name: Edwin Parker
+National ID: 229-41-8379
+Bank: Hernandez Ltd Bank
+Account Number: 8460277416
+Consent Status: Revoked

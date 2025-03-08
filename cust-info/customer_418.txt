@@ -1,0 +1,6 @@
+Customer ID: 418
+Name: Michael Peterson
+National ID: 270-78-9282
+Bank: Lawson LLC Bank
+Account Number: 2536037991
+Consent Status: Granted

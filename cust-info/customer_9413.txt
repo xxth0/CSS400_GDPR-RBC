@@ -1,0 +1,6 @@
+Customer ID: 9413
+Name: James Campbell
+National ID: 616-55-6284
+Bank: Rodgers Group Bank
+Account Number: 9098316362
+Consent Status: Granted

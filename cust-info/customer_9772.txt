@@ -1,0 +1,6 @@
+Customer ID: 9772
+Name: Joseph Castillo
+National ID: 389-61-7167
+Bank: Smith, Rodriguez and Tanner Bank
+Account Number: 8679580597
+Consent Status: Granted

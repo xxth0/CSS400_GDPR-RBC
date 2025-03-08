@@ -1,0 +1,6 @@
+Customer ID: 6422
+Name: John Webster
+National ID: 232-28-0166
+Bank: Lamb and Sons Bank
+Account Number: 3746075320
+Consent Status: Granted

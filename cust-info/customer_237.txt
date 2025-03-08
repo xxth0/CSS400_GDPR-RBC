@@ -1,0 +1,6 @@
+Customer ID: 237
+Name: Kyle Beck
+National ID: 328-86-9167
+Bank: Beck, Cummings and Martin Bank
+Account Number: 1698833165
+Consent Status: Granted

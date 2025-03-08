@@ -1,0 +1,6 @@
+Customer ID: 5577
+Name: Natalie Martinez
+National ID: 893-11-7689
+Bank: Watson-Scott Bank
+Account Number: 4976410191
+Consent Status: Revoked

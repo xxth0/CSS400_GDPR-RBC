@@ -1,0 +1,6 @@
+Customer ID: 3210
+Name: Travis Hernandez
+National ID: 208-66-8822
+Bank: Curtis-Brewer Bank
+Account Number: 2424168679
+Consent Status: Revoked

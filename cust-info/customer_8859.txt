@@ -1,0 +1,6 @@
+Customer ID: 8859
+Name: Natasha Harper
+National ID: 492-94-3609
+Bank: Miller and Sons Bank
+Account Number: 1749138701
+Consent Status: Granted

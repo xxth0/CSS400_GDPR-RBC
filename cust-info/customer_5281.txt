@@ -1,0 +1,6 @@
+Customer ID: 5281
+Name: Randy Davis
+National ID: 347-92-1994
+Bank: Arnold, Logan and Fernandez Bank
+Account Number: 1785055819
+Consent Status: Granted

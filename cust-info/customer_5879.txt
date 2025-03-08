@@ -1,0 +1,6 @@
+Customer ID: 5879
+Name: John Larson
+National ID: 816-58-6915
+Bank: Garcia Group Bank
+Account Number: 4120318563
+Consent Status: Granted

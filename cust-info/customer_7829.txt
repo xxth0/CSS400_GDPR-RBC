@@ -1,0 +1,6 @@
+Customer ID: 7829
+Name: Theresa Randolph
+National ID: 032-02-6598
+Bank: Turner-Griffin Bank
+Account Number: 8551138762
+Consent Status: Granted

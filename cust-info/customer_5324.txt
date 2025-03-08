@@ -1,0 +1,6 @@
+Customer ID: 5324
+Name: George Gomez
+National ID: 641-06-8989
+Bank: Moss, Booth and Sanders Bank
+Account Number: 7070331821
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4243
+Name: Adam Davis
+National ID: 776-87-7209
+Bank: Bates LLC Bank
+Account Number: 1999968408
+Consent Status: Revoked

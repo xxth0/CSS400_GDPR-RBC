@@ -1,0 +1,6 @@
+Customer ID: 2683
+Name: Mason Brown
+National ID: 702-03-8667
+Bank: Hall LLC Bank
+Account Number: 2391737663
+Consent Status: Granted

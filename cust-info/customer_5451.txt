@@ -1,0 +1,6 @@
+Customer ID: 5451
+Name: Lisa Klein
+National ID: 848-63-6235
+Bank: Reid, Maldonado and Cunningham Bank
+Account Number: 6892784765
+Consent Status: Revoked

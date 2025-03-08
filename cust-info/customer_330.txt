@@ -1,0 +1,6 @@
+Customer ID: 330
+Name: Benjamin Allen
+National ID: 715-42-2035
+Bank: Stevens, Jones and Peters Bank
+Account Number: 9586905479
+Consent Status: Granted

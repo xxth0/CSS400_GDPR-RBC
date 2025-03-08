@@ -1,0 +1,6 @@
+Customer ID: 6827
+Name: Janice Smith
+National ID: 519-59-1751
+Bank: Wright-Orozco Bank
+Account Number: 8290631862
+Consent Status: Granted

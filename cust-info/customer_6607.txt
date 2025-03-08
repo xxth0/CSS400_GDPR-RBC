@@ -1,0 +1,6 @@
+Customer ID: 6607
+Name: Peter Wright
+National ID: 171-30-9731
+Bank: Robinson, Martinez and Lin Bank
+Account Number: 3636586734
+Consent Status: Revoked

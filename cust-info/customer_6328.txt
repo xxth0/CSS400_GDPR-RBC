@@ -1,0 +1,6 @@
+Customer ID: 6328
+Name: Stacy Johnson
+National ID: 230-46-3389
+Bank: Hendrix-Calhoun Bank
+Account Number: 9627104057
+Consent Status: Revoked

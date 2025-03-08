@@ -1,0 +1,6 @@
+Customer ID: 638
+Name: Eric Johnson
+National ID: 805-73-0975
+Bank: Jackson-Elliott Bank
+Account Number: 7782963025
+Consent Status: Revoked

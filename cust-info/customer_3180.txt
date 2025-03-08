@@ -1,0 +1,6 @@
+Customer ID: 3180
+Name: Katherine Ferrell
+National ID: 893-06-5945
+Bank: Jimenez, Fuller and Kim Bank
+Account Number: 2439295744
+Consent Status: Granted

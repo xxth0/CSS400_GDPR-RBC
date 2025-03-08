@@ -1,0 +1,6 @@
+Customer ID: 1751
+Name: Linda Malone
+National ID: 357-37-0217
+Bank: Harris, Peck and Padilla Bank
+Account Number: 8142455362
+Consent Status: Revoked

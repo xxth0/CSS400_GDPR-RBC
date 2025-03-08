@@ -1,0 +1,6 @@
+Customer ID: 5606
+Name: Warren Montgomery
+National ID: 872-61-2280
+Bank: Myers and Sons Bank
+Account Number: 1435145563
+Consent Status: Granted

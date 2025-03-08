@@ -1,0 +1,6 @@
+Customer ID: 1871
+Name: Theresa Flores PhD
+National ID: 277-14-1938
+Bank: Price and Sons Bank
+Account Number: 6407766604
+Consent Status: Revoked

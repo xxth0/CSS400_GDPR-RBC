@@ -1,0 +1,6 @@
+Customer ID: 9082
+Name: Dawn Ferguson
+National ID: 779-27-4254
+Bank: Valenzuela and Sons Bank
+Account Number: 1708677165
+Consent Status: Granted

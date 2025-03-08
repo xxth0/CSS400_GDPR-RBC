@@ -1,0 +1,6 @@
+Customer ID: 353
+Name: Toni Little
+National ID: 457-33-7683
+Bank: Bowman-Crawford Bank
+Account Number: 9825773622
+Consent Status: Granted

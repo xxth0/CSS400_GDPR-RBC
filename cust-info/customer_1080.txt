@@ -1,0 +1,6 @@
+Customer ID: 1080
+Name: Anthony Cochran
+National ID: 756-45-7685
+Bank: Fox, Anderson and Cruz Bank
+Account Number: 8991175264
+Consent Status: Revoked

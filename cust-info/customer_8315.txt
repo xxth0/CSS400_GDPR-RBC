@@ -1,0 +1,6 @@
+Customer ID: 8315
+Name: Anthony Warren
+National ID: 853-24-7328
+Bank: Juarez Inc Bank
+Account Number: 2350687765
+Consent Status: Granted

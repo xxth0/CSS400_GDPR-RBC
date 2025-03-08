@@ -1,0 +1,6 @@
+Customer ID: 8692
+Name: Kevin Chapman
+National ID: 781-20-5927
+Bank: Smith-Nguyen Bank
+Account Number: 3988791170
+Consent Status: Granted

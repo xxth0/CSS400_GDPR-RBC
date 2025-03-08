@@ -1,0 +1,6 @@
+Customer ID: 4672
+Name: Mary Watkins
+National ID: 456-42-6726
+Bank: Lawrence-Dean Bank
+Account Number: 2634997326
+Consent Status: Revoked

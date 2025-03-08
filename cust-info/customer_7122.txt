@@ -1,0 +1,6 @@
+Customer ID: 7122
+Name: Sharon Higgins
+National ID: 233-03-4592
+Bank: Herrera, Knight and Rivera Bank
+Account Number: 7138901474
+Consent Status: Granted

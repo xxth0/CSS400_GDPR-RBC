@@ -1,0 +1,6 @@
+Customer ID: 834
+Name: Amber Gordon
+National ID: 449-02-4454
+Bank: Alexander Group Bank
+Account Number: 6035982559
+Consent Status: Revoked

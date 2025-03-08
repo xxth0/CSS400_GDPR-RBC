@@ -1,0 +1,6 @@
+Customer ID: 5839
+Name: Leonard Gardner
+National ID: 168-59-3216
+Bank: Johnson, Bean and Frank Bank
+Account Number: 7074261607
+Consent Status: Granted

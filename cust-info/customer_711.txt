@@ -1,0 +1,6 @@
+Customer ID: 711
+Name: Belinda Camacho
+National ID: 332-92-2687
+Bank: Smith-Caldwell Bank
+Account Number: 8948122334
+Consent Status: Granted

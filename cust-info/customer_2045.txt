@@ -1,0 +1,6 @@
+Customer ID: 2045
+Name: Jason Thornton
+National ID: 308-25-8481
+Bank: Williams Ltd Bank
+Account Number: 9611634985
+Consent Status: Revoked

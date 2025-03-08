@@ -1,0 +1,6 @@
+Customer ID: 9577
+Name: Teresa Cruz
+National ID: 357-87-3425
+Bank: Lambert, Carter and Johnson Bank
+Account Number: 4235571537
+Consent Status: Granted

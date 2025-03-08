@@ -1,0 +1,6 @@
+Customer ID: 5153
+Name: Krystal Thompson
+National ID: 763-93-5190
+Bank: Flores-Norris Bank
+Account Number: 4716597781
+Consent Status: Revoked

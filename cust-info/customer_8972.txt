@@ -1,0 +1,6 @@
+Customer ID: 8972
+Name: Erica Jones
+National ID: 238-47-3229
+Bank: Arellano PLC Bank
+Account Number: 3174670741
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3162
+Name: Patricia Richards
+National ID: 551-74-2917
+Bank: Weber Inc Bank
+Account Number: 8431950563
+Consent Status: Revoked

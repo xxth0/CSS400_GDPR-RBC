@@ -1,0 +1,6 @@
+Customer ID: 7105
+Name: Thomas Thomas
+National ID: 624-68-9547
+Bank: Glover, Lawrence and Howard Bank
+Account Number: 6757628195
+Consent Status: Granted

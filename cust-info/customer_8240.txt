@@ -1,0 +1,6 @@
+Customer ID: 8240
+Name: Robert Austin
+National ID: 450-25-3833
+Bank: Payne-Chang Bank
+Account Number: 4734840205
+Consent Status: Granted

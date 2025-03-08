@@ -1,0 +1,6 @@
+Customer ID: 7703
+Name: Denise Ellis
+National ID: 560-76-7195
+Bank: Chase, Crosby and Miller Bank
+Account Number: 4443415702
+Consent Status: Granted

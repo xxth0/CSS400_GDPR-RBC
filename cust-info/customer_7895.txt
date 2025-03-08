@@ -1,0 +1,6 @@
+Customer ID: 7895
+Name: William Hudson
+National ID: 823-73-8940
+Bank: Wilson-Underwood Bank
+Account Number: 4915099105
+Consent Status: Granted

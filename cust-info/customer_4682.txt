@@ -1,0 +1,6 @@
+Customer ID: 4682
+Name: Brandon King
+National ID: 034-04-7347
+Bank: Carey PLC Bank
+Account Number: 9490931306
+Consent Status: Granted

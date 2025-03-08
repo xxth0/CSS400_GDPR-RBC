@@ -1,0 +1,6 @@
+Customer ID: 5994
+Name: Sean Weaver
+National ID: 601-56-3796
+Bank: Williams, Clark and Brady Bank
+Account Number: 4112578212
+Consent Status: Revoked

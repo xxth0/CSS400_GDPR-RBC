@@ -1,0 +1,6 @@
+Customer ID: 2259
+Name: Martin Ellis
+National ID: 660-08-7062
+Bank: Rogers, Murphy and Price Bank
+Account Number: 2756346712
+Consent Status: Granted

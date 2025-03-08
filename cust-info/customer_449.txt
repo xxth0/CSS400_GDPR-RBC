@@ -1,0 +1,6 @@
+Customer ID: 449
+Name: Jennifer Nelson
+National ID: 212-06-3218
+Bank: Patel, Stone and Strickland Bank
+Account Number: 2888220043
+Consent Status: Revoked

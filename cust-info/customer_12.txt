@@ -1,0 +1,6 @@
+Customer ID: 12
+Name: Christina Harris
+National ID: 068-44-9854
+Bank: Conrad-Jones Bank
+Account Number: 8258446079
+Consent Status: Granted

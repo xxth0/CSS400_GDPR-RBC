@@ -1,0 +1,6 @@
+Customer ID: 6019
+Name: Sarah West
+National ID: 282-96-7450
+Bank: Fisher and Sons Bank
+Account Number: 5752510155
+Consent Status: Revoked

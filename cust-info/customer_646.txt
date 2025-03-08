@@ -1,0 +1,6 @@
+Customer ID: 646
+Name: Patricia White
+National ID: 362-51-5521
+Bank: Drake LLC Bank
+Account Number: 8855837715
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3781
+Name: Molly Brown
+National ID: 073-87-6757
+Bank: Hayes Group Bank
+Account Number: 5513279201
+Consent Status: Granted

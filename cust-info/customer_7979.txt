@@ -1,0 +1,6 @@
+Customer ID: 7979
+Name: Brittany Delacruz
+National ID: 338-25-2503
+Bank: Rosario PLC Bank
+Account Number: 9421733759
+Consent Status: Revoked

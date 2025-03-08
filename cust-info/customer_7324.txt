@@ -1,0 +1,6 @@
+Customer ID: 7324
+Name: Jennifer Harris
+National ID: 898-74-0002
+Bank: Wilson Ltd Bank
+Account Number: 2009317285
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8557
+Name: Dr. Mike Smith
+National ID: 616-97-8793
+Bank: Robinson, Greene and Pope Bank
+Account Number: 4601145484
+Consent Status: Granted

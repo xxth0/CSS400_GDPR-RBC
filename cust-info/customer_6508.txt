@@ -1,0 +1,6 @@
+Customer ID: 6508
+Name: Brittany Hernandez
+National ID: 426-29-9639
+Bank: Arnold, Lynch and Smith Bank
+Account Number: 4355002527
+Consent Status: Granted

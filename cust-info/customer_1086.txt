@@ -1,0 +1,6 @@
+Customer ID: 1086
+Name: Tyler Armstrong
+National ID: 833-35-7720
+Bank: Powell-Nash Bank
+Account Number: 9307260867
+Consent Status: Revoked

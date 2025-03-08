@@ -1,0 +1,6 @@
+Customer ID: 7526
+Name: Jamie Garrett
+National ID: 281-40-9192
+Bank: Ferguson, Velasquez and Buckley Bank
+Account Number: 5467028339
+Consent Status: Granted

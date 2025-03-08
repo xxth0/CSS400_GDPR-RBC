@@ -1,0 +1,6 @@
+Customer ID: 5123
+Name: Michelle Davis
+National ID: 627-20-3344
+Bank: Rich PLC Bank
+Account Number: 8058261914
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3339
+Name: Deborah Patton
+National ID: 408-24-3099
+Bank: Duke, Wilson and Nelson Bank
+Account Number: 2006188899
+Consent Status: Granted

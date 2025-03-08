@@ -1,0 +1,6 @@
+Customer ID: 8737
+Name: Kathryn Rodriguez
+National ID: 782-16-3178
+Bank: Lewis-Robertson Bank
+Account Number: 5361954601
+Consent Status: Revoked

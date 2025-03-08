@@ -1,0 +1,6 @@
+Customer ID: 2238
+Name: Kiara Leonard
+National ID: 147-51-7745
+Bank: Butler and Sons Bank
+Account Number: 8949575815
+Consent Status: Revoked

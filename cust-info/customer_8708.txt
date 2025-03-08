@@ -1,0 +1,6 @@
+Customer ID: 8708
+Name: Jennifer Singh
+National ID: 414-64-0987
+Bank: Coleman-Hopkins Bank
+Account Number: 9981761289
+Consent Status: Granted

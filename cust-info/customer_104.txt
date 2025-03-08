@@ -1,0 +1,6 @@
+Customer ID: 104
+Name: Penny Moore
+National ID: 541-36-1721
+Bank: Glass Ltd Bank
+Account Number: 7565907210
+Consent Status: Revoked

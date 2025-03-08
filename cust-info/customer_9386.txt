@@ -1,0 +1,6 @@
+Customer ID: 9386
+Name: Jerry Phillips
+National ID: 805-31-1597
+Bank: Church, Walker and Payne Bank
+Account Number: 5271758270
+Consent Status: Granted

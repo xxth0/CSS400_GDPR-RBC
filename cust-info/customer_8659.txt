@@ -1,0 +1,6 @@
+Customer ID: 8659
+Name: Tasha Sullivan
+National ID: 246-90-0570
+Bank: Cole-Baker Bank
+Account Number: 1580649741
+Consent Status: Revoked

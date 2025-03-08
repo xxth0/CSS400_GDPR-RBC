@@ -1,0 +1,6 @@
+Customer ID: 5555
+Name: Brittany Guerra
+National ID: 079-12-3328
+Bank: Andrade-Escobar Bank
+Account Number: 1699534946
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5048
+Name: Kathleen Miller
+National ID: 664-50-3254
+Bank: Hall PLC Bank
+Account Number: 4890134570
+Consent Status: Granted

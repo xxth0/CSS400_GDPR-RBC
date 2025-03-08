@@ -1,0 +1,6 @@
+Customer ID: 7262
+Name: Elizabeth Lin
+National ID: 624-30-1495
+Bank: Nash-Robinson Bank
+Account Number: 8284803458
+Consent Status: Granted

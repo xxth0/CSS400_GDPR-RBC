@@ -1,0 +1,6 @@
+Customer ID: 9981
+Name: John Murray
+National ID: 847-80-6294
+Bank: Green LLC Bank
+Account Number: 2398769691
+Consent Status: Granted

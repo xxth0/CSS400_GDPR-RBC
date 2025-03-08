@@ -1,0 +1,6 @@
+Customer ID: 1884
+Name: Travis Macias
+National ID: 672-96-2735
+Bank: Bird LLC Bank
+Account Number: 1969831403
+Consent Status: Revoked

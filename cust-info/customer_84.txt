@@ -1,0 +1,6 @@
+Customer ID: 84
+Name: Scott Mccoy
+National ID: 251-94-5039
+Bank: Lucas-Sullivan Bank
+Account Number: 7881680200
+Consent Status: Revoked

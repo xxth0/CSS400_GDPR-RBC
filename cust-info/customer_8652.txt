@@ -1,0 +1,6 @@
+Customer ID: 8652
+Name: Autumn Schaefer
+National ID: 178-72-4462
+Bank: Martinez-Holmes Bank
+Account Number: 3881455906
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 160
+Name: Christopher Bates
+National ID: 712-29-5538
+Bank: Brennan-Chapman Bank
+Account Number: 9487207742
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5457
+Name: Yolanda Nelson
+National ID: 219-54-1627
+Bank: Price, Arnold and Miller Bank
+Account Number: 1356055386
+Consent Status: Granted

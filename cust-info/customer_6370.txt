@@ -1,0 +1,6 @@
+Customer ID: 6370
+Name: Christopher Monroe
+National ID: 052-32-7718
+Bank: Castaneda, Nelson and Miller Bank
+Account Number: 5391139518
+Consent Status: Revoked

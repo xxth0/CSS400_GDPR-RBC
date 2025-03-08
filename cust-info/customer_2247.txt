@@ -1,0 +1,6 @@
+Customer ID: 2247
+Name: John Copeland
+National ID: 165-49-4365
+Bank: Gonzalez, Whitaker and Patton Bank
+Account Number: 2654360694
+Consent Status: Granted

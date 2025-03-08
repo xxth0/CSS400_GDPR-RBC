@@ -1,0 +1,6 @@
+Customer ID: 5362
+Name: Tiffany Thompson
+National ID: 024-32-9464
+Bank: Smith LLC Bank
+Account Number: 3035874070
+Consent Status: Revoked

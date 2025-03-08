@@ -1,0 +1,6 @@
+Customer ID: 3635
+Name: Brandon Ibarra
+National ID: 528-01-7964
+Bank: Armstrong PLC Bank
+Account Number: 2015013061
+Consent Status: Revoked

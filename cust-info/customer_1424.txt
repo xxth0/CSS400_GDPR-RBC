@@ -1,0 +1,6 @@
+Customer ID: 1424
+Name: Tina Robertson
+National ID: 787-95-6203
+Bank: Lee, Robinson and Henderson Bank
+Account Number: 6760097673
+Consent Status: Granted

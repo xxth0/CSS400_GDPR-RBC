@@ -1,0 +1,6 @@
+Customer ID: 4918
+Name: David Vega
+National ID: 884-45-2468
+Bank: Johnson Group Bank
+Account Number: 4128457983
+Consent Status: Revoked

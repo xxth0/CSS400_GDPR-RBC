@@ -1,0 +1,6 @@
+Customer ID: 7344
+Name: Samantha Garcia
+National ID: 227-95-3447
+Bank: Mays-Meyer Bank
+Account Number: 8316280254
+Consent Status: Revoked

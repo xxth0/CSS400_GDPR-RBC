@@ -1,0 +1,6 @@
+Customer ID: 1321
+Name: Angela Williams
+National ID: 761-87-9680
+Bank: Carlson, Brown and Perez Bank
+Account Number: 1084260290
+Consent Status: Revoked

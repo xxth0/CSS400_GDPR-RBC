@@ -1,0 +1,6 @@
+Customer ID: 5538
+Name: Colleen Young
+National ID: 415-26-7459
+Bank: Benson, Harris and Andrews Bank
+Account Number: 3261014328
+Consent Status: Revoked

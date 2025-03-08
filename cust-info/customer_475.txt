@@ -1,0 +1,6 @@
+Customer ID: 475
+Name: Kelly Frazier
+National ID: 746-65-2887
+Bank: Rodgers, Davis and Perez Bank
+Account Number: 8077768484
+Consent Status: Granted

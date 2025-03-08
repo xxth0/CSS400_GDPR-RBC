@@ -1,0 +1,6 @@
+Customer ID: 6292
+Name: Jason Banks
+National ID: 826-68-1380
+Bank: Lee, Love and Gates Bank
+Account Number: 3248210830
+Consent Status: Granted

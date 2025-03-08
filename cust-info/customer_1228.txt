@@ -1,0 +1,6 @@
+Customer ID: 1228
+Name: Diane Sandoval
+National ID: 757-75-9183
+Bank: Johnson-Adams Bank
+Account Number: 9504423566
+Consent Status: Revoked

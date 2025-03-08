@@ -1,0 +1,6 @@
+Customer ID: 6039
+Name: Troy Chavez
+National ID: 538-73-7244
+Bank: Gonzalez Ltd Bank
+Account Number: 5214789114
+Consent Status: Revoked

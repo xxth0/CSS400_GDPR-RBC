@@ -1,0 +1,6 @@
+Customer ID: 1993
+Name: Stephanie Thomas
+National ID: 288-91-4114
+Bank: Mahoney Group Bank
+Account Number: 9575871752
+Consent Status: Revoked

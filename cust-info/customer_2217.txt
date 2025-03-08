@@ -1,0 +1,6 @@
+Customer ID: 2217
+Name: John Woodward
+National ID: 875-48-0846
+Bank: Clements, Gutierrez and Miller Bank
+Account Number: 4664592675
+Consent Status: Revoked

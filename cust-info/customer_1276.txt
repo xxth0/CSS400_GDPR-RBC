@@ -1,0 +1,6 @@
+Customer ID: 1276
+Name: Nicholas Ramos
+National ID: 018-12-7445
+Bank: Shaw, Pierce and Baker Bank
+Account Number: 4730964236
+Consent Status: Granted

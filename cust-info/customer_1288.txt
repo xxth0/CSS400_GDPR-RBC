@@ -1,0 +1,6 @@
+Customer ID: 1288
+Name: Thomas Davila
+National ID: 296-19-6074
+Bank: Parker and Sons Bank
+Account Number: 7143630296
+Consent Status: Granted

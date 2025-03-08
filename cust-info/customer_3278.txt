@@ -1,0 +1,6 @@
+Customer ID: 3278
+Name: Christina Fisher
+National ID: 818-22-8353
+Bank: Hogan PLC Bank
+Account Number: 8447069933
+Consent Status: Granted

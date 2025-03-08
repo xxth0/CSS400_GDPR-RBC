@@ -1,0 +1,6 @@
+Customer ID: 2295
+Name: Jeremy Garcia
+National ID: 173-45-4602
+Bank: Brown Group Bank
+Account Number: 4624370798
+Consent Status: Revoked

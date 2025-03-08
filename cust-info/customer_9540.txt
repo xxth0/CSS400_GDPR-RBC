@@ -1,0 +1,6 @@
+Customer ID: 9540
+Name: Aaron Ramirez
+National ID: 628-79-5882
+Bank: Rogers, Hull and Rodriguez Bank
+Account Number: 4561264413
+Consent Status: Granted

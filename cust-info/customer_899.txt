@@ -1,0 +1,6 @@
+Customer ID: 899
+Name: Patrick Chandler
+National ID: 842-34-4271
+Bank: Brown-Douglas Bank
+Account Number: 4179838184
+Consent Status: Granted

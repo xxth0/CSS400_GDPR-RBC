@@ -1,0 +1,6 @@
+Customer ID: 4203
+Name: Amber Wyatt
+National ID: 579-39-6912
+Bank: Cobb-Atkinson Bank
+Account Number: 9166597598
+Consent Status: Revoked

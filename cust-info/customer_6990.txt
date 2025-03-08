@@ -1,0 +1,6 @@
+Customer ID: 6990
+Name: Anna Ortega
+National ID: 877-39-9596
+Bank: Sampson, Zhang and Cummings Bank
+Account Number: 2712968915
+Consent Status: Granted

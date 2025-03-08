@@ -1,0 +1,6 @@
+Customer ID: 9502
+Name: Christine Harrison
+National ID: 374-50-9569
+Bank: Hall Inc Bank
+Account Number: 8560152544
+Consent Status: Revoked

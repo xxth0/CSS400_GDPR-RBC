@@ -1,0 +1,6 @@
+Customer ID: 9646
+Name: Kyle Adams
+National ID: 277-75-1014
+Bank: Martinez-Lyons Bank
+Account Number: 8773030621
+Consent Status: Granted

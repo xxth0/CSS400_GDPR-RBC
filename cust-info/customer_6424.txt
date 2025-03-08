@@ -1,0 +1,6 @@
+Customer ID: 6424
+Name: David Snow
+National ID: 126-56-7493
+Bank: Wise-Reid Bank
+Account Number: 8962817615
+Consent Status: Granted

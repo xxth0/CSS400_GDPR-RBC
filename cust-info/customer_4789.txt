@@ -1,0 +1,6 @@
+Customer ID: 4789
+Name: Richard Carter
+National ID: 875-51-5849
+Bank: Stevenson-Rogers Bank
+Account Number: 5881589648
+Consent Status: Granted

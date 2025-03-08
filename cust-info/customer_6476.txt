@@ -1,0 +1,6 @@
+Customer ID: 6476
+Name: Joseph Stanley
+National ID: 818-45-4552
+Bank: Hall, Miller and Weber Bank
+Account Number: 5552248325
+Consent Status: Revoked

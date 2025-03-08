@@ -1,0 +1,6 @@
+Customer ID: 6859
+Name: Amber Caldwell
+National ID: 066-22-4031
+Bank: Stanley-Miller Bank
+Account Number: 2811707567
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7496
+Name: Jennifer Johnson
+National ID: 231-38-0294
+Bank: Bradley, Garcia and Hopkins Bank
+Account Number: 4196782249
+Consent Status: Revoked

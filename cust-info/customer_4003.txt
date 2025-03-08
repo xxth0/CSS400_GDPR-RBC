@@ -1,0 +1,6 @@
+Customer ID: 4003
+Name: Amanda Barnes
+National ID: 869-35-8757
+Bank: Jordan and Sons Bank
+Account Number: 5616525959
+Consent Status: Revoked

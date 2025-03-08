@@ -1,0 +1,6 @@
+Customer ID: 1436
+Name: April Mckinney
+National ID: 571-09-9571
+Bank: Meyers-Thomas Bank
+Account Number: 8479997621
+Consent Status: Granted

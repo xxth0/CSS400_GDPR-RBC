@@ -1,0 +1,6 @@
+Customer ID: 774
+Name: Daniel Jones
+National ID: 695-37-9458
+Bank: Cooke, Gardner and Holden Bank
+Account Number: 9124187993
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6359
+Name: Andrea Taylor
+National ID: 744-40-7311
+Bank: Gonzalez and Sons Bank
+Account Number: 4203899471
+Consent Status: Granted

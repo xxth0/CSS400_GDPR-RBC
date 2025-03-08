@@ -1,0 +1,6 @@
+Customer ID: 3529
+Name: Carl Wilson
+National ID: 816-50-3339
+Bank: Walter, Mendez and Barrett Bank
+Account Number: 3084819144
+Consent Status: Revoked

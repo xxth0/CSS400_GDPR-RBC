@@ -1,0 +1,6 @@
+Customer ID: 9
+Name: Ryan Munoz
+National ID: 283-42-0672
+Bank: Mcdonald-Henderson Bank
+Account Number: 9024421766
+Consent Status: Granted

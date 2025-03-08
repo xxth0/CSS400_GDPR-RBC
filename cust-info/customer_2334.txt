@@ -1,0 +1,6 @@
+Customer ID: 2334
+Name: Teresa Montes
+National ID: 533-26-8605
+Bank: Sullivan and Sons Bank
+Account Number: 4844572684
+Consent Status: Granted

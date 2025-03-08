@@ -1,0 +1,6 @@
+Customer ID: 3518
+Name: Brett Harrell
+National ID: 785-39-3155
+Bank: Smith Group Bank
+Account Number: 8099395360
+Consent Status: Revoked

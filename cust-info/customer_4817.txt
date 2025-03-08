@@ -1,0 +1,6 @@
+Customer ID: 4817
+Name: Jesse Rhodes
+National ID: 395-46-8385
+Bank: Bowman, Williams and Rios Bank
+Account Number: 2029108870
+Consent Status: Revoked

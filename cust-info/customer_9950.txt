@@ -1,0 +1,6 @@
+Customer ID: 9950
+Name: Craig Wilson
+National ID: 105-32-1410
+Bank: Huynh-Payne Bank
+Account Number: 7052537686
+Consent Status: Revoked

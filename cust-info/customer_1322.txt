@@ -1,0 +1,6 @@
+Customer ID: 1322
+Name: Sarah Hunter
+National ID: 174-30-2594
+Bank: Henderson, Cole and Williams Bank
+Account Number: 4480995594
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9529
+Name: Jessica Patrick
+National ID: 879-42-8282
+Bank: Mcgee LLC Bank
+Account Number: 2436554210
+Consent Status: Granted

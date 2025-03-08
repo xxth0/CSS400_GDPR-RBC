@@ -1,0 +1,6 @@
+Customer ID: 2670
+Name: Todd Baker
+National ID: 187-01-0147
+Bank: Wood, Brooks and Atkinson Bank
+Account Number: 5146876272
+Consent Status: Revoked

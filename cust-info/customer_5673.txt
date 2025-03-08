@@ -1,0 +1,6 @@
+Customer ID: 5673
+Name: Amanda Ramirez
+National ID: 818-33-6166
+Bank: King-Porter Bank
+Account Number: 8398488456
+Consent Status: Revoked

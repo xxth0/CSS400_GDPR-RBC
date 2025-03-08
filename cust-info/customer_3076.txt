@@ -1,0 +1,6 @@
+Customer ID: 3076
+Name: Virginia Jenkins
+National ID: 115-88-5106
+Bank: Perkins PLC Bank
+Account Number: 5590886813
+Consent Status: Revoked

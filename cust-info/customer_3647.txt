@@ -1,0 +1,6 @@
+Customer ID: 3647
+Name: Rick Sanchez
+National ID: 697-07-8133
+Bank: Santos, Mitchell and Mathis Bank
+Account Number: 7625848630
+Consent Status: Granted

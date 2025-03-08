@@ -1,0 +1,6 @@
+Customer ID: 3309
+Name: Julia Cox
+National ID: 757-19-8417
+Bank: Becker, Johnson and Richmond Bank
+Account Number: 5187957703
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5251
+Name: Brent Hill
+National ID: 108-59-8169
+Bank: Anderson, Mcbride and Day Bank
+Account Number: 6892193778
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9412
+Name: Kimberly Hill
+National ID: 246-23-1743
+Bank: Stewart PLC Bank
+Account Number: 7361302850
+Consent Status: Revoked

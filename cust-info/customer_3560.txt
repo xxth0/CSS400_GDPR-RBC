@@ -1,0 +1,6 @@
+Customer ID: 3560
+Name: Jacob Ryan
+National ID: 130-12-4460
+Bank: Wilson-Hunter Bank
+Account Number: 4239528529
+Consent Status: Granted

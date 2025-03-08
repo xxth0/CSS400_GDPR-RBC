@@ -1,0 +1,6 @@
+Customer ID: 1170
+Name: Shawna Townsend
+National ID: 759-28-8713
+Bank: Powell-Meyers Bank
+Account Number: 9336703422
+Consent Status: Revoked

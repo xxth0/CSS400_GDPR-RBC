@@ -1,0 +1,6 @@
+Customer ID: 6281
+Name: David Bailey
+National ID: 714-12-9017
+Bank: Perez-Smith Bank
+Account Number: 8851454638
+Consent Status: Granted

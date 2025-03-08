@@ -1,0 +1,6 @@
+Customer ID: 2819
+Name: Tammy Smith
+National ID: 651-69-3543
+Bank: Nolan Group Bank
+Account Number: 6822368033
+Consent Status: Granted

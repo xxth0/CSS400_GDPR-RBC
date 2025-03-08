@@ -1,0 +1,6 @@
+Customer ID: 8099
+Name: Chelsea Murphy
+National ID: 003-41-3775
+Bank: Sanchez Group Bank
+Account Number: 2997715074
+Consent Status: Revoked

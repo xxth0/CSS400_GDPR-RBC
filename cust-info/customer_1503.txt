@@ -1,0 +1,6 @@
+Customer ID: 1503
+Name: Karen Andrews
+National ID: 799-53-6595
+Bank: Sanchez-Price Bank
+Account Number: 4119270004
+Consent Status: Granted

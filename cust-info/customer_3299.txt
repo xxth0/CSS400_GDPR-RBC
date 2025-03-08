@@ -1,0 +1,6 @@
+Customer ID: 3299
+Name: Lindsey Cox
+National ID: 047-54-1800
+Bank: Turner-Vang Bank
+Account Number: 3735232177
+Consent Status: Granted

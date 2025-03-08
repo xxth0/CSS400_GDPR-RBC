@@ -1,0 +1,6 @@
+Customer ID: 2925
+Name: Darin Dillon V
+National ID: 378-53-4187
+Bank: White-Robbins Bank
+Account Number: 6548809049
+Consent Status: Revoked

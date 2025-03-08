@@ -1,0 +1,6 @@
+Customer ID: 57
+Name: Chad Grant
+National ID: 811-86-1349
+Bank: Mathews-Joseph Bank
+Account Number: 5867754390
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2190
+Name: Tammy Nelson
+National ID: 656-08-3550
+Bank: Donaldson LLC Bank
+Account Number: 3184007827
+Consent Status: Granted

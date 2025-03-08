@@ -1,0 +1,6 @@
+Customer ID: 9234
+Name: Brian Williams
+National ID: 285-61-7333
+Bank: King Ltd Bank
+Account Number: 3844927203
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1857
+Name: Sherri Griffin MD
+National ID: 308-07-7390
+Bank: Bell, Cox and Joseph Bank
+Account Number: 5813446679
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4727
+Name: Paul Walker
+National ID: 364-69-5832
+Bank: Willis, Reid and Young Bank
+Account Number: 8626576667
+Consent Status: Granted

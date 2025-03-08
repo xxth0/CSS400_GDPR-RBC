@@ -1,0 +1,6 @@
+Customer ID: 8009
+Name: Maria Powell
+National ID: 573-02-0129
+Bank: Ortega, Gomez and Rich Bank
+Account Number: 9396753548
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 120
+Name: Brittany Mcdowell
+National ID: 198-90-2768
+Bank: Huang-Henry Bank
+Account Number: 8931924099
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4608
+Name: John Austin
+National ID: 223-60-3511
+Bank: Pruitt, Adkins and Harris Bank
+Account Number: 4646286189
+Consent Status: Granted

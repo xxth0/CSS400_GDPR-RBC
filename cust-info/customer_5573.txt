@@ -1,0 +1,6 @@
+Customer ID: 5573
+Name: Joseph Stevenson
+National ID: 508-41-8988
+Bank: Kim-Wood Bank
+Account Number: 6310225414
+Consent Status: Revoked

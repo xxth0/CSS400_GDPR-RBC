@@ -1,0 +1,6 @@
+Customer ID: 5492
+Name: Robin Young
+National ID: 496-11-3852
+Bank: Lee-Carroll Bank
+Account Number: 1650479835
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2936
+Name: Collin Rich
+National ID: 046-78-6656
+Bank: Washington PLC Bank
+Account Number: 8279258499
+Consent Status: Granted

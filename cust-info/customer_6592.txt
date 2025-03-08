@@ -1,0 +1,6 @@
+Customer ID: 6592
+Name: Amanda Mcdonald
+National ID: 206-99-8372
+Bank: Simmons, White and Sanchez Bank
+Account Number: 4551529016
+Consent Status: Granted

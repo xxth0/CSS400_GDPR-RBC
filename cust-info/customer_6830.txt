@@ -1,0 +1,6 @@
+Customer ID: 6830
+Name: Jordan Anderson
+National ID: 576-26-0952
+Bank: Jenkins-Scott Bank
+Account Number: 8820463797
+Consent Status: Granted

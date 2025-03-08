@@ -1,0 +1,6 @@
+Customer ID: 4070
+Name: Roger Pugh
+National ID: 356-25-7078
+Bank: Brewer-Campbell Bank
+Account Number: 7630402021
+Consent Status: Revoked

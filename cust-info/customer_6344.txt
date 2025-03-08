@@ -1,0 +1,6 @@
+Customer ID: 6344
+Name: Ashley Hall
+National ID: 658-16-0103
+Bank: Pineda-Mcdonald Bank
+Account Number: 4934959673
+Consent Status: Granted

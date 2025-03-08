@@ -1,0 +1,6 @@
+Customer ID: 7367
+Name: Sheri Carter
+National ID: 312-53-9325
+Bank: Washington-Moore Bank
+Account Number: 9308073573
+Consent Status: Granted

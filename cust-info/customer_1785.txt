@@ -1,0 +1,6 @@
+Customer ID: 1785
+Name: Ashley Mclaughlin
+National ID: 118-34-6249
+Bank: Owen, Lee and Short Bank
+Account Number: 9052358009
+Consent Status: Granted

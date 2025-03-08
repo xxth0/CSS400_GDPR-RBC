@@ -1,0 +1,6 @@
+Customer ID: 4089
+Name: Kelly Johnson
+National ID: 818-41-6888
+Bank: Williams, Snyder and Andersen Bank
+Account Number: 7943354581
+Consent Status: Revoked

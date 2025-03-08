@@ -1,0 +1,6 @@
+Customer ID: 6620
+Name: Lori Griffin
+National ID: 240-89-6511
+Bank: Hopkins Group Bank
+Account Number: 5147026978
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8734
+Name: Elizabeth Proctor
+National ID: 596-53-6777
+Bank: Smith-Vang Bank
+Account Number: 5705014435
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3159
+Name: Alicia Wilson
+National ID: 093-60-7283
+Bank: Sutton-Aguilar Bank
+Account Number: 7624105203
+Consent Status: Revoked

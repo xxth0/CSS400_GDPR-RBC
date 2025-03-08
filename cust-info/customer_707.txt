@@ -1,0 +1,6 @@
+Customer ID: 707
+Name: Rachel Cortez
+National ID: 465-86-0715
+Bank: Mckenzie-Cook Bank
+Account Number: 1536884629
+Consent Status: Revoked

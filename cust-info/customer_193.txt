@@ -1,0 +1,6 @@
+Customer ID: 193
+Name: Diane Velasquez
+National ID: 575-39-2317
+Bank: Garcia and Sons Bank
+Account Number: 5462343589
+Consent Status: Granted

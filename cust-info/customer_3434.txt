@@ -1,0 +1,6 @@
+Customer ID: 3434
+Name: Anna Roberts
+National ID: 798-17-9858
+Bank: Clay-Clark Bank
+Account Number: 6118633194
+Consent Status: Granted

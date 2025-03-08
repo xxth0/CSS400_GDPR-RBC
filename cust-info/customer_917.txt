@@ -1,0 +1,6 @@
+Customer ID: 917
+Name: Matthew Padilla
+National ID: 691-90-2175
+Bank: Smith LLC Bank
+Account Number: 6613548579
+Consent Status: Revoked

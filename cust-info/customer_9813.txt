@@ -1,0 +1,6 @@
+Customer ID: 9813
+Name: Eric Simmons
+National ID: 100-99-6985
+Bank: Thomas, Davila and Barker Bank
+Account Number: 4062379164
+Consent Status: Revoked

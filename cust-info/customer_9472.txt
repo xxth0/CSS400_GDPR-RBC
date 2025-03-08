@@ -1,0 +1,6 @@
+Customer ID: 9472
+Name: William Warren
+National ID: 170-73-6644
+Bank: Thomas-Moore Bank
+Account Number: 3671654589
+Consent Status: Revoked

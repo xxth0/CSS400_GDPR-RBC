@@ -1,0 +1,6 @@
+Customer ID: 7746
+Name: Kim Smith
+National ID: 846-68-5801
+Bank: Murray-Scott Bank
+Account Number: 7937052835
+Consent Status: Revoked

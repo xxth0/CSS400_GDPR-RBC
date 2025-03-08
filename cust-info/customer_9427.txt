@@ -1,0 +1,6 @@
+Customer ID: 9427
+Name: James Gordon
+National ID: 240-80-7857
+Bank: Kelly Ltd Bank
+Account Number: 8151806045
+Consent Status: Granted

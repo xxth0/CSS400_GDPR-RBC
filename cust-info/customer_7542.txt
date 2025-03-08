@@ -1,0 +1,6 @@
+Customer ID: 7542
+Name: Juan Hernandez
+National ID: 897-01-1635
+Bank: Lopez-Williams Bank
+Account Number: 9166018094
+Consent Status: Granted

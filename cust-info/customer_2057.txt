@@ -1,0 +1,6 @@
+Customer ID: 2057
+Name: Joseph Mullins
+National ID: 312-68-6353
+Bank: Ward LLC Bank
+Account Number: 7059257620
+Consent Status: Revoked

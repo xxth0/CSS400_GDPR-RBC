@@ -1,0 +1,6 @@
+Customer ID: 7760
+Name: Ashley Garza
+National ID: 675-71-9796
+Bank: Williams-Hall Bank
+Account Number: 2294449000
+Consent Status: Revoked

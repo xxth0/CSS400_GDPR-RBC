@@ -1,0 +1,6 @@
+Customer ID: 7442
+Name: Amy Morgan
+National ID: 566-85-9840
+Bank: Cooke Group Bank
+Account Number: 7615315376
+Consent Status: Revoked

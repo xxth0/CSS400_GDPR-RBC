@@ -1,0 +1,6 @@
+Customer ID: 6296
+Name: Carlos Patrick
+National ID: 321-42-2433
+Bank: Herrera-Scott Bank
+Account Number: 4893544630
+Consent Status: Granted

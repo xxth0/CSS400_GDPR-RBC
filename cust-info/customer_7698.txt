@@ -1,0 +1,6 @@
+Customer ID: 7698
+Name: Craig Jordan
+National ID: 435-47-5595
+Bank: Short Group Bank
+Account Number: 9329459955
+Consent Status: Granted

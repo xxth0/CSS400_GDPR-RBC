@@ -1,0 +1,6 @@
+Customer ID: 8256
+Name: Rebecca Wilson
+National ID: 323-95-5775
+Bank: Novak LLC Bank
+Account Number: 8142747783
+Consent Status: Granted

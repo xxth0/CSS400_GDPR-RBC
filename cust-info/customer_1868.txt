@@ -1,0 +1,6 @@
+Customer ID: 1868
+Name: Aaron Thompson
+National ID: 084-54-7953
+Bank: Martinez-Fisher Bank
+Account Number: 6460847231
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4584
+Name: Christopher Taylor
+National ID: 125-20-3844
+Bank: Ramirez-Roberts Bank
+Account Number: 4922505050
+Consent Status: Granted

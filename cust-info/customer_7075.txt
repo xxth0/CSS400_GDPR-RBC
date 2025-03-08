@@ -1,0 +1,6 @@
+Customer ID: 7075
+Name: Ann Lee
+National ID: 309-71-4037
+Bank: Dominguez-Clark Bank
+Account Number: 7972952070
+Consent Status: Revoked

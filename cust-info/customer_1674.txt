@@ -1,0 +1,6 @@
+Customer ID: 1674
+Name: Michael Underwood
+National ID: 075-88-8021
+Bank: Taylor-Chang Bank
+Account Number: 9216576253
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1920
+Name: Russell Anderson
+National ID: 790-36-2976
+Bank: Lucas, Boyd and White Bank
+Account Number: 9248623880
+Consent Status: Revoked

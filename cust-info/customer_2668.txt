@@ -1,0 +1,6 @@
+Customer ID: 2668
+Name: Kristin Wilcox
+National ID: 647-88-2021
+Bank: Garcia-Black Bank
+Account Number: 6664265754
+Consent Status: Revoked

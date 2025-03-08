@@ -1,0 +1,6 @@
+Customer ID: 772
+Name: Brent Blankenship
+National ID: 877-59-5469
+Bank: Brown, Johnson and Warner Bank
+Account Number: 3746379629
+Consent Status: Granted

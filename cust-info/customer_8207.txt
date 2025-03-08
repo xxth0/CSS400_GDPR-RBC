@@ -1,0 +1,6 @@
+Customer ID: 8207
+Name: Kathy Strickland
+National ID: 785-72-9603
+Bank: Morris-Baxter Bank
+Account Number: 8871130867
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3025
+Name: Jared Garcia
+National ID: 869-99-8764
+Bank: Kelly-Hart Bank
+Account Number: 4256211313
+Consent Status: Revoked

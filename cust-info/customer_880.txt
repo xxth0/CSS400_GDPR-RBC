@@ -1,0 +1,6 @@
+Customer ID: 880
+Name: Christopher Sullivan
+National ID: 846-92-3675
+Bank: Aguirre, Richardson and Santana Bank
+Account Number: 8460322620
+Consent Status: Granted

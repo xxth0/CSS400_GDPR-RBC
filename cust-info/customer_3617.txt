@@ -1,0 +1,6 @@
+Customer ID: 3617
+Name: Allison Robertson
+National ID: 452-52-0324
+Bank: Gentry Inc Bank
+Account Number: 3554365265
+Consent Status: Granted

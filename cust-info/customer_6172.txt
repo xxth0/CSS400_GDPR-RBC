@@ -1,0 +1,6 @@
+Customer ID: 6172
+Name: Jose Greer
+National ID: 360-10-3759
+Bank: Donovan, Bauer and Murphy Bank
+Account Number: 7721372764
+Consent Status: Granted

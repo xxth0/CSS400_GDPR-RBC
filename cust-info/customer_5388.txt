@@ -1,0 +1,6 @@
+Customer ID: 5388
+Name: Bryan Alexander
+National ID: 164-03-9569
+Bank: Garcia LLC Bank
+Account Number: 6237272744
+Consent Status: Granted

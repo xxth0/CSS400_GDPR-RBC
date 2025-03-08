@@ -1,0 +1,6 @@
+Customer ID: 4362
+Name: Mitchell Gould
+National ID: 398-03-1953
+Bank: Smith-Gonzalez Bank
+Account Number: 8422758499
+Consent Status: Revoked

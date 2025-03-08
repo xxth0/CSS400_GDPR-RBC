@@ -1,0 +1,6 @@
+Customer ID: 6030
+Name: Kimberly Rivera
+National ID: 517-31-8441
+Bank: Hall-Jones Bank
+Account Number: 7787665538
+Consent Status: Revoked

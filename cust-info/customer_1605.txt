@@ -1,0 +1,6 @@
+Customer ID: 1605
+Name: William Carter
+National ID: 559-58-7326
+Bank: Baker-Ward Bank
+Account Number: 6696265020
+Consent Status: Granted

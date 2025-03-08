@@ -1,0 +1,6 @@
+Customer ID: 1844
+Name: Daniel Martin
+National ID: 172-59-3372
+Bank: Li, Ryan and Schmidt Bank
+Account Number: 3211773759
+Consent Status: Revoked

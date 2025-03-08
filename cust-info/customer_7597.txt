@@ -1,0 +1,6 @@
+Customer ID: 7597
+Name: Kimberly Stanley
+National ID: 377-96-5449
+Bank: Hayes PLC Bank
+Account Number: 4696232738
+Consent Status: Revoked

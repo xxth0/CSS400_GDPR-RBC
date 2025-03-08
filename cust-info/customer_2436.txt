@@ -1,0 +1,6 @@
+Customer ID: 2436
+Name: Paul Hughes
+National ID: 054-92-8905
+Bank: Lucero, Williams and Davis Bank
+Account Number: 9191943054
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7681
+Name: William Scott
+National ID: 755-47-9178
+Bank: Robertson Inc Bank
+Account Number: 6067358383
+Consent Status: Granted

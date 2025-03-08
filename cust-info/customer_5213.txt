@@ -1,0 +1,6 @@
+Customer ID: 5213
+Name: Andrea Hernandez
+National ID: 670-98-2459
+Bank: Wilson, Wilcox and Bennett Bank
+Account Number: 9833103141
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 813
+Name: Jonathan Garcia
+National ID: 843-45-0031
+Bank: Miller, Rowe and Ellis Bank
+Account Number: 6262215999
+Consent Status: Revoked

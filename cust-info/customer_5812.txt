@@ -1,0 +1,6 @@
+Customer ID: 5812
+Name: Christopher Tate
+National ID: 072-20-9229
+Bank: Martin-Hart Bank
+Account Number: 5953411667
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5003
+Name: Michelle Wright
+National ID: 569-62-5689
+Bank: Bird, Daniels and Rogers Bank
+Account Number: 8026905385
+Consent Status: Granted

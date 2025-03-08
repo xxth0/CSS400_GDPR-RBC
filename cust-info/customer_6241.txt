@@ -1,0 +1,6 @@
+Customer ID: 6241
+Name: Todd Estrada
+National ID: 849-84-7317
+Bank: Roberts, Rojas and Burke Bank
+Account Number: 1074170897
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9691
+Name: Taylor Brown
+National ID: 494-51-7404
+Bank: Barnes-Gutierrez Bank
+Account Number: 2335600621
+Consent Status: Granted

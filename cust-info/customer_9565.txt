@@ -1,0 +1,6 @@
+Customer ID: 9565
+Name: Luis Goodman
+National ID: 282-89-8227
+Bank: Rhodes Group Bank
+Account Number: 5378046808
+Consent Status: Revoked

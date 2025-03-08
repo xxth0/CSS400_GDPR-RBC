@@ -1,0 +1,6 @@
+Customer ID: 7716
+Name: Victor Cardenas
+National ID: 180-98-5889
+Bank: Green-Hill Bank
+Account Number: 2358742505
+Consent Status: Revoked

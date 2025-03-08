@@ -1,0 +1,6 @@
+Customer ID: 7043
+Name: Stacy Shah
+National ID: 686-32-8690
+Bank: Miller LLC Bank
+Account Number: 1159175365
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8964
+Name: Alan Roberts
+National ID: 343-23-9520
+Bank: Lindsey, Campbell and Rojas Bank
+Account Number: 5404656114
+Consent Status: Granted

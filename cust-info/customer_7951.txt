@@ -1,0 +1,6 @@
+Customer ID: 7951
+Name: Nancy Garcia
+National ID: 011-06-7785
+Bank: Meyer, Hart and Lamb Bank
+Account Number: 4524667050
+Consent Status: Granted

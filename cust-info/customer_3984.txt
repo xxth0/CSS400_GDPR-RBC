@@ -1,0 +1,6 @@
+Customer ID: 3984
+Name: Dana Rogers
+National ID: 647-08-4633
+Bank: Patterson, Clark and Nguyen Bank
+Account Number: 3841894897
+Consent Status: Revoked

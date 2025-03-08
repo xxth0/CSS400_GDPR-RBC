@@ -1,0 +1,6 @@
+Customer ID: 335
+Name: Mariah Quinn
+National ID: 570-78-4909
+Bank: Scott PLC Bank
+Account Number: 4160391995
+Consent Status: Granted

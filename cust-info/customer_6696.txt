@@ -1,0 +1,6 @@
+Customer ID: 6696
+Name: Rodney Burns
+National ID: 716-69-5055
+Bank: Mccullough Inc Bank
+Account Number: 6602634816
+Consent Status: Granted

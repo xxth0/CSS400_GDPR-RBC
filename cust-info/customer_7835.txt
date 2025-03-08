@@ -1,0 +1,6 @@
+Customer ID: 7835
+Name: Sandy Welch
+National ID: 213-50-5950
+Bank: Green, Waters and Gonzales Bank
+Account Number: 2433465611
+Consent Status: Revoked

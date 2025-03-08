@@ -1,0 +1,6 @@
+Customer ID: 9652
+Name: Jonathan Obrien
+National ID: 231-77-1975
+Bank: Kennedy PLC Bank
+Account Number: 3890250857
+Consent Status: Granted

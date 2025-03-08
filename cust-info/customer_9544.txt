@@ -1,0 +1,6 @@
+Customer ID: 9544
+Name: Nathan Chandler
+National ID: 114-28-2457
+Bank: Washington-Ellis Bank
+Account Number: 9773324254
+Consent Status: Revoked

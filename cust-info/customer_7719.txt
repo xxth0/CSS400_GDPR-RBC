@@ -1,0 +1,6 @@
+Customer ID: 7719
+Name: Nancy Johnson
+National ID: 212-28-6416
+Bank: George-Rodriguez Bank
+Account Number: 4083201441
+Consent Status: Granted

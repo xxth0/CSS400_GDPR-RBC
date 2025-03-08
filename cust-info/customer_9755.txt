@@ -1,0 +1,6 @@
+Customer ID: 9755
+Name: Ariana Green
+National ID: 670-80-3301
+Bank: Franklin and Sons Bank
+Account Number: 4720108988
+Consent Status: Granted

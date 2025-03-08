@@ -1,0 +1,6 @@
+Customer ID: 9276
+Name: Juan Rodriguez
+National ID: 100-47-9256
+Bank: Robles PLC Bank
+Account Number: 8950697001
+Consent Status: Revoked

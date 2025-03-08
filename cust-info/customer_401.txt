@@ -1,0 +1,6 @@
+Customer ID: 401
+Name: Jesse Murphy
+National ID: 829-69-6156
+Bank: Olson-Evans Bank
+Account Number: 6141440500
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8037
+Name: Meghan Scott
+National ID: 051-39-5062
+Bank: Gregory-Rogers Bank
+Account Number: 3260684490
+Consent Status: Revoked

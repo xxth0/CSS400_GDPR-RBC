@@ -1,0 +1,6 @@
+Customer ID: 8022
+Name: Brandi Wells
+National ID: 828-89-8606
+Bank: Green, Andrews and Solomon Bank
+Account Number: 3791122956
+Consent Status: Revoked

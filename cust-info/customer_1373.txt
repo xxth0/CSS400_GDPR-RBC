@@ -1,0 +1,6 @@
+Customer ID: 1373
+Name: Sarah Smith
+National ID: 428-14-4302
+Bank: Thornton, Williams and Anderson Bank
+Account Number: 6434821664
+Consent Status: Granted

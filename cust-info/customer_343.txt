@@ -1,0 +1,6 @@
+Customer ID: 343
+Name: Madison Lambert
+National ID: 410-54-6768
+Bank: Reid, Morris and Parsons Bank
+Account Number: 7869228643
+Consent Status: Revoked

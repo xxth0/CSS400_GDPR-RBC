@@ -1,0 +1,6 @@
+Customer ID: 7462
+Name: Jason Love
+National ID: 619-56-0344
+Bank: Harrington and Sons Bank
+Account Number: 7783703757
+Consent Status: Revoked

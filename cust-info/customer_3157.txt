@@ -1,0 +1,6 @@
+Customer ID: 3157
+Name: Donald Thomas
+National ID: 133-34-5786
+Bank: Rice-Sanchez Bank
+Account Number: 6881942931
+Consent Status: Revoked

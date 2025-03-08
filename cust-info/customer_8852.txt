@@ -1,0 +1,6 @@
+Customer ID: 8852
+Name: Tara Dickerson
+National ID: 284-52-2513
+Bank: Ali-Vincent Bank
+Account Number: 2690422602
+Consent Status: Granted

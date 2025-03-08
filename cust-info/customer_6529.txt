@@ -1,0 +1,6 @@
+Customer ID: 6529
+Name: Jeffrey Duke
+National ID: 584-60-9611
+Bank: Henry-Fernandez Bank
+Account Number: 8982572164
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3429
+Name: Kimberly Charles
+National ID: 157-84-2356
+Bank: Fernandez LLC Bank
+Account Number: 6189037129
+Consent Status: Granted

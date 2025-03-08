@@ -1,0 +1,6 @@
+Customer ID: 4011
+Name: Kristen Jones
+National ID: 638-89-8552
+Bank: Oliver-Mack Bank
+Account Number: 3903119900
+Consent Status: Granted

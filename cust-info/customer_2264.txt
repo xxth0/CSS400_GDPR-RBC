@@ -1,0 +1,6 @@
+Customer ID: 2264
+Name: Adrian Williams
+National ID: 813-56-2692
+Bank: Burke-Schroeder Bank
+Account Number: 9993446754
+Consent Status: Granted

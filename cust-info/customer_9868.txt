@@ -1,0 +1,6 @@
+Customer ID: 9868
+Name: Christy Herrera
+National ID: 686-82-9864
+Bank: Mccoy-Burnett Bank
+Account Number: 1596572136
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1224
+Name: Wayne Wood
+National ID: 864-96-9662
+Bank: Beard-Santiago Bank
+Account Number: 7448746792
+Consent Status: Granted

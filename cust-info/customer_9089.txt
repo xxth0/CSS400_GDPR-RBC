@@ -1,0 +1,6 @@
+Customer ID: 9089
+Name: Christina Delgado
+National ID: 327-83-0632
+Bank: Zhang, Huang and Nguyen Bank
+Account Number: 8211725899
+Consent Status: Granted

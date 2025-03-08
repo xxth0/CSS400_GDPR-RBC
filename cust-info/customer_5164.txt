@@ -1,0 +1,6 @@
+Customer ID: 5164
+Name: Timothy Maynard
+National ID: 161-85-3665
+Bank: Wang Ltd Bank
+Account Number: 7447388750
+Consent Status: Revoked

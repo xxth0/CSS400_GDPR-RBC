@@ -1,0 +1,6 @@
+Customer ID: 4614
+Name: Trevor Mayo
+National ID: 484-16-3736
+Bank: Rodriguez and Sons Bank
+Account Number: 7097204992
+Consent Status: Granted

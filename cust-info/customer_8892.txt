@@ -1,0 +1,6 @@
+Customer ID: 8892
+Name: Daniel Finley
+National ID: 022-19-1030
+Bank: Bauer, Downs and Ferguson Bank
+Account Number: 5119324840
+Consent Status: Granted

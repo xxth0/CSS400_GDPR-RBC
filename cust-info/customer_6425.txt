@@ -1,0 +1,6 @@
+Customer ID: 6425
+Name: Hannah Spencer
+National ID: 108-52-4499
+Bank: Douglas-Sampson Bank
+Account Number: 5274902873
+Consent Status: Granted

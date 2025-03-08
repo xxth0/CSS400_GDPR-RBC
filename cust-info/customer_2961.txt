@@ -1,0 +1,6 @@
+Customer ID: 2961
+Name: Robert Hamilton
+National ID: 376-04-4448
+Bank: Thomas, Johnson and Cook Bank
+Account Number: 3165799694
+Consent Status: Revoked

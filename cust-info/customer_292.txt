@@ -1,0 +1,6 @@
+Customer ID: 292
+Name: James Lee
+National ID: 529-86-5669
+Bank: Martinez-Gutierrez Bank
+Account Number: 2523211316
+Consent Status: Revoked

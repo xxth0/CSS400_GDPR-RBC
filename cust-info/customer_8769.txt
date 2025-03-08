@@ -1,0 +1,6 @@
+Customer ID: 8769
+Name: Amanda Parker
+National ID: 398-20-6263
+Bank: Mason Group Bank
+Account Number: 6180552919
+Consent Status: Revoked

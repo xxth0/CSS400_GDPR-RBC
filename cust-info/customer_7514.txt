@@ -1,0 +1,6 @@
+Customer ID: 7514
+Name: Ralph Allen
+National ID: 667-70-2860
+Bank: Ball Inc Bank
+Account Number: 4794352200
+Consent Status: Revoked

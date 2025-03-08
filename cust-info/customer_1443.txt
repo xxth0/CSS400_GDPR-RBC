@@ -1,0 +1,6 @@
+Customer ID: 1443
+Name: Raymond Ford
+National ID: 523-22-2807
+Bank: Andersen, Brown and Brown Bank
+Account Number: 7301382170
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8801
+Name: Mark Bray
+National ID: 553-60-5094
+Bank: Lewis-Hendricks Bank
+Account Number: 4353064539
+Consent Status: Granted

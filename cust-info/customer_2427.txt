@@ -1,0 +1,6 @@
+Customer ID: 2427
+Name: Michael Bryant
+National ID: 286-46-5348
+Bank: Sexton, Hayes and Anderson Bank
+Account Number: 4792950017
+Consent Status: Granted

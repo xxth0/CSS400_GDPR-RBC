@@ -1,0 +1,6 @@
+Customer ID: 9381
+Name: Christopher Anderson
+National ID: 447-67-5464
+Bank: Craig-Lyons Bank
+Account Number: 2212584386
+Consent Status: Granted

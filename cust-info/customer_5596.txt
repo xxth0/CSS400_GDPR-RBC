@@ -1,0 +1,6 @@
+Customer ID: 5596
+Name: Charles Reyes
+National ID: 802-47-7904
+Bank: Kirk and Sons Bank
+Account Number: 7201233696
+Consent Status: Revoked

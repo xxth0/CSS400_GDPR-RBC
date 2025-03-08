@@ -1,0 +1,6 @@
+Customer ID: 2299
+Name: Julia Moyer
+National ID: 133-15-2038
+Bank: Mcbride, Mitchell and Lawrence Bank
+Account Number: 2181610218
+Consent Status: Revoked

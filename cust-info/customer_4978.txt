@@ -1,0 +1,6 @@
+Customer ID: 4978
+Name: Mr. Tony Rivera
+National ID: 460-62-7091
+Bank: Hall-Roth Bank
+Account Number: 6927752420
+Consent Status: Revoked

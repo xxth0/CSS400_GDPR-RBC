@@ -1,0 +1,6 @@
+Customer ID: 5514
+Name: Amy James
+National ID: 434-10-9941
+Bank: Ortiz-Davies Bank
+Account Number: 6065368647
+Consent Status: Revoked

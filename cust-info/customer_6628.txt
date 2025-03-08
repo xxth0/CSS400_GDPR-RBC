@@ -1,0 +1,6 @@
+Customer ID: 6628
+Name: Dr. Michael Baker
+National ID: 869-17-7691
+Bank: Cortez, Howard and Gomez Bank
+Account Number: 2930960036
+Consent Status: Revoked

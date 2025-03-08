@@ -1,0 +1,6 @@
+Customer ID: 9648
+Name: Carlos Durham
+National ID: 014-50-4550
+Bank: Bryant-Hammond Bank
+Account Number: 1724787239
+Consent Status: Revoked

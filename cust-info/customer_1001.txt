@@ -1,0 +1,6 @@
+Customer ID: 1001
+Name: Theresa Carey
+National ID: 276-33-0851
+Bank: Wilson, Casey and Lewis Bank
+Account Number: 3448820712
+Consent Status: Revoked

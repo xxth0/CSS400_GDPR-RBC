@@ -1,0 +1,6 @@
+Customer ID: 3769
+Name: Tracy Bowen
+National ID: 632-21-4016
+Bank: Howard-Griffith Bank
+Account Number: 2393389895
+Consent Status: Revoked

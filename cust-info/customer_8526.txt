@@ -1,0 +1,6 @@
+Customer ID: 8526
+Name: Samantha Horn
+National ID: 233-75-7212
+Bank: Dominguez Inc Bank
+Account Number: 6652196095
+Consent Status: Revoked

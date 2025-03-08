@@ -1,0 +1,6 @@
+Customer ID: 6168
+Name: Colin Sanchez
+National ID: 059-37-4242
+Bank: Miller, Ware and Brown Bank
+Account Number: 7731255552
+Consent Status: Granted

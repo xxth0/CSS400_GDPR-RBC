@@ -1,0 +1,6 @@
+Customer ID: 6013
+Name: Lauren Allen
+National ID: 086-97-1035
+Bank: Collins Inc Bank
+Account Number: 6580922298
+Consent Status: Revoked

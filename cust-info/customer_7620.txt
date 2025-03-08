@@ -1,0 +1,6 @@
+Customer ID: 7620
+Name: Mark Gutierrez
+National ID: 759-74-9772
+Bank: Kline, Rogers and Miller Bank
+Account Number: 2284279440
+Consent Status: Revoked

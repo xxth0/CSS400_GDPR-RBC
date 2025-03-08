@@ -1,0 +1,6 @@
+Customer ID: 7360
+Name: Steve Wilkins
+National ID: 221-13-1955
+Bank: Lopez, Hayes and Ramsey Bank
+Account Number: 7715723301
+Consent Status: Revoked

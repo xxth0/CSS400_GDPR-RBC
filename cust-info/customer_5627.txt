@@ -1,0 +1,6 @@
+Customer ID: 5627
+Name: Tony Smith
+National ID: 473-13-2658
+Bank: Carrillo and Sons Bank
+Account Number: 2160365864
+Consent Status: Granted

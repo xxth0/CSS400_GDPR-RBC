@@ -1,0 +1,6 @@
+Customer ID: 3828
+Name: Maria Hansen
+National ID: 658-01-9846
+Bank: Mcclain, Jones and Blackwell Bank
+Account Number: 2927920236
+Consent Status: Granted

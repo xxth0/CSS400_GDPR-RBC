@@ -1,0 +1,6 @@
+Customer ID: 6440
+Name: Arthur Davis
+National ID: 138-27-8070
+Bank: Davenport-Newman Bank
+Account Number: 6816251008
+Consent Status: Granted

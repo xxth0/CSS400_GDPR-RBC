@@ -1,0 +1,6 @@
+Customer ID: 9727
+Name: Tina Yates
+National ID: 852-19-7169
+Bank: Hardy PLC Bank
+Account Number: 9753440387
+Consent Status: Granted

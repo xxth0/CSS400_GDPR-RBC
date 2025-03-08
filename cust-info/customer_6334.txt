@@ -1,0 +1,6 @@
+Customer ID: 6334
+Name: Randy Davis
+National ID: 668-07-4871
+Bank: Baker, Smith and Bennett Bank
+Account Number: 7389028301
+Consent Status: Granted

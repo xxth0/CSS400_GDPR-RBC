@@ -1,0 +1,6 @@
+Customer ID: 3187
+Name: Martin Price
+National ID: 013-05-4701
+Bank: Barnett Inc Bank
+Account Number: 7606289312
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6902
+Name: Carlos Torres
+National ID: 721-53-8774
+Bank: Rodriguez PLC Bank
+Account Number: 6777540032
+Consent Status: Granted

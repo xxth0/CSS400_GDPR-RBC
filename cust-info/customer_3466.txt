@@ -1,0 +1,6 @@
+Customer ID: 3466
+Name: Rose Kirby
+National ID: 186-87-5145
+Bank: Cox, Pierce and Dixon Bank
+Account Number: 5999007007
+Consent Status: Granted

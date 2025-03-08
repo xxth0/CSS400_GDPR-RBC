@@ -1,0 +1,6 @@
+Customer ID: 8279
+Name: Makayla Miller
+National ID: 577-97-0938
+Bank: Jackson, Parker and Taylor Bank
+Account Number: 1550820123
+Consent Status: Granted

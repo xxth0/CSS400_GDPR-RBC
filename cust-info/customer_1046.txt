@@ -1,0 +1,6 @@
+Customer ID: 1046
+Name: Brittany Snyder
+National ID: 771-04-6927
+Bank: Farley Ltd Bank
+Account Number: 7374092772
+Consent Status: Revoked

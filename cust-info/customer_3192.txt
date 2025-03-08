@@ -1,0 +1,6 @@
+Customer ID: 3192
+Name: Bryan Brooks
+National ID: 699-67-9986
+Bank: Shaw-Petty Bank
+Account Number: 7587635296
+Consent Status: Revoked

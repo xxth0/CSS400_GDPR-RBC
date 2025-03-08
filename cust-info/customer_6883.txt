@@ -1,0 +1,6 @@
+Customer ID: 6883
+Name: Gary Murray
+National ID: 236-84-3265
+Bank: Bush-Martinez Bank
+Account Number: 7800961545
+Consent Status: Granted

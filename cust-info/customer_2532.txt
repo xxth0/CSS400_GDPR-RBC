@@ -1,0 +1,6 @@
+Customer ID: 2532
+Name: Kara Rogers
+National ID: 873-62-5314
+Bank: Anderson, Butler and Alvarez Bank
+Account Number: 2861035236
+Consent Status: Revoked

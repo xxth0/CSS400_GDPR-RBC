@@ -1,0 +1,6 @@
+Customer ID: 8995
+Name: Cathy Yang
+National ID: 458-97-8878
+Bank: King Inc Bank
+Account Number: 2069646230
+Consent Status: Revoked

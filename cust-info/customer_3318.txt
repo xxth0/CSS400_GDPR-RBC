@@ -1,0 +1,6 @@
+Customer ID: 3318
+Name: John Parsons
+National ID: 348-50-3561
+Bank: Kline Inc Bank
+Account Number: 4138290397
+Consent Status: Revoked

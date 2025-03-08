@@ -1,0 +1,6 @@
+Customer ID: 4007
+Name: Patricia Mack
+National ID: 126-34-2523
+Bank: Sanders PLC Bank
+Account Number: 4219568677
+Consent Status: Revoked

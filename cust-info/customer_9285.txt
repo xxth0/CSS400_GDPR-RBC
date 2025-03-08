@@ -1,0 +1,6 @@
+Customer ID: 9285
+Name: Melinda Fields
+National ID: 157-65-6798
+Bank: Miles-Fields Bank
+Account Number: 3984552344
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3207
+Name: Jeffrey Edwards
+National ID: 137-76-9850
+Bank: Booth-Benitez Bank
+Account Number: 3864935544
+Consent Status: Granted

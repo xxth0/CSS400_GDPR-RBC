@@ -1,0 +1,6 @@
+Customer ID: 3089
+Name: Megan Wagner
+National ID: 570-12-5680
+Bank: Moore-Stein Bank
+Account Number: 8478175728
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8537
+Name: Amanda Mendoza
+National ID: 256-14-9300
+Bank: Robinson Inc Bank
+Account Number: 1567455661
+Consent Status: Revoked

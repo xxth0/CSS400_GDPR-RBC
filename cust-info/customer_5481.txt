@@ -1,0 +1,6 @@
+Customer ID: 5481
+Name: Jason Stephens
+National ID: 186-92-7290
+Bank: Barrera Ltd Bank
+Account Number: 6740096350
+Consent Status: Granted

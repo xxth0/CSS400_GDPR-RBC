@@ -1,0 +1,6 @@
+Customer ID: 2348
+Name: Kara Mahoney
+National ID: 389-44-3662
+Bank: Parker-Baker Bank
+Account Number: 7867937797
+Consent Status: Granted

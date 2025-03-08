@@ -1,0 +1,6 @@
+Customer ID: 6033
+Name: Robert Ray
+National ID: 357-71-5030
+Bank: Stanley, Collins and Holt Bank
+Account Number: 8783079676
+Consent Status: Granted

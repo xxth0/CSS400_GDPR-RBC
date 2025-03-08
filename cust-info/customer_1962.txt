@@ -1,0 +1,6 @@
+Customer ID: 1962
+Name: Jennifer Sanders
+National ID: 840-95-7135
+Bank: Carrillo-Snow Bank
+Account Number: 5876970402
+Consent Status: Revoked

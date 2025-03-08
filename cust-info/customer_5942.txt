@@ -1,0 +1,6 @@
+Customer ID: 5942
+Name: Angela Ramos
+National ID: 334-87-1422
+Bank: York and Sons Bank
+Account Number: 6709035307
+Consent Status: Revoked

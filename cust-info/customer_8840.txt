@@ -1,0 +1,6 @@
+Customer ID: 8840
+Name: Dr. Angela Perkins MD
+National ID: 199-36-4658
+Bank: Bell LLC Bank
+Account Number: 7246872477
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8177
+Name: Kristy Harrington
+National ID: 703-03-5927
+Bank: Hodge-Guerrero Bank
+Account Number: 2838553011
+Consent Status: Revoked

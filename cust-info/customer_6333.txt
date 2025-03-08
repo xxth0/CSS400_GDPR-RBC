@@ -1,0 +1,6 @@
+Customer ID: 6333
+Name: John Gregory
+National ID: 191-28-9674
+Bank: Snow, Brown and Rose Bank
+Account Number: 2141992858
+Consent Status: Granted

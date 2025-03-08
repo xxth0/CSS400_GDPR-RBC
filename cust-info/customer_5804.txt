@@ -1,0 +1,6 @@
+Customer ID: 5804
+Name: Crystal Contreras
+National ID: 519-01-1733
+Bank: Harris LLC Bank
+Account Number: 3888021484
+Consent Status: Revoked

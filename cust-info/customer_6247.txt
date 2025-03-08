@@ -1,0 +1,6 @@
+Customer ID: 6247
+Name: Christopher Wilson
+National ID: 821-86-8859
+Bank: Barr, Werner and Guzman Bank
+Account Number: 6581623770
+Consent Status: Granted

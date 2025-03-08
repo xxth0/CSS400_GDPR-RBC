@@ -1,0 +1,6 @@
+Customer ID: 8278
+Name: Karen Lee
+National ID: 860-96-1177
+Bank: Lewis, Fox and Perry Bank
+Account Number: 3454913447
+Consent Status: Granted

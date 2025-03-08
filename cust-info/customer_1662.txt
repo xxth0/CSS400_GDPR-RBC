@@ -1,0 +1,6 @@
+Customer ID: 1662
+Name: Mark Mullen DVM
+National ID: 691-63-3273
+Bank: Smith, Bell and Mendez Bank
+Account Number: 1541814291
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1846
+Name: Andrea Chapman
+National ID: 764-90-4514
+Bank: Roberts-Morris Bank
+Account Number: 1495482726
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6819
+Name: Rodney Hart
+National ID: 213-93-1308
+Bank: Barnes Ltd Bank
+Account Number: 9748658972
+Consent Status: Revoked

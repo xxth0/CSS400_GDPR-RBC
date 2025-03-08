@@ -1,0 +1,6 @@
+Customer ID: 8438
+Name: Darrell Rodriguez
+National ID: 118-50-2235
+Bank: Edwards and Sons Bank
+Account Number: 9746107545
+Consent Status: Granted

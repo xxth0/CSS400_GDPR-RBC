@@ -1,0 +1,6 @@
+Customer ID: 9984
+Name: Katherine Cooper
+National ID: 652-41-6481
+Bank: Gordon, Davis and Duke Bank
+Account Number: 8777857892
+Consent Status: Revoked

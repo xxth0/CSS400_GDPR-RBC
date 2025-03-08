@@ -1,0 +1,6 @@
+Customer ID: 8063
+Name: Tonya Barnes
+National ID: 857-49-1139
+Bank: Banks-Castillo Bank
+Account Number: 2950346896
+Consent Status: Revoked

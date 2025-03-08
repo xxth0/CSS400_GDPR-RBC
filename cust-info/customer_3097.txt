@@ -1,0 +1,6 @@
+Customer ID: 3097
+Name: Robert Stein
+National ID: 266-74-3732
+Bank: Allen and Sons Bank
+Account Number: 1279225523
+Consent Status: Revoked

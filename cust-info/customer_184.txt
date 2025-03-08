@@ -1,0 +1,6 @@
+Customer ID: 184
+Name: Erica Chang
+National ID: 012-11-7987
+Bank: Holmes-Baxter Bank
+Account Number: 8448074476
+Consent Status: Granted

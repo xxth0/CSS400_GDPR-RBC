@@ -1,0 +1,6 @@
+Customer ID: 762
+Name: Angela Valencia
+National ID: 813-54-5449
+Bank: Jackson and Sons Bank
+Account Number: 4990585054
+Consent Status: Revoked

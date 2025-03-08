@@ -1,0 +1,6 @@
+Customer ID: 3586
+Name: Courtney Brown MD
+National ID: 237-62-2339
+Bank: Jones, Diaz and Wilson Bank
+Account Number: 1453696233
+Consent Status: Granted

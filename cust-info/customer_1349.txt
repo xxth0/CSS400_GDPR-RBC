@@ -1,0 +1,6 @@
+Customer ID: 1349
+Name: Matthew Travis
+National ID: 734-06-1433
+Bank: Salazar PLC Bank
+Account Number: 5570402833
+Consent Status: Revoked

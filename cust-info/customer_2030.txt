@@ -1,0 +1,6 @@
+Customer ID: 2030
+Name: Barry Wang
+National ID: 096-62-5601
+Bank: Williams Inc Bank
+Account Number: 7370257760
+Consent Status: Granted

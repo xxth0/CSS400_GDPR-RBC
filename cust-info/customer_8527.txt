@@ -1,0 +1,6 @@
+Customer ID: 8527
+Name: Christine Young
+National ID: 455-23-0692
+Bank: Walton, Richardson and Clark Bank
+Account Number: 3402791410
+Consent Status: Revoked

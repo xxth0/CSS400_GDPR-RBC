@@ -1,0 +1,6 @@
+Customer ID: 6989
+Name: Joseph Ford
+National ID: 498-89-2911
+Bank: Crawford-Lawrence Bank
+Account Number: 9405206088
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7350
+Name: Allison Lee
+National ID: 588-73-3493
+Bank: Gray Group Bank
+Account Number: 3662615909
+Consent Status: Granted

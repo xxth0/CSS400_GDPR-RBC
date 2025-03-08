@@ -1,0 +1,6 @@
+Customer ID: 4929
+Name: Charles Gross
+National ID: 537-02-6769
+Bank: Kelly and Sons Bank
+Account Number: 6284451059
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2616
+Name: Mr. Joseph Roberts
+National ID: 495-91-4395
+Bank: Harrell Ltd Bank
+Account Number: 5029071487
+Consent Status: Revoked

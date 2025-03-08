@@ -1,0 +1,6 @@
+Customer ID: 6965
+Name: Elizabeth Byrd
+National ID: 305-40-1880
+Bank: Willis-Williams Bank
+Account Number: 1645020551
+Consent Status: Granted

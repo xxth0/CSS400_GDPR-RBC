@@ -1,0 +1,6 @@
+Customer ID: 7557
+Name: Barbara Miller
+National ID: 076-14-8748
+Bank: Phelps-Floyd Bank
+Account Number: 6576239223
+Consent Status: Granted

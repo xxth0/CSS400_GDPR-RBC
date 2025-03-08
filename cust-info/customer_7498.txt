@@ -1,0 +1,6 @@
+Customer ID: 7498
+Name: Rebecca Burton
+National ID: 833-10-6707
+Bank: Santiago Inc Bank
+Account Number: 1523111531
+Consent Status: Granted

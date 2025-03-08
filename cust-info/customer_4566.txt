@@ -1,0 +1,6 @@
+Customer ID: 4566
+Name: Andrea Soto
+National ID: 768-53-0720
+Bank: Fuller, Norris and Berry Bank
+Account Number: 9027163322
+Consent Status: Granted

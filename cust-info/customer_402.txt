@@ -1,0 +1,6 @@
+Customer ID: 402
+Name: Robert Cook
+National ID: 631-08-8226
+Bank: Cruz Ltd Bank
+Account Number: 8237836637
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3225
+Name: Albert Mcbride
+National ID: 834-28-3205
+Bank: Davis, Johnson and Ayala Bank
+Account Number: 8752239945
+Consent Status: Revoked

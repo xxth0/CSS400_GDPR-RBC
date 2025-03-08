@@ -1,0 +1,6 @@
+Customer ID: 7073
+Name: Nicholas Johnson
+National ID: 692-22-7441
+Bank: Stokes and Sons Bank
+Account Number: 5066004485
+Consent Status: Revoked

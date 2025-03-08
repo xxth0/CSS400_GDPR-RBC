@@ -1,0 +1,6 @@
+Customer ID: 5823
+Name: Michael Bean
+National ID: 429-49-7686
+Bank: Patterson and Sons Bank
+Account Number: 3469801973
+Consent Status: Granted

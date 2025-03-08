@@ -1,0 +1,6 @@
+Customer ID: 3703
+Name: Karen Phillips
+National ID: 859-73-6947
+Bank: Miller, Hunter and Rogers Bank
+Account Number: 8657728955
+Consent Status: Revoked

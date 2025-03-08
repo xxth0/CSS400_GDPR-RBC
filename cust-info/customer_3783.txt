@@ -1,0 +1,6 @@
+Customer ID: 3783
+Name: Rachel Wong
+National ID: 157-95-7982
+Bank: Obrien-Turner Bank
+Account Number: 3516509516
+Consent Status: Granted

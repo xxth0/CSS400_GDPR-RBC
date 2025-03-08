@@ -1,0 +1,6 @@
+Customer ID: 1238
+Name: William Garrison
+National ID: 520-06-3860
+Bank: Davis-Fitzpatrick Bank
+Account Number: 8709243063
+Consent Status: Revoked

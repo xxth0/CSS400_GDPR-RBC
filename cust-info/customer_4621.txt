@@ -1,0 +1,6 @@
+Customer ID: 4621
+Name: Haley Terry
+National ID: 215-98-4636
+Bank: Barrett-Avila Bank
+Account Number: 9514884424
+Consent Status: Granted

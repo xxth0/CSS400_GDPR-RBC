@@ -1,0 +1,6 @@
+Customer ID: 3488
+Name: Sabrina Howard DVM
+National ID: 061-79-2810
+Bank: Chambers Inc Bank
+Account Number: 3031325167
+Consent Status: Revoked

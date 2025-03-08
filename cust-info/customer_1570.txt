@@ -1,0 +1,6 @@
+Customer ID: 1570
+Name: Paula Shea
+National ID: 402-83-6169
+Bank: Padilla and Sons Bank
+Account Number: 3689364221
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2534
+Name: Jamie Miller
+National ID: 475-24-6288
+Bank: Herrera-Mcfarland Bank
+Account Number: 5377166079
+Consent Status: Granted

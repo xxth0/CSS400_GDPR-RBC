@@ -1,0 +1,6 @@
+Customer ID: 4067
+Name: Justin Cortez
+National ID: 533-21-5749
+Bank: Barnes and Sons Bank
+Account Number: 5758245894
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4320
+Name: Carlos Ward
+National ID: 536-21-1921
+Bank: Washington-Knight Bank
+Account Number: 4272458373
+Consent Status: Revoked

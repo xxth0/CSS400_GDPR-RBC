@@ -1,0 +1,6 @@
+Customer ID: 9857
+Name: Joseph Schneider
+National ID: 677-41-4933
+Bank: Hamilton-Jackson Bank
+Account Number: 4748975247
+Consent Status: Granted

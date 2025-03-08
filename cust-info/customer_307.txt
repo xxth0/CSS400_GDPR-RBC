@@ -1,0 +1,6 @@
+Customer ID: 307
+Name: Roberto Thompson
+National ID: 859-34-7019
+Bank: Gardner, Meyers and Rios Bank
+Account Number: 2528707722
+Consent Status: Granted

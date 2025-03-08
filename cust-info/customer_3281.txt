@@ -1,0 +1,6 @@
+Customer ID: 3281
+Name: Joseph Gonzalez
+National ID: 547-11-8138
+Bank: Johnson, Hill and Robinson Bank
+Account Number: 9307296896
+Consent Status: Revoked

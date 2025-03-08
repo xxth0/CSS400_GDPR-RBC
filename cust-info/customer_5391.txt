@@ -1,0 +1,6 @@
+Customer ID: 5391
+Name: Shannon Becker
+National ID: 634-88-8356
+Bank: Peterson PLC Bank
+Account Number: 3671614647
+Consent Status: Granted

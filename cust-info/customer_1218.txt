@@ -1,0 +1,6 @@
+Customer ID: 1218
+Name: Regina Hernandez
+National ID: 043-26-3451
+Bank: Cisneros LLC Bank
+Account Number: 5963954865
+Consent Status: Revoked

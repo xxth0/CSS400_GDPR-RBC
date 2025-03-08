@@ -1,0 +1,6 @@
+Customer ID: 4560
+Name: Tyler Williams
+National ID: 064-87-0091
+Bank: Hudson PLC Bank
+Account Number: 9939883786
+Consent Status: Granted

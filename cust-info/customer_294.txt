@@ -1,0 +1,6 @@
+Customer ID: 294
+Name: Alyssa Johnson
+National ID: 767-96-0305
+Bank: Kim PLC Bank
+Account Number: 8221758859
+Consent Status: Revoked

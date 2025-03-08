@@ -1,0 +1,6 @@
+Customer ID: 4937
+Name: Alyssa Summers
+National ID: 770-76-2918
+Bank: Reyes LLC Bank
+Account Number: 6247664850
+Consent Status: Granted

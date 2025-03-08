@@ -1,0 +1,6 @@
+Customer ID: 5821
+Name: Jonathan Mclaughlin
+National ID: 883-76-1182
+Bank: Garcia-Munoz Bank
+Account Number: 7547330028
+Consent Status: Revoked

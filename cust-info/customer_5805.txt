@@ -1,0 +1,6 @@
+Customer ID: 5805
+Name: Timothy Sanchez
+National ID: 798-62-7440
+Bank: Baker, Morales and Jackson Bank
+Account Number: 3191576640
+Consent Status: Revoked

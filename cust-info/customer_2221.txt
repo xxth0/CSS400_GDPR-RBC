@@ -1,0 +1,6 @@
+Customer ID: 2221
+Name: Megan Martin
+National ID: 579-85-2177
+Bank: Mendoza-Solomon Bank
+Account Number: 6131444012
+Consent Status: Granted

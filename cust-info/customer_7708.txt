@@ -1,0 +1,6 @@
+Customer ID: 7708
+Name: Christopher Ramsey
+National ID: 363-92-5091
+Bank: Benton, Hale and Young Bank
+Account Number: 8993880319
+Consent Status: Granted

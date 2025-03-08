@@ -1,0 +1,6 @@
+Customer ID: 4057
+Name: Keith King
+National ID: 148-95-1286
+Bank: Harrison, Bolton and Green Bank
+Account Number: 4772473869
+Consent Status: Granted

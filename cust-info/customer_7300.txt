@@ -1,0 +1,6 @@
+Customer ID: 7300
+Name: Brandi Choi
+National ID: 232-09-2035
+Bank: Miller, Hawkins and Oconnor Bank
+Account Number: 3078054092
+Consent Status: Granted

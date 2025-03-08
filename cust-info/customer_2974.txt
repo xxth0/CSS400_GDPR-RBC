@@ -1,0 +1,6 @@
+Customer ID: 2974
+Name: Anne Cook
+National ID: 881-72-2398
+Bank: Martinez, Jones and Munoz Bank
+Account Number: 4767340828
+Consent Status: Granted

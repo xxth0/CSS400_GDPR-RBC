@@ -1,0 +1,6 @@
+Customer ID: 8109
+Name: Julia Smith
+National ID: 894-51-9462
+Bank: Brown-Smith Bank
+Account Number: 4889357324
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1722
+Name: Nathan Francis
+National ID: 639-87-9288
+Bank: Grant-Mccall Bank
+Account Number: 4931539783
+Consent Status: Granted

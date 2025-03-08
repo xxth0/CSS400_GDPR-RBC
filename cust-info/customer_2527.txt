@@ -1,0 +1,6 @@
+Customer ID: 2527
+Name: Mackenzie Murray
+National ID: 308-48-8600
+Bank: Curry, Blair and Green Bank
+Account Number: 4318691500
+Consent Status: Granted

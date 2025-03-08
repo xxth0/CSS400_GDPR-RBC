@@ -1,0 +1,6 @@
+Customer ID: 8604
+Name: Jamie Alvarez
+National ID: 071-26-0184
+Bank: Stone, Freeman and Smith Bank
+Account Number: 4677938191
+Consent Status: Granted

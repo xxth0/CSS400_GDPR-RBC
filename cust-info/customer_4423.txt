@@ -1,0 +1,6 @@
+Customer ID: 4423
+Name: Timothy Evans
+National ID: 620-33-6816
+Bank: Martin, Brown and Rodriguez Bank
+Account Number: 5573156450
+Consent Status: Revoked

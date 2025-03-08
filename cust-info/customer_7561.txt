@@ -1,0 +1,6 @@
+Customer ID: 7561
+Name: Tracy Wright
+National ID: 609-04-1811
+Bank: Rodriguez-Jones Bank
+Account Number: 9635017123
+Consent Status: Revoked

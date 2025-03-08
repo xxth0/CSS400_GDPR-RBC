@@ -1,0 +1,6 @@
+Customer ID: 9824
+Name: Peter Weber
+National ID: 284-03-6220
+Bank: Martinez, Moore and Buckley Bank
+Account Number: 3007661242
+Consent Status: Granted

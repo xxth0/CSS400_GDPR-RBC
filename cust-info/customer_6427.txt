@@ -1,0 +1,6 @@
+Customer ID: 6427
+Name: Antonio Miller
+National ID: 695-13-0845
+Bank: Stein PLC Bank
+Account Number: 8948818454
+Consent Status: Granted

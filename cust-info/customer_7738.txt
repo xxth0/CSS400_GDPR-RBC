@@ -1,0 +1,6 @@
+Customer ID: 7738
+Name: Stephen Brown
+National ID: 113-04-9518
+Bank: Williams-Case Bank
+Account Number: 6643705752
+Consent Status: Granted

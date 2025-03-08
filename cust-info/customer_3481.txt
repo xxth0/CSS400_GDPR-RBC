@@ -1,0 +1,6 @@
+Customer ID: 3481
+Name: Ryan Michael
+National ID: 455-49-4762
+Bank: Warren LLC Bank
+Account Number: 9410237780
+Consent Status: Granted

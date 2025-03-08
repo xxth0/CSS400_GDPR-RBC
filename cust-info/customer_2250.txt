@@ -1,0 +1,6 @@
+Customer ID: 2250
+Name: Stacy Rivers
+National ID: 025-33-4757
+Bank: Jenkins LLC Bank
+Account Number: 8778876396
+Consent Status: Granted

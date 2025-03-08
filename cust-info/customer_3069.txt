@@ -1,0 +1,6 @@
+Customer ID: 3069
+Name: Tiffany Wilson
+National ID: 705-11-3854
+Bank: West, Keith and Rios Bank
+Account Number: 2987840470
+Consent Status: Revoked

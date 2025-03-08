@@ -1,0 +1,6 @@
+Customer ID: 7034
+Name: Louis Stafford
+National ID: 806-91-7871
+Bank: Graham-Robinson Bank
+Account Number: 6353363003
+Consent Status: Granted

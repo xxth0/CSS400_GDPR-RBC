@@ -1,0 +1,6 @@
+Customer ID: 5464
+Name: Madison Kennedy
+National ID: 494-28-4792
+Bank: Hogan-Hogan Bank
+Account Number: 1349545637
+Consent Status: Granted

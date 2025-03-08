@@ -1,0 +1,6 @@
+Customer ID: 2814
+Name: Nicholas Clay
+National ID: 494-22-9196
+Bank: Thompson, Blair and Huang Bank
+Account Number: 4335258916
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8335
+Name: Debra Garrett
+National ID: 253-55-7563
+Bank: Brown Group Bank
+Account Number: 6011079917
+Consent Status: Granted

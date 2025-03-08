@@ -1,0 +1,6 @@
+Customer ID: 1761
+Name: Debra Stewart
+National ID: 583-43-5571
+Bank: Serrano PLC Bank
+Account Number: 2745217771
+Consent Status: Granted

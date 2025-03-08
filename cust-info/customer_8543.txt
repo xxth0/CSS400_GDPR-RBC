@@ -1,0 +1,6 @@
+Customer ID: 8543
+Name: David Farrell
+National ID: 602-55-0403
+Bank: Collins-Bennett Bank
+Account Number: 5424215651
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4480
+Name: Bobby York
+National ID: 326-44-7402
+Bank: Hall, Lee and Morgan Bank
+Account Number: 1551900682
+Consent Status: Granted

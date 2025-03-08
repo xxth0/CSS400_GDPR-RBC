@@ -1,0 +1,6 @@
+Customer ID: 8835
+Name: Joseph Smith
+National ID: 053-23-8926
+Bank: Kelley LLC Bank
+Account Number: 2546309794
+Consent Status: Revoked

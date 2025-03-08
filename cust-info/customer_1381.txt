@@ -1,0 +1,6 @@
+Customer ID: 1381
+Name: Mason Brown
+National ID: 027-70-8624
+Bank: Smith-Henderson Bank
+Account Number: 7981005271
+Consent Status: Granted

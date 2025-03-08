@@ -1,0 +1,6 @@
+Customer ID: 9782
+Name: Jennifer Carter
+National ID: 012-14-4697
+Bank: Potter LLC Bank
+Account Number: 3027903681
+Consent Status: Granted

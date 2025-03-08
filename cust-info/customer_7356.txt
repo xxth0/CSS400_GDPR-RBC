@@ -1,0 +1,6 @@
+Customer ID: 7356
+Name: Sarah Mueller
+National ID: 717-76-9452
+Bank: Chavez, Herman and Jackson Bank
+Account Number: 7670772895
+Consent Status: Granted

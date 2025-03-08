@@ -1,0 +1,6 @@
+Customer ID: 6411
+Name: James Olson
+National ID: 059-89-1551
+Bank: Hopkins Group Bank
+Account Number: 8968576054
+Consent Status: Granted

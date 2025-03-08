@@ -1,0 +1,6 @@
+Customer ID: 9148
+Name: Christina Alvarado
+National ID: 321-74-3273
+Bank: Williams, Clements and Ward Bank
+Account Number: 8852357893
+Consent Status: Granted

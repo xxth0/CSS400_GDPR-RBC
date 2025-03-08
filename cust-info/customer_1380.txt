@@ -1,0 +1,6 @@
+Customer ID: 1380
+Name: Christopher Farmer
+National ID: 163-49-8473
+Bank: Buchanan PLC Bank
+Account Number: 2458550006
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4190
+Name: Jason Clark
+National ID: 489-87-4586
+Bank: Smith, Blevins and Wolf Bank
+Account Number: 6233561450
+Consent Status: Revoked

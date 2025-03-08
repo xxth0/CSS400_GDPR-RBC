@@ -1,0 +1,6 @@
+Customer ID: 2482
+Name: Vincent Humphrey
+National ID: 897-02-9758
+Bank: Alvarez, Medina and Cox Bank
+Account Number: 7290078855
+Consent Status: Revoked

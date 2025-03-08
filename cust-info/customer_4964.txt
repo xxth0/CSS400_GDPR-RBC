@@ -1,0 +1,6 @@
+Customer ID: 4964
+Name: Jeffrey Owens
+National ID: 269-55-7289
+Bank: Rose-Hill Bank
+Account Number: 2110178694
+Consent Status: Granted

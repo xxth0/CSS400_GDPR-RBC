@@ -1,0 +1,6 @@
+Customer ID: 4542
+Name: Matthew Kirby
+National ID: 551-79-2653
+Bank: Nelson Inc Bank
+Account Number: 9773394813
+Consent Status: Revoked

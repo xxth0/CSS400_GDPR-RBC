@@ -1,0 +1,6 @@
+Customer ID: 5597
+Name: Monica Payne
+National ID: 439-61-7843
+Bank: Everett-Mckay Bank
+Account Number: 4063565992
+Consent Status: Revoked

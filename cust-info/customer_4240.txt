@@ -1,0 +1,6 @@
+Customer ID: 4240
+Name: Rachel Brown
+National ID: 744-24-1058
+Bank: Guerra, Oliver and Guerrero Bank
+Account Number: 1510959037
+Consent Status: Granted

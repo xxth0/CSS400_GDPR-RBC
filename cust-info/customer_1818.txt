@@ -1,0 +1,6 @@
+Customer ID: 1818
+Name: Ryan Harrison
+National ID: 125-87-5937
+Bank: Johnson Inc Bank
+Account Number: 9610757766
+Consent Status: Revoked

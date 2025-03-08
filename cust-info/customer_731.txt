@@ -1,0 +1,6 @@
+Customer ID: 731
+Name: Derrick Campbell
+National ID: 348-90-7841
+Bank: Reynolds, Tran and Smith Bank
+Account Number: 2042571762
+Consent Status: Revoked

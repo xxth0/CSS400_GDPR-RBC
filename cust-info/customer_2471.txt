@@ -1,0 +1,6 @@
+Customer ID: 2471
+Name: Jennifer Schmidt
+National ID: 098-25-0691
+Bank: Sherman-Ross Bank
+Account Number: 5289504158
+Consent Status: Granted

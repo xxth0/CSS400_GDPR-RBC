@@ -1,0 +1,6 @@
+Customer ID: 4612
+Name: Thomas Flores
+National ID: 323-91-5838
+Bank: Myers-Miller Bank
+Account Number: 1837175868
+Consent Status: Granted

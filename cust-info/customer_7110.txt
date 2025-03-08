@@ -1,0 +1,6 @@
+Customer ID: 7110
+Name: David Lara
+National ID: 016-68-1613
+Bank: Russo Inc Bank
+Account Number: 9826805774
+Consent Status: Granted

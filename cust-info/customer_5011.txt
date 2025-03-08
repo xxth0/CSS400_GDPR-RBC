@@ -1,0 +1,6 @@
+Customer ID: 5011
+Name: Kenneth Johnson
+National ID: 391-95-2835
+Bank: Hale-Jones Bank
+Account Number: 7959306086
+Consent Status: Granted

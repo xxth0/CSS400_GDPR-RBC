@@ -1,0 +1,6 @@
+Customer ID: 3502
+Name: Michael Schwartz
+National ID: 182-59-1451
+Bank: Hayes-Potts Bank
+Account Number: 5195233560
+Consent Status: Granted

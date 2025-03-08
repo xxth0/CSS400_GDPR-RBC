@@ -1,0 +1,6 @@
+Customer ID: 7981
+Name: Paul Nelson
+National ID: 123-69-1104
+Bank: Johnston and Sons Bank
+Account Number: 3183102402
+Consent Status: Granted

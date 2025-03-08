@@ -1,0 +1,6 @@
+Customer ID: 5941
+Name: Mikayla Taylor
+National ID: 791-36-6674
+Bank: Chang LLC Bank
+Account Number: 7464991573
+Consent Status: Revoked

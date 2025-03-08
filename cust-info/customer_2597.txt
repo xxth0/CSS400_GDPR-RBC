@@ -1,0 +1,6 @@
+Customer ID: 2597
+Name: Tiffany Jackson
+National ID: 234-09-4402
+Bank: Acosta Ltd Bank
+Account Number: 3890944799
+Consent Status: Granted

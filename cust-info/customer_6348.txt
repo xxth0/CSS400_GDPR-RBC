@@ -1,0 +1,6 @@
+Customer ID: 6348
+Name: Andrew Anderson
+National ID: 690-44-0408
+Bank: Garcia, Glass and Page Bank
+Account Number: 3162172543
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3454
+Name: Sharon Proctor
+National ID: 615-11-2083
+Bank: Robinson, King and Williamson Bank
+Account Number: 1432919584
+Consent Status: Revoked

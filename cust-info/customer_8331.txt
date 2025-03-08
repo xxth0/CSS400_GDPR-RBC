@@ -1,0 +1,6 @@
+Customer ID: 8331
+Name: Tammy Mitchell
+National ID: 668-36-8792
+Bank: Lawrence Ltd Bank
+Account Number: 4273803870
+Consent Status: Granted

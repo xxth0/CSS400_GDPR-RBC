@@ -1,0 +1,6 @@
+Customer ID: 2812
+Name: Karen Bowen
+National ID: 292-63-7389
+Bank: Butler, Frazier and Benton Bank
+Account Number: 8370159761
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3589
+Name: William Chandler
+National ID: 702-55-0025
+Bank: Porter, Delgado and Alvarado Bank
+Account Number: 9822555322
+Consent Status: Revoked

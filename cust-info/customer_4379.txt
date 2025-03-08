@@ -1,0 +1,6 @@
+Customer ID: 4379
+Name: Tiffany Jordan
+National ID: 032-38-1644
+Bank: Schultz-Jackson Bank
+Account Number: 9263903979
+Consent Status: Revoked

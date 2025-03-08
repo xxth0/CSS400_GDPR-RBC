@@ -1,0 +1,6 @@
+Customer ID: 6613
+Name: Brett Wilson
+National ID: 743-95-3336
+Bank: Bell, Edwards and Kennedy Bank
+Account Number: 7824589837
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2196
+Name: Robert Tyler
+National ID: 256-16-3645
+Bank: Rodriguez, Baldwin and Bishop Bank
+Account Number: 4905141656
+Consent Status: Revoked

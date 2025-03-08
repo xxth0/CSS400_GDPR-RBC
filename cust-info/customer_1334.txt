@@ -1,0 +1,6 @@
+Customer ID: 1334
+Name: John Walker
+National ID: 145-34-7485
+Bank: Wilson-West Bank
+Account Number: 3785542304
+Consent Status: Granted

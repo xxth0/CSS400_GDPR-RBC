@@ -1,0 +1,6 @@
+Customer ID: 4079
+Name: Michael Diaz
+National ID: 317-91-9552
+Bank: Rice-Ramos Bank
+Account Number: 7832215182
+Consent Status: Revoked

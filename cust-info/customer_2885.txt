@@ -1,0 +1,6 @@
+Customer ID: 2885
+Name: Carol Brown
+National ID: 659-28-2894
+Bank: Griffin PLC Bank
+Account Number: 5624150149
+Consent Status: Revoked

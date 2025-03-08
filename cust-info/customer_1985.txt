@@ -1,0 +1,6 @@
+Customer ID: 1985
+Name: Jared Kim
+National ID: 227-99-8641
+Bank: Snyder, Hill and Patterson Bank
+Account Number: 9438389418
+Consent Status: Revoked

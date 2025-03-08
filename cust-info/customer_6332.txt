@@ -1,0 +1,6 @@
+Customer ID: 6332
+Name: Kayla Williams
+National ID: 582-78-4248
+Bank: Farley-Sanchez Bank
+Account Number: 5944656927
+Consent Status: Revoked

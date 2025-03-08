@@ -1,0 +1,6 @@
+Customer ID: 8738
+Name: Taylor Knight MD
+National ID: 680-85-7540
+Bank: Jones Group Bank
+Account Number: 3069903413
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5612
+Name: Charles Holmes
+National ID: 204-18-1005
+Bank: Williams-Franco Bank
+Account Number: 3601451411
+Consent Status: Granted

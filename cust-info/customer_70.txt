@@ -1,0 +1,6 @@
+Customer ID: 70
+Name: Stephanie Vance
+National ID: 398-25-4395
+Bank: Pineda-Mendoza Bank
+Account Number: 7668180696
+Consent Status: Revoked

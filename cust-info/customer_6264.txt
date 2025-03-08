@@ -1,0 +1,6 @@
+Customer ID: 6264
+Name: Phillip Green
+National ID: 455-19-1405
+Bank: James and Sons Bank
+Account Number: 7253963162
+Consent Status: Granted

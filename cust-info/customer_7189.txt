@@ -1,0 +1,6 @@
+Customer ID: 7189
+Name: Jillian Keith
+National ID: 185-80-8893
+Bank: Williams-Trevino Bank
+Account Number: 5091957639
+Consent Status: Revoked

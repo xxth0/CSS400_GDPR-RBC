@@ -1,0 +1,6 @@
+Customer ID: 823
+Name: Megan Wyatt
+National ID: 114-66-9777
+Bank: Brown-Ferguson Bank
+Account Number: 6706170831
+Consent Status: Revoked

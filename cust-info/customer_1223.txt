@@ -1,0 +1,6 @@
+Customer ID: 1223
+Name: Andrew Mitchell
+National ID: 607-99-6199
+Bank: Ballard-Ponce Bank
+Account Number: 5499555471
+Consent Status: Revoked

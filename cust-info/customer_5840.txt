@@ -1,0 +1,6 @@
+Customer ID: 5840
+Name: Lauren Rivera
+National ID: 257-21-9365
+Bank: Stewart-Melton Bank
+Account Number: 4074736468
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7663
+Name: James Davis
+National ID: 258-12-9000
+Bank: Marquez-Wood Bank
+Account Number: 4761405925
+Consent Status: Granted

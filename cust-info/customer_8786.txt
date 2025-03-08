@@ -1,0 +1,6 @@
+Customer ID: 8786
+Name: David Sanchez
+National ID: 489-40-7847
+Bank: Miller, Hunter and Salas Bank
+Account Number: 3029112884
+Consent Status: Revoked

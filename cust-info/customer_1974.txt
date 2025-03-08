@@ -1,0 +1,6 @@
+Customer ID: 1974
+Name: Jonathan Grant
+National ID: 649-36-9800
+Bank: Jackson PLC Bank
+Account Number: 5155443272
+Consent Status: Revoked

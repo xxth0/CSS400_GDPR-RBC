@@ -1,0 +1,6 @@
+Customer ID: 8838
+Name: Christopher Ward
+National ID: 158-49-4147
+Bank: Taylor PLC Bank
+Account Number: 6112697212
+Consent Status: Granted

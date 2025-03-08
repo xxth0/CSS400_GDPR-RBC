@@ -1,0 +1,6 @@
+Customer ID: 2808
+Name: Aaron Thomas
+National ID: 783-54-8735
+Bank: Mann-Thompson Bank
+Account Number: 9088016308
+Consent Status: Revoked

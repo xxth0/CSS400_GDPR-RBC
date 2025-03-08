@@ -1,0 +1,6 @@
+Customer ID: 6245
+Name: Jessica Rodriguez
+National ID: 552-18-0200
+Bank: Conner LLC Bank
+Account Number: 9486731013
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9856
+Name: Teresa King
+National ID: 025-61-8283
+Bank: Chambers PLC Bank
+Account Number: 6276866571
+Consent Status: Granted

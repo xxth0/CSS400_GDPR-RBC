@@ -1,0 +1,6 @@
+Customer ID: 9364
+Name: Luis Jones
+National ID: 177-09-6780
+Bank: Miles Inc Bank
+Account Number: 1460771564
+Consent Status: Granted

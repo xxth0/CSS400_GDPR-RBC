@@ -1,0 +1,6 @@
+Customer ID: 7355
+Name: Linda Hicks
+National ID: 895-21-9599
+Bank: Foster, Lambert and Bell Bank
+Account Number: 1062108654
+Consent Status: Revoked

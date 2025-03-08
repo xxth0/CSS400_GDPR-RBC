@@ -1,0 +1,6 @@
+Customer ID: 1888
+Name: Stephen Flores
+National ID: 854-53-8331
+Bank: James PLC Bank
+Account Number: 6289922065
+Consent Status: Revoked

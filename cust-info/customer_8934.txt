@@ -1,0 +1,6 @@
+Customer ID: 8934
+Name: Rachel Green
+National ID: 751-23-2383
+Bank: Hunter Group Bank
+Account Number: 4834362003
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6310
+Name: Carol Cook
+National ID: 385-40-4107
+Bank: Mcmahon-Baker Bank
+Account Number: 5558061826
+Consent Status: Granted

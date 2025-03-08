@@ -1,0 +1,6 @@
+Customer ID: 1904
+Name: Keith King
+National ID: 765-45-5782
+Bank: Tanner-Mcdowell Bank
+Account Number: 2030451518
+Consent Status: Granted

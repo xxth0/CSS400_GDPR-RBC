@@ -1,0 +1,6 @@
+Customer ID: 3879
+Name: Denise Frost
+National ID: 231-47-9705
+Bank: Bailey-Lamb Bank
+Account Number: 2043072849
+Consent Status: Revoked

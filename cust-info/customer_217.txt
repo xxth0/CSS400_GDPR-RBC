@@ -1,0 +1,6 @@
+Customer ID: 217
+Name: Tiffany Wright MD
+National ID: 231-46-3329
+Bank: Benitez LLC Bank
+Account Number: 9070282116
+Consent Status: Revoked

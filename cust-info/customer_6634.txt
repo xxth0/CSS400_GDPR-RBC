@@ -1,0 +1,6 @@
+Customer ID: 6634
+Name: Brandon Barton
+National ID: 548-81-8924
+Bank: Jimenez-Rojas Bank
+Account Number: 1942611807
+Consent Status: Granted

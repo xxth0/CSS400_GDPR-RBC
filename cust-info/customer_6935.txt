@@ -1,0 +1,6 @@
+Customer ID: 6935
+Name: Carol Larsen
+National ID: 232-95-6296
+Bank: Mcdaniel, Johnson and Greene Bank
+Account Number: 2019505927
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6796
+Name: Cynthia Howell
+National ID: 741-10-6777
+Bank: Foster Group Bank
+Account Number: 3143553919
+Consent Status: Granted

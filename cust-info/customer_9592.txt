@@ -1,0 +1,6 @@
+Customer ID: 9592
+Name: Katherine Gonzalez
+National ID: 421-12-5745
+Bank: Rosales Ltd Bank
+Account Number: 4736624091
+Consent Status: Granted

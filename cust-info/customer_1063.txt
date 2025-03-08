@@ -1,0 +1,6 @@
+Customer ID: 1063
+Name: Jennifer Jones
+National ID: 295-52-8842
+Bank: Diaz, Maynard and Mcintosh Bank
+Account Number: 5242968473
+Consent Status: Granted

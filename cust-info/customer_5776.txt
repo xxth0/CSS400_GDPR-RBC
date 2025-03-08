@@ -1,0 +1,6 @@
+Customer ID: 5776
+Name: Morgan Ross
+National ID: 428-09-9749
+Bank: Mann-Garcia Bank
+Account Number: 1101149294
+Consent Status: Granted

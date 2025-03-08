@@ -1,0 +1,6 @@
+Customer ID: 4960
+Name: Vernon Jones
+National ID: 525-80-3838
+Bank: Miller, Lane and Pearson Bank
+Account Number: 7068015723
+Consent Status: Granted

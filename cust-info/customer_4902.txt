@@ -1,0 +1,6 @@
+Customer ID: 4902
+Name: Roy Turner
+National ID: 753-08-2179
+Bank: Price Group Bank
+Account Number: 3433916224
+Consent Status: Granted

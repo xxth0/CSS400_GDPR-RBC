@@ -1,0 +1,6 @@
+Customer ID: 1264
+Name: Cheryl Warner
+National ID: 366-82-1119
+Bank: Smith-Valencia Bank
+Account Number: 5335746580
+Consent Status: Revoked

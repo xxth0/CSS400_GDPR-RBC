@@ -1,0 +1,6 @@
+Customer ID: 3026
+Name: Anthony Clark
+National ID: 229-94-3821
+Bank: Adams Ltd Bank
+Account Number: 1465009791
+Consent Status: Revoked

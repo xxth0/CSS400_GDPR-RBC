@@ -1,0 +1,6 @@
+Customer ID: 3261
+Name: Kenneth West
+National ID: 097-96-3189
+Bank: Mason, Mitchell and Gonzalez Bank
+Account Number: 6984706014
+Consent Status: Granted

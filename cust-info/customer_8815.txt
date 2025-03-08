@@ -1,0 +1,6 @@
+Customer ID: 8815
+Name: Elizabeth Burns
+National ID: 629-78-6770
+Bank: Reeves Ltd Bank
+Account Number: 1088808291
+Consent Status: Revoked

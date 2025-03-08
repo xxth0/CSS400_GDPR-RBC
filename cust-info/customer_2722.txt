@@ -1,0 +1,6 @@
+Customer ID: 2722
+Name: Juan Durham
+National ID: 500-86-7894
+Bank: Brewer, Butler and Hartman Bank
+Account Number: 6486979328
+Consent Status: Granted

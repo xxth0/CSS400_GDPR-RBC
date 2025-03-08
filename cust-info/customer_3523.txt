@@ -1,0 +1,6 @@
+Customer ID: 3523
+Name: Brian Hill
+National ID: 288-48-0652
+Bank: Case-Murphy Bank
+Account Number: 7930834826
+Consent Status: Revoked

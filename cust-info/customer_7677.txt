@@ -1,0 +1,6 @@
+Customer ID: 7677
+Name: Adam Brown
+National ID: 882-14-9895
+Bank: Wilson-Cole Bank
+Account Number: 8640594200
+Consent Status: Granted

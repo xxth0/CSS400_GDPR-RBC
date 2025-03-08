@@ -1,0 +1,6 @@
+Customer ID: 8814
+Name: Donald Kramer
+National ID: 170-87-2040
+Bank: Johnson-Olson Bank
+Account Number: 2216667406
+Consent Status: Granted

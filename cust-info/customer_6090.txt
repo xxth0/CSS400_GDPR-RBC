@@ -1,0 +1,6 @@
+Customer ID: 6090
+Name: Gordon Burton
+National ID: 433-26-8439
+Bank: Mccullough-Porter Bank
+Account Number: 8515240477
+Consent Status: Granted

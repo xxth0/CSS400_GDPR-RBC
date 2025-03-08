@@ -1,0 +1,6 @@
+Customer ID: 6581
+Name: Ashley Andersen
+National ID: 202-77-5663
+Bank: Turner, Manning and Moses Bank
+Account Number: 8768510322
+Consent Status: Revoked

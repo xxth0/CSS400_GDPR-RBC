@@ -1,0 +1,6 @@
+Customer ID: 4622
+Name: George Davis
+National ID: 222-09-2703
+Bank: Trevino, Johnson and Santiago Bank
+Account Number: 5786718333
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9218
+Name: Teresa Green
+National ID: 068-04-7640
+Bank: Goodman Inc Bank
+Account Number: 8529422372
+Consent Status: Revoked

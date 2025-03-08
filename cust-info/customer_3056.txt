@@ -1,0 +1,6 @@
+Customer ID: 3056
+Name: Brittany Chambers
+National ID: 244-29-7721
+Bank: Powers, Welch and Warren Bank
+Account Number: 8028350598
+Consent Status: Granted

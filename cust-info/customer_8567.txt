@@ -1,0 +1,6 @@
+Customer ID: 8567
+Name: Pamela Cole
+National ID: 827-81-9508
+Bank: Armstrong-Byrd Bank
+Account Number: 7271378388
+Consent Status: Revoked

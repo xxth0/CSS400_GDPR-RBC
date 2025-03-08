@@ -1,0 +1,6 @@
+Customer ID: 8
+Name: Justin Bryant
+National ID: 537-10-1867
+Bank: Johnson-Green Bank
+Account Number: 5998831818
+Consent Status: Revoked

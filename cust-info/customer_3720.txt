@@ -1,0 +1,6 @@
+Customer ID: 3720
+Name: Rachel Cook
+National ID: 246-24-3294
+Bank: Ellis, Mitchell and James Bank
+Account Number: 1785122755
+Consent Status: Revoked

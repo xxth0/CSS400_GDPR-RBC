@@ -1,0 +1,6 @@
+Customer ID: 944
+Name: Hannah Holloway
+National ID: 571-23-9746
+Bank: Rodriguez PLC Bank
+Account Number: 3698043292
+Consent Status: Revoked

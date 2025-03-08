@@ -1,0 +1,6 @@
+Customer ID: 2350
+Name: John Fowler
+National ID: 847-10-1634
+Bank: Williams-Gibbs Bank
+Account Number: 5476175941
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8959
+Name: Robin Smith
+National ID: 163-25-1140
+Bank: Pineda Ltd Bank
+Account Number: 2257825493
+Consent Status: Granted

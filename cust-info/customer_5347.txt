@@ -1,0 +1,6 @@
+Customer ID: 5347
+Name: Albert Patterson
+National ID: 564-13-1735
+Bank: Martin Group Bank
+Account Number: 7594307983
+Consent Status: Revoked

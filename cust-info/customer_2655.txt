@@ -1,0 +1,6 @@
+Customer ID: 2655
+Name: Tony Schroeder
+National ID: 641-91-4057
+Bank: Wilkerson-Gomez Bank
+Account Number: 4738084446
+Consent Status: Granted

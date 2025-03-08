@@ -1,0 +1,6 @@
+Customer ID: 2347
+Name: Sarah Ford
+National ID: 210-84-7410
+Bank: Hicks, Davis and Hill Bank
+Account Number: 9142053825
+Consent Status: Revoked

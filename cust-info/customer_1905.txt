@@ -1,0 +1,6 @@
+Customer ID: 1905
+Name: Randall Brady
+National ID: 196-36-8039
+Bank: Jenkins-Mendoza Bank
+Account Number: 4170583286
+Consent Status: Revoked

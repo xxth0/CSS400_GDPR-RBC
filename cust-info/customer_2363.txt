@@ -1,0 +1,6 @@
+Customer ID: 2363
+Name: Jenna Castro
+National ID: 510-98-0623
+Bank: Carrillo PLC Bank
+Account Number: 3162290855
+Consent Status: Revoked

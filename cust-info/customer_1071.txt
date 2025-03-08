@@ -1,0 +1,6 @@
+Customer ID: 1071
+Name: Brian Gonzales
+National ID: 611-92-9769
+Bank: Rodriguez and Sons Bank
+Account Number: 8614170093
+Consent Status: Granted

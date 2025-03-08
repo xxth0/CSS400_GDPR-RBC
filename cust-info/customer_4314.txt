@@ -1,0 +1,6 @@
+Customer ID: 4314
+Name: Tracy Smith
+National ID: 290-76-6243
+Bank: Baker and Sons Bank
+Account Number: 1206084907
+Consent Status: Granted

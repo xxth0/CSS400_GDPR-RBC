@@ -1,0 +1,6 @@
+Customer ID: 1028
+Name: Lisa Taylor
+National ID: 180-38-1237
+Bank: Dyer Inc Bank
+Account Number: 6974449908
+Consent Status: Revoked

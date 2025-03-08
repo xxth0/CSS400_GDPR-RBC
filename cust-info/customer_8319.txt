@@ -1,0 +1,6 @@
+Customer ID: 8319
+Name: Tiffany West
+National ID: 492-92-9900
+Bank: Diaz-Perez Bank
+Account Number: 5490104661
+Consent Status: Granted

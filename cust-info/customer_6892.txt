@@ -1,0 +1,6 @@
+Customer ID: 6892
+Name: Bradley Potts
+National ID: 605-63-0252
+Bank: Ramirez-Aguilar Bank
+Account Number: 9835913115
+Consent Status: Revoked

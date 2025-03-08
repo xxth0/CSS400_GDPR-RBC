@@ -1,0 +1,6 @@
+Customer ID: 1869
+Name: Miguel Martin
+National ID: 517-93-8289
+Bank: Harmon and Sons Bank
+Account Number: 6370903834
+Consent Status: Revoked

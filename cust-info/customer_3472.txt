@@ -1,0 +1,6 @@
+Customer ID: 3472
+Name: Richard Martinez
+National ID: 858-19-0739
+Bank: Mendoza-Jones Bank
+Account Number: 1903232043
+Consent Status: Granted

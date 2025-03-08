@@ -1,0 +1,6 @@
+Customer ID: 5502
+Name: Dylan Marshall
+National ID: 097-08-1797
+Bank: Ray, Martin and Phelps Bank
+Account Number: 2183768845
+Consent Status: Granted

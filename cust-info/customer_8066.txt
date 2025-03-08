@@ -1,0 +1,6 @@
+Customer ID: 8066
+Name: John Gray
+National ID: 489-92-4466
+Bank: Valdez-Leonard Bank
+Account Number: 9736615826
+Consent Status: Granted

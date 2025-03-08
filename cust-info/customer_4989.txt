@@ -1,0 +1,6 @@
+Customer ID: 4989
+Name: Eric Randall V
+National ID: 680-31-3633
+Bank: Mason-Perez Bank
+Account Number: 2930732072
+Consent Status: Revoked

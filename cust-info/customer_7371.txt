@@ -1,0 +1,6 @@
+Customer ID: 7371
+Name: Kimberly Lloyd
+National ID: 598-70-8333
+Bank: Lopez and Sons Bank
+Account Number: 5826473293
+Consent Status: Granted

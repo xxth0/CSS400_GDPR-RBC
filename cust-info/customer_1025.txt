@@ -1,0 +1,6 @@
+Customer ID: 1025
+Name: Randy Williams
+National ID: 768-89-3834
+Bank: Macias, Morgan and English Bank
+Account Number: 1996750529
+Consent Status: Revoked

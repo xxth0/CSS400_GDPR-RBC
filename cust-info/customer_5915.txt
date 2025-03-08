@@ -1,0 +1,6 @@
+Customer ID: 5915
+Name: Angel Kim
+National ID: 591-57-1174
+Bank: Nelson Group Bank
+Account Number: 1045402030
+Consent Status: Granted

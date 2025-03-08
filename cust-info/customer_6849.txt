@@ -1,0 +1,6 @@
+Customer ID: 6849
+Name: Maria Archer
+National ID: 388-72-6606
+Bank: Allen-Gonzalez Bank
+Account Number: 9684524345
+Consent Status: Revoked

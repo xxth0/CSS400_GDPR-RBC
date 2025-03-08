@@ -1,0 +1,6 @@
+Customer ID: 4961
+Name: Jennifer Davila
+National ID: 555-21-6698
+Bank: Barrett Group Bank
+Account Number: 5438683207
+Consent Status: Revoked

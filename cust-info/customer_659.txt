@@ -1,0 +1,6 @@
+Customer ID: 659
+Name: Michael Bell
+National ID: 461-26-9035
+Bank: Short, Brown and Hampton Bank
+Account Number: 8762801537
+Consent Status: Revoked

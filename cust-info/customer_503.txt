@@ -1,0 +1,6 @@
+Customer ID: 503
+Name: Sarah Smith
+National ID: 315-18-0857
+Bank: Washington, Stone and Walker Bank
+Account Number: 1814102273
+Consent Status: Granted

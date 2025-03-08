@@ -1,0 +1,6 @@
+Customer ID: 9318
+Name: Eugene Lee
+National ID: 148-50-5995
+Bank: Wallace-Johnson Bank
+Account Number: 9261464701
+Consent Status: Granted

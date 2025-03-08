@@ -1,0 +1,6 @@
+Customer ID: 8848
+Name: Cheryl Randolph
+National ID: 500-15-6147
+Bank: Lewis Ltd Bank
+Account Number: 1373620157
+Consent Status: Revoked

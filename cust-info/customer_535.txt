@@ -1,0 +1,6 @@
+Customer ID: 535
+Name: Alicia Simmons
+National ID: 330-86-5425
+Bank: Petersen-Lynn Bank
+Account Number: 9766758880
+Consent Status: Granted

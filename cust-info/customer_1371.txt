@@ -1,0 +1,6 @@
+Customer ID: 1371
+Name: Christina Osborne
+National ID: 717-95-6213
+Bank: Lopez, Carr and Nichols Bank
+Account Number: 9968395130
+Consent Status: Granted

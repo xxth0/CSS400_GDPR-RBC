@@ -1,0 +1,6 @@
+Customer ID: 364
+Name: Annette Williams
+National ID: 501-37-2294
+Bank: Cooper-Alvarez Bank
+Account Number: 6964481074
+Consent Status: Revoked

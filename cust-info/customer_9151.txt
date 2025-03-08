@@ -1,0 +1,6 @@
+Customer ID: 9151
+Name: Joseph Schneider MD
+National ID: 066-11-8024
+Bank: Gonzalez-Mclean Bank
+Account Number: 6665632113
+Consent Status: Granted

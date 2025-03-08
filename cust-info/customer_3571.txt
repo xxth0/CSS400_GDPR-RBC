@@ -1,0 +1,6 @@
+Customer ID: 3571
+Name: Katherine Robertson
+National ID: 055-47-5059
+Bank: Martin Ltd Bank
+Account Number: 8950987807
+Consent Status: Granted

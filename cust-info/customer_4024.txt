@@ -1,0 +1,6 @@
+Customer ID: 4024
+Name: Robert Ramos
+National ID: 614-66-9818
+Bank: Horn, Miller and Pope Bank
+Account Number: 8809397470
+Consent Status: Revoked

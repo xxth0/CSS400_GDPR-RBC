@@ -1,0 +1,6 @@
+Customer ID: 1762
+Name: Stephen Pittman PhD
+National ID: 683-36-4487
+Bank: Moss Ltd Bank
+Account Number: 2435921970
+Consent Status: Revoked

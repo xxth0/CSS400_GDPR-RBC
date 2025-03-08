@@ -1,0 +1,6 @@
+Customer ID: 2055
+Name: James Wilson
+National ID: 491-22-8665
+Bank: Anderson, Curtis and Simmons Bank
+Account Number: 4700643080
+Consent Status: Granted

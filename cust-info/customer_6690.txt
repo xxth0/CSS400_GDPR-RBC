@@ -1,0 +1,6 @@
+Customer ID: 6690
+Name: Christopher Gonzalez
+National ID: 034-69-7229
+Bank: Singleton-Krueger Bank
+Account Number: 5235040738
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 536
+Name: David Buchanan
+National ID: 374-77-2119
+Bank: Welch, Peck and Rose Bank
+Account Number: 2618967674
+Consent Status: Granted

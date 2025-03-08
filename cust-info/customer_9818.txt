@@ -1,0 +1,6 @@
+Customer ID: 9818
+Name: Maria Jones
+National ID: 711-87-2689
+Bank: Nunez LLC Bank
+Account Number: 9892931254
+Consent Status: Revoked

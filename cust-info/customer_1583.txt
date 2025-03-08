@@ -1,0 +1,6 @@
+Customer ID: 1583
+Name: Tyler Compton
+National ID: 447-18-5922
+Bank: Adams-Gibson Bank
+Account Number: 5125705290
+Consent Status: Revoked

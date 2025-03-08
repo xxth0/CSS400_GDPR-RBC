@@ -1,0 +1,6 @@
+Customer ID: 4271
+Name: Michael Joseph
+National ID: 745-87-7076
+Bank: Chambers Group Bank
+Account Number: 8749068104
+Consent Status: Granted

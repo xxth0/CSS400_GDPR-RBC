@@ -1,0 +1,6 @@
+Customer ID: 740
+Name: Scott Daniel
+National ID: 321-47-9362
+Bank: Jones-Krause Bank
+Account Number: 9728036525
+Consent Status: Granted

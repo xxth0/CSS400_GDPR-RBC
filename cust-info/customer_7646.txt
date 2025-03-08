@@ -1,0 +1,6 @@
+Customer ID: 7646
+Name: Michael Ray
+National ID: 880-57-4228
+Bank: Armstrong-Jordan Bank
+Account Number: 9375031903
+Consent Status: Revoked

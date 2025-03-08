@@ -1,0 +1,6 @@
+Customer ID: 6940
+Name: Linda Cortez
+National ID: 452-79-0720
+Bank: Williams LLC Bank
+Account Number: 3642865356
+Consent Status: Revoked

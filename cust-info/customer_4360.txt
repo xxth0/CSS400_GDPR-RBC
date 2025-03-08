@@ -1,0 +1,6 @@
+Customer ID: 4360
+Name: Tyler Taylor
+National ID: 749-17-0021
+Bank: Lee-Davis Bank
+Account Number: 3792305295
+Consent Status: Granted

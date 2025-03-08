@@ -1,0 +1,6 @@
+Customer ID: 1543
+Name: Leonard Mercado
+National ID: 133-75-0926
+Bank: Lowe and Sons Bank
+Account Number: 5223033979
+Consent Status: Granted

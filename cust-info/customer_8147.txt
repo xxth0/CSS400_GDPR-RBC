@@ -1,0 +1,6 @@
+Customer ID: 8147
+Name: Tim Harris
+National ID: 172-31-1300
+Bank: David, Anderson and Martin Bank
+Account Number: 8305845870
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 750
+Name: John Phillips
+National ID: 729-83-1539
+Bank: Buck-Smith Bank
+Account Number: 8772461192
+Consent Status: Revoked

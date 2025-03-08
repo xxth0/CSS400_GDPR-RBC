@@ -1,0 +1,6 @@
+Customer ID: 2675
+Name: Charles Travis
+National ID: 561-55-1219
+Bank: Gibson Ltd Bank
+Account Number: 4075206480
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4555
+Name: Holly Brandt
+National ID: 256-32-7217
+Bank: Trujillo, Harrison and Huynh Bank
+Account Number: 3054983088
+Consent Status: Revoked

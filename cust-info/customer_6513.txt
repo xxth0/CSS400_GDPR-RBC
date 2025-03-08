@@ -1,0 +1,6 @@
+Customer ID: 6513
+Name: David Saunders
+National ID: 036-11-0973
+Bank: Miller LLC Bank
+Account Number: 3885220514
+Consent Status: Revoked

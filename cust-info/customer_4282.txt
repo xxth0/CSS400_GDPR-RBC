@@ -1,0 +1,6 @@
+Customer ID: 4282
+Name: Andrew Kim
+National ID: 829-20-6043
+Bank: Hayes, Mosley and Chan Bank
+Account Number: 4905301695
+Consent Status: Revoked

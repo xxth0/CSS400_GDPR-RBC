@@ -1,0 +1,6 @@
+Customer ID: 5214
+Name: Michael Martin
+National ID: 171-12-0211
+Bank: Burke, Brown and Tucker Bank
+Account Number: 4980499817
+Consent Status: Granted

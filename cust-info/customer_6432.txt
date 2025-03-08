@@ -1,0 +1,6 @@
+Customer ID: 6432
+Name: Kelly Scott
+National ID: 509-97-2223
+Bank: Guzman-Cook Bank
+Account Number: 3826284836
+Consent Status: Revoked

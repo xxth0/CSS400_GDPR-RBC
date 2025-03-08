@@ -1,0 +1,6 @@
+Customer ID: 7335
+Name: Patrick Allen
+National ID: 569-60-8903
+Bank: Jackson, Mitchell and Johnson Bank
+Account Number: 7852438763
+Consent Status: Granted

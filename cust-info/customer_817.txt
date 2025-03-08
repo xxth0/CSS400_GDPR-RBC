@@ -1,0 +1,6 @@
+Customer ID: 817
+Name: Theresa Rodriguez
+National ID: 692-76-6883
+Bank: Palmer, Johnston and Meyer Bank
+Account Number: 5066067693
+Consent Status: Revoked

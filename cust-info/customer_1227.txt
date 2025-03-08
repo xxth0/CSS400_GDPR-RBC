@@ -1,0 +1,6 @@
+Customer ID: 1227
+Name: Michele Martin
+National ID: 794-84-7903
+Bank: Mueller, Wiley and Church Bank
+Account Number: 2771111435
+Consent Status: Revoked

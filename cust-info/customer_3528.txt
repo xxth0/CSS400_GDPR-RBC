@@ -1,0 +1,6 @@
+Customer ID: 3528
+Name: Guy Graham
+National ID: 897-07-9646
+Bank: Rodriguez-Wyatt Bank
+Account Number: 8386457029
+Consent Status: Granted

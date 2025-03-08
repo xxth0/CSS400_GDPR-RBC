@@ -1,0 +1,6 @@
+Customer ID: 547
+Name: Joshua Ritter
+National ID: 529-04-9135
+Bank: Williams-Proctor Bank
+Account Number: 3281461090
+Consent Status: Revoked

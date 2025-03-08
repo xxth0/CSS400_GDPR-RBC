@@ -1,0 +1,6 @@
+Customer ID: 6102
+Name: Gabriel Collins
+National ID: 697-30-0731
+Bank: Olson LLC Bank
+Account Number: 5701850887
+Consent Status: Revoked

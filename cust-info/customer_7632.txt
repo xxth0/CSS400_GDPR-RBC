@@ -1,0 +1,6 @@
+Customer ID: 7632
+Name: Jordan Brown
+National ID: 005-20-2155
+Bank: Perry, Turner and Eaton Bank
+Account Number: 8274433761
+Consent Status: Granted

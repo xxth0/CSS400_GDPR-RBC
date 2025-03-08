@@ -1,0 +1,6 @@
+Customer ID: 3013
+Name: Nathaniel Bell
+National ID: 019-80-0807
+Bank: Nguyen, Jenkins and Williams Bank
+Account Number: 9633697071
+Consent Status: Revoked

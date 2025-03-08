@@ -1,0 +1,6 @@
+Customer ID: 6177
+Name: Ryan Velez
+National ID: 539-45-8036
+Bank: Lewis-Murphy Bank
+Account Number: 1005381452
+Consent Status: Revoked

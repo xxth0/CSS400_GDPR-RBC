@@ -1,0 +1,6 @@
+Customer ID: 8487
+Name: Makayla Gibson
+National ID: 773-99-3334
+Bank: Daniel, Wood and Anderson Bank
+Account Number: 2190169961
+Consent Status: Revoked

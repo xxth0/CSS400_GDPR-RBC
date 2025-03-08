@@ -1,0 +1,6 @@
+Customer ID: 5984
+Name: Brooke Thomas
+National ID: 784-70-7126
+Bank: Myers, Perry and Hale Bank
+Account Number: 4728481089
+Consent Status: Granted

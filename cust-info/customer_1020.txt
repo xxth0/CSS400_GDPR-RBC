@@ -1,0 +1,6 @@
+Customer ID: 1020
+Name: Sarah Thomas
+National ID: 148-37-6409
+Bank: Rios PLC Bank
+Account Number: 7524130789
+Consent Status: Granted

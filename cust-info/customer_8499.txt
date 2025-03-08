@@ -1,0 +1,6 @@
+Customer ID: 8499
+Name: Sierra Shaffer
+National ID: 727-24-9385
+Bank: Elliott, Bryant and Kim Bank
+Account Number: 4334021327
+Consent Status: Revoked

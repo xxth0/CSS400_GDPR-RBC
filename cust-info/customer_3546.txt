@@ -1,0 +1,6 @@
+Customer ID: 3546
+Name: Lisa Gonzalez
+National ID: 843-89-8325
+Bank: Brown PLC Bank
+Account Number: 4148147698
+Consent Status: Revoked

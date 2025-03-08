@@ -1,0 +1,6 @@
+Customer ID: 2894
+Name: Peter Benson
+National ID: 131-84-3132
+Bank: Ramirez, Watson and Vazquez Bank
+Account Number: 1227487235
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 732
+Name: Martin Wilson
+National ID: 717-53-9043
+Bank: Bowers-Hamilton Bank
+Account Number: 8605296448
+Consent Status: Granted

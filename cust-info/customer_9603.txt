@@ -1,0 +1,6 @@
+Customer ID: 9603
+Name: Tiffany Griffith
+National ID: 643-25-0193
+Bank: Burns-Carrillo Bank
+Account Number: 3446212323
+Consent Status: Granted

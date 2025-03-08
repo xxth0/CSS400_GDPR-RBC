@@ -1,0 +1,6 @@
+Customer ID: 8732
+Name: Joan Garcia
+National ID: 046-49-3101
+Bank: Wilson, Ramsey and Wood Bank
+Account Number: 5095904524
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1819
+Name: Deborah Moore
+National ID: 121-95-5691
+Bank: Mcdowell Inc Bank
+Account Number: 7191932575
+Consent Status: Revoked

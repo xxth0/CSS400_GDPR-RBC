@@ -1,0 +1,6 @@
+Customer ID: 7435
+Name: Michael Riley
+National ID: 749-76-9314
+Bank: Fernandez LLC Bank
+Account Number: 5634408021
+Consent Status: Granted

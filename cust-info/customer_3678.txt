@@ -1,0 +1,6 @@
+Customer ID: 3678
+Name: Nathan Ballard
+National ID: 038-61-3859
+Bank: Adams PLC Bank
+Account Number: 3864428897
+Consent Status: Revoked

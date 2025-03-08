@@ -1,0 +1,6 @@
+Customer ID: 9044
+Name: William Mejia
+National ID: 826-45-5459
+Bank: Carter-Jones Bank
+Account Number: 6758006211
+Consent Status: Revoked

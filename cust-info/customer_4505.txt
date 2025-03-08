@@ -1,0 +1,6 @@
+Customer ID: 4505
+Name: Eric Green
+National ID: 105-99-7869
+Bank: Collins Ltd Bank
+Account Number: 8703734348
+Consent Status: Revoked

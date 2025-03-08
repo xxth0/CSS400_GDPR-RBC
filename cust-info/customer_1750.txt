@@ -1,0 +1,6 @@
+Customer ID: 1750
+Name: Jesse Lewis
+National ID: 771-72-9173
+Bank: Stark LLC Bank
+Account Number: 5102803714
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7647
+Name: Mario Howard
+National ID: 218-17-3446
+Bank: Lambert Inc Bank
+Account Number: 2747070641
+Consent Status: Granted

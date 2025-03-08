@@ -1,0 +1,6 @@
+Customer ID: 3652
+Name: Mary Price
+National ID: 598-47-1387
+Bank: Wall-Mcdaniel Bank
+Account Number: 7073166162
+Consent Status: Granted

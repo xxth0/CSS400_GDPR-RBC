@@ -1,0 +1,6 @@
+Customer ID: 3272
+Name: Daisy Thompson
+National ID: 063-04-0868
+Bank: Peterson-Matthews Bank
+Account Number: 5583234227
+Consent Status: Granted

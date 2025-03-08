@@ -1,0 +1,6 @@
+Customer ID: 567
+Name: Dustin Moore
+National ID: 126-91-7117
+Bank: Moon, Moreno and Chang Bank
+Account Number: 7055909681
+Consent Status: Granted

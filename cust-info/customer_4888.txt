@@ -1,0 +1,6 @@
+Customer ID: 4888
+Name: Lindsay Short
+National ID: 021-34-6955
+Bank: Sloan-Bryant Bank
+Account Number: 3045219894
+Consent Status: Granted

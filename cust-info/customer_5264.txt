@@ -1,0 +1,6 @@
+Customer ID: 5264
+Name: Andrew Collins Jr.
+National ID: 156-05-5066
+Bank: Young, Fry and Gonzalez Bank
+Account Number: 8505292133
+Consent Status: Granted

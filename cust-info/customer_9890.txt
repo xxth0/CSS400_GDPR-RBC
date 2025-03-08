@@ -1,0 +1,6 @@
+Customer ID: 9890
+Name: Juan Pacheco
+National ID: 538-75-8776
+Bank: Fields Ltd Bank
+Account Number: 2410771818
+Consent Status: Revoked

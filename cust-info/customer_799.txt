@@ -1,0 +1,6 @@
+Customer ID: 799
+Name: Angela Bryant
+National ID: 574-82-8033
+Bank: Cook, Wilson and Howard Bank
+Account Number: 6914091460
+Consent Status: Revoked

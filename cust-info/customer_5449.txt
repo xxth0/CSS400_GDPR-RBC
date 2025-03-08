@@ -1,0 +1,6 @@
+Customer ID: 5449
+Name: Tracy Hernandez
+National ID: 364-92-4917
+Bank: Browning, Williams and Decker Bank
+Account Number: 6533331281
+Consent Status: Granted

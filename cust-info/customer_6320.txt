@@ -1,0 +1,6 @@
+Customer ID: 6320
+Name: Andrew Ortiz
+National ID: 454-15-7516
+Bank: Floyd LLC Bank
+Account Number: 6047635589
+Consent Status: Revoked

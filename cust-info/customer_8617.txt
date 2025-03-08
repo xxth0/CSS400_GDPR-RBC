@@ -1,0 +1,6 @@
+Customer ID: 8617
+Name: David Richardson
+National ID: 283-29-5245
+Bank: Schultz-Smith Bank
+Account Number: 3373334053
+Consent Status: Revoked

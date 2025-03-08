@@ -1,0 +1,6 @@
+Customer ID: 2206
+Name: Michael Martinez
+National ID: 895-09-0974
+Bank: Gilbert Ltd Bank
+Account Number: 5791971694
+Consent Status: Revoked

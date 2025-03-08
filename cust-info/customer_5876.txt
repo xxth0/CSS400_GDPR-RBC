@@ -1,0 +1,6 @@
+Customer ID: 5876
+Name: Angela Melton
+National ID: 460-87-3769
+Bank: Townsend, Newton and Monroe Bank
+Account Number: 9692930112
+Consent Status: Revoked

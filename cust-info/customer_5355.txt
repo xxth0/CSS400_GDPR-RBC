@@ -1,0 +1,6 @@
+Customer ID: 5355
+Name: James Weaver
+National ID: 507-12-2116
+Bank: Edwards-Carr Bank
+Account Number: 1227600217
+Consent Status: Granted

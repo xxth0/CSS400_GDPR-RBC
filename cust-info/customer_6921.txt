@@ -1,0 +1,6 @@
+Customer ID: 6921
+Name: Brett Riggs
+National ID: 263-98-2754
+Bank: Nolan Ltd Bank
+Account Number: 9952819623
+Consent Status: Granted

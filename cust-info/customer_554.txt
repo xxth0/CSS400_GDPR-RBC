@@ -1,0 +1,6 @@
+Customer ID: 554
+Name: Charles Yu
+National ID: 575-92-6784
+Bank: Allen-Smith Bank
+Account Number: 2769911088
+Consent Status: Granted

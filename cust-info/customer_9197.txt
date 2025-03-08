@@ -1,0 +1,6 @@
+Customer ID: 9197
+Name: Douglas Cardenas
+National ID: 228-16-7569
+Bank: Martin, Morales and Coleman Bank
+Account Number: 6875984868
+Consent Status: Revoked

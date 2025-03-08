@@ -1,0 +1,6 @@
+Customer ID: 6675
+Name: Isaac Myers
+National ID: 205-59-5284
+Bank: Morrison and Sons Bank
+Account Number: 5927065366
+Consent Status: Revoked

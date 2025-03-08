@@ -1,0 +1,6 @@
+Customer ID: 4384
+Name: Christopher Bailey
+National ID: 751-67-2785
+Bank: Holden Inc Bank
+Account Number: 9823165401
+Consent Status: Granted

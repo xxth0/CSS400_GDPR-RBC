@@ -1,0 +1,6 @@
+Customer ID: 7399
+Name: Rebekah Haney
+National ID: 328-65-8494
+Bank: Johnson-Cooper Bank
+Account Number: 2374609785
+Consent Status: Granted

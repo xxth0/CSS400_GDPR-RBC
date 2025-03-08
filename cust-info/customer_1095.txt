@@ -1,0 +1,6 @@
+Customer ID: 1095
+Name: Teresa Smith
+National ID: 230-84-9702
+Bank: Robinson LLC Bank
+Account Number: 7310090612
+Consent Status: Granted

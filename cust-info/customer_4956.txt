@@ -1,0 +1,6 @@
+Customer ID: 4956
+Name: Kelly Hansen
+National ID: 872-12-3933
+Bank: Escobar-Miller Bank
+Account Number: 9511230102
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5785
+Name: Gregory Harrison
+National ID: 734-30-8311
+Bank: George-Ford Bank
+Account Number: 5752712742
+Consent Status: Granted

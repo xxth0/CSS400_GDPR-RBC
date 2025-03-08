@@ -1,0 +1,6 @@
+Customer ID: 9287
+Name: Robin Porter
+National ID: 337-08-2118
+Bank: Johnson, Myers and Chapman Bank
+Account Number: 6662645927
+Consent Status: Granted

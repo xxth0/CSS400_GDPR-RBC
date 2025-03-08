@@ -1,0 +1,6 @@
+Customer ID: 9093
+Name: Chelsea Huerta
+National ID: 611-74-5205
+Bank: Johnson, Hernandez and Simpson Bank
+Account Number: 5975198359
+Consent Status: Granted

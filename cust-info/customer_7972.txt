@@ -1,0 +1,6 @@
+Customer ID: 7972
+Name: Hector Lopez
+National ID: 445-93-7427
+Bank: Sanchez, Khan and Ward Bank
+Account Number: 1290642496
+Consent Status: Revoked

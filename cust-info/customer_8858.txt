@@ -1,0 +1,6 @@
+Customer ID: 8858
+Name: Patrick Murillo
+National ID: 861-72-8915
+Bank: Bryant and Sons Bank
+Account Number: 1829765978
+Consent Status: Granted

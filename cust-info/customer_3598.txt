@@ -1,0 +1,6 @@
+Customer ID: 3598
+Name: Jennifer White
+National ID: 108-51-8530
+Bank: Sanchez Ltd Bank
+Account Number: 1540670888
+Consent Status: Granted

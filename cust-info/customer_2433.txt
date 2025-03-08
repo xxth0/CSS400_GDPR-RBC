@@ -1,0 +1,6 @@
+Customer ID: 2433
+Name: Cody Lewis
+National ID: 469-60-2698
+Bank: Clark Inc Bank
+Account Number: 9567971122
+Consent Status: Revoked

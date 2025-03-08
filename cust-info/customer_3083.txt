@@ -1,0 +1,6 @@
+Customer ID: 3083
+Name: Caitlin Sutton
+National ID: 599-42-9202
+Bank: Brown, Sanchez and Cuevas Bank
+Account Number: 8152774268
+Consent Status: Granted

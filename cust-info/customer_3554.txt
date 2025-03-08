@@ -1,0 +1,6 @@
+Customer ID: 3554
+Name: Natalie Lee
+National ID: 889-47-2080
+Bank: Oneill Inc Bank
+Account Number: 1893019235
+Consent Status: Granted

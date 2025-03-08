@@ -1,0 +1,6 @@
+Customer ID: 8268
+Name: Benjamin Smith
+National ID: 230-95-4716
+Bank: Gutierrez, Barnes and Spence Bank
+Account Number: 2148353320
+Consent Status: Granted

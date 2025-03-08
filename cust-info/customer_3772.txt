@@ -1,0 +1,6 @@
+Customer ID: 3772
+Name: Robert Oliver
+National ID: 238-07-2768
+Bank: Lee, Evans and Solomon Bank
+Account Number: 9689660513
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7465
+Name: Blake York
+National ID: 260-60-9586
+Bank: Jordan, Smith and Spence Bank
+Account Number: 6548596531
+Consent Status: Granted

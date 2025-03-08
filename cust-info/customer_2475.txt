@@ -1,0 +1,6 @@
+Customer ID: 2475
+Name: Jeffrey Parks
+National ID: 570-62-0007
+Bank: Spencer-Lowe Bank
+Account Number: 5550794092
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1978
+Name: Cynthia Elliott
+National ID: 180-08-8126
+Bank: Conway, Stokes and Santana Bank
+Account Number: 3199536033
+Consent Status: Revoked

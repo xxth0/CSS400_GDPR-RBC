@@ -1,0 +1,6 @@
+Customer ID: 31
+Name: Lisa Jones
+National ID: 600-52-8120
+Bank: Serrano-Morris Bank
+Account Number: 2317263152
+Consent Status: Revoked

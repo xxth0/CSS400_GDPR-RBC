@@ -1,0 +1,6 @@
+Customer ID: 4660
+Name: Mr. Chad Lin
+National ID: 863-17-4735
+Bank: Snyder, Ramirez and Ortiz Bank
+Account Number: 5892494513
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4274
+Name: Amanda Carter
+National ID: 307-49-1278
+Bank: Clark Inc Bank
+Account Number: 8273152359
+Consent Status: Granted

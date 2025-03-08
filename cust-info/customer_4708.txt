@@ -1,0 +1,6 @@
+Customer ID: 4708
+Name: Rachel Cruz
+National ID: 407-92-2346
+Bank: Brown, Macdonald and Townsend Bank
+Account Number: 9221919608
+Consent Status: Revoked

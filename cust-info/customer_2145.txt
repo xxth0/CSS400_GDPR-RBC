@@ -1,0 +1,6 @@
+Customer ID: 2145
+Name: Mr. Gary Wolf
+National ID: 116-51-3308
+Bank: Anderson-Best Bank
+Account Number: 2299534526
+Consent Status: Revoked

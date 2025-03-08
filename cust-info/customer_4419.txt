@@ -1,0 +1,6 @@
+Customer ID: 4419
+Name: Andre Martinez
+National ID: 158-02-9781
+Bank: Griffin-Jackson Bank
+Account Number: 9132431392
+Consent Status: Granted

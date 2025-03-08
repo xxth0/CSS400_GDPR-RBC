@@ -1,0 +1,6 @@
+Customer ID: 3236
+Name: Paul Hawkins
+National ID: 065-24-3788
+Bank: Thompson, Flynn and Price Bank
+Account Number: 1557098762
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9810
+Name: Angela Taylor MD
+National ID: 680-50-0390
+Bank: Smith and Sons Bank
+Account Number: 9995166201
+Consent Status: Granted

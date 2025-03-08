@@ -1,0 +1,6 @@
+Customer ID: 9828
+Name: Karen Irwin
+National ID: 298-62-0196
+Bank: Fischer, Harris and Clark Bank
+Account Number: 1195063065
+Consent Status: Revoked

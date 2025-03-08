@@ -1,0 +1,6 @@
+Customer ID: 9209
+Name: Eric Harding
+National ID: 335-67-6896
+Bank: Obrien and Sons Bank
+Account Number: 9557841070
+Consent Status: Revoked

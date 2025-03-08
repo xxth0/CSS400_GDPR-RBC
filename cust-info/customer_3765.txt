@@ -1,0 +1,6 @@
+Customer ID: 3765
+Name: Joshua Medina
+National ID: 508-17-2383
+Bank: Nixon-Lee Bank
+Account Number: 3619428760
+Consent Status: Revoked

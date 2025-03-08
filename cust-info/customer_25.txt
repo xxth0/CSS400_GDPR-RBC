@@ -1,0 +1,6 @@
+Customer ID: 25
+Name: Jessica Pratt
+National ID: 569-87-8696
+Bank: Kelley, Torres and Jones Bank
+Account Number: 1897444283
+Consent Status: Revoked

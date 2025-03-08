@@ -1,0 +1,6 @@
+Customer ID: 115
+Name: Arthur Proctor
+National ID: 297-99-2290
+Bank: Hardin, Hill and Dominguez Bank
+Account Number: 2324092617
+Consent Status: Granted

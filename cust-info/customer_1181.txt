@@ -1,0 +1,6 @@
+Customer ID: 1181
+Name: Alexandria Ellis
+National ID: 611-10-8339
+Bank: Bennett and Sons Bank
+Account Number: 8496537109
+Consent Status: Granted

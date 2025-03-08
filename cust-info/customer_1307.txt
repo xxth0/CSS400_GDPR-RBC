@@ -1,0 +1,6 @@
+Customer ID: 1307
+Name: Christopher Freeman
+National ID: 099-45-6422
+Bank: Wade-Browning Bank
+Account Number: 8983499557
+Consent Status: Granted

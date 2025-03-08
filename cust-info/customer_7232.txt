@@ -1,0 +1,6 @@
+Customer ID: 7232
+Name: David Bentley
+National ID: 510-89-3046
+Bank: Johnson, Moreno and Cordova Bank
+Account Number: 4180816789
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6094
+Name: Travis David
+National ID: 258-62-3338
+Bank: Payne-Obrien Bank
+Account Number: 5535844695
+Consent Status: Granted

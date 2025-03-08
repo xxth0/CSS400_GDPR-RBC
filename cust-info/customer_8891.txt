@@ -1,0 +1,6 @@
+Customer ID: 8891
+Name: Timothy Gentry
+National ID: 389-26-2466
+Bank: Taylor PLC Bank
+Account Number: 6453448625
+Consent Status: Revoked

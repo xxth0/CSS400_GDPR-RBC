@@ -1,0 +1,6 @@
+Customer ID: 1841
+Name: Vickie Rodriguez
+National ID: 337-81-4703
+Bank: Edwards-Dean Bank
+Account Number: 7877801218
+Consent Status: Revoked

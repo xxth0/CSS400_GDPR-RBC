@@ -1,0 +1,6 @@
+Customer ID: 3334
+Name: Charles Moon
+National ID: 357-09-8953
+Bank: Burgess-Torres Bank
+Account Number: 9924181428
+Consent Status: Revoked

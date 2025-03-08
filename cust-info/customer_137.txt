@@ -1,0 +1,6 @@
+Customer ID: 137
+Name: Steven Pierce
+National ID: 012-58-8466
+Bank: Rivera-Welch Bank
+Account Number: 4742824949
+Consent Status: Granted

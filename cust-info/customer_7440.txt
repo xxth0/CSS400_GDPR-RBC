@@ -1,0 +1,6 @@
+Customer ID: 7440
+Name: Manuel Mercado
+National ID: 552-91-8375
+Bank: Brown LLC Bank
+Account Number: 6551728958
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5350
+Name: Gabriela Patton
+National ID: 097-56-8975
+Bank: Pugh Inc Bank
+Account Number: 5819244804
+Consent Status: Granted

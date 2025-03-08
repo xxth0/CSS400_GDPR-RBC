@@ -1,0 +1,6 @@
+Customer ID: 3669
+Name: Leslie Howard
+National ID: 842-94-9332
+Bank: Kent-Woodard Bank
+Account Number: 6106008954
+Consent Status: Granted

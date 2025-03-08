@@ -1,0 +1,6 @@
+Customer ID: 8698
+Name: Michael Schaefer
+National ID: 350-51-8658
+Bank: Pope, Ellis and Montoya Bank
+Account Number: 1961729667
+Consent Status: Revoked

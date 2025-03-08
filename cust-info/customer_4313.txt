@@ -1,0 +1,6 @@
+Customer ID: 4313
+Name: James Anderson
+National ID: 080-36-1587
+Bank: Thompson, Lee and Mcpherson Bank
+Account Number: 8030550532
+Consent Status: Revoked

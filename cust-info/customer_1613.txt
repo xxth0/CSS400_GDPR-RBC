@@ -1,0 +1,6 @@
+Customer ID: 1613
+Name: Daniel Allen
+National ID: 806-75-3148
+Bank: Coffey and Sons Bank
+Account Number: 1163143344
+Consent Status: Granted

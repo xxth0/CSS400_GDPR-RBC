@@ -1,0 +1,6 @@
+Customer ID: 2008
+Name: Jessica Hunt
+National ID: 580-76-4374
+Bank: Rodriguez-Parker Bank
+Account Number: 7966240627
+Consent Status: Granted

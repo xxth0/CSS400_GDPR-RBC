@@ -1,0 +1,6 @@
+Customer ID: 3663
+Name: Sara Mckinney DVM
+National ID: 472-35-9593
+Bank: Lucas, Powell and Smith Bank
+Account Number: 3225862641
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6364
+Name: Gabriela Little
+National ID: 456-94-1999
+Bank: Singleton Ltd Bank
+Account Number: 1502159705
+Consent Status: Revoked

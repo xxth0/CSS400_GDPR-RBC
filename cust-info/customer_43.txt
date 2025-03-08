@@ -1,0 +1,6 @@
+Customer ID: 43
+Name: Kevin Daniel
+National ID: 757-12-6016
+Bank: Hill, Patton and Hayes Bank
+Account Number: 6078347215
+Consent Status: Revoked

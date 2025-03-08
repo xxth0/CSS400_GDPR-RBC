@@ -1,0 +1,6 @@
+Customer ID: 7301
+Name: Charles Griffin
+National ID: 769-59-4123
+Bank: Hamilton, Rubio and Wise Bank
+Account Number: 2684413698
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6236
+Name: Angelica Gonzales
+National ID: 068-67-2232
+Bank: Forbes LLC Bank
+Account Number: 9633355284
+Consent Status: Granted

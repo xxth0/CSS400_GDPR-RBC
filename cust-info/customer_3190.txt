@@ -1,0 +1,6 @@
+Customer ID: 3190
+Name: Jessica Martinez
+National ID: 068-09-4700
+Bank: Turner-Savage Bank
+Account Number: 1945142395
+Consent Status: Revoked

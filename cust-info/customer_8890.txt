@@ -1,0 +1,6 @@
+Customer ID: 8890
+Name: Alexander Lee
+National ID: 029-84-8702
+Bank: Bean and Sons Bank
+Account Number: 9121687031
+Consent Status: Granted

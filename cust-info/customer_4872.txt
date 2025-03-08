@@ -1,0 +1,6 @@
+Customer ID: 4872
+Name: Janice Knox
+National ID: 195-40-8091
+Bank: Watson-Lopez Bank
+Account Number: 7348869073
+Consent Status: Granted

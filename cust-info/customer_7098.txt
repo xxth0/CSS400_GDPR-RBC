@@ -1,0 +1,6 @@
+Customer ID: 7098
+Name: Mark Smith
+National ID: 014-52-2429
+Bank: Smith, Johnson and Osborne Bank
+Account Number: 8851519818
+Consent Status: Granted

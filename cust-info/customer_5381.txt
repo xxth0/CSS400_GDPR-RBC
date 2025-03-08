@@ -1,0 +1,6 @@
+Customer ID: 5381
+Name: Kristina Mason
+National ID: 220-15-7266
+Bank: Soto-Scott Bank
+Account Number: 5037019817
+Consent Status: Granted

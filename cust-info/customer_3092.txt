@@ -1,0 +1,6 @@
+Customer ID: 3092
+Name: Kimberly Evans
+National ID: 775-84-5557
+Bank: Hernandez, Manning and Sexton Bank
+Account Number: 5817208417
+Consent Status: Revoked

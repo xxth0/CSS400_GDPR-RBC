@@ -1,0 +1,6 @@
+Customer ID: 5504
+Name: Andrea Soto
+National ID: 323-62-6398
+Bank: Patel-Wade Bank
+Account Number: 7590876817
+Consent Status: Revoked

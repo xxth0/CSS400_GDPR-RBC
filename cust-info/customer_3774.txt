@@ -1,0 +1,6 @@
+Customer ID: 3774
+Name: Mary Nelson
+National ID: 710-31-3684
+Bank: Roberts, Freeman and Ball Bank
+Account Number: 2787646978
+Consent Status: Revoked

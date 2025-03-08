@@ -1,0 +1,6 @@
+Customer ID: 4482
+Name: Jorge Gilmore
+National ID: 066-75-0037
+Bank: Stanley, Bond and Johnson Bank
+Account Number: 8911678644
+Consent Status: Granted

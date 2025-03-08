@@ -1,0 +1,6 @@
+Customer ID: 268
+Name: Dale Smith
+National ID: 157-28-2790
+Bank: Garner-Young Bank
+Account Number: 1201111312
+Consent Status: Revoked

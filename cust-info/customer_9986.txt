@@ -1,0 +1,6 @@
+Customer ID: 9986
+Name: Henry Garcia
+National ID: 047-43-9392
+Bank: Valenzuela, Rangel and Orr Bank
+Account Number: 6256227388
+Consent Status: Granted

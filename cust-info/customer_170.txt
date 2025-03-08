@@ -1,0 +1,6 @@
+Customer ID: 170
+Name: George Moore
+National ID: 524-35-8182
+Bank: Jones-Lynch Bank
+Account Number: 8673670555
+Consent Status: Granted

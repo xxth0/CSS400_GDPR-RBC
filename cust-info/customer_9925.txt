@@ -1,0 +1,6 @@
+Customer ID: 9925
+Name: Matthew Ford
+National ID: 647-92-8422
+Bank: Gardner-Morris Bank
+Account Number: 1063028785
+Consent Status: Revoked

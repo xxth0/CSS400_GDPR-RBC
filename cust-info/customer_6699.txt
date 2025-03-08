@@ -1,0 +1,6 @@
+Customer ID: 6699
+Name: Timothy Rodriguez
+National ID: 474-97-1863
+Bank: Bowman-Odom Bank
+Account Number: 7512826048
+Consent Status: Granted

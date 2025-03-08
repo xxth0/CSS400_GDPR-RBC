@@ -1,0 +1,6 @@
+Customer ID: 8293
+Name: Laura Bartlett
+National ID: 130-61-2728
+Bank: Taylor Group Bank
+Account Number: 9069382096
+Consent Status: Granted

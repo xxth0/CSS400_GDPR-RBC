@@ -1,0 +1,6 @@
+Customer ID: 4948
+Name: Mary Lang
+National ID: 278-26-9676
+Bank: Scott and Sons Bank
+Account Number: 1600436227
+Consent Status: Granted

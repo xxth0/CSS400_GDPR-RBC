@@ -1,0 +1,6 @@
+Customer ID: 4572
+Name: Joseph Russell
+National ID: 418-60-3398
+Bank: Gardner-Lopez Bank
+Account Number: 5857542272
+Consent Status: Granted

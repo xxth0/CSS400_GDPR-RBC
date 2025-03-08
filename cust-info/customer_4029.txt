@@ -1,0 +1,6 @@
+Customer ID: 4029
+Name: Allison Mccormick
+National ID: 052-12-5245
+Bank: Oneal, Weaver and Fisher Bank
+Account Number: 1947737074
+Consent Status: Granted

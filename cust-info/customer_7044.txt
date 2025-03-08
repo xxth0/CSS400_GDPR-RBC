@@ -1,0 +1,6 @@
+Customer ID: 7044
+Name: Mrs. Sandra Lam
+National ID: 586-53-8165
+Bank: Castaneda, Nelson and Price Bank
+Account Number: 5356265158
+Consent Status: Revoked

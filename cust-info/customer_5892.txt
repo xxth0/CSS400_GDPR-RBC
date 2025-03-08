@@ -1,0 +1,6 @@
+Customer ID: 5892
+Name: Christine Miller
+National ID: 165-80-8491
+Bank: Rogers PLC Bank
+Account Number: 9407612193
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1018
+Name: Richard Chapman
+National ID: 523-69-4181
+Bank: Taylor-Adams Bank
+Account Number: 4665016627
+Consent Status: Revoked

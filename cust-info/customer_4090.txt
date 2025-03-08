@@ -1,0 +1,6 @@
+Customer ID: 4090
+Name: Elizabeth Edwards
+National ID: 146-53-7291
+Bank: Underwood-Duffy Bank
+Account Number: 1714612830
+Consent Status: Granted

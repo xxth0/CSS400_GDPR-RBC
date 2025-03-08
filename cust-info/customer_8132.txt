@@ -1,0 +1,6 @@
+Customer ID: 8132
+Name: Stacy Ramsey
+National ID: 333-11-9758
+Bank: Cruz-Vaughn Bank
+Account Number: 8173774315
+Consent Status: Granted

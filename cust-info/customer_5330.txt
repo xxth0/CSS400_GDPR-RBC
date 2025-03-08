@@ -1,0 +1,6 @@
+Customer ID: 5330
+Name: Stacey Colon
+National ID: 556-67-5460
+Bank: Richard-Craig Bank
+Account Number: 4854296883
+Consent Status: Granted

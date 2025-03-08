@@ -1,0 +1,6 @@
+Customer ID: 3593
+Name: Jean Taylor
+National ID: 258-02-3974
+Bank: Thompson, Bernard and Andersen Bank
+Account Number: 3796042907
+Consent Status: Revoked

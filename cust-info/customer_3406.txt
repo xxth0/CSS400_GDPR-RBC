@@ -1,0 +1,6 @@
+Customer ID: 3406
+Name: Gregory Nguyen
+National ID: 344-18-0101
+Bank: Simmons LLC Bank
+Account Number: 2513357523
+Consent Status: Revoked

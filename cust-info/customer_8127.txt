@@ -1,0 +1,6 @@
+Customer ID: 8127
+Name: Mary Cox
+National ID: 646-18-9281
+Bank: Martinez-Schroeder Bank
+Account Number: 8796552652
+Consent Status: Granted

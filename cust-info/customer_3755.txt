@@ -1,0 +1,6 @@
+Customer ID: 3755
+Name: Christopher Foley
+National ID: 633-96-0660
+Bank: Schmidt Ltd Bank
+Account Number: 3152311179
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9636
+Name: Ryan Miller
+National ID: 428-17-5706
+Bank: Thomas, Pierce and Torres Bank
+Account Number: 5726993808
+Consent Status: Granted

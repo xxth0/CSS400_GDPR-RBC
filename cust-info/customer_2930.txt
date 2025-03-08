@@ -1,0 +1,6 @@
+Customer ID: 2930
+Name: David Murphy
+National ID: 488-73-2091
+Bank: Miller, Murphy and Walker Bank
+Account Number: 8175411064
+Consent Status: Revoked

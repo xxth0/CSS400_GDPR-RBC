@@ -1,0 +1,6 @@
+Customer ID: 5567
+Name: Jeremy Gonzalez
+National ID: 501-47-4014
+Bank: Ford PLC Bank
+Account Number: 9803977320
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 139
+Name: Troy Johnson
+National ID: 750-82-7952
+Bank: Alvarez, Grant and Church Bank
+Account Number: 1403919618
+Consent Status: Revoked

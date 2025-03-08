@@ -1,0 +1,6 @@
+Customer ID: 6216
+Name: Christopher Freeman
+National ID: 117-14-2611
+Bank: Fields, Beltran and Colon Bank
+Account Number: 2754826133
+Consent Status: Granted

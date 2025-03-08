@@ -1,0 +1,6 @@
+Customer ID: 804
+Name: Michelle Mitchell
+National ID: 537-02-0792
+Bank: Nguyen Group Bank
+Account Number: 6148484794
+Consent Status: Revoked

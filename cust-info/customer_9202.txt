@@ -1,0 +1,6 @@
+Customer ID: 9202
+Name: Amanda Sanders
+National ID: 651-64-6195
+Bank: Torres-Newton Bank
+Account Number: 6649907026
+Consent Status: Granted

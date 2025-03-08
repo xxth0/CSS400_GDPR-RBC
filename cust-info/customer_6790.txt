@@ -1,0 +1,6 @@
+Customer ID: 6790
+Name: Annette Snow
+National ID: 173-85-2807
+Bank: Duncan-Walker Bank
+Account Number: 1454274604
+Consent Status: Revoked

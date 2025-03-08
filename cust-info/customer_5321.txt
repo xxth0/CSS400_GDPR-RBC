@@ -1,0 +1,6 @@
+Customer ID: 5321
+Name: Heather Allen
+National ID: 424-52-1010
+Bank: Reynolds-Robinson Bank
+Account Number: 6243868550
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2011
+Name: Joseph Gray
+National ID: 618-87-4933
+Bank: Schwartz PLC Bank
+Account Number: 7591672296
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9415
+Name: Kristy Bradford
+National ID: 294-42-9325
+Bank: Horn-King Bank
+Account Number: 7956562256
+Consent Status: Granted

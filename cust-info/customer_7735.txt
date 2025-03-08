@@ -1,0 +1,6 @@
+Customer ID: 7735
+Name: Aaron Garcia
+National ID: 790-12-0829
+Bank: Marshall LLC Bank
+Account Number: 8433093011
+Consent Status: Revoked

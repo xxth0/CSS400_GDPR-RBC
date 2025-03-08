@@ -1,0 +1,6 @@
+Customer ID: 8356
+Name: Amy Martin
+National ID: 458-51-8988
+Bank: Stanley Group Bank
+Account Number: 9193491339
+Consent Status: Granted

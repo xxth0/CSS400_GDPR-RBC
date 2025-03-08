@@ -1,0 +1,6 @@
+Customer ID: 4631
+Name: Kevin White
+National ID: 857-01-7871
+Bank: Hart PLC Bank
+Account Number: 2332842910
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8442
+Name: Katherine Rice
+National ID: 407-65-8234
+Bank: Bright Ltd Bank
+Account Number: 1948245997
+Consent Status: Revoked

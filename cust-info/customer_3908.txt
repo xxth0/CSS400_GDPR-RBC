@@ -1,0 +1,6 @@
+Customer ID: 3908
+Name: Andrea Allen
+National ID: 016-72-1279
+Bank: Benjamin Inc Bank
+Account Number: 4374548475
+Consent Status: Granted

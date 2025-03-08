@@ -1,0 +1,6 @@
+Customer ID: 6143
+Name: James Schmidt
+National ID: 510-86-1590
+Bank: Boyd, Valdez and Williams Bank
+Account Number: 6554772754
+Consent Status: Revoked

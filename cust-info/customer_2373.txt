@@ -1,0 +1,6 @@
+Customer ID: 2373
+Name: Jeffery Johnson
+National ID: 068-12-1865
+Bank: Cummings Inc Bank
+Account Number: 7379097951
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9115
+Name: Anna Cox
+National ID: 516-20-8825
+Bank: Lane-Wilkinson Bank
+Account Number: 8888647419
+Consent Status: Granted

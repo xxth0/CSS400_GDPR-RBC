@@ -1,0 +1,6 @@
+Customer ID: 1581
+Name: Daniel Hansen
+National ID: 051-20-7673
+Bank: Hunt, Chen and Phillips Bank
+Account Number: 4058044029
+Consent Status: Revoked

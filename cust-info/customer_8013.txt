@@ -1,0 +1,6 @@
+Customer ID: 8013
+Name: Alejandro Brown
+National ID: 808-08-8937
+Bank: Rodriguez-Hill Bank
+Account Number: 4823713149
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9274
+Name: Chelsey Martinez
+National ID: 747-75-1874
+Bank: Klein-Patel Bank
+Account Number: 2511459436
+Consent Status: Granted

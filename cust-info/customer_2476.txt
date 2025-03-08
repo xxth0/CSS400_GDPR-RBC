@@ -1,0 +1,6 @@
+Customer ID: 2476
+Name: Samantha Johnson
+National ID: 185-69-5812
+Bank: Buck Inc Bank
+Account Number: 7276256797
+Consent Status: Revoked

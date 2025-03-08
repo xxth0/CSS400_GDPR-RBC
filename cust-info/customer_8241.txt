@@ -1,0 +1,6 @@
+Customer ID: 8241
+Name: Charles Frost
+National ID: 463-60-7565
+Bank: Campbell and Sons Bank
+Account Number: 5448336170
+Consent Status: Revoked

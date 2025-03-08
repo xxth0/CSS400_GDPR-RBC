@@ -1,0 +1,6 @@
+Customer ID: 7772
+Name: Beth Meyers
+National ID: 783-99-2807
+Bank: Hall-Cohen Bank
+Account Number: 1157765987
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1450
+Name: James Gutierrez
+National ID: 692-16-9508
+Bank: Mann-Obrien Bank
+Account Number: 5038577897
+Consent Status: Revoked

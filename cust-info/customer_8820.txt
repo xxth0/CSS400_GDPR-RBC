@@ -1,0 +1,6 @@
+Customer ID: 8820
+Name: Natalie Wilcox
+National ID: 386-95-2125
+Bank: Brown Ltd Bank
+Account Number: 1733414777
+Consent Status: Granted

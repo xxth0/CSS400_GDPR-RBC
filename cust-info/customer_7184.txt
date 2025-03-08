@@ -1,0 +1,6 @@
+Customer ID: 7184
+Name: Daniel Wood
+National ID: 671-42-3362
+Bank: Clark-Long Bank
+Account Number: 8816926434
+Consent Status: Granted

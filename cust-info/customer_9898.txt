@@ -1,0 +1,6 @@
+Customer ID: 9898
+Name: Denise Berry
+National ID: 685-06-7115
+Bank: Townsend LLC Bank
+Account Number: 6282121885
+Consent Status: Revoked

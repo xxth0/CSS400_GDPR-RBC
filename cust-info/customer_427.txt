@@ -1,0 +1,6 @@
+Customer ID: 427
+Name: Kimberly Day
+National ID: 533-50-8801
+Bank: Hamilton, Torres and Cox Bank
+Account Number: 3311503570
+Consent Status: Revoked

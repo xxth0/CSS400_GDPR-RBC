@@ -1,0 +1,6 @@
+Customer ID: 3761
+Name: Savannah Rodriguez
+National ID: 391-60-2377
+Bank: Mccarthy-Sanders Bank
+Account Number: 7904047750
+Consent Status: Revoked

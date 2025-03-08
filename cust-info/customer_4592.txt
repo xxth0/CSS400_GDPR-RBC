@@ -1,0 +1,6 @@
+Customer ID: 4592
+Name: Matthew Smith
+National ID: 784-16-1587
+Bank: Johnson-Silva Bank
+Account Number: 1525253135
+Consent Status: Granted

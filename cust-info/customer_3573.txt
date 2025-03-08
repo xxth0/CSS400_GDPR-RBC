@@ -1,0 +1,6 @@
+Customer ID: 3573
+Name: Mary Martinez
+National ID: 335-66-5075
+Bank: Campbell-Perez Bank
+Account Number: 1354445122
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2662
+Name: Taylor Rivera
+National ID: 786-38-4624
+Bank: Hernandez and Sons Bank
+Account Number: 7222646331
+Consent Status: Granted

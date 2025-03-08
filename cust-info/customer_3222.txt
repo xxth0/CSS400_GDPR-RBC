@@ -1,0 +1,6 @@
+Customer ID: 3222
+Name: Christine Schwartz
+National ID: 636-29-1933
+Bank: Lopez LLC Bank
+Account Number: 5184336096
+Consent Status: Revoked

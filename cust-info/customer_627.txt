@@ -1,0 +1,6 @@
+Customer ID: 627
+Name: Melissa Price
+National ID: 215-86-0414
+Bank: Hatfield, Bell and Smith Bank
+Account Number: 5515383277
+Consent Status: Granted

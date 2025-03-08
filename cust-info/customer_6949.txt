@@ -1,0 +1,6 @@
+Customer ID: 6949
+Name: Calvin Smith
+National ID: 634-82-9597
+Bank: Morris-Hudson Bank
+Account Number: 5471373372
+Consent Status: Revoked

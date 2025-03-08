@@ -1,0 +1,6 @@
+Customer ID: 6329
+Name: Anthony Cowan
+National ID: 185-66-2043
+Bank: Wagner-Webb Bank
+Account Number: 7691389971
+Consent Status: Granted

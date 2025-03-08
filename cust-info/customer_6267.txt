@@ -1,0 +1,6 @@
+Customer ID: 6267
+Name: Justin Roy
+National ID: 144-33-5584
+Bank: Jackson, Hudson and Morrison Bank
+Account Number: 1265970880
+Consent Status: Granted

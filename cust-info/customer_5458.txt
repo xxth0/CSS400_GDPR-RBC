@@ -1,0 +1,6 @@
+Customer ID: 5458
+Name: Frank Griffin
+National ID: 335-38-6260
+Bank: Allen, Williams and Thompson Bank
+Account Number: 4833034209
+Consent Status: Granted

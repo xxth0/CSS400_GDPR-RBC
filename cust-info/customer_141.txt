@@ -1,0 +1,6 @@
+Customer ID: 141
+Name: Dustin Love PhD
+National ID: 228-01-7112
+Bank: Turner, Barrett and Caldwell Bank
+Account Number: 3498361170
+Consent Status: Granted

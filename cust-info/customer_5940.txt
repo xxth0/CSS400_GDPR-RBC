@@ -1,0 +1,6 @@
+Customer ID: 5940
+Name: Cassidy Woods
+National ID: 749-17-2116
+Bank: Stevens Ltd Bank
+Account Number: 1583683106
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3456
+Name: Emily Bass
+National ID: 371-55-6210
+Bank: Garcia-Moore Bank
+Account Number: 7335293792
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3185
+Name: Debra Roberts
+National ID: 451-15-1957
+Bank: Black-Wood Bank
+Account Number: 3370768428
+Consent Status: Revoked

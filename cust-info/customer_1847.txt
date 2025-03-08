@@ -1,0 +1,6 @@
+Customer ID: 1847
+Name: Gerald Mooney
+National ID: 383-91-1682
+Bank: Flowers, Williamson and Odonnell Bank
+Account Number: 6281207622
+Consent Status: Granted

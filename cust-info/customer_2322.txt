@@ -1,0 +1,6 @@
+Customer ID: 2322
+Name: John Olson
+National ID: 599-46-4003
+Bank: Clayton-Harris Bank
+Account Number: 4858018273
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6235
+Name: David Ward
+National ID: 446-53-8335
+Bank: Griffin and Sons Bank
+Account Number: 2918461286
+Consent Status: Granted

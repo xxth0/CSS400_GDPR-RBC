@@ -1,0 +1,6 @@
+Customer ID: 5815
+Name: Victor Burke Jr.
+National ID: 160-96-0522
+Bank: Jones, Mckinney and Baker Bank
+Account Number: 6999115635
+Consent Status: Granted

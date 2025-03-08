@@ -1,0 +1,6 @@
+Customer ID: 4955
+Name: Albert Johnson
+National ID: 767-62-5475
+Bank: Thomas-Ramsey Bank
+Account Number: 1929341701
+Consent Status: Granted

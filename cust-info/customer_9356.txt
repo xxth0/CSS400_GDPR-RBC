@@ -1,0 +1,6 @@
+Customer ID: 9356
+Name: Curtis Barajas
+National ID: 742-22-1598
+Bank: Ramirez Group Bank
+Account Number: 9209252684
+Consent Status: Revoked

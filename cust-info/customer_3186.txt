@@ -1,0 +1,6 @@
+Customer ID: 3186
+Name: Timothy Rojas
+National ID: 478-47-9871
+Bank: Acosta, Jones and Rowe Bank
+Account Number: 5346296565
+Consent Status: Revoked

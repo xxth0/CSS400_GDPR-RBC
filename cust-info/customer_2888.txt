@@ -1,0 +1,6 @@
+Customer ID: 2888
+Name: Nicholas Foster
+National ID: 155-79-2559
+Bank: Webb Inc Bank
+Account Number: 3815466258
+Consent Status: Revoked

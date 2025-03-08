@@ -1,0 +1,6 @@
+Customer ID: 6569
+Name: Brandon King
+National ID: 327-29-1636
+Bank: Carney PLC Bank
+Account Number: 6884388061
+Consent Status: Revoked

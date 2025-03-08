@@ -1,0 +1,6 @@
+Customer ID: 9249
+Name: Sarah Kelley
+National ID: 822-67-4039
+Bank: Miller LLC Bank
+Account Number: 4352385131
+Consent Status: Revoked

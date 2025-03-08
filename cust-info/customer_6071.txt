@@ -1,0 +1,6 @@
+Customer ID: 6071
+Name: Donald Dixon
+National ID: 011-07-1048
+Bank: Johnson Group Bank
+Account Number: 7483422008
+Consent Status: Granted

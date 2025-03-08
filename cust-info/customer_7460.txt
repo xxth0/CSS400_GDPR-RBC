@@ -1,0 +1,6 @@
+Customer ID: 7460
+Name: Benjamin Hawkins
+National ID: 804-20-1575
+Bank: Barnett, Adams and Rangel Bank
+Account Number: 8086604785
+Consent Status: Revoked

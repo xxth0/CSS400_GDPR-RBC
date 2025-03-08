@@ -1,0 +1,6 @@
+Customer ID: 9245
+Name: Melissa Thompson
+National ID: 565-34-8533
+Bank: White Ltd Bank
+Account Number: 7089884506
+Consent Status: Revoked

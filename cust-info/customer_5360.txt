@@ -1,0 +1,6 @@
+Customer ID: 5360
+Name: Cole Walker
+National ID: 727-01-4161
+Bank: Stephens PLC Bank
+Account Number: 1148322304
+Consent Status: Revoked

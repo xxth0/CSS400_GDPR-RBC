@@ -1,0 +1,6 @@
+Customer ID: 4012
+Name: Timothy Rocha
+National ID: 244-13-5333
+Bank: Ellis and Sons Bank
+Account Number: 6764531107
+Consent Status: Revoked

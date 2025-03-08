@@ -1,0 +1,6 @@
+Customer ID: 6459
+Name: Jennifer Wilson
+National ID: 094-56-5547
+Bank: Mason-Hansen Bank
+Account Number: 4804524958
+Consent Status: Revoked

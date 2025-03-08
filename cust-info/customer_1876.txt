@@ -1,0 +1,6 @@
+Customer ID: 1876
+Name: Jason Robertson
+National ID: 272-02-4681
+Bank: Hernandez, Freeman and Harris Bank
+Account Number: 6436046586
+Consent Status: Revoked

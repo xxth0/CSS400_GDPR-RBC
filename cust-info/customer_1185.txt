@@ -1,0 +1,6 @@
+Customer ID: 1185
+Name: Jennifer Wright
+National ID: 652-09-3615
+Bank: Brown, Parker and Brown Bank
+Account Number: 9250768625
+Consent Status: Revoked

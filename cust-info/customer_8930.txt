@@ -1,0 +1,6 @@
+Customer ID: 8930
+Name: Kimberly Cardenas
+National ID: 234-97-4329
+Bank: Jackson and Sons Bank
+Account Number: 6261912823
+Consent Status: Granted

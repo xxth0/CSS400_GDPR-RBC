@@ -1,0 +1,6 @@
+Customer ID: 266
+Name: Margaret Wallace
+National ID: 738-09-5722
+Bank: Stewart Inc Bank
+Account Number: 9290280340
+Consent Status: Revoked

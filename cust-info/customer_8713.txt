@@ -1,0 +1,6 @@
+Customer ID: 8713
+Name: Abigail Ruiz
+National ID: 771-30-1093
+Bank: Peterson Group Bank
+Account Number: 9051551438
+Consent Status: Revoked

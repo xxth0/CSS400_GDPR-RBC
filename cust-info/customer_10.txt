@@ -1,0 +1,6 @@
+Customer ID: 10
+Name: Ruben Keller
+National ID: 526-14-8866
+Bank: Day Group Bank
+Account Number: 1861696893
+Consent Status: Granted

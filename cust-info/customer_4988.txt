@@ -1,0 +1,6 @@
+Customer ID: 4988
+Name: Robert Williams
+National ID: 898-82-7554
+Bank: Castro, Barry and Miller Bank
+Account Number: 2900667626
+Consent Status: Revoked

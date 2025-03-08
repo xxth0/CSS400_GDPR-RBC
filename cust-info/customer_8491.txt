@@ -1,0 +1,6 @@
+Customer ID: 8491
+Name: Sandra Wilson
+National ID: 718-23-1735
+Bank: Miller, Hall and Allen Bank
+Account Number: 5696507706
+Consent Status: Revoked

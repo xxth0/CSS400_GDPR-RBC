@@ -1,0 +1,6 @@
+Customer ID: 7515
+Name: Paul Miller
+National ID: 465-02-9908
+Bank: Bailey LLC Bank
+Account Number: 7870083077
+Consent Status: Revoked

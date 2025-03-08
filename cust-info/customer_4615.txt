@@ -1,0 +1,6 @@
+Customer ID: 4615
+Name: David Allen
+National ID: 388-95-5732
+Bank: Romero and Sons Bank
+Account Number: 3440845500
+Consent Status: Granted

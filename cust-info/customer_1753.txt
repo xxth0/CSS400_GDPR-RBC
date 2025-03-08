@@ -1,0 +1,6 @@
+Customer ID: 1753
+Name: Melvin Kirby
+National ID: 881-96-8567
+Bank: Mccall, Gardner and Kennedy Bank
+Account Number: 3677070545
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1895
+Name: Holly Alvarez
+National ID: 645-32-2380
+Bank: Lopez Inc Bank
+Account Number: 8008882296
+Consent Status: Granted

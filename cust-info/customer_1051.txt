@@ -1,0 +1,6 @@
+Customer ID: 1051
+Name: Andrea Adams
+National ID: 471-35-4642
+Bank: Long, Wright and Adams Bank
+Account Number: 2845609270
+Consent Status: Granted

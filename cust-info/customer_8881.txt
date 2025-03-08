@@ -1,0 +1,6 @@
+Customer ID: 8881
+Name: John Lopez MD
+National ID: 156-46-5582
+Bank: Perry Group Bank
+Account Number: 6843749992
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2406
+Name: Jeffrey West
+National ID: 383-26-3209
+Bank: Farrell, Woods and Deleon Bank
+Account Number: 5159166519
+Consent Status: Granted

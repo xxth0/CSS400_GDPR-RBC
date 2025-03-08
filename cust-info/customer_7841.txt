@@ -1,0 +1,6 @@
+Customer ID: 7841
+Name: Haley Stewart
+National ID: 375-22-0780
+Bank: Hughes LLC Bank
+Account Number: 9883041773
+Consent Status: Revoked

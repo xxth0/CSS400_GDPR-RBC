@@ -1,0 +1,6 @@
+Customer ID: 5019
+Name: Dustin Kim
+National ID: 375-15-2429
+Bank: Casey PLC Bank
+Account Number: 7062547577
+Consent Status: Granted

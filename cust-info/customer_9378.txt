@@ -1,0 +1,6 @@
+Customer ID: 9378
+Name: Anthony Hines
+National ID: 238-34-1230
+Bank: Newman Group Bank
+Account Number: 8664413897
+Consent Status: Granted

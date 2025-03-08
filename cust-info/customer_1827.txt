@@ -1,0 +1,6 @@
+Customer ID: 1827
+Name: Joan Foster
+National ID: 750-20-7030
+Bank: Burke, Smith and Navarro Bank
+Account Number: 5523295444
+Consent Status: Revoked

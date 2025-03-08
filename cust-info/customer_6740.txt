@@ -1,0 +1,6 @@
+Customer ID: 6740
+Name: Roy Thompson
+National ID: 670-70-7852
+Bank: Lee-Edwards Bank
+Account Number: 1680196235
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8762
+Name: Anita Willis
+National ID: 128-85-4196
+Bank: Leblanc, Peck and Lawson Bank
+Account Number: 5702975693
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 182
+Name: Sarah Lopez
+National ID: 074-64-9900
+Bank: Davila-Cooper Bank
+Account Number: 4569837254
+Consent Status: Revoked

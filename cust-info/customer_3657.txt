@@ -1,0 +1,6 @@
+Customer ID: 3657
+Name: Brenda Velasquez
+National ID: 078-89-1347
+Bank: Fowler Inc Bank
+Account Number: 7709709799
+Consent Status: Revoked

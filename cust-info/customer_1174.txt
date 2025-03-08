@@ -1,0 +1,6 @@
+Customer ID: 1174
+Name: Jason Hayden
+National ID: 634-78-7469
+Bank: Craig-Gonzalez Bank
+Account Number: 4238911955
+Consent Status: Revoked

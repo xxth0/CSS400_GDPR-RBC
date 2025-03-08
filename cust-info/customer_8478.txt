@@ -1,0 +1,6 @@
+Customer ID: 8478
+Name: Cameron Foster
+National ID: 883-51-6089
+Bank: Benton-Summers Bank
+Account Number: 8344993707
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7389
+Name: Destiny Vaughn
+National ID: 853-53-0424
+Bank: Frank-Martin Bank
+Account Number: 2942644514
+Consent Status: Granted

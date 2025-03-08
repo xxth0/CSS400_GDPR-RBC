@@ -1,0 +1,6 @@
+Customer ID: 206
+Name: David Espinoza
+National ID: 647-81-9651
+Bank: Padilla PLC Bank
+Account Number: 5335967577
+Consent Status: Granted

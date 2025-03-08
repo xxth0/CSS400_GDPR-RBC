@@ -1,0 +1,6 @@
+Customer ID: 5962
+Name: Anna Carson
+National ID: 341-02-8793
+Bank: Thomas-Schroeder Bank
+Account Number: 3607176173
+Consent Status: Revoked

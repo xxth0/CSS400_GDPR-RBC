@@ -1,0 +1,6 @@
+Customer ID: 8960
+Name: Shelly Jones
+National ID: 506-84-7964
+Bank: Holder-Kirk Bank
+Account Number: 8414743542
+Consent Status: Revoked

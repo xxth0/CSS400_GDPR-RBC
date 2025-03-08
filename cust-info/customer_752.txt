@@ -1,0 +1,6 @@
+Customer ID: 752
+Name: Sara Green
+National ID: 845-90-4074
+Bank: Turner LLC Bank
+Account Number: 6479985431
+Consent Status: Granted

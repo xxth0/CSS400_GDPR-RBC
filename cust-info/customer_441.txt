@@ -1,0 +1,6 @@
+Customer ID: 441
+Name: Dale Cooper
+National ID: 436-33-5235
+Bank: Hunt LLC Bank
+Account Number: 2520310185
+Consent Status: Granted

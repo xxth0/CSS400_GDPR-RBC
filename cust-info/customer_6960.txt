@@ -1,0 +1,6 @@
+Customer ID: 6960
+Name: Taylor Combs
+National ID: 778-01-9498
+Bank: York-Ruiz Bank
+Account Number: 5778668208
+Consent Status: Granted

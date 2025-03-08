@@ -1,0 +1,6 @@
+Customer ID: 361
+Name: Timothy Martin
+National ID: 551-45-7129
+Bank: Hampton-Prince Bank
+Account Number: 1680368631
+Consent Status: Granted

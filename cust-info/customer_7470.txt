@@ -1,0 +1,6 @@
+Customer ID: 7470
+Name: Christopher Pearson
+National ID: 835-12-4667
+Bank: Davis-Ward Bank
+Account Number: 2337307166
+Consent Status: Granted

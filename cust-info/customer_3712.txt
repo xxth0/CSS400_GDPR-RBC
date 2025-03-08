@@ -1,0 +1,6 @@
+Customer ID: 3712
+Name: Lauren Owens
+National ID: 149-46-5035
+Bank: Navarro-Smith Bank
+Account Number: 1147817553
+Consent Status: Granted

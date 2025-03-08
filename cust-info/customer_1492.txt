@@ -1,0 +1,6 @@
+Customer ID: 1492
+Name: Brenda Mcgee
+National ID: 253-55-7814
+Bank: Williams, Hayes and Holmes Bank
+Account Number: 6220754337
+Consent Status: Granted

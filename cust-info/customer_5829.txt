@@ -1,0 +1,6 @@
+Customer ID: 5829
+Name: Katelyn Walker
+National ID: 894-76-0484
+Bank: Middleton, Smith and Charles Bank
+Account Number: 3815427123
+Consent Status: Revoked

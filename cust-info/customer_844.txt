@@ -1,0 +1,6 @@
+Customer ID: 844
+Name: Douglas Brandt
+National ID: 885-53-5416
+Bank: Martin-Shepherd Bank
+Account Number: 2760978248
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9302
+Name: Ashley Lee
+National ID: 691-32-3511
+Bank: Keller and Sons Bank
+Account Number: 7280367162
+Consent Status: Revoked

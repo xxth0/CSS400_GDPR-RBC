@@ -1,0 +1,6 @@
+Customer ID: 2337
+Name: Angel Martinez
+National ID: 380-53-2130
+Bank: Hayes, Cooley and Smith Bank
+Account Number: 9675669896
+Consent Status: Granted

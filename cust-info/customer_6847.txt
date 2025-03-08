@@ -1,0 +1,6 @@
+Customer ID: 6847
+Name: James Ayers
+National ID: 716-15-0323
+Bank: Lucas, Solis and Perry Bank
+Account Number: 9584676613
+Consent Status: Revoked

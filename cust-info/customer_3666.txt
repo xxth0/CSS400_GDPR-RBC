@@ -1,0 +1,6 @@
+Customer ID: 3666
+Name: Ricky Bennett
+National ID: 343-10-0553
+Bank: Weber-Smith Bank
+Account Number: 8437307561
+Consent Status: Granted

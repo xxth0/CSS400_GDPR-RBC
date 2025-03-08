@@ -1,0 +1,6 @@
+Customer ID: 3173
+Name: Julia Zimmerman
+National ID: 181-42-0301
+Bank: Grimes PLC Bank
+Account Number: 5197003658
+Consent Status: Revoked

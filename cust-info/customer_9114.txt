@@ -1,0 +1,6 @@
+Customer ID: 9114
+Name: Nicholas Finley
+National ID: 777-32-3348
+Bank: Clark-Evans Bank
+Account Number: 7277419964
+Consent Status: Revoked

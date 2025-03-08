@@ -1,0 +1,6 @@
+Customer ID: 488
+Name: Shawn Fitzgerald
+National ID: 793-24-1196
+Bank: Williams-Williams Bank
+Account Number: 8839309236
+Consent Status: Revoked

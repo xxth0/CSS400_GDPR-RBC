@@ -1,0 +1,6 @@
+Customer ID: 8730
+Name: Gina Thomas
+National ID: 132-16-4689
+Bank: Moore-Snyder Bank
+Account Number: 2755676882
+Consent Status: Revoked

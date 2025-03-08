@@ -1,0 +1,6 @@
+Customer ID: 5146
+Name: John Mitchell
+National ID: 613-30-2885
+Bank: King-Diaz Bank
+Account Number: 5145360812
+Consent Status: Revoked

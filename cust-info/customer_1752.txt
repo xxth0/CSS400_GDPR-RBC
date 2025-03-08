@@ -1,0 +1,6 @@
+Customer ID: 1752
+Name: Amanda Pratt
+National ID: 687-27-1131
+Bank: Norris-Lynch Bank
+Account Number: 3109855290
+Consent Status: Granted

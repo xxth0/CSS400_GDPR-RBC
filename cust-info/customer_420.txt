@@ -1,0 +1,6 @@
+Customer ID: 420
+Name: Miss Vanessa Russell
+National ID: 697-61-3082
+Bank: Collins-Martinez Bank
+Account Number: 4663403322
+Consent Status: Revoked

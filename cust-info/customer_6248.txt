@@ -1,0 +1,6 @@
+Customer ID: 6248
+Name: Amy Chang
+National ID: 282-46-3954
+Bank: Wagner-Franco Bank
+Account Number: 9194200822
+Consent Status: Revoked

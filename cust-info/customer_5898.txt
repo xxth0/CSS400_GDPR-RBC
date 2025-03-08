@@ -1,0 +1,6 @@
+Customer ID: 5898
+Name: Elizabeth Lyons
+National ID: 632-27-1024
+Bank: Santos and Sons Bank
+Account Number: 4652116120
+Consent Status: Granted

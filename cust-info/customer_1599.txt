@@ -1,0 +1,6 @@
+Customer ID: 1599
+Name: Jamie Byrd
+National ID: 316-77-7507
+Bank: Alvarado, Lawrence and Ramos Bank
+Account Number: 6351916416
+Consent Status: Granted

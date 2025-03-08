@@ -1,0 +1,6 @@
+Customer ID: 4970
+Name: Michelle Jones
+National ID: 017-96-2525
+Bank: Rodriguez, Bennett and Moreno Bank
+Account Number: 4917187152
+Consent Status: Granted

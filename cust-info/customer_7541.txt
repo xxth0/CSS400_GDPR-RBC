@@ -1,0 +1,6 @@
+Customer ID: 7541
+Name: Lori Sherman
+National ID: 869-62-5628
+Bank: Gilbert, Morrison and Weber Bank
+Account Number: 3999724322
+Consent Status: Revoked

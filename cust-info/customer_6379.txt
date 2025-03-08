@@ -1,0 +1,6 @@
+Customer ID: 6379
+Name: Christopher Garcia
+National ID: 570-65-5832
+Bank: Woods, Perez and Welch Bank
+Account Number: 3097374664
+Consent Status: Revoked

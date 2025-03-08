@@ -1,0 +1,6 @@
+Customer ID: 7939
+Name: Tammy Jones
+National ID: 028-24-8136
+Bank: Brennan Ltd Bank
+Account Number: 2067537087
+Consent Status: Revoked

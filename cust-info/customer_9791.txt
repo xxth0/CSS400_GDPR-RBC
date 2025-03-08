@@ -1,0 +1,6 @@
+Customer ID: 9791
+Name: Mary Mercado
+National ID: 018-19-5844
+Bank: Miller-Williams Bank
+Account Number: 4623076988
+Consent Status: Revoked

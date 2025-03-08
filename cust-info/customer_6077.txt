@@ -1,0 +1,6 @@
+Customer ID: 6077
+Name: Elizabeth Trevino
+National ID: 161-81-3274
+Bank: Oconnell Ltd Bank
+Account Number: 6692414881
+Consent Status: Revoked

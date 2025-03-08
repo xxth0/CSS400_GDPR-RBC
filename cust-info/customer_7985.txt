@@ -1,0 +1,6 @@
+Customer ID: 7985
+Name: Carla Wood
+National ID: 229-03-6535
+Bank: Burnett PLC Bank
+Account Number: 8326139751
+Consent Status: Revoked

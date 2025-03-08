@@ -1,0 +1,6 @@
+Customer ID: 3460
+Name: Pamela Bailey
+National ID: 262-38-9153
+Bank: Moran-Gates Bank
+Account Number: 9006871878
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9845
+Name: Richard Carter
+National ID: 743-44-6529
+Bank: Murphy and Sons Bank
+Account Number: 6793833129
+Consent Status: Revoked

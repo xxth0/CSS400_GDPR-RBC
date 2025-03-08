@@ -1,0 +1,6 @@
+Customer ID: 2356
+Name: Michael Villarreal
+National ID: 872-75-2631
+Bank: Hunt, Thomas and Allison Bank
+Account Number: 8560764554
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2610
+Name: Jeremy Brown
+National ID: 171-50-2976
+Bank: Myers-Gonzalez Bank
+Account Number: 8516785366
+Consent Status: Revoked

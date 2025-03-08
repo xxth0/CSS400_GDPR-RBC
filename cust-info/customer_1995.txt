@@ -1,0 +1,6 @@
+Customer ID: 1995
+Name: Lauren White
+National ID: 312-92-8531
+Bank: Taylor, Castillo and Herrera Bank
+Account Number: 7525090217
+Consent Status: Revoked

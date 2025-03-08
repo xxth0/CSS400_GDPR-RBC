@@ -1,0 +1,6 @@
+Customer ID: 8410
+Name: Gregory Cline
+National ID: 492-44-0753
+Bank: Case-Bond Bank
+Account Number: 5031347828
+Consent Status: Revoked

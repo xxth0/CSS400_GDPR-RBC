@@ -1,0 +1,6 @@
+Customer ID: 8520
+Name: Steven Brown
+National ID: 441-68-2021
+Bank: Dunn-Mendoza Bank
+Account Number: 9953067812
+Consent Status: Revoked

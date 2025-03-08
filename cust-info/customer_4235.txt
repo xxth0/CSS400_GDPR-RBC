@@ -1,0 +1,6 @@
+Customer ID: 4235
+Name: David Lewis
+National ID: 140-03-0170
+Bank: Hart, Smith and Lin Bank
+Account Number: 2711600869
+Consent Status: Granted

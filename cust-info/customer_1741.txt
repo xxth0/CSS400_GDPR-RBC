@@ -1,0 +1,6 @@
+Customer ID: 1741
+Name: Gabriel Li
+National ID: 024-82-0313
+Bank: Roberts-Brown Bank
+Account Number: 7166561171
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2859
+Name: Sara Oliver
+National ID: 501-13-0898
+Bank: Peters-Caldwell Bank
+Account Number: 5438991474
+Consent Status: Revoked

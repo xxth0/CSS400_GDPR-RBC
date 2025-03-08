@@ -1,0 +1,6 @@
+Customer ID: 3275
+Name: Morgan Boone
+National ID: 620-74-5112
+Bank: Fletcher PLC Bank
+Account Number: 9198170066
+Consent Status: Granted

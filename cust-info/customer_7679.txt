@@ -1,0 +1,6 @@
+Customer ID: 7679
+Name: Robert Evans
+National ID: 219-16-6219
+Bank: Suarez-Bird Bank
+Account Number: 2211467046
+Consent Status: Revoked

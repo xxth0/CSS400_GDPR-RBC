@@ -1,0 +1,6 @@
+Customer ID: 9894
+Name: Mark Murray
+National ID: 306-96-0006
+Bank: Robbins-Welch Bank
+Account Number: 8514419549
+Consent Status: Granted

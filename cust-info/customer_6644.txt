@@ -1,0 +1,6 @@
+Customer ID: 6644
+Name: Katherine Williams
+National ID: 153-36-1104
+Bank: Huffman-Guerrero Bank
+Account Number: 1991928451
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3476
+Name: Jose Wright
+National ID: 585-52-4248
+Bank: Martin-Williams Bank
+Account Number: 1364266390
+Consent Status: Revoked

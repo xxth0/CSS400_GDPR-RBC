@@ -1,0 +1,6 @@
+Customer ID: 6000
+Name: Jennifer Ryan
+National ID: 126-65-5403
+Bank: Green, Parker and Shaffer Bank
+Account Number: 5165470430
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8281
+Name: Christopher Anthony
+National ID: 178-02-0198
+Bank: Jones, Fleming and Chapman Bank
+Account Number: 6873338628
+Consent Status: Granted

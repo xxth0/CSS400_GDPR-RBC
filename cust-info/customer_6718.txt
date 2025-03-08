@@ -1,0 +1,6 @@
+Customer ID: 6718
+Name: Shannon Pierce
+National ID: 494-46-9232
+Bank: Campbell Group Bank
+Account Number: 6670026455
+Consent Status: Granted

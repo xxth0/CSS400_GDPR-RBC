@@ -1,0 +1,6 @@
+Customer ID: 3448
+Name: Lori Hines
+National ID: 272-11-1070
+Bank: Boyer-Keith Bank
+Account Number: 4684386755
+Consent Status: Revoked

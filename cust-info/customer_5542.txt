@@ -1,0 +1,6 @@
+Customer ID: 5542
+Name: Alexandra Hoffman
+National ID: 400-72-8681
+Bank: Allen-Cisneros Bank
+Account Number: 7666494005
+Consent Status: Revoked

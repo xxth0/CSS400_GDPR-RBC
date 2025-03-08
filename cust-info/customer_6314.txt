@@ -1,0 +1,6 @@
+Customer ID: 6314
+Name: William Blake
+National ID: 166-34-1971
+Bank: Berry-Lee Bank
+Account Number: 7783506122
+Consent Status: Granted

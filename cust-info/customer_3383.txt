@@ -1,0 +1,6 @@
+Customer ID: 3383
+Name: Sarah Moran
+National ID: 860-47-1630
+Bank: Smith-Wise Bank
+Account Number: 5732029887
+Consent Status: Granted

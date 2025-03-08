@@ -1,0 +1,6 @@
+Customer ID: 7576
+Name: Mr. Jordan Scott
+National ID: 848-58-8609
+Bank: Lopez LLC Bank
+Account Number: 3427706976
+Consent Status: Revoked

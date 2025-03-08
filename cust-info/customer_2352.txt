@@ -1,0 +1,6 @@
+Customer ID: 2352
+Name: Craig Butler
+National ID: 164-79-7061
+Bank: Williams-Briggs Bank
+Account Number: 6206282184
+Consent Status: Granted

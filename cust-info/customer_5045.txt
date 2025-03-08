@@ -1,0 +1,6 @@
+Customer ID: 5045
+Name: Meredith Maldonado
+National ID: 893-40-5001
+Bank: Duran-Wilson Bank
+Account Number: 3845356371
+Consent Status: Granted

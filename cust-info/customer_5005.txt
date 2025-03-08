@@ -1,0 +1,6 @@
+Customer ID: 5005
+Name: Sarah Abbott
+National ID: 362-19-1993
+Bank: Oliver-Morrison Bank
+Account Number: 7450187441
+Consent Status: Revoked

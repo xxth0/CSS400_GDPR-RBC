@@ -1,0 +1,6 @@
+Customer ID: 3938
+Name: Angel Reyes
+National ID: 640-74-4551
+Bank: Roth-May Bank
+Account Number: 2325787079
+Consent Status: Revoked

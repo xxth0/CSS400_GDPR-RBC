@@ -1,0 +1,6 @@
+Customer ID: 6967
+Name: Brittany Torres
+National ID: 063-86-5300
+Bank: Hall LLC Bank
+Account Number: 5188160130
+Consent Status: Granted

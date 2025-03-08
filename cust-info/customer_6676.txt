@@ -1,0 +1,6 @@
+Customer ID: 6676
+Name: Cynthia Gonzalez
+National ID: 506-11-4897
+Bank: Burgess-Benson Bank
+Account Number: 5649346776
+Consent Status: Revoked

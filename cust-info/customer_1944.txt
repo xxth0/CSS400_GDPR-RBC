@@ -1,0 +1,6 @@
+Customer ID: 1944
+Name: Jeremy Williamson
+National ID: 294-52-7204
+Bank: Wheeler-Ramirez Bank
+Account Number: 3743286721
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3317
+Name: Stacey Lawrence
+National ID: 507-56-4841
+Bank: Myers PLC Bank
+Account Number: 7914981309
+Consent Status: Granted

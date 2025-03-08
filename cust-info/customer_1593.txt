@@ -1,0 +1,6 @@
+Customer ID: 1593
+Name: Mariah Knight
+National ID: 554-04-5724
+Bank: Thompson LLC Bank
+Account Number: 8535939825
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9834
+Name: Tanner Brown
+National ID: 726-04-2350
+Bank: Mitchell, Brown and Bennett Bank
+Account Number: 5099609265
+Consent Status: Revoked

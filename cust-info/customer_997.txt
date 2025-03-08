@@ -1,0 +1,6 @@
+Customer ID: 997
+Name: Ashley Wiggins
+National ID: 555-61-4033
+Bank: Bennett PLC Bank
+Account Number: 6535804372
+Consent Status: Granted

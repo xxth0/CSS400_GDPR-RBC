@@ -1,0 +1,6 @@
+Customer ID: 8711
+Name: Michele Thomas
+National ID: 327-05-8086
+Bank: Williams, Moran and Harvey Bank
+Account Number: 2970637093
+Consent Status: Granted

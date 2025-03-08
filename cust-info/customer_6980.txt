@@ -1,0 +1,6 @@
+Customer ID: 6980
+Name: Timothy Williams
+National ID: 398-59-8689
+Bank: Davenport Group Bank
+Account Number: 3606345355
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 247
+Name: Meghan Hamilton
+National ID: 193-28-4374
+Bank: Edwards Group Bank
+Account Number: 6555968857
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2480
+Name: Michael Hernandez
+National ID: 677-80-8245
+Bank: Bell, Montgomery and Downs Bank
+Account Number: 5182966319
+Consent Status: Granted

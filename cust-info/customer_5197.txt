@@ -1,0 +1,6 @@
+Customer ID: 5197
+Name: Jeffrey White
+National ID: 768-44-7066
+Bank: Beck-Curtis Bank
+Account Number: 4262212609
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1351
+Name: Hannah Stanley
+National ID: 426-16-2060
+Bank: Lee-Flores Bank
+Account Number: 5746184313
+Consent Status: Granted

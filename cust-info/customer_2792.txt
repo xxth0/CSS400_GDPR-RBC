@@ -1,0 +1,6 @@
+Customer ID: 2792
+Name: Javier Garcia
+National ID: 072-72-8134
+Bank: Vargas Group Bank
+Account Number: 4986838302
+Consent Status: Revoked

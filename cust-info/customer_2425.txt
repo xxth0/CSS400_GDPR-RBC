@@ -1,0 +1,6 @@
+Customer ID: 2425
+Name: Michael West
+National ID: 442-59-4175
+Bank: Terry, Smith and Turner Bank
+Account Number: 5808524713
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8791
+Name: Eric Martin
+National ID: 181-02-2245
+Bank: Hamilton LLC Bank
+Account Number: 6137312465
+Consent Status: Granted

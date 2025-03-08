@@ -1,0 +1,6 @@
+Customer ID: 8495
+Name: Haley Church
+National ID: 435-87-7665
+Bank: Johnson-Weeks Bank
+Account Number: 7721991458
+Consent Status: Revoked

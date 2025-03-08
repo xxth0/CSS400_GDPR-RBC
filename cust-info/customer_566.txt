@@ -1,0 +1,6 @@
+Customer ID: 566
+Name: Gilbert Vasquez
+National ID: 209-46-6516
+Bank: Washington Group Bank
+Account Number: 5762574774
+Consent Status: Revoked

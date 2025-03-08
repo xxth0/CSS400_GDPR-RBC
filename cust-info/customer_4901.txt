@@ -1,0 +1,6 @@
+Customer ID: 4901
+Name: Susan Mitchell
+National ID: 032-62-0455
+Bank: Torres, Diaz and Zimmerman Bank
+Account Number: 1796468733
+Consent Status: Granted

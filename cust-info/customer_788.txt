@@ -1,0 +1,6 @@
+Customer ID: 788
+Name: Caleb Carey
+National ID: 778-89-3873
+Bank: Miller and Sons Bank
+Account Number: 7491364909
+Consent Status: Revoked

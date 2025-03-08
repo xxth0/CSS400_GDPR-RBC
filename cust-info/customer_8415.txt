@@ -1,0 +1,6 @@
+Customer ID: 8415
+Name: Emily Smith
+National ID: 030-15-7448
+Bank: Cooper-Cline Bank
+Account Number: 8927346170
+Consent Status: Granted

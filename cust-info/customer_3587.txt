@@ -1,0 +1,6 @@
+Customer ID: 3587
+Name: Robert Clark
+National ID: 680-86-9613
+Bank: Nunez-Perez Bank
+Account Number: 4940427799
+Consent Status: Revoked

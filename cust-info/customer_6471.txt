@@ -1,0 +1,6 @@
+Customer ID: 6471
+Name: Michael Monroe
+National ID: 118-85-4549
+Bank: Evans, Kirk and Hall Bank
+Account Number: 1161691391
+Consent Status: Revoked

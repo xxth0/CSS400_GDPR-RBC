@@ -1,0 +1,6 @@
+Customer ID: 5788
+Name: Mr. Daniel Foster
+National ID: 303-20-9314
+Bank: Klein-Atkinson Bank
+Account Number: 8115065445
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9405
+Name: Timothy Castaneda
+National ID: 221-11-4895
+Bank: Maldonado Ltd Bank
+Account Number: 3111549537
+Consent Status: Revoked

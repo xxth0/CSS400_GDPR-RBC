@@ -1,0 +1,6 @@
+Customer ID: 6903
+Name: Mark Holmes
+National ID: 197-05-5995
+Bank: Pham-Clark Bank
+Account Number: 9255263465
+Consent Status: Granted

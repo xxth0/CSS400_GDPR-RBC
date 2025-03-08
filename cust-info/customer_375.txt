@@ -1,0 +1,6 @@
+Customer ID: 375
+Name: Corey Mitchell
+National ID: 155-94-0858
+Bank: Pollard, Rodriguez and Smith Bank
+Account Number: 2667447166
+Consent Status: Revoked

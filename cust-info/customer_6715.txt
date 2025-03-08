@@ -1,0 +1,6 @@
+Customer ID: 6715
+Name: Denise Martin
+National ID: 131-35-4362
+Bank: Edwards PLC Bank
+Account Number: 2437064245
+Consent Status: Revoked

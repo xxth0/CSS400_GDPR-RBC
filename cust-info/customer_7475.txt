@@ -1,0 +1,6 @@
+Customer ID: 7475
+Name: Andrea Paul
+National ID: 689-76-6634
+Bank: Myers, Jones and Reed Bank
+Account Number: 5276786008
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2460
+Name: Michael Conrad
+National ID: 076-83-5371
+Bank: Wallace, Preston and Allen Bank
+Account Number: 3995795125
+Consent Status: Revoked

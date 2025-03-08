@@ -1,0 +1,6 @@
+Customer ID: 9074
+Name: Joseph Gibson
+National ID: 647-88-2821
+Bank: Hamilton Group Bank
+Account Number: 1419197777
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 805
+Name: Steven Johnson
+National ID: 728-30-8358
+Bank: Pratt, Phillips and Gardner Bank
+Account Number: 1307384146
+Consent Status: Revoked

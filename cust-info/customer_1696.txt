@@ -1,0 +1,6 @@
+Customer ID: 1696
+Name: Rhonda Lowe
+National ID: 046-63-7257
+Bank: Hicks-Gray Bank
+Account Number: 8867767513
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 214
+Name: Nicole Alvarez
+National ID: 344-69-2961
+Bank: Rodriguez-Smith Bank
+Account Number: 5002077460
+Consent Status: Granted

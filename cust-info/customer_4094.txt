@@ -1,0 +1,6 @@
+Customer ID: 4094
+Name: John Thomas
+National ID: 511-71-9973
+Bank: Espinoza-Owens Bank
+Account Number: 7834480256
+Consent Status: Revoked

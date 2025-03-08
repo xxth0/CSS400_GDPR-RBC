@@ -1,0 +1,6 @@
+Customer ID: 7609
+Name: John Rice
+National ID: 595-29-8000
+Bank: Garcia, Simpson and Brooks Bank
+Account Number: 5732362109
+Consent Status: Revoked

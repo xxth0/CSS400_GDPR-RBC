@@ -1,0 +1,6 @@
+Customer ID: 8690
+Name: Maurice Rose
+National ID: 438-06-5830
+Bank: White, Hess and Day Bank
+Account Number: 9615303525
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8857
+Name: Christopher White
+National ID: 398-24-1028
+Bank: Watts-Odonnell Bank
+Account Number: 4768519768
+Consent Status: Granted

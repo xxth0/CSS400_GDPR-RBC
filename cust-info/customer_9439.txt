@@ -1,0 +1,6 @@
+Customer ID: 9439
+Name: Karen Daugherty
+National ID: 291-47-4655
+Bank: Rodriguez-Morris Bank
+Account Number: 5175971571
+Consent Status: Revoked

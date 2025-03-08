@@ -1,0 +1,6 @@
+Customer ID: 9599
+Name: Melanie Gibson
+National ID: 782-60-6881
+Bank: Smith, Macias and Cole Bank
+Account Number: 1439928711
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6272
+Name: Stephen Fisher
+National ID: 658-53-9108
+Bank: Jones-Craig Bank
+Account Number: 3140654812
+Consent Status: Revoked

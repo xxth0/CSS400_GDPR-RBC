@@ -1,0 +1,6 @@
+Customer ID: 3613
+Name: Crystal Escobar
+National ID: 403-95-1492
+Bank: Ross Inc Bank
+Account Number: 6726325973
+Consent Status: Revoked

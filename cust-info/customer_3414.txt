@@ -1,0 +1,6 @@
+Customer ID: 3414
+Name: Jillian Welch
+National ID: 263-84-8444
+Bank: Mclaughlin, Garner and Bailey Bank
+Account Number: 1963591701
+Consent Status: Granted

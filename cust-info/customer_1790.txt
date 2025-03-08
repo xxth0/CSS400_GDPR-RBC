@@ -1,0 +1,6 @@
+Customer ID: 1790
+Name: Jesus Ramirez
+National ID: 865-16-8037
+Bank: Wagner, Gregory and Ross Bank
+Account Number: 4228813207
+Consent Status: Granted

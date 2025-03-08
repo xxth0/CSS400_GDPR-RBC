@@ -1,0 +1,6 @@
+Customer ID: 2461
+Name: Amanda Smith
+National ID: 593-67-7414
+Bank: Clark, Sheppard and Woods Bank
+Account Number: 3899243368
+Consent Status: Granted

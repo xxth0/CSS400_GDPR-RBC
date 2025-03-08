@@ -1,0 +1,6 @@
+Customer ID: 5382
+Name: Tony Martinez
+National ID: 257-26-1129
+Bank: Clark and Sons Bank
+Account Number: 5669143947
+Consent Status: Granted

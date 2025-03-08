@@ -1,0 +1,6 @@
+Customer ID: 426
+Name: Sabrina Ross
+National ID: 266-51-6742
+Bank: Brown, Robinson and White Bank
+Account Number: 2593726670
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7210
+Name: Samuel Cordova
+National ID: 426-94-5781
+Bank: Beck, Johnson and Glover Bank
+Account Number: 4364377924
+Consent Status: Revoked

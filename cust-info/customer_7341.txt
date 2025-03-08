@@ -1,0 +1,6 @@
+Customer ID: 7341
+Name: Patrick Powers
+National ID: 151-99-8710
+Bank: Schaefer, Nguyen and Sweeney Bank
+Account Number: 9537094416
+Consent Status: Revoked

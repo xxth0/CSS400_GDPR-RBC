@@ -1,0 +1,6 @@
+Customer ID: 4917
+Name: Joseph Davis
+National ID: 617-88-4650
+Bank: Chavez, Estrada and Washington Bank
+Account Number: 9793334461
+Consent Status: Revoked

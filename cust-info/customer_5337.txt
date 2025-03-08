@@ -1,0 +1,6 @@
+Customer ID: 5337
+Name: Adrian Jones
+National ID: 531-62-1575
+Bank: Bennett-Sanchez Bank
+Account Number: 7581279888
+Consent Status: Revoked

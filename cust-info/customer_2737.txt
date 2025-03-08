@@ -1,0 +1,6 @@
+Customer ID: 2737
+Name: Amanda Vega
+National ID: 385-15-4845
+Bank: Chan-Williams Bank
+Account Number: 1099727622
+Consent Status: Revoked

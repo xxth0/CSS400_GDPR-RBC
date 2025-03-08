@@ -1,0 +1,6 @@
+Customer ID: 1296
+Name: Megan Johnson
+National ID: 520-29-9589
+Bank: Jones-Mcdaniel Bank
+Account Number: 6458200823
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 453
+Name: Marcus Pierce
+National ID: 862-13-8905
+Bank: Williams, Bryant and Michael Bank
+Account Number: 6289806611
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6709
+Name: Michelle Haley
+National ID: 356-03-3442
+Bank: Perry and Sons Bank
+Account Number: 5046858093
+Consent Status: Granted

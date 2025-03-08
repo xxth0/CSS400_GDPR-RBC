@@ -1,0 +1,6 @@
+Customer ID: 6196
+Name: Janet Byrd
+National ID: 562-11-3857
+Bank: Snyder-Mata Bank
+Account Number: 3282662497
+Consent Status: Revoked

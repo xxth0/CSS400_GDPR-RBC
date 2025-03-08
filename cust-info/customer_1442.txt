@@ -1,0 +1,6 @@
+Customer ID: 1442
+Name: Olivia Cruz
+National ID: 063-75-0987
+Bank: Allen-Reed Bank
+Account Number: 5325567547
+Consent Status: Revoked

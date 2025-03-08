@@ -1,0 +1,6 @@
+Customer ID: 298
+Name: Jesus Whitehead
+National ID: 382-42-1966
+Bank: Collier-Mcdonald Bank
+Account Number: 7149309488
+Consent Status: Granted

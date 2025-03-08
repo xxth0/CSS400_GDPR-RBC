@@ -1,0 +1,6 @@
+Customer ID: 1800
+Name: Joshua Ali
+National ID: 219-46-2555
+Bank: Buckley, Reed and Rodriguez Bank
+Account Number: 1322252392
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2124
+Name: Sara Warner
+National ID: 137-54-8309
+Bank: Mitchell, Espinoza and Fisher Bank
+Account Number: 8576394343
+Consent Status: Granted

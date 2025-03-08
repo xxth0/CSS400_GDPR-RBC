@@ -1,0 +1,6 @@
+Customer ID: 532
+Name: Misty Hodge
+National ID: 713-17-3748
+Bank: Allen-Powers Bank
+Account Number: 7524197344
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2351
+Name: Curtis Lyons
+National ID: 262-42-8572
+Bank: Smith PLC Bank
+Account Number: 9843720606
+Consent Status: Granted

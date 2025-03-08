@@ -1,0 +1,6 @@
+Customer ID: 7221
+Name: Michael Turner
+National ID: 116-81-1900
+Bank: Clark, Sanders and Jackson Bank
+Account Number: 8062969344
+Consent Status: Revoked

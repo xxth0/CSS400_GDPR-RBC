@@ -1,0 +1,6 @@
+Customer ID: 6748
+Name: Regina Jordan
+National ID: 185-06-2445
+Bank: Murphy, Armstrong and Evans Bank
+Account Number: 5562326087
+Consent Status: Revoked

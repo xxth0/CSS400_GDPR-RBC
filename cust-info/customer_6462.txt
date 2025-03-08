@@ -1,0 +1,6 @@
+Customer ID: 6462
+Name: Vanessa Mcdonald
+National ID: 819-57-9631
+Bank: Gonzalez-Baker Bank
+Account Number: 8153843590
+Consent Status: Revoked

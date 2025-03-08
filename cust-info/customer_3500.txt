@@ -1,0 +1,6 @@
+Customer ID: 3500
+Name: Daniel Moore
+National ID: 834-59-6283
+Bank: Garcia-Young Bank
+Account Number: 6193850655
+Consent Status: Revoked

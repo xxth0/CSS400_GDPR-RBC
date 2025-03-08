@@ -1,0 +1,6 @@
+Customer ID: 1614
+Name: Patrick Perez
+National ID: 225-65-2480
+Bank: Tanner and Sons Bank
+Account Number: 7210280557
+Consent Status: Granted

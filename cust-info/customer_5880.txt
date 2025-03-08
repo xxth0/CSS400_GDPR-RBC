@@ -1,0 +1,6 @@
+Customer ID: 5880
+Name: Garrett Mccoy
+National ID: 651-76-7160
+Bank: Woodward-Maxwell Bank
+Account Number: 3292677561
+Consent Status: Granted

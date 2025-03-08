@@ -1,0 +1,6 @@
+Customer ID: 935
+Name: David Arnold
+National ID: 258-64-4218
+Bank: Bell-Jones Bank
+Account Number: 9267457001
+Consent Status: Granted

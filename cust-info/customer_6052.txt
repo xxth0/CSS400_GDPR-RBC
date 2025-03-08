@@ -1,0 +1,6 @@
+Customer ID: 6052
+Name: Crystal Gonzalez
+National ID: 156-81-6458
+Bank: Caldwell, Montes and Hopkins Bank
+Account Number: 7177101880
+Consent Status: Revoked

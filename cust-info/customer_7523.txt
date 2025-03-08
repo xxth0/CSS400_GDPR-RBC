@@ -1,0 +1,6 @@
+Customer ID: 7523
+Name: Ronald Perry
+National ID: 571-63-1471
+Bank: Williams Inc Bank
+Account Number: 9234063210
+Consent Status: Revoked

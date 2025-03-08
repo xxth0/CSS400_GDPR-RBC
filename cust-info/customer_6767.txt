@@ -1,0 +1,6 @@
+Customer ID: 6767
+Name: Kenneth Robertson
+National ID: 141-59-6744
+Bank: Cowan and Sons Bank
+Account Number: 9684961138
+Consent Status: Revoked

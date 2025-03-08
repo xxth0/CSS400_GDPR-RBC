@@ -1,0 +1,6 @@
+Customer ID: 6261
+Name: Mrs. Carolyn Williams
+National ID: 819-71-6711
+Bank: Howard-Smith Bank
+Account Number: 9809590101
+Consent Status: Revoked

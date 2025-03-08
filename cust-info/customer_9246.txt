@@ -1,0 +1,6 @@
+Customer ID: 9246
+Name: Hannah Gonzalez
+National ID: 041-38-5533
+Bank: Hamilton-Smith Bank
+Account Number: 1898018054
+Consent Status: Granted

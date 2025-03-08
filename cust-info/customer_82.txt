@@ -1,0 +1,6 @@
+Customer ID: 82
+Name: Kathy Walker
+National ID: 306-65-0519
+Bank: Mcclain, Riddle and Garcia Bank
+Account Number: 8832277511
+Consent Status: Revoked

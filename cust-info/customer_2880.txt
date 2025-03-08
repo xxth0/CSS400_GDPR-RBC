@@ -1,0 +1,6 @@
+Customer ID: 2880
+Name: Dawn Schmidt
+National ID: 068-20-7360
+Bank: Rodriguez-Wells Bank
+Account Number: 9607995410
+Consent Status: Revoked

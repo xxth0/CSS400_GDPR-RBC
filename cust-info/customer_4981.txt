@@ -1,0 +1,6 @@
+Customer ID: 4981
+Name: Ashley Krause
+National ID: 804-95-5119
+Bank: Tucker LLC Bank
+Account Number: 3700461371
+Consent Status: Granted

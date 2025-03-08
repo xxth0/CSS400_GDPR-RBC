@@ -1,0 +1,6 @@
+Customer ID: 9374
+Name: William Hamilton
+National ID: 840-67-8755
+Bank: Price Ltd Bank
+Account Number: 7032194051
+Consent Status: Revoked

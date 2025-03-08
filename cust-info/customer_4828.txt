@@ -1,0 +1,6 @@
+Customer ID: 4828
+Name: Alicia Stafford
+National ID: 029-64-2406
+Bank: Johnson-Mitchell Bank
+Account Number: 4034315640
+Consent Status: Revoked

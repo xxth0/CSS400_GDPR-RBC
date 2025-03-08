@@ -1,0 +1,6 @@
+Customer ID: 4076
+Name: Bethany Logan
+National ID: 899-84-9017
+Bank: Jones, Stanton and Duran Bank
+Account Number: 3445677806
+Consent Status: Revoked

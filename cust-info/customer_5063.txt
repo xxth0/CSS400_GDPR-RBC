@@ -1,0 +1,6 @@
+Customer ID: 5063
+Name: Ann Perez
+National ID: 875-56-9217
+Bank: Richmond PLC Bank
+Account Number: 9375750513
+Consent Status: Granted

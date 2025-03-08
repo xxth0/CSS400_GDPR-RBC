@@ -1,0 +1,6 @@
+Customer ID: 4567
+Name: Brandon Curry
+National ID: 718-87-3406
+Bank: Evans, Reyes and Rice Bank
+Account Number: 9346822760
+Consent Status: Revoked

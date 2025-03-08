@@ -1,0 +1,6 @@
+Customer ID: 7099
+Name: Joseph James
+National ID: 616-87-1804
+Bank: Newman, Carter and Clark Bank
+Account Number: 3741907991
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 326
+Name: Veronica York
+National ID: 598-91-2420
+Bank: Davis, Shaw and Kim Bank
+Account Number: 6714827962
+Consent Status: Granted

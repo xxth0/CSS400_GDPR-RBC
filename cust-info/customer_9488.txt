@@ -1,0 +1,6 @@
+Customer ID: 9488
+Name: Stacy Small MD
+National ID: 758-87-7888
+Bank: Pena Inc Bank
+Account Number: 4677242434
+Consent Status: Granted

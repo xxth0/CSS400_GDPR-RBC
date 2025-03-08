@@ -1,0 +1,6 @@
+Customer ID: 2927
+Name: Christina Burns
+National ID: 100-79-6552
+Bank: Sims and Sons Bank
+Account Number: 4151103099
+Consent Status: Granted

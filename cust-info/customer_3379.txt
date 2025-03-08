@@ -1,0 +1,6 @@
+Customer ID: 3379
+Name: Gwendolyn Barry
+National ID: 415-87-2793
+Bank: Hill, Dalton and Macdonald Bank
+Account Number: 1165875614
+Consent Status: Granted

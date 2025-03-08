@@ -1,0 +1,6 @@
+Customer ID: 8365
+Name: Jeffrey Lee
+National ID: 313-01-3960
+Bank: Gibbs, Valdez and Hill Bank
+Account Number: 9527929380
+Consent Status: Granted

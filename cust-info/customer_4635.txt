@@ -1,0 +1,6 @@
+Customer ID: 4635
+Name: Brent Cooper
+National ID: 553-19-9598
+Bank: Valencia Ltd Bank
+Account Number: 8877783985
+Consent Status: Granted

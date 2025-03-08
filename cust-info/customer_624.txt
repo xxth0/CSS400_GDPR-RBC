@@ -1,0 +1,6 @@
+Customer ID: 624
+Name: Samantha Ford
+National ID: 361-98-8342
+Bank: Schneider, Daniels and Calhoun Bank
+Account Number: 2477136870
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3679
+Name: Samuel Franklin
+National ID: 228-07-4654
+Bank: Dunlap, Freeman and Lucas Bank
+Account Number: 1049877507
+Consent Status: Granted

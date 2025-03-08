@@ -1,0 +1,6 @@
+Customer ID: 4518
+Name: Joel Chapman
+National ID: 424-44-2390
+Bank: Wyatt-Mccall Bank
+Account Number: 1704120185
+Consent Status: Revoked

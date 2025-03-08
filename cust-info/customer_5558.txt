@@ -1,0 +1,6 @@
+Customer ID: 5558
+Name: Angela Nielsen
+National ID: 213-27-2324
+Bank: Cox-Turner Bank
+Account Number: 9743528429
+Consent Status: Revoked

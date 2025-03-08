@@ -1,0 +1,6 @@
+Customer ID: 7799
+Name: Gary Aguirre
+National ID: 859-43-4377
+Bank: Collins-Carter Bank
+Account Number: 3585812815
+Consent Status: Granted

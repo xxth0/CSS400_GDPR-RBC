@@ -1,0 +1,6 @@
+Customer ID: 1219
+Name: Jonathon Weiss
+National ID: 186-43-6175
+Bank: Glenn PLC Bank
+Account Number: 2984966813
+Consent Status: Revoked

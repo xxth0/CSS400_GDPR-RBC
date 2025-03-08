@@ -1,0 +1,6 @@
+Customer ID: 598
+Name: Courtney Garcia
+National ID: 099-01-6629
+Bank: Fernandez, Hill and Young Bank
+Account Number: 4057074955
+Consent Status: Revoked

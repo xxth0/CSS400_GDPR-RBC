@@ -1,0 +1,6 @@
+Customer ID: 4547
+Name: Benjamin Rodriguez
+National ID: 451-53-6153
+Bank: Holmes Ltd Bank
+Account Number: 7462979756
+Consent Status: Revoked

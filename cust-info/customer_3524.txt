@@ -1,0 +1,6 @@
+Customer ID: 3524
+Name: Kyle Frost
+National ID: 447-04-8402
+Bank: Castillo, Ford and Williams Bank
+Account Number: 4869493930
+Consent Status: Granted

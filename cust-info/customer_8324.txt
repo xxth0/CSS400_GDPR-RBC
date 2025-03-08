@@ -1,0 +1,6 @@
+Customer ID: 8324
+Name: Gregory Smith
+National ID: 574-97-6766
+Bank: Rose, Baker and Thomas Bank
+Account Number: 1747479459
+Consent Status: Revoked

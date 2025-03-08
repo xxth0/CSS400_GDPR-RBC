@@ -1,0 +1,6 @@
+Customer ID: 1103
+Name: Lawrence Sutton
+National ID: 538-94-4701
+Bank: Williams-Schroeder Bank
+Account Number: 4943766657
+Consent Status: Revoked

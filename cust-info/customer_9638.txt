@@ -1,0 +1,6 @@
+Customer ID: 9638
+Name: Michael Edwards
+National ID: 265-37-1554
+Bank: Dennis, Mills and Mccarty Bank
+Account Number: 9421549691
+Consent Status: Revoked

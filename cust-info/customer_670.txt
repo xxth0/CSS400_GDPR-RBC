@@ -1,0 +1,6 @@
+Customer ID: 670
+Name: Amy Marsh
+National ID: 076-70-0963
+Bank: Eaton Group Bank
+Account Number: 1438266811
+Consent Status: Revoked

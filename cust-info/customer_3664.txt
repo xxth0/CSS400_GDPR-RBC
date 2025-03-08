@@ -1,0 +1,6 @@
+Customer ID: 3664
+Name: Jennifer Garcia
+National ID: 722-44-8023
+Bank: Fernandez, Parker and Fleming Bank
+Account Number: 4230076912
+Consent Status: Granted

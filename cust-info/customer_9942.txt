@@ -1,0 +1,6 @@
+Customer ID: 9942
+Name: Travis Lewis
+National ID: 773-14-8826
+Bank: Hawkins Inc Bank
+Account Number: 8081834343
+Consent Status: Revoked

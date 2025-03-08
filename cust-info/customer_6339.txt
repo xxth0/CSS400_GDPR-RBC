@@ -1,0 +1,6 @@
+Customer ID: 6339
+Name: Jessica Adams
+National ID: 747-09-9035
+Bank: Krueger-Porter Bank
+Account Number: 1749003830
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6262
+Name: Amy Richardson
+National ID: 742-46-1361
+Bank: Roberts-Norman Bank
+Account Number: 5407086506
+Consent Status: Revoked

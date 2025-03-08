@@ -1,0 +1,6 @@
+Customer ID: 3776
+Name: Alex Mendez
+National ID: 126-73-3368
+Bank: Rodriguez PLC Bank
+Account Number: 6235446241
+Consent Status: Granted

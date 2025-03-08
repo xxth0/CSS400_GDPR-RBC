@@ -1,0 +1,6 @@
+Customer ID: 9812
+Name: John Love
+National ID: 749-99-4928
+Bank: Morrison, Yates and Chapman Bank
+Account Number: 6837065849
+Consent Status: Revoked

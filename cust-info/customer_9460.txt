@@ -1,0 +1,6 @@
+Customer ID: 9460
+Name: Ethan Vang
+National ID: 545-68-5450
+Bank: Garner, Dean and Cabrera Bank
+Account Number: 9698650394
+Consent Status: Revoked

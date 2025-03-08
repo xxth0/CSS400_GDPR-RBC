@@ -1,0 +1,6 @@
+Customer ID: 5276
+Name: Daniel Silva
+National ID: 708-75-6984
+Bank: Adams, Alexander and Cardenas Bank
+Account Number: 5920667440
+Consent Status: Granted

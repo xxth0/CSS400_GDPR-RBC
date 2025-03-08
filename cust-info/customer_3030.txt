@@ -1,0 +1,6 @@
+Customer ID: 3030
+Name: Shannon Parker
+National ID: 524-11-0785
+Bank: Smith-Jimenez Bank
+Account Number: 4681843325
+Consent Status: Granted

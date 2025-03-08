@@ -1,0 +1,6 @@
+Customer ID: 8462
+Name: Rebecca Huynh
+National ID: 183-99-3212
+Bank: Stewart Group Bank
+Account Number: 3266210833
+Consent Status: Granted

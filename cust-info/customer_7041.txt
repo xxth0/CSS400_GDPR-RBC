@@ -1,0 +1,6 @@
+Customer ID: 7041
+Name: Amanda Harris
+National ID: 460-29-8894
+Bank: Price PLC Bank
+Account Number: 2271576160
+Consent Status: Revoked

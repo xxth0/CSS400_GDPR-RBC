@@ -1,0 +1,6 @@
+Customer ID: 8198
+Name: Ethan Davis Jr.
+National ID: 129-34-2240
+Bank: Williams-Randolph Bank
+Account Number: 6427892873
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1065
+Name: Samuel Hooper
+National ID: 191-52-7060
+Bank: Kirby-Chase Bank
+Account Number: 3252145046
+Consent Status: Revoked

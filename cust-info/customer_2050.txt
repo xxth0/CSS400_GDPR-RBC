@@ -1,0 +1,6 @@
+Customer ID: 2050
+Name: Audrey Guzman
+National ID: 827-20-9128
+Bank: Ross Inc Bank
+Account Number: 6308828420
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 629
+Name: Karina Collins
+National ID: 717-79-5545
+Bank: Hughes, Schneider and Wiggins Bank
+Account Number: 9834744164
+Consent Status: Revoked

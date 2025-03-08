@@ -1,0 +1,6 @@
+Customer ID: 132
+Name: Jessica Wood
+National ID: 012-40-1336
+Bank: Sanchez-Schmidt Bank
+Account Number: 9884633148
+Consent Status: Revoked

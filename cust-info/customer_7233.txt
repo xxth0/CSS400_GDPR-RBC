@@ -1,0 +1,6 @@
+Customer ID: 7233
+Name: Michael Lamb
+National ID: 611-31-9216
+Bank: Petty, Sanders and Calderon Bank
+Account Number: 7984096998
+Consent Status: Revoked

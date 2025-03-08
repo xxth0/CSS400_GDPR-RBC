@@ -1,0 +1,6 @@
+Customer ID: 4167
+Name: Brenda Hudson
+National ID: 781-21-7802
+Bank: Shields-Huffman Bank
+Account Number: 7847779903
+Consent Status: Revoked

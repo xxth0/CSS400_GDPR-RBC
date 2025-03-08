@@ -1,0 +1,6 @@
+Customer ID: 254
+Name: Kevin Swanson
+National ID: 388-90-8498
+Bank: Reynolds, Wallace and Logan Bank
+Account Number: 7630068998
+Consent Status: Revoked

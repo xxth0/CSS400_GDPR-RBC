@@ -1,0 +1,6 @@
+Customer ID: 4564
+Name: Angela Johnson
+National ID: 669-91-1578
+Bank: Bennett, Mercer and Barron Bank
+Account Number: 9244451840
+Consent Status: Granted

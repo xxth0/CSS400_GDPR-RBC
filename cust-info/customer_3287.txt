@@ -1,0 +1,6 @@
+Customer ID: 3287
+Name: Timothy Kim
+National ID: 511-95-9972
+Bank: Ramirez PLC Bank
+Account Number: 7293871534
+Consent Status: Granted

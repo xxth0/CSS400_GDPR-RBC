@@ -1,0 +1,6 @@
+Customer ID: 782
+Name: Thomas Cochran
+National ID: 016-45-4966
+Bank: Gamble Inc Bank
+Account Number: 4732036600
+Consent Status: Revoked

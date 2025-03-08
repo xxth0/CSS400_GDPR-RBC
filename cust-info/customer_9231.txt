@@ -1,0 +1,6 @@
+Customer ID: 9231
+Name: Nathan Bailey
+National ID: 336-52-5540
+Bank: Graham Inc Bank
+Account Number: 4573272390
+Consent Status: Revoked

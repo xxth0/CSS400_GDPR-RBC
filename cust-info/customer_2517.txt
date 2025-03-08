@@ -1,0 +1,6 @@
+Customer ID: 2517
+Name: John Lopez
+National ID: 130-74-2617
+Bank: Ortiz and Sons Bank
+Account Number: 4140753543
+Consent Status: Granted

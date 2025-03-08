@@ -1,0 +1,6 @@
+Customer ID: 9679
+Name: Kelsey Williams
+National ID: 335-47-9245
+Bank: Reeves-Delacruz Bank
+Account Number: 3527559285
+Consent Status: Revoked

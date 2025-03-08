@@ -1,0 +1,6 @@
+Customer ID: 3086
+Name: Daniel Cole
+National ID: 516-70-2691
+Bank: Hunt, Thomas and Yang Bank
+Account Number: 4777199214
+Consent Status: Revoked

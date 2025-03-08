@@ -1,0 +1,6 @@
+Customer ID: 7876
+Name: Julia Jones
+National ID: 148-83-0737
+Bank: Mueller Inc Bank
+Account Number: 3308023559
+Consent Status: Granted

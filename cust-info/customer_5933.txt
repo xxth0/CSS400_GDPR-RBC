@@ -1,0 +1,6 @@
+Customer ID: 5933
+Name: Alicia Turner
+National ID: 625-08-0187
+Bank: Davis Inc Bank
+Account Number: 5250534962
+Consent Status: Granted

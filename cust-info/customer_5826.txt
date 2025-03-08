@@ -1,0 +1,6 @@
+Customer ID: 5826
+Name: John Coleman
+National ID: 059-74-7890
+Bank: Jennings, Ross and Bolton Bank
+Account Number: 2213615220
+Consent Status: Granted

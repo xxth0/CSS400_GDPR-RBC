@@ -1,0 +1,6 @@
+Customer ID: 7941
+Name: Amanda Stevens
+National ID: 615-44-3552
+Bank: Hernandez, Dunlap and Owen Bank
+Account Number: 1920362673
+Consent Status: Revoked

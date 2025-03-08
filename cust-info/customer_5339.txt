@@ -1,0 +1,6 @@
+Customer ID: 5339
+Name: Miguel Davis
+National ID: 834-20-2090
+Bank: Sexton, Robinson and Jones Bank
+Account Number: 4866166014
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3627
+Name: Zachary Daniel
+National ID: 375-37-9978
+Bank: Taylor, Brennan and Castro Bank
+Account Number: 6387106011
+Consent Status: Revoked

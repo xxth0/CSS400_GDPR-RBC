@@ -1,0 +1,6 @@
+Customer ID: 3208
+Name: Christine Williams
+National ID: 328-84-3643
+Bank: Wolf, Taylor and Patterson Bank
+Account Number: 4297861624
+Consent Status: Granted

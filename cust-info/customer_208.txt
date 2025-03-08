@@ -1,0 +1,6 @@
+Customer ID: 208
+Name: Bryan Reed
+National ID: 207-86-3234
+Bank: Ali Group Bank
+Account Number: 4966982656
+Consent Status: Revoked

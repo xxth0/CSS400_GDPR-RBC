@@ -1,0 +1,6 @@
+Customer ID: 720
+Name: Amanda Kaiser
+National ID: 673-34-2335
+Bank: Rocha Inc Bank
+Account Number: 3405310458
+Consent Status: Revoked

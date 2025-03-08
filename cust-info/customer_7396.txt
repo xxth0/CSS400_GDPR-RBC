@@ -1,0 +1,6 @@
+Customer ID: 7396
+Name: Gwendolyn White
+National ID: 848-87-5613
+Bank: Moore-Lucas Bank
+Account Number: 8771992775
+Consent Status: Granted

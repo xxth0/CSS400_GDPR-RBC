@@ -1,0 +1,6 @@
+Customer ID: 7018
+Name: Tina Bender
+National ID: 834-04-7069
+Bank: Tyler, Perry and Miller Bank
+Account Number: 8031048945
+Consent Status: Revoked

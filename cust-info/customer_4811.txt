@@ -1,0 +1,6 @@
+Customer ID: 4811
+Name: Michael Palmer
+National ID: 242-21-9070
+Bank: Sanchez-Jones Bank
+Account Number: 9771422545
+Consent Status: Granted

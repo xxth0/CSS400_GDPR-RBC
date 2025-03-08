@@ -1,0 +1,6 @@
+Customer ID: 1569
+Name: Christopher Ward
+National ID: 295-89-6937
+Bank: Garcia-Smith Bank
+Account Number: 9549769946
+Consent Status: Revoked

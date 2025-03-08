@@ -1,0 +1,6 @@
+Customer ID: 6165
+Name: Virginia Fernandez
+National ID: 030-24-8366
+Bank: Perry-Gonzalez Bank
+Account Number: 5120346458
+Consent Status: Revoked

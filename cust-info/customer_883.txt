@@ -1,0 +1,6 @@
+Customer ID: 883
+Name: Melanie Miller
+National ID: 047-06-1109
+Bank: Robertson, Novak and Jones Bank
+Account Number: 4988268059
+Consent Status: Revoked

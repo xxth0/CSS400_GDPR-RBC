@@ -1,0 +1,6 @@
+Customer ID: 2565
+Name: Bernard Tucker
+National ID: 757-45-1554
+Bank: Reed-Cain Bank
+Account Number: 9480569577
+Consent Status: Revoked

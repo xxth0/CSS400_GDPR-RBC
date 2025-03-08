@@ -1,0 +1,6 @@
+Customer ID: 3852
+Name: Cindy Shaw
+National ID: 712-32-9640
+Bank: Williams LLC Bank
+Account Number: 2932882453
+Consent Status: Revoked

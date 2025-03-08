@@ -1,0 +1,6 @@
+Customer ID: 1013
+Name: Lori Tate
+National ID: 592-29-0510
+Bank: Garrett, Garcia and Clements Bank
+Account Number: 9973528933
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1094
+Name: Andrew Stanley
+National ID: 653-72-6122
+Bank: Walters-Jones Bank
+Account Number: 3702057301
+Consent Status: Granted

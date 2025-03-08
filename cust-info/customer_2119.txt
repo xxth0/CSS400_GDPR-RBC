@@ -1,0 +1,6 @@
+Customer ID: 2119
+Name: Shari Murphy
+National ID: 884-29-0842
+Bank: Estrada Inc Bank
+Account Number: 9146916835
+Consent Status: Granted

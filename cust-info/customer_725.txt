@@ -1,0 +1,6 @@
+Customer ID: 725
+Name: Lonnie Moore
+National ID: 883-77-1369
+Bank: Herrera and Sons Bank
+Account Number: 9687294194
+Consent Status: Granted

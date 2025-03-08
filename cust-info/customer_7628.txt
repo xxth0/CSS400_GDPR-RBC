@@ -1,0 +1,6 @@
+Customer ID: 7628
+Name: Roberta Walters
+National ID: 320-85-1767
+Bank: Clarke LLC Bank
+Account Number: 3383726817
+Consent Status: Revoked

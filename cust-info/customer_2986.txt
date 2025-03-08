@@ -1,0 +1,6 @@
+Customer ID: 2986
+Name: Wesley Washington
+National ID: 814-81-7299
+Bank: Salazar, Kerr and Garcia Bank
+Account Number: 2408230551
+Consent Status: Revoked

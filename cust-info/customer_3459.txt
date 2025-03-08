@@ -1,0 +1,6 @@
+Customer ID: 3459
+Name: Johnny Lane
+National ID: 878-86-5630
+Bank: Briggs, Woods and Vincent Bank
+Account Number: 4195802836
+Consent Status: Revoked

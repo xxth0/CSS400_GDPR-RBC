@@ -1,0 +1,6 @@
+Customer ID: 8366
+Name: Amanda Avila
+National ID: 303-98-0758
+Bank: Gray and Sons Bank
+Account Number: 9114224658
+Consent Status: Granted

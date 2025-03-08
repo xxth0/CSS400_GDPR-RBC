@@ -1,0 +1,6 @@
+Customer ID: 312
+Name: Jasmine Banks
+National ID: 084-96-1947
+Bank: Russell, Young and Grant Bank
+Account Number: 4791935568
+Consent Status: Granted

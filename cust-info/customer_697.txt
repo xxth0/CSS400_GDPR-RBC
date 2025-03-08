@@ -1,0 +1,6 @@
+Customer ID: 697
+Name: Deborah Huber
+National ID: 196-78-5496
+Bank: Moore, Brewer and Jones Bank
+Account Number: 6883464186
+Consent Status: Granted

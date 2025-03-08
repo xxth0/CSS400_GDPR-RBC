@@ -1,0 +1,6 @@
+Customer ID: 1635
+Name: Victoria Singh
+National ID: 158-83-2579
+Bank: Rios, Hale and Stokes Bank
+Account Number: 7531884526
+Consent Status: Revoked

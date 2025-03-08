@@ -1,0 +1,6 @@
+Customer ID: 7322
+Name: Valerie Ross
+National ID: 487-63-1882
+Bank: Pham-White Bank
+Account Number: 6993229518
+Consent Status: Revoked

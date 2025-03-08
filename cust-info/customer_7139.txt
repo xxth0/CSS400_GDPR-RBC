@@ -1,0 +1,6 @@
+Customer ID: 7139
+Name: Lauren Anderson
+National ID: 314-78-6495
+Bank: Beasley Ltd Bank
+Account Number: 5382969396
+Consent Status: Revoked

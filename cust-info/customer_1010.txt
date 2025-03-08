@@ -1,0 +1,6 @@
+Customer ID: 1010
+Name: Lisa Cochran
+National ID: 031-55-1663
+Bank: Martin, Watkins and Vaughan Bank
+Account Number: 9359815176
+Consent Status: Granted

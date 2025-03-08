@@ -1,0 +1,6 @@
+Customer ID: 9681
+Name: Susan Rodriguez
+National ID: 307-39-8081
+Bank: Brock and Sons Bank
+Account Number: 8649906467
+Consent Status: Granted

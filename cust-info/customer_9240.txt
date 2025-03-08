@@ -1,0 +1,6 @@
+Customer ID: 9240
+Name: Stephanie Davis
+National ID: 669-92-8942
+Bank: Lopez, Ramirez and Hendrix Bank
+Account Number: 9878718085
+Consent Status: Granted

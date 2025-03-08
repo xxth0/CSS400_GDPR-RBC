@@ -1,0 +1,6 @@
+Customer ID: 5872
+Name: Tara West
+National ID: 616-31-0890
+Bank: Frost-Thompson Bank
+Account Number: 4803396537
+Consent Status: Revoked

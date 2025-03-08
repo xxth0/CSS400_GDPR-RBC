@@ -1,0 +1,6 @@
+Customer ID: 1261
+Name: Michael Garza
+National ID: 710-72-4465
+Bank: Williams-Jackson Bank
+Account Number: 6467628138
+Consent Status: Granted

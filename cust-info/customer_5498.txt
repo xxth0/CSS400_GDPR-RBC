@@ -1,0 +1,6 @@
+Customer ID: 5498
+Name: Alexander Holmes
+National ID: 473-34-3297
+Bank: Kent, Daugherty and Boone Bank
+Account Number: 4642627406
+Consent Status: Granted

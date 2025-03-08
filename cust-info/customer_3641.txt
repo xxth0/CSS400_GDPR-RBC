@@ -1,0 +1,6 @@
+Customer ID: 3641
+Name: Karen Potter
+National ID: 793-70-0187
+Bank: Jones, Kent and Johnson Bank
+Account Number: 8369481791
+Consent Status: Revoked

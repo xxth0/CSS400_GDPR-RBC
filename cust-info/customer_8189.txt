@@ -1,0 +1,6 @@
+Customer ID: 8189
+Name: Gina Smith
+National ID: 729-96-5594
+Bank: Johnson, Taylor and Hall Bank
+Account Number: 5194379217
+Consent Status: Granted

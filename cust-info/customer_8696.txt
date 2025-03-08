@@ -1,0 +1,6 @@
+Customer ID: 8696
+Name: Gregory Turner
+National ID: 829-86-6299
+Bank: Tran-Anderson Bank
+Account Number: 5348220839
+Consent Status: Revoked

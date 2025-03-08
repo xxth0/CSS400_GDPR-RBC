@@ -1,0 +1,6 @@
+Customer ID: 6492
+Name: Ryan Nelson
+National ID: 579-25-1740
+Bank: Wong-Cannon Bank
+Account Number: 6063115335
+Consent Status: Revoked

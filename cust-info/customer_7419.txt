@@ -1,0 +1,6 @@
+Customer ID: 7419
+Name: William Larsen
+National ID: 416-36-2165
+Bank: Leblanc-Woodard Bank
+Account Number: 7483421639
+Consent Status: Revoked

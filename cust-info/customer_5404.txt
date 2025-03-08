@@ -1,0 +1,6 @@
+Customer ID: 5404
+Name: Logan Harrington
+National ID: 780-42-6842
+Bank: House PLC Bank
+Account Number: 9203132022
+Consent Status: Revoked

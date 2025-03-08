@@ -1,0 +1,6 @@
+Customer ID: 9104
+Name: Matthew Clark
+National ID: 527-96-1609
+Bank: Robertson-Willis Bank
+Account Number: 5435662466
+Consent Status: Granted

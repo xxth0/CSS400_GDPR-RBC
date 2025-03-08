@@ -1,0 +1,6 @@
+Customer ID: 5367
+Name: Kristin Garcia
+National ID: 835-23-3931
+Bank: Burns Inc Bank
+Account Number: 9593790169
+Consent Status: Granted

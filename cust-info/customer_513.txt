@@ -1,0 +1,6 @@
+Customer ID: 513
+Name: Mary Lee
+National ID: 556-91-8943
+Bank: Mcneil Ltd Bank
+Account Number: 5529979436
+Consent Status: Revoked

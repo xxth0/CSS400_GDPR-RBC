@@ -1,0 +1,6 @@
+Customer ID: 7285
+Name: William Phillips
+National ID: 295-38-0541
+Bank: Sosa LLC Bank
+Account Number: 9654480772
+Consent Status: Revoked

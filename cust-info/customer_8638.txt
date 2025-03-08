@@ -1,0 +1,6 @@
+Customer ID: 8638
+Name: Herbert Lawson
+National ID: 767-43-2836
+Bank: Church-Liu Bank
+Account Number: 8434474350
+Consent Status: Revoked

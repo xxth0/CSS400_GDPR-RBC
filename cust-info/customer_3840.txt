@@ -1,0 +1,6 @@
+Customer ID: 3840
+Name: Daniel Sweeney
+National ID: 837-12-5940
+Bank: Smith, Gonzalez and Barber Bank
+Account Number: 4137893786
+Consent Status: Granted

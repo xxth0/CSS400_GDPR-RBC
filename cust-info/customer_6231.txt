@@ -1,0 +1,6 @@
+Customer ID: 6231
+Name: Douglas Brown
+National ID: 469-90-6395
+Bank: Williams PLC Bank
+Account Number: 5079477047
+Consent Status: Revoked

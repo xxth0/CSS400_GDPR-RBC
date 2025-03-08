@@ -1,0 +1,6 @@
+Customer ID: 3082
+Name: Dana Fox
+National ID: 500-42-2124
+Bank: Young PLC Bank
+Account Number: 4678255222
+Consent Status: Granted

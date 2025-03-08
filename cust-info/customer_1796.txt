@@ -1,0 +1,6 @@
+Customer ID: 1796
+Name: Richard Graves
+National ID: 035-61-8165
+Bank: Wallace, Bass and Keith Bank
+Account Number: 4694501547
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1590
+Name: Jacqueline Lewis
+National ID: 672-09-2442
+Bank: Patton Group Bank
+Account Number: 3274041903
+Consent Status: Revoked

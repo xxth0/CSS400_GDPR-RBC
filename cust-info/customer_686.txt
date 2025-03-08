@@ -1,0 +1,6 @@
+Customer ID: 686
+Name: Bianca Navarro
+National ID: 514-55-7815
+Bank: Dunn, Gutierrez and Hamilton Bank
+Account Number: 9950691056
+Consent Status: Revoked

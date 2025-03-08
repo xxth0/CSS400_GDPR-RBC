@@ -1,0 +1,6 @@
+Customer ID: 6595
+Name: Laura West
+National ID: 272-16-1843
+Bank: Smith-Martinez Bank
+Account Number: 6423823460
+Consent Status: Granted

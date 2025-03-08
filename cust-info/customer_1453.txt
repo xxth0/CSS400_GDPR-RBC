@@ -1,0 +1,6 @@
+Customer ID: 1453
+Name: Ricardo Greer
+National ID: 878-79-1346
+Bank: Collins-Beasley Bank
+Account Number: 2249841311
+Consent Status: Granted

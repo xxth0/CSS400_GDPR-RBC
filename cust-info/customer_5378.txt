@@ -1,0 +1,6 @@
+Customer ID: 5378
+Name: Michael Cook
+National ID: 893-46-7769
+Bank: Gray-Wiggins Bank
+Account Number: 6915612699
+Consent Status: Granted

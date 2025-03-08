@@ -1,0 +1,6 @@
+Customer ID: 1670
+Name: Shawn Moody
+National ID: 343-46-5221
+Bank: Potter-Carter Bank
+Account Number: 8644281805
+Consent Status: Granted

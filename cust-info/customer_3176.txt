@@ -1,0 +1,6 @@
+Customer ID: 3176
+Name: Andrew Garrison
+National ID: 445-66-5319
+Bank: Adams-Smith Bank
+Account Number: 4023796970
+Consent Status: Granted

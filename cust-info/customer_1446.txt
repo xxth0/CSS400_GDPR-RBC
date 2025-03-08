@@ -1,0 +1,6 @@
+Customer ID: 1446
+Name: Rachel Rubio
+National ID: 202-83-9260
+Bank: Rodriguez-Pierce Bank
+Account Number: 4181570506
+Consent Status: Revoked

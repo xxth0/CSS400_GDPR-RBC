@@ -1,0 +1,6 @@
+Customer ID: 5333
+Name: Tiffany Thompson
+National ID: 671-78-0512
+Bank: Herrera LLC Bank
+Account Number: 6330775340
+Consent Status: Revoked

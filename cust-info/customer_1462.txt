@@ -1,0 +1,6 @@
+Customer ID: 1462
+Name: Richard Harris
+National ID: 102-82-8956
+Bank: Maldonado Group Bank
+Account Number: 6851754007
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 212
+Name: Christopher Proctor
+National ID: 729-15-4822
+Bank: Martinez LLC Bank
+Account Number: 6581164778
+Consent Status: Granted

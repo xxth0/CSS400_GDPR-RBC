@@ -1,0 +1,6 @@
+Customer ID: 8377
+Name: Mr. Lonnie Hughes
+National ID: 545-12-7020
+Bank: Patel-Hughes Bank
+Account Number: 5183448213
+Consent Status: Revoked

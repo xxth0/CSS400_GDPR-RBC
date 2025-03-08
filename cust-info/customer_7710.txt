@@ -1,0 +1,6 @@
+Customer ID: 7710
+Name: Tina Paul
+National ID: 769-24-1943
+Bank: Griffin Group Bank
+Account Number: 9649655748
+Consent Status: Revoked

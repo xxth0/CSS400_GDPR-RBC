@@ -1,0 +1,6 @@
+Customer ID: 1124
+Name: Nicole Graham MD
+National ID: 681-45-2704
+Bank: Flores, Copeland and Foster Bank
+Account Number: 2396009080
+Consent Status: Granted

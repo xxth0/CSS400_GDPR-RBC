@@ -1,0 +1,6 @@
+Customer ID: 4768
+Name: Ashley Smith
+National ID: 813-15-7045
+Bank: Simmons, Kelley and Sanders Bank
+Account Number: 6524494601
+Consent Status: Granted

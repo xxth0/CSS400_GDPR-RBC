@@ -1,0 +1,6 @@
+Customer ID: 9921
+Name: Amy Kennedy
+National ID: 479-13-8108
+Bank: Clark LLC Bank
+Account Number: 8781736493
+Consent Status: Revoked

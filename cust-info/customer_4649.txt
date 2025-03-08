@@ -1,0 +1,6 @@
+Customer ID: 4649
+Name: Jessica Lee
+National ID: 566-75-4247
+Bank: Kane-Barber Bank
+Account Number: 6003814072
+Consent Status: Revoked

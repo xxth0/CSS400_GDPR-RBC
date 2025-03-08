@@ -1,0 +1,6 @@
+Customer ID: 4378
+Name: Danielle Quinn MD
+National ID: 130-41-8698
+Bank: Wilkins-Taylor Bank
+Account Number: 1478631983
+Consent Status: Granted

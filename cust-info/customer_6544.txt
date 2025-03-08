@@ -1,0 +1,6 @@
+Customer ID: 6544
+Name: Devin Nielsen
+National ID: 652-38-8864
+Bank: Franklin-Roberts Bank
+Account Number: 1863717322
+Consent Status: Revoked

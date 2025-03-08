@@ -1,0 +1,6 @@
+Customer ID: 8049
+Name: Cassandra Miller
+National ID: 442-43-4487
+Bank: Jones Ltd Bank
+Account Number: 1956375218
+Consent Status: Revoked

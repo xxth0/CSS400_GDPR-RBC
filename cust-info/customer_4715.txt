@@ -1,0 +1,6 @@
+Customer ID: 4715
+Name: Sharon Roach
+National ID: 853-46-5554
+Bank: Clark, Gray and Carter Bank
+Account Number: 4485104571
+Consent Status: Granted

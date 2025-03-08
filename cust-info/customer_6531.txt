@@ -1,0 +1,6 @@
+Customer ID: 6531
+Name: Linda Mckee
+National ID: 389-67-7667
+Bank: Lewis, Holland and Santana Bank
+Account Number: 8950760713
+Consent Status: Revoked

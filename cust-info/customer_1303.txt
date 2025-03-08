@@ -1,0 +1,6 @@
+Customer ID: 1303
+Name: Stacy Charles
+National ID: 859-31-2642
+Bank: Wilson, Cooper and Robinson Bank
+Account Number: 9996806915
+Consent Status: Granted

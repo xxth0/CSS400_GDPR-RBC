@@ -1,0 +1,6 @@
+Customer ID: 3706
+Name: Raymond Hensley
+National ID: 004-12-7809
+Bank: Lawson-Ray Bank
+Account Number: 5737009083
+Consent Status: Revoked

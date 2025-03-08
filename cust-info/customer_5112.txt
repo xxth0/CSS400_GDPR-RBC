@@ -1,0 +1,6 @@
+Customer ID: 5112
+Name: Mr. Michael Davidson
+National ID: 076-20-8317
+Bank: Jones PLC Bank
+Account Number: 1789760774
+Consent Status: Revoked

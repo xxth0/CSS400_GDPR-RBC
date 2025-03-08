@@ -1,0 +1,6 @@
+Customer ID: 1366
+Name: Samantha Fisher
+National ID: 355-99-9050
+Bank: Cameron-Lee Bank
+Account Number: 1044830947
+Consent Status: Revoked

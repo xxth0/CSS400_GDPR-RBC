@@ -1,0 +1,6 @@
+Customer ID: 2226
+Name: Amber Bennett
+National ID: 632-05-9652
+Bank: Martinez, Wade and Mclaughlin Bank
+Account Number: 8731831092
+Consent Status: Revoked

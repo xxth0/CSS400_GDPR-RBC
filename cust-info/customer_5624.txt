@@ -1,0 +1,6 @@
+Customer ID: 5624
+Name: Karen Carrillo
+National ID: 652-94-8714
+Bank: Colon, Fox and Payne Bank
+Account Number: 7392491482
+Consent Status: Revoked

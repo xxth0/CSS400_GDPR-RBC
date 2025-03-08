@@ -1,0 +1,6 @@
+Customer ID: 108
+Name: Frederick Navarro
+National ID: 020-79-8354
+Bank: West and Sons Bank
+Account Number: 7926244777
+Consent Status: Revoked

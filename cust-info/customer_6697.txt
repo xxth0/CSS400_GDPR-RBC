@@ -1,0 +1,6 @@
+Customer ID: 6697
+Name: Karen Murray
+National ID: 896-18-9862
+Bank: Brooks, Wheeler and Floyd Bank
+Account Number: 2906644270
+Consent Status: Revoked

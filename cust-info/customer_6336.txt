@@ -1,0 +1,6 @@
+Customer ID: 6336
+Name: Helen Johnson
+National ID: 125-54-1213
+Bank: Perkins Ltd Bank
+Account Number: 1807668641
+Consent Status: Granted

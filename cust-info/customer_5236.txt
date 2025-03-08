@@ -1,0 +1,6 @@
+Customer ID: 5236
+Name: Shawn Robinson
+National ID: 341-80-9468
+Bank: Mendoza Inc Bank
+Account Number: 6335174569
+Consent Status: Revoked

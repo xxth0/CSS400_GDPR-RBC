@@ -1,0 +1,6 @@
+Customer ID: 849
+Name: Tara Gonzalez
+National ID: 885-62-7030
+Bank: Adams Inc Bank
+Account Number: 5126529141
+Consent Status: Revoked

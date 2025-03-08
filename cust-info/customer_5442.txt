@@ -1,0 +1,6 @@
+Customer ID: 5442
+Name: Brian Nguyen
+National ID: 040-61-9909
+Bank: Taylor-Hawkins Bank
+Account Number: 6252339673
+Consent Status: Revoked

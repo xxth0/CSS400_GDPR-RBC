@@ -1,0 +1,6 @@
+Customer ID: 1416
+Name: Nicholas Lopez
+National ID: 864-06-0930
+Bank: Chen-Phillips Bank
+Account Number: 5358049302
+Consent Status: Granted

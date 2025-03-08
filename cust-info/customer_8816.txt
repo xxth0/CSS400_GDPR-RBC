@@ -1,0 +1,6 @@
+Customer ID: 8816
+Name: Matthew Nguyen
+National ID: 736-83-0522
+Bank: Kennedy Ltd Bank
+Account Number: 3717827558
+Consent Status: Revoked

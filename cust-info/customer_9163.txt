@@ -1,0 +1,6 @@
+Customer ID: 9163
+Name: Katherine Vega
+National ID: 070-25-3599
+Bank: Figueroa-Guzman Bank
+Account Number: 5141699368
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9058
+Name: Anthony Moody
+National ID: 823-06-3286
+Bank: Murphy, Bowman and Matthews Bank
+Account Number: 1324587907
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9467
+Name: Richard Gonzalez
+National ID: 814-06-1545
+Bank: Johnson, Rocha and Garcia Bank
+Account Number: 6638997498
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7061
+Name: Vanessa Gomez
+National ID: 218-17-6112
+Bank: Solomon-Benjamin Bank
+Account Number: 3674197732
+Consent Status: Revoked

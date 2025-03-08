@@ -1,0 +1,6 @@
+Customer ID: 5230
+Name: Jessica Ramirez
+National ID: 892-21-9363
+Bank: Cook Group Bank
+Account Number: 6319675299
+Consent Status: Revoked

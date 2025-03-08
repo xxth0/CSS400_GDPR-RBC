@@ -1,0 +1,6 @@
+Customer ID: 3016
+Name: Jeffrey Holloway
+National ID: 711-09-4840
+Bank: Scott, Melton and Fields Bank
+Account Number: 7762917542
+Consent Status: Revoked

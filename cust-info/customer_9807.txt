@@ -1,0 +1,6 @@
+Customer ID: 9807
+Name: Teresa Torres
+National ID: 754-33-5116
+Bank: Ellis-Lopez Bank
+Account Number: 2969329361
+Consent Status: Granted

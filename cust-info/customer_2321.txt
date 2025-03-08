@@ -1,0 +1,6 @@
+Customer ID: 2321
+Name: Emily Sanchez
+National ID: 813-80-5301
+Bank: Kim Ltd Bank
+Account Number: 5999372740
+Consent Status: Granted

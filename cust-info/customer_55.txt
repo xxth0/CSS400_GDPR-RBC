@@ -1,0 +1,6 @@
+Customer ID: 55
+Name: Richard Gutierrez
+National ID: 715-75-8189
+Bank: Mccullough-Weber Bank
+Account Number: 4519146522
+Consent Status: Revoked

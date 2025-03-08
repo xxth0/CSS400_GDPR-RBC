@@ -1,0 +1,6 @@
+Customer ID: 2171
+Name: Michael Reed
+National ID: 639-86-6670
+Bank: Gonzalez PLC Bank
+Account Number: 8900118656
+Consent Status: Revoked

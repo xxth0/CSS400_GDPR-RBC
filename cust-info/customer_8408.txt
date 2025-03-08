@@ -1,0 +1,6 @@
+Customer ID: 8408
+Name: Brad Thompson
+National ID: 366-01-3312
+Bank: Nichols Ltd Bank
+Account Number: 1043140732
+Consent Status: Revoked

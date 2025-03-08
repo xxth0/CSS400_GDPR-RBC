@@ -1,0 +1,6 @@
+Customer ID: 9612
+Name: Lisa Rose
+National ID: 798-80-5427
+Bank: Wallace, Young and Lopez Bank
+Account Number: 7756804972
+Consent Status: Granted

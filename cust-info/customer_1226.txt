@@ -1,0 +1,6 @@
+Customer ID: 1226
+Name: John Jones
+National ID: 266-74-6116
+Bank: Miller and Sons Bank
+Account Number: 5457222362
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6393
+Name: William Durham
+National ID: 309-38-5832
+Bank: Duke-Walsh Bank
+Account Number: 6476307139
+Consent Status: Granted

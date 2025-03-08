@@ -1,0 +1,6 @@
+Customer ID: 4881
+Name: Eddie Houston
+National ID: 062-72-6352
+Bank: Mcintyre, Bender and Monroe Bank
+Account Number: 2084014143
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5934
+Name: Ashley Mccoy
+National ID: 337-17-7049
+Bank: Mccarthy-Hudson Bank
+Account Number: 3346806035
+Consent Status: Revoked

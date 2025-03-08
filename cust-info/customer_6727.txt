@@ -1,0 +1,6 @@
+Customer ID: 6727
+Name: Danielle White
+National ID: 777-44-0464
+Bank: Lee PLC Bank
+Account Number: 2274065485
+Consent Status: Granted

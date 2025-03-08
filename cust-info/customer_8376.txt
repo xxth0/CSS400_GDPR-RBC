@@ -1,0 +1,6 @@
+Customer ID: 8376
+Name: Ronald Guerrero
+National ID: 563-75-7159
+Bank: Hernandez, Hatfield and Byrd Bank
+Account Number: 9858760481
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2131
+Name: Robin Lambert
+National ID: 678-40-3954
+Bank: Acevedo-Johnson Bank
+Account Number: 5105331704
+Consent Status: Revoked

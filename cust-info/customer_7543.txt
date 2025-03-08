@@ -1,0 +1,6 @@
+Customer ID: 7543
+Name: Wendy Lewis
+National ID: 233-88-8416
+Bank: Stark-Williams Bank
+Account Number: 3830731103
+Consent Status: Revoked

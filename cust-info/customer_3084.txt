@@ -1,0 +1,6 @@
+Customer ID: 3084
+Name: Joel Melton
+National ID: 554-98-4422
+Bank: Garza-Austin Bank
+Account Number: 6521330764
+Consent Status: Revoked

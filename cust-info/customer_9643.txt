@@ -1,0 +1,6 @@
+Customer ID: 9643
+Name: Alejandro Hamilton
+National ID: 815-09-7584
+Bank: Tapia, Lowery and Smith Bank
+Account Number: 2067879122
+Consent Status: Granted

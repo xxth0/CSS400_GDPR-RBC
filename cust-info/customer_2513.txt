@@ -1,0 +1,6 @@
+Customer ID: 2513
+Name: Pam Ryan
+National ID: 592-13-0491
+Bank: Francis and Sons Bank
+Account Number: 4920398980
+Consent Status: Revoked

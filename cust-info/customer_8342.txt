@@ -1,0 +1,6 @@
+Customer ID: 8342
+Name: Heidi Brown
+National ID: 812-58-7536
+Bank: Vaughn, Kerr and Montgomery Bank
+Account Number: 7873914449
+Consent Status: Revoked

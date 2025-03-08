@@ -1,0 +1,6 @@
+Customer ID: 7258
+Name: Angel Johnston
+National ID: 645-15-1363
+Bank: Butler-Sullivan Bank
+Account Number: 4616691650
+Consent Status: Revoked

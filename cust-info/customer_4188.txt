@@ -1,0 +1,6 @@
+Customer ID: 4188
+Name: Andrea Anderson
+National ID: 408-92-3577
+Bank: Johnston LLC Bank
+Account Number: 5853464607
+Consent Status: Revoked

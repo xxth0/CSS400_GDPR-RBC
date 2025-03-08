@@ -1,0 +1,6 @@
+Customer ID: 9273
+Name: Brianna Larson
+National ID: 329-12-2244
+Bank: Bowen Ltd Bank
+Account Number: 4914997626
+Consent Status: Revoked

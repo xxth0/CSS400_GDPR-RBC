@@ -1,0 +1,6 @@
+Customer ID: 5273
+Name: Brian Perez
+National ID: 575-73-3505
+Bank: Williams-Brown Bank
+Account Number: 4943443627
+Consent Status: Granted

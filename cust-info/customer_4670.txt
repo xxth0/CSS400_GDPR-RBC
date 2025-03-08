@@ -1,0 +1,6 @@
+Customer ID: 4670
+Name: Heather Smith
+National ID: 253-79-1108
+Bank: Berry-Dunn Bank
+Account Number: 2746069558
+Consent Status: Granted

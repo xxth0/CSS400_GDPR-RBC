@@ -1,0 +1,6 @@
+Customer ID: 8086
+Name: Jonathan Shields
+National ID: 099-71-2469
+Bank: Scott PLC Bank
+Account Number: 2928706448
+Consent Status: Granted

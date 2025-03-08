@@ -1,0 +1,6 @@
+Customer ID: 113
+Name: Tracy Hoffman
+National ID: 639-98-4316
+Bank: Molina-Graham Bank
+Account Number: 6492336060
+Consent Status: Revoked

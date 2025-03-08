@@ -1,0 +1,6 @@
+Customer ID: 1609
+Name: Nicole Decker
+National ID: 584-93-3707
+Bank: Mullins-Boyer Bank
+Account Number: 5694443018
+Consent Status: Revoked

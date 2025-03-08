@@ -1,0 +1,6 @@
+Customer ID: 9619
+Name: William Medina MD
+National ID: 735-65-7819
+Bank: Deleon Inc Bank
+Account Number: 8502192621
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2031
+Name: Angel Nash
+National ID: 435-07-5112
+Bank: Logan, Cervantes and Hernandez Bank
+Account Number: 8134852351
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8171
+Name: Glenn Rodriguez
+National ID: 013-73-8295
+Bank: Roberts-Calderon Bank
+Account Number: 9997118195
+Consent Status: Revoked

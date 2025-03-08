@@ -1,0 +1,6 @@
+Customer ID: 6412
+Name: Sarah Torres
+National ID: 122-10-1182
+Bank: Ryan, Stewart and Lowe Bank
+Account Number: 6136031620
+Consent Status: Granted

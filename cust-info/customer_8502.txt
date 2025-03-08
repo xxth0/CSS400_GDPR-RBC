@@ -1,0 +1,6 @@
+Customer ID: 8502
+Name: Peter Ali
+National ID: 023-52-2957
+Bank: Huerta, Ruiz and Jackson Bank
+Account Number: 6933978760
+Consent Status: Revoked

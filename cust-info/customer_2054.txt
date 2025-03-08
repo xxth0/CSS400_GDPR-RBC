@@ -1,0 +1,6 @@
+Customer ID: 2054
+Name: James Bradley
+National ID: 021-81-8394
+Bank: Young, Wise and Henderson Bank
+Account Number: 2174401128
+Consent Status: Revoked

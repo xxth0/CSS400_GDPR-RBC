@@ -1,0 +1,6 @@
+Customer ID: 7861
+Name: Kimberly Smith
+National ID: 814-06-6949
+Bank: Doyle, Vaughn and Johnson Bank
+Account Number: 4689479931
+Consent Status: Revoked

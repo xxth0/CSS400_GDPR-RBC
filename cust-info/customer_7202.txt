@@ -1,0 +1,6 @@
+Customer ID: 7202
+Name: Charles Williams
+National ID: 531-36-1118
+Bank: Dixon, Knight and Fischer Bank
+Account Number: 6582190265
+Consent Status: Revoked

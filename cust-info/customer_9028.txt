@@ -1,0 +1,6 @@
+Customer ID: 9028
+Name: Peter Morgan
+National ID: 432-49-5375
+Bank: Simpson-Thomas Bank
+Account Number: 3866350827
+Consent Status: Revoked

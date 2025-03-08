@@ -1,0 +1,6 @@
+Customer ID: 313
+Name: Tiffany Reilly
+National ID: 658-11-8025
+Bank: Anderson, Patrick and Fernandez Bank
+Account Number: 2147237392
+Consent Status: Revoked

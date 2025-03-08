@@ -1,0 +1,6 @@
+Customer ID: 5268
+Name: Kurt Beltran
+National ID: 435-28-4886
+Bank: Wilson and Sons Bank
+Account Number: 5072752282
+Consent Status: Revoked

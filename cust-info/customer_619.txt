@@ -1,0 +1,6 @@
+Customer ID: 619
+Name: Jordan Hill
+National ID: 100-15-5586
+Bank: Parsons-Morales Bank
+Account Number: 8255266604
+Consent Status: Granted

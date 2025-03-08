@@ -1,0 +1,6 @@
+Customer ID: 2110
+Name: Susan Mcclure
+National ID: 506-18-4749
+Bank: Mathis-Valenzuela Bank
+Account Number: 1230190847
+Consent Status: Granted

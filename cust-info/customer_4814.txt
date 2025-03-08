@@ -1,0 +1,6 @@
+Customer ID: 4814
+Name: James Garner
+National ID: 442-33-9618
+Bank: Garrison, Mata and Pierce Bank
+Account Number: 4480597125
+Consent Status: Revoked

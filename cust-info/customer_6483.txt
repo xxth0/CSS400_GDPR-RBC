@@ -1,0 +1,6 @@
+Customer ID: 6483
+Name: Gregory Maldonado
+National ID: 521-72-3962
+Bank: Washington, Murphy and Thomas Bank
+Account Number: 8756902769
+Consent Status: Revoked

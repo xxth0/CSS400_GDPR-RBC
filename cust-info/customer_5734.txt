@@ -1,0 +1,6 @@
+Customer ID: 5734
+Name: Samuel York
+National ID: 772-70-7074
+Bank: Reed, Johnson and Brown Bank
+Account Number: 2241532396
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1062
+Name: Cassie Perez
+National ID: 201-28-0393
+Bank: Williams-Lopez Bank
+Account Number: 4896500156
+Consent Status: Granted

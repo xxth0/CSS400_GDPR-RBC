@@ -1,0 +1,6 @@
+Customer ID: 657
+Name: Regina Lee
+National ID: 887-59-2301
+Bank: Martinez, Decker and Gallegos Bank
+Account Number: 3433658301
+Consent Status: Revoked

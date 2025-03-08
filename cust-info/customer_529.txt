@@ -1,0 +1,6 @@
+Customer ID: 529
+Name: Kevin Boyer
+National ID: 195-72-1328
+Bank: Martinez-Gray Bank
+Account Number: 7509126587
+Consent Status: Revoked

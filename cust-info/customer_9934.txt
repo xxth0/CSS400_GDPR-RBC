@@ -1,0 +1,6 @@
+Customer ID: 9934
+Name: David Butler
+National ID: 454-90-9719
+Bank: Ramirez Inc Bank
+Account Number: 8745690097
+Consent Status: Revoked

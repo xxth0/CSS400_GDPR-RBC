@@ -1,0 +1,6 @@
+Customer ID: 4121
+Name: John Smith
+National ID: 500-20-6342
+Bank: Flores, Morris and Cook Bank
+Account Number: 2855317489
+Consent Status: Granted

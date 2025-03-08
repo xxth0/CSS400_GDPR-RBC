@@ -1,0 +1,6 @@
+Customer ID: 8999
+Name: Heidi Campbell
+National ID: 065-18-0535
+Bank: Maynard-Summers Bank
+Account Number: 3466200486
+Consent Status: Granted

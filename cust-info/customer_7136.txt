@@ -1,0 +1,6 @@
+Customer ID: 7136
+Name: Kelly Perez
+National ID: 323-32-3425
+Bank: Lane and Sons Bank
+Account Number: 1551228219
+Consent Status: Revoked

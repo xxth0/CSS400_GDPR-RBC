@@ -1,0 +1,6 @@
+Customer ID: 3559
+Name: Jenna Gonzalez
+National ID: 807-38-1389
+Bank: Shelton-Yu Bank
+Account Number: 3083985698
+Consent Status: Revoked

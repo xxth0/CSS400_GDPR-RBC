@@ -1,0 +1,6 @@
+Customer ID: 6912
+Name: Kevin Smith
+National ID: 136-37-3824
+Bank: Wong Inc Bank
+Account Number: 2779712957
+Consent Status: Granted

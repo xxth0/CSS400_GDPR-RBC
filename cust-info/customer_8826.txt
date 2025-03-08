@@ -1,0 +1,6 @@
+Customer ID: 8826
+Name: Michelle Perry
+National ID: 028-34-3126
+Bank: Hernandez-Anderson Bank
+Account Number: 7229546338
+Consent Status: Revoked

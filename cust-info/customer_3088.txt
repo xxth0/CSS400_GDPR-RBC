@@ -1,0 +1,6 @@
+Customer ID: 3088
+Name: Robert Harrison
+National ID: 071-28-0059
+Bank: Freeman-Hodges Bank
+Account Number: 9175913175
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1323
+Name: Charles Baker
+National ID: 613-01-1693
+Bank: Lambert LLC Bank
+Account Number: 7991606004
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9175
+Name: Jordan White
+National ID: 287-16-1808
+Bank: Compton-Bender Bank
+Account Number: 2365870401
+Consent Status: Granted

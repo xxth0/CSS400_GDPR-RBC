@@ -1,0 +1,6 @@
+Customer ID: 7271
+Name: Christopher Hill
+National ID: 186-94-5340
+Bank: Tucker Inc Bank
+Account Number: 7686368013
+Consent Status: Granted

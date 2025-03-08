@@ -1,0 +1,6 @@
+Customer ID: 8087
+Name: Sandra Jackson
+National ID: 389-99-7045
+Bank: James-Blair Bank
+Account Number: 1461016980
+Consent Status: Revoked

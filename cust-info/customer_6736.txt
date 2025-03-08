@@ -1,0 +1,6 @@
+Customer ID: 6736
+Name: John Kim
+National ID: 287-30-1300
+Bank: Bishop Ltd Bank
+Account Number: 1483741015
+Consent Status: Granted

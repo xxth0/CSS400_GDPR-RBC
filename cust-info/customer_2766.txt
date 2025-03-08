@@ -1,0 +1,6 @@
+Customer ID: 2766
+Name: Carrie Taylor
+National ID: 866-75-4621
+Bank: Kirk-Adams Bank
+Account Number: 4679106244
+Consent Status: Revoked

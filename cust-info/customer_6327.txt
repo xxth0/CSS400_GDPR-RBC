@@ -1,0 +1,6 @@
+Customer ID: 6327
+Name: Christopher Coleman
+National ID: 183-63-4044
+Bank: Rogers-Sullivan Bank
+Account Number: 6322038954
+Consent Status: Granted

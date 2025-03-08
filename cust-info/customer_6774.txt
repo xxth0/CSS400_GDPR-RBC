@@ -1,0 +1,6 @@
+Customer ID: 6774
+Name: John Santos
+National ID: 399-77-7199
+Bank: Nicholson, Barry and Walker Bank
+Account Number: 3714713547
+Consent Status: Revoked

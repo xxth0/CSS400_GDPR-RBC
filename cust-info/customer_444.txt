@@ -1,0 +1,6 @@
+Customer ID: 444
+Name: Madeline Hill
+National ID: 038-14-3335
+Bank: Howard Inc Bank
+Account Number: 5969963422
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1234
+Name: Christopher Andrews
+National ID: 216-46-3390
+Bank: Andersen-Johnston Bank
+Account Number: 5568703694
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1074
+Name: Brian Jackson
+National ID: 194-88-2161
+Bank: Green-Miller Bank
+Account Number: 7257076956
+Consent Status: Granted

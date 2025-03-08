@@ -1,0 +1,6 @@
+Customer ID: 4576
+Name: Lauren Carpenter
+National ID: 166-91-0705
+Bank: Wright Inc Bank
+Account Number: 7470331973
+Consent Status: Granted

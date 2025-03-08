@@ -1,0 +1,6 @@
+Customer ID: 7655
+Name: Karen Oconnor
+National ID: 049-39-2433
+Bank: Ponce LLC Bank
+Account Number: 4848133845
+Consent Status: Revoked

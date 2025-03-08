@@ -1,0 +1,6 @@
+Customer ID: 5308
+Name: Samuel Lopez
+National ID: 624-29-3073
+Bank: Rojas-Martinez Bank
+Account Number: 6005837386
+Consent Status: Revoked

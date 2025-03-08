@@ -1,0 +1,6 @@
+Customer ID: 9949
+Name: Abigail Mills
+National ID: 262-40-3518
+Bank: Clark, Davidson and Stark Bank
+Account Number: 9477656075
+Consent Status: Granted

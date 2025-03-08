@@ -1,0 +1,6 @@
+Customer ID: 7029
+Name: Lisa Smith
+National ID: 077-50-2540
+Bank: Buckley, Taylor and Johnston Bank
+Account Number: 7378484978
+Consent Status: Revoked

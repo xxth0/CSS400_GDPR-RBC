@@ -1,0 +1,6 @@
+Customer ID: 4001
+Name: Brittany Burns DDS
+National ID: 518-49-5953
+Bank: Burton, Campbell and Bonilla Bank
+Account Number: 2808570456
+Consent Status: Granted

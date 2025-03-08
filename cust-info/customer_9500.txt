@@ -1,0 +1,6 @@
+Customer ID: 9500
+Name: Michael Gonzalez
+National ID: 015-14-0854
+Bank: Moran-Avila Bank
+Account Number: 9397356372
+Consent Status: Granted

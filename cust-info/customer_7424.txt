@@ -1,0 +1,6 @@
+Customer ID: 7424
+Name: Julie Guerrero
+National ID: 427-56-3337
+Bank: Williams, Dunn and Ortega Bank
+Account Number: 1371636600
+Consent Status: Revoked

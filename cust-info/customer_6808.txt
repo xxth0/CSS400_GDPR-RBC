@@ -1,0 +1,6 @@
+Customer ID: 6808
+Name: Pamela Price
+National ID: 878-50-8120
+Bank: Scott LLC Bank
+Account Number: 9111476010
+Consent Status: Revoked

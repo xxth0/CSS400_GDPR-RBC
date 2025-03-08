@@ -1,0 +1,6 @@
+Customer ID: 8503
+Name: Stephanie Lewis
+National ID: 834-19-2038
+Bank: Mcdaniel and Sons Bank
+Account Number: 6716375442
+Consent Status: Revoked

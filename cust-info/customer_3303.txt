@@ -1,0 +1,6 @@
+Customer ID: 3303
+Name: Joshua Young
+National ID: 141-47-1019
+Bank: Gibson and Sons Bank
+Account Number: 4132747115
+Consent Status: Revoked

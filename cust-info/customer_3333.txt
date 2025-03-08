@@ -1,0 +1,6 @@
+Customer ID: 3333
+Name: Amy Horton
+National ID: 338-80-8589
+Bank: Patrick-Lloyd Bank
+Account Number: 3727234312
+Consent Status: Granted

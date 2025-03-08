@@ -1,0 +1,6 @@
+Customer ID: 6146
+Name: Chelsea Yoder
+National ID: 445-24-6436
+Bank: Gomez-Bauer Bank
+Account Number: 8278747860
+Consent Status: Revoked

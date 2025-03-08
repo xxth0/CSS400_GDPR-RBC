@@ -1,0 +1,6 @@
+Customer ID: 4671
+Name: Michael Richardson DDS
+National ID: 269-47-4496
+Bank: Wilcox-Mccarthy Bank
+Account Number: 9822845456
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1530
+Name: Robert Gregory
+National ID: 675-43-1008
+Bank: Smith Ltd Bank
+Account Number: 3229923864
+Consent Status: Revoked

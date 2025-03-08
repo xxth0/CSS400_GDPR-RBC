@@ -1,0 +1,6 @@
+Customer ID: 3359
+Name: Gabriel Edwards
+National ID: 654-15-6476
+Bank: Rhodes, Boyle and Peterson Bank
+Account Number: 6666752720
+Consent Status: Revoked

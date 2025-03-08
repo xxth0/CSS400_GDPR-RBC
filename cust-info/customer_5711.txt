@@ -1,0 +1,6 @@
+Customer ID: 5711
+Name: Jacqueline Rodriguez
+National ID: 142-52-8104
+Bank: Oconnor-Johns Bank
+Account Number: 2668930313
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7481
+Name: Austin Mayer
+National ID: 565-61-8148
+Bank: Harmon, Newman and Edwards Bank
+Account Number: 9082723428
+Consent Status: Granted

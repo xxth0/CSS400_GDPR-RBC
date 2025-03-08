@@ -1,0 +1,6 @@
+Customer ID: 8720
+Name: Taylor Poole
+National ID: 310-44-0520
+Bank: Townsend-Rios Bank
+Account Number: 9728706611
+Consent Status: Granted

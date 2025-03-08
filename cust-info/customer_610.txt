@@ -1,0 +1,6 @@
+Customer ID: 610
+Name: Beth Andrews
+National ID: 069-77-3181
+Bank: Thomas-Diaz Bank
+Account Number: 1963906692
+Consent Status: Granted

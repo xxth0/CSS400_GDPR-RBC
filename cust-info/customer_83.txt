@@ -1,0 +1,6 @@
+Customer ID: 83
+Name: John Day
+National ID: 611-13-3298
+Bank: Coleman-Smith Bank
+Account Number: 4664180757
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8077
+Name: Katherine Hinton
+National ID: 538-74-5699
+Bank: Ross-Wilson Bank
+Account Number: 6235749564
+Consent Status: Granted

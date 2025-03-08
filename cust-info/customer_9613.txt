@@ -1,0 +1,6 @@
+Customer ID: 9613
+Name: Joshua James Jr.
+National ID: 592-43-2022
+Bank: Smith-Berry Bank
+Account Number: 4422075418
+Consent Status: Revoked

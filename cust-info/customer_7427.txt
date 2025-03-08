@@ -1,0 +1,6 @@
+Customer ID: 7427
+Name: Ethan Frey
+National ID: 056-36-7263
+Bank: West Inc Bank
+Account Number: 2968888960
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7804
+Name: Michelle Stephenson
+National ID: 800-93-6499
+Bank: Zuniga, Harris and Aguirre Bank
+Account Number: 3004919467
+Consent Status: Revoked

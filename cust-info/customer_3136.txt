@@ -1,0 +1,6 @@
+Customer ID: 3136
+Name: Angela Miller
+National ID: 079-50-3971
+Bank: Jimenez-Hartman Bank
+Account Number: 9160546843
+Consent Status: Revoked

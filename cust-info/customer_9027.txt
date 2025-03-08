@@ -1,0 +1,6 @@
+Customer ID: 9027
+Name: Bryan Perry
+National ID: 758-79-0576
+Bank: Jensen Inc Bank
+Account Number: 6749057588
+Consent Status: Revoked

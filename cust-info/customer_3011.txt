@@ -1,0 +1,6 @@
+Customer ID: 3011
+Name: Kimberly Bryant
+National ID: 543-80-9961
+Bank: Snow PLC Bank
+Account Number: 8479829356
+Consent Status: Revoked

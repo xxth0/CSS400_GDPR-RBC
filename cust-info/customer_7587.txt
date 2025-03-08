@@ -1,0 +1,6 @@
+Customer ID: 7587
+Name: Jose Lloyd
+National ID: 275-10-1360
+Bank: Thomas-Arnold Bank
+Account Number: 9715643308
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8657
+Name: Barry Johnson
+National ID: 578-15-4260
+Bank: Turner-Lopez Bank
+Account Number: 4623340521
+Consent Status: Granted

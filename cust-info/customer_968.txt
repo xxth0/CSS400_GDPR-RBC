@@ -1,0 +1,6 @@
+Customer ID: 968
+Name: Molly Booker
+National ID: 122-71-3263
+Bank: Salazar-Edwards Bank
+Account Number: 3519741451
+Consent Status: Granted

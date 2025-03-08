@@ -1,0 +1,6 @@
+Customer ID: 1685
+Name: Elizabeth Williams
+National ID: 131-74-6094
+Bank: Vasquez, Reynolds and Kennedy Bank
+Account Number: 6060233771
+Consent Status: Granted

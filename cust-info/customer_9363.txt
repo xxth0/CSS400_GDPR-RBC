@@ -1,0 +1,6 @@
+Customer ID: 9363
+Name: Martin Bush
+National ID: 028-71-4095
+Bank: Williams PLC Bank
+Account Number: 8900658902
+Consent Status: Granted

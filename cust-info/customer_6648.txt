@@ -1,0 +1,6 @@
+Customer ID: 6648
+Name: Taylor Ramsey
+National ID: 379-13-8182
+Bank: Spencer-Mitchell Bank
+Account Number: 8898878577
+Consent Status: Granted

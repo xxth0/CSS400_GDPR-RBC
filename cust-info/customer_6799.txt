@@ -1,0 +1,6 @@
+Customer ID: 6799
+Name: Jacob Hernandez
+National ID: 439-21-5695
+Bank: Lucero Group Bank
+Account Number: 6506929204
+Consent Status: Revoked

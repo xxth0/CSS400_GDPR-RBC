@@ -1,0 +1,6 @@
+Customer ID: 6694
+Name: Robert Obrien
+National ID: 844-71-1498
+Bank: Wilson-Bryant Bank
+Account Number: 4169552917
+Consent Status: Granted

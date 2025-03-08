@@ -1,0 +1,6 @@
+Customer ID: 7400
+Name: Anthony Rivera
+National ID: 005-05-9775
+Bank: Cox, Sanders and Travis Bank
+Account Number: 7572954800
+Consent Status: Revoked

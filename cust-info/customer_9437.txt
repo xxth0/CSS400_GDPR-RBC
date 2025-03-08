@@ -1,0 +1,6 @@
+Customer ID: 9437
+Name: Darrell Russell
+National ID: 243-73-0033
+Bank: Smith, Williams and Simpson Bank
+Account Number: 4129334605
+Consent Status: Granted

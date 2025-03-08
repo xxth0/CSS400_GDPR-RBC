@@ -1,0 +1,6 @@
+Customer ID: 8158
+Name: Terry Taylor
+National ID: 790-98-1464
+Bank: Smith, Bowman and Taylor Bank
+Account Number: 6685954664
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 121
+Name: Lauren Watson
+National ID: 501-38-4047
+Bank: Mcclure, Vasquez and Hernandez Bank
+Account Number: 6262364443
+Consent Status: Revoked

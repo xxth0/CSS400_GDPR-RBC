@@ -1,0 +1,6 @@
+Customer ID: 5099
+Name: Crystal Brown
+National ID: 558-39-5526
+Bank: Rodriguez, Thomas and Barnes Bank
+Account Number: 5158929213
+Consent Status: Granted

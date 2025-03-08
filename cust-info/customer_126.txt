@@ -1,0 +1,6 @@
+Customer ID: 126
+Name: Ashlee Reynolds
+National ID: 395-49-1803
+Bank: Johnson-Jackson Bank
+Account Number: 6388889975
+Consent Status: Granted

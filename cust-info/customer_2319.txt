@@ -1,0 +1,6 @@
+Customer ID: 2319
+Name: Stacy Cummings
+National ID: 116-18-7875
+Bank: Reyes Ltd Bank
+Account Number: 7015649755
+Consent Status: Granted

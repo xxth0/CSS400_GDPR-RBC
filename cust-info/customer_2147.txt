@@ -1,0 +1,6 @@
+Customer ID: 2147
+Name: Raymond Faulkner
+National ID: 612-66-4594
+Bank: Rhodes-Wright Bank
+Account Number: 3176061218
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3909
+Name: Erin Graham
+National ID: 492-95-9261
+Bank: Ross-Jimenez Bank
+Account Number: 3556333259
+Consent Status: Granted

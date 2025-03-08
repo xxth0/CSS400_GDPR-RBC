@@ -1,0 +1,6 @@
+Customer ID: 3395
+Name: Denise Cherry
+National ID: 066-40-9814
+Bank: Bell Group Bank
+Account Number: 8824451148
+Consent Status: Granted

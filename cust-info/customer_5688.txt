@@ -1,0 +1,6 @@
+Customer ID: 5688
+Name: Kristin Aguilar
+National ID: 352-72-8043
+Bank: Barnes, Buck and Keith Bank
+Account Number: 7265128421
+Consent Status: Revoked

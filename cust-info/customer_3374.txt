@@ -1,0 +1,6 @@
+Customer ID: 3374
+Name: Kelly Martinez
+National ID: 721-42-5323
+Bank: Campbell-Jones Bank
+Account Number: 7022463076
+Consent Status: Revoked

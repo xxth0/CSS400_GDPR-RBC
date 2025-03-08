@@ -1,0 +1,6 @@
+Customer ID: 9605
+Name: Justin Owens
+National ID: 286-96-6914
+Bank: Peck PLC Bank
+Account Number: 4818958532
+Consent Status: Revoked

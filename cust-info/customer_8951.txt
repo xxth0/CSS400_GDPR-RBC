@@ -1,0 +1,6 @@
+Customer ID: 8951
+Name: Steven Rodriguez
+National ID: 542-26-6217
+Bank: Shaffer, Bates and Green Bank
+Account Number: 9074223322
+Consent Status: Revoked

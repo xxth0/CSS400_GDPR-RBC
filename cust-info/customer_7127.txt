@@ -1,0 +1,6 @@
+Customer ID: 7127
+Name: Leslie Barr
+National ID: 805-28-9557
+Bank: Hart, Flores and Gibson Bank
+Account Number: 7481610475
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2586
+Name: Judith King
+National ID: 386-56-9699
+Bank: Jenkins, Garza and Harrison Bank
+Account Number: 3251503554
+Consent Status: Granted

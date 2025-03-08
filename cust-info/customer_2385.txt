@@ -1,0 +1,6 @@
+Customer ID: 2385
+Name: Cody Fitzgerald
+National ID: 084-69-7161
+Bank: Jones, Washington and Mitchell Bank
+Account Number: 7678030949
+Consent Status: Granted

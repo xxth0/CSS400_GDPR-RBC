@@ -1,0 +1,6 @@
+Customer ID: 924
+Name: Erik Jones
+National ID: 178-29-6433
+Bank: Alvarez, Trevino and Reese Bank
+Account Number: 7841937615
+Consent Status: Granted

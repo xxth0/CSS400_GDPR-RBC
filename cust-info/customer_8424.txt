@@ -1,0 +1,6 @@
+Customer ID: 8424
+Name: Sean Alexander MD
+National ID: 400-62-5463
+Bank: Swanson-Cook Bank
+Account Number: 3243002160
+Consent Status: Granted

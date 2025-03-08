@@ -1,0 +1,6 @@
+Customer ID: 6858
+Name: John Lopez
+National ID: 134-30-7015
+Bank: Austin-Wright Bank
+Account Number: 8012982531
+Consent Status: Revoked

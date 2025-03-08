@@ -1,0 +1,6 @@
+Customer ID: 5306
+Name: Lee Estes
+National ID: 402-19-9960
+Bank: Dorsey, Murphy and Montoya Bank
+Account Number: 5301491130
+Consent Status: Revoked

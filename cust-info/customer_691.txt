@@ -1,0 +1,6 @@
+Customer ID: 691
+Name: Jeff Tate
+National ID: 411-26-3600
+Bank: Swanson, Kaufman and Steele Bank
+Account Number: 3908668565
+Consent Status: Revoked

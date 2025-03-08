@@ -1,0 +1,6 @@
+Customer ID: 1997
+Name: Jacqueline Gomez
+National ID: 145-25-6948
+Bank: Davidson-Christensen Bank
+Account Number: 9868579150
+Consent Status: Granted

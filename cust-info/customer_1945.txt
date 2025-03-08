@@ -1,0 +1,6 @@
+Customer ID: 1945
+Name: Mariah Roberts
+National ID: 685-30-6873
+Bank: Avery Inc Bank
+Account Number: 7946489961
+Consent Status: Revoked

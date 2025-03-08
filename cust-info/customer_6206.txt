@@ -1,0 +1,6 @@
+Customer ID: 6206
+Name: Elizabeth Robinson
+National ID: 634-03-8619
+Bank: Farmer, Snow and Taylor Bank
+Account Number: 1487987443
+Consent Status: Granted

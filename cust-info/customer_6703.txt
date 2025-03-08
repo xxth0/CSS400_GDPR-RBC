@@ -1,0 +1,6 @@
+Customer ID: 6703
+Name: Renee Patton
+National ID: 123-48-1413
+Bank: Holland, Fox and Scott Bank
+Account Number: 3285003066
+Consent Status: Granted

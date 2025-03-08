@@ -1,0 +1,6 @@
+Customer ID: 9757
+Name: Robert Phillips
+National ID: 455-74-0027
+Bank: Paul and Sons Bank
+Account Number: 1938156334
+Consent Status: Granted

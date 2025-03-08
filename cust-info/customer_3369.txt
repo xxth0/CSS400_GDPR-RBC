@@ -1,0 +1,6 @@
+Customer ID: 3369
+Name: Wanda Allen
+National ID: 067-27-1056
+Bank: Smith, Tate and Carter Bank
+Account Number: 7282545651
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 891
+Name: Bradley Martinez
+National ID: 250-07-2471
+Bank: Farmer-Smith Bank
+Account Number: 2824261981
+Consent Status: Revoked

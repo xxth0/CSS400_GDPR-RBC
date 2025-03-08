@@ -1,0 +1,6 @@
+Customer ID: 4647
+Name: Latoya Chambers
+National ID: 015-53-6968
+Bank: Taylor Group Bank
+Account Number: 7811782066
+Consent Status: Granted

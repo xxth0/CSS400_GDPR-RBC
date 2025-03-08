@@ -1,0 +1,6 @@
+Customer ID: 3270
+Name: Louis Walker
+National ID: 203-26-6906
+Bank: Hutchinson and Sons Bank
+Account Number: 8559157603
+Consent Status: Granted

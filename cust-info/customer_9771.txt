@@ -1,0 +1,6 @@
+Customer ID: 9771
+Name: Erin Scott
+National ID: 483-75-1780
+Bank: Spears, Murphy and Mcmillan Bank
+Account Number: 1287213360
+Consent Status: Revoked

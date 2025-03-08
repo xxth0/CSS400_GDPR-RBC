@@ -1,0 +1,6 @@
+Customer ID: 6984
+Name: Kathy Wilson
+National ID: 532-64-4735
+Bank: Hooper-Carrillo Bank
+Account Number: 5114986616
+Consent Status: Granted

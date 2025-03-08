@@ -1,0 +1,6 @@
+Customer ID: 3509
+Name: Joy Ramirez
+National ID: 006-14-7743
+Bank: Ross, Bennett and Sanchez Bank
+Account Number: 8067559649
+Consent Status: Revoked

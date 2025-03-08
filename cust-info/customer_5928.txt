@@ -1,0 +1,6 @@
+Customer ID: 5928
+Name: Danielle Cohen
+National ID: 663-79-0912
+Bank: Ramirez, Harrington and Mills Bank
+Account Number: 5281857745
+Consent Status: Revoked

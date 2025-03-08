@@ -1,0 +1,6 @@
+Customer ID: 256
+Name: Veronica Klein
+National ID: 558-67-3769
+Bank: Ray Inc Bank
+Account Number: 2612373288
+Consent Status: Granted

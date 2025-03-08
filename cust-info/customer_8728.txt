@@ -1,0 +1,6 @@
+Customer ID: 8728
+Name: Marissa Foster
+National ID: 350-22-4539
+Bank: Prince Inc Bank
+Account Number: 2524213849
+Consent Status: Granted

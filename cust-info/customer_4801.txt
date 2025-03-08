@@ -1,0 +1,6 @@
+Customer ID: 4801
+Name: Veronica Murphy
+National ID: 231-06-5072
+Bank: Carter, Perry and Scott Bank
+Account Number: 7547381135
+Consent Status: Revoked

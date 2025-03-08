@@ -1,0 +1,6 @@
+Customer ID: 1022
+Name: George Neal
+National ID: 658-24-2288
+Bank: Perry-Smith Bank
+Account Number: 8950600883
+Consent Status: Granted

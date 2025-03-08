@@ -1,0 +1,6 @@
+Customer ID: 4088
+Name: Carla Parks
+National ID: 569-18-2139
+Bank: Jones Inc Bank
+Account Number: 7826659867
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5635
+Name: Taylor Myers
+National ID: 514-24-0748
+Bank: Miller and Sons Bank
+Account Number: 9219217094
+Consent Status: Revoked

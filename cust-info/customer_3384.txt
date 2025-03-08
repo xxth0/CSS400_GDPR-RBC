@@ -1,0 +1,6 @@
+Customer ID: 3384
+Name: Jared Rodriguez
+National ID: 862-29-7728
+Bank: Kent-Hale Bank
+Account Number: 6652161642
+Consent Status: Granted

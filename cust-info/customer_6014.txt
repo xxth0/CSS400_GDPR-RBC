@@ -1,0 +1,6 @@
+Customer ID: 6014
+Name: Christina Wilkins
+National ID: 314-79-2670
+Bank: Smith, Mcknight and Strickland Bank
+Account Number: 4560779188
+Consent Status: Granted

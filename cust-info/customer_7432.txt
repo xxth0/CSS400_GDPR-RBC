@@ -1,0 +1,6 @@
+Customer ID: 7432
+Name: Lauren Morrison
+National ID: 441-67-1764
+Bank: Parker-Golden Bank
+Account Number: 8353699860
+Consent Status: Revoked

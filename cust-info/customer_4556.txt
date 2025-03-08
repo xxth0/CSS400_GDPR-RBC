@@ -1,0 +1,6 @@
+Customer ID: 4556
+Name: Katherine Sandoval
+National ID: 051-53-4917
+Bank: Herring LLC Bank
+Account Number: 4795753836
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5877
+Name: Michael Arroyo
+National ID: 675-84-1162
+Bank: Russell Group Bank
+Account Number: 6234478539
+Consent Status: Granted

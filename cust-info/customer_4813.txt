@@ -1,0 +1,6 @@
+Customer ID: 4813
+Name: Sarah Smith
+National ID: 830-89-6855
+Bank: Tucker Group Bank
+Account Number: 6791729312
+Consent Status: Granted

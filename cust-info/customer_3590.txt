@@ -1,0 +1,6 @@
+Customer ID: 3590
+Name: Cynthia Dyer
+National ID: 223-51-9435
+Bank: Duke, Mendoza and Hicks Bank
+Account Number: 1078771723
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1287
+Name: Erica Gonzalez
+National ID: 202-67-7515
+Bank: Smith-Evans Bank
+Account Number: 5725723705
+Consent Status: Revoked

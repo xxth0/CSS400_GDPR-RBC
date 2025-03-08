@@ -1,0 +1,6 @@
+Customer ID: 8920
+Name: Tanner Spencer
+National ID: 734-99-2887
+Bank: Rodriguez-Anderson Bank
+Account Number: 9811118537
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9325
+Name: Cynthia Barrera
+National ID: 348-20-8234
+Bank: Gentry-Patterson Bank
+Account Number: 4753570278
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8349
+Name: Derek Williams
+National ID: 851-49-7180
+Bank: King, Trevino and Rosales Bank
+Account Number: 3988709656
+Consent Status: Granted

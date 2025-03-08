@@ -1,0 +1,6 @@
+Customer ID: 1258
+Name: Meagan Garcia
+National ID: 862-44-7979
+Bank: Haas and Sons Bank
+Account Number: 4178540900
+Consent Status: Revoked

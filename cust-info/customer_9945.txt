@@ -1,0 +1,6 @@
+Customer ID: 9945
+Name: Gabrielle Chandler
+National ID: 028-98-7794
+Bank: Jacobs PLC Bank
+Account Number: 8958109075
+Consent Status: Granted

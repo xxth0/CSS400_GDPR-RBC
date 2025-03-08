@@ -1,0 +1,6 @@
+Customer ID: 432
+Name: Amanda Adams
+National ID: 237-64-3847
+Bank: Ward and Sons Bank
+Account Number: 1657787592
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3126
+Name: Hayden Brown
+National ID: 449-98-9593
+Bank: Smith, Johnson and Lopez Bank
+Account Number: 3740089490
+Consent Status: Revoked

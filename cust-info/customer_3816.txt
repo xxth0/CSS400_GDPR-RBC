@@ -1,0 +1,6 @@
+Customer ID: 3816
+Name: Teresa Rowland
+National ID: 329-59-1228
+Bank: Nunez-Vega Bank
+Account Number: 2397627175
+Consent Status: Revoked

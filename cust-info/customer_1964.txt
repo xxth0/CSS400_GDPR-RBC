@@ -1,0 +1,6 @@
+Customer ID: 1964
+Name: Donald Scott
+National ID: 696-20-6254
+Bank: Wallace Group Bank
+Account Number: 8321655318
+Consent Status: Revoked

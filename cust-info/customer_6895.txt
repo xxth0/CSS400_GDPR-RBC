@@ -1,0 +1,6 @@
+Customer ID: 6895
+Name: Justin Turner
+National ID: 095-65-5715
+Bank: Stevens, Black and Schwartz Bank
+Account Number: 5902522732
+Consent Status: Granted

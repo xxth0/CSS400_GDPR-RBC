@@ -1,0 +1,6 @@
+Customer ID: 9214
+Name: Timothy Carson
+National ID: 796-05-8624
+Bank: Frank, Lynn and Wilson Bank
+Account Number: 9785300440
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8595
+Name: Joel Curry
+National ID: 307-39-1337
+Bank: Anderson PLC Bank
+Account Number: 6207221316
+Consent Status: Revoked

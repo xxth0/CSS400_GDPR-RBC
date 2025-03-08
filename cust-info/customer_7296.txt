@@ -1,0 +1,6 @@
+Customer ID: 7296
+Name: Kelly White
+National ID: 078-46-0260
+Bank: Hurley LLC Bank
+Account Number: 7452451033
+Consent Status: Revoked

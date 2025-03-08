@@ -1,0 +1,6 @@
+Customer ID: 5802
+Name: Joshua Zimmerman
+National ID: 541-66-0946
+Bank: Johnson, Steele and Leonard Bank
+Account Number: 9491579872
+Consent Status: Revoked

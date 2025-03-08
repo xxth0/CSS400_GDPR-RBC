@@ -1,0 +1,6 @@
+Customer ID: 1881
+Name: Michelle Cook
+National ID: 189-30-7366
+Bank: Martinez-Hernandez Bank
+Account Number: 1112295920
+Consent Status: Revoked

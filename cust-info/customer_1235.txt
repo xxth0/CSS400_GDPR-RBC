@@ -1,0 +1,6 @@
+Customer ID: 1235
+Name: Teresa Sullivan
+National ID: 700-13-7758
+Bank: Gray Inc Bank
+Account Number: 8620138572
+Consent Status: Revoked

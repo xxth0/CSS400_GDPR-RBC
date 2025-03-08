@@ -1,0 +1,6 @@
+Customer ID: 6994
+Name: Kelly Green
+National ID: 074-18-2311
+Bank: Snyder, Flores and Smith Bank
+Account Number: 4794765254
+Consent Status: Granted

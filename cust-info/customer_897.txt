@@ -1,0 +1,6 @@
+Customer ID: 897
+Name: Ruben Diaz
+National ID: 699-02-9771
+Bank: Edwards-Moore Bank
+Account Number: 2886327580
+Consent Status: Granted

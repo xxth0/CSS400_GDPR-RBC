@@ -1,0 +1,6 @@
+Customer ID: 1162
+Name: Laura Huff
+National ID: 509-75-6387
+Bank: Jenkins, Mills and Brown Bank
+Account Number: 1795619363
+Consent Status: Revoked

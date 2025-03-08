@@ -1,0 +1,6 @@
+Customer ID: 3431
+Name: Kevin Allen
+National ID: 053-77-2832
+Bank: Mathews-Perez Bank
+Account Number: 7292324331
+Consent Status: Granted

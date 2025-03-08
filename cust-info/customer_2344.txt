@@ -1,0 +1,6 @@
+Customer ID: 2344
+Name: John Robertson
+National ID: 305-27-3317
+Bank: Hampton-Vasquez Bank
+Account Number: 8725727819
+Consent Status: Granted

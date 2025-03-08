@@ -1,0 +1,6 @@
+Customer ID: 6493
+Name: Jonathan Carter
+National ID: 152-89-5799
+Bank: Anderson-Kennedy Bank
+Account Number: 2551027463
+Consent Status: Revoked

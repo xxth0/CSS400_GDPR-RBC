@@ -1,0 +1,6 @@
+Customer ID: 9836
+Name: Carrie Sutton
+National ID: 604-80-9990
+Bank: Schmidt and Sons Bank
+Account Number: 9739297155
+Consent Status: Granted

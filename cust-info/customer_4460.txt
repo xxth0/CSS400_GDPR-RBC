@@ -1,0 +1,6 @@
+Customer ID: 4460
+Name: Robert Smith
+National ID: 010-44-1443
+Bank: Evans PLC Bank
+Account Number: 5226945038
+Consent Status: Granted

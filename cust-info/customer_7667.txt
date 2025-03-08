@@ -1,0 +1,6 @@
+Customer ID: 7667
+Name: Sherry Walters
+National ID: 814-67-5375
+Bank: Bates and Sons Bank
+Account Number: 7162270789
+Consent Status: Granted

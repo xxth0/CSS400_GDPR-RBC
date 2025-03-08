@@ -1,0 +1,6 @@
+Customer ID: 3856
+Name: Jennifer Lee
+National ID: 100-75-0012
+Bank: Phillips, Ortiz and Williams Bank
+Account Number: 5796302599
+Consent Status: Revoked

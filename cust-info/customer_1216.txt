@@ -1,0 +1,6 @@
+Customer ID: 1216
+Name: Paula Hernandez
+National ID: 274-27-5510
+Bank: Carter, Martin and Pierce Bank
+Account Number: 1912225896
+Consent Status: Revoked

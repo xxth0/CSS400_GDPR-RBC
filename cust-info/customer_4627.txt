@@ -1,0 +1,6 @@
+Customer ID: 4627
+Name: Mrs. Samantha Campbell
+National ID: 056-81-9716
+Bank: Lam-Brown Bank
+Account Number: 2801653549
+Consent Status: Granted

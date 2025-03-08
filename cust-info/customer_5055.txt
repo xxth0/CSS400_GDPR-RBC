@@ -1,0 +1,6 @@
+Customer ID: 5055
+Name: Mrs. Whitney David
+National ID: 146-09-2262
+Bank: Kelly, Bird and Kelly Bank
+Account Number: 8152327170
+Consent Status: Revoked

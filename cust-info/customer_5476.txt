@@ -1,0 +1,6 @@
+Customer ID: 5476
+Name: Brianna Pierce
+National ID: 728-48-8394
+Bank: Andrews, Juarez and Glass Bank
+Account Number: 5945143262
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6612
+Name: Michelle Rodriguez
+National ID: 568-12-3470
+Bank: Dominguez, Armstrong and Edwards Bank
+Account Number: 3690165017
+Consent Status: Revoked

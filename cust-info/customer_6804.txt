@@ -1,0 +1,6 @@
+Customer ID: 6804
+Name: Mariah Thompson
+National ID: 344-37-1630
+Bank: Daniels, Bass and Daniels Bank
+Account Number: 7149291537
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5765
+Name: Virginia Gray
+National ID: 113-93-6910
+Bank: Kennedy, Duncan and Hill Bank
+Account Number: 9345922984
+Consent Status: Revoked

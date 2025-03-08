@@ -1,0 +1,6 @@
+Customer ID: 8321
+Name: Sarah Dominguez
+National ID: 785-16-5058
+Bank: Holland, Massey and Carpenter Bank
+Account Number: 9513496621
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4395
+Name: Daniel Johnson
+National ID: 137-46-7043
+Bank: Hamilton Group Bank
+Account Number: 1667181069
+Consent Status: Granted

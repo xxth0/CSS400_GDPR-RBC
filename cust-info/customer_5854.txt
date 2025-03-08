@@ -1,0 +1,6 @@
+Customer ID: 5854
+Name: Abigail Ponce
+National ID: 104-39-9550
+Bank: Thomas and Sons Bank
+Account Number: 7670459312
+Consent Status: Revoked

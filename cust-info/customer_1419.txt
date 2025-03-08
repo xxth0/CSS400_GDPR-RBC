@@ -1,0 +1,6 @@
+Customer ID: 1419
+Name: Jason Guerrero
+National ID: 634-51-5453
+Bank: Christian-Decker Bank
+Account Number: 5216264322
+Consent Status: Granted

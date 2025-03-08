@@ -1,0 +1,6 @@
+Customer ID: 5022
+Name: Matthew Martinez
+National ID: 331-22-3781
+Bank: West-Perez Bank
+Account Number: 9163598228
+Consent Status: Revoked

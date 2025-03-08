@@ -1,0 +1,6 @@
+Customer ID: 7673
+Name: Emily Nelson
+National ID: 164-79-4419
+Bank: Phillips-Hatfield Bank
+Account Number: 3594607059
+Consent Status: Revoked

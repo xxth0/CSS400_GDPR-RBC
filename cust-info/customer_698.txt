@@ -1,0 +1,6 @@
+Customer ID: 698
+Name: Jonathan Williams
+National ID: 344-99-5912
+Bank: James, Avery and Marks Bank
+Account Number: 9727924965
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 1444
+Name: Christina Mcdowell
+National ID: 832-81-4721
+Bank: Richards and Sons Bank
+Account Number: 4748284966
+Consent Status: Revoked

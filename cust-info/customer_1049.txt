@@ -1,0 +1,6 @@
+Customer ID: 1049
+Name: Larry Pratt
+National ID: 655-05-2754
+Bank: Serrano Group Bank
+Account Number: 6915551859
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3915
+Name: Natalie Berger
+National ID: 157-05-8266
+Bank: Robinson LLC Bank
+Account Number: 4064574706
+Consent Status: Revoked

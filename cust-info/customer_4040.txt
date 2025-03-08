@@ -1,0 +1,6 @@
+Customer ID: 4040
+Name: Mackenzie Anderson
+National ID: 803-49-3757
+Bank: Pugh, Diaz and Lester Bank
+Account Number: 3227186568
+Consent Status: Granted

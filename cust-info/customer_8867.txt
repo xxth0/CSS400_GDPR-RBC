@@ -1,0 +1,6 @@
+Customer ID: 8867
+Name: Emily Hodges
+National ID: 117-27-7891
+Bank: Hall-Cummings Bank
+Account Number: 2244997932
+Consent Status: Revoked

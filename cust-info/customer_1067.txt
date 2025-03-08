@@ -1,0 +1,6 @@
+Customer ID: 1067
+Name: Joy Mullins
+National ID: 412-34-6835
+Bank: Foster, Price and Taylor Bank
+Account Number: 1925247198
+Consent Status: Revoked

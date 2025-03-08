@@ -1,0 +1,6 @@
+Customer ID: 5195
+Name: Jason Kennedy
+National ID: 401-74-1118
+Bank: Brown LLC Bank
+Account Number: 2599172680
+Consent Status: Revoked

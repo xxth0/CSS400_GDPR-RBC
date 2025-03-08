@@ -1,0 +1,6 @@
+Customer ID: 2440
+Name: Kenneth Evans
+National ID: 681-73-5525
+Bank: Martin-Jones Bank
+Account Number: 4588248964
+Consent Status: Revoked

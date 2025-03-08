@@ -1,0 +1,6 @@
+Customer ID: 1919
+Name: Thomas Ware
+National ID: 733-20-1287
+Bank: Gordon Inc Bank
+Account Number: 2407705299
+Consent Status: Granted

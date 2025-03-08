@@ -1,0 +1,6 @@
+Customer ID: 24
+Name: Stephanie Rush
+National ID: 589-97-9960
+Bank: Fry PLC Bank
+Account Number: 5021805570
+Consent Status: Granted

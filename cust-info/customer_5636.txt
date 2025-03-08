@@ -1,0 +1,6 @@
+Customer ID: 5636
+Name: Paula Campbell
+National ID: 788-57-5109
+Bank: Mullins, Miller and Rodriguez Bank
+Account Number: 3195733071
+Consent Status: Granted

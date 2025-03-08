@@ -1,0 +1,6 @@
+Customer ID: 7506
+Name: Sarah Roman
+National ID: 658-98-2972
+Bank: Heath, Baker and Russell Bank
+Account Number: 2551591138
+Consent Status: Revoked

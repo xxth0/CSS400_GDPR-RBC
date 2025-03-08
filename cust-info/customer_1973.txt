@@ -1,0 +1,6 @@
+Customer ID: 1973
+Name: Mike James
+National ID: 614-90-4004
+Bank: Burke Inc Bank
+Account Number: 4732533594
+Consent Status: Revoked

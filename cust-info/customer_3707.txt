@@ -1,0 +1,6 @@
+Customer ID: 3707
+Name: Jeffrey Estrada
+National ID: 814-24-7093
+Bank: Anderson PLC Bank
+Account Number: 8436587137
+Consent Status: Granted

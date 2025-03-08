@@ -1,0 +1,6 @@
+Customer ID: 5565
+Name: Lauren Johnson
+National ID: 658-57-4552
+Bank: Peck, Burns and Robinson Bank
+Account Number: 7948890998
+Consent Status: Granted

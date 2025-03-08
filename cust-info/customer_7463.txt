@@ -1,0 +1,6 @@
+Customer ID: 7463
+Name: Curtis Bryan
+National ID: 490-19-4069
+Bank: Curtis, Cross and Drake Bank
+Account Number: 2692635512
+Consent Status: Revoked

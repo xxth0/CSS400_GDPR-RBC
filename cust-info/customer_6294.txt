@@ -1,0 +1,6 @@
+Customer ID: 6294
+Name: Ana Parsons
+National ID: 811-06-0781
+Bank: Garcia, Weaver and Harrington Bank
+Account Number: 4657434247
+Consent Status: Revoked

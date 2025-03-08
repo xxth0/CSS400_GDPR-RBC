@@ -1,0 +1,6 @@
+Customer ID: 9899
+Name: Rhonda Rogers
+National ID: 246-13-1948
+Bank: Lopez Inc Bank
+Account Number: 8911880816
+Consent Status: Revoked

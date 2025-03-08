@@ -1,0 +1,6 @@
+Customer ID: 2098
+Name: John Wilson
+National ID: 398-73-4121
+Bank: Shaw, Nelson and Williams Bank
+Account Number: 3255088975
+Consent Status: Granted

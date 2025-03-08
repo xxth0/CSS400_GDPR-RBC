@@ -1,0 +1,6 @@
+Customer ID: 6526
+Name: Margaret James
+National ID: 730-30-1190
+Bank: Bryant, Jones and White Bank
+Account Number: 6228127696
+Consent Status: Revoked

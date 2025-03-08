@@ -1,0 +1,6 @@
+Customer ID: 1795
+Name: Michael Wagner
+National ID: 458-11-1121
+Bank: Clark-Nguyen Bank
+Account Number: 9964538492
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2287
+Name: Patricia Lewis
+National ID: 306-81-0508
+Bank: Stone-Hawkins Bank
+Account Number: 7467726594
+Consent Status: Granted

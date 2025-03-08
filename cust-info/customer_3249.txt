@@ -1,0 +1,6 @@
+Customer ID: 3249
+Name: Shelby Brown
+National ID: 096-55-1333
+Bank: Johnston, Johnson and Wiggins Bank
+Account Number: 6726655881
+Consent Status: Granted

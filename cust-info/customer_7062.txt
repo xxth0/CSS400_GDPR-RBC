@@ -1,0 +1,6 @@
+Customer ID: 7062
+Name: Edward Cooper
+National ID: 839-01-1667
+Bank: Richards Group Bank
+Account Number: 6248723568
+Consent Status: Granted

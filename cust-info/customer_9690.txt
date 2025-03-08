@@ -1,0 +1,6 @@
+Customer ID: 9690
+Name: Ronald Rivas
+National ID: 052-12-3647
+Bank: Bird, Hernandez and Johnston Bank
+Account Number: 4243343073
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4441
+Name: Clifford Frank
+National ID: 733-05-1142
+Bank: Horn LLC Bank
+Account Number: 4899197414
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7287
+Name: Jason Perez
+National ID: 663-81-0532
+Bank: Ramsey, Myers and Daniels Bank
+Account Number: 5508732288
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6678
+Name: Joseph Hernandez
+National ID: 386-58-1257
+Bank: Lindsey Group Bank
+Account Number: 1596690823
+Consent Status: Granted

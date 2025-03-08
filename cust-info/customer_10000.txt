@@ -1,0 +1,6 @@
+Customer ID: 10000
+Name: William Brown
+National ID: 542-11-1297
+Bank: Warren, Hooper and Miller Bank
+Account Number: 4220958468
+Consent Status: Granted

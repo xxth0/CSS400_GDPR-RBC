@@ -1,0 +1,6 @@
+Customer ID: 4047
+Name: Stephen Smith
+National ID: 833-76-7605
+Bank: Rios Group Bank
+Account Number: 2092632382
+Consent Status: Revoked

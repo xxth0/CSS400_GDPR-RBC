@@ -1,0 +1,6 @@
+Customer ID: 2746
+Name: Adam Smith
+National ID: 485-71-5761
+Bank: Torres, Butler and Evans Bank
+Account Number: 3855861005
+Consent Status: Granted

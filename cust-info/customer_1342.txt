@@ -1,0 +1,6 @@
+Customer ID: 1342
+Name: Anthony May Jr.
+National ID: 114-29-4829
+Bank: Smith, Parsons and Juarez Bank
+Account Number: 7217033025
+Consent Status: Granted

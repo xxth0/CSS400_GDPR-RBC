@@ -1,0 +1,6 @@
+Customer ID: 3234
+Name: Nathan Berry
+National ID: 700-67-0891
+Bank: Cantrell-Russell Bank
+Account Number: 1192273125
+Consent Status: Granted

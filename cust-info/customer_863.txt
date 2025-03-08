@@ -1,0 +1,6 @@
+Customer ID: 863
+Name: Brandon Morgan
+National ID: 565-63-9351
+Bank: Cunningham, Gonzalez and Schwartz Bank
+Account Number: 3540350177
+Consent Status: Revoked

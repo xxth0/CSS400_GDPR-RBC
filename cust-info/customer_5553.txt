@@ -1,0 +1,6 @@
+Customer ID: 5553
+Name: Andrew Berry
+National ID: 222-30-3074
+Bank: Swanson PLC Bank
+Account Number: 4076033065
+Consent Status: Revoked

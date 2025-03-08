@@ -1,0 +1,6 @@
+Customer ID: 1829
+Name: Brian Jennings
+National ID: 275-64-7071
+Bank: Rivera, Myers and Ross Bank
+Account Number: 1931846451
+Consent Status: Revoked

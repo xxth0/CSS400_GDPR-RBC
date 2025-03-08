@@ -1,0 +1,6 @@
+Customer ID: 6783
+Name: Kristy Castillo
+National ID: 746-69-3501
+Bank: Patterson-Murphy Bank
+Account Number: 9074501676
+Consent Status: Revoked

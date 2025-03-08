@@ -1,0 +1,6 @@
+Customer ID: 8238
+Name: John Torres
+National ID: 248-58-1280
+Bank: Lewis-Chaney Bank
+Account Number: 8926612583
+Consent Status: Granted

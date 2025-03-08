@@ -1,0 +1,6 @@
+Customer ID: 5587
+Name: Nathaniel Cervantes
+National ID: 380-77-3415
+Bank: Romero LLC Bank
+Account Number: 1141870474
+Consent Status: Granted

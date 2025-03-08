@@ -1,0 +1,6 @@
+Customer ID: 3600
+Name: Theresa Gutierrez
+National ID: 672-42-4257
+Bank: Brown-Garcia Bank
+Account Number: 4295133759
+Consent Status: Revoked

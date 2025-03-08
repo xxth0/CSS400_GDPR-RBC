@@ -1,0 +1,6 @@
+Customer ID: 7950
+Name: Derek Mitchell
+National ID: 037-05-2740
+Bank: Daniels-Pollard Bank
+Account Number: 1790999429
+Consent Status: Revoked

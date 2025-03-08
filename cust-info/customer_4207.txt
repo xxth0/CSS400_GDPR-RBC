@@ -1,0 +1,6 @@
+Customer ID: 4207
+Name: David Mckinney
+National ID: 502-51-8771
+Bank: Bailey, Martinez and Phillips Bank
+Account Number: 9270516400
+Consent Status: Revoked

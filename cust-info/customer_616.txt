@@ -1,0 +1,6 @@
+Customer ID: 616
+Name: Maria Taylor
+National ID: 615-58-9776
+Bank: Thompson Group Bank
+Account Number: 5344127769
+Consent Status: Granted

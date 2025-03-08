@@ -1,0 +1,6 @@
+Customer ID: 8811
+Name: George Herrera
+National ID: 273-69-0244
+Bank: Obrien, Taylor and Zimmerman Bank
+Account Number: 3124087802
+Consent Status: Revoked

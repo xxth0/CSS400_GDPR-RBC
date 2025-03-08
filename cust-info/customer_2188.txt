@@ -1,0 +1,6 @@
+Customer ID: 2188
+Name: Victoria Lopez
+National ID: 026-39-0544
+Bank: Robinson, Garcia and Williams Bank
+Account Number: 1701965253
+Consent Status: Revoked

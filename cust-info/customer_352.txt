@@ -1,0 +1,6 @@
+Customer ID: 352
+Name: Erika Lloyd
+National ID: 345-37-8303
+Bank: Holmes-Berry Bank
+Account Number: 1791956702
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7488
+Name: Neil Mcbride
+National ID: 265-95-8943
+Bank: Williams, Castaneda and Jones Bank
+Account Number: 5782813481
+Consent Status: Granted

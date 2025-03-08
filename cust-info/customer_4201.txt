@@ -1,0 +1,6 @@
+Customer ID: 4201
+Name: Amber Mccormick
+National ID: 067-14-4091
+Bank: King, Hodges and Lawrence Bank
+Account Number: 5107008417
+Consent Status: Granted

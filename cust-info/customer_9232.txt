@@ -1,0 +1,6 @@
+Customer ID: 9232
+Name: Victor Martin
+National ID: 698-21-4824
+Bank: Shannon LLC Bank
+Account Number: 2710920162
+Consent Status: Revoked

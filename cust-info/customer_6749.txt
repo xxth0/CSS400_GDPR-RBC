@@ -1,0 +1,6 @@
+Customer ID: 6749
+Name: Joanne Matthews
+National ID: 247-78-6070
+Bank: Jordan-Merritt Bank
+Account Number: 4915549869
+Consent Status: Granted

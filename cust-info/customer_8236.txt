@@ -1,0 +1,6 @@
+Customer ID: 8236
+Name: Jerry Rivera
+National ID: 814-44-8529
+Bank: Olsen, Hardin and Trujillo Bank
+Account Number: 4028641304
+Consent Status: Revoked

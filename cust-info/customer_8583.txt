@@ -1,0 +1,6 @@
+Customer ID: 8583
+Name: Tammy Morris MD
+National ID: 048-86-0684
+Bank: Ellis LLC Bank
+Account Number: 2696740056
+Consent Status: Revoked

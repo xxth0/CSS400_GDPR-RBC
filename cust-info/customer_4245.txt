@@ -1,0 +1,6 @@
+Customer ID: 4245
+Name: Jeremy Fernandez
+National ID: 305-30-9783
+Bank: Rodriguez LLC Bank
+Account Number: 4547031831
+Consent Status: Granted

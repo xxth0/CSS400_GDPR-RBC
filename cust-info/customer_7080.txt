@@ -1,0 +1,6 @@
+Customer ID: 7080
+Name: Matthew Jackson
+National ID: 120-96-0675
+Bank: Bean-Mays Bank
+Account Number: 5476684830
+Consent Status: Granted

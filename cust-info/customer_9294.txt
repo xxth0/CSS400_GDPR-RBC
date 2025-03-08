@@ -1,0 +1,6 @@
+Customer ID: 9294
+Name: Andrew Nelson
+National ID: 446-44-4346
+Bank: Wilkinson-Wagner Bank
+Account Number: 6346402438
+Consent Status: Revoked

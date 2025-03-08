@@ -1,0 +1,6 @@
+Customer ID: 4537
+Name: Alicia Rogers
+National ID: 606-19-2218
+Bank: Franklin Group Bank
+Account Number: 7171181191
+Consent Status: Revoked

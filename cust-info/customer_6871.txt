@@ -1,0 +1,6 @@
+Customer ID: 6871
+Name: Christina Smith
+National ID: 568-51-4553
+Bank: Gomez-Moreno Bank
+Account Number: 3113028712
+Consent Status: Granted

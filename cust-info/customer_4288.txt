@@ -1,0 +1,6 @@
+Customer ID: 4288
+Name: Lisa Burns
+National ID: 878-15-9557
+Bank: Marshall-Tucker Bank
+Account Number: 6583142864
+Consent Status: Granted

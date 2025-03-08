@@ -1,0 +1,6 @@
+Customer ID: 742
+Name: Briana Roberts
+National ID: 882-29-7535
+Bank: Stewart, Rivera and Lopez Bank
+Account Number: 4076971591
+Consent Status: Revoked

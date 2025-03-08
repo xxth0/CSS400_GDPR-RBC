@@ -1,0 +1,6 @@
+Customer ID: 6981
+Name: Joseph Hernandez
+National ID: 214-95-5959
+Bank: Hart, Bennett and Young Bank
+Account Number: 6105804755
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1579
+Name: Steven Petersen
+National ID: 338-78-1644
+Bank: Moore Group Bank
+Account Number: 4862685406
+Consent Status: Revoked

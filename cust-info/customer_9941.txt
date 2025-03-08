@@ -1,0 +1,6 @@
+Customer ID: 9941
+Name: Kevin Howard
+National ID: 133-62-0522
+Bank: Farmer-Owens Bank
+Account Number: 7486352220
+Consent Status: Revoked

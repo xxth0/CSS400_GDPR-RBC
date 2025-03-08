@@ -1,0 +1,6 @@
+Customer ID: 4432
+Name: David Gonzalez
+National ID: 186-68-7951
+Bank: Holder-Simpson Bank
+Account Number: 9075078435
+Consent Status: Granted

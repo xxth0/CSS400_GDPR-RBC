@@ -1,0 +1,6 @@
+Customer ID: 9216
+Name: Sonia Castaneda
+National ID: 818-65-9905
+Bank: Keith, Joseph and Crane Bank
+Account Number: 1409189805
+Consent Status: Revoked

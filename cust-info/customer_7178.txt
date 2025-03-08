@@ -1,0 +1,6 @@
+Customer ID: 7178
+Name: Lisa Freeman
+National ID: 162-75-8822
+Bank: Parker-Harris Bank
+Account Number: 7701596244
+Consent Status: Revoked

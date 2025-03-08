@@ -1,0 +1,6 @@
+Customer ID: 2540
+Name: Aaron Cole
+National ID: 783-57-7922
+Bank: Hines-Barker Bank
+Account Number: 5119441813
+Consent Status: Granted

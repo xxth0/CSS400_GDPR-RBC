@@ -1,0 +1,6 @@
+Customer ID: 3295
+Name: Brenda Frost
+National ID: 421-35-4914
+Bank: Velasquez, Rios and Farmer Bank
+Account Number: 9315038595
+Consent Status: Granted

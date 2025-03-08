@@ -1,0 +1,6 @@
+Customer ID: 8566
+Name: Jade Weaver
+National ID: 024-35-0538
+Bank: Malone, Lee and Hudson Bank
+Account Number: 4303108011
+Consent Status: Granted

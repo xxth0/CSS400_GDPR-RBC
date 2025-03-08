@@ -1,0 +1,6 @@
+Customer ID: 5725
+Name: Kara Newton
+National ID: 143-81-9316
+Bank: Wright-Porter Bank
+Account Number: 4894253849
+Consent Status: Granted

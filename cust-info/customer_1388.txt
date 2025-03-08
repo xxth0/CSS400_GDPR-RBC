@@ -1,0 +1,6 @@
+Customer ID: 1388
+Name: Brian Murray
+National ID: 619-30-1512
+Bank: Skinner, Burke and Hall Bank
+Account Number: 2004192733
+Consent Status: Granted

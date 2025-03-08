@@ -1,0 +1,6 @@
+Customer ID: 5043
+Name: Jennifer Parks
+National ID: 422-31-4487
+Bank: Thomas-King Bank
+Account Number: 6263834068
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5808
+Name: Karen Medina
+National ID: 713-65-2990
+Bank: Wright LLC Bank
+Account Number: 4998113751
+Consent Status: Granted

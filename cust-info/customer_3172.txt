@@ -1,0 +1,6 @@
+Customer ID: 3172
+Name: Christopher Gonzales
+National ID: 027-07-7774
+Bank: Harris, Smith and Welch Bank
+Account Number: 1131840224
+Consent Status: Revoked

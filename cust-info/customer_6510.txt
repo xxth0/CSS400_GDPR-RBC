@@ -1,0 +1,6 @@
+Customer ID: 6510
+Name: Joseph Hernandez
+National ID: 603-41-7651
+Bank: Sloan Group Bank
+Account Number: 3148187118
+Consent Status: Revoked

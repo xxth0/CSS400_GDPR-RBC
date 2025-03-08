@@ -1,0 +1,6 @@
+Customer ID: 9382
+Name: Michelle Holmes
+National ID: 345-06-7810
+Bank: Stevens-Freeman Bank
+Account Number: 5117462967
+Consent Status: Granted

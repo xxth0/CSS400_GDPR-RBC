@@ -1,0 +1,6 @@
+Customer ID: 7830
+Name: Ryan Smith
+National ID: 082-53-3975
+Bank: Warren, Williams and Medina Bank
+Account Number: 4796492119
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5190
+Name: Allen Lopez
+National ID: 118-87-9509
+Bank: Knight Group Bank
+Account Number: 9905458714
+Consent Status: Revoked

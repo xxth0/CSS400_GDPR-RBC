@@ -1,0 +1,6 @@
+Customer ID: 826
+Name: Andrew Ali
+National ID: 026-53-4436
+Bank: Middleton-Hale Bank
+Account Number: 9541324832
+Consent Status: Revoked

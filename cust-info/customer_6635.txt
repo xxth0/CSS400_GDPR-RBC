@@ -1,0 +1,6 @@
+Customer ID: 6635
+Name: Gregory Howell
+National ID: 154-51-1336
+Bank: Collins PLC Bank
+Account Number: 6698709612
+Consent Status: Granted

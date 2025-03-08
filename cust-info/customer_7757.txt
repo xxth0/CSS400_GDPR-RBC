@@ -1,0 +1,6 @@
+Customer ID: 7757
+Name: Michele Cook
+National ID: 597-06-3201
+Bank: Lane LLC Bank
+Account Number: 8067228290
+Consent Status: Revoked

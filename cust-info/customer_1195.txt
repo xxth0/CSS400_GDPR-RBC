@@ -1,0 +1,6 @@
+Customer ID: 1195
+Name: James Miller
+National ID: 382-12-1115
+Bank: Morris PLC Bank
+Account Number: 3125053752
+Consent Status: Revoked

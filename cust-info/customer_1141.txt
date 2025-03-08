@@ -1,0 +1,6 @@
+Customer ID: 1141
+Name: Laura Edwards
+National ID: 134-98-1585
+Bank: Reed, Jefferson and Chang Bank
+Account Number: 4517865313
+Consent Status: Granted

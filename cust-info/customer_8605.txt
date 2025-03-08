@@ -1,0 +1,6 @@
+Customer ID: 8605
+Name: Gabriela Ramirez
+National ID: 059-17-4636
+Bank: Hernandez, Marshall and Dickson Bank
+Account Number: 6182612996
+Consent Status: Granted

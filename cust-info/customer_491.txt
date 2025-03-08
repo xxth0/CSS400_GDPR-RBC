@@ -1,0 +1,6 @@
+Customer ID: 491
+Name: Stanley Rangel
+National ID: 792-21-6938
+Bank: Mccormick-Singh Bank
+Account Number: 9314259409
+Consent Status: Revoked

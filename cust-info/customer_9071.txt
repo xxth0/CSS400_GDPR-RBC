@@ -1,0 +1,6 @@
+Customer ID: 9071
+Name: Tammie Garner
+National ID: 432-56-6348
+Bank: Smith-Mendoza Bank
+Account Number: 9623710847
+Consent Status: Granted

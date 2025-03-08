@@ -1,0 +1,6 @@
+Customer ID: 5867
+Name: Shannon Johnson
+National ID: 251-18-4323
+Bank: Bond-Randall Bank
+Account Number: 3920092941
+Consent Status: Granted

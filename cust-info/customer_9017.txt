@@ -1,0 +1,6 @@
+Customer ID: 9017
+Name: Jonathan Brady
+National ID: 249-96-6550
+Bank: Rodriguez Inc Bank
+Account Number: 7092413757
+Consent Status: Granted

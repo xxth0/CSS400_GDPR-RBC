@@ -1,0 +1,6 @@
+Customer ID: 9024
+Name: Joy Hart
+National ID: 277-34-6083
+Bank: Sherman, Schmidt and Becker Bank
+Account Number: 4372783106
+Consent Status: Granted

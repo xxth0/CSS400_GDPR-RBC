@@ -1,0 +1,6 @@
+Customer ID: 4613
+Name: James Oneill
+National ID: 420-48-9340
+Bank: Chapman LLC Bank
+Account Number: 3995309310
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5173
+Name: Chelsea Beltran
+National ID: 176-76-1281
+Bank: Smith, Knapp and Duncan Bank
+Account Number: 5627046399
+Consent Status: Granted

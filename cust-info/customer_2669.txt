@@ -1,0 +1,6 @@
+Customer ID: 2669
+Name: Shelly Booker
+National ID: 450-42-6998
+Bank: Stein Ltd Bank
+Account Number: 9946649717
+Consent Status: Granted

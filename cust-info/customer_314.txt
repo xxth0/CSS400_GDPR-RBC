@@ -1,0 +1,6 @@
+Customer ID: 314
+Name: Amanda Velasquez
+National ID: 411-40-9843
+Bank: Garcia Group Bank
+Account Number: 5656700281
+Consent Status: Granted

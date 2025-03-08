@@ -1,0 +1,6 @@
+Customer ID: 1489
+Name: Brian Williams
+National ID: 085-35-8495
+Bank: Galloway Ltd Bank
+Account Number: 8290679838
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 51
+Name: Mr. Kenneth Colon
+National ID: 594-46-9623
+Bank: Nguyen Inc Bank
+Account Number: 2527065581
+Consent Status: Granted

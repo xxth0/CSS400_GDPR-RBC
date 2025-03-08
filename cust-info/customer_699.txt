@@ -1,0 +1,6 @@
+Customer ID: 699
+Name: Nicholas Carter
+National ID: 408-78-2240
+Bank: Mendoza, Strong and Yates Bank
+Account Number: 5715656385
+Consent Status: Granted

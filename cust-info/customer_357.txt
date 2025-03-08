@@ -1,0 +1,6 @@
+Customer ID: 357
+Name: James Martin
+National ID: 063-54-7623
+Bank: Oliver-Chavez Bank
+Account Number: 1214812499
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4950
+Name: David Medina
+National ID: 384-46-2532
+Bank: Guzman-Smith Bank
+Account Number: 4319105330
+Consent Status: Revoked

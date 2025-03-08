@@ -1,0 +1,6 @@
+Customer ID: 3043
+Name: Courtney Perez
+National ID: 117-33-5799
+Bank: Fuller, Campbell and King Bank
+Account Number: 7909919794
+Consent Status: Revoked

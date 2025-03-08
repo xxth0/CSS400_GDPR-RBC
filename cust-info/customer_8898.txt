@@ -1,0 +1,6 @@
+Customer ID: 8898
+Name: Kelly Day
+National ID: 605-15-5427
+Bank: Ingram-Gomez Bank
+Account Number: 8172553586
+Consent Status: Granted

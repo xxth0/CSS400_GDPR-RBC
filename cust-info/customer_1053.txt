@@ -1,0 +1,6 @@
+Customer ID: 1053
+Name: Melissa Johnson
+National ID: 249-05-8150
+Bank: Salinas Group Bank
+Account Number: 4091629708
+Consent Status: Revoked

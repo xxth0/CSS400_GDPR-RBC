@@ -1,0 +1,6 @@
+Customer ID: 4860
+Name: Michelle Taylor
+National ID: 748-76-4074
+Bank: Fox-Jones Bank
+Account Number: 3647611046
+Consent Status: Granted

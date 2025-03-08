@@ -1,0 +1,6 @@
+Customer ID: 274
+Name: Brian Santos
+National ID: 323-96-9217
+Bank: Shah-Armstrong Bank
+Account Number: 3847803592
+Consent Status: Revoked

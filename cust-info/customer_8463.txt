@@ -1,0 +1,6 @@
+Customer ID: 8463
+Name: Lorraine Jackson
+National ID: 456-40-7798
+Bank: Williams-Johnson Bank
+Account Number: 5372275034
+Consent Status: Granted

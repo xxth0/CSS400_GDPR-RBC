@@ -1,0 +1,6 @@
+Customer ID: 6489
+Name: Michael Clark
+National ID: 416-10-4461
+Bank: Callahan-Mitchell Bank
+Account Number: 6425838371
+Consent Status: Revoked

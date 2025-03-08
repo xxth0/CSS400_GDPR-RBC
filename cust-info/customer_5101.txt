@@ -1,0 +1,6 @@
+Customer ID: 5101
+Name: Jerry Tyler
+National ID: 403-81-3769
+Bank: Phillips, Rodriguez and Watts Bank
+Account Number: 6866223564
+Consent Status: Granted

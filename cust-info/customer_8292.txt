@@ -1,0 +1,6 @@
+Customer ID: 8292
+Name: Scott Booth
+National ID: 258-84-0987
+Bank: Kim-Cooper Bank
+Account Number: 3540462635
+Consent Status: Revoked

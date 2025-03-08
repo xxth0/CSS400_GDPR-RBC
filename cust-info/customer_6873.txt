@@ -1,0 +1,6 @@
+Customer ID: 6873
+Name: Jeff Bentley
+National ID: 249-43-1516
+Bank: Wood, French and Mitchell Bank
+Account Number: 1937938700
+Consent Status: Granted

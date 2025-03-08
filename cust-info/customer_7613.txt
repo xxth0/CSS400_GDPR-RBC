@@ -1,0 +1,6 @@
+Customer ID: 7613
+Name: Daniel Larsen
+National ID: 691-22-4086
+Bank: Johnson, Kent and Gonzalez Bank
+Account Number: 7502562226
+Consent Status: Revoked

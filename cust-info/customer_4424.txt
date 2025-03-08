@@ -1,0 +1,6 @@
+Customer ID: 4424
+Name: Christine Brown
+National ID: 682-59-9579
+Bank: Barnett-Wilson Bank
+Account Number: 9051712763
+Consent Status: Granted

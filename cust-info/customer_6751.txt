@@ -1,0 +1,6 @@
+Customer ID: 6751
+Name: Gregory Ferguson
+National ID: 089-58-3149
+Bank: Morris-Chapman Bank
+Account Number: 5036929361
+Consent Status: Revoked

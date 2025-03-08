@@ -1,0 +1,6 @@
+Customer ID: 4340
+Name: Julie Hernandez
+National ID: 209-64-6389
+Bank: Moody Inc Bank
+Account Number: 2557028797
+Consent Status: Granted

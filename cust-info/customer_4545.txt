@@ -1,0 +1,6 @@
+Customer ID: 4545
+Name: Victoria Rivera
+National ID: 596-27-9973
+Bank: Wong, Kelley and Ayers Bank
+Account Number: 9802701902
+Consent Status: Revoked

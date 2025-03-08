@@ -1,0 +1,6 @@
+Customer ID: 4498
+Name: James Cook
+National ID: 036-74-8300
+Bank: Reeves, Lyons and Bond Bank
+Account Number: 1946483455
+Consent Status: Granted

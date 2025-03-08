@@ -1,0 +1,6 @@
+Customer ID: 651
+Name: Adam Gonzalez
+National ID: 778-72-4531
+Bank: Wallace and Sons Bank
+Account Number: 7361649669
+Consent Status: Granted

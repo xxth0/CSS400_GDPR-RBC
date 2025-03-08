@@ -1,0 +1,6 @@
+Customer ID: 526
+Name: Linda Blevins
+National ID: 319-96-8263
+Bank: Frazier Ltd Bank
+Account Number: 2533268294
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8945
+Name: Danielle Brown
+National ID: 231-86-5892
+Bank: Perez, Gray and Lewis Bank
+Account Number: 7345457358
+Consent Status: Granted

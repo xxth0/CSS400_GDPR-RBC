@@ -1,0 +1,6 @@
+Customer ID: 2906
+Name: Brandon Byrd
+National ID: 373-06-8775
+Bank: Escobar and Sons Bank
+Account Number: 5342786108
+Consent Status: Revoked

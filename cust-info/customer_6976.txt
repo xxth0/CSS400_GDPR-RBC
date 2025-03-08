@@ -1,0 +1,6 @@
+Customer ID: 6976
+Name: Robert Anderson
+National ID: 765-24-6006
+Bank: Le Ltd Bank
+Account Number: 5992469229
+Consent Status: Granted

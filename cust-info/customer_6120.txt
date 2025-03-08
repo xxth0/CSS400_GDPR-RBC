@@ -1,0 +1,6 @@
+Customer ID: 6120
+Name: Tiffany Harvey
+National ID: 746-96-8267
+Bank: Nelson, Adams and Brown Bank
+Account Number: 2636669168
+Consent Status: Revoked

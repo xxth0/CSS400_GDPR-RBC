@@ -1,0 +1,6 @@
+Customer ID: 1527
+Name: Ian White
+National ID: 496-38-4514
+Bank: Gonzalez-Molina Bank
+Account Number: 2433723319
+Consent Status: Revoked

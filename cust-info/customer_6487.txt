@@ -1,0 +1,6 @@
+Customer ID: 6487
+Name: Victor Price
+National ID: 334-41-3378
+Bank: Cisneros-Baker Bank
+Account Number: 3227491985
+Consent Status: Granted

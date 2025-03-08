@@ -1,0 +1,6 @@
+Customer ID: 4764
+Name: Steven Nichols
+National ID: 412-50-8333
+Bank: Cook, Reyes and Holloway Bank
+Account Number: 8564617731
+Consent Status: Granted

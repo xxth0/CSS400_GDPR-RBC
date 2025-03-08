@@ -1,0 +1,6 @@
+Customer ID: 787
+Name: Charles Nelson
+National ID: 058-13-4388
+Bank: Turner, Walsh and Gordon Bank
+Account Number: 4453902977
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8271
+Name: Kimberly Castillo
+National ID: 055-65-6117
+Bank: Montgomery, Flowers and Hernandez Bank
+Account Number: 4053418807
+Consent Status: Revoked

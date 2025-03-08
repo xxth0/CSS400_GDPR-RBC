@@ -1,0 +1,6 @@
+Customer ID: 470
+Name: Stefanie Gray
+National ID: 538-82-5849
+Bank: Barron, Taylor and Lee Bank
+Account Number: 6636297926
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 4272
+Name: Jeffrey Garcia
+National ID: 091-60-9666
+Bank: Walker LLC Bank
+Account Number: 8773074407
+Consent Status: Granted

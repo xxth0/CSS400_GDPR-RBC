@@ -1,0 +1,6 @@
+Customer ID: 3732
+Name: John Webb
+National ID: 439-47-8944
+Bank: Thomas Group Bank
+Account Number: 5436777739
+Consent Status: Granted

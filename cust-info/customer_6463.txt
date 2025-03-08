@@ -1,0 +1,6 @@
+Customer ID: 6463
+Name: Megan Reynolds
+National ID: 394-57-8824
+Bank: Schwartz Group Bank
+Account Number: 6606236514
+Consent Status: Revoked

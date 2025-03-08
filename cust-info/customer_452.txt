@@ -1,0 +1,6 @@
+Customer ID: 452
+Name: Michael Jackson
+National ID: 365-13-3696
+Bank: Sweeney and Sons Bank
+Account Number: 1882158564
+Consent Status: Revoked

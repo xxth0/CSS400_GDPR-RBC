@@ -1,0 +1,6 @@
+Customer ID: 1745
+Name: Ronald Peterson
+National ID: 786-83-9412
+Bank: Jones, Barber and Wolfe Bank
+Account Number: 2758592421
+Consent Status: Revoked

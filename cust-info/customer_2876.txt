@@ -1,0 +1,6 @@
+Customer ID: 2876
+Name: Sarah Delgado
+National ID: 853-01-6027
+Bank: Craig, Gutierrez and Morris Bank
+Account Number: 8645188984
+Consent Status: Granted

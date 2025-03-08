@@ -1,0 +1,6 @@
+Customer ID: 2975
+Name: Linda Bradley
+National ID: 723-38-5497
+Bank: Chandler PLC Bank
+Account Number: 3071036632
+Consent Status: Revoked

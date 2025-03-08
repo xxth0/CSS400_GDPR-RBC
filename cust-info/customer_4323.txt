@@ -1,0 +1,6 @@
+Customer ID: 4323
+Name: Catherine Hardy
+National ID: 728-88-5116
+Bank: Weber, Joseph and Meyer Bank
+Account Number: 3663450822
+Consent Status: Granted

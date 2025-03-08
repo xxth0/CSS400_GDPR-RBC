@@ -1,0 +1,6 @@
+Customer ID: 7256
+Name: Christina Frederick
+National ID: 593-92-6875
+Bank: Bright, Williams and Mahoney Bank
+Account Number: 4709116683
+Consent Status: Granted

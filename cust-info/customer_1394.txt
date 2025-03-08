@@ -1,0 +1,6 @@
+Customer ID: 1394
+Name: Maxwell Collier
+National ID: 616-24-7381
+Bank: Davis, Scott and Bell Bank
+Account Number: 7103207198
+Consent Status: Revoked

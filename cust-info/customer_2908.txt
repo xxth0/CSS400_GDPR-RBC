@@ -1,0 +1,6 @@
+Customer ID: 2908
+Name: Olivia Ruiz
+National ID: 802-04-6890
+Bank: Simmons-Dunn Bank
+Account Number: 5842856999
+Consent Status: Revoked

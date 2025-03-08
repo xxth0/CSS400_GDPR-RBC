@@ -1,0 +1,6 @@
+Customer ID: 4685
+Name: Christian Williams
+National ID: 261-19-5857
+Bank: Anderson-Johnson Bank
+Account Number: 4016986656
+Consent Status: Revoked

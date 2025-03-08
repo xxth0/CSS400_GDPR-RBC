@@ -1,0 +1,6 @@
+Customer ID: 4196
+Name: Mary Bridges
+National ID: 327-91-6123
+Bank: Gordon Group Bank
+Account Number: 1926920020
+Consent Status: Granted

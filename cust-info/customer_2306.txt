@@ -1,0 +1,6 @@
+Customer ID: 2306
+Name: Joel Perez
+National ID: 817-60-8929
+Bank: Lowe Group Bank
+Account Number: 1575917252
+Consent Status: Granted

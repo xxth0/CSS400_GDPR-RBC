@@ -1,0 +1,6 @@
+Customer ID: 6378
+Name: Jeremy Andrews
+National ID: 051-19-6081
+Bank: Soto Ltd Bank
+Account Number: 9696659458
+Consent Status: Revoked

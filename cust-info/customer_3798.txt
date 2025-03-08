@@ -1,0 +1,6 @@
+Customer ID: 3798
+Name: Timothy Reed
+National ID: 334-87-4047
+Bank: Baker-Wyatt Bank
+Account Number: 3901456074
+Consent Status: Granted

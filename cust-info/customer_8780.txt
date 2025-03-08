@@ -1,0 +1,6 @@
+Customer ID: 8780
+Name: Joshua Oconnor
+National ID: 652-30-5091
+Bank: Thomas and Sons Bank
+Account Number: 1945650815
+Consent Status: Granted

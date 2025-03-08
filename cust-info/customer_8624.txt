@@ -1,0 +1,6 @@
+Customer ID: 8624
+Name: Steven Kaufman
+National ID: 373-72-9820
+Bank: Hoffman, Wright and Miller Bank
+Account Number: 6410242098
+Consent Status: Revoked

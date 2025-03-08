@@ -1,0 +1,6 @@
+Customer ID: 3312
+Name: Marie Brady
+National ID: 372-14-1754
+Bank: Fisher-Wagner Bank
+Account Number: 6916521491
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6716
+Name: Donald Parks
+National ID: 614-42-7208
+Bank: Baldwin-Rhodes Bank
+Account Number: 1203699240
+Consent Status: Granted

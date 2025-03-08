@@ -1,0 +1,6 @@
+Customer ID: 7381
+Name: Tiffany Wade MD
+National ID: 341-64-5420
+Bank: Bryan Inc Bank
+Account Number: 3789159203
+Consent Status: Granted

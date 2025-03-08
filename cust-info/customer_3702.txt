@@ -1,0 +1,6 @@
+Customer ID: 3702
+Name: Steven Collins
+National ID: 113-47-6122
+Bank: Brown, Mason and Wilson Bank
+Account Number: 1163843748
+Consent Status: Granted

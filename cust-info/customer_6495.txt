@@ -1,0 +1,6 @@
+Customer ID: 6495
+Name: Brooke Alvarado
+National ID: 786-44-9963
+Bank: Boyd Group Bank
+Account Number: 5811323179
+Consent Status: Revoked

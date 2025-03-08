@@ -1,0 +1,6 @@
+Customer ID: 4496
+Name: Tara Rivera
+National ID: 349-64-7870
+Bank: White, Hernandez and Richards Bank
+Account Number: 1903433435
+Consent Status: Revoked

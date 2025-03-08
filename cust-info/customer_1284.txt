@@ -1,0 +1,6 @@
+Customer ID: 1284
+Name: Thomas White
+National ID: 230-76-6086
+Bank: Guerrero and Sons Bank
+Account Number: 9169295996
+Consent Status: Revoked

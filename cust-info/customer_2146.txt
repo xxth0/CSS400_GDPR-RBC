@@ -1,0 +1,6 @@
+Customer ID: 2146
+Name: Kara Bullock
+National ID: 700-59-6667
+Bank: Parker, Jackson and Garrison Bank
+Account Number: 8372118288
+Consent Status: Revoked

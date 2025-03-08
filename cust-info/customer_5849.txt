@@ -1,0 +1,6 @@
+Customer ID: 5849
+Name: Robert Butler
+National ID: 845-84-0207
+Bank: Hall-Martinez Bank
+Account Number: 8068770947
+Consent Status: Revoked

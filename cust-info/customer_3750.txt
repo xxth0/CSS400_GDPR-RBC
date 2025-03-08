@@ -1,0 +1,6 @@
+Customer ID: 3750
+Name: John Mullins
+National ID: 106-97-8306
+Bank: Young-Baird Bank
+Account Number: 5376030536
+Consent Status: Granted

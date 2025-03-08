@@ -1,0 +1,6 @@
+Customer ID: 9906
+Name: Christopher Martinez
+National ID: 517-63-3411
+Bank: Williams-Brown Bank
+Account Number: 9733988645
+Consent Status: Granted

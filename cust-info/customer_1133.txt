@@ -1,0 +1,6 @@
+Customer ID: 1133
+Name: Vicki Huff
+National ID: 397-17-6791
+Bank: Marshall, Salazar and Haynes Bank
+Account Number: 5659262111
+Consent Status: Granted

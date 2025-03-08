@@ -1,0 +1,6 @@
+Customer ID: 1273
+Name: Chad Lynch
+National ID: 736-10-3760
+Bank: Moore, Cole and Pratt Bank
+Account Number: 8191166305
+Consent Status: Granted

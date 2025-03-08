@@ -1,0 +1,6 @@
+Customer ID: 7539
+Name: Monica Brooks
+National ID: 205-25-1055
+Bank: Day Group Bank
+Account Number: 1295326160
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2497
+Name: Whitney Richardson
+National ID: 133-94-5239
+Bank: Carpenter Group Bank
+Account Number: 4249178506
+Consent Status: Granted

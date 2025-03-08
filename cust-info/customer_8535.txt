@@ -1,0 +1,6 @@
+Customer ID: 8535
+Name: Jordan Allen
+National ID: 131-71-4168
+Bank: Robinson-Silva Bank
+Account Number: 1561130571
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5374
+Name: Lori Stone
+National ID: 084-66-9856
+Bank: Odonnell, Smith and Burke Bank
+Account Number: 3367531917
+Consent Status: Revoked

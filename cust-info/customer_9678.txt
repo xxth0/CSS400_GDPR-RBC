@@ -1,0 +1,6 @@
+Customer ID: 9678
+Name: Tracy Cannon
+National ID: 250-45-9539
+Bank: Walker, Carter and Clarke Bank
+Account Number: 1496234536
+Consent Status: Granted

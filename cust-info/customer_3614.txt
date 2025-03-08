@@ -1,0 +1,6 @@
+Customer ID: 3614
+Name: Michael Byrd
+National ID: 044-65-1678
+Bank: Gomez LLC Bank
+Account Number: 3662143967
+Consent Status: Granted

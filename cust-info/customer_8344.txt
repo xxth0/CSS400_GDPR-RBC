@@ -1,0 +1,6 @@
+Customer ID: 8344
+Name: Anna Smith
+National ID: 220-71-2594
+Bank: Cain Inc Bank
+Account Number: 3491804716
+Consent Status: Granted

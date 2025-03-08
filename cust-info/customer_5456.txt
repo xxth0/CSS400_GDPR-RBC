@@ -1,0 +1,6 @@
+Customer ID: 5456
+Name: Kenneth Johnson
+National ID: 602-32-8551
+Bank: Valentine, Williams and Johnson Bank
+Account Number: 1327804563
+Consent Status: Revoked

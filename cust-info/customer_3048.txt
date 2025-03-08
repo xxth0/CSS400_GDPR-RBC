@@ -1,0 +1,6 @@
+Customer ID: 3048
+Name: Anita Malone
+National ID: 250-54-7346
+Bank: Holmes, Patel and Carpenter Bank
+Account Number: 8475804304
+Consent Status: Revoked

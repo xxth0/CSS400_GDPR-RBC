@@ -1,0 +1,6 @@
+Customer ID: 4611
+Name: Jeremiah Patterson
+National ID: 195-89-1467
+Bank: Torres LLC Bank
+Account Number: 1992469730
+Consent Status: Revoked

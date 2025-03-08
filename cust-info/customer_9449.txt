@@ -1,0 +1,6 @@
+Customer ID: 9449
+Name: Christopher Adams
+National ID: 552-61-4591
+Bank: Brown Inc Bank
+Account Number: 4227043321
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1249
+Name: Pamela Sexton
+National ID: 008-54-2897
+Bank: Douglas and Sons Bank
+Account Number: 8553437256
+Consent Status: Granted

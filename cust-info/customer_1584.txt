@@ -1,0 +1,6 @@
+Customer ID: 1584
+Name: Amanda Skinner
+National ID: 011-71-6812
+Bank: Meyer-Clarke Bank
+Account Number: 4109914781
+Consent Status: Granted

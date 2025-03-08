@@ -1,0 +1,6 @@
+Customer ID: 5831
+Name: Rita Perez
+National ID: 659-60-1693
+Bank: Ramirez-Shaw Bank
+Account Number: 2431544880
+Consent Status: Granted

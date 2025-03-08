@@ -1,0 +1,6 @@
+Customer ID: 5609
+Name: James Golden
+National ID: 066-79-5820
+Bank: Larson-Rodriguez Bank
+Account Number: 5686189792
+Consent Status: Granted

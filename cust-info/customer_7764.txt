@@ -1,0 +1,6 @@
+Customer ID: 7764
+Name: Lynn Phillips
+National ID: 848-82-0960
+Bank: Johnson-Gaines Bank
+Account Number: 3012438714
+Consent Status: Granted

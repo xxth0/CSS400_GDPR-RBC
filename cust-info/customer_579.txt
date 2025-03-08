@@ -1,0 +1,6 @@
+Customer ID: 579
+Name: Gloria Taylor
+National ID: 204-62-3535
+Bank: Weaver-Bryant Bank
+Account Number: 4455599246
+Consent Status: Revoked

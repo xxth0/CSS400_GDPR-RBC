@@ -1,0 +1,6 @@
+Customer ID: 6290
+Name: Lisa Maldonado
+National ID: 025-46-9630
+Bank: Henry Ltd Bank
+Account Number: 6086280872
+Consent Status: Revoked

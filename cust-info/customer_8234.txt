@@ -1,0 +1,6 @@
+Customer ID: 8234
+Name: Gina Lewis
+National ID: 791-22-9751
+Bank: Hill Ltd Bank
+Account Number: 1825576511
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 8094
+Name: Makayla Morrison
+National ID: 500-10-9522
+Bank: Olson-Anderson Bank
+Account Number: 9832447937
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7863
+Name: Caitlin Cook
+National ID: 340-56-2875
+Bank: Hughes-Mendez Bank
+Account Number: 4569591277
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 66
+Name: Johnny Robinson
+National ID: 617-76-6451
+Bank: Sandoval, Hernandez and Mccarthy Bank
+Account Number: 9197449850
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7976
+Name: Amanda Chambers
+National ID: 631-11-1901
+Bank: Henderson Ltd Bank
+Account Number: 1930822976
+Consent Status: Granted

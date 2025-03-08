@@ -1,0 +1,6 @@
+Customer ID: 3895
+Name: Adam Smith
+National ID: 065-29-8431
+Bank: Mcdonald-May Bank
+Account Number: 4235738334
+Consent Status: Revoked

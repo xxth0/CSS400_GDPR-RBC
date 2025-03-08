@@ -1,0 +1,6 @@
+Customer ID: 6776
+Name: Micheal Romero
+National ID: 590-14-3397
+Bank: Clark, Powell and Davis Bank
+Account Number: 2696807115
+Consent Status: Granted

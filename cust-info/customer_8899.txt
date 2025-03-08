@@ -1,0 +1,6 @@
+Customer ID: 8899
+Name: Steven Scott
+National ID: 168-35-0411
+Bank: Lopez Ltd Bank
+Account Number: 4690161965
+Consent Status: Revoked

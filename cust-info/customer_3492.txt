@@ -1,0 +1,6 @@
+Customer ID: 3492
+Name: Angela Douglas
+National ID: 011-63-6379
+Bank: Mitchell-Wright Bank
+Account Number: 1865593899
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5583
+Name: Joshua Ryan
+National ID: 118-17-1350
+Bank: Wilson LLC Bank
+Account Number: 5631846031
+Consent Status: Granted

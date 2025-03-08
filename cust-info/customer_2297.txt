@@ -1,0 +1,6 @@
+Customer ID: 2297
+Name: Brad Gardner
+National ID: 794-08-1614
+Bank: Copeland PLC Bank
+Account Number: 4787781350
+Consent Status: Granted

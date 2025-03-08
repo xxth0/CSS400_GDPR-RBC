@@ -1,0 +1,6 @@
+Customer ID: 3944
+Name: Jessica Coleman
+National ID: 645-99-9489
+Bank: Morris, Anderson and Lopez Bank
+Account Number: 5818497722
+Consent Status: Revoked

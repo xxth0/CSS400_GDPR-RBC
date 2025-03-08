@@ -1,0 +1,6 @@
+Customer ID: 9696
+Name: Danielle Lewis
+National ID: 778-34-9160
+Bank: Singh Inc Bank
+Account Number: 3472895127
+Consent Status: Granted

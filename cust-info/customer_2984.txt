@@ -1,0 +1,6 @@
+Customer ID: 2984
+Name: Mrs. Bridget Cortez MD
+National ID: 556-76-5194
+Bank: Ayala, Martin and Miller Bank
+Account Number: 9478008306
+Consent Status: Revoked

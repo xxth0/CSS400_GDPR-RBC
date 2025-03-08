@@ -1,0 +1,6 @@
+Customer ID: 7923
+Name: Karen Thompson
+National ID: 022-14-4304
+Bank: Alvarado Ltd Bank
+Account Number: 8514588562
+Consent Status: Revoked

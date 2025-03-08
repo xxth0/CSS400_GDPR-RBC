@@ -1,0 +1,6 @@
+Customer ID: 172
+Name: Samantha Ortiz
+National ID: 396-99-7798
+Bank: Whitney and Sons Bank
+Account Number: 4367442990
+Consent Status: Granted

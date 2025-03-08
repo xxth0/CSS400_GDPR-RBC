@@ -1,0 +1,6 @@
+Customer ID: 1108
+Name: James Chung
+National ID: 807-69-7206
+Bank: Ramirez-Johnson Bank
+Account Number: 7525565329
+Consent Status: Revoked

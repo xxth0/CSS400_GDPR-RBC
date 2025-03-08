@@ -1,0 +1,6 @@
+Customer ID: 3685
+Name: Jared Jones
+National ID: 303-88-6323
+Bank: Boyle, Lindsey and Douglas Bank
+Account Number: 8323689706
+Consent Status: Granted

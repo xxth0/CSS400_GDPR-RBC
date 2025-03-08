@@ -1,0 +1,6 @@
+Customer ID: 3651
+Name: Ronald Ortiz
+National ID: 322-37-2027
+Bank: Small, Sanders and Anderson Bank
+Account Number: 4100193042
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9423
+Name: Sherri Mccoy
+National ID: 623-21-3376
+Bank: Joseph Group Bank
+Account Number: 3968479731
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8802
+Name: Jonathan Ramos
+National ID: 662-40-1390
+Bank: Hale, Curry and Campbell Bank
+Account Number: 7287042919
+Consent Status: Revoked

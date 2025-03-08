@@ -1,0 +1,6 @@
+Customer ID: 5198
+Name: Lisa Williams
+National ID: 295-14-7251
+Bank: Lopez-Livingston Bank
+Account Number: 3905433563
+Consent Status: Revoked

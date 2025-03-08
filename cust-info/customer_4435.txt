@@ -1,0 +1,6 @@
+Customer ID: 4435
+Name: Robert Shepard
+National ID: 094-75-1308
+Bank: Smith, Kidd and Chambers Bank
+Account Number: 2153147294
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1012
+Name: Ryan Foster
+National ID: 169-66-9128
+Bank: Johnson, Smith and Baker Bank
+Account Number: 7995447068
+Consent Status: Granted

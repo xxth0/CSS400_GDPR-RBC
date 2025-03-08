@@ -1,0 +1,6 @@
+Customer ID: 1646
+Name: Kyle Tapia
+National ID: 822-08-7499
+Bank: Carter LLC Bank
+Account Number: 3408044967
+Consent Status: Revoked

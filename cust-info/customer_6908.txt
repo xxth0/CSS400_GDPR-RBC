@@ -1,0 +1,6 @@
+Customer ID: 6908
+Name: Nicole Mitchell
+National ID: 100-39-7413
+Bank: Smith-Mahoney Bank
+Account Number: 8151262415
+Consent Status: Granted

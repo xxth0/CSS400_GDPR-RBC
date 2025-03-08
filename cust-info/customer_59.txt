@@ -1,0 +1,6 @@
+Customer ID: 59
+Name: Brooke Campbell
+National ID: 002-13-1928
+Bank: Davis-Smith Bank
+Account Number: 5743590418
+Consent Status: Granted

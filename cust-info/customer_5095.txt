@@ -1,0 +1,6 @@
+Customer ID: 5095
+Name: Rhonda Gonzalez
+National ID: 205-75-4442
+Bank: Gardner-Hayes Bank
+Account Number: 6825211236
+Consent Status: Granted

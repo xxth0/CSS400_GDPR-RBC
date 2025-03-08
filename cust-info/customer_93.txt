@@ -1,0 +1,6 @@
+Customer ID: 93
+Name: Timothy Bailey
+National ID: 115-55-9138
+Bank: Farmer LLC Bank
+Account Number: 3401537612
+Consent Status: Revoked

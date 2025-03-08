@@ -1,0 +1,6 @@
+Customer ID: 1667
+Name: Kelsey Mitchell
+National ID: 893-32-0219
+Bank: Ortega, Hughes and Estes Bank
+Account Number: 8540020102
+Consent Status: Revoked

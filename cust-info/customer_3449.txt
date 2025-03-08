@@ -1,0 +1,6 @@
+Customer ID: 3449
+Name: Gina Holmes
+National ID: 109-63-3042
+Bank: Rodriguez, Combs and Martin Bank
+Account Number: 8070783143
+Consent Status: Granted

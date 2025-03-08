@@ -1,0 +1,6 @@
+Customer ID: 5794
+Name: Benjamin Cunningham
+National ID: 221-15-8891
+Bank: Garcia PLC Bank
+Account Number: 4818348680
+Consent Status: Granted

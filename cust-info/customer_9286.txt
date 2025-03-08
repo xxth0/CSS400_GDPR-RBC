@@ -1,0 +1,6 @@
+Customer ID: 9286
+Name: Shelby Barber
+National ID: 378-12-5935
+Bank: Smith Inc Bank
+Account Number: 3582701400
+Consent Status: Granted

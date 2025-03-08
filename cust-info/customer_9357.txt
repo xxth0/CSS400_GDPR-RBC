@@ -1,0 +1,6 @@
+Customer ID: 9357
+Name: Jimmy Wallace
+National ID: 247-51-6918
+Bank: Mitchell, Clark and Lowe Bank
+Account Number: 1227023136
+Consent Status: Granted

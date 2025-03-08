@@ -1,0 +1,6 @@
+Customer ID: 1379
+Name: Jeffrey Harmon
+National ID: 674-42-5815
+Bank: Wiggins-Mason Bank
+Account Number: 6917139060
+Consent Status: Revoked

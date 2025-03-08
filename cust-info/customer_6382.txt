@@ -1,0 +1,6 @@
+Customer ID: 6382
+Name: Nathan Williams
+National ID: 759-18-5771
+Bank: Burke Group Bank
+Account Number: 3828465381
+Consent Status: Granted

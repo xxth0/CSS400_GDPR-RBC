@@ -1,0 +1,6 @@
+Customer ID: 9195
+Name: Cameron Harmon
+National ID: 897-96-0329
+Bank: Charles-Daniels Bank
+Account Number: 6014682347
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4197
+Name: Billy King
+National ID: 314-40-7223
+Bank: Morris Group Bank
+Account Number: 9699335953
+Consent Status: Revoked

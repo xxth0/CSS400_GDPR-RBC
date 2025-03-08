@@ -1,0 +1,6 @@
+Customer ID: 5159
+Name: Rebecca Watson
+National ID: 630-12-9557
+Bank: Martin, Keller and Schmidt Bank
+Account Number: 6048942499
+Consent Status: Revoked

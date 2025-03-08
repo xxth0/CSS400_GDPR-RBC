@@ -1,0 +1,6 @@
+Customer ID: 5501
+Name: Travis Cantrell
+National ID: 051-54-2196
+Bank: Garner-Clark Bank
+Account Number: 2597204701
+Consent Status: Revoked

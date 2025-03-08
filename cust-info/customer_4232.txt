@@ -1,0 +1,6 @@
+Customer ID: 4232
+Name: Sarah Fox
+National ID: 008-99-9539
+Bank: Calderon, Neal and Pitts Bank
+Account Number: 3622061615
+Consent Status: Granted

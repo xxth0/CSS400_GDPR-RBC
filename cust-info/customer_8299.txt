@@ -1,0 +1,6 @@
+Customer ID: 8299
+Name: Michael Bass
+National ID: 068-90-9760
+Bank: Ramirez PLC Bank
+Account Number: 6642762175
+Consent Status: Granted

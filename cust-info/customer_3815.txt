@@ -1,0 +1,6 @@
+Customer ID: 3815
+Name: Kristen Potter
+National ID: 259-30-3318
+Bank: Elliott-Robertson Bank
+Account Number: 3920750426
+Consent Status: Granted

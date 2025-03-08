@@ -1,0 +1,6 @@
+Customer ID: 9320
+Name: Lindsey Smith
+National ID: 803-50-6571
+Bank: Esparza Inc Bank
+Account Number: 3647499494
+Consent Status: Revoked

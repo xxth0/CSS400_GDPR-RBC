@@ -1,0 +1,6 @@
+Customer ID: 4347
+Name: Robert Roth
+National ID: 692-30-7250
+Bank: Conner-Hart Bank
+Account Number: 2707148315
+Consent Status: Granted

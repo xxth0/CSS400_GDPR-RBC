@@ -1,0 +1,6 @@
+Customer ID: 6893
+Name: James Nguyen
+National ID: 538-03-5835
+Bank: Robertson Inc Bank
+Account Number: 4902911306
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9420
+Name: Daniel Ward
+National ID: 815-49-0140
+Bank: Meyer and Sons Bank
+Account Number: 7490549458
+Consent Status: Revoked

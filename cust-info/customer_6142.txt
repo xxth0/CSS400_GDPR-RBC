@@ -1,0 +1,6 @@
+Customer ID: 6142
+Name: Hannah Casey
+National ID: 572-52-0067
+Bank: Brown, Carter and Soto Bank
+Account Number: 8015181675
+Consent Status: Granted

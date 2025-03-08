@@ -1,0 +1,6 @@
+Customer ID: 3557
+Name: Karen Savage
+National ID: 839-21-9528
+Bank: Ruiz-Ryan Bank
+Account Number: 8469400662
+Consent Status: Revoked

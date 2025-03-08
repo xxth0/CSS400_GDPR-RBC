@@ -1,0 +1,6 @@
+Customer ID: 178
+Name: Brandon Wilkins
+National ID: 590-72-4384
+Bank: Moore Ltd Bank
+Account Number: 7287598607
+Consent Status: Revoked

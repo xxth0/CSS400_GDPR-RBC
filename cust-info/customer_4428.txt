@@ -1,0 +1,6 @@
+Customer ID: 4428
+Name: Michael Contreras
+National ID: 042-93-2384
+Bank: Perez PLC Bank
+Account Number: 4266685468
+Consent Status: Revoked

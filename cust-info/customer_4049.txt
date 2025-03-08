@@ -1,0 +1,6 @@
+Customer ID: 4049
+Name: Sharon Holmes
+National ID: 537-83-7223
+Bank: Edwards-Guzman Bank
+Account Number: 2689109975
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5058
+Name: Samantha Howell
+National ID: 220-71-0757
+Bank: Davis-Wells Bank
+Account Number: 2588011090
+Consent Status: Granted

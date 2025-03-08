@@ -1,0 +1,6 @@
+Customer ID: 2419
+Name: Justin Meadows
+National ID: 071-97-8950
+Bank: Rodgers, Mason and Hall Bank
+Account Number: 8637782598
+Consent Status: Granted

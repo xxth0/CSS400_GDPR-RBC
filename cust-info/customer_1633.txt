@@ -1,0 +1,6 @@
+Customer ID: 1633
+Name: Juan Perez
+National ID: 005-80-7444
+Bank: Velasquez LLC Bank
+Account Number: 5058652504
+Consent Status: Granted

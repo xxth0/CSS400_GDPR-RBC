@@ -1,0 +1,6 @@
+Customer ID: 6523
+Name: Joshua Montoya
+National ID: 750-30-4991
+Bank: Fleming, Torres and Colon Bank
+Account Number: 7182968651
+Consent Status: Revoked

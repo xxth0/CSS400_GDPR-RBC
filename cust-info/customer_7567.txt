@@ -1,0 +1,6 @@
+Customer ID: 7567
+Name: Ryan Shields
+National ID: 737-53-1832
+Bank: Gutierrez-Adams Bank
+Account Number: 4044575777
+Consent Status: Granted

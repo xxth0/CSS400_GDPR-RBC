@@ -1,0 +1,6 @@
+Customer ID: 597
+Name: Marco Reese
+National ID: 483-36-6983
+Bank: Myers, Thompson and Harris Bank
+Account Number: 3433989091
+Consent Status: Revoked

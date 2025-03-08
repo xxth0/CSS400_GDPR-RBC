@@ -1,0 +1,6 @@
+Customer ID: 5966
+Name: Brandy Ray
+National ID: 693-05-1025
+Bank: Jimenez-Goodwin Bank
+Account Number: 8140164691
+Consent Status: Granted

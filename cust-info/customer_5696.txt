@@ -1,0 +1,6 @@
+Customer ID: 5696
+Name: Cody Smith
+National ID: 580-29-2818
+Bank: Price Group Bank
+Account Number: 1218941720
+Consent Status: Granted

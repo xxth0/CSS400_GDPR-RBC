@@ -1,0 +1,6 @@
+Customer ID: 1353
+Name: William Taylor
+National ID: 387-50-6302
+Bank: James-Gilmore Bank
+Account Number: 8003807911
+Consent Status: Granted

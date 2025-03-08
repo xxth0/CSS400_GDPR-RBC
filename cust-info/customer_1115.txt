@@ -1,0 +1,6 @@
+Customer ID: 1115
+Name: Sarah Campos
+National ID: 691-64-8059
+Bank: Roberson-Nicholson Bank
+Account Number: 3024262144
+Consent Status: Granted

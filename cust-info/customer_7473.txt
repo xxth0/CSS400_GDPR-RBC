@@ -1,0 +1,6 @@
+Customer ID: 7473
+Name: Paula Taylor
+National ID: 196-79-9690
+Bank: Campbell and Sons Bank
+Account Number: 1034950811
+Consent Status: Revoked

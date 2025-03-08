@@ -1,0 +1,6 @@
+Customer ID: 4266
+Name: Sara Maddox
+National ID: 755-23-3682
+Bank: Rubio-Holden Bank
+Account Number: 2915814887
+Consent Status: Granted

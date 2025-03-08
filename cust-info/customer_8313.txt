@@ -1,0 +1,6 @@
+Customer ID: 8313
+Name: Manuel Jones
+National ID: 718-86-6016
+Bank: Mills-Campbell Bank
+Account Number: 5574108142
+Consent Status: Revoked

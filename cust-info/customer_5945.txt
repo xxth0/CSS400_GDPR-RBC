@@ -1,0 +1,6 @@
+Customer ID: 5945
+Name: Danielle Smith
+National ID: 172-32-6149
+Bank: Fuller-Wilson Bank
+Account Number: 4589027405
+Consent Status: Revoked

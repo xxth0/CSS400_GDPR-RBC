@@ -1,0 +1,6 @@
+Customer ID: 4957
+Name: Matthew Smith
+National ID: 675-05-9250
+Bank: Montgomery-Castro Bank
+Account Number: 7895195470
+Consent Status: Granted

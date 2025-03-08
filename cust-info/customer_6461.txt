@@ -1,0 +1,6 @@
+Customer ID: 6461
+Name: Joseph Caldwell
+National ID: 270-12-7275
+Bank: Sullivan-Brady Bank
+Account Number: 6977683094
+Consent Status: Granted

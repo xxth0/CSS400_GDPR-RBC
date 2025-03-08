@@ -1,0 +1,6 @@
+Customer ID: 2493
+Name: Alexander Drake
+National ID: 432-64-6501
+Bank: Williams-Richard Bank
+Account Number: 5294434315
+Consent Status: Granted

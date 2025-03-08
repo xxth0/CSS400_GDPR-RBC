@@ -1,0 +1,6 @@
+Customer ID: 8912
+Name: Alisha Rodriguez
+National ID: 225-39-9610
+Bank: Powell LLC Bank
+Account Number: 8533503007
+Consent Status: Revoked

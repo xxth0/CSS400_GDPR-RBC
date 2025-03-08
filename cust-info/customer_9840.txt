@@ -1,0 +1,6 @@
+Customer ID: 9840
+Name: Tammy Taylor
+National ID: 038-03-1099
+Bank: Ruiz, Stewart and Smith Bank
+Account Number: 9487785165
+Consent Status: Revoked

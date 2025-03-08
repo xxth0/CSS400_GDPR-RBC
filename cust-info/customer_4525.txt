@@ -1,0 +1,6 @@
+Customer ID: 4525
+Name: Rebecca Smith
+National ID: 641-19-4106
+Bank: Martin-Fowler Bank
+Account Number: 9934118548
+Consent Status: Revoked

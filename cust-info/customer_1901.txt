@@ -1,0 +1,6 @@
+Customer ID: 1901
+Name: Ricardo Simpson
+National ID: 726-94-4961
+Bank: Williams, Glenn and Nelson Bank
+Account Number: 7110951887
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5389
+Name: Randy Bailey
+National ID: 024-82-5830
+Bank: Hawkins-Hernandez Bank
+Account Number: 7796720297
+Consent Status: Granted

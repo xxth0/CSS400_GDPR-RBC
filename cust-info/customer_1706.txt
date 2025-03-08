@@ -1,0 +1,6 @@
+Customer ID: 1706
+Name: James Gregory
+National ID: 777-78-4866
+Bank: Lynch Ltd Bank
+Account Number: 3743786659
+Consent Status: Granted

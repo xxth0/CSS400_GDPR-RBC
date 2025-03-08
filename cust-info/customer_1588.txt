@@ -1,0 +1,6 @@
+Customer ID: 1588
+Name: Lindsey Jones
+National ID: 756-47-6190
+Bank: Campbell-Sampson Bank
+Account Number: 4953149109
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6731
+Name: Lisa Rivera
+National ID: 489-08-3747
+Bank: James-Davis Bank
+Account Number: 2673321858
+Consent Status: Granted

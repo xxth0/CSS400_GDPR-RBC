@@ -1,0 +1,6 @@
+Customer ID: 4744
+Name: Jesse Smith
+National ID: 265-53-0892
+Bank: Page, Gonzalez and Mills Bank
+Account Number: 7904515790
+Consent Status: Granted

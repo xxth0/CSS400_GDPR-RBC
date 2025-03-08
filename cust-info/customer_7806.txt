@@ -1,0 +1,6 @@
+Customer ID: 7806
+Name: Michelle Thompson
+National ID: 073-50-7494
+Bank: Reed-Brown Bank
+Account Number: 9656748765
+Consent Status: Revoked

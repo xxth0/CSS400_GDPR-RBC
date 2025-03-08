@@ -1,0 +1,6 @@
+Customer ID: 3298
+Name: Timothy Fitzgerald
+National ID: 568-18-6709
+Bank: Reed, Swanson and Caldwell Bank
+Account Number: 3149134832
+Consent Status: Revoked

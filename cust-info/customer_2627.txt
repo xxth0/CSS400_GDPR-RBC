@@ -1,0 +1,6 @@
+Customer ID: 2627
+Name: Amanda Alexander
+National ID: 424-57-1083
+Bank: Lawrence-Fields Bank
+Account Number: 8553645837
+Consent Status: Revoked

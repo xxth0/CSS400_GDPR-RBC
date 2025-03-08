@@ -1,0 +1,6 @@
+Customer ID: 649
+Name: Bradley Rojas
+National ID: 570-67-9817
+Bank: Ballard, Kidd and Griffin Bank
+Account Number: 6155873094
+Consent Status: Granted

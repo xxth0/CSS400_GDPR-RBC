@@ -1,0 +1,6 @@
+Customer ID: 6890
+Name: George Lewis
+National ID: 415-06-2507
+Bank: Moore, Williams and Hill Bank
+Account Number: 7566059539
+Consent Status: Granted

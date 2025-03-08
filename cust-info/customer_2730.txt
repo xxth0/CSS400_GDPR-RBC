@@ -1,0 +1,6 @@
+Customer ID: 2730
+Name: Denise Jackson
+National ID: 522-93-6885
+Bank: Gonzalez, Reid and Mason Bank
+Account Number: 5504842063
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 981
+Name: Ashley Schmitt
+National ID: 161-58-8015
+Bank: Yu Ltd Bank
+Account Number: 4409466136
+Consent Status: Revoked

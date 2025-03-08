@@ -1,0 +1,6 @@
+Customer ID: 6603
+Name: James Rivera
+National ID: 125-64-7868
+Bank: Rocha Ltd Bank
+Account Number: 2224048843
+Consent Status: Granted

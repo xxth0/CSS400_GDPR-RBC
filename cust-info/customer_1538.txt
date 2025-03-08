@@ -1,0 +1,6 @@
+Customer ID: 1538
+Name: Julian Mcdonald DDS
+National ID: 561-07-4305
+Bank: Mcneil Group Bank
+Account Number: 6662314247
+Consent Status: Revoked

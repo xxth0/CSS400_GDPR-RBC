@@ -1,0 +1,6 @@
+Customer ID: 5218
+Name: Christopher Petty
+National ID: 029-49-2463
+Bank: Anderson and Sons Bank
+Account Number: 3133303806
+Consent Status: Granted

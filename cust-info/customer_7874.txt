@@ -1,0 +1,6 @@
+Customer ID: 7874
+Name: Michael Barnes
+National ID: 772-80-2118
+Bank: Reilly PLC Bank
+Account Number: 8805278376
+Consent Status: Revoked

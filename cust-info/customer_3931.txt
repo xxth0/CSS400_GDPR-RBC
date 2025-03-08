@@ -1,0 +1,6 @@
+Customer ID: 3931
+Name: Zachary Gibson
+National ID: 440-35-5472
+Bank: Thomas, Cruz and Cruz Bank
+Account Number: 6352246563
+Consent Status: Revoked

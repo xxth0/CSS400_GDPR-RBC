@@ -1,0 +1,6 @@
+Customer ID: 8637
+Name: Katie Miller
+National ID: 772-71-6357
+Bank: Kelly-Nunez Bank
+Account Number: 9178003447
+Consent Status: Granted

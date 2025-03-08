@@ -1,0 +1,6 @@
+Customer ID: 2242
+Name: Christopher Summers
+National ID: 550-81-4404
+Bank: Schultz PLC Bank
+Account Number: 2018698970
+Consent Status: Granted

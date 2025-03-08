@@ -1,0 +1,6 @@
+Customer ID: 2106
+Name: Bryan Parker
+National ID: 439-33-3320
+Bank: Adams, Cole and Lee Bank
+Account Number: 3785453957
+Consent Status: Revoked

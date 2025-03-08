@@ -1,0 +1,6 @@
+Customer ID: 7617
+Name: Christopher Russell
+National ID: 757-51-3325
+Bank: Beasley-Randall Bank
+Account Number: 5508579060
+Consent Status: Revoked

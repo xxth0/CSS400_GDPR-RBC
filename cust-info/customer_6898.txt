@@ -1,0 +1,6 @@
+Customer ID: 6898
+Name: Jesse Morris
+National ID: 154-08-3104
+Bank: Blake, Perez and Doyle Bank
+Account Number: 9669684151
+Consent Status: Revoked

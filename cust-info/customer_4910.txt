@@ -1,0 +1,6 @@
+Customer ID: 4910
+Name: Samuel Hines
+National ID: 627-97-5676
+Bank: Martin Ltd Bank
+Account Number: 2541235039
+Consent Status: Granted

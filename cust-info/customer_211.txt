@@ -1,0 +1,6 @@
+Customer ID: 211
+Name: John Stewart
+National ID: 566-56-1882
+Bank: Rich LLC Bank
+Account Number: 8710969917
+Consent Status: Granted

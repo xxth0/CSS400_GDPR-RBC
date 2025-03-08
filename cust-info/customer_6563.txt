@@ -1,0 +1,6 @@
+Customer ID: 6563
+Name: Matthew Lopez
+National ID: 696-13-0576
+Bank: Moreno-Merritt Bank
+Account Number: 4241796518
+Consent Status: Revoked

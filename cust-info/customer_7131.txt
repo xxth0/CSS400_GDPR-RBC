@@ -1,0 +1,6 @@
+Customer ID: 7131
+Name: Paul Cooper
+National ID: 402-33-5296
+Bank: Kaiser-Edwards Bank
+Account Number: 6571382594
+Consent Status: Revoked

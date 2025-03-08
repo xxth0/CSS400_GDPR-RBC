@@ -1,0 +1,6 @@
+Customer ID: 4060
+Name: Anthony Rice
+National ID: 144-30-1925
+Bank: Moore-Gaines Bank
+Account Number: 3297763883
+Consent Status: Revoked

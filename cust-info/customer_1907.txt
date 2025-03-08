@@ -1,0 +1,6 @@
+Customer ID: 1907
+Name: Mary Bell
+National ID: 377-51-2789
+Bank: Khan-Wright Bank
+Account Number: 7122209899
+Consent Status: Revoked

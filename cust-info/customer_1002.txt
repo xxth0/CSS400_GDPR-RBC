@@ -1,0 +1,6 @@
+Customer ID: 1002
+Name: John Peterson
+National ID: 013-85-1963
+Bank: Dean Inc Bank
+Account Number: 8184020688
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7659
+Name: Chelsea Munoz
+National ID: 491-49-0750
+Bank: Lewis-Brown Bank
+Account Number: 7841874313
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7499
+Name: Alexis Valdez
+National ID: 794-10-4267
+Bank: Cook-Nguyen Bank
+Account Number: 8140006381
+Consent Status: Revoked

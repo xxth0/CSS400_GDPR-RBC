@@ -1,0 +1,6 @@
+Customer ID: 8819
+Name: Yvette Jones
+National ID: 826-45-8361
+Bank: Delgado, Smith and Brennan Bank
+Account Number: 9912377637
+Consent Status: Revoked

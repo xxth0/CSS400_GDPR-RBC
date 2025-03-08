@@ -1,0 +1,6 @@
+Customer ID: 4653
+Name: Betty Martin
+National ID: 778-89-3438
+Bank: Green-Medina Bank
+Account Number: 9398660941
+Consent Status: Revoked

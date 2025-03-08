@@ -1,0 +1,6 @@
+Customer ID: 1719
+Name: Timothy Moses
+National ID: 208-20-6977
+Bank: Howard-Singleton Bank
+Account Number: 7509566206
+Consent Status: Revoked

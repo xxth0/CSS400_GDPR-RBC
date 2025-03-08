@@ -1,0 +1,6 @@
+Customer ID: 5603
+Name: Barbara Jones
+National ID: 874-93-8384
+Bank: Brown, Peters and Haas Bank
+Account Number: 1727500076
+Consent Status: Revoked

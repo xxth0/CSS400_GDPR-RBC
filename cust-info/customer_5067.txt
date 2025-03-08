@@ -1,0 +1,6 @@
+Customer ID: 5067
+Name: Kim Jones
+National ID: 739-27-4288
+Bank: Snyder and Sons Bank
+Account Number: 6815359268
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5832
+Name: Brandi Reid
+National ID: 117-86-3760
+Bank: Ortiz and Sons Bank
+Account Number: 5606401549
+Consent Status: Revoked

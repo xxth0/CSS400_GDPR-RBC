@@ -1,0 +1,6 @@
+Customer ID: 8952
+Name: Jeffrey Valdez
+National ID: 451-25-3182
+Bank: Howell-Morales Bank
+Account Number: 5997822766
+Consent Status: Revoked

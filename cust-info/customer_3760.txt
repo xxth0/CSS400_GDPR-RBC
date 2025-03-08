@@ -1,0 +1,6 @@
+Customer ID: 3760
+Name: Kelly Mclean
+National ID: 278-85-6714
+Bank: Davis-Owens Bank
+Account Number: 8133340301
+Consent Status: Revoked

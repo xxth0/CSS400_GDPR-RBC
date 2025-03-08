@@ -1,0 +1,6 @@
+Customer ID: 5646
+Name: Yolanda Brown
+National ID: 523-92-1049
+Bank: Duke LLC Bank
+Account Number: 5415418475
+Consent Status: Revoked

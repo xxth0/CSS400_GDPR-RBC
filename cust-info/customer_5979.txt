@@ -1,0 +1,6 @@
+Customer ID: 5979
+Name: Dr. Sherry Mccall
+National ID: 546-66-3794
+Bank: Myers, Serrano and Buckley Bank
+Account Number: 5151985075
+Consent Status: Revoked

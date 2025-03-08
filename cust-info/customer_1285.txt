@@ -1,0 +1,6 @@
+Customer ID: 1285
+Name: Stephanie Walker
+National ID: 483-56-5845
+Bank: Lopez, Murphy and Johnson Bank
+Account Number: 2023489727
+Consent Status: Granted

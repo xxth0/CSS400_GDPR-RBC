@@ -1,0 +1,6 @@
+Customer ID: 5245
+Name: Ashley Morgan
+National ID: 195-52-7897
+Bank: Bender Inc Bank
+Account Number: 3629452876
+Consent Status: Granted

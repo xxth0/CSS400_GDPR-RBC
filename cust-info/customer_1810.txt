@@ -1,0 +1,6 @@
+Customer ID: 1810
+Name: Mr. Luke King
+National ID: 019-01-6010
+Bank: Reyes-Davila Bank
+Account Number: 8242684919
+Consent Status: Revoked

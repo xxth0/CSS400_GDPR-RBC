@@ -1,0 +1,6 @@
+Customer ID: 4256
+Name: Beth Tanner
+National ID: 683-54-3412
+Bank: Paul Inc Bank
+Account Number: 3151465350
+Consent Status: Revoked

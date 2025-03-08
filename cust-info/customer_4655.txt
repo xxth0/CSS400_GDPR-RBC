@@ -1,0 +1,6 @@
+Customer ID: 4655
+Name: Charles Murphy
+National ID: 646-30-0218
+Bank: Taylor-Murray Bank
+Account Number: 3000962590
+Consent Status: Granted

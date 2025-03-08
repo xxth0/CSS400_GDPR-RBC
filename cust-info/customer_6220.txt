@@ -1,0 +1,6 @@
+Customer ID: 6220
+Name: Steven Ortiz
+National ID: 156-71-9344
+Bank: Turner and Sons Bank
+Account Number: 7901596421
+Consent Status: Granted

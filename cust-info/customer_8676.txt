@@ -1,0 +1,6 @@
+Customer ID: 8676
+Name: John Simpson
+National ID: 008-04-8464
+Bank: Mcclure, Dougherty and Rogers Bank
+Account Number: 5005927178
+Consent Status: Granted

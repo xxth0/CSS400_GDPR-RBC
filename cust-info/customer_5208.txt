@@ -1,0 +1,6 @@
+Customer ID: 5208
+Name: Noah Johnson
+National ID: 876-56-6847
+Bank: Dominguez, Flores and Mueller Bank
+Account Number: 2642859693
+Consent Status: Granted

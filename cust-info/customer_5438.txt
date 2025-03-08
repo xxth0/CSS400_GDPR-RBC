@@ -1,0 +1,6 @@
+Customer ID: 5438
+Name: Brittany Armstrong
+National ID: 297-36-6579
+Bank: Thompson, Arnold and Wallace Bank
+Account Number: 4149455784
+Consent Status: Granted

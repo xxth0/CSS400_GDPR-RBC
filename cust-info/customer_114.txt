@@ -1,0 +1,6 @@
+Customer ID: 114
+Name: John Johnson
+National ID: 167-43-7632
+Bank: Alvarez Inc Bank
+Account Number: 5954174901
+Consent Status: Granted

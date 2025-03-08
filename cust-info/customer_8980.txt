@@ -1,0 +1,6 @@
+Customer ID: 8980
+Name: Joshua Mason
+National ID: 132-92-8615
+Bank: Mclaughlin, Stanley and Jenkins Bank
+Account Number: 3413629780
+Consent Status: Revoked

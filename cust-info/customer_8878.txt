@@ -1,0 +1,6 @@
+Customer ID: 8878
+Name: Michelle Martin
+National ID: 374-62-3476
+Bank: Anderson PLC Bank
+Account Number: 3576372368
+Consent Status: Revoked

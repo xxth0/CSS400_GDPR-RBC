@@ -1,0 +1,6 @@
+Customer ID: 356
+Name: Brian Thomas
+National ID: 484-59-1509
+Bank: Wyatt Inc Bank
+Account Number: 5173794798
+Consent Status: Granted

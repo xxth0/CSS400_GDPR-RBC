@@ -1,0 +1,6 @@
+Customer ID: 714
+Name: Joseph Young
+National ID: 292-75-0461
+Bank: Fitzpatrick LLC Bank
+Account Number: 9744617094
+Consent Status: Revoked

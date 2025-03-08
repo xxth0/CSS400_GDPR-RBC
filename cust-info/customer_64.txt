@@ -1,0 +1,6 @@
+Customer ID: 64
+Name: Aaron Park
+National ID: 157-84-1628
+Bank: Payne-Evans Bank
+Account Number: 3307587828
+Consent Status: Revoked

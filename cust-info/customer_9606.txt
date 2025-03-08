@@ -1,0 +1,6 @@
+Customer ID: 9606
+Name: James Collier
+National ID: 251-15-6079
+Bank: Buck, Conner and Guerrero Bank
+Account Number: 2127553160
+Consent Status: Revoked

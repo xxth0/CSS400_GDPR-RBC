@@ -1,0 +1,6 @@
+Customer ID: 5623
+Name: Dylan Ibarra
+National ID: 370-96-3231
+Bank: Smith, Contreras and Romero Bank
+Account Number: 7072454957
+Consent Status: Revoked

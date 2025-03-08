@@ -1,0 +1,6 @@
+Customer ID: 583
+Name: Stephanie Young
+National ID: 677-34-1039
+Bank: Swanson PLC Bank
+Account Number: 5470836029
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7690
+Name: Matthew Bailey
+National ID: 794-22-8570
+Bank: Ayala-Johnson Bank
+Account Number: 9849999161
+Consent Status: Revoked

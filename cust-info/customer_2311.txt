@@ -1,0 +1,6 @@
+Customer ID: 2311
+Name: Brian Chang
+National ID: 371-50-7571
+Bank: Foley-Stein Bank
+Account Number: 5343056433
+Consent Status: Granted

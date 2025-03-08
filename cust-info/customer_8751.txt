@@ -1,0 +1,6 @@
+Customer ID: 8751
+Name: Elizabeth Vincent
+National ID: 352-67-0866
+Bank: Brown-Dunn Bank
+Account Number: 3192804716
+Consent Status: Revoked

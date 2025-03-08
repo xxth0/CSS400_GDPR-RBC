@@ -1,0 +1,6 @@
+Customer ID: 7683
+Name: Justin Perry
+National ID: 113-62-9908
+Bank: Arnold Inc Bank
+Account Number: 8275763299
+Consent Status: Revoked

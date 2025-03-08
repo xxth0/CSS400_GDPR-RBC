@@ -1,0 +1,6 @@
+Customer ID: 9883
+Name: Jordan Douglas
+National ID: 727-17-8462
+Bank: Robertson-Carrillo Bank
+Account Number: 3905456760
+Consent Status: Granted

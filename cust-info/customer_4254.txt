@@ -1,0 +1,6 @@
+Customer ID: 4254
+Name: Philip Rich
+National ID: 505-51-3103
+Bank: Kelley-Mcconnell Bank
+Account Number: 8579712647
+Consent Status: Granted

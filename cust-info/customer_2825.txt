@@ -1,0 +1,6 @@
+Customer ID: 2825
+Name: Donald Johnson
+National ID: 430-46-3054
+Bank: Peters-Murray Bank
+Account Number: 9734043459
+Consent Status: Revoked

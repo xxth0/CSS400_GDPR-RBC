@@ -1,0 +1,6 @@
+Customer ID: 2478
+Name: Ashlee Johnson
+National ID: 280-84-2500
+Bank: Barker-Meza Bank
+Account Number: 3390416959
+Consent Status: Granted

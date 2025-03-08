@@ -1,0 +1,6 @@
+Customer ID: 5093
+Name: Alejandro Ross
+National ID: 577-07-6540
+Bank: Ramsey PLC Bank
+Account Number: 8278265637
+Consent Status: Revoked

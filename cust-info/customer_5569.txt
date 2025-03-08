@@ -1,0 +1,6 @@
+Customer ID: 5569
+Name: Sarah Chan
+National ID: 892-24-5458
+Bank: Davis-Davis Bank
+Account Number: 6575390133
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7102
+Name: Melanie Ibarra
+National ID: 560-35-0279
+Bank: Jones-Gill Bank
+Account Number: 5644029078
+Consent Status: Granted

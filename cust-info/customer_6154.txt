@@ -1,0 +1,6 @@
+Customer ID: 6154
+Name: Brent Manning
+National ID: 546-39-0239
+Bank: Hoffman PLC Bank
+Account Number: 6466862541
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3412
+Name: James Baker
+National ID: 510-92-5674
+Bank: Briggs LLC Bank
+Account Number: 5864773090
+Consent Status: Revoked

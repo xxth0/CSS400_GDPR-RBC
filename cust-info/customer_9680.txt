@@ -1,0 +1,6 @@
+Customer ID: 9680
+Name: John Miller
+National ID: 674-90-2757
+Bank: Evans, Dennis and Williams Bank
+Account Number: 7079388465
+Consent Status: Granted

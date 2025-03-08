@@ -1,0 +1,6 @@
+Customer ID: 1270
+Name: Brandon Singh
+National ID: 053-30-6484
+Bank: Rivera, Peters and Salas Bank
+Account Number: 1150947577
+Consent Status: Revoked

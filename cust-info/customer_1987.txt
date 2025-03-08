@@ -1,0 +1,6 @@
+Customer ID: 1987
+Name: David James
+National ID: 190-48-8054
+Bank: Marshall Ltd Bank
+Account Number: 2875266129
+Consent Status: Granted

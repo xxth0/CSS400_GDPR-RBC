@@ -1,0 +1,6 @@
+Customer ID: 5656
+Name: Timothy Douglas
+National ID: 519-87-2647
+Bank: Ballard LLC Bank
+Account Number: 5970981026
+Consent Status: Granted

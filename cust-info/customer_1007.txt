@@ -1,0 +1,6 @@
+Customer ID: 1007
+Name: Kristin Schmidt
+National ID: 126-35-7823
+Bank: Chambers and Sons Bank
+Account Number: 8956165981
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9946
+Name: Kimberly Hogan
+National ID: 416-43-2563
+Bank: Kelly-Mora Bank
+Account Number: 2036219132
+Consent Status: Revoked

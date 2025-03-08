@@ -1,0 +1,6 @@
+Customer ID: 8950
+Name: Gary Jones
+National ID: 331-63-5467
+Bank: Webster-Reed Bank
+Account Number: 8781482975
+Consent Status: Granted

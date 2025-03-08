@@ -1,0 +1,6 @@
+Customer ID: 4845
+Name: Daniel Mcdowell
+National ID: 748-57-8096
+Bank: Montgomery, Lawson and Brewer Bank
+Account Number: 9255371768
+Consent Status: Granted

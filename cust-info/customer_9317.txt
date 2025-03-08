@@ -1,0 +1,6 @@
+Customer ID: 9317
+Name: Jennifer Bowen
+National ID: 598-75-2416
+Bank: Smith, Diaz and Anderson Bank
+Account Number: 3627377840
+Consent Status: Granted

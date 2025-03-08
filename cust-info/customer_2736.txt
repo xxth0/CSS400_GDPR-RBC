@@ -1,0 +1,6 @@
+Customer ID: 2736
+Name: Robert Cross
+National ID: 868-75-8145
+Bank: Ruiz, Guzman and Franklin Bank
+Account Number: 4941150721
+Consent Status: Granted

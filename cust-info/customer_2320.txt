@@ -1,0 +1,6 @@
+Customer ID: 2320
+Name: Kathryn Duncan
+National ID: 668-17-4703
+Bank: Wilson PLC Bank
+Account Number: 1148452646
+Consent Status: Granted

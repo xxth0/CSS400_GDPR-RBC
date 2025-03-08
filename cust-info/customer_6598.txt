@@ -1,0 +1,6 @@
+Customer ID: 6598
+Name: Angela Fernandez
+National ID: 136-76-7629
+Bank: Clark Inc Bank
+Account Number: 4725076676
+Consent Status: Granted

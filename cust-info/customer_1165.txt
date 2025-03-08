@@ -1,0 +1,6 @@
+Customer ID: 1165
+Name: Lauren Lozano
+National ID: 667-94-2917
+Bank: Wright, Pace and Cox Bank
+Account Number: 8552419787
+Consent Status: Granted

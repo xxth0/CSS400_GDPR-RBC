@@ -1,0 +1,6 @@
+Customer ID: 6806
+Name: Cory Donovan
+National ID: 519-50-7730
+Bank: Bryant, Pennington and Taylor Bank
+Account Number: 2226915840
+Consent Status: Revoked

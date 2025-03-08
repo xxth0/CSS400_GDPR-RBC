@@ -1,0 +1,6 @@
+Customer ID: 7124
+Name: Michael Gray
+National ID: 555-33-0550
+Bank: Gonzalez and Sons Bank
+Account Number: 4732188679
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 487
+Name: Tiffany Jones
+National ID: 842-27-8534
+Bank: Gonzalez Ltd Bank
+Account Number: 2280661085
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4907
+Name: Alexander Logan
+National ID: 250-59-8537
+Bank: Brown and Sons Bank
+Account Number: 2078133617
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7729
+Name: Allison King
+National ID: 116-05-1895
+Bank: Sanchez Ltd Bank
+Account Number: 3454710016
+Consent Status: Granted

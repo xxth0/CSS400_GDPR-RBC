@@ -1,0 +1,6 @@
+Customer ID: 8405
+Name: Corey Soto
+National ID: 116-01-9448
+Bank: Barrett, Brown and Ortiz Bank
+Account Number: 7970643944
+Consent Status: Granted

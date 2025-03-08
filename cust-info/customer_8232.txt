@@ -1,0 +1,6 @@
+Customer ID: 8232
+Name: Jeffrey Cordova
+National ID: 834-18-6869
+Bank: Wright Group Bank
+Account Number: 6112474848
+Consent Status: Granted

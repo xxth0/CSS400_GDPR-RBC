@@ -1,0 +1,6 @@
+Customer ID: 15
+Name: Aaron Simpson
+National ID: 680-17-1779
+Bank: Hernandez, Carter and Johnson Bank
+Account Number: 4472664462
+Consent Status: Granted

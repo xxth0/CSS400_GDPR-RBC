@@ -1,0 +1,6 @@
+Customer ID: 6713
+Name: Brooke Castillo
+National ID: 016-91-9918
+Bank: Hatfield PLC Bank
+Account Number: 1624638443
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9506
+Name: Francisco Farrell
+National ID: 395-77-5324
+Bank: Mann-Hernandez Bank
+Account Number: 8990277167
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9495
+Name: Leslie Green
+National ID: 624-06-0411
+Bank: Schultz-Wise Bank
+Account Number: 2067197831
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 2046
+Name: Jennifer Owens
+National ID: 874-22-3007
+Bank: Wolf PLC Bank
+Account Number: 2072127613
+Consent Status: Revoked

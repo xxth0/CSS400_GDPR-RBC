@@ -1,0 +1,6 @@
+Customer ID: 16
+Name: Joseph Peck PhD
+National ID: 510-07-3895
+Bank: Garcia-Stanley Bank
+Account Number: 3684323126
+Consent Status: Granted

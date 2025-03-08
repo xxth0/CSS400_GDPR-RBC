@@ -1,0 +1,6 @@
+Customer ID: 311
+Name: Brett Morris
+National ID: 435-17-3846
+Bank: Hayes-Medina Bank
+Account Number: 9264122034
+Consent Status: Revoked

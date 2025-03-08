@@ -1,0 +1,6 @@
+Customer ID: 6746
+Name: Troy Carter
+National ID: 123-81-7526
+Bank: Jackson LLC Bank
+Account Number: 8044957338
+Consent Status: Revoked

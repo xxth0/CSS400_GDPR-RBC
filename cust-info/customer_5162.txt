@@ -1,0 +1,6 @@
+Customer ID: 5162
+Name: Michelle Ortega
+National ID: 062-58-2311
+Bank: Thomas LLC Bank
+Account Number: 4197546491
+Consent Status: Revoked

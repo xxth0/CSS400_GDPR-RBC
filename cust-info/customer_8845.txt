@@ -1,0 +1,6 @@
+Customer ID: 8845
+Name: Joshua Smith
+National ID: 042-79-9075
+Bank: Hansen, Richardson and Miller Bank
+Account Number: 3504874655
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3094
+Name: Andrew Smith
+National ID: 380-21-7999
+Bank: Ortiz and Sons Bank
+Account Number: 9534950652
+Consent Status: Granted

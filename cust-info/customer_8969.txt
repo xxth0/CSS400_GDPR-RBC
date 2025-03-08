@@ -1,0 +1,6 @@
+Customer ID: 8969
+Name: Jessica West
+National ID: 477-67-8108
+Bank: Smith, Stone and Grant Bank
+Account Number: 3842653758
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3721
+Name: James Wood
+National ID: 615-63-7481
+Bank: Rodriguez, Sutton and Levy Bank
+Account Number: 5310587361
+Consent Status: Granted

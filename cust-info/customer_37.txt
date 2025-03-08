@@ -1,0 +1,6 @@
+Customer ID: 37
+Name: Sara George
+National ID: 024-34-8366
+Bank: Salazar-Compton Bank
+Account Number: 6962632016
+Consent Status: Revoked

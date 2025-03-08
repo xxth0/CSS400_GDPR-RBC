@@ -1,0 +1,6 @@
+Customer ID: 6160
+Name: Zachary Le
+National ID: 843-92-5465
+Bank: Baxter-Williamson Bank
+Account Number: 8051986786
+Consent Status: Revoked

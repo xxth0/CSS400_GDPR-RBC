@@ -1,0 +1,6 @@
+Customer ID: 3219
+Name: Michelle Solis
+National ID: 267-26-4041
+Bank: Fox, Colon and Martinez Bank
+Account Number: 8524768369
+Consent Status: Revoked

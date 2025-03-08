@@ -1,0 +1,6 @@
+Customer ID: 5105
+Name: Elizabeth Cardenas
+National ID: 415-44-6846
+Bank: Stanley Inc Bank
+Account Number: 5106998533
+Consent Status: Revoked

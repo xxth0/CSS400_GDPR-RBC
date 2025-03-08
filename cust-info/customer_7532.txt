@@ -1,0 +1,6 @@
+Customer ID: 7532
+Name: Daniel Gonzalez
+National ID: 778-57-5593
+Bank: Thompson PLC Bank
+Account Number: 1985232871
+Consent Status: Revoked

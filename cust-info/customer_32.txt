@@ -1,0 +1,6 @@
+Customer ID: 32
+Name: Michelle Berger
+National ID: 497-25-6125
+Bank: Stevens, Miller and Ferguson Bank
+Account Number: 3995125884
+Consent Status: Granted

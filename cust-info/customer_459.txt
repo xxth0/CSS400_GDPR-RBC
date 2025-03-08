@@ -1,0 +1,6 @@
+Customer ID: 459
+Name: Karen Buck
+National ID: 172-36-4909
+Bank: Diaz-Rodriguez Bank
+Account Number: 4452059054
+Consent Status: Revoked

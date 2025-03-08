@@ -1,0 +1,6 @@
+Customer ID: 3183
+Name: John Aguilar
+National ID: 347-13-6604
+Bank: Smith, Marsh and Wilson Bank
+Account Number: 9133067846
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8338
+Name: Kathryn Hogan
+National ID: 135-14-4528
+Bank: Zavala PLC Bank
+Account Number: 6153104767
+Consent Status: Revoked

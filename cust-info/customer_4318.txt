@@ -1,0 +1,6 @@
+Customer ID: 4318
+Name: Mary Phillips
+National ID: 699-51-1683
+Bank: Ramos and Sons Bank
+Account Number: 4763257501
+Consent Status: Granted

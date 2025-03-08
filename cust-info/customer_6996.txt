@@ -1,0 +1,6 @@
+Customer ID: 6996
+Name: Scott Montoya
+National ID: 691-37-5822
+Bank: Lowery-Herrera Bank
+Account Number: 8759950304
+Consent Status: Granted

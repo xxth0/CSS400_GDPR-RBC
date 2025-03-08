@@ -1,0 +1,6 @@
+Customer ID: 4415
+Name: Stephanie White
+National ID: 510-65-1570
+Bank: Cooper, Allison and Reynolds Bank
+Account Number: 6193699759
+Consent Status: Granted

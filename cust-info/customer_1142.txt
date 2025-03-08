@@ -1,0 +1,6 @@
+Customer ID: 1142
+Name: Carmen Rodgers
+National ID: 490-87-8077
+Bank: Mooney-Mahoney Bank
+Account Number: 4360765980
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 5088
+Name: Gregory Cummings
+National ID: 552-38-8451
+Bank: Fry, Hickman and Davis Bank
+Account Number: 4633396059
+Consent Status: Granted

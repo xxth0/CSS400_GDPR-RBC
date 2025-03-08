@@ -1,0 +1,6 @@
+Customer ID: 3358
+Name: Rachel Steele
+National ID: 667-46-8600
+Bank: Reynolds-Bauer Bank
+Account Number: 9250869557
+Consent Status: Granted

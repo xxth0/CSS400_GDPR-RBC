@@ -1,0 +1,6 @@
+Customer ID: 436
+Name: Melanie Wells
+National ID: 186-27-7430
+Bank: Valdez Ltd Bank
+Account Number: 4171349568
+Consent Status: Granted

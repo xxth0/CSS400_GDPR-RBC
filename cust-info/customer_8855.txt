@@ -1,0 +1,6 @@
+Customer ID: 8855
+Name: Mary Harrison
+National ID: 172-10-9419
+Bank: Valenzuela, Porter and Shaffer Bank
+Account Number: 8834062891
+Consent Status: Granted

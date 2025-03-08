@@ -1,0 +1,6 @@
+Customer ID: 984
+Name: Karen Winters
+National ID: 639-89-5171
+Bank: Wheeler, Johnston and Coleman Bank
+Account Number: 5019551370
+Consent Status: Granted

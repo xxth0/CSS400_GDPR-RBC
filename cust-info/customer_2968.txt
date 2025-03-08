@@ -1,0 +1,6 @@
+Customer ID: 2968
+Name: Christine Campbell
+National ID: 572-78-0913
+Bank: Aguirre, Mccoy and Boyd Bank
+Account Number: 7724792965
+Consent Status: Revoked

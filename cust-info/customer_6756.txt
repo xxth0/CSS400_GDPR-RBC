@@ -1,0 +1,6 @@
+Customer ID: 6756
+Name: John Stone
+National ID: 599-80-1938
+Bank: Williams Group Bank
+Account Number: 2173853617
+Consent Status: Granted

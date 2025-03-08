@@ -1,0 +1,6 @@
+Customer ID: 6233
+Name: James Evans
+National ID: 845-48-3434
+Bank: Griffin, Jackson and Landry Bank
+Account Number: 1797944770
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5954
+Name: Zachary Morris
+National ID: 192-42-0701
+Bank: Lee Group Bank
+Account Number: 6408787880
+Consent Status: Revoked

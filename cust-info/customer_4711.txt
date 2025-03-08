@@ -1,0 +1,6 @@
+Customer ID: 4711
+Name: Elizabeth Lozano
+National ID: 038-98-9772
+Bank: Garrison, Johnson and Graves Bank
+Account Number: 1008578769
+Consent Status: Granted

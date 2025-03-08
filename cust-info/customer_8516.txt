@@ -1,0 +1,6 @@
+Customer ID: 8516
+Name: Jorge Smith
+National ID: 084-56-0854
+Bank: Craig and Sons Bank
+Account Number: 4205226625
+Consent Status: Revoked

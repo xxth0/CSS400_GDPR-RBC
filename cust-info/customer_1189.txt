@@ -1,0 +1,6 @@
+Customer ID: 1189
+Name: Nathan Brown
+National ID: 150-86-4183
+Bank: Cohen Group Bank
+Account Number: 2747026034
+Consent Status: Revoked

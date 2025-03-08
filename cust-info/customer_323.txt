@@ -1,0 +1,6 @@
+Customer ID: 323
+Name: Sandra Diaz
+National ID: 320-39-5801
+Bank: Hawkins-Johnston Bank
+Account Number: 5379190519
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2635
+Name: Robert Graham
+National ID: 306-23-5902
+Bank: Ross, Miller and Weber Bank
+Account Number: 3333478241
+Consent Status: Granted

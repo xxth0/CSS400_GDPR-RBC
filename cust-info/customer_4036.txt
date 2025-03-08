@@ -1,0 +1,6 @@
+Customer ID: 4036
+Name: Natalie Mitchell
+National ID: 127-01-4733
+Bank: Cruz Ltd Bank
+Account Number: 7055214368
+Consent Status: Granted

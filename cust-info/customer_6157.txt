@@ -1,0 +1,6 @@
+Customer ID: 6157
+Name: Christopher Andersen
+National ID: 665-20-5050
+Bank: Rodriguez Ltd Bank
+Account Number: 4702438373
+Consent Status: Granted

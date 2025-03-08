@@ -1,0 +1,6 @@
+Customer ID: 2938
+Name: Christopher Franklin
+National ID: 765-43-4029
+Bank: Simon and Sons Bank
+Account Number: 8123373720
+Consent Status: Granted

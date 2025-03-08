@@ -1,0 +1,6 @@
+Customer ID: 7006
+Name: Jacob Chapman
+National ID: 276-29-5038
+Bank: Johnson-Warren Bank
+Account Number: 7211912348
+Consent Status: Revoked

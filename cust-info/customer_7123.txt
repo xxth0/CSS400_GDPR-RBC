@@ -1,0 +1,6 @@
+Customer ID: 7123
+Name: James Brown
+National ID: 685-98-1454
+Bank: Roman Ltd Bank
+Account Number: 4584069324
+Consent Status: Granted

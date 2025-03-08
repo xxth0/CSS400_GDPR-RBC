@@ -1,0 +1,6 @@
+Customer ID: 1439
+Name: James Mcdowell
+National ID: 895-22-8765
+Bank: Gardner Inc Bank
+Account Number: 1514863392
+Consent Status: Revoked

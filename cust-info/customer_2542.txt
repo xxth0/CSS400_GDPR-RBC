@@ -1,0 +1,6 @@
+Customer ID: 2542
+Name: Nathan Gomez
+National ID: 856-01-1542
+Bank: Moody and Sons Bank
+Account Number: 1022989892
+Consent Status: Revoked

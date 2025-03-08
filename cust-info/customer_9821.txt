@@ -1,0 +1,6 @@
+Customer ID: 9821
+Name: Darrell Cabrera
+National ID: 200-92-6315
+Bank: Russell Group Bank
+Account Number: 1670988443
+Consent Status: Granted

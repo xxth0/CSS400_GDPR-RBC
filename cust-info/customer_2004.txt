@@ -1,0 +1,6 @@
+Customer ID: 2004
+Name: Stacy Myers
+National ID: 055-20-8069
+Bank: Shah, Dalton and Hunt Bank
+Account Number: 6225824113
+Consent Status: Revoked

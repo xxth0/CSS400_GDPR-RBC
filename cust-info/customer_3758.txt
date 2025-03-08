@@ -1,0 +1,6 @@
+Customer ID: 3758
+Name: Robin Griffin
+National ID: 854-47-9577
+Bank: Hunt-Perry Bank
+Account Number: 8168650583
+Consent Status: Revoked

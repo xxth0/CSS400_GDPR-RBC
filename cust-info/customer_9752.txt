@@ -1,0 +1,6 @@
+Customer ID: 9752
+Name: William Walsh
+National ID: 073-25-7749
+Bank: Johnson LLC Bank
+Account Number: 3431650732
+Consent Status: Granted

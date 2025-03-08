@@ -1,0 +1,6 @@
+Customer ID: 8749
+Name: Kyle Johnson
+National ID: 643-83-5847
+Bank: Barnett-Johnson Bank
+Account Number: 2357688135
+Consent Status: Granted

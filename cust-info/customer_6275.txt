@@ -1,0 +1,6 @@
+Customer ID: 6275
+Name: Jeffrey Baker
+National ID: 828-84-3432
+Bank: Bennett-Sampson Bank
+Account Number: 3440599078
+Consent Status: Revoked

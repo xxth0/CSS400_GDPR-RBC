@@ -1,0 +1,6 @@
+Customer ID: 6312
+Name: Elizabeth Flores
+National ID: 175-19-9640
+Bank: Bond, Sanchez and Hampton Bank
+Account Number: 3804709499
+Consent Status: Revoked

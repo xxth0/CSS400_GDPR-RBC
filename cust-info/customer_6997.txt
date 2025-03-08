@@ -1,0 +1,6 @@
+Customer ID: 6997
+Name: Melissa Rodriguez
+National ID: 351-57-0447
+Bank: Howard-Grimes Bank
+Account Number: 1139710636
+Consent Status: Revoked

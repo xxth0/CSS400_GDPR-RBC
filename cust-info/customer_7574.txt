@@ -1,0 +1,6 @@
+Customer ID: 7574
+Name: Susan Salinas
+National ID: 498-21-6402
+Bank: Daniels Inc Bank
+Account Number: 7611776030
+Consent Status: Granted

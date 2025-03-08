@@ -1,0 +1,6 @@
+Customer ID: 8895
+Name: Kristine Chambers
+National ID: 637-74-4422
+Bank: Ortiz-Salas Bank
+Account Number: 3800709345
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 3537
+Name: Mark Ramos
+National ID: 366-98-8072
+Bank: Clark, Ortega and Hunt Bank
+Account Number: 6323596381
+Consent Status: Granted

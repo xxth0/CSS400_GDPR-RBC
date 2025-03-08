@@ -1,0 +1,6 @@
+Customer ID: 3933
+Name: Kevin Anderson
+National ID: 655-67-5506
+Bank: Bender-Nielsen Bank
+Account Number: 7758176576
+Consent Status: Granted

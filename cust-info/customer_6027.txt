@@ -1,0 +1,6 @@
+Customer ID: 6027
+Name: Katie Parsons
+National ID: 063-39-7327
+Bank: Alvarado-Edwards Bank
+Account Number: 7178535564
+Consent Status: Granted

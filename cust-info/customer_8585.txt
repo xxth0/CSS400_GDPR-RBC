@@ -1,0 +1,6 @@
+Customer ID: 8585
+Name: Valerie Perez
+National ID: 504-58-8408
+Bank: Robles-King Bank
+Account Number: 1802793251
+Consent Status: Revoked

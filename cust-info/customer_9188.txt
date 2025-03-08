@@ -1,0 +1,6 @@
+Customer ID: 9188
+Name: William Lopez
+National ID: 114-92-8281
+Bank: Travis-Mendez Bank
+Account Number: 3767530474
+Consent Status: Granted

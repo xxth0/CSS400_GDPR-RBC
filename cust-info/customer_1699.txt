@@ -1,0 +1,6 @@
+Customer ID: 1699
+Name: William Thompson
+National ID: 170-74-8793
+Bank: Warner, Rowe and Kim Bank
+Account Number: 1943662367
+Consent Status: Revoked

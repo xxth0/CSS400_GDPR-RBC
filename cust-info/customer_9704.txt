@@ -1,0 +1,6 @@
+Customer ID: 9704
+Name: Rodney Perry
+National ID: 220-36-0488
+Bank: Jensen, Wu and Williams Bank
+Account Number: 7394221923
+Consent Status: Revoked

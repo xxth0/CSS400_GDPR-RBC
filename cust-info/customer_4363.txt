@@ -1,0 +1,6 @@
+Customer ID: 4363
+Name: Julian Stewart
+National ID: 285-20-1493
+Bank: Oliver, Knight and Houston Bank
+Account Number: 4945485457
+Consent Status: Granted

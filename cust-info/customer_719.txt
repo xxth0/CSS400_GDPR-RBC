@@ -1,0 +1,6 @@
+Customer ID: 719
+Name: William Morgan
+National ID: 275-12-6178
+Bank: Fowler-Schwartz Bank
+Account Number: 9857410108
+Consent Status: Granted

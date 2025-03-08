@@ -1,0 +1,6 @@
+Customer ID: 2580
+Name: Greg Jones
+National ID: 563-84-5874
+Bank: Hampton Ltd Bank
+Account Number: 7895388806
+Consent Status: Revoked

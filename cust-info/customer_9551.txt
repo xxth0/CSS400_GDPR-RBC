@@ -1,0 +1,6 @@
+Customer ID: 9551
+Name: Christopher Pierce
+National ID: 060-79-3933
+Bank: Anderson-Espinoza Bank
+Account Number: 8858721832
+Consent Status: Revoked

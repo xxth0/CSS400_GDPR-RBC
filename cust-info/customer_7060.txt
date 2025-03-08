@@ -1,0 +1,6 @@
+Customer ID: 7060
+Name: Timothy Stanton
+National ID: 812-35-0735
+Bank: Smith-Fuller Bank
+Account Number: 5047828533
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 9712
+Name: Angela Simmons DDS
+National ID: 710-04-7097
+Bank: Ramos-Morse Bank
+Account Number: 9469622528
+Consent Status: Granted

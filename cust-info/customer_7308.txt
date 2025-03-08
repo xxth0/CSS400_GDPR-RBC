@@ -1,0 +1,6 @@
+Customer ID: 7308
+Name: Brenda Tran
+National ID: 710-59-3929
+Bank: Rivera Ltd Bank
+Account Number: 1400135242
+Consent Status: Revoked

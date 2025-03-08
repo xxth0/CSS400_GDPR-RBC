@@ -1,0 +1,6 @@
+Customer ID: 2178
+Name: Andrew Hubbard
+National ID: 389-98-4510
+Bank: Vega Group Bank
+Account Number: 9393904142
+Consent Status: Revoked

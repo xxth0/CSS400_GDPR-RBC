@@ -1,0 +1,6 @@
+Customer ID: 2301
+Name: Manuel Tucker
+National ID: 558-83-1547
+Bank: Macdonald-Gonzales Bank
+Account Number: 3028987998
+Consent Status: Granted

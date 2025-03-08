@@ -1,0 +1,6 @@
+Customer ID: 4476
+Name: Kiara Smith
+National ID: 437-68-3437
+Bank: Ward-Brown Bank
+Account Number: 1148470584
+Consent Status: Granted

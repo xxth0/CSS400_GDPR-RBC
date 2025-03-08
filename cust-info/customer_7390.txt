@@ -1,0 +1,6 @@
+Customer ID: 7390
+Name: Angela Hawkins
+National ID: 438-33-1001
+Bank: Cox, Bailey and Harris Bank
+Account Number: 8091935302
+Consent Status: Granted

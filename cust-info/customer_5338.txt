@@ -1,0 +1,6 @@
+Customer ID: 5338
+Name: Pamela Davila
+National ID: 343-60-2071
+Bank: Barnes-Wright Bank
+Account Number: 4961015248
+Consent Status: Revoked

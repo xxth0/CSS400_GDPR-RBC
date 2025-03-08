@@ -1,0 +1,6 @@
+Customer ID: 9432
+Name: Marcus Becker
+National ID: 585-98-2471
+Bank: Cruz, Day and Rogers Bank
+Account Number: 2757656483
+Consent Status: Revoked

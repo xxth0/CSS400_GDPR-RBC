@@ -1,0 +1,6 @@
+Customer ID: 231
+Name: Jessica Phelps
+National ID: 467-64-2603
+Bank: Arnold PLC Bank
+Account Number: 4272760801
+Consent Status: Revoked

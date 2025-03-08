@@ -1,0 +1,6 @@
+Customer ID: 9138
+Name: Brittney Clark
+National ID: 823-46-7333
+Bank: Griffith-Nelson Bank
+Account Number: 7068512663
+Consent Status: Granted

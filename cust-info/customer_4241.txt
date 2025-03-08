@@ -1,0 +1,6 @@
+Customer ID: 4241
+Name: Samuel Wilson
+National ID: 678-90-0014
+Bank: Wilcox Group Bank
+Account Number: 5793007058
+Consent Status: Revoked

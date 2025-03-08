@@ -1,0 +1,6 @@
+Customer ID: 571
+Name: Robert Abbott
+National ID: 054-41-3847
+Bank: Anderson Ltd Bank
+Account Number: 4896185430
+Consent Status: Revoked

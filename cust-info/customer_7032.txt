@@ -1,0 +1,6 @@
+Customer ID: 7032
+Name: Ross Baker
+National ID: 105-73-8056
+Bank: Patton-Massey Bank
+Account Number: 4372496072
+Consent Status: Granted

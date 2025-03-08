@@ -1,0 +1,6 @@
+Customer ID: 8600
+Name: Sean Cobb
+National ID: 707-72-6769
+Bank: Tran-Summers Bank
+Account Number: 6335816003
+Consent Status: Granted

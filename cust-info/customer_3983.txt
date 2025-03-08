@@ -1,0 +1,6 @@
+Customer ID: 3983
+Name: John Thomas
+National ID: 289-62-2773
+Bank: Mckay-Williams Bank
+Account Number: 1968880410
+Consent Status: Revoked

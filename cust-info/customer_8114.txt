@@ -1,0 +1,6 @@
+Customer ID: 8114
+Name: Erika Obrien
+National ID: 642-37-2252
+Bank: Stone Inc Bank
+Account Number: 7206763758
+Consent Status: Revoked

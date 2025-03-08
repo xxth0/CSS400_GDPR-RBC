@@ -1,0 +1,6 @@
+Customer ID: 9375
+Name: Stacey Kidd
+National ID: 228-58-3480
+Bank: Rivera, Ramos and Chavez Bank
+Account Number: 1429637841
+Consent Status: Granted

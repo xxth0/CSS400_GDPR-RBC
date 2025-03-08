@@ -1,0 +1,6 @@
+Customer ID: 7448
+Name: Julia King
+National ID: 759-80-5618
+Bank: David Inc Bank
+Account Number: 5374267849
+Consent Status: Revoked

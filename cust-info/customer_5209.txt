@@ -1,0 +1,6 @@
+Customer ID: 5209
+Name: Kelly French
+National ID: 625-88-7030
+Bank: Owens-Mata Bank
+Account Number: 4952709101
+Consent Status: Revoked

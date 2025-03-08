@@ -1,0 +1,6 @@
+Customer ID: 9087
+Name: Christine Francis
+National ID: 144-09-6003
+Bank: Patrick-Mcintyre Bank
+Account Number: 7735817945
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 7770
+Name: Juan Lloyd
+National ID: 174-81-1724
+Bank: Lynch-Freeman Bank
+Account Number: 8346476301
+Consent Status: Revoked

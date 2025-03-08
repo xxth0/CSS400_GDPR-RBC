@@ -1,0 +1,6 @@
+Customer ID: 4273
+Name: Johnny Ortiz
+National ID: 239-24-8099
+Bank: Winters, Hayes and Woods Bank
+Account Number: 2729127453
+Consent Status: Granted

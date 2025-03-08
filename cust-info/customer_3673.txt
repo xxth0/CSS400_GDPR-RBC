@@ -1,0 +1,6 @@
+Customer ID: 3673
+Name: Stephen Moss
+National ID: 256-33-3636
+Bank: Hernandez-Jones Bank
+Account Number: 5061044364
+Consent Status: Granted

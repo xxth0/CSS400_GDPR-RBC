@@ -1,0 +1,6 @@
+Customer ID: 8456
+Name: Jimmy Austin
+National ID: 472-94-1855
+Bank: Warren, Baker and Cain Bank
+Account Number: 4499196499
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 6572
+Name: Scott Smith
+National ID: 804-12-5804
+Bank: Padilla, Little and Cooley Bank
+Account Number: 8474959782
+Consent Status: Granted

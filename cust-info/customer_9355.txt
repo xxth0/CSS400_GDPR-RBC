@@ -1,0 +1,6 @@
+Customer ID: 9355
+Name: Geoffrey Hall
+National ID: 317-30-2795
+Bank: Collins Ltd Bank
+Account Number: 2247542991
+Consent Status: Revoked

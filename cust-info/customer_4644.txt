@@ -1,0 +1,6 @@
+Customer ID: 4644
+Name: Steven Diaz
+National ID: 630-30-1225
+Bank: Johnson PLC Bank
+Account Number: 2905284223
+Consent Status: Granted

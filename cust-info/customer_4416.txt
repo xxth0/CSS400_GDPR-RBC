@@ -1,0 +1,6 @@
+Customer ID: 4416
+Name: Adrian Russell
+National ID: 837-92-8743
+Bank: Pham PLC Bank
+Account Number: 7127299380
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6666
+Name: Sean Nguyen
+National ID: 812-86-1814
+Bank: Rodriguez, Rodriguez and Dixon Bank
+Account Number: 3215769377
+Consent Status: Granted

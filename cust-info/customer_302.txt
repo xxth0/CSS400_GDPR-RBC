@@ -1,0 +1,6 @@
+Customer ID: 302
+Name: James Hurley
+National ID: 118-81-9103
+Bank: Cox-Martinez Bank
+Account Number: 1567631619
+Consent Status: Revoked

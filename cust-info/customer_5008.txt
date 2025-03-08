@@ -1,0 +1,6 @@
+Customer ID: 5008
+Name: George Jackson
+National ID: 137-20-5197
+Bank: Chaney-Lindsey Bank
+Account Number: 6660601809
+Consent Status: Revoked

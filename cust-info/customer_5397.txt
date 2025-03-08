@@ -1,0 +1,6 @@
+Customer ID: 5397
+Name: Blake Austin
+National ID: 304-97-1819
+Bank: Chen Ltd Bank
+Account Number: 8541540291
+Consent Status: Revoked

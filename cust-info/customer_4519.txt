@@ -1,0 +1,6 @@
+Customer ID: 4519
+Name: Jacob Alexander
+National ID: 655-67-9667
+Bank: Huynh-Barnes Bank
+Account Number: 7986777174
+Consent Status: Revoked

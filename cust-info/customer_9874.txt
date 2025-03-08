@@ -1,0 +1,6 @@
+Customer ID: 9874
+Name: Janet Franco
+National ID: 712-35-0135
+Bank: Rocha and Sons Bank
+Account Number: 1075620034
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 516
+Name: Tina Golden
+National ID: 641-32-3400
+Bank: Bell, Mcguire and Brown Bank
+Account Number: 8690548226
+Consent Status: Revoked

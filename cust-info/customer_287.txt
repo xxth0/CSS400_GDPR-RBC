@@ -1,0 +1,6 @@
+Customer ID: 287
+Name: Brad Estrada
+National ID: 435-91-1404
+Bank: Lopez, Mcclure and Ward Bank
+Account Number: 5534996330
+Consent Status: Granted

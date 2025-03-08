@@ -1,0 +1,6 @@
+Customer ID: 3239
+Name: Tammie Bowen
+National ID: 085-82-5038
+Bank: Butler Group Bank
+Account Number: 5276131319
+Consent Status: Revoked

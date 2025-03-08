@@ -1,0 +1,6 @@
+Customer ID: 4020
+Name: Christopher Anderson
+National ID: 337-99-0955
+Bank: Callahan, Mcmillan and Barker Bank
+Account Number: 8759526626
+Consent Status: Revoked

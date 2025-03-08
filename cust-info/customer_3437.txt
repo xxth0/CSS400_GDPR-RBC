@@ -1,0 +1,6 @@
+Customer ID: 3437
+Name: Daniel Johnson
+National ID: 513-84-3217
+Bank: Ferguson LLC Bank
+Account Number: 8254204773
+Consent Status: Granted

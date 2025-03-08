@@ -1,0 +1,6 @@
+Customer ID: 7126
+Name: Christopher Olsen
+National ID: 685-34-1863
+Bank: Mendoza Inc Bank
+Account Number: 8014819233
+Consent Status: Granted

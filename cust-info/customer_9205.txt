@@ -1,0 +1,6 @@
+Customer ID: 9205
+Name: Katie Davis MD
+National ID: 808-37-1824
+Bank: Garcia, Livingston and Kerr Bank
+Account Number: 1812940621
+Consent Status: Revoked

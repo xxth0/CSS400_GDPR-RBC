@@ -1,0 +1,6 @@
+Customer ID: 4113
+Name: Robert Bailey
+National ID: 629-86-9542
+Bank: Rhodes, Stanton and Johnson Bank
+Account Number: 4617417235
+Consent Status: Granted

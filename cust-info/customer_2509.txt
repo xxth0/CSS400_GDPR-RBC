@@ -1,0 +1,6 @@
+Customer ID: 2509
+Name: Renee Maxwell
+National ID: 854-32-5002
+Bank: Coleman and Sons Bank
+Account Number: 7461170515
+Consent Status: Revoked

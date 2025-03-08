@@ -1,0 +1,6 @@
+Customer ID: 8213
+Name: Kelly Fitzpatrick
+National ID: 577-25-0933
+Bank: Esparza LLC Bank
+Account Number: 3914445293
+Consent Status: Revoked

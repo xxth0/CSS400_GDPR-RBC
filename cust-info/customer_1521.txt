@@ -1,0 +1,6 @@
+Customer ID: 1521
+Name: Madison Garrison
+National ID: 625-35-4189
+Bank: Johnson, Carter and Smith Bank
+Account Number: 5574236461
+Consent Status: Granted

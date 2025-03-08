@@ -1,0 +1,6 @@
+Customer ID: 7280
+Name: Kyle Peterson
+National ID: 585-94-9346
+Bank: Morton Inc Bank
+Account Number: 3947712460
+Consent Status: Granted

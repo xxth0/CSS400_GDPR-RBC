@@ -1,0 +1,6 @@
+Customer ID: 5889
+Name: Philip Jones
+National ID: 424-28-0882
+Bank: Giles-Pollard Bank
+Account Number: 4270658007
+Consent Status: Revoked

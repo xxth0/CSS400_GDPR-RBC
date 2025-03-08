@@ -1,0 +1,6 @@
+Customer ID: 2019
+Name: Teresa Williams
+National ID: 455-57-7332
+Bank: Harrison and Sons Bank
+Account Number: 6079988193
+Consent Status: Granted

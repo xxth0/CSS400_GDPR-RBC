@@ -1,0 +1,6 @@
+Customer ID: 4867
+Name: Ashley Estrada
+National ID: 382-86-9288
+Bank: Jones, Stevens and Pittman Bank
+Account Number: 5647058676
+Consent Status: Revoked

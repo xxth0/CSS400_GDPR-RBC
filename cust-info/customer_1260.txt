@@ -1,0 +1,6 @@
+Customer ID: 1260
+Name: Gina French
+National ID: 070-16-0380
+Bank: Duke, Kelly and Ramirez Bank
+Account Number: 2757898128
+Consent Status: Granted

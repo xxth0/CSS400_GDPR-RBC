@@ -1,0 +1,6 @@
+Customer ID: 876
+Name: Michael Rodriguez DVM
+National ID: 842-48-8238
+Bank: Singleton, Rodriguez and Fuller Bank
+Account Number: 6874704240
+Consent Status: Granted

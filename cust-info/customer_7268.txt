@@ -1,0 +1,6 @@
+Customer ID: 7268
+Name: Emma Flores
+National ID: 009-43-5490
+Bank: Smith, Garcia and Banks Bank
+Account Number: 3631393797
+Consent Status: Granted

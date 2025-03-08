@@ -1,0 +1,6 @@
+Customer ID: 7736
+Name: John Becker
+National ID: 005-82-1687
+Bank: Obrien, Solis and Smith Bank
+Account Number: 8073838653
+Consent Status: Revoked

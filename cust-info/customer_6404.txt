@@ -1,0 +1,6 @@
+Customer ID: 6404
+Name: Barbara Johnson
+National ID: 391-64-9128
+Bank: Baker-Snyder Bank
+Account Number: 3984118368
+Consent Status: Revoked

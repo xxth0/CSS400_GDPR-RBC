@@ -1,0 +1,6 @@
+Customer ID: 8630
+Name: Mrs. Brenda Mitchell
+National ID: 340-06-5358
+Bank: Sullivan Group Bank
+Account Number: 5911233276
+Consent Status: Revoked

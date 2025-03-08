@@ -1,0 +1,6 @@
+Customer ID: 8327
+Name: Dennis Jensen
+National ID: 398-32-4058
+Bank: Owens, Owens and Marshall Bank
+Account Number: 5404027967
+Consent Status: Revoked

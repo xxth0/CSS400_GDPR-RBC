@@ -1,0 +1,6 @@
+Customer ID: 6232
+Name: Crystal Anderson
+National ID: 428-58-3989
+Bank: Curry LLC Bank
+Account Number: 4536136649
+Consent Status: Revoked

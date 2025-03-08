@@ -1,0 +1,6 @@
+Customer ID: 8397
+Name: Patricia Patel
+National ID: 110-08-8810
+Bank: Phillips Ltd Bank
+Account Number: 5587169486
+Consent Status: Granted

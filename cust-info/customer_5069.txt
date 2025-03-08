@@ -1,0 +1,6 @@
+Customer ID: 5069
+Name: Cynthia Ingram
+National ID: 883-85-1795
+Bank: Kelley-Doyle Bank
+Account Number: 8285759601
+Consent Status: Revoked

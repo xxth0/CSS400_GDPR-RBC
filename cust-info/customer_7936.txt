@@ -1,0 +1,6 @@
+Customer ID: 7936
+Name: Casey Rice
+National ID: 400-93-5549
+Bank: Bell-Castro Bank
+Account Number: 1326928753
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9568
+Name: Adam Clarke
+National ID: 740-86-6564
+Bank: Alexander and Sons Bank
+Account Number: 1062886485
+Consent Status: Granted

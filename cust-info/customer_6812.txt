@@ -1,0 +1,6 @@
+Customer ID: 6812
+Name: Justin Castro
+National ID: 426-91-5656
+Bank: Mann-Reed Bank
+Account Number: 1075812539
+Consent Status: Granted

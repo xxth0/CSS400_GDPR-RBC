@@ -1,0 +1,6 @@
+Customer ID: 6782
+Name: Ryan Stewart
+National ID: 042-29-7388
+Bank: Kim LLC Bank
+Account Number: 1882525381
+Consent Status: Revoked

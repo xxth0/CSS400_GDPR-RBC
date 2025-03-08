@@ -1,0 +1,6 @@
+Customer ID: 5301
+Name: David Martinez
+National ID: 157-12-2308
+Bank: Lopez PLC Bank
+Account Number: 4104318483
+Consent Status: Revoked

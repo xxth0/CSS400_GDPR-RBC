@@ -1,0 +1,6 @@
+Customer ID: 643
+Name: Jacqueline Camacho
+National ID: 364-76-9733
+Bank: Barton, Alexander and Bryant Bank
+Account Number: 2892719592
+Consent Status: Granted

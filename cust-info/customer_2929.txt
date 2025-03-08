@@ -1,0 +1,6 @@
+Customer ID: 2929
+Name: Charles Mendoza
+National ID: 714-35-3120
+Bank: Clark-Norton Bank
+Account Number: 4067069073
+Consent Status: Granted

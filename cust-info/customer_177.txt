@@ -1,0 +1,6 @@
+Customer ID: 177
+Name: John Lewis
+National ID: 738-82-4838
+Bank: Williams, Lee and Flores Bank
+Account Number: 7534485755
+Consent Status: Granted

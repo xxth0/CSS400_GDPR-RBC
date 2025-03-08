@@ -1,0 +1,6 @@
+Customer ID: 4220
+Name: Mr. James Jones MD
+National ID: 408-56-5697
+Bank: Smith-Montgomery Bank
+Account Number: 6498857368
+Consent Status: Granted

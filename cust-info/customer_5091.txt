@@ -1,0 +1,6 @@
+Customer ID: 5091
+Name: Curtis Brown
+National ID: 100-61-8786
+Bank: Baker-Phillips Bank
+Account Number: 9284345462
+Consent Status: Revoked

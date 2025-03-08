@@ -1,0 +1,6 @@
+Customer ID: 4096
+Name: Kimberly Smith
+National ID: 779-16-1131
+Bank: Thomas Group Bank
+Account Number: 7626069751
+Consent Status: Granted

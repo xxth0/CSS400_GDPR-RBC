@@ -1,0 +1,6 @@
+Customer ID: 5987
+Name: Rhonda Chambers
+National ID: 850-56-2726
+Bank: Glenn-Jones Bank
+Account Number: 2625677663
+Consent Status: Revoked

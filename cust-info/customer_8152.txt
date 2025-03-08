@@ -1,0 +1,6 @@
+Customer ID: 8152
+Name: Dawn Clark
+National ID: 669-74-5751
+Bank: Cooley Inc Bank
+Account Number: 9938218795
+Consent Status: Revoked

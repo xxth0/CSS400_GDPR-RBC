@@ -1,0 +1,6 @@
+Customer ID: 1921
+Name: Thomas Jones
+National ID: 405-50-4928
+Bank: Marshall-Dunn Bank
+Account Number: 1410726627
+Consent Status: Revoked

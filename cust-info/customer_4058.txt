@@ -1,0 +1,6 @@
+Customer ID: 4058
+Name: Theresa Martin
+National ID: 125-07-5427
+Bank: Jackson and Sons Bank
+Account Number: 5733284410
+Consent Status: Revoked

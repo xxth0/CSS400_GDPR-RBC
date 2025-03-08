@@ -1,0 +1,6 @@
+Customer ID: 7246
+Name: Theodore Atkins
+National ID: 047-50-3917
+Bank: Kelly PLC Bank
+Account Number: 2419201320
+Consent Status: Revoked

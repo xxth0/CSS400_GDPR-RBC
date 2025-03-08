@@ -1,0 +1,6 @@
+Customer ID: 2118
+Name: Dr. Christine Miller
+National ID: 692-71-1937
+Bank: Sweeney and Sons Bank
+Account Number: 7038671028
+Consent Status: Revoked

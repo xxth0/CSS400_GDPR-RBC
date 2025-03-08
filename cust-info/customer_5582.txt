@@ -1,0 +1,6 @@
+Customer ID: 5582
+Name: Jamie Liu
+National ID: 855-19-9022
+Bank: Perez LLC Bank
+Account Number: 7147228428
+Consent Status: Revoked

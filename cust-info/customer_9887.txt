@@ -1,0 +1,6 @@
+Customer ID: 9887
+Name: Julie Sanchez
+National ID: 245-11-9732
+Bank: Diaz-Wise Bank
+Account Number: 8560467054
+Consent Status: Granted

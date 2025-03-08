@@ -1,0 +1,6 @@
+Customer ID: 5878
+Name: Mike Gilbert
+National ID: 575-80-9916
+Bank: Conner Ltd Bank
+Account Number: 7329230455
+Consent Status: Revoked

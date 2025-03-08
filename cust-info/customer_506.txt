@@ -1,0 +1,6 @@
+Customer ID: 506
+Name: Darrell Garcia
+National ID: 264-34-6569
+Bank: Stanton, Lee and Kramer Bank
+Account Number: 8511831097
+Consent Status: Revoked

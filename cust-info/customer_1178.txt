@@ -1,0 +1,6 @@
+Customer ID: 1178
+Name: James Dorsey
+National ID: 836-94-1450
+Bank: Ramos-Hayes Bank
+Account Number: 2937746342
+Consent Status: Revoked

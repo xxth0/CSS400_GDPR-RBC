@@ -1,0 +1,6 @@
+Customer ID: 8020
+Name: Eric Novak
+National ID: 051-21-5972
+Bank: Rodriguez, Johnson and Moore Bank
+Account Number: 6894650939
+Consent Status: Revoked

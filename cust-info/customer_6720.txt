@@ -1,0 +1,6 @@
+Customer ID: 6720
+Name: Jeanette Palmer
+National ID: 317-37-9514
+Bank: Jennings, Meyer and Mills Bank
+Account Number: 7614103333
+Consent Status: Granted

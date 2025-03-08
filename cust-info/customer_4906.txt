@@ -1,0 +1,6 @@
+Customer ID: 4906
+Name: Adam Wagner
+National ID: 725-01-8561
+Bank: Brown-Pollard Bank
+Account Number: 8618403894
+Consent Status: Revoked

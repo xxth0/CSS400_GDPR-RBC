@@ -1,0 +1,6 @@
+Customer ID: 6591
+Name: Mr. William Lewis
+National ID: 596-81-0602
+Bank: Scott-Rice Bank
+Account Number: 3783610114
+Consent Status: Revoked

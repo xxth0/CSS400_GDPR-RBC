@@ -1,0 +1,6 @@
+Customer ID: 5703
+Name: David Pruitt
+National ID: 618-39-2688
+Bank: Perkins, Pittman and Espinoza Bank
+Account Number: 1718132619
+Consent Status: Revoked

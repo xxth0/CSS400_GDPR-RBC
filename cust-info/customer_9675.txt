@@ -1,0 +1,6 @@
+Customer ID: 9675
+Name: Jenna Marshall
+National ID: 471-84-9601
+Bank: Castillo, Estrada and Estrada Bank
+Account Number: 6337690651
+Consent Status: Revoked

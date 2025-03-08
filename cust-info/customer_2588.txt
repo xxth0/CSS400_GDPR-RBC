@@ -1,0 +1,6 @@
+Customer ID: 2588
+Name: Kristine Thomas
+National ID: 572-81-1098
+Bank: Decker, Warner and Martin Bank
+Account Number: 2758250908
+Consent Status: Granted

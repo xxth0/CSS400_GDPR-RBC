@@ -1,0 +1,6 @@
+Customer ID: 8800
+Name: Mary Jones
+National ID: 786-73-1784
+Bank: Strickland, Strickland and Taylor Bank
+Account Number: 8650932011
+Consent Status: Revoked

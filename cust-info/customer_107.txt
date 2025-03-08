@@ -1,0 +1,6 @@
+Customer ID: 107
+Name: Sandra Kramer
+National ID: 200-13-4192
+Bank: Beck-Hamilton Bank
+Account Number: 1693076261
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7699
+Name: Richard Rodriguez
+National ID: 688-20-2613
+Bank: Davenport, Martin and Smith Bank
+Account Number: 8387717813
+Consent Status: Revoked

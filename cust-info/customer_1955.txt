@@ -1,0 +1,6 @@
+Customer ID: 1955
+Name: James Meyers
+National ID: 829-34-6302
+Bank: Fox LLC Bank
+Account Number: 7663163747
+Consent Status: Granted

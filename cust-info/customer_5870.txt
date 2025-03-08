@@ -1,0 +1,6 @@
+Customer ID: 5870
+Name: John Smith
+National ID: 677-30-6891
+Bank: Matthews, Miller and Grant Bank
+Account Number: 3383084388
+Consent Status: Granted

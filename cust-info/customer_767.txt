@@ -1,0 +1,6 @@
+Customer ID: 767
+Name: Angela Parsons
+National ID: 588-85-8617
+Bank: Moreno Ltd Bank
+Account Number: 2385724863
+Consent Status: Revoked

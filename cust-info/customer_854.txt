@@ -1,0 +1,6 @@
+Customer ID: 854
+Name: Robert Lopez
+National ID: 268-98-8948
+Bank: Schmidt PLC Bank
+Account Number: 7127494713
+Consent Status: Revoked

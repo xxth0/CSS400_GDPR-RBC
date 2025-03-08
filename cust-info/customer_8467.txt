@@ -1,0 +1,6 @@
+Customer ID: 8467
+Name: Laura Krueger
+National ID: 683-77-7079
+Bank: Park Ltd Bank
+Account Number: 3675035664
+Consent Status: Revoked

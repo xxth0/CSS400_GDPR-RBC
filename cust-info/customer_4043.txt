@@ -1,0 +1,6 @@
+Customer ID: 4043
+Name: Dustin Johnson
+National ID: 078-13-7641
+Bank: Fitzpatrick-Kelley Bank
+Account Number: 9690390417
+Consent Status: Revoked

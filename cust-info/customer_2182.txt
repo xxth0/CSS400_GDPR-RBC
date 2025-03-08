@@ -1,0 +1,6 @@
+Customer ID: 2182
+Name: Katherine Adams
+National ID: 718-92-2592
+Bank: Frey-Strickland Bank
+Account Number: 5847198772
+Consent Status: Granted

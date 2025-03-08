@@ -1,0 +1,6 @@
+Customer ID: 1198
+Name: Lori Smith
+National ID: 259-69-6348
+Bank: Gomez, Brown and Bowman Bank
+Account Number: 4189263211
+Consent Status: Granted

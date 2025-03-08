@@ -1,0 +1,6 @@
+Customer ID: 7569
+Name: Brandon Berry
+National ID: 021-29-7108
+Bank: White-Moore Bank
+Account Number: 9508244206
+Consent Status: Granted

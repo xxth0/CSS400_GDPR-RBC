@@ -1,0 +1,6 @@
+Customer ID: 999
+Name: Faith Bailey
+National ID: 580-85-1853
+Bank: Cardenas-Jackson Bank
+Account Number: 7148969856
+Consent Status: Revoked

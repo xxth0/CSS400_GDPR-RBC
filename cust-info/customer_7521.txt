@@ -1,0 +1,6 @@
+Customer ID: 7521
+Name: Matthew Gregory
+National ID: 593-51-5805
+Bank: Escobar Ltd Bank
+Account Number: 8938741919
+Consent Status: Revoked

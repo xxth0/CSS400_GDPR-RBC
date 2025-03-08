@@ -1,0 +1,6 @@
+Customer ID: 5295
+Name: Dr. Daniel Johnson
+National ID: 014-31-6357
+Bank: May-Castillo Bank
+Account Number: 9334715067
+Consent Status: Granted

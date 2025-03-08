@@ -1,0 +1,6 @@
+Customer ID: 6818
+Name: Debbie Robinson
+National ID: 363-21-7252
+Bank: Gould, Jones and Holmes Bank
+Account Number: 5504438525
+Consent Status: Granted

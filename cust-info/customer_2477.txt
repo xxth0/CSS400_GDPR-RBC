@@ -1,0 +1,6 @@
+Customer ID: 2477
+Name: Andrew Martin
+National ID: 078-96-1047
+Bank: Ross and Sons Bank
+Account Number: 6648644835
+Consent Status: Revoked

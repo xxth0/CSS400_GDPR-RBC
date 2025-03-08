@@ -1,0 +1,6 @@
+Customer ID: 7758
+Name: Diana Mcdonald
+National ID: 302-39-2650
+Bank: Jefferson PLC Bank
+Account Number: 8736713723
+Consent Status: Granted

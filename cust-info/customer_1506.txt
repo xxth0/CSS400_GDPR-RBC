@@ -1,0 +1,6 @@
+Customer ID: 1506
+Name: Amy Harris
+National ID: 403-41-9140
+Bank: Stephens-King Bank
+Account Number: 4432926694
+Consent Status: Revoked

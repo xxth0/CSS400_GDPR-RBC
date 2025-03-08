@@ -1,0 +1,6 @@
+Customer ID: 4919
+Name: Rebecca Ross
+National ID: 861-88-2596
+Bank: Elliott, Estes and Cantu Bank
+Account Number: 7525213224
+Consent Status: Granted

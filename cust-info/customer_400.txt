@@ -1,0 +1,6 @@
+Customer ID: 400
+Name: Margaret Guzman
+National ID: 707-69-6584
+Bank: Harris, Scott and Reynolds Bank
+Account Number: 4604685307
+Consent Status: Granted

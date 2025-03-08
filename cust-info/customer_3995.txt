@@ -1,0 +1,6 @@
+Customer ID: 3995
+Name: Sherry Fox DDS
+National ID: 114-44-7005
+Bank: Rodriguez, Shaw and Gonzales Bank
+Account Number: 3307753137
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4066
+Name: Kevin Obrien
+National ID: 539-73-2648
+Bank: Collins and Sons Bank
+Account Number: 8100810039
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 4502
+Name: Marcus Adkins
+National ID: 210-20-9489
+Bank: House-Carlson Bank
+Account Number: 9435586039
+Consent Status: Revoked

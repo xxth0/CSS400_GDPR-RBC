@@ -1,0 +1,6 @@
+Customer ID: 4324
+Name: Andrew Davis
+National ID: 319-44-0876
+Bank: Torres-Daniels Bank
+Account Number: 7012563615
+Consent Status: Revoked

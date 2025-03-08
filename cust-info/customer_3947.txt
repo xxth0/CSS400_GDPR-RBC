@@ -1,0 +1,6 @@
+Customer ID: 3947
+Name: Evan Stark
+National ID: 425-61-3236
+Bank: Terry-Walker Bank
+Account Number: 3633549207
+Consent Status: Revoked

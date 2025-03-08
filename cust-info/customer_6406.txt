@@ -1,0 +1,6 @@
+Customer ID: 6406
+Name: Ian Roberts
+National ID: 199-10-9414
+Bank: Wise, Mason and Nguyen Bank
+Account Number: 7777349311
+Consent Status: Revoked

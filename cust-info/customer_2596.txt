@@ -1,0 +1,6 @@
+Customer ID: 2596
+Name: Samantha Chambers
+National ID: 624-21-5230
+Bank: Gonzalez, Finley and Daniel Bank
+Account Number: 1007265286
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 2839
+Name: Bruce Williams
+National ID: 080-22-3438
+Bank: Johnson, Barnett and Gardner Bank
+Account Number: 1661824680
+Consent Status: Revoked

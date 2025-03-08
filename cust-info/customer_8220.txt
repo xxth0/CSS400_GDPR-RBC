@@ -1,0 +1,6 @@
+Customer ID: 8220
+Name: Nicolas Morgan
+National ID: 852-85-8666
+Bank: Mclaughlin, Miranda and Castillo Bank
+Account Number: 6607899059
+Consent Status: Granted

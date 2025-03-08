@@ -1,0 +1,6 @@
+Customer ID: 5484
+Name: Dr. William Barnes
+National ID: 820-04-5435
+Bank: Bonilla, Copeland and Miller Bank
+Account Number: 9398834060
+Consent Status: Revoked

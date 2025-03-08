@@ -1,0 +1,6 @@
+Customer ID: 9068
+Name: Jennifer Skinner
+National ID: 709-02-3012
+Bank: Page, Kaiser and Owens Bank
+Account Number: 5306411975
+Consent Status: Revoked

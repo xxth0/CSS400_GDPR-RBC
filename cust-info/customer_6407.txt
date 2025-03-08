@@ -1,0 +1,6 @@
+Customer ID: 6407
+Name: Christine Larsen
+National ID: 567-73-4881
+Bank: Whitaker-Mccall Bank
+Account Number: 4296062330
+Consent Status: Granted

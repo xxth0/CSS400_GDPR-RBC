@@ -1,0 +1,6 @@
+Customer ID: 4202
+Name: Lisa Singh
+National ID: 381-66-8191
+Bank: Green Inc Bank
+Account Number: 9800977843
+Consent Status: Granted

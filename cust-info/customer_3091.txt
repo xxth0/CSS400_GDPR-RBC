@@ -1,0 +1,6 @@
+Customer ID: 3091
+Name: Lawrence Mcclure MD
+National ID: 397-17-9484
+Bank: Hammond, Anderson and Reed Bank
+Account Number: 7535475101
+Consent Status: Revoked

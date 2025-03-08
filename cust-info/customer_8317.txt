@@ -1,0 +1,6 @@
+Customer ID: 8317
+Name: Amanda Franklin
+National ID: 109-25-6947
+Bank: Valenzuela and Sons Bank
+Account Number: 2760057466
+Consent Status: Granted

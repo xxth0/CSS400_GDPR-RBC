@@ -1,0 +1,6 @@
+Customer ID: 2507
+Name: Eric Reid
+National ID: 382-58-2506
+Bank: Jenkins PLC Bank
+Account Number: 9118051399
+Consent Status: Granted

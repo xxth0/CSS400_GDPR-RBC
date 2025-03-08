@@ -1,0 +1,6 @@
+Customer ID: 6991
+Name: Katrina Larson
+National ID: 312-29-4282
+Bank: Avery, Dawson and Rodriguez Bank
+Account Number: 3894081755
+Consent Status: Revoked

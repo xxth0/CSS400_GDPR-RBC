@@ -1,0 +1,6 @@
+Customer ID: 3017
+Name: Erica Davis
+National ID: 074-50-5707
+Bank: Moore-Campbell Bank
+Account Number: 4821659649
+Consent Status: Revoked

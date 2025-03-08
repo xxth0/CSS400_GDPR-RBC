@@ -1,0 +1,6 @@
+Customer ID: 8228
+Name: Robert Kim
+National ID: 345-36-4897
+Bank: Scott, Davidson and Alvarez Bank
+Account Number: 3944546216
+Consent Status: Granted

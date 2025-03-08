@@ -1,0 +1,6 @@
+Customer ID: 9406
+Name: Aaron Miller
+National ID: 346-93-0489
+Bank: Thomas, Jones and Rodriguez Bank
+Account Number: 8618867577
+Consent Status: Revoked

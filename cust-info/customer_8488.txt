@@ -1,0 +1,6 @@
+Customer ID: 8488
+Name: Tyler Baxter
+National ID: 605-83-8252
+Bank: Burke, Chambers and Ruiz Bank
+Account Number: 9191283084
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1297
+Name: Michael Kline
+National ID: 294-10-8486
+Bank: Schmitt Group Bank
+Account Number: 6164021289
+Consent Status: Revoked

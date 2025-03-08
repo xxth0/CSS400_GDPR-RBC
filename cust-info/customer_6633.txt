@@ -1,0 +1,6 @@
+Customer ID: 6633
+Name: Danielle Bartlett
+National ID: 023-24-1256
+Bank: Rivera, Conner and Ali Bank
+Account Number: 6265290138
+Consent Status: Revoked

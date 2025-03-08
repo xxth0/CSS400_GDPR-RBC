@@ -1,0 +1,6 @@
+Customer ID: 2135
+Name: Jonathan Salazar
+National ID: 112-10-1072
+Bank: Nguyen, Liu and Reese Bank
+Account Number: 4912414312
+Consent Status: Revoked

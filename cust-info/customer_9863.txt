@@ -1,0 +1,6 @@
+Customer ID: 9863
+Name: Douglas Burns
+National ID: 445-02-3041
+Bank: Harvey, Miles and Arnold Bank
+Account Number: 5751945215
+Consent Status: Revoked

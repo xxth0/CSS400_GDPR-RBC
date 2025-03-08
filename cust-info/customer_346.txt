@@ -1,0 +1,6 @@
+Customer ID: 346
+Name: Joseph Holland
+National ID: 899-35-9208
+Bank: Reed, Levine and Perry Bank
+Account Number: 3183749509
+Consent Status: Granted

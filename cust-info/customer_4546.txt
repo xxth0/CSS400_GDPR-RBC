@@ -1,0 +1,6 @@
+Customer ID: 4546
+Name: Juan Owens
+National ID: 156-91-2439
+Bank: Stark-Fisher Bank
+Account Number: 7984870155
+Consent Status: Revoked

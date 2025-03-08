@@ -1,0 +1,6 @@
+Customer ID: 5503
+Name: Jason Winters
+National ID: 526-29-9425
+Bank: Davis-Walters Bank
+Account Number: 2470609024
+Consent Status: Granted

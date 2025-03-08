@@ -1,0 +1,6 @@
+Customer ID: 5505
+Name: Erik Howell
+National ID: 503-71-4736
+Bank: Weber, Robertson and Hogan Bank
+Account Number: 9282619397
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9208
+Name: Linda Estrada
+National ID: 614-05-3201
+Bank: Padilla-Richardson Bank
+Account Number: 1537982026
+Consent Status: Granted

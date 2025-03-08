@@ -1,0 +1,6 @@
+Customer ID: 3834
+Name: Mary Martinez
+National ID: 482-87-3306
+Bank: Cook and Sons Bank
+Account Number: 5149482679
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 5651
+Name: Daniel Anderson
+National ID: 817-69-8701
+Bank: Burch-Mendoza Bank
+Account Number: 9367655907
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 8255
+Name: Dawn Blankenship
+National ID: 233-32-9111
+Bank: Jones-Jackson Bank
+Account Number: 5609110907
+Consent Status: Revoked

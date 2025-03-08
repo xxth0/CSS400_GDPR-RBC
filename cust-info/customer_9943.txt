@@ -1,0 +1,6 @@
+Customer ID: 9943
+Name: Tammy Lowe
+National ID: 750-37-8877
+Bank: Schultz-Pope Bank
+Account Number: 2688090774
+Consent Status: Revoked

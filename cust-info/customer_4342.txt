@@ -1,0 +1,6 @@
+Customer ID: 4342
+Name: Chad Harris
+National ID: 297-69-6189
+Bank: Martin Ltd Bank
+Account Number: 6010078527
+Consent Status: Revoked

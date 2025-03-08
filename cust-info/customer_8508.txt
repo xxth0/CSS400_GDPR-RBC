@@ -1,0 +1,6 @@
+Customer ID: 8508
+Name: Jack Colon
+National ID: 169-70-7527
+Bank: Nguyen-Johnson Bank
+Account Number: 4994147419
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 3332
+Name: Brian Lara
+National ID: 058-32-5371
+Bank: Yates, Cunningham and Murray Bank
+Account Number: 1466249425
+Consent Status: Granted

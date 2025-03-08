@@ -1,0 +1,6 @@
+Customer ID: 3031
+Name: Michael Mata
+National ID: 777-75-0857
+Bank: Smith PLC Bank
+Account Number: 9384889109
+Consent Status: Granted

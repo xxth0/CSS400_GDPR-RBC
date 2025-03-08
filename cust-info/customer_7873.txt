@@ -1,0 +1,6 @@
+Customer ID: 7873
+Name: Amanda Wang
+National ID: 386-04-5782
+Bank: Cruz-Martinez Bank
+Account Number: 6598745708
+Consent Status: Revoked

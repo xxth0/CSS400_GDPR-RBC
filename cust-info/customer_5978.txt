@@ -1,0 +1,6 @@
+Customer ID: 5978
+Name: Randy Day
+National ID: 527-42-9816
+Bank: Henry-Allen Bank
+Account Number: 4124617687
+Consent Status: Granted

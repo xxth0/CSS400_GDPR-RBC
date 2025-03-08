@@ -1,0 +1,6 @@
+Customer ID: 7682
+Name: Todd Berger
+National ID: 829-90-6237
+Bank: Whitaker, Li and Glenn Bank
+Account Number: 2177253243
+Consent Status: Granted

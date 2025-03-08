@@ -1,0 +1,6 @@
+Customer ID: 508
+Name: Aaron Harrington
+National ID: 442-10-7503
+Bank: Mason and Sons Bank
+Account Number: 3206426873
+Consent Status: Revoked

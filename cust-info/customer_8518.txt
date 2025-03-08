@@ -1,0 +1,6 @@
+Customer ID: 8518
+Name: Robert Williams
+National ID: 104-87-8433
+Bank: Thompson, Rodriguez and Wilson Bank
+Account Number: 4772810345
+Consent Status: Revoked

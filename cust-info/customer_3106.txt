@@ -1,0 +1,6 @@
+Customer ID: 3106
+Name: Marcus Arellano
+National ID: 850-59-9599
+Bank: Benson-Murphy Bank
+Account Number: 3675422281
+Consent Status: Revoked

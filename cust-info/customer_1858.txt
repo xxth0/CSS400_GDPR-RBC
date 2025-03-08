@@ -1,0 +1,6 @@
+Customer ID: 1858
+Name: James Lara
+National ID: 483-55-6634
+Bank: Stanley and Sons Bank
+Account Number: 4377494431
+Consent Status: Revoked

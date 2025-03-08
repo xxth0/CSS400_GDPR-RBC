@@ -1,0 +1,6 @@
+Customer ID: 1210
+Name: Mary Wheeler
+National ID: 759-41-0562
+Bank: Brown, Jones and Kennedy Bank
+Account Number: 5319962041
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 1730
+Name: Nicole Robinson
+National ID: 662-65-8397
+Bank: Buckley, Boyd and Thomas Bank
+Account Number: 6965494778
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 7630
+Name: Amanda Reid
+National ID: 328-42-3980
+Bank: Shepherd-Shaw Bank
+Account Number: 4401833691
+Consent Status: Granted

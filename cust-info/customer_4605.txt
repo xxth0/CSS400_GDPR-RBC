@@ -1,0 +1,6 @@
+Customer ID: 4605
+Name: Laura Carter
+National ID: 712-74-9508
+Bank: Lloyd LLC Bank
+Account Number: 8949102617
+Consent Status: Revoked

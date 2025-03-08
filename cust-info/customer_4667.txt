@@ -1,0 +1,6 @@
+Customer ID: 4667
+Name: Brandon Cruz
+National ID: 884-13-3564
+Bank: Richmond PLC Bank
+Account Number: 6382866338
+Consent Status: Granted

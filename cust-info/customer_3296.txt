@@ -1,0 +1,6 @@
+Customer ID: 3296
+Name: John Meyer
+National ID: 795-33-6541
+Bank: Young-Smith Bank
+Account Number: 4969439839
+Consent Status: Revoked

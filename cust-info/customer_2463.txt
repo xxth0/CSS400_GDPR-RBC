@@ -1,0 +1,6 @@
+Customer ID: 2463
+Name: James Hunter
+National ID: 427-59-6080
+Bank: Page Group Bank
+Account Number: 8224208948
+Consent Status: Granted

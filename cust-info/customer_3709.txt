@@ -1,0 +1,6 @@
+Customer ID: 3709
+Name: Nancy Small
+National ID: 647-34-8739
+Bank: West and Sons Bank
+Account Number: 3646208959
+Consent Status: Revoked

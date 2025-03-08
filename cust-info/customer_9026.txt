@@ -1,0 +1,6 @@
+Customer ID: 9026
+Name: Thomas Young
+National ID: 785-54-8860
+Bank: Robinson, Hamilton and Walters Bank
+Account Number: 1073340512
+Consent Status: Granted

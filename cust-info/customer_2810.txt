@@ -1,0 +1,6 @@
+Customer ID: 2810
+Name: Jennifer Hernandez
+National ID: 305-50-6578
+Bank: Ramirez, Reynolds and Burns Bank
+Account Number: 2289785969
+Consent Status: Granted

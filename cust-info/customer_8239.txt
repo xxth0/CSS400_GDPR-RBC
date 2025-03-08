@@ -1,0 +1,6 @@
+Customer ID: 8239
+Name: Melvin White
+National ID: 066-22-7493
+Bank: Bailey Inc Bank
+Account Number: 9938839973
+Consent Status: Granted

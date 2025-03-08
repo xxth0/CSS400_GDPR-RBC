@@ -1,0 +1,6 @@
+Customer ID: 267
+Name: Daniel Williams
+National ID: 168-22-4113
+Bank: Lane, Odom and Quinn Bank
+Account Number: 3361504262
+Consent Status: Granted

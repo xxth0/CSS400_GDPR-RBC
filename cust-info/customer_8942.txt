@@ -1,0 +1,6 @@
+Customer ID: 8942
+Name: Kim Graves
+National ID: 417-47-0907
+Bank: Velasquez LLC Bank
+Account Number: 7112820752
+Consent Status: Granted

@@ -1,0 +1,6 @@
+Customer ID: 9036
+Name: Jennifer Lee
+National ID: 297-43-6002
+Bank: Brady Group Bank
+Account Number: 6792895576
+Consent Status: Granted

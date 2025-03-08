@@ -1,0 +1,6 @@
+Customer ID: 5375
+Name: Charles Lee
+National ID: 504-13-2387
+Bank: Glover, Lopez and Watkins Bank
+Account Number: 5613321873
+Consent Status: Granted

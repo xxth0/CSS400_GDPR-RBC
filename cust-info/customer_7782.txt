@@ -1,0 +1,6 @@
+Customer ID: 7782
+Name: Mark Perez
+National ID: 584-40-9791
+Bank: Taylor, Payne and Walker Bank
+Account Number: 1971558898
+Consent Status: Revoked

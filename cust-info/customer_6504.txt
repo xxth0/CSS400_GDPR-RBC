@@ -1,0 +1,6 @@
+Customer ID: 6504
+Name: Vincent Holmes
+National ID: 511-05-5438
+Bank: Franco Ltd Bank
+Account Number: 1366781210
+Consent Status: Revoked

@@ -1,0 +1,6 @@
+Customer ID: 6813
+Name: Cheryl Simmons
+National ID: 526-10-2809
+Bank: Robinson-Cunningham Bank
+Account Number: 1391309586
+Consent Status: Revoked

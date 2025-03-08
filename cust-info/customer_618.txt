@@ -1,0 +1,6 @@
+Customer ID: 618
+Name: Sarah Martin
+National ID: 838-32-6709
+Bank: Haynes, Davila and Powell Bank
+Account Number: 8561894059
+Consent Status: Granted

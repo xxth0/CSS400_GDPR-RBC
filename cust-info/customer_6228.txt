@@ -1,0 +1,6 @@
+Customer ID: 6228
+Name: Connor Barrett
+National ID: 282-79-0882
+Bank: Mcknight Ltd Bank
+Account Number: 9834982098
+Consent Status: Revoked

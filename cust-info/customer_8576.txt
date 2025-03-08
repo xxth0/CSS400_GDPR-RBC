@@ -1,0 +1,6 @@
+Customer ID: 8576
+Name: Michael Morton
+National ID: 448-90-9194
+Bank: Terry, Thomas and Douglas Bank
+Account Number: 1068983070
+Consent Status: Revoked

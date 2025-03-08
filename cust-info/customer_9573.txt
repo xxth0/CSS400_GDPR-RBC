@@ -1,0 +1,6 @@
+Customer ID: 9573
+Name: Ashley Wheeler
+National ID: 444-72-6045
+Bank: Wilson Ltd Bank
+Account Number: 7716858566
+Consent Status: Revoked

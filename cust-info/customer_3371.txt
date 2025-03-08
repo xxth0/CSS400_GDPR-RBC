@@ -1,0 +1,6 @@
+Customer ID: 3371
+Name: Joshua Williams
+National ID: 871-84-2066
+Bank: Evans Ltd Bank
+Account Number: 6541802390
+Consent Status: Revoked

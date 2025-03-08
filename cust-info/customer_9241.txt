@@ -1,0 +1,6 @@
+Customer ID: 9241
+Name: Jessica Potter
+National ID: 487-29-5795
+Bank: Walker-Morales Bank
+Account Number: 5184745063
+Consent Status: Revoked

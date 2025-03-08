@@ -1,0 +1,6 @@
+Customer ID: 3877
+Name: Mr. Hector Schneider MD
+National ID: 537-18-1579
+Bank: Brown Ltd Bank
+Account Number: 4867648098
+Consent Status: Revoked

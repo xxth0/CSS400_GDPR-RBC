@@ -1,0 +1,6 @@
+Customer ID: 4886
+Name: Susan Smith
+National ID: 408-47-0545
+Bank: Morales-Roberts Bank
+Account Number: 4182924441
+Consent Status: Granted

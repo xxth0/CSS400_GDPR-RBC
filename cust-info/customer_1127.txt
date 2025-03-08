@@ -1,0 +1,6 @@
+Customer ID: 1127
+Name: Karen Jones
+National ID: 416-05-9433
+Bank: Martinez-White Bank
+Account Number: 9136809953
+Consent Status: Revoked
