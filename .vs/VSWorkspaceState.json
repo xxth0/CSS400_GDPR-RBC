@@ -1,9 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\build",
+    "\\build\\contracts",
     "\\contracts",
     "\\cust-pdf\\experiment",
-    "\\migrations"
+    "\\exp-code",
+    "\\migrations",
+    "\\res",
+    "\\test"
   ],
+  "SelectedNode": "\\exp-code\\offchain-recompute.py",
   "PreviewInSolutionExplorer": false
 }

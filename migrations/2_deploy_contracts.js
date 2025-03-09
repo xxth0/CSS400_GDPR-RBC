@@ -1,6 +1,6 @@
-const Redact = artifacts.require("5-Redact");
+const CustomerStorageFull = artifacts.require("CustomerStorageFull");
+
 
 module.exports = function (deployer) {
-    // Deploy 5th SC: Redact
-    deployer.deploy(Redact);
+    deployer.deploy(CustomerStorageFull);
 };
