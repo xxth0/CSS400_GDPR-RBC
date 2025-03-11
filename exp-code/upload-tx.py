@@ -1,29 +1,31 @@
 ﻿from web3 import Web3
+from dotenv import load_dotenv
 import json
 import os
 import random
 
+# Load environment variables from .env
+load_dotenv()
+
+# Load sensitive data from environment variables
+ganache_url = os.getenv("GANACHE_URL")
+private_key = os.getenv("PRIVATE_KEY")
+contract_address = os.getenv("CONTRACT_ADDRESS")
+customer_files_dir = os.getenv("CUSTOMER_FILES_DIR")
+trapdoor_file = os.getenv("TRAPDOOR_FILE")
+customer_data_file = os.getenv("CUSTOMER_DATA_FILE")
+contract_json_path = os.getenv("CONTRACT_JSON_PATH")
+
 # Connect to Ganache
-ganache_url = "http://127.0.0.1:7545"
 web3 = Web3(Web3.HTTPProvider(ganache_url))
+account = web3.eth.account.from_key(private_key)
 
 # Load contract details
-contract_json_path = r"C:\Users\WINDOWS\Documents\CSS400_GDPR-RBC\build\contracts\CustomerStorageFull.json"
-
 with open(contract_json_path) as f:
     contract_json = json.load(f)
     abi = contract_json["abi"]
-    contract_address = "0x06DF2c7C90bAe86e9f4D26BA8632242f04087DbF"  # Ensure this is correct
 
 contract = web3.eth.contract(address=contract_address, abi=abi)
-
-# Get the first account from Ganache
-account = web3.eth.accounts[0]
-
-# Path to customer data files
-customer_files_dir = r"C:\Users\WINDOWS\Documents\CSS400_GDPR-RBC\cust-info"
-trapdoor_file = "trapdoor_keys.json"
-customer_data_file = "customer_data.json"
 
 # Load existing trapdoor keys if available
 if os.path.exists(trapdoor_file):
@@ -53,7 +55,7 @@ def chameleon_hash(message, trapdoor_key=None):
     return hash_value, trapdoor_key
 
 # Process customer files (only first 10 for testing)
-for i in range(1, 11):
+for i in range(1, 501):
     file_path = os.path.join(customer_files_dir, f"customer_{i}.txt")
 
     # Check if file exists before processing
@@ -106,19 +108,19 @@ for i in range(1, 11):
                 "sigFIID": trapdoor_sig_FI_ID
             }
 
-            # Fix: Add the missing argument (chameleon hash)
+            # Generate final chameleon hash
             chameleon_hash_final, trapdoor_final = chameleon_hash("final_hash_value")
             chameleon_hash_final_bytes = Web3.to_bytes(chameleon_hash_final)
 
             # Send transaction to blockchain
             tx = contract.functions.addCustomer(
-                chameleon_hash_final_bytes,  # Fixed: Add this missing argument
+                chameleon_hash_final_bytes,
                 enc_nat_id,
                 enc_consent,
                 enc_CID,
                 enc_h_FI_ID,
                 enc_sig_FI_ID
-            ).transact({"from": account})
+            ).transact({"from": account.address})
 
             # Wait for confirmation
             receipt = web3.eth.wait_for_transaction_receipt(tx)

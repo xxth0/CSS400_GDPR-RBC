@@ -4,12 +4,11 @@
     "\\build",
     "\\build\\contracts",
     "\\contracts",
-    "\\cust-pdf\\experiment",
     "\\exp-code",
+    "\\exp-code\\chameleon-ex",
     "\\migrations",
     "\\res",
     "\\test"
   ],
-  "SelectedNode": "\\exp-code\\offchain-recompute.py",
   "PreviewInSolutionExplorer": false
 }

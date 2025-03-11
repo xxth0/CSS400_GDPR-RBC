@@ -12,12 +12,12 @@ contract_json_path = r"C:\Users\WINDOWS\Documents\CSS400_GDPR-RBC\build\contract
 with open(contract_json_path) as f:
     contract_json = json.load(f)
     abi = contract_json["abi"]
-    contract_address = "0x06DF2c7C90bAe86e9f4D26BA8632242f04087DbF"  # Ensure this is correct
+    contract_address = "0xFfBDD4dCBEAdc64A7f749C52352CE4A7CEB40dF9"  # Ensure this is correct
 
 contract = web3.eth.contract(address=contract_address, abi=abi)
 
 # Fetch customer details (Modify customer index as needed)
-customer_index = 5  # Change this index to retrieve other customers
+customer_index = 55  # Change this index to retrieve other customers
 
 try:
     customer_data = contract.functions.getCustomer(customer_index).call()
