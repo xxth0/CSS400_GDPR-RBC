@@ -4,11 +4,12 @@
     "\\build",
     "\\build\\contracts",
     "\\contracts",
-    "\\exp-code",
+    "\\cust-pdf\\experiment",
     "\\exp-code\\chameleon-ex",
-    "\\migrations",
-    "\\res",
-    "\\test"
+    "\\exp-code\\proof-ex",
+    "\\exp-code\\proofver-ex",
+    "\\liboqs"
   ],
+  "SelectedNode": "\\liboqs",
   "PreviewInSolutionExplorer": false
 }

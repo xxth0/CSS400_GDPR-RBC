@@ -2,18 +2,24 @@ import time
 import json
 import os
 from web3 import Web3
+from dotenv import load_dotenv
 from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
+from charm.toolbox.pairinggroup import PairingGroup, GT
+from charm.schemes.abenc.abenc_cpabe import CPabe
 
-# Blockchain connection details
-ganache_url = "http://127.0.0.1:7545"
-private_key = "0x37a47e900a171b86983dcf1f15fbbbf580fed1776a97297cefff6cd8ddccade1"
+# Load environment variables from .env file
+load_dotenv()
+
+# Blockchain configuration from .env
+ganache_url = os.getenv("GANACHE_URL")
+private_key = os.getenv("PRIVATE_KEY")
+contract_address = os.getenv("CONTRACT_ADDRESS")
+contract_json_path = os.getenv("CONTRACT_JSON_PATH")
 
 # Load contract details
-contract_json_path = r"C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\build\\contracts\\CustomerStorageFull.json"
 with open(contract_json_path) as f:
     contract_json = json.load(f)
     abi = contract_json["abi"]
-    contract_address = "0x25B08c964D49F759704F6d312e4657707B03eb77"
 
 # Connect to Ganache
 web3 = Web3(Web3.HTTPProvider(ganache_url))
@@ -21,6 +27,19 @@ account = web3.eth.account.from_key(private_key)
 
 # Connect to the contract
 contract = web3.eth.contract(address=contract_address, abi=abi)
+
+# Initialize CP-ABE
+group = PairingGroup('SS512')
+cpabe = CPabe(group)
+master_public_key, master_secret_key = cpabe.setup()
+
+# CP-ABE Key Generation for specific attributes
+def generate_user_key(attributes):
+    return cpabe.keygen(master_public_key, master_secret_key, attributes)
+
+# CP-ABE Encryption of AES key with policy
+def encrypt_key(aes_key, policy):
+    return cpabe.encrypt(master_public_key, aes_key, policy)
 
 # AES Encryption Functions
 def generate_key():
@@ -35,13 +54,19 @@ def encrypt_data(key, plaintext):
     return iv + ciphertext
 
 # Redact customers and calculate total time
-def redact_customers_batch(start_id, end_id, original_data, redacted_data):
+def redact_customers_batch(start_id, end_id, original_data, redacted_data, policy):
     total_start = time.perf_counter()
 
     for customer_id in range(start_id, end_id + 1):
-        key = generate_key()
-        encrypted_original = encrypt_data(key, original_data)
-        encrypted_redacted = encrypt_data(key, redacted_data)
+        # Generate AES Key
+        aes_key = generate_key()
+
+        # Encrypt Data with AES
+        encrypted_original = encrypt_data(aes_key, original_data)
+        encrypted_redacted = encrypt_data(aes_key, redacted_data)
+
+        # Encrypt AES Key using CP-ABE
+        encrypted_aes_key = encrypt_key(aes_key, policy)
 
         # Blockchain transaction (using encrypted redacted data)
         tx = contract.functions.redactCustomer(customer_id).transact({
@@ -60,5 +85,8 @@ def redact_customers_batch(start_id, end_id, original_data, redacted_data):
 original_data = "Original Sensitive Data ABE"
 redacted_data = "REDACTED ABE"
 
-# Perform batch redaction from customer ID 71 to 80
-redact_customers_batch(301, 400, original_data, redacted_data)
+# Define the access policy (example)
+access_policy = '((role:manager AND department:finance) OR role:admin)'
+
+# Perform batch redaction from customer ID 3001 to 4000
+redact_customers_batch(3001, 4000, original_data, redacted_data, access_policy)

@@ -3,12 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\cha21.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exp-code\\chameleon-ex\\cha21.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\proofver-ex\\ver-us.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exp-code\\proofver-ex\\ver-us.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\cha14.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exp-code\\chameleon-ex\\cha14.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\proofver-ex\\ver13.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exp-code\\proofver-ex\\ver13.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\proofver-ex\\ver6.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exp-code\\proofver-ex\\ver6.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\proofver-ex\\ver2.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exp-code\\proofver-ex\\ver2.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\proof-ex\\proof-us.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exp-code\\proof-ex\\proof-us.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\proof-ex\\proof13.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exp-code\\proof-ex\\proof13.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\proof-ex\\proof6.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exp-code\\proof-ex\\proof6.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\proof-ex\\proof2.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exp-code\\proof-ex\\proof2.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\contracts\\Proof.sol||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contracts\\Proof.sol||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\upload-tx.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exp-code\\upload-tx.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\proof-ex\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exp-code\\proof-ex\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exp-code\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exp-code\\chameleon-ex\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\truffle-config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:truffle-config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\migrations\\2_deploy_contracts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:migrations\\2_deploy_contracts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\contracts\\Off-chain.sol||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contracts\\Off-chain.sol||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\enc.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exp-code\\enc.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\trapdoor_keys.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exp-code\\trapdoor_keys.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\cha21.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exp-code\\chameleon-ex\\cha21.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\cha13.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -19,12 +87,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exp-code\\chameleon-ex\\cha-us.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\upload-tx.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exp-code\\upload-tx.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\cust-pdf\\experiment\\exp.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cust-pdf\\experiment\\exp.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exp-code\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\cha14.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exp-code\\chameleon-ex\\cha14.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\cha.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -37,10 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exp-code\\chameleon.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\enc.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exp-code\\enc.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\retrieve-tx.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -59,20 +123,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contracts\\On-chain.sol||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\migrations\\2_deploy_contracts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:migrations\\2_deploy_contracts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\contracts\\Off-chain.sol||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contracts\\Off-chain.sol||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\encryption_key.key||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exp-code\\encryption_key.key||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\truffle-config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:truffle-config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\cust-info\\customer_7.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -81,10 +133,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\cust-info\\customer_1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cust-info\\customer_1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\cust-pdf\\experiment\\exp.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cust-pdf\\experiment\\exp.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\cust-pdf\\experiment\\gen-pdf.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -119,97 +167,279 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "cha21.py",
-              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\cha21.py",
-              "RelativeDocumentMoniker": "exp-code\\chameleon-ex\\cha21.py",
-              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\cha21.py",
-              "RelativeToolTip": "exp-code\\chameleon-ex\\cha21.py",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAD8AAAAdAAAA",
+              "Title": "ver-us.py",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\proofver-ex\\ver-us.py",
+              "RelativeDocumentMoniker": "exp-code\\proofver-ex\\ver-us.py",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\proofver-ex\\ver-us.py",
+              "RelativeToolTip": "exp-code\\proofver-ex\\ver-us.py",
+              "ViewState": "AQIAADEAAAAAAAAAAAAqwEMAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-03-11T14:50:31.406Z",
+              "WhenOpened": "2025-03-12T16:59:30.934Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "cha14.py",
-              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\cha14.py",
-              "RelativeDocumentMoniker": "exp-code\\chameleon-ex\\cha14.py",
-              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\cha14.py",
-              "RelativeToolTip": "exp-code\\chameleon-ex\\cha14.py",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAADsAAAAeAAAA",
+              "Title": "ver13.py",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\proofver-ex\\ver13.py",
+              "RelativeDocumentMoniker": "exp-code\\proofver-ex\\ver13.py",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\proofver-ex\\ver13.py",
+              "RelativeToolTip": "exp-code\\proofver-ex\\ver13.py",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-03-11T14:40:33.943Z",
+              "WhenOpened": "2025-03-12T16:59:13.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "cha13.py",
-              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\cha13.py",
-              "RelativeDocumentMoniker": "exp-code\\chameleon-ex\\cha13.py",
-              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\cha13.py",
-              "RelativeToolTip": "exp-code\\chameleon-ex\\cha13.py",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAADwAAAAdAAAA",
+              "Title": "ver6.py",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\proofver-ex\\ver6.py",
+              "RelativeDocumentMoniker": "exp-code\\proofver-ex\\ver6.py",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\proofver-ex\\ver6.py",
+              "RelativeToolTip": "exp-code\\proofver-ex\\ver6.py",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAD4AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-03-11T14:28:05.072Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "cha.py",
-              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\cha.py",
-              "RelativeDocumentMoniker": "exp-code\\chameleon-ex\\cha.py",
-              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\cha.py",
-              "RelativeToolTip": "exp-code\\chameleon-ex\\cha.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-03-11T14:28:04.567Z",
+              "WhenOpened": "2025-03-12T16:58:15.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "cha-us.py",
-              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\cha-us.py",
-              "RelativeDocumentMoniker": "exp-code\\chameleon-ex\\cha-us.py",
-              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\cha-us.py",
-              "RelativeToolTip": "exp-code\\chameleon-ex\\cha-us.py",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAEAAAAAXAAAA",
+              "Title": "ver2.py",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\proofver-ex\\ver2.py",
+              "RelativeDocumentMoniker": "exp-code\\proofver-ex\\ver2.py",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\proofver-ex\\ver2.py",
+              "RelativeToolTip": "exp-code\\proofver-ex\\ver2.py",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-03-11T14:24:31.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "blockchain_redaction_benchmark.py",
-              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\blockchain_redaction_benchmark.py",
-              "RelativeDocumentMoniker": "exp-code\\blockchain_redaction_benchmark.py",
-              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\blockchain_redaction_benchmark.py",
-              "RelativeToolTip": "exp-code\\blockchain_redaction_benchmark.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-03-11T14:09:14.11Z",
+              "WhenOpened": "2025-03-12T16:54:06.612Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "proof-us.py",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\proof-ex\\proof-us.py",
+              "RelativeDocumentMoniker": "exp-code\\proof-ex\\proof-us.py",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\proof-ex\\proof-us.py",
+              "RelativeToolTip": "exp-code\\proof-ex\\proof-us.py",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAqwFYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-12T16:30:21.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "proof6.py",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\proof-ex\\proof6.py",
+              "RelativeDocumentMoniker": "exp-code\\proof-ex\\proof6.py",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\proof-ex\\proof6.py",
+              "RelativeToolTip": "exp-code\\proof-ex\\proof6.py",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-12T16:28:12.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "proof2.py",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\proof-ex\\proof2.py",
+              "RelativeDocumentMoniker": "exp-code\\proof-ex\\proof2.py",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\proof-ex\\proof2.py",
+              "RelativeToolTip": "exp-code\\proof-ex\\proof2.py",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAqwFcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-12T16:23:41.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\proof-ex\\.env",
+              "RelativeDocumentMoniker": "exp-code\\proof-ex\\.env",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\proof-ex\\.env",
+              "RelativeToolTip": "exp-code\\proof-ex\\.env",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-12T16:13:42.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "proof13.py",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\proof-ex\\proof13.py",
+              "RelativeDocumentMoniker": "exp-code\\proof-ex\\proof13.py",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\proof-ex\\proof13.py",
+              "RelativeToolTip": "exp-code\\proof-ex\\proof13.py",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAqwE4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-12T16:11:34.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Proof.sol",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\contracts\\Proof.sol",
+              "RelativeDocumentMoniker": "contracts\\Proof.sol",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\contracts\\Proof.sol",
+              "RelativeToolTip": "contracts\\Proof.sol",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-12T16:11:12.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "2_deploy_contracts.js",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\migrations\\2_deploy_contracts.js",
+              "RelativeDocumentMoniker": "migrations\\2_deploy_contracts.js",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\migrations\\2_deploy_contracts.js",
+              "RelativeToolTip": "migrations\\2_deploy_contracts.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-08T08:59:10.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Off-chain.sol",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\contracts\\Off-chain.sol",
+              "RelativeDocumentMoniker": "contracts\\Off-chain.sol",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\contracts\\Off-chain.sol",
+              "RelativeToolTip": "contracts\\Off-chain.sol",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-09T13:53:48.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "truffle-config.js",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\truffle-config.js",
+              "RelativeDocumentMoniker": "truffle-config.js",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\truffle-config.js",
+              "RelativeToolTip": "truffle-config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-08T08:41:20.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\.env",
+              "RelativeDocumentMoniker": "exp-code\\.env",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\.env",
+              "RelativeToolTip": "exp-code\\.env",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAEAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-11T14:12:06.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\.env",
+              "RelativeDocumentMoniker": "exp-code\\chameleon-ex\\.env",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\.env",
+              "RelativeToolTip": "exp-code\\chameleon-ex\\.env",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-11T15:36:12.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "upload-tx.py",
               "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\upload-tx.py",
               "RelativeDocumentMoniker": "exp-code\\upload-tx.py",
               "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\upload-tx.py",
               "RelativeToolTip": "exp-code\\upload-tx.py",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADkAAAAVAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADkAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-03-09T12:38:45.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
+              "Title": "trapdoor_keys.json",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\trapdoor_keys.json",
+              "RelativeDocumentMoniker": "exp-code\\trapdoor_keys.json",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\trapdoor_keys.json",
+              "RelativeToolTip": "exp-code\\trapdoor_keys.json",
+              "ViewState": "AQIAAHJjAQAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T16:01:05.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "cha21.py",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\cha21.py",
+              "RelativeDocumentMoniker": "exp-code\\chameleon-ex\\cha21.py",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\cha21.py",
+              "RelativeToolTip": "exp-code\\chameleon-ex\\cha21.py",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAqwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-11T14:50:31.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "cha13.py",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\cha13.py",
+              "RelativeDocumentMoniker": "exp-code\\chameleon-ex\\cha13.py",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\cha13.py",
+              "RelativeToolTip": "exp-code\\chameleon-ex\\cha13.py",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAqwEEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-11T14:28:05.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "cha-us.py",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\cha-us.py",
+              "RelativeDocumentMoniker": "exp-code\\chameleon-ex\\cha-us.py",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\cha-us.py",
+              "RelativeToolTip": "exp-code\\chameleon-ex\\cha-us.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-11T14:24:31.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "cha14.py",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\cha14.py",
+              "RelativeDocumentMoniker": "exp-code\\chameleon-ex\\cha14.py",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\cha14.py",
+              "RelativeToolTip": "exp-code\\chameleon-ex\\cha14.py",
+              "ViewState": "AQIAADYAAAAAAAAAAAAqwEAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-11T14:40:33.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "chameleon.py",
               "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon.py",
               "RelativeDocumentMoniker": "exp-code\\chameleon.py",
@@ -222,33 +452,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "enc.py",
               "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\enc.py",
               "RelativeDocumentMoniker": "exp-code\\enc.py",
               "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\enc.py",
               "RelativeToolTip": "exp-code\\enc.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-03-09T13:07:13.594Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": ".env",
-              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\.env",
-              "RelativeDocumentMoniker": "exp-code\\.env",
-              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\.env",
-              "RelativeToolTip": "exp-code\\.env",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-11T14:12:06.513Z",
+              "DocumentIndex": 21,
+              "Title": "exp.py",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\cust-pdf\\experiment\\exp.py",
+              "RelativeDocumentMoniker": "cust-pdf\\experiment\\exp.py",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\cust-pdf\\experiment\\exp.py",
+              "RelativeToolTip": "cust-pdf\\experiment\\exp.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-08T13:08:38.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 24,
+              "Title": "blockchain_redaction_benchmark.py",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\blockchain_redaction_benchmark.py",
+              "RelativeDocumentMoniker": "exp-code\\blockchain_redaction_benchmark.py",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\blockchain_redaction_benchmark.py",
+              "RelativeToolTip": "exp-code\\blockchain_redaction_benchmark.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-11T14:09:14.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "cha.py",
+              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\cha.py",
+              "RelativeDocumentMoniker": "exp-code\\chameleon-ex\\cha.py",
+              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\chameleon-ex\\cha.py",
+              "RelativeToolTip": "exp-code\\chameleon-ex\\cha.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-11T14:28:04.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "retrieve-tx.py",
               "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\retrieve-tx.py",
               "RelativeDocumentMoniker": "exp-code\\retrieve-tx.py",
@@ -261,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 27,
               "Title": "offchain-recompute.py",
               "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\offchain-recompute.py",
               "RelativeDocumentMoniker": "exp-code\\offchain-recompute.py",
@@ -272,7 +528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 28,
               "Title": "AddCust.sol",
               "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\contracts\\AddCust.sol",
               "RelativeDocumentMoniker": "contracts\\AddCust.sol",
@@ -280,11 +536,12 @@
               "RelativeToolTip": "contracts\\AddCust.sol",
               "ViewState": "AQIAADEAAAAAAAAAAAAgwEsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-08T08:48:13.052Z"
+              "WhenOpened": "2025-03-08T08:48:13.052Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 29,
               "Title": "On-chain.sol",
               "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\contracts\\On-chain.sol",
               "RelativeDocumentMoniker": "contracts\\On-chain.sol",
@@ -292,35 +549,12 @@
               "RelativeToolTip": "contracts\\On-chain.sol",
               "ViewState": "AQIAAD8AAAAAAAAAAAAAAFMAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-09T13:53:29.868Z"
+              "WhenOpened": "2025-03-09T13:53:29.868Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "2_deploy_contracts.js",
-              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\migrations\\2_deploy_contracts.js",
-              "RelativeDocumentMoniker": "migrations\\2_deploy_contracts.js",
-              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\migrations\\2_deploy_contracts.js",
-              "RelativeToolTip": "migrations\\2_deploy_contracts.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-08T08:59:10.855Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Off-chain.sol",
-              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\contracts\\Off-chain.sol",
-              "RelativeDocumentMoniker": "contracts\\Off-chain.sol",
-              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\contracts\\Off-chain.sol",
-              "RelativeToolTip": "contracts\\Off-chain.sol",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-09T13:53:48.117Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 30,
               "Title": "encryption_key.key",
               "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\exp-code\\encryption_key.key",
               "RelativeDocumentMoniker": "exp-code\\encryption_key.key",
@@ -328,23 +562,12 @@
               "RelativeToolTip": "exp-code\\encryption_key.key",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-09T13:34:51.701Z"
+              "WhenOpened": "2025-03-09T13:34:51.701Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "truffle-config.js",
-              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\truffle-config.js",
-              "RelativeDocumentMoniker": "truffle-config.js",
-              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\truffle-config.js",
-              "RelativeToolTip": "truffle-config.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-08T08:41:20.378Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 31,
               "Title": "customer_7.txt",
               "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\cust-info\\customer_7.txt",
               "RelativeDocumentMoniker": "cust-info\\customer_7.txt",
@@ -352,11 +575,12 @@
               "RelativeToolTip": "cust-info\\customer_7.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-09T13:37:13.567Z"
+              "WhenOpened": "2025-03-09T13:37:13.567Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 32,
               "Title": "customer_1.txt",
               "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\cust-info\\customer_1.txt",
               "RelativeDocumentMoniker": "cust-info\\customer_1.txt",
@@ -364,23 +588,12 @@
               "RelativeToolTip": "cust-info\\customer_1.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-09T12:59:16.731Z"
+              "WhenOpened": "2025-03-09T12:59:16.731Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "exp.py",
-              "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\cust-pdf\\experiment\\exp.py",
-              "RelativeDocumentMoniker": "cust-pdf\\experiment\\exp.py",
-              "ToolTip": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\cust-pdf\\experiment\\exp.py",
-              "RelativeToolTip": "cust-pdf\\experiment\\exp.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-03-08T13:08:38.743Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 35,
               "Title": "enc.py",
               "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\code\\enc.py",
               "RelativeDocumentMoniker": "code\\enc.py",
@@ -391,7 +604,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 34,
               "Title": "temp.py",
               "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\cust-pdf\\experiment\\temp.py",
               "RelativeDocumentMoniker": "cust-pdf\\experiment\\temp.py",
@@ -402,7 +615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 33,
               "Title": "gen-pdf.py",
               "DocumentMoniker": "C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\cust-pdf\\experiment\\gen-pdf.py",
               "RelativeDocumentMoniker": "cust-pdf\\experiment\\gen-pdf.py",
@@ -410,7 +623,8 @@
               "RelativeToolTip": "cust-pdf\\experiment\\gen-pdf.py",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-03-08T13:39:56.226Z"
+              "WhenOpened": "2025-03-08T13:39:56.226Z",
+              "EditorCaption": ""
             }
           ]
         }

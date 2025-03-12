@@ -3,17 +3,22 @@ import json
 from cryptography.hazmat.primitives.asymmetric import ec
 from cryptography.hazmat.primitives import hashes
 from web3 import Web3
+from dotenv import load_dotenv
+import os
 
-# Blockchain connection details
-ganache_url = "http://127.0.0.1:7545"
-private_key = "0x37a47e900a171b86983dcf1f15fbbbf580fed1776a97297cefff6cd8ddccade1"
+# Load environment variables from .env file
+load_dotenv()
+
+# Blockchain configuration from .env
+ganache_url = os.getenv("GANACHE_URL")
+private_key = os.getenv("PRIVATE_KEY")
+contract_address = os.getenv("CONTRACT_ADDRESS")
+contract_json_path = os.getenv("CONTRACT_JSON_PATH")
 
 # Load contract details
-contract_json_path = r"C:\\Users\\WINDOWS\\Documents\\CSS400_GDPR-RBC\\build\\contracts\\CustomerStorageFull.json"
 with open(contract_json_path) as f:
     contract_json = json.load(f)
     abi = contract_json["abi"]
-    contract_address = "0x25B08c964D49F759704F6d312e4657707B03eb77"
 
 # Connect to Ganache
 web3 = Web3(Web3.HTTPProvider(ganache_url))
@@ -57,5 +62,5 @@ def redact_customers_batch(start_id, end_id, original_data, redacted_data):
 original_data = "Original Sensitive Data ECC"
 redacted_data = "REDACTED ECC"
 
-# Perform batch redaction from customer ID 31 to 40
-redact_customers_batch(101, 200, original_data, redacted_data)
+# Perform batch redaction from customer ID 101 to 200
+redact_customers_batch(1001, 2000, original_data, redacted_data)

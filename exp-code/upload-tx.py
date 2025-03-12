@@ -55,7 +55,7 @@ def chameleon_hash(message, trapdoor_key=None):
     return hash_value, trapdoor_key
 
 # Process customer files (only first 10 for testing)
-for i in range(1, 501):
+for i in range(1, 5001):
     file_path = os.path.join(customer_files_dir, f"customer_{i}.txt")
 
     # Check if file exists before processing
